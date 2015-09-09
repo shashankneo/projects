@@ -1,0 +1,472 @@
+#include <sys/sbunix.h>
+#include <sys/kstring.h>
+#include <sys/pagetable.h>
+#include <sys/process_mem_layout.h>
+#include <sys/tarfs.h>
+#include <sys/syscall.h>
+#include <sys/kmalloc.h>
+Tree* root = NULL;
+char testPath[FILEPATH_LEN]="/";
+
+/*
+Let the path be /in/abc/zyf
+And we /abc/zyf then this would set abc in name
+and returns the offset by which the current full path is
+to be moved forward
+*/
+int findNextNameinPath(char* path,char* name)
+{
+    int i = 0;
+    while(*(path+i)!='\0' && *(path+i)!='/')
+    {
+        *(name+i) = *(path+i);
+        i++;
+    }
+    *(name+i)='\0';
+    return i;
+}
+
+Tree* createNode(char* name)
+{
+    Tree* newNode;
+    newNode =(Tree*)kmalloc(sizeof(Tree));
+    if(newNode == NULL)
+        return NULL;
+    strncpy(newNode->name, name, strlen(name));
+    newNode->child = NULL;
+    newNode->sibling = NULL;
+    return newNode;
+}
+//Find the next child Node by name
+Tree* findChildNodebyName(Tree* currNode, char* name)
+{
+    Tree *nextNode;
+    if(currNode->child == NULL)
+    {
+        return NULL;
+    }
+    nextNode = currNode->child;
+    while(nextNode)
+    {
+        if(strcmp(nextNode->name, name)==0)
+        {
+            //Match found, return current node as next in path
+            return nextNode;
+        }
+        nextNode = nextNode-> sibling;    
+    }
+    if(nextNode==NULL)
+    {
+       //current path not found
+       return NULL;
+    }
+    return nextNode;
+}
+
+void populateFileSystem()
+{
+    char name[FILEPATH_LEN];
+    //This tells how much we have to move relative to the start of path
+    int move_index;
+    
+   
+    Tree* currentNode, *childNode, *nextNode, *newNode;
+       
+    //Initialize the read only file system root node
+    root = createNode("/");
+    if( root == NULL)
+    {
+        printf(" Cannot allocate memory for tarfs files \n");
+        return;
+    }
+    #if 1
+    root->fileInfo = kmalloc(sizeof(struct posix_header_ustar));
+    if ( root->fileInfo == NULL )
+    {
+        printf(" Cannot allocate memory for tarfs files \n");
+        return;
+    }
+    root->fileInfo->typeflag[0] = '5'; /* Root is a directory */
+    strncpy(root->fileInfo->mode, "755", sizeof(root->fileInfo->mode));
+    #endif
+    
+    struct posix_header_ustar* startfs= &((struct posix_header_ustar*)&_binary_tarfs_start)[0];
+    uint64_t size=0;
+    //Below loops through all files present in tarfs
+    while ( startfs < (struct posix_header_ustar*)&_binary_tarfs_end)
+    {
+        //printf("File Name: %s\n", startfs->name);
+        move_index = 0;
+        currentNode = root;
+        if ( startfs->name[0] == 0 )
+               break;
+            
+        while(1)
+        {
+           
+            //move_index contains the index of char next to '/'
+            move_index = move_index + findNextNameinPath(startfs->name+move_index , name);
+            //To go to next character of '/'
+            move_index = move_index + 1;
+            if(*name=='\0')
+            {
+                //Path ended here
+                currentNode->fileInfo = startfs;
+                //Now move to map next file entry
+                break;
+            }
+            childNode = findChildNodebyName(currentNode,name);
+            //If no childnode present below the parent
+            //Then create one now
+            if( childNode == NULL)
+            {
+                newNode = createNode(name);
+                if( newNode == NULL)
+                {
+                    printf(" Cannot allocate memory for tarfs files \n");
+                    return;
+                }
+                if(currentNode->child ==NULL)
+                {
+                    currentNode->child = newNode;
+                }
+                else
+                {
+                    nextNode = currentNode->child;
+                    while(nextNode->sibling)
+                    {
+                        nextNode = nextNode->sibling;    
+                    }
+                    nextNode->sibling = newNode;
+                }
+                currentNode = newNode;
+            }
+            else
+            {
+                currentNode = childNode;
+            }
+        }
+        atoo(&size, startfs->size);
+        startfs =  (struct posix_header_ustar *)((uint64_t)startfs + ROUNDUP(size, 512, uint64_t) + sizeof(struct posix_header_ustar));
+    }
+    //root->fileInfo->typeflag[0] = '5'; /* Root is a directory */
+    //strncpy(root->fileInfo->mode, "755", sizeof(root->fileInfo->mode));
+    return;
+}
+
+void checkFileSystem(Tree* node,int len)
+{
+    if(node==NULL)
+       return;
+    int par_len = len;
+    if(strcmp(testPath,"/")!=0)
+    {
+        memcpy(testPath+len,"/",1);
+        len = len + 1;
+    }
+    memcpy(testPath+len,node->name,strlen(node->name));
+    len = len + strlen(node->name);
+    testPath[len]='\0';
+    if(node->child==NULL)
+    {
+       printf("%s \n",testPath);
+    }
+    else
+    {
+        checkFileSystem(node->child,len);
+    }
+    testPath[par_len]='\0';
+    checkFileSystem(node->sibling, par_len);
+}
+Tree* findNodeInFileSystembyPath(Tree* startNode, char* pathname)
+{
+    char name[FILEPATH_LEN];
+    int move_index = 0;
+    Tree* currentNode,*childNode;
+    currentNode = startNode;
+    while(1)
+    {
+        //To go to next character of '/' for next iteration
+        if(pathname[move_index]=='/')
+        {
+            move_index = move_index + 1;
+        }
+        move_index = move_index + findNextNameinPath( pathname+move_index , name);
+
+        //Entry found
+        if(*name=='\0')
+        {
+           return currentNode;
+        }
+        childNode = findChildNodebyName(currentNode,name);
+        //If no childnode present below the parent
+        //Then create one now
+        if( childNode == NULL)
+        {
+           return NULL;
+        }
+        currentNode = childNode;
+    }
+}
+int getDataFromFile(fileDesc* currDesc,char* buf,size_t count)
+{
+    if(!currDesc || !buf)
+    {
+        return -1;
+    }
+    uint64_t file_size=0;
+    uint64_t offset = currDesc->offset;
+    struct posix_header_ustar* fileInfo = currDesc->file->fileInfo;
+    atoo(&file_size,fileInfo->size);
+    uint64_t file_start = (uint64_t)(currDesc->buffer);
+    
+    //Offset is at the end, simply return 0 //TODO Should we return set 0x00 bytes
+    if(offset>=file_size)
+        return 0;
+    //Check for read limits
+    if( offset + count > file_size)
+    {
+        count = file_size - offset;
+    }
+    
+    memcpy(buf,(uint64_t*)(file_start + offset),count);
+    currDesc->offset = currDesc->offset + count;
+    return count;
+}
+#include <sys/sbunix.h>
+#include <sys/kstring.h>
+#include <sys/pagetable.h>
+#include <sys/process_mem_layout.h>
+#include <sys/tarfs.h>
+#include <sys/syscall.h>
+#include <sys/kmalloc.h>
+Tree* root = NULL;
+char testPath[FILEPATH_LEN]="/";
+
+/*
+Let the path be /in/abc/zyf
+And we /abc/zyf then this would set abc in name
+and returns the offset by which the current full path is
+to be moved forward
+*/
+int findNextNameinPath(char* path,char* name)
+{
+    int i = 0;
+    while(*(path+i)!='\0' && *(path+i)!='/')
+    {
+        *(name+i) = *(path+i);
+        i++;
+    }
+    *(name+i)='\0';
+    return i;
+}
+
+Tree* createNode(char* name)
+{
+    Tree* newNode;
+    newNode =(Tree*)kmalloc(sizeof(Tree));
+    if(newNode == NULL)
+        return NULL;
+    strncpy(newNode->name, name, strlen(name));
+    newNode->child = NULL;
+    newNode->sibling = NULL;
+    return newNode;
+}
+//Find the next child Node by name
+Tree* findChildNodebyName(Tree* currNode, char* name)
+{
+    Tree *nextNode;
+    if(currNode->child == NULL)
+    {
+        return NULL;
+    }
+    nextNode = currNode->child;
+    while(nextNode)
+    {
+        if(strcmp(nextNode->name, name)==0)
+        {
+            //Match found, return current node as next in path
+            return nextNode;
+        }
+        nextNode = nextNode-> sibling;    
+    }
+    if(nextNode==NULL)
+    {
+       //current path not found
+       return NULL;
+    }
+    return nextNode;
+}
+
+void populateFileSystem()
+{
+    char name[FILEPATH_LEN];
+    //This tells how much we have to move relative to the start of path
+    int move_index;
+    
+   
+    Tree* currentNode, *childNode, *nextNode, *newNode;
+       
+    //Initialize the read only file system root node
+    root = createNode("/");
+    if( root == NULL)
+    {
+        printf(" Cannot allocate memory for tarfs files \n");
+        return;
+    }
+    #if 1
+    root->fileInfo = kmalloc(sizeof(struct posix_header_ustar));
+    if ( root->fileInfo == NULL )
+    {
+        printf(" Cannot allocate memory for tarfs files \n");
+        return;
+    }
+    root->fileInfo->typeflag[0] = '5'; /* Root is a directory */
+    strncpy(root->fileInfo->mode, "755", sizeof(root->fileInfo->mode));
+    #endif
+    
+    struct posix_header_ustar* startfs= &((struct posix_header_ustar*)&_binary_tarfs_start)[0];
+    uint64_t size=0;
+    //Below loops through all files present in tarfs
+    while ( startfs < (struct posix_header_ustar*)&_binary_tarfs_end)
+    {
+        //printf("File Name: %s\n", startfs->name);
+        move_index = 0;
+        currentNode = root;
+        if ( startfs->name[0] == 0 )
+               break;
+            
+        while(1)
+        {
+           
+            //move_index contains the index of char next to '/'
+            move_index = move_index + findNextNameinPath(startfs->name+move_index , name);
+            //To go to next character of '/'
+            move_index = move_index + 1;
+            if(*name=='\0')
+            {
+                //Path ended here
+                currentNode->fileInfo = startfs;
+                //Now move to map next file entry
+                break;
+            }
+            childNode = findChildNodebyName(currentNode,name);
+            //If no childnode present below the parent
+            //Then create one now
+            if( childNode == NULL)
+            {
+                newNode = createNode(name);
+                if( newNode == NULL)
+                {
+                    printf(" Cannot allocate memory for tarfs files \n");
+                    return;
+                }
+                if(currentNode->child ==NULL)
+                {
+                    currentNode->child = newNode;
+                }
+                else
+                {
+                    nextNode = currentNode->child;
+                    while(nextNode->sibling)
+                    {
+                        nextNode = nextNode->sibling;    
+                    }
+                    nextNode->sibling = newNode;
+                }
+                currentNode = newNode;
+            }
+            else
+            {
+                currentNode = childNode;
+            }
+        }
+        atoo(&size, startfs->size);
+        startfs =  (struct posix_header_ustar *)((uint64_t)startfs + ROUNDUP(size, 512, uint64_t) + sizeof(struct posix_header_ustar));
+    }
+    //root->fileInfo->typeflag[0] = '5'; /* Root is a directory */
+    //strncpy(root->fileInfo->mode, "755", sizeof(root->fileInfo->mode));
+    return;
+}
+
+void checkFileSystem(Tree* node,int len)
+{
+    if(node==NULL)
+       return;
+    int par_len = len;
+    if(strcmp(testPath,"/")!=0)
+    {
+        memcpy(testPath+len,"/",1);
+        len = len + 1;
+    }
+    memcpy(testPath+len,node->name,strlen(node->name));
+    len = len + strlen(node->name);
+    testPath[len]='\0';
+    if(node->child==NULL)
+    {
+       printf("%s \n",testPath);
+    }
+    else
+    {
+        checkFileSystem(node->child,len);
+    }
+    testPath[par_len]='\0';
+    checkFileSystem(node->sibling, par_len);
+}
+Tree* findNodeInFileSystembyPath(Tree* startNode, char* pathname)
+{
+    char name[FILEPATH_LEN];
+    int move_index = 0;
+    Tree* currentNode,*childNode;
+    currentNode = startNode;
+    while(1)
+    {
+        //To go to next character of '/' for next iteration
+        if(pathname[move_index]=='/')
+        {
+            move_index = move_index + 1;
+        }
+        move_index = move_index + findNextNameinPath( pathname+move_index , name);
+
+        //Entry found
+        if(*name=='\0')
+        {
+           return currentNode;
+        }
+        childNode = findChildNodebyName(currentNode,name);
+        //If no childnode present below the parent
+        //Then create one now
+        if( childNode == NULL)
+        {
+           return NULL;
+        }
+        currentNode = childNode;
+    }
+}
+int getDataFromFile(fileDesc* currDesc,char* buf,size_t count)
+{
+    if(!currDesc || !buf)
+    {
+        return -1;
+    }
+    uint64_t file_size=0;
+    uint64_t offset = currDesc->offset;
+    struct posix_header_ustar* fileInfo = currDesc->file->fileInfo;
+    atoo(&file_size,fileInfo->size);
+    uint64_t file_start = (uint64_t)(currDesc->buffer);
+    
+    //Offset is at the end, simply return 0 //TODO Should we return set 0x00 bytes
+    if(offset>=file_size)
+        return 0;
+    //Check for read limits
+    if( offset + count > file_size)
+    {
+        count = file_size - offset;
+    }
+    
+    memcpy(buf,(uint64_t*)(file_start + offset),count);
+    currDesc->offset = currDesc->offset + count;
+    return count;
+}
+end
+

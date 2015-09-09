@@ -1,0 +1,1202 @@
+<!doctype html>
+<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
+<!--[if lt IE 7 ]><html class="no-js ie6" lang="en"><![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7" lang="en"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html  class="no-js" lang="en"><!--<![endif]-->
+<head>
+    
+
+  <script type="text/javascript">var _dc_ts = _sf_startpt = (new Date()).getTime();</script>
+
+    
+
+  <title itemprop="name">Joe Biden Rumored To Be Eyeing Presidential Run</title>
+
+  
+
+  <!-- Meta -->
+  
+   <meta name="viewport"                 content="width=1300">
+<meta http-equiv="X-UA-Compatible"    content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYFV15ACwAHUFhbDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta name="description"              content="Vice President Joe Biden is rumored to be exploring a 2016 presidential campaign." itemprop="description">
+<meta name="keywords"                 content="" itemprop="keywords">
+
+  <!-- Facebook Meta -->
+  <meta property="og:url"             content="http://social.refinery29.com/2015/08/91692/joe-biden-presidential-campaign" itemprop="url" />
+  <meta property="og:type"            content="article"/>
+  <meta property="og:title"           content="Vice President Joe Biden May Be Seeking A Major Job Promotion" itemprop="name" />
+  <meta property="og:description"     content="Vice President Joe Biden may be angling for a job promotion, according to The New York Times. He hasn&#039;t formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it" />
+  <meta property="og:site_name"       content="Refinery29" itemprop="publisher" />
+  <meta property="og:image"           content="http://s3.r29static.com//bin/public/3e9/x,80/1454488/image.jpg" itemprop="image" />
+
+  <!-- Twitter summary Card -->
+  <meta name="twitter:card"           content ="summary_large_image">
+  <meta name="twitter:title"          content="Vice President Joe Biden May Be Seeking A Major Job Promotion">
+  <meta name="twitter:url"            content="http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign">
+  <meta name="twitter:description"    content="Vice President Joe Biden may be angling for a job promotion, according to The New York Times. He hasn&#039;t formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it">
+  <meta name="twitter:image:src"      content="http://s1.r29static.com//bin/entry/587/300x,80/1454490/biden-460x552.jpg">
+  <meta name="twitter:image:width"    content="300">
+  
+  
+
+
+<meta name="sailthru.tags"            content="" />
+<meta name="sailthru.title"           content="Vice President Joe Biden May Be Seeking A Major Job Promotion" />
+<meta name="sailthru.date"            content="2015-08-01 16:16:00" />
+<meta name="sailthru.author"          content="Cristen Conger" />
+
+
+
+  <meta name="news_keywords"          content="joe biden, beau biden, joe biden presidential campaign, joe biden hillary clinton, joe biden president, hunter biden, joe biden 2016">
+
+
+<link rel="canonical" href="http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign" />
+
+
+
+
+
+  <meta property="fb:app_id" content="155023867867753"/>
+  <meta property="article:publisher" content="https://www.facebook.com/refinery29" />
+  <meta name="twitter:site"  content="@refinery29"/>
+  <link href="https://plus.google.com/101601649207969071719" rel="publisher" />
+
+  <meta name="application-name" content="Refinery29"/>
+  <meta name="msapplication-TileColor" content="#ffffff"/>
+  <meta name="msapplication-TileImage" content="http://s1.r29static.com/blog/4e09b7/images/misc/r29_circle_144.png"/>
+
+  
+<link rel="stylesheet" href="http://s3.r29static.com/blog/4e09b7/assets/css/scrollable-article.css">
+
+
+  <!--Rich Pins on pinterest-->
+  <link rel="rich-pin-icon" href="http://s2.r29static.com/blog/4e09b7/assets/images/retina_favicon_144.ico">
+  <!--head JS-->
+
+  <script src="http://s3.r29static.com/blog/4e09b7/assets/js/lib/modernizr.js"></script>
+
+  
+
+  <!--[if lte IE 8]>
+  <script src="http://s2.r29static.com/blog/4e09b7/assets/js/lib/respond.js"></script>
+  <script type="text/javascript">
+    var ie8browser = true;
+  </script>
+  <![endif]-->
+
+  <!--[if lte IE 7]>
+  <script src="http://s2.r29static.com/blog/4e09b7/assets/js/lib/lte-ie7.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript">
+  // a few settings that tell us what we're working with
+  if( typeof environment === 'undefined' )
+  {
+    var environment = { };
+  }
+  environment.entry_id = 91692;
+  environment.collection_id = "";
+  environment.gaTracker = 'UA-315022-1';
+  environment.categoryPath = '';
+  environment.topCategoryId = 1000 ;
+  environment.enableOptimizely = true;
+
+  environment.facebookAppID = '155023867867753';
+
+  environment.is_preview = false;
+  
+
+  environment.page_type = 'scrollable';
+
+  environment.ad_vars = {
+    category_path:        '',
+    series:               '',
+    collections:          ['election-2016','news','politics'],
+    adminid:              '91692',
+    pageid:               'joe-biden-presidential-campaign',
+    sponsor:              '',
+    disable_dcopt:        'ist',
+    pagetype:             'scrollable',
+    tags:                 '',
+    test:                 '',
+    site_name:            'r29.com',
+    is_sensitive_content: 'false'
+  }
+
+  
+
+      environment.relatedStoriesEnable = true;
+    environment.relatedStoriesWeight = 50;
+  
+
+  environment.use_maki = false;
+  
+
+</script>
+
+
+  <script type="text/javascript">
+    
+  </script>
+
+  
+    <script type="text/javascript">
+      window.entry = {"id":"91692","title":"Vice President Joe Biden May Be Seeking A Major Job Promotion","published":"1438460160","type":"SCROLLABLE","basename":"joe-biden-presidential-campaign","pages":"1","status":"PUBLISHED","body":"<!-- START ASSET --><div class=\"asset left\" style=\"width: 426px\" data-entryasset-id=\"621495\"><img src=\"\/\/s2.r29static.com\/\/bin\/entry\/00b\/x,80\/1454489\/image.jpg\" alt=\"biden-426x640\"><span class=\"asset-credit\">Photo: Isopix\/Rex\/REX USA <\/span><\/div><!-- END ASSET -->Vice President Joe Biden may be angling for a job promotion, <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html\" rel=\"nofollow\" target=\"_blank\">according to <em>The New York Times<\/em><\/a>. He hasn't formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it might seem late in the game for Biden to announce a 2016 presidential bid, he's has more pressing \u2014 and downright tragic \u2014 matters at home to attend to, mourning the recent loss of his oldest son Beau Biden who <a href=\"\/vice-president-joe-biden-son-dies-at-46\">died in June from brain cancer at age 46<\/a>. <br><br>If the rumors are true, Biden is making good on a promise. <em>Times <\/em>columnist <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Maureen Dowd reported<\/a> that a possible presidential run would fulfill a deathbed promise Biden made to Beau, along with added encouragement from his younger son Hunter. <br><br>\"[Beau] tried to make his father promise to run, arguing that the White House should not revert to the Clintons and that the country would be better off with Biden values,\" <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Dowd wrote<\/a>. <br><br>Lawyer and Biden supporter Michael Thornton also corroborated Beau's posthumous impact on the Vice President possibly vying for the Democratic presidential nomination. <br><br>\"He was so close to Beau and it was so heartbreaking that, frankly, I thought initially he wouldn\u2019t have the heart,\u201d Thornton <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html?emc=edit_na_20150801&amp;nlid=55436260&amp;ref=cta\" rel=\"nofollow\" target=\"_blank\">told The New York Times<\/a><em><\/em>. \u201cBut I\u2019ve had indications that maybe he does want to \u2014 and \u2018that\u2019s what Beau would have wanted me to do.\u2019 \u201d <br><br>Of course, if Biden goes forward with a campaign, he would immediately face a familiar and well-funded White House opponent: Hillary Clinton. But Biden's deep-pocketed friends and political allies combined with Clinton's <a href=\"http:\/\/www.washingtontimes.com\/news\/2015\/jul\/16\/hillary-clintons-favorable-rating-39-percent-down-\/\" rel=\"nofollow\" target=\"_blank\">dipping approval ratings<\/a> could make him a serious contender to move desks to the Oval Office.","sections":{"body":[{"type":"image:jpg","content":{"entry_asset_id":"621495","resource":"\/\/s2.r29static.com\/\/bin\/entry\/00b\/x,80\/1454489\/image.jpg","alignment":"left","description":"","credit":"Photo: Isopix\/Rex\/REX USA ","impressiontracker":"","preview_image":{"src":"\/\/s2.r29static.com\/\/bin\/entry\/00b\/x,80\/1454489\/image.jpg","original_width_px":426,"original_height_px":640},"is_pinnable":true,"is_facebook_shareable":true,"clicktracker":"","products":[]}},{"type":"text","content":"Vice President Joe Biden may be angling for a job promotion, <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html\" rel=\"nofollow\" target=\"_blank\">according to <em>The New York Times<\/em><\/a>. He hasn't formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it might seem late in the game for Biden to announce a 2016 presidential bid, he's has more pressing \u2014 and downright tragic \u2014 matters at home to attend to, mourning the recent loss of his oldest son Beau Biden who <a href=\"\/vice-president-joe-biden-son-dies-at-46\">died in June from brain cancer at age 46<\/a>. <br><br>If the rumors are true, Biden is making good on a promise. <em>Times <\/em>columnist <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Maureen Dowd reported<\/a> that a possible presidential run would fulfill a deathbed promise Biden made to Beau, along with added encouragement from his younger son Hunter. <br><br>\"[Beau] tried to make his father promise to run, arguing that the White House should not revert to the Clintons and that the country would be better off with Biden values,\" <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Dowd wrote<\/a>. <br><br>Lawyer and Biden supporter Michael Thornton also corroborated Beau's posthumous impact on the Vice President possibly vying for the Democratic presidential nomination. <br><br>\"He was so close to Beau and it was so heartbreaking that, frankly, I thought initially he wouldn\u2019t have the heart,\u201d Thornton <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html?emc=edit_na_20150801&amp;nlid=55436260&amp;ref=cta\" rel=\"nofollow\" target=\"_blank\">told The New York Times<\/a><em><\/em>. \u201cBut I\u2019ve had indications that maybe he does want to \u2014 and \u2018that\u2019s what Beau would have wanted me to do.\u2019 \u201d <br><br>Of course, if Biden goes forward with a campaign, he would immediately face a familiar and well-funded White House opponent: Hillary Clinton. But Biden's deep-pocketed friends and political allies combined with Clinton's <a href=\"http:\/\/www.washingtontimes.com\/news\/2015\/jul\/16\/hillary-clintons-favorable-rating-39-percent-down-\/\" rel=\"nofollow\" target=\"_blank\">dipping approval ratings<\/a> could make him a serious contender to move desks to the Oval Office."}],"slideshow":[],"featured_video":null},"sections_count":2,"excerpt":"Vice President Joe Biden may be angling for a job promotion, according to <em>The New York Times<\/em>. He hasn't formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it might seem late in the game for Biden to announce a 2016 presidential bid, he's has more pressing \u2014 and downright tragic \u2014 matters at home to attend to, mourning the recent loss of his oldest son Beau Biden who died in June from brain cancer at age 46.   If the rumors are true, Biden is making good on a promise. <em>Times <\/em>columnist Maureen Dowd reported that a possible presidential run would fulfill a deathbed promise Biden made to Beau, along with added encouragement from his younger son Hunter.   \"[Beau] tried to make his father promise to run, arguing that the White House should not revert to the Clintons and that the country would be better off with Biden values,\" Dowd wrote.   Lawyer and Biden supporter Michael Thornton also corroborated Beau's posthumous impact on the Vice President possibly vying for the Democratic presidential nomination.   \"He was so close to Beau and it was so heartbreaking that, frankly, I thought initially he wouldn\u2019t have the heart,\u201d Thornton told The New York Times<em><\/em>. \u201cBut I\u2019ve had indications that maybe he does want to \u2014 and \u2018that\u2019s what Beau would have wanted me to do.\u2019 \u201d   Of course, if Biden goes forward with a campaign, he would immediately face a familiar and well-funded White House opponent: Hillary Clinton. But Biden's deep-pocketed friends and political allies combined with Clinton's dipping approval ratings could make him a serious contender to move desks to the Oval Office.","paginated_body":"<!-- START ASSET --><div class=\"asset left\" style=\"width: 426px\" data-entryasset-id=\"621495\"><img src=\"\/\/s2.r29static.com\/\/bin\/entry\/00b\/x,80\/1454489\/image.jpg\" alt=\"biden-426x640\"><span class=\"asset-credit\">Photo: Isopix\/Rex\/REX USA <\/span><\/div><!-- END ASSET --><section-break\/>Vice President Joe Biden may be angling for a job promotion, <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html\" rel=\"nofollow\" target=\"_blank\">according to <em>The New York Times<\/em><\/a>. He hasn't formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it might seem late in the game for Biden to announce a 2016 presidential bid, he's has more pressing \u2014 and downright tragic \u2014 matters at home to attend to, mourning the recent loss of his oldest son Beau Biden who <a href=\"\/vice-president-joe-biden-son-dies-at-46\">died in June from brain cancer at age 46<\/a>. <br><br>If the rumors are true, Biden is making good on a promise. <em>Times <\/em>columnist <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Maureen Dowd reported<\/a> that a possible presidential run would fulfill a deathbed promise Biden made to Beau, along with added encouragement from his younger son Hunter. <br><br>\"[Beau] tried to make his father promise to run, arguing that the White House should not revert to the Clintons and that the country would be better off with Biden values,\" <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/opinion\/sunday\/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr\" rel=\"nofollow\" target=\"_blank\">Dowd wrote<\/a>. <br><br>Lawyer and Biden supporter Michael Thornton also corroborated Beau's posthumous impact on the Vice President possibly vying for the Democratic presidential nomination. <br><br>\"He was so close to Beau and it was so heartbreaking that, frankly, I thought initially he wouldn\u2019t have the heart,\u201d Thornton <a href=\"http:\/\/www.nytimes.com\/2015\/08\/02\/us\/politics\/joe-biden-white-house-2016-presidential-campaign.html?emc=edit_na_20150801&amp;nlid=55436260&amp;ref=cta\" rel=\"nofollow\" target=\"_blank\">told The New York Times<\/a><em><\/em>. \u201cBut I\u2019ve had indications that maybe he does want to \u2014 and \u2018that\u2019s what Beau would have wanted me to do.\u2019 \u201d <br><br>Of course, if Biden goes forward with a campaign, he would immediately face a familiar and well-funded White House opponent: Hillary Clinton. But Biden's deep-pocketed friends and political allies combined with Clinton's <a href=\"http:\/\/www.washingtontimes.com\/news\/2015\/jul\/16\/hillary-clintons-favorable-rating-39-percent-down-\/\" rel=\"nofollow\" target=\"_blank\">dipping approval ratings<\/a> could make him a serious contender to move desks to the Oval Office.<section-break\/>","url":"http:\/\/www.refinery29.com\/2015\/08\/91692\/joe-biden-presidential-campaign","path":"\/2015\/08\/91692\/joe-biden-presidential-campaign","canonical":"http:\/\/www.refinery29.com\/2015\/08\/91692\/joe-biden-presidential-campaign","share_urls":{"facebook":"http:\/\/r29.co\/1M47RGI","facebook_fashion":"http:\/\/r29.co\/1M47RGP","facebook_beauty":"http:\/\/r29.co\/1M47T1g","facebook_entertainment":"http:\/\/r29.co\/1M47RX2","twitter":"http:\/\/r29.co\/1M47RXc","twitter_fashion":"http:\/\/r29.co\/1M47RXd","twitter_beauty":"http:\/\/r29.co\/1M47T1o","facebook_wellness":"http:\/\/r29.co\/1M47RXg","email":"http:\/\/r29.co\/1M47T1p","facebook_living":"http:\/\/r29.co\/1M47ThC","facebook_nyc":"http:\/\/r29.co\/1M47RXh","facebook_branded_content":"http:\/\/r29.co\/1M47ThD","facebook_shopping":"http:\/\/r29.co\/1M47ThE","facebook_food":"http:\/\/r29.co\/1M47ThL","facebook_news_and_politics":"http:\/\/r29.co\/1M47Sdz"},"published_formatted":"Aug 1, 2015 4:16 PM","ad_info":{"tags":"","site_name":null,"category":{"searchSchemaExtra":{"title_text":{"type":"text","multiValued":false},"body_text":{"type":"text","multiValued":false},"basename_text":{"type":"text","multiValued":false},"meta_keywords":{"type":"text","multiValued":false}},"searchDefaultQuery":{"name":3,"slug":8},"_route_defaults":{"controller":"index","action":"category","params":"{}","priority":4,"available_apps":"blog feed","default_app":"blog","overrides":{"blog":{"controller":"deliver","action":"default"}}},"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default","cacheDictionaryKey":"r29_orm_cache_dictionary::blog_categories::a3bbd8ab033c169a8fcbf38732f455ea76a4ddbb"},"sponsor":"","page_id":"joe-biden-presidential-campaign"},"main_image":{"sizes":{"50x":{"height":60,"width":50,"src":"\/\/s3.r29static.com\/\/bin\/entry\/755\/50x,80\/1454490\/image.jpg"},"75x":{"height":90,"width":75,"src":"\/\/s1.r29static.com\/\/bin\/entry\/d1d\/75x,80\/1454490\/image.jpg"},"100x":{"height":120,"width":100,"src":"\/\/s3.r29static.com\/\/bin\/entry\/208\/100x,80\/1454490\/image.jpg"},"150x":{"height":180,"width":150,"src":"\/\/s1.r29static.com\/\/bin\/entry\/4f8\/150x,80\/1454490\/image.jpg"},"400x400bm":{"height":400,"width":333,"src":"\/\/s3.r29static.com\/\/bin\/entry\/6ed\/400x400bm,80\/1454490\/image.jpg"},"720x389":{"height":389,"width":720,"src":"\/\/s2.r29static.com\/\/bin\/entry\/b1d\/720x389,80\/1454490\/image.jpg"},"x":{"height":552,"width":460,"src":"\/\/s3.r29static.com\/\/bin\/entry\/cb1\/x,80\/1454490\/image.jpg"}}},"pinterest_image":"\/\/s3.r29static.com\/\/bin\/entry\/c50\/150x200,80\/1454490\/image.jpg","topic_big":{"id":1454490,"src":"\/\/s3.r29static.com\/\/bin\/entry\/cb1\/x,80\/1454490\/image.jpg","width":"460","height":"552","format":"JPG","src_square":"\/\/s2.r29static.com\/\/bin\/entry\/47f\/460x460c,80\/1454490\/image.jpg","sizes":{"x":{"width":460,"height":552,"src":"\/\/s3.r29static.com\/\/bin\/entry\/cb1\/x,80\/1454490\/image.jpg"}},"asset":{"credit":"Photo: Isopix\/Rex\/REX USA"}},"assigning_editor":{"_route_defaults":{"controller":"author","action":"author","params":"{}","priority":11,"available_apps":"blog feed","default_app":"blog"},"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"},"assets":[],"tags":{"reporting":[{"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"},{"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"}],"editorial":[{"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"}]},"meta":{"meta_title":"Joe Biden Rumored To Be Eyeing Presidential Run","meta_description":"Vice President Joe Biden is rumored to be exploring a 2016 presidential campaign. ","meta_keywords":null,"photographer_credit":"","video_embed":null,"ad_size_right":"","sponsored_headline":null,"brightcove_video_id":null,"ad_sponsor":"","slideshow_premium":"","sponsored_logo":null,"slideshow_full":"","product_grid":"","contest_id":"","disable_dcopt":"","place_address_l1":null,"place_address_l2":null,"place_hours":null,"place_phone":null,"place_website":null,"place_img_src":null,"entry_js":"","ad_slide_number":"","full_intro_entry":"0","hide_related_slideshows":"","real_preview":"","url_tracking":"","right_col_content":null,"hide_signup_mini":"","ad_slide_auto":"","collaboration_badge":"","custom_slide_content":"","custom_slide_number":"","custom_slide_title":"","slideshow_combined":"","entry_body_ad":"0","noindex":"0","magento_category_id":null,"magento_product_id":null,"entry_js_v3":null,"sponsored_headline_v3":null,"news_keywords":"joe biden, beau biden, joe biden presidential campaign, joe biden hillary clinton, joe biden president, hunter biden, joe biden 2016","brightcove_playlist_id":null,"campaign_branding_image_big":null,"campaign_branding_image_small":null,"campaign_branding_sponsor_logo_image":null,"standout":"0","show_first_image_on_mobile":"0","single_page_series_subtitle":"","rel_canonical_source":"","sub_headline":"","social_title":"Vice President Joe Biden May Be Seeking A Major Job Promotion","facebook_image":null,"campaign_branding_clicktracker":"","campaign_branding_impressiontracker":"","campaign_branding_image":false,"shopping_grid_headline":"","is_full_width":"0","season_name":"","episode_number":"","facebook_image_upload":"1454488","condensed_nav_title":"","polar_image":"","polar_campaign_branding_image":"","pinterest_image_upload":"","ooyala_transcript":"","related_content_excluded":"0","CAMPAIGN_BRANDING_IMAGE_MOBILE":"","product_layout":"0"},"categories":[],"primary_category":{"searchSchemaExtra":{"title_text":{"type":"text","multiValued":false},"body_text":{"type":"text","multiValued":false},"basename_text":{"type":"text","multiValued":false},"meta_keywords":{"type":"text","multiValued":false}},"searchDefaultQuery":{"name":3,"slug":8},"_route_defaults":{"controller":"index","action":"category","params":"{}","priority":4,"available_apps":"blog feed","default_app":"blog","overrides":{"blog":{"controller":"deliver","action":"default"}}},"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default","cacheDictionaryKey":"r29_orm_cache_dictionary::blog_categories::a3bbd8ab033c169a8fcbf38732f455ea76a4ddbb"},"social_scores":{"r29_views":0,"facebook_click_count":0,"facebook_comment_count":0,"facebook_like_count":0,"facebook_share_count":0,"facebook_total_count":0,"twitter_count":0,"pinterest_count":0,"disqus_reactions":0,"disqus_dislikes":0,"disqus_posts":0,"disqus_likes":0},"social_score_entity":{"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"},"byline":"By <a href=\"\/author\/cristen-conger\" rel=\"author\"><span itemprop=\"author\">Cristen Conger<\/span><\/a>","author_names":"Cristen Conger","contributors":[{"id":"98713","display_order":"0","contributor_id":"3634","slug":"cristen-conger","name":"Cristen Conger","img":{"_cache_time":3600,"_exported_columns":{"1":["id"]},"_db_name":"default"},"position":"","include_in_page_bio":"0","in_page_bio":""}],"other_contributors":[],"disqus_url":"http:\/\/www.refinery29.com\/2015\/08\/91692\/joe-biden-presidential-campaign?utm_source=disqus&unique_id=entry_91692","simplereach":{"title":"Vice President Joe Biden May Be Seeking A Major Job Promotion","url":"http:\/\/www.refinery29.com\/2015\/08\/91692\/joe-biden-presidential-campaign","date":"2015-08-01T20:16:00+00:00","authors":["Cristen Conger"],"channels":["","Other"],"tags":["SCROLLABLE","Facebook","Twitter","News &amp; Politics"]}};
+      window.__reach_config = window.entry.simplereach;
+      window.__reach_config.pid = '4f7cb3a4a782f3628b000005';
+
+      
+      var disqus_url = 'http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign' + '?' + 'utm_source=disqus&unique_id=entry_91692';
+      var skimlinks_tracking = "desktop0scrollable";
+    </script>
+
+
+  <script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+  
+<script type="text/javascript" language="JavaScript">
+  var cb = new Date().getTime();
+  var asiPqTag = false;
+  try { 
+  document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=nqx5kz,d5WRLd,XvaTUT&cb=" + cb + "'></sc" + "ript>");
+  } catch(err) { }
+</script>
+
+
+  
+
+
+</head>
+<body >
+
+  <div id="message_ie8">
+  <p>Please upgrade your browser for the best Refinery29 experience.  <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Read more</a>.</p>
+</div>
+
+  
+  
+
+
+  <div class="is-hidden">
+      <ul role="menu">
+          <li role="menuitem"><a href="#header">Jump to header</a></li>
+          <li role="menuitem"><a href="#nav">Jump to navigation</a></li>
+          <li role="menuitem"><a href="#footer">Jump to footer</a></li>
+      </ul>
+  </div><!--/.is-hidden-->
+
+  
+
+
+      <header id="main-nav" role="banner">
+  <div class="main-nav-container">
+    <a href="/" class="main-nav-logo">
+      <img src="http://s1.r29static.com/blog/4e09b7/assets/images/logos/big_logo.png" width="130" height="84" alt="Refinery29 Logo" />
+              <span class="icon-logo"></span>
+      
+    </a>
+
+    <div class="main-nav-top">
+
+      <div id="main-nav-user-menu" class="left-ruler"></div>
+
+      <ul id="main-nav-social-menu" class="main-nav-social-menu">
+        <li class="main-nav-social-menu-item email right-ruler">
+          <span class="main-nav-social-menu-item-button icon-mailbox"></span>
+
+          <div class="signup main-nav-email-dropdown right-ruler">
+            <input id="main-nav-email-dropdown-input" type="email" placeholder="Enter Email For Daily Inspiration" message="Please enter your email" />
+
+            <button class="main-nav-email-submit button ga-trackable" data-category="Email Acquisition" data-label="Header" data-action="On-site Email Signup">Sign Up</button>
+
+            <form class="main-nav-email-form" id="social-email" autocomplete="on">
+              <header class="main-nav-email-dropdown-header">
+                <h3>Choose Your Editions</h3>
+              </header>
+
+              <section class="main-nav-email-dropdown-newsletter-options">
+                <input type="hidden" name="interest_category" value="fashion" />
+                <input type="hidden" name="interest_subcategory" value="" />
+                  <ul class="main-nav-email-dropdown-list col-left">
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[r29_reserve]" class="main-nav-email-dropdown-list-checkbox" id="email-r29_reserve" >
+      <label for="email-reserve" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        Shopping
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_london]" class="main-nav-email-dropdown-list-checkbox" id="email-main_london" >
+      <label for="email-london" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        London
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_new_york]" class="main-nav-email-dropdown-list-checkbox" id="email-main_new_york" >
+      <label for="email-new-york" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        New York
+      </label>
+    </div>
+  </li>
+
+
+
+</ul>
+<ul class="main-nav-email-dropdown-list col-left">
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_everywhere]" class="main-nav-email-dropdown-list-checkbox" id="email-main_everywhere" checked>
+      <label for="email-everywhere" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox active"></span>
+        Everywhere
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_chicago]" class="main-nav-email-dropdown-list-checkbox" id="email-main_chicago" >
+      <label for="email-chicago" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        Chicago
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_los_angeles]" class="main-nav-email-dropdown-list-checkbox" id="email-main_los_angeles" >
+      <label for="email-los-angeles" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        Los Angeles
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_san_francisco]" class="main-nav-email-dropdown-list-checkbox" id="email-main_san_francisco" >
+      <label for="email-san-francisco" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox "></span>
+        San Francisco
+      </label>
+    </div>
+  </li>
+
+
+</ul>
+
+              </section>
+              <div class="main-nav-email-error">
+                <div class="icon-triangle-up"></div>
+                <div class="main-nav-email-error-message">Oops! That's not a real email address.</div>
+              </div>
+            </form>
+          </div>
+
+          <div class="thanks main-nav-email-dropdown" id="social-email-thanks" hidden>
+            <header class="main-nav-email-dropdown-header">
+              <span class="icon-close"></span>
+              <h3>Now we're email buddies!</h3>
+            </header>
+            <section class="main-nav-email-message">
+              <p class="main-nav-email-message-text">You have chosen to receive our <strong>#NAMED_LISTS#</strong> newsletters at #EMAIL_ADDRESS#. You will receive an e-mail shortly confirming your subscription. So excited to have you!</p>
+              <p class="main-nav-email-message-text">xoxo, <br> Refinery 29</p>
+            </section>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item facebook">
+          <span class="main-nav-social-menu-item-button icon-facebook ga-trackable" data-category="Facebook Acquisition" data-action="Main Facebook Page" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-facebook">
+            <div class="fb-like" data-href="http://facebook.com/refinery29" ref="social-widget-button" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item pinterest">
+          <span class="main-nav-social-menu-item-button icon-pinterest"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-pinterest" data-category="Pinterest Acquisition" data-action="Main Pinterest Page" data-label="Social Widget Button">
+            <a data-pin-do="buttonFollow" href="http://pinterest.com/follow/refinery29/">Refinery29</a>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item twitter">
+          <span class="main-nav-social-menu-item-button icon-twitter ga-trackable" data-category="Twitter Acquisition" data-action="Main Twitter Handle" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-twitter">
+            <a href="https://twitter.com/refinery29" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @refinery29</a>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item instagram">
+          <span class="main-nav-social-menu-item-button icon-instagram"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-instagram" data-category="Instagram Acquisition" data-action="Main Instagram Page" data-label="Social Widget Button">
+            <a class=" instagram-link icons-instagram-follow" href="http://www.instagram.com/refinery29" target="_blank"></a>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item tumblr">
+          <span class="main-nav-social-menu-item-button icon-tumblr ga-trackable" data-category="Tumblr Acquisition" data-action="Main Tumblr Page" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-tumblr">
+            <iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="116" src="http://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=refinery29&color_scheme=dark"></iframe>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item youtube">
+          <span class="main-nav-social-menu-item-button icon-youtube ga-trackable" data-category="Youtube Acquisition" data-action="Main Youtube Channel" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-youtube">
+            <div class="g-ytsubscribe" data-channel="Refinery29TV" data-count="hidden"></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <!-- end of main-nav-top-->
+
+    <div class="main-nav-bottom">
+      <span class="main-nav-search-button icon-search active"></span>
+<form class="main-nav-search-form " action="/search" method="get" role="search">
+  <label for="search" class="main-nav-search-label is-hidden">Search</label>
+  <input class="main-nav-search-input" id="main-nav-search-input" type="search" name="q" data-default="90"  placeholder="SEARCH">
+  <button type="submit" class="main-nav-search-submit">
+    <span class="icon-search"></span><span class="is-hidden">search</span></button>
+  <span class="main-nav-search-close">x</span>
+</form>
+
+
+      <nav class="main-nav-menus">
+  <ul class="main-nav-categories">
+          <li class="col-left" data-slug="Video">
+                  <a href="//www.refinery29.com/video" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Video">Video</a>
+        
+      </li>
+          <li class="col-left" data-slug="Fashion">
+                  <a href="//www.refinery29.com/fashion" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Fashion">Fashion</a>
+        
+      </li>
+          <li class="col-left" data-slug="Beauty">
+                  <a href="//www.refinery29.com/beauty" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Beauty">Beauty</a>
+        
+      </li>
+          <li class="col-left" data-slug="Living">
+                  <a href="//www.refinery29.com/living" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Living">Living</a>
+        
+      </li>
+          <li class="col-left" data-slug="Health">
+                  <a href="//www.refinery29.com/health" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Health">Health</a>
+        
+      </li>
+          <li class="col-left" data-slug="Entertainment">
+                  <a href="//www.refinery29.com/entertainment" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Entertainment">Entertainment</a>
+        
+      </li>
+          <li class="col-left" data-slug="Local">
+                  Local
+        
+      </li>
+          <li class="col-left" data-slug="News">
+                  <a href="//www.refinery29.com/politics" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="News">News</a>
+        
+      </li>
+          <li class="col-left" data-slug="Shopping">
+                  <a href="//www.refinery29.com/shops" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Shopping">Shopping</a>
+        
+      </li>
+    
+  </ul>
+  <div class="main-nav-submenus">
+          <aside class="main-nav-submenu main-nav-submenu-group-0" data-parent="Fashion">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/styling-tips" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Styling Tips">Styling Tips</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/designers" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Designers">Designers</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/street-style" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Street Style">Street Style</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/trends" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Trends">Trends</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/style-stars" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Celebs &amp; Influencers">Celebs &amp; Influencers</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/college" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - College">College</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/shopping" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Fashion - Shopping">Shopping</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+          <aside class="main-nav-submenu main-nav-submenu-group-1" data-parent="Beauty">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/hair" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Hair">Hair</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/nails" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Nails">Nails</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/makeup" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Makeup">Makeup</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/skin-care" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Skin Care">Skin Care</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/fragrance" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Fragrance">Fragrance</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/celeb-beauty" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Celebs &amp; Influencers">Celebs &amp; Influencers</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/beauty-prep-school" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Beauty - Beauty Prep School">Beauty Prep School</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+          <aside class="main-nav-submenu main-nav-submenu-group-2" data-parent="Living">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/travel" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Travel">Travel</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/home" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Home">Home</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/food-and-drink" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Food &amp; Drinks">Food &amp; Drinks</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/tech" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Tech">Tech</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/work-and-money" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Work &amp; Money">Work &amp; Money</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/weddings" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Living - Weddings">Weddings</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+          <aside class="main-nav-submenu main-nav-submenu-group-3" data-parent="Health">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/health-trends" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Health - Trends">Trends</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/diet-and-nutrition" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Health - Diet &amp; Nutrition">Diet &amp; Nutrition</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/fitness" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Health - Fitness">Fitness</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/sex" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Health - Sex">Sex</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/spirit" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Health - Spirit">Spirit</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+          <aside class="main-nav-submenu main-nav-submenu-group-4" data-parent="Entertainment">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/movies-and-tv-shows" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Movies &amp; Tv">Movies &amp; Tv</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/music" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Music">Music</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/art" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Art &amp; Books">Art &amp; Books</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/celebrities" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Celebrities">Celebrities</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/trends-in-entertainment" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Pop Culture">Pop Culture</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/red-carpet-looks" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Entertainment - Red Carpet">Red Carpet</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+          <aside class="main-nav-submenu main-nav-submenu-group-5" data-parent="Local">
+        <ul class="main-nav-submenu-list">
+                      <li>
+                              <a href="//www.refinery29.com/new-york" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Local - New York">New York</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/los-angeles" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Local - Los Angeles">Los Angeles</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/san-francisco" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Local - San Francisco">San Francisco</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/london" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Local - London">London</a>
+              
+            </li>
+                      <li>
+                              <a href="//www.refinery29.com/chicago" class="main-nav-submenu-item ga-trackable"
+                  data-category="Subnavigation"
+                  data-action="Desktop"
+                  data-label="Local - Chicago">Chicago</a>
+              
+            </li>
+          
+        </ul>
+      </aside>
+    
+  </div>
+</nav>
+
+    </div>
+
+
+                  <h4 class="main-nav-condensed-title">
+          <p class="short-headline">Now reading</p>
+          Is The Veep Eyeing The Oval Office? 
+        </h4>
+        <div class="main-nav-condensed-related">
+          <div class="related-entry">
+      <a class="ga-trackable" data-category="Related Content Module" data-action="Click" data-label="Default (Algorithmic Content)" href="/2015/08/91690/michelle-obama-beyonce-dream-job">
+      <img src="http://s1.r29static.com//bin/entry/3e3/60x60,80/1454484/flotus-460x552.jpg" alt="flotus-460x552"  width="60" height="60"  class="loaded" />
+      <h4 class="main-nav-condensed-title">
+        <p class="short-headline">Up next</p>
+        Being Beyonce Is Michelle Obama's Dream Job
+      </h4>
+    </a>
+  
+</div>
+
+        </div>
+        <div class="main-nav-condensed-socialbar">
+          <ul class="horizontal-li">
+  
+    <li>
+    <a class="share-buttons share-button-email icon-mail" href="mailto:%20?subject=Refinery29:%20Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion&body=Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion%0D%0Ahttp%3A%2F%2Fwww.refinery29.com%2F2015%2F08%2F91692%2Fjoe-biden-presidential-campaign%3Futm_source%3Demail%26utm_medium%3Demail_share%0D%0A%0D%0AThis was fun, right? Sign up for even more of the good stuff here: http://r29.co/1J5EJdJ" data-action="Email Share Location" data-category="Social Actions" data-label="Condensed Nav - Article"></a>
+  </li>
+  
+    <li>
+    <button class="share-button-pinterest icon-pinterest share-buttons" data-url="http://pinterest.com/pin/create/button/?url=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign&media=http%3A%2F%2Fs3.r29static.com%2F%2Fbin%2Fentry%2Fc50%2F150x200%2C80%2F1454490%2Fimage.jpg&description=Vice+President+Joe+Biden+May+Be+Seeking+A+Major+Job+Promotion+%23refinery29" data-action="Pinterest Share Location" data-category="Social Actions" data-label="Condensed Nav - Article"></button>
+  </li>
+  
+  
+    <li>
+    <button class="share-button-facebook icon-facebook share-buttons" data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign" data-action="Facebook Share Location" data-category="Social Actions" data-label="Condensed Nav - Article"></button>
+  </li>
+  
+    <li class="byline-shares">
+    <span class="byline-shares-number">
+        0
+
+    </span>
+    SHARES
+  </li>
+  
+</ul>
+        </div>
+      
+    
+  </div>
+</header>
+<div class="main-nav-container-placeholder"></div>
+
+    <div class="shopping-message-banner-article shopping-message-banner--saving">
+  <span class="shopping-message-banner--saving__saved">
+    Saved! Access Favorites in your account profile.
+  </span>
+  <span class="shopping-message-banner--saving__removed">
+    <i class="icon-star-filled"></i>
+    Removed from my favorites
+  </span>
+</div>
+
+  
+
+
+
+
+
+      
+<!--div class="page-content-container article-grid-helper"-->
+<div class="page-content-container">
+
+	<div class="article-secondary-column">
+	      <div id="ad-451256331" class="ad article-right-rail-ad" data-cb-ad-id="Right Rail Unit" data-ad-size="300x600,300x250,300x1050" data-sponsor="" data-pos="right" ></div>
+
+
+	</div>
+
+	<div class="article-container">
+    <article class="article-body-standard">
+      <header class="article-header">
+
+
+
+
+  <h1 class="article-header-title">Vice President Joe Biden May Be Seeking A Major Job Promotion</h1>
+
+  <div class="article-header-comments">
+    <span class="comment-bubble"></span>
+    <span class="comment-count-text">
+    
+    comments
+    </span>
+  </div>
+
+  <div class="article-byline">
+    <div class="article-byline-inner">
+      <div class="article-byline-author-container">
+        <ul>
+  <li class="author-image">
+    
+      <img src="/static/images/misc/author_default.png" alt="Photo of Cristen Conger">
+    
+  </li>
+  <li class="date">Aug 1, 2015 4:16 PM</li>
+  <li class="author-name">
+          <strong>
+        
+                  <a rel="author" href="/author/cristen-conger">Cristen Conger</a>
+        
+      </strong>
+    
+   </li>
+</ul>
+
+      </div>
+      <div class="article-byline-social-container">
+        
+
+  <ul id="social-byline" class="list-clean horizontal-li share-module">
+    <li>
+      <a class="share-button-email icon-mail share-buttons" data-label="Article" href="mailto:%20?subject=Refinery29:%20Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion&body=Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion%0D%0Ahttp%3A%2F%2Fwww.refinery29.com%2F2015%2F08%2F91692%2Fjoe-biden-presidential-campaign%3Futm_source%3Demail%26utm_medium%3Demail_share%0D%0A%0D%0AThis was fun, right? Sign up for even more of the good stuff here: http://r29.co/1J5EJdJ"></a>
+    </li>
+    <li>
+      <button class="share-button-pinterest icon-pinterest share-buttons" data-url='http://pinterest.com/pin/create/button/?url=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign&media=http%3A%2F%2Fs3.r29static.com%2F%2Fbin%2Fentry%2Fc50%2F150x200%2C80%2F1454490%2Fimage.jpg
+    &description=Vice+President+Joe+Biden+May+Be+Seeking+A+Major+Job+Promotion+%23refinery29' data-label="Article"></button>
+    </li>
+    <li>
+      <button class="share-button-facebook icon-facebook share-buttons" data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign" data-label="Article"></button>
+    </li>
+    <li class="byline-shares">
+      <span class="byline-shares-number">
+          0
+
+      </span>
+      SHARES
+    </li>
+  </ul>
+
+
+
+      </div>
+    </div><!--/.byline-inner-->
+</header>
+
+
+      <section class="article-body-standard-section">
+      
+      
+      
+      
+
+                                    
+
+<div class="article-body-image-left">
+  <figure class="article-body-figure">
+      <div class="article-body-image-container">
+        <div class="article-body-image-buttons">
+                    <button class="article-body-figure-facebook-button icon-facebook"></button>
+          
+                    <button class="article-body-figure-pinterest-button icon-pinterest"></button>
+          
+        </div>
+                <img src="//s2.r29static.com//bin/entry/00b/x,80/1454489/image.jpg">
+        
+        
+      </div>
+      <div class="article-body-image-credit">Photo: Isopix/Rex/REX USA </div>
+      
+
+  </figure>
+</div>
+
+
+
+          
+        
+                                    <p class="article-body-text">Vice President Joe Biden may be angling for a job promotion, <a href="http://www.nytimes.com/2015/08/02/us/politics/joe-biden-white-house-2016-presidential-campaign.html" rel="nofollow" target="_blank">according to <em>The New York Times</em></a>. He hasn't formally announced any plans to run for President, but his advisers have reportedly been working behind the scenes to secure financial and Democratic party support in recent weeks. And though it might seem late in the game for Biden to announce a 2016 presidential bid, he's has more pressing — and downright tragic — matters at home to attend to, mourning the recent loss of his oldest son Beau Biden who <a href="/vice-president-joe-biden-son-dies-at-46">died in June from brain cancer at age 46</a>. <br><br>If the rumors are true, Biden is making good on a promise. <em>Times </em>columnist <a href="http://www.nytimes.com/2015/08/02/opinion/sunday/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr" rel="nofollow" target="_blank">Maureen Dowd reported</a> that a possible presidential run would fulfill a deathbed promise Biden made to Beau, along with added encouragement from his younger son Hunter. <br><br>"[Beau] tried to make his father promise to run, arguing that the White House should not revert to the Clintons and that the country would be better off with Biden values," <a href="http://www.nytimes.com/2015/08/02/opinion/sunday/maureen-dowd-joe-biden-in-2016-what-would-beau-do.html?src=twr" rel="nofollow" target="_blank">Dowd wrote</a>. <br><br>Lawyer and Biden supporter Michael Thornton also corroborated Beau's posthumous impact on the Vice President possibly vying for the Democratic presidential nomination. <br><br>"He was so close to Beau and it was so heartbreaking that, frankly, I thought initially he wouldn’t have the heart,” Thornton <a href="http://www.nytimes.com/2015/08/02/us/politics/joe-biden-white-house-2016-presidential-campaign.html?emc=edit_na_20150801&amp;nlid=55436260&amp;ref=cta" rel="nofollow" target="_blank">told The New York Times</a><em></em>. “But I’ve had indications that maybe he does want to — and ‘that’s what Beau would have wanted me to do.’ ” <br><br>Of course, if Biden goes forward with a campaign, he would immediately face a familiar and well-funded White House opponent: Hillary Clinton. But Biden's deep-pocketed friends and political allies combined with Clinton's <a href="http://www.washingtontimes.com/news/2015/jul/16/hillary-clintons-favorable-rating-39-percent-down-/" rel="nofollow" target="_blank">dipping approval ratings</a> could make him a serious contender to move desks to the Oval Office.</p>
+
+          
+        
+      
+
+      <!-- legacy stories with bylines that have more than 2 contributors OR other bylines like 'photographed by' -->
+
+      </section>
+    </article>
+
+	  <section class="article-body-standard-section">
+	    <div class="article-body-ad-bottom">
+	        <div id="ad-1845310729" class="ad " data-cb-ad-id="Bottom Article Unit" data-ad-size="728x90,728x91,820x90" data-sponsor="" data-pos="bottom" ></div>
+
+
+	    </div>
+	  </section>
+
+	  <section class="article-body-standard-section">
+	    <div class="article-body-share-buttons">
+	      <div class="menu-article-share col">
+      <a class="button button-share-facebook ga-trackable" data-category="Facebook Share Location" data-action="Desktop Article" data-label="Share Button Below Article" data-track-secondary="Facebook Content by Category,,joe-biden-presidential-campaign - 91692" href="https://www.facebook.com/sharer/sharer.php?u=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign" target="_blank">SHARE</a>
+  
+</div><!--/.menu-article-share-->
+
+	      <div class="menu-article-share col">
+      <a class="button button-share-twitter ga-trackable" data-category="Twitter Share Location" data-action="Desktop Article" data-label="Share Button Below Article" data-track-secondary="Twitter Content by Category,,joe-biden-presidential-campaign - 91692" target="_blank" href="https://twitter.com/intent/tweet?text=Vice President Joe Biden May Be Seeking A Major Job Promotion&url=http://www.refinery29.com/2015/08/91692/joe-biden-presidential-campaign&via=refinery29">TWEET</a>
+  
+</div><!--/.menu-article-share-->
+
+	      <div class="menu-article-share col">
+      <a class="button button-share-email ga-trackable" data-category="Email Share Location" data-action="Desktop Article" data-label="Share Button Below Article" data-track-secondary="Email Content by Category,,joe-biden-presidential-campaign - 91692" href="mailto:%20?subject=Refinery29:%20Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion&body=Vice%20President%20Joe%20Biden%20May%20Be%20Seeking%20A%20Major%20Job%20Promotion%0D%0Ahttp%3A%2F%2Fwww.refinery29.com%2F2015%2F08%2F91692%2Fjoe-biden-presidential-campaign%3Futm_source%3Demail%26utm_medium%3Demail_share%0D%0A%0D%0AThis was fun, right? Sign up for even more of the good stuff here: http://r29.co/1J5EJdJ" >EMAIL</a>
+  
+</div><!--/.menu-article-share-->
+
+	    </div>
+	  </section>
+
+	  <section class="article-body-standard-section">
+	    <div class="article-body-breadcrumbs">
+	      <div class="breadcrumb ga-trackable" data-category="Primary Tag" data-action="Click" data-label="SCROLLABLE" itemscope="itemscope" itemprop="breadcrumb" itemtype="http://schema.org/WebPage">
+	        <a href="/news" itemprop="url"><span itemprop="name">News</span></a> /
+                  <span itemprop="title" class="sub">Joe Biden Rumored To Be Eyeing Presidential Run</span>
+              
+    
+</div><!--/.breadcrumb-->
+
+	    </div>
+	  </section>
+
+	  <section class="article-body-standard-section article-body-comments-parent">
+	    <div class="article-body-comments" id="comments-91692">
+	    <!--hi-->
+	    </div>
+	  </section>
+  </div>
+</div>
+
+
+
+
+
+
+  
+
+      <footer class="block" role="contentinfo" id="footer">
+  <div>
+    <nav class="company">
+    <section>
+      <h2>Company</h2>
+      <ul>
+        <li><a href="//www.corporate.r29.com">About</a></li>
+        <li><a href="//www.corporate.r29.com/press">Press</a></li>
+        <li><a href="//www.corporate.r29.com/advertising">Advertising</a></li>
+        <li><a href="mailto:feedback@refinery29.com" data-uv-trigger data-uv-height="180px">Feedback</a></li>
+        <li class="hiring"><a href="//www.corporate.r29.com/careers">We're hiring</a></li>
+        <li><a href="/news">R29 News</a></li>
+        <li><a href="/archives">Sitemap</a></li>
+      </ul>
+      <ul>
+        <li>
+          <a href="#" id="view-mobile-site">View Mobile Site</a>
+        </li>
+      </ul>
+    </section>
+    </nav>
+    <section class="social">
+      <h2>Connect with R29</h2>
+      <ul>
+        <li class="footer-social-facebook">
+          <a href="http://facebook.com/refinery29" target="_blank">
+            <span class="icon-facebook"></span>
+            <span class="is-hidden">Facebook</span>
+          </a>
+        </li>
+        <li class="footer-social-pinterest">
+          <a href="http://pinterest.com/refinery29" target="_blank">
+            <span class="icon-pinterest"></span>
+            <span class="is-hidden">Pinterest</span>
+          </a>
+        </li>
+        <li class="footer-social-twitter">
+          <a href="http://twitter.com/refinery29" target="_blank">
+            <span class="icon-twitter"></span>
+            <span class="is-hidden">Twitter</span>
+          </a>
+        </li>
+        <li class="footer-social-instagram">
+          <a href="http://www.instagram.com/refinery29" target="_blank">
+            <span class="icon-instagram"></span>
+            <span class="is-hidden">Instagram</span>
+          </a>
+        </li>
+        <li class="footer-social-tumblr">
+          <a href="http://www.refinery29.tumblr.com" target="_blank">
+            <span class="icon-tumblr"></span>
+            <span class="is-hidden">Tumblr</span>
+          </a>
+        </li>
+        <li class="footer-social-youtube">
+          <a href="http://www.youtube.com/refinery29" target="_blank">
+            <span class="icon-youtube"></span>
+            <span class="is-hidden">Youtube</span>
+          </a>
+        </li>
+        <li class="footer-social-spotify">
+          <a href="http://open.spotify.com/user/refinery29/playlist/1Zl7ytzACYt1xVq7UmzJYU" target="_blank">
+            <span class="icon-spotify"></span>
+            <span class="is-hidden">Spotify</span>
+          </a>
+        </li>
+        <li class="footer-social-rss">
+          <a href="http://www.refinery29.com/rss.xml" target="_blank">
+            <span class="icon-rss"></span>
+            <span class="is-hidden">RSS</span>
+          </a>
+        </li>
+      </ul>
+    </section><!--/.social-->
+  </div>
+    <div class="site-info">
+        <ul>
+            <li class="copyright"> <a href="http://www.corporate.r29.com">&copy; 2015 Refinery29</a></li>
+            <li><a href="/terms-and-conditions">Terms</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+        </ul>
+
+        <p>Made with <span class="love">love</span> in NYC</p>
+
+        <!--take this HTML out if it only serves a presentational purpose-->
+        <ul class="colors">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div><!--/.site-info-->
+</footer>
+
+  
+
+
+  <div id="fb-root"></div>
+
+<script>
+  if (location.search.indexOf('debug') > -1)
+    document.body.className += ' debug'
+</script>
+
+<!-- Ad - iPad Mopub 728x90 -->
+
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="http://s1.r29static.com/blog/4e09b7/assets/js/scrollable-vendor.js"></script>
+
+<script src="http://s3.r29static.com/blog/4e09b7/assets/js/scrollable.js"></script>
+
+
+<script type="text/javascript" id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- Shared javascript -->
+
+
+<!-- Custom javascript -->
+
+
+<div class="is-hidden">
+    <ul role="menu">
+        <li role="menuitem"><a href="#header">Back to header</a></li>
+        <li role="menuitem"><a href="#nav">Back to navigation</a></li>
+        <li role="menuitem"><a href="#footer">Back to footer</a></li>
+    </ul>
+</div><!--/.is-hidden-->
+
+
+            <!-- Compete CrossPoint Tag for refinery29.com -->
+<script type="text/javascript">
+__compete_code = 'c6ecf41f2ae1b0e7908f2c73fb2b9e10';
+/* Set control variables below this line. */ 
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/c6ecf41f2ae1b0e7908f2c73fb2b9e10/refinery29-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-refinery29-com-c6ecf4.c-col.com"/>
+</noscript>
+    
+
+          <script type="text/javascript" src="//s.skimresources.com/js/30283X879131.skimlinks.js" async="true"></script>
+    
+
+    <!-- Quantcast -->
+<script type="text/javascript">
+_qoptions={ qacct:"p-fesXMHo90Ka_A" };
+</script>
+<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-fesXMHo90Ka_A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- /Quantcast -->
+    <!-- Sailthru Horizon -->
+<script type="text/javascript">
+  (function() {
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+    if (s.readyState){  //IE
+      s.onreadystatechange = function(){
+        if (s.readyState == "loaded" ||
+          s.readyState == "complete"){
+          s.onreadystatechange = null;
+          Sailthru.setup({
+            domain: 'horizon.refinery29.com',
+            tags: "homepage,politics-and-news,420,978,979,1518",
+            cookieDomain: '.refinery29.com'
+          });
+        }
+      };
+    } else {  //Others
+      s.onload = function(){
+        Sailthru.setup({
+          domain: 'horizon.refinery29.com',
+          tags: "homepage,politics-and-news,420,978,979,1518",
+          cookieDomain: '.refinery29.com'
+        });
+      };
+    }
+    s.src = ('https:'==location.protocol?'https://d1gp8joe0evc8s.cloudfront.net':'http://cdn.sail-horizon.com')+'/horizon/v1.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+</script>
+    
+  <script type="text/javascript">
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push(["customTag", "Entry Type", "SCROLLABLE"]);
+    window.optimizely.push(["customTag", "Entry Category", ""]);
+  </script>
+
+
+    <script src="//tags.crwdcntrl.net/c/5283/cc_af.js"></script>
+    <!-- youtube button iframe -->
+<script type="text/javascript">
+ (function(){
+	"use strict";
+	var s;
+  s = document.createElement('script');
+  s.async = true;
+  s.type = 'text/javascript';
+  s.src = document.location.protocol + '//apis.google.com/js/platform.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+ })();
+</script>
+
+    <!-- Naytev A/B testing -->
+<script>
+  (function(d){
+    "use strict";
+
+    var isProduction = /refinery29\.com$/.test(document.location.hostname),
+    siteId = isProduction ? '54f8bbbfe4b0dd9392ffd47c' : '5500524de4b0bb90d6411c4d';
+
+    var f = d.getElementsByTagName('SCRIPT')[0],
+    p = d.createElement('SCRIPT');
+    p.type = 'text/javascript';
+    p.async = true;
+    p.src = '//naytev.global.ssl.fastly.net/js/embed/' + siteId + '.js';
+    f.parentNode.insertBefore(p, f);
+  })(document);
+</script>
+
+    <!-- FB Cusstom Audience Pixel -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+  var fbds = document.createElement('script');
+  fbds.async = true;
+  fbds.src = '//connect.facebook.net/en_US/fbds.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(fbds, s);
+  _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '709693729097198']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', ]);
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=709693729097198&amp;ev=PixelInitialized" />
+</noscript>
+
+  
+<div id="ad-interstitial"></div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9aa3407800","applicationID":"3374998","transactionName":"b1cHZBcEW0dZVRZbXVYdJkUWEVpZF3UNXEZKXQlcABdqdlRZBW17VlYASEoEVkBRWQxtV1ZGF0lKE1xRTwwHXEZKS0pDBhdaWFRXAF5XF1MXRAwGWVEWXhZfXg==","queueTime":0,"applicationTime":249,"atts":"QxAEEl8eSEk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

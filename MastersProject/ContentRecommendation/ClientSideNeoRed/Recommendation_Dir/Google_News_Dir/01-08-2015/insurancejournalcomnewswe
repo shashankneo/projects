@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:fb="http://www.facebook.com/2008/fbml"
+    lang="en-US">
+<head>
+<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>Edison Expects 2016 Hearing on $7.57B California Reactor Claim</title>
+<meta property="fb:page_id" content="75524109257" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Edison International expects a hearing to be held next year on its $7.57 billion damage claim against Mitsubishi Heavy Industries Ltd. over the shutdown of"/>
+<link rel="canonical" href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='960-css'  href='http://www.insurancejournal.com/css/960.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.insurancejournal.com/css/style.158.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.insurancejournal.com/js/jquery.tools.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/js/jquery.timers-1.2.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/js/slimbox2.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/js/jquery.tablesorter.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/js/jquery.uitablefilter.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/js/common.js?ver=1.3.0'></script>
+<!-- Social Media User Detection plugin by Adapt Partners - http://adaptpartners.com/ -->
+<script type="text/javascript">
+				function record_login_status(slot, network, status) {
+				if (status) {
+					_gaq.push(["_setCustomVar", slot, network + "_State", "LoggedIn", 1]);
+				} else {
+					_gaq.push(["_setCustomVar", slot, network + "_State", "NotLoggedIn", 1]);
+				}
+				}
+				</script>
+<!-- END Social Media User Detection plugin -->
+
+<script type="text/javascript"><!--// <![CDATA[
+var OA_source = "";
+var OA_zones = {
+'interstitial':78,'header-728x90':63,'footer-728x90':64,'right-125x125-1':61,'right-125x125-2':61,'right-125x125-3':61,'right-125x125-4':61,'right-125x125-5':61,'right-125x125-6':61,'research-sidebar-1':137,'research-sidebar-2':137,'right-300x250-1':62,'right-2nd-300x250-1':75,'right-340x100-1':93,'site-partner':89,'video-sponsor':41,'poll-sponsor':134,'sticky-footer':143,'article-billboard':104,'intext':79,'afl-1':65,'afl-2':65,'afl-3':65,'content-300x250-1':69
+}
+var csearchwords = getCookie("searchwords");
+var ctopics = getCookie("topics");
+if (csearchwords) {OA_source = OA_source + "," + csearchwords;}
+if (ctopics) {OA_source = OA_source + "," + ctopics;}
+// ]]> --></script>
+<script type="text/javascript" src="//ads.wellsmedia.com/www/delivery/spcjs.php?id=1&amp;block=1"></script>
+<link rel="alternate" type="application/rss+xml" title="Insurance Journal News Feed" href="http://www.insurancejournal.com/rss/news/" />
+<link rel="image_src" href="http://cdn.insurancejournal.com/img/insurancejournal-fb.png" />
+<link rel="apple-touch-startup-image" href="http://cdn.insurancejournal.com/img/insurancejournal-iphone.png" />
+<meta property="og:image" content="http://cdn.insurancejournal.com/img/insurancejournal-fb.png" />
+
+
+<!-- Win8 icon -->
+<meta name="application-name" content="Insurance Journal" />
+<meta name="msapplication-TileColor" content="#B10000" />
+<meta name="msapplication-TileImage" content="/img/insurance-journal-tile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/img/insurance-journal-tile-128x128.png"/>
+<meta name="msapplication-square150x150logo" content="/img/insurance-journal-tile-270x270.png"/>
+<meta name="msapplication-wide310x150logo" content="/img/insurance-journal-tile-558x270.png"/>
+<meta name="msapplication-square310x310logo" content="/img/insurance-journal-tile-558x558.png"/>
+<meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://www.insurancejournal.com/rss/mostpopular/&amp;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://www.insurancejournal.com/rss/mostpopular/&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://www.insurancejournal.com/rss/mostpopular/&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://www.insurancejournal.com/rss/mostpopular/&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://www.insurancejournal.com/rss/mostpopular/&amp;id=5; cycle=1"/>
+<meta name="msapplication-starturl" content="/?utm_source=windows&amp;utm_medium=web&amp;utm_campaign=windows-pinned-sites"/>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-210922-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	<meta name="date" content="2015-07-31" />
+	<!--
+	<PageMap>
+		<DataObject type="document">
+	        <Attribute name="author">Harry R. Weber</Attribute>
+	        <Attribute name="section">news/west</Attribute>
+	        <Attribute name="type">News</Attribute>
+	    </DataObject>
+		<DataObject type="date">
+	        <Attribute name="sdate">2015-07-31</Attribute>
+	        <Attribute name="displaydate">July 31, 2015</Attribute>
+	    </DataObject>
+		
+	</PageMap>
+	-->
+	</head>
+
+<body class="single single-post postid-377150 single-format-standard">
+<div id="header-wrap" class="clearfix">
+<div class="container_16">
+    <div id="topbar-wrapper">
+        <div id="topbar">
+            <ul class="horiz clearfix">
+                <li><a href="http://www.mynewmarkets.com/">MyNewMarkets.com</a></li>
+                <li><a href="http://www.claimsjournal.com/">Claims Journal</a></li>
+                <li><a href="http://www.insurancejournal.tv/">Insurance Journal TV</a></li>
+                <li><a href="http://www.ijacademy.com/">Academy of Insurance</a></li>
+                <li><a href="http://www.carriermanagement.com/">Carrier Management</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container_16 clearfix" id="header">
+    <div class="grid_6">
+        <a href="/"><img src="http://www.insurancejournal.com/img/insurance-journal-logo-340.png" alt="Insurance Journal - Property Casualty Industry News" id="logo" /></a>
+    </div>
+
+    <div class="grid_6">
+        <div id="top-news">
+            <h3>Featured Stories</h3>
+            <div><a href="http://www.insurancejournal.com/news/midwest/2015/07/28/376548.htm">New Earthquake Study</a></div><div><a href="http://www.insurancejournal.com/news/east/2015/07/28/376497.htm">Consolidation Effect on Hartford, Conn.</a></div>        </div>
+
+		<div id="search-header">
+			<div id="search-header-tabs" class="clearfix">
+				<span rel="news" class="active">News</span>
+				<span rel="markets">Markets</span>
+				<span rel="jobs">Jobs</span>
+			</div>
+			<form action="/search/" method="get" id="search-header-form" class="clearfix">
+				<input type="hidden" value="news" name="section" id="search-header-section" />
+				<input type="text" class="large" name="q" id="search-header-term" value="" style="width:228px; padding:3px 4px;">
+				<input type="submit" value="Search" style="font-family:arial,sans-serif; font-size:14px; padding:3px 8px; display:block; float:right;">
+			</form>
+		</div>
+    </div>
+
+    <div class="grid_4">
+		
+    <script type="text/javascript"><!--// <![CDATA[
+OA_show('site-partner');
+// ]]> --></script>    </div>
+</div>
+</div>
+
+<div class="container_16 clearfix">
+        <div id="nav">
+        <ul class="clearfix">
+            <li><a href="/" id="nav-front">Front Page</a>
+                <ul id="nav-sub-front" style="display: block;">
+                    <li><a href="/news/national/">National</a></li>
+                    <li><a href="/news/international/">International</a></li>
+                    <li><a href="/mostpopular/">Most Popular</a></li>
+                    <li><a href="/magazines/">Magazine</a></li>
+                    <li><a href="/forums/">Forums</a></li>
+                    <li><a  href="/blogs/">Blogs</a></li>
+                    <li><a href="http://www.insurancejournal.tv/">Videos/Podcasts</a></li>
+                    <li><a href="/subscribe/">Newsletters</a></li>
+                </ul>
+            </li>
+            <li class="active"><a href="/news/">News</a>
+                <ul id="nav-sub-news" style="display: block;">
+                    <li><a href="/mostpopular/">Most Popular</a></li>
+                    <li><a href="/news/national/">National</a></li>
+                    <li><a href="/news/international/">International</a></li>
+                    <li><a href="/news/east/">East</a></li>
+                    <li><a href="/news/midwest/">Midwest</a></li>
+                    <li><a href="/news/southcentral/">South Central</a></li>
+                    <li><a href="/news/southeast/">Southeast</a></li>
+                    <li><a class="active" href="/news/west/">West</a></li>
+                </ul>
+            </li>
+            <li><a href="/topics/">Topics</a>
+                <ul id="nav-sub-topics">
+                    <li><a href="/topics/companies/">P&amp;C Companies</a></li>
+                    <li><a href="/topics/agents-brokers/">Agents &amp; Brokers</a></li>
+                    <li><a href="/topics/government/">Government</a></li>
+                    <li><a href="/topics/markets-coverages/">Markets/Coverages</a></li>
+                    <li><a href="/topics/operations/">Operations</a></li>
+                    <li><a href="/topics/claims/">Claims</a></li>
+                    <li><strong><a href="/topics/">More Topics</a></strong></li>
+                </ul>
+            </li>
+            <li><a href="/magazines/">Magazines</a>
+                <ul id="nav-sub-magazines">
+                    <li><a href="/magazines/east/">East</a></li>
+                    <li><a href="/magazines/midwest/">Midwest</a></li>
+                    <li><a href="/magazines/southcentral/">South Central</a></li>
+                    <li><a href="/magazines/southeast/">Southeast</a></li>
+                    <li><a href="/magazines/west/">West</a></li>
+                    <li><a href="/subscribe/magazine/">Subscribe</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.insurancejournal.com/research/">Research</a></li>
+            <li><a href="/directories/">Directories</a></li>
+            <li>
+            	<li><a href="/jobs/">Jobs</a>
+            	<ul id="nav-sub-jobs">
+					<li><a href="/jobs/categories/sales/">Sales</a></li>
+					<li><a href="/jobs/categories/marketing/">Marketing</a></li>
+					<li><a href="/jobs/categories/management/">Management</a></li>
+					<li><a href="/jobs/categories/finance/">Finance</a></li>
+					<li><a href="/jobs/categories/claims/">Claims</a></li>
+					<li><a href="/jobs/categories/underwriting/">Underwriting</a></li>
+					<li><a href="/jobs/categories/other/">Other</a></li>
+				</ul>
+			</li>
+			            <li><a href="#">Features</a>
+                <ul id="nav-sub-features">
+                    <li><a href="/events/">Events</a></li>
+                    <li><a href="/forums/">Forums</a></li>
+                    <li><a href="/buyers/">Buyers Guide</a></li>
+                    <li><a href="/twitter/">Insurance Twitter</a></li>
+                    <li><a href="/directories/">Market Directories</a></li>
+                    <li><a href="/adshowcase/">Ad Showcase</a></li>
+                    <li><a href="/quotes/">Quotes</a></li>
+                    <li><a href="/polls/">Polls</a></li>
+                </ul>
+            </li>
+            <li><a href="/subscribe/">Subscribe</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="container_16 clearfix">
+
+    <div class="ad" style="border-bottom: 1px solid #ddd;margin: 1em 0;padding-bottom: 1em;"><script type="text/javascript"><!--// <![CDATA[
+OA_show('header-728x90');
+// ]]> --></script></div>
+
+<div class="grid_10">
+	<div id="content" role="main">
+
+		<div id="article-header">
+		<h1>Edison Expects 2016 Hearing on $7.57B California Reactor Claim</h1>
+				<div class="publish-date">
+			By Harry R. Weber | 						<span class="the-date">July 31, 2015</span>		</div>
+	</div>
+
+	
+	<div id="social-tools" class="social-tools addthis_toolbox clearfix">
+	<ul class="clearfix">
+		<li><a href="#" class="addthis_button_email" onClick="_gaq.push(['_trackEvent', 'EmailThis2', 'Type', 'jQuery Tools Overlay']);">Email This</a></li>
+		<li><a href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm?print" rel="nofollow" class="social-printer" onClick="_gaq.push(['_trackEvent', 'Print', 'Type', 'Article Print']);">Print</a></li>
+		<li><a href="/subscribe/" rel="nofollow" class="social-newsletter">Newsletters</a></li>
+	</ul>
+		<ul class="social-2 clearfix">
+		<li class="facebook-button"><fb:like action="recommend" href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" send="false" layout="button_count" width="120" show_faces="false"></fb:like></li>
+		<li class="twitter-button"><a rel="nofollow" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ijournal" data-url="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" data-text="Edison Expects 2016 Hearing on $7.57B California Reactor Claim">Tweet</a></li>
+		<li class="linkedin-button"><script type="in/share" data-counter="right" data-url="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" ></script></li>
+	</ul>
+	</div>
+
+	<div id="post-377150" class="post-377150 post type-post status-publish format-standard hentry category-west tag-claim tag-damage tag-edison-international tag-nuclear-power-plant tag-san-onofre-nuclear-power-plant">
+
+	<ul id="article-tabs" class="clearfix">
+		<li><a href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" class="current">Article</a></li>
+		<li><a href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm/?comments" rel="nofollow">Comments</a></li>
+			</ul>
+
+	
+	
+			<div id="article-content">
+			<p class="bloomberg">Edison International expects a hearing to be held next year on its $7.57 billion damage claim against Mitsubishi Heavy Industries Ltd. over the shutdown of a Southern California nuclear power plant.</p>
+<p>A confidentiality order in the case, being arbitrated by the Paris-based International Chamber of Commerce, prevents Edison from further commenting on the process, Adam Umanoff, general counsel for the utility owner, told analysts in a call on Thursday.</p>
+<p>Edison closed the San Onofre nuclear power plant in 2012 after discovering a leak and finding unusual wear on steam generator tubes and decided later to permanently shut both reactors at the station. Mitsubishi Heavy, which designed and supplied the steam generators for the complex, said earlier this week that Edison is claiming damages related to San Onofre.</p>
+<p><a href="http://www.insurancejournal.com/app/uploads/2013/10/nuclear.jpg"><img class="alignleft wp-image-308580 size-thumbnail" src="http://www.insurancejournal.com/app/uploads/2013/10/nuclear-150x150.jpg" alt="nuclear" width="150" height="150" /></a>The Tokyo-based company said in a filing that its liability is capped at around $137 million.</p>
+<p>While analysts asked Edison executives during Thursday’s earnings call about the size of the claim and the timing of a resolution, Umanoff said he wasn’t in a position to comment “on substantive procedures.”</p>
+<div class="copyright-notice quiet">Copyright 2015 Bloomberg.</div>					</div>
+
+				<script type="text/javascript"><!--// <![CDATA[
+		OA_show('intext');
+		// ]]> --></script>
+		<script type="text/javascript">
+		$(function() {
+		$($('#article-content p').get(2)).before($('#ad-in-text'));
+		});
+		</script>
+		
+		
+		
+		<div id="social-tools" class="social-tools addthis_toolbox clearfix">
+	<ul class="clearfix">
+		<li><a href="#" class="addthis_button_email" onClick="_gaq.push(['_trackEvent', 'EmailThis2', 'Type', 'jQuery Tools Overlay']);">Email This</a></li>
+		<li><a href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm?print" rel="nofollow" class="social-printer" onClick="_gaq.push(['_trackEvent', 'Print', 'Type', 'Article Print']);">Print</a></li>
+		<li><a href="/subscribe/" rel="nofollow" class="social-newsletter">Newsletters</a></li>
+	</ul>
+		<ul class="social-2 clearfix">
+		<li class="facebook-button"><fb:like action="recommend" href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" send="false" layout="button_count" width="120" show_faces="false"></fb:like></li>
+		<li class="twitter-button"><a rel="nofollow" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ijournal" data-url="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" data-text="Edison Expects 2016 Hearing on $7.57B California Reactor Claim">Tweet</a></li>
+		<li class="linkedin-button"><script type="in/share" data-counter="right" data-url="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm" ></script></li>
+	</ul>
+	</div>
+
+		<div id="facebook-link">
+			<fb:like layout="standard" width="450" height="35" show_faces="true" ></fb:like>
+		</div>
+
+		<div class="related-items">
+			<ul>
+				<li><span>Categories:</span> <a href="http://www.insurancejournal.com/news/west/" rel="category tag">West News</a></li><li><span>Topics:</span> <a href="http://www.insurancejournal.com/topics/claim/" rel="tag">claim</a>, <a href="http://www.insurancejournal.com/topics/damage/" rel="tag">damage</a>, <a href="http://www.insurancejournal.com/topics/edison-international/" rel="tag">Edison International</a>, <a href="http://www.insurancejournal.com/topics/nuclear-power-plant/" rel="tag">nuclear power plant</a>, <a href="http://www.insurancejournal.com/topics/san-onofre-nuclear-power-plant/" rel="tag">San Onofre nuclear power plant</a></li>				<li>
+					<em>Have a hot lead?  Email us at <a href="mailto:newsdesk@insurancejournal.com">newsdesk@insurancejournal.com</a></em>
+				</li>
+			</ul>
+		</div>
+
+		<style>
+			#subscribe_banner {
+				 background: #000;
+				 color: #fff;
+				 font-size: 26px;
+				 margin-bottom: 20px;
+				 padding: 20px 10px 28px 10px;
+				 text-align: center;
+			}
+				#subscribe_banner form {
+					 margin-top: 20px;
+				}
+				#subscribe_banner input {
+					border: 0;
+					font-size: 22px;
+					padding: 5px 10px;
+				}
+				#subscribe_banner button {
+					background: #AF231C;
+					border: 0;
+					color: #fff;
+					font-size: 22px;
+					font-weight: bold;
+					padding: 6px 40px;
+					text-transform: lowercase;
+				}
+					#subscribe_banner button:hover {
+						color: #CDCDCD;
+						cursor: pointer;
+					}
+		</style>
+		<div id="subscribe_banner">
+			Get <strong>Insurance Journal</strong> Every Day
+			<form action="/subscribe/" method="post">
+				<input type="hidden" name="action" value="subscribe" />
+				<input type="hidden" name="ref" value="ij/single-footer" />
+				<input type="hidden" name="newsletters[]" value="1a869caa25-6105" />
+				<input type="hidden" name="all_newsletters" value="a0faa7527e-4709,1a869caa25-6105,1a869caa25-6109,1a869caa25-6133,1a869caa25-6117,1a869caa25-6113,1a869caa25-6129,1a869caa25-6125,1a869caa25-6137,1a869caa25-6141,2325ff2e4f-6157,b8316ac465-6101,b8316ac465-6097,9463e36914-6093,57f20b1aa2-6145" />
+
+				<input type="email" name="email" placeholder="your email" required="required" />
+				<button type="submit">Subscribe</button>
+			</form>
+		</div>
+
+		
+					<div id="article-bottom">
+				<div id="text-33" class="block widget_text">			<div class="textwidget"><div style="margin:0 auto 12px;width:560px;"><script><!--// <![CDATA[
+OA_show('article-billboard');
+// ]]> --></script></div></div>
+		</div>			</div>
+		
+		
+		<div class="block ads-text-links">
+<h4 style="background: none repeat scroll 0 0 #EEE;color: #333;font-size: 16px;font-weight: bold;margin: 1.5em 0 0.5em;padding: 4px 12px;">Advertisers</h4>
+<ul>
+<script type="text/javascript"><!--// <![CDATA[
+OA_show('afl-1');OA_show('afl-2');OA_show('afl-3');// ]]> --></script>
+</ul>
+</div>
+
+										<div id="respond" class="clearfix">
+				<h3 id="reply-title"><div id="allComments"><a href="http://www.insurancejournal.com/news/west/2015/07/31/377150.htm/?comments">See Comments (0)</a></div>Add a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news/west/2015/07/31/377150.htm#respond" style="display:none;">Cancel reply</a></small></h3>
+								    <form action="http://www.insurancejournal.com/wp/wp-comments-post.php" method="post" id="commentform">
+				        				        				            <p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>				            <p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+				        				        <p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>				        				        <p class="form-submit">
+				            <input name="submit" type="submit" id="submit" value="Post Comment" />
+				            <input type='hidden' name='comment_post_ID' value='377150' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+				        </p>
+				        				        <p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8a1bc574f6" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="72"/></p><p><input type="checkbox" name="notify_me" id="notify_me" value="yes" /><label for="comment_mail_notify">Notify me of comments via e-mail</label></p>				        <input type="hidden" name="redirect_to" value="/news/west/2015/07/31/377150.htm" />
+				    </form>
+							</div><!-- #respond -->
+							</div>
+
+		<div style="background:#eee;color:#333;font-size:16px;font-weight:bold;margin:1.5em 0 0.5em;padding:4px 12px;">More News</div><ul class="article-grid-list clearfix"><li><a href="http://www.insurancejournal.com/news/national/2015/07/29/376623.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2014/05/123rf-competition-11556988-150x150.jpg" class="attachment-134x134 wp-post-image" alt="123rf-competition-11556988" />MMC CEO Glaser Surveys Competitive Landscape in Wake of Consolidation</a></li><li><a href="http://www.insurancejournal.com/news/national/2015/07/29/376612.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/07/cars-used-used-car-lot-150x150.jpg" class="attachment-134x134 wp-post-image" alt="Many cars parked in rows in a parking lot" />How Old Is Average Vehicle on U.S. Roads?</a></li><li><a href="http://www.insurancejournal.com/news/national/2015/07/28/376482.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2013/12/Drones-150x150.jpg" class="attachment-134x134 wp-post-image" alt="Drones" />Tech Firms Collaborating to Make Drone Air Traffic Safe</a></li><li style="margin-right:0;"><a href="http://www.insurancejournal.com/news/national/2015/07/27/376356.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/07/internet-of-things-150x150.jpg" class="attachment-134x134 wp-post-image" alt="The Internet of Things words in white 3d letters in a cloudy sky illustrating a connected network of devices" />Fiat Chrysler Recall Highlights Cyber Risks of Connected Cars, Telematics</a></li><li><a href="http://www.insurancejournal.com/news/national/2015/07/23/376079.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/07/Integration-merger-150x150.jpg" class="attachment-134x134 wp-post-image" alt="System integration concept with union of puzzle" />New Chubb Will Preserve Old Chubb&#8217;s Agency Culture, Says ACE&#8217;s Greenberg</a></li><li><a href="http://www.insurancejournal.com/news/southcentral/2015/07/22/376034.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/05/USGS-Earthquake-Induced-Zones-Map-150x150.jpg" class="attachment-134x134 wp-post-image" alt="USGS Earthquake Induced Zones Map:
+Research has identified 17 areas in the central and eastern United States with increased rates of induced seismicity. Since 2000, several of these areas have experienced high levels of seismicity, with substantial increases since 2009 that continue today.
+Source: USGS" />4.4M Northern Oklahoma Earthquake Rattles State</a></li><li><a href="http://www.insurancejournal.com/news/southcentral/2015/07/22/376026.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/04/tx-hail-150x150.png" class="attachment-134x134 wp-post-image" alt="April Hail Storms - Texas Source: ICT" />Texas Had Costliest U.S. Cat Losses in First Half of 2015: PCS</a></li><li style="margin-right:0;"><a href="http://www.insurancejournal.com/news/national/2015/07/22/375991.htm"><img width="134" height="134" src="http://www.insurancejournal.com/app/uploads/2015/02/cyber-offense-vs-defense-150x150.jpg" class="attachment-134x134 wp-post-image" alt="cyber-offense-vs-defense" />How AIG Is Using Cyber Intelligence to Protect Property from Cyber Attacks</a></li></ul><a href="/news/featured/" class="more-results">More News Features</a>
+	</div><!-- #content -->
+</div><!-- .grid_10 -->
+
+<div class="sidebar grid_6">
+	
+	<div id="primary-sidebar" class="blocks" role="complementary">
+
+<div id="text-3" class="block widget_text">			<div class="textwidget"><script><!--// <![CDATA[
+OA_show('right-300x250-1'); // ]]> --></script></div>
+		</div>
+			<h3 class="section-top">Most Popular</h3>
+				<ul class="tabs-newswidget tabs2">
+					<li><a href="#tab-newswidget-popular">Now</a></li>
+					<li><a href="#tab-newswidget-popular-week">This Week</a></li>
+					<li><a href="#tab-newswidget-commented">Commented</a></li>
+				</ul><div class="panes-newswidget"><ul id="tab-newswidget-popular" class="article-list"><li class="heated"><div class="heat"><div style="width: 80px;"></div></div><a href="https://www.insurancejournal.com/news/west/2015/07/29/376650.htm">Pool Fire at Las Vegas Hotel Fueled by Fake Palm Trees</a></li>
+<li class="heated"><div class="heat"><div style="width: 80px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/30/376975.htm">Berkley Sees 'Management Egos, Rewards' Behind M&A Activity</a></li>
+<li class="heated"><div class="heat"><div style="width: 72px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/31/377134.htm">Intellectual Property: Conan O’Brien, Doobie Brothers, ‘Happy Birthday’, Michael Jordan</a></li>
+<li class="heated"><div class="heat"><div style="width: 72px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/28/376489.htm">ACE Names North America Management Team for New Chubb</a></li>
+<li class="heated"><div class="heat"><div style="width: 48px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/30/377086.htm">Is Climate Change Now Its Own Industry?</a></li></ul><ul id="tab-newswidget-popular-week" class="article-list"><li class="heated"><div class="heat"><div style="width: 80px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/28/376489.htm">ACE Names North America Management Team for New Chubb</a></li>
+<li class="heated"><div class="heat"><div style="width: 80px;"></div></div><a href="https://www.insurancejournal.com/news/west/2015/07/29/376650.htm">Pool Fire at Las Vegas Hotel Fueled by Fake Palm Trees</a></li>
+<li class="heated"><div class="heat"><div style="width: 64px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/22/375981.htm">Travelers Decided to Pass on Buying Chubb: Fishman</a></li>
+<li class="heated"><div class="heat"><div style="width: 64px;"></div></div><a href="https://www.insurancejournal.com/news/southcentral/2015/07/27/376404.htm">Blue Bell Begins Trial Production Runs after Listeria Scare</a></li>
+<li class="heated"><div class="heat"><div style="width: 48px;"></div></div><a href="https://www.insurancejournal.com/news/national/2015/07/30/376975.htm">Berkley Sees 'Management Egos, Rewards' Behind M&A Activity</a></li></ul><ul id="tab-newswidget-commented" class="article-list"><li><a href="https://www.insurancejournal.com/news/national/2015/07/29/376602.htm">Senate Republicans Plan Another Vote to Repeal Obamacare</a><div class="entry-meta">July 29, 2015 | <a href="https://www.insurancejournal.com/news/national/2015/07/29/376602.htm/?comments" class="comments-link">Comments (52)</a></div></li><li><a href="https://www.insurancejournal.com/news/national/2015/07/30/377086.htm">Is Climate Change Now Its Own Industry?</a><div class="entry-meta">July 30, 2015 | <a href="https://www.insurancejournal.com/news/national/2015/07/30/377086.htm/?comments" class="comments-link">Comments (14)</a></div></li><li><a href="https://www.insurancejournal.com/news/national/2015/07/28/376489.htm">ACE Names North America Management Team for New Chubb</a><div class="entry-meta">July 28, 2015 | <a href="https://www.insurancejournal.com/news/national/2015/07/28/376489.htm/?comments" class="comments-link">Comments (10)</a></div></li><li><a href="https://www.insurancejournal.com/news/national/2015/07/29/376612.htm">How Old Is Average Vehicle on U.S. Roads?</a><div class="entry-meta">July 29, 2015 | <a href="https://www.insurancejournal.com/news/national/2015/07/29/376612.htm/?comments" class="comments-link">Comments (8)</a></div></li><li><a href="https://www.insurancejournal.com/news/southeast/2015/07/28/376462.htm">Miami Agent Arrested for Stealing More than $80K from Clients</a><div class="entry-meta">July 28, 2015 | <a href="https://www.insurancejournal.com/news/southeast/2015/07/28/376462.htm/?comments" class="comments-link">Comments (7)</a></div></li></ul><a href="/mostpopular/" class="more-results">More Top Stories</a></div><div id="execphp-12" class="block widget_execphp"><h3 class="section-top">Research and White Papers</h3>			<div class="execphpwidget"><ul class="article-list contributors">
+<script><!--// <![CDATA[
+OA_show('research-sidebar-1');
+OA_show('research-sidebar-2'); // ]]> --></script>
+</ul></div>
+		</div><div id="text-22" class="block widget_text">			<div class="textwidget"><script><!--// <![CDATA[
+OA_show('right-2nd-300x250-1'); // ]]> --></script></div>
+		</div><div id="text-31" class="block widget_text"><h3 class="section-top">Free Newsletters</h3>			<div class="textwidget"><div class="icon-header"><img src="/img/icons/email-48x48.png"> Sign up to receive insurance news alerts!</div>
+<div class="block">
+<div style="padding:0.5em 0.8em;">
+    <form role="form" action="/subscribe/" method="post">
+
+	<input type="hidden" name="action" value="subscribe">
+	<input type="hidden" name="subid" value="">
+	<input type="hidden" name="ref" value="ij-subscribe">
+	<input type="hidden" name="all_newsletters" value="a0faa7527e-4709,1a869caa25-6105,1a869caa25-6109,1a869caa25-6133,1a869caa25-6117,1a869caa25-6113,1a869caa25-6129,1a869caa25-6125,1a869caa25-6137,1a869caa25-6141,2325ff2e4f-6157,b8316ac465-6101,b8316ac465-6097,9463e36914-6093,57f20b1aa2-6145">
+        <ul class="nostyle">
+            <li><label><input type="checkbox" name="newsletters[]" id="newsletter-1a869caa25-6105" value="1a869caa25-6105">Daily Headlines</label></li>
+            <li><label><input type="checkbox" name="newsletters[]" id="newsletter-1a869caa25-6109" value="1a869caa25-6109">Most Popular This Week</label></li>
+            <li><label><input type="checkbox" name="newsletters[]" id="newsletter-57f20b1aa2-6145" value="57f20b1aa2-6145">MyNewMarkets.com Daily</label></li>
+            <li><label><input type="checkbox" name="newsletters[]" id="newsletter-1a869caa25-6117" value="1a869caa25-6117">Insurance Jobs Newsletter (weekly)</label></li>
+            <li><label><input type="checkbox" name="newsletters[]" id="newsletter-9463e36914-6093" value="9463e36914-6093">Carrier Management (new)</label></li>
+        </ul>
+        <div style="padding:0.1em 0;">
+            <input type="text" onblur="if (this.value == '') { this.value='Enter your email';} " onfocus=" if (this.value == 'Enter your email') { this.value = ''; }" value="Enter your email" name="email" />
+            <input id="go" type="submit" value="Subscribe" />
+        </div>
+    </form>
+</div>
+</div></div>
+		</div><div id="text-26" class="block widget_text">			<div class="textwidget"><a href="http://www.insurancejournal.com/news-tip" id="news-lead-button" style="background: #e95c41;width: 340px;display: block;color:#ffffff;font-weight: bold;margin-bottom: 8px;margin-top:12px;">
+	<div style="text-align: center;padding: 8px 0;">Have a news tip? Tell us.</div>
+</a>
+</div>
+		</div><div id="text-15" class="block widget_text"><h3 class="section-top">Current Issue</h3>			<div class="textwidget"><div class="clearfix"> 
+    <div style="float:left;width:145px;">
+    <a href="/digital/" style="display:block;overflow:hidden;text-align:center;width:135px;height:120px;"><img src="http://d6zxf491dr98g.cloudfront.net/img/magazines/240/ijw_20150720.jpg" width="135" alt="current magazine" style="margin-top:0;" /></a></div>
+    <div style="float:left;width:195px;">
+        <a href="/magazines/insurance-journal-west-2015-07-20/" class="chrome">Read Online</a>
+        <a href="/magazines/insurance-journal-west-2015-07-20/?download" class="chrome">Download PDF</a>
+        <a href="http://www.insurancejournal.com/subscribe/magazine/" class="chrome">Subscribe</a>
+        <a href="http://itunes.apple.com/us/app/ijmagazine/id422760650?mt=8" rel="nofollow" class="chrome pop">Available on the iPad</a>
+    </div>
+</div></div>
+		</div><div id="execphp-8" class="block widget_execphp">			<div class="execphpwidget"><h3 class="section-top">Featured Videos</h3><ul id="featured-videos" class="article-list clearfix"><li><a href="http://www.insurancejournal.tv/videos/12278/"><img src="http://cdn.insurancejournal.tv/img/thumbs/120/20150423_david_tralka.jpg" width="120" height="68" /></a><div><a href="http://www.insurancejournal.tv/videos/12278/">InsurBanc’s Tralka on State of M&A Market for Agencies<span>Watch Now</span></a></div></li><li><a href="http://www.insurancejournal.tv/videos/12339/"><img src="http://cdn.insurancejournal.tv/img/thumbs/120/20150521_alexander_buckles.jpg" width="120" height="68" /></a><div><a href="http://www.insurancejournal.tv/videos/12339/">The Bond Hub Offers Surety Agents an Online Business Platform<span>Listen Now</span></a></div></li></ul><script><!--// <![CDATA[
+OA_show('video-sponsor');
+// ]]> --></script></div>
+		</div><div id="execphp-6" class="block widget_execphp"><h3 class="section-top">Editors and Contributors</h3>			<div class="execphpwidget"><ul class="article-list contributors">
+	<li class="contrib-feature clearfix"><a href="/magazines/features/2015/07/20/375098.htm">
+	<div class="contrib-img"><img src="/img/blocks/contributors-susanne-sclafane.jpg" alt="Susanne Sclafane"></div>
+	<div class="contrib-info">
+		<div class="contrib-name">Susanne Sclafane</div>
+		<div class="contrib-headline">﻿Analysis of Chubb's Future Position in P/C Product Lines</div>
+	</div></a>
+	</li>
+	<li class="contrib-feature clearfix"><a href="/magazines/editorsnote/2015/07/20/375085.htm">
+	<div class="contrib-img"><img src="/img/blocks/contributors-andrea-wells.jpg" alt="Andrea Wells"></div>
+	<div class="contrib-info">
+		<div class="contrib-name">Andrea Wells</div>
+		<div class="contrib-headline">﻿More Cell Distractions</div>
+	</div></a>
+	</li>
+	<li class="contrib-feature clearfix"><a href="/magazines/features/2015/07/20/375058.htm">
+	<div class="contrib-img"><img src="/img/blocks/contributors-don-jergler.jpg" alt="Don Jergler"></div>
+	<div class="contrib-info">
+		<div class="contrib-name">Don Jergler</div>
+		<div class="contrib-headline">﻿California Agents Get Creative to Sell Rideshare Endorsement</div>
+	</div></a>
+	</li>
+	<li class="contrib-feature clearfix"><a href="/magazines/growyouragency/2015/07/20/375097.htm">
+	<div class="contrib-img"><img src="/img/blocks/contributors-alan-shulman.jpg" alt="Alan L. Shulman"></div>
+	<div class="contrib-info">
+		<div class="contrib-name">Alan L. Shulman</div>
+		<div class="contrib-headline">﻿How to Deal With Humans (Customers) Who Prefer a Digital Interface to a Real Face</div>
+	</div></a>
+	</li>
+</ul></div>
+		</div><div id="execphp-3" class="block widget_execphp"><h3 class="section-top">Quote of Note</h3>			<div class="execphpwidget"><div class="block-quotes"><a class="quote-quote" href=""><span>No sum of money can make this family whole, but hopefully the Garner family can find some peace and finality from today’s settlement.
+
+&nbsp;
+</span></a>	<div class="quote-who"></div>			</div><a href="/quotes/" class="more-results">More Quotes</a></div>
+		</div><div id="text-5" class="block widget_text"><h3 class="section-top">Partner Center</h3>			<div class="textwidget"><div class="adStack clearfix">
+<script><!--// <![CDATA[
+OA_show('right-125x125-1');
+OA_show('right-125x125-2');
+// ]]> --></script>
+</div></div>
+		</div><div id="text-32" class="block widget_text"><h3 class="section-top">Reader Poll</h3>			<div class="textwidget"><script src="http://static.polldaddy.com/p/8959379.js"></script></div>
+		</div>	</div><!-- #primary .blocks -->
+
+
+</div><!-- .grid_6 -->
+
+	<div class="grid_4">
+	
+</div>
+
+</div>
+
+
+<div class="container_12">
+
+	<div class="clearfix" style="margin-bottom:2em;margin-top:2em;">
+
+	<div class="grid_3">
+	
+		<div class="syndicate" id="syndicate-jobs">
+			<h3 class="section-top" style="margin-top:0;">Insurance Jobs</h3>
+			<ul class="article-list"><li><a href="http://www.insurancejournal.com/jobs/managerdirector-government-relations-2/">Manager/Director Government Relations - <span class="meta" style="font-size: 100%;">Jersey City, NJ</span></a></li><li><a href="http://www.insurancejournal.com/jobs/commercial-lines-account-manager-14/">Commercial Lines Account Manager - <span class="meta" style="font-size: 100%;">Walnut Creek, CA</span></a></li><li><a href="http://www.insurancejournal.com/jobs/personal-lines-account-manager-13/">Personal Lines Account Manager - <span class="meta" style="font-size: 100%;">Santa Ana, CA</span></a></li><li><a href="http://www.insurancejournal.com/jobs/content-development-director/">Content Development Director - <span class="meta" style="font-size: 100%;">San Diego, CA</span></a></li><li><a href="http://www.insurancejournal.com/jobs/commercial-underwriter-2/">Commercial Underwriter - <span class="meta" style="font-size: 100%;">Oakbrook, IL</span></a></li>
+			</ul>
+		</div>	</div>
+	<div class="grid_3">
+		<div class="syndicate" id="syndicate-mynewmarkets">
+			<div class="align-center"><img src="/img/blocks/mynewmarkets-logo-220x38.png" alt="MyNewMarkets" /></div>
+			<ul class="article-list">
+	<li><a href="http://www.mynewmarkets.com/articles/182558/cfc-to-evaluate-insureds-cyber-risk-through-partnership-with-cyber-security-ratings-firm">CFC to Evaluate Insureds' Cyber Risk Through Partnership with Cyber Security Ratings Firm</a></li><li><a href="http://www.mynewmarkets.com/articles/182555/the-bond-hub-offers-surety-agents-online-business-platform">The Bond Hub Offers Surety Agents an Online Business Platform</a></li><li><a href="http://www.mynewmarkets.com/articles/182550/bhsi-launches-eo-coverage-for-insurance-executives-employees">BHSI Launches E&amp;O Coverage for Insurance Executives, Employees</a></li><li><a href="http://www.mynewmarkets.com/articles/182547/lloyds-exit-marijuana-market-cites-u-s-law-conflicts">Lloyd's Exits Marijuana Market, Cites U.S. Law Conflicts</a></li><li><a href="http://www.mynewmarkets.com/articles/182542/%ef%bb%bf10-things-to-know-about-recreation-leisure">10 Things to Know About Recreation &amp; Leisure</a></li>    		</ul>
+	    </div>
+		</div>
+	<div class="grid_3">
+	
+			<div class="syndicate" id="syndicate-claimsjournal">
+				<div class="align-center"><img src="/img/blocks/claimsjournal-logo-220x38.png" alt="Claims Journal" /></div>
+				<ul class="article-list"><li><a href="http://www.claimsjournal.com/news/national/2015/07/31/264891.htm">ACE’s Greenberg Addresses Chubb Employees on Buyout</a></li><li><a href="http://www.claimsjournal.com/news/national/2015/07/31/264887.htm">New Blood Test Could Predict Brain Injury Outcomes</a></li><li><a href="http://www.claimsjournal.com/news/national/2015/07/31/264871.htm">Continued Attacks to Drive Cyber Insurance Market by 2020</a></li><li><a href="http://www.claimsjournal.com/news/national/2015/07/31/264863.htm">New Technology Brings up Internet Privacy Questions</a></li>
+				</ul>
+			</div>	</div>
+	<div class="grid_3">
+			<div class="syndicate" id="syndicate-academy">
+			<div class="align-center"><img src="/img/blocks/ijacademy-logo-220x38.png" alt="Academy of Insurance education" /></div>
+			<ul class="article-list">
+	<li><span style="font-weight:bold;color:#777;">JUL 16:</span> <a href="http://www.ijacademy.com/unencrypting-cyber-privacy-liability-insurance?utm_source=insurancejournal&utm_medium=website&utm_campaign=unencrypting-cyber&utm_content=partner-links">Cyber & Privacy Liability Insurance</a></li><li><span style="font-weight:bold;color:#777;">JUL 23:</span> <a href="http://www.ijacademy.com/proper-carrier-selection-for-work-comp-protection?utm_source=insurancejournal&utm_medium=website&utm_campaign=proper-work-comp-carrier-selection&utm_content=partner-links">Proper Work Comp Carrier Selection</a></li><li><span style="font-weight:bold;color:#777;">ON-DEMAND:</span> <a href="http://www.ijacademy.com/preparing-your-clients-for-the-worker-s-compensation-premium-audit?utm_source=insurancejournal&utm_medium=website&utm_campaign=work-comp-premium-audit&utm_content=partner-links">Preparing Your Clients for the Worker's Compensation Premium Audit</a></li><li><span style="font-weight:bold;color:#777;">ON-DEMAND:</span> <a href="http://www.ijacademy.com/promos/email/2015.01.05/?utm_source=insurancejournal&utm_medium=website&utm_campaign=12-rules&utm_content=partner-links">Twelve Rules for Reading an Insurance Policy</a></li>    		</ul>
+	    </div>
+	</div>
+	</div>
+</div>
+
+<div id="footer-wrap">
+<div class="container_12">
+
+	<div class="grid_12">
+		<div class="ad"><script type="text/javascript"><!--// <![CDATA[
+		OA_show('footer-728x90');
+		// ]]> --></script></div>
+	</div>
+
+	<div id="footer" class="clearfix">
+
+		<div class="grid_3">
+
+			<h4>Insurance News</h4>
+			<ul class="ruled">
+				<li><a href="/news/">News by Region</a></li>
+				<li><a href="/topics/" title="Insurance News by Topic">News by Topic</a></li>
+<!--				<li><a href="/company/" title="Insurance Company News">News by Company</a></li>-->
+				<li><a href="/date/">Yesterday</a></li>
+			</ul>
+
+			<h4>Site Search</h4>
+			<form action="/search/" method="get">
+				<input type="text" name="q" value="" /> <input type="submit" value="Go" />
+			</form>
+		</div>
+
+		<div class="grid_3">
+			<h4>Features</h4>
+			<ul class="ruled">
+				<li><a href="/directories/">Insurance Markets Directory</a></li>
+				<li><a href="/forums/">Forums</a></li>
+				<li><a href="/ambest/">A.M. Best Company Ratings</a></li>
+				<li><a href="/events/" title="Insurance Events Calendar">Industry Events</a></li>
+				<li><a href="/agencies-for-sale/">Agencies Wanted / For Sale</a></li>
+				<li><a href="/buyers/">Buyers Guide</a></li>
+				<li><a href="/services/newswire/">Newswire</a></li>
+				<li><a href="/adshowcase/">Ad Showcase</a></li>
+				<li><a href="/jobs/">Insurance Jobs</a></li>
+			</ul>
+
+		</div>
+
+		<div class="grid_3">
+			<h4>Connect with us</h4>
+			<ul class="ruled">
+				<li><a href="/subscribe/">Email Newsletters</a></li>
+				<li><a href="/subscribe/magazine/">Magazine Subscriptions</a></li>
+				<li><a href="/newsfeed/">For Your Website</a></li>
+				<li><a href="/newsfeed/" class="social-rss">RSS Feeds</a></li>
+				<li><a href="http://www.twitter.com/ijournal" class="social-twitter">Twitter</a></li>
+				<li><a href="http://www.facebook.com/insurancejournal" class="social-facebook">Facebook</a></li>
+				<li><a href="http://www.linkedin.com/groups?home=&amp;gid=2044159" class="social-linkedin">LinkedIn</a></li>
+			</ul>
+
+		</div>
+
+		<div class="grid_3">
+
+			<h4>Insurance Journal</h4>
+			<ul class="ruled">
+				<li><a href="/submitnews/">Submit News</a></li>
+				<li><a href="/advertise/">Advertise</a></li>
+				<li><a href="/subscribe/">Subscribe</a></li>
+				<li><a href="/reprints/">Reprints</a></li>
+				<li><a href="/linkto/">Link to Us</a></li>
+				<li><a href="/contact/">Contact Us</a></li>
+			</ul>
+			
+			<h4>Wells Media Group Network</h4>
+			<ul class="ruled">
+				<li><a href="/">Insurance Journal Online</a></li>
+				<li><a href="http://www.mynewmarkets.com/" title="Insurance Market Search Engine">MyNewMarkets.com</a></li>
+				<li><a href="http://www.claimsjournal.com/">Claims Journal</a></li>
+				<li><a href="http://www.insurancejournal.tv/">Insurance Journal TV</a></li>
+				<li><a href="http://www.ijacademy.com/">Academy of Insurance</a></li>
+				<li><a href="http://www.carriermanagement.com/">Carrier Management</a></li>
+			</ul>
+
+		</div>
+
+		<div class="grid_12">
+			<div id="copyright">&copy; 2015 by Wells Media Group, Inc. <a href="/privacy/">Privacy Policy</a> | <a href="/terms/">Terms &amp; Conditions</a> | <a href="/sitemap/">Site Map</a></div>
+		</div>
+
+	</div>
+
+</div><!-- .container_12-->
+</div><!-- #footer-wrap -->
+
+<script type="text/javascript">
+var clicky = { log: function(){ return; }, goal: function(){ return; }};
+var clicky_site_id = 85385;
+(function() {
+	var s = document.createElement('script');
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = ( document.location.protocol == 'https:' ? 'https://static.getclicky.com/js' : 'http://static.getclicky.com/js' );
+	( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/85385ns.gif" /></p></noscript>
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 55683, domain: 'insurancejournal.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "PU54FYO7WJCC5KX57ERNMC";
+adroll_pix_id = "IGIV5PBTSZAMZJQJHXIRMT";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<script>_bizo_data_partner_id = "4173";</script>
+<script>
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=4173&fmt=gif" /></noscript>
+
+<img style="display:none;" onload="record_login_status(1, 'Google', true)" onerror="record_login_status(1, 'Google', false)" src="https://accounts.google.com/CheckCookie?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png" />
+<img style="display:none;" onload="record_login_status(2, 'GooglePlus', true)" onerror="record_login_status(2, 'GooglePlus', false)" src="https://plus.google.com/up/?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png&type=st&gpsrc=ogpy0" />
+<img style="display:none;" src="https://twitter.com/login?redirect_after_login=%2Fimages%2Fspinner.gif" onload="record_login_status(3, 'Twitter', true)" onerror="record_login_status(3, 'Twitter', false)" />
+		<div id="fb-root"></div>
+		<script>
+			window.fbAsyncInit = function(){
+				FB.init({ appId:'184677694980236', status:true,  cookie:true, xfbml:true});
+				FB.getLoginStatus(function(response){
+					if (response.status != "unknown")
+					{
+						record_login_status(4, "Facebook", true);
+					}else{
+						record_login_status(4, "Facebook", false);
+					}
+				});
+			};
+			// Load the SDK Asynchronously
+			(function(d){
+				var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+				js = d.createElement('script'); js.id = id; js.async = true;
+				js.src = "//connect.facebook.net/en_US/all.js";
+				d.getElementsByTagName('head')[0].appendChild(js);
+			}(document));
+		</script>
+<script type='text/javascript' src='http://www.insurancejournal.com/app/plugins/akismet/_inc/form.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/app/plugins/comment-rating-pro/ck-karma.js?ver=4.2.2'></script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js?ver=4.2.2#pubid=wellspub'></script>
+<script type='text/javascript' src='http://platform.linkedin.com/in.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.insurancejournal.com/wp/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+
+<div id="fb-root"></div>
+
+<script>
+	// load twitter js-api asynchronously
+	(function(){
+		var twitterWidgets = document.createElement('script');
+		twitterWidgets.type = 'text/javascript';
+		twitterWidgets.async = true;
+		twitterWidgets.src = document.location.protocol + '//platform.twitter.com/widgets.js';
+
+		// setup a callback to track once the script loads.
+		twitterWidgets.onload = trackTwitter;
+
+		document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+	})();
+
+	// bind tweet action
+	function trackTwitter() {
+		twttr.events.bind('tweet', function(event) {
+			if (event) {
+				var targetUrl;
+				if (event.target && event.target.nodeName == 'IFRAME') {
+					targetUrl = extractParamFromUri(event.target.src, 'url');
+				}
+				_gaq.push(['_trackSocial', 'twitter', 'tweet', targetUrl]);
+			}
+		});
+	}
+
+	// extract url from tweet button
+	function extractParamFromUri(uri, paramName){
+		if(!uri){
+			return;
+		}
+		var uri = uri.split('#')[0]; //remove anchor
+		var parts = uri.split('?'); //check for query params
+		if(parts.length == 1){
+			return; //no params
+		}
+		var query = decodeURI(parts[1]);
+		//find the url param
+		paramName += '=';
+		var params = query.split('&');
+		for(var i = 0, param; param = params[i]; ++i){
+			if(param.indexOf(paramName) === 0){
+				return unescape(param.split('=')[1]);
+			}
+		}
+	}
+
+	// Facebook async loading.
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +
+			'//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}());
+
+	window.fbAsyncInit = function() {
+		FB.init({appId: '134372893286437', status: true, cookie: true, xfbml: true});
+		FB.Event.subscribe('edge.create', function(targetUrl){
+			_gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+		});
+		FB.Event.subscribe('edge.remove', function(targetUrl){
+			_gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+		});
+		FB.Event.subscribe('message.send', function(targetUrl) {
+			 _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+		});
+	};
+</script>
+
+<script type="text/javascript"><!--// <![CDATA[
+OA_show('interstitial');
+//OA_show('sticky-footer');
+OA_show('corner');
+// ]]> --></script>
+
+
+<!--8 queries. 0.804 seconds.-->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1194c1f0c5","applicationID":"157988","transactionName":"b1BQMBNQVhBUWkcNXFYaZxYIHlENUVxLSkNQRQ==","queueTime":0,"applicationTime":16,"atts":"QxdTRltKRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 1/9 queries in 0.007 seconds using memcached
+
+ Served from: www.insurancejournal.com @ 2015-08-01 23:17:55 by W3 Total Cache -->

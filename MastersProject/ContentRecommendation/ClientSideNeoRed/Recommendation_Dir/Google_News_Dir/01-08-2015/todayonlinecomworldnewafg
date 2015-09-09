@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link rel="shortlink" href="http://www.todayonline.com/node/1416196" />
+<link rel="canonical" href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" />
+<meta property="og:image" content="http://www.todayonline.com/sites/default/files/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG" />
+<meta property="og:site_name" content="TODAYonline" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="og:url" content="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" />
+<link rel="shortcut icon" href="http://www.todayonline.com/sites/all/themes/today/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="twitter:url" content="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" />
+<meta property="twitter:site" content="@todayonline" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:title" content="New Afghan Taliban leader appeals for unity in first public message" />
+<meta property="twitter:player:height" content="480" />
+<meta property="twitter:title" content="New Afghan Taliban leader appeals for unity in first public message" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="DERA ISMAIL KHAN/ PESHAWAR, Pakistan - The new Afghan Taliban leader appealed for unity in the insurgency in his first public message released on Saturday amid reports his predecessor&#039;s family members opposed his selection.
+The new head, Mullah Akhtar Mohammad Mansour, was deputy for several years to the elusive one-eyed former leader Mullah Omar, who served as a unifying figure and a spiritual guide for the insurgency despite his absence.
+This week the Taliban confirmed Omar had been dead for some time. The Afghan government said it was more than two years.
+Mansour&#039;s selection could be a promising development for peace talks, analysts say, if he can persuade other factions of the fractious insurgency to support him.
+&quot;The enemy can&#039;t defeat us if we shown unity,&quot; he said in an audio recording that Taliban members provided to journalists.
+&quot;I will utilize all my energies to follow our late Mullah Mohammad Omar and his mission,&quot; he said. &quot;We need to be patient and should try to go to those friends who are unhappy. We will have to convince them and take them on board.&quot;
+On Friday, Taliban commanders who attended the meeting that chose Mansour as Omar&#039;s successor told Reuters that Omar&#039;s son and brother had walked out of the gathering in protest.
+The open dissent within the movement&#039;s core group underscores the challenge Mansour faces. He has to try to persuade wavering commanders to pursue peace talks with the Afghan government at the same time a new extremist group is stepping up its recruiting in the region - Islamic State.
+Two Afghan militant groups declared Omar was dead last month and swore allegiance to Islamic State.
+Mansour blamed divisions in the Taliban on &quot;enemy propaganda&quot; and swore to continue to fight for rule under sharia, the Islamic legal and moral code, and to follow the vision of Mullah Omar.
+He also cautioned against the killing of civilians. A United Nations report released at the end of last year said that for a second year, insurgents were responsible for about 75 percent of civilians killed.
+&quot;In the name of jihad, the killing of innocent people is not Islamic. We need to win the hearts of people, then we can rule their hearts,&quot; he said.
+Mansour confirmed that one of his deputies was Sirajuddin Haqqani, the son of renowned jihadi leader Jalaluddin Haqqani, founder of the fearsome Haqqani militant network blamed for some of Afghanistan&#039;s deadliest suicide attacks.
+Several Taliban leaders told Reuters on Friday that Jalaluddin also died a year and a half ago. But on Saturday, a Taliban spokesman denied this. REUTERS" />
+<meta property="fb:app_id" content="146489805395077" />
+<meta property="twitter:description" content="DERA ISMAIL KHAN/ PESHAWAR, Pakistan - The new Afghan Taliban leader appealed for unity in the insurgency in his first public message released on Saturday amid reports his predecessor&#039;s family members opposed his selection." />
+<meta property="twitter:image" content="http://www.todayonline.com/sites/default/files/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG" />
+<meta property="twitter:player:width" content="640" />
+<meta property="twitter:player" content="https://www.youtube.com/embed/" />
+<meta property="twitter:image:height" content="480" />
+<meta property="twitter:image:width" content="640" />
+<meta name="description" content="DERA ISMAIL KHAN/ PESHAWAR, Pakistan - The new Afghan Taliban leader appealed for unity in the insurgency in his first public message released on Saturday amid reports his predecessor&#039;s family members opposed his selection.
+The new head, Mullah Akhtar Mohammad Mansour, was deputy for several years to the elusive one-eyed former leader Mullah Omar, who served as a unifying figure and a spiritual guide for the insurgency despite his absence.
+This week the Taliban confirmed Omar had been dead for some time. The Afghan government said it was more than two years." />
+<script src="http://cdn.cxense.com/cx.js" type="text/javascript" async=""></script>
+<script src="http://ad.crwdcntrl.net/5/c=5225/pe=y/var=lotauds" type="text/javascript"></script>
+<script type="text/javascript">
+  //start of lotame ads targeting
+    //prepare key/value pair of user audiences. Example result: "lotameid=sports;lotameid=movie;lotameid=blogger"
+    var dfpLotameKey = "lotameid";
+    var dfpLotame = "";
+
+    if (typeof(lotauds) != "undefined")
+    {
+        for (var cci = 0; cci < lotauds.Profile.Audiences.Audience.length; cci++)
+        {
+            if (cci > 0) dfpLotame += ",";
+            dfpLotame += lotauds.Profile.Audiences.Audience[cci].abbr;
+        }
+    }</script>
+<meta name="cXenseParse:recs:articleid" content="1416196"/><meta name="cXenseParse:recs:publishtime" content="2015-08-01T20:49:19.000Z"/>
+  <title>New Afghan Taliban leader appeals for unity in first public message | TODAYonline</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  <link type="text/css" rel="stylesheet" href="http://www.todayonline.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.todayonline.com/sites/default/files/css/css_1dVKfsyZxr1WEimJAbGS38ucdBwL6vt-HdL29LEQ3lY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.todayonline.com/sites/default/files/css/css_VwYxBi1KE3hemS7sYlCQZsqGDT-Y9LPcNeblwOLcOo4.css" media="all" />
+<style>#block-views-most-column-block{border-bottom:1px solid #CDCDCD;padding-bottom:16px;margin-bottom:1em;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.todayonline.com/sites/default/files/css/css_YFHFGb2yN4JJvsi2SSAiuzijoEneRCKCtA0ng4cNeLs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.todayonline.com/sites/default/files/css/css_dkH096LBlA-pZNoC6UXmdZ1xjmzbVhMNBqjaLN4ZuRU.css" media="all" />
+  <script src="http://www.todayonline.com/sites/default/files/js/js_zzcIWOou_jnX0ZWAIA4sb6Xy_p5a8FZNA0GySvuWjPU.js"></script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_-NrLBtjbp3H3IXQufQem4PruVHEib8qlUG2H6Qt_7O4.js"></script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_720syJPPSjgyE63l3RToqM2Vyaarv9fZ6oVP-oFTdU0.js"></script>
+<script>var dart_url = "http://ad.doubleclick.net";</script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_2iSzWwdJScCcNy-cgMtC1X7zlitWFyh1vWgl5PalzHY.js"></script>
+<script>var googletag = googletag || {};
+          googletag.cmd = googletag.cmd || [];
+          var gptadslots = [];
+          var gpto = 'b';
+          var gptkey = 'a'; //could be nb</script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_DMwIpq0bGjxkXzOnLIsuPmPxhLiTQKT1DU66GZSHwCc.js"></script>
+<script>
+      var gptid = 462759946838318386;
+      googletag.cmd.push(function() {
+      gptadslots[99]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[728,90]],'div-gpt-ad-462759946838318386-99').addService(googletag.pubads());
+
+      //Adslot 0 declaration
+      gptadslots[0]= googletag.defineSlot('/4654/mc.tdyonl.com/catfish', [951, 90], 'div-gpt-ad-1415606091366-0').addService(googletag.pubads());
+
+      //Adslot 1 declaration
+      gptadslots[1]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[728,90]],'div-gpt-ad-462759946838318386-1').addService(googletag.pubads());
+
+      //Adslot 2 declaration
+      gptadslots[2]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[300,250]],'div-gpt-ad-462759946838318386-2').setTargeting('pos',['1']).addService(googletag.pubads());
+
+      //Adslot 3 declaration
+      gptadslots[3]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[300,250]],'div-gpt-ad-462759946838318386-3').setTargeting('pos',['2']).addService(googletag.pubads());
+
+      //Adslot 4 declaration
+      gptadslots[4]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[300,250]],'div-gpt-ad-462759946838318386-4').setTargeting('pos',['3']).addService(googletag.pubads());
+
+      //Adslot 5 declaration
+      gptadslots[5]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[300,600]],'div-gpt-ad-462759946838318386-5').setTargeting('pos',['4']).addService(googletag.pubads());
+
+      //Adslot 6 declaration
+      gptadslots[6]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[160,600]],'div-gpt-ad-462759946838318386-6').addService(googletag.pubads());
+
+      //Adslot 7 declaration
+      gptadslots[7]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[360,170]],'div-gpt-ad-462759946838318386-7').addService(googletag.pubads());
+
+      //Adslot 8 declaration
+      gptadslots[8]= googletag.defineSlot('/4654/mc.tdyonl.com/beta', [[310,1280]],'div-gpt-ad-462759946838318386-8').setTargeting('pos',['l']).addService(googletag.pubads());
+
+      //Adslot 9 declaration
+      gptadslots[9]= googletag.defineSlot('/4654/mc.tdyonl.com/beta', [[310,1280]],'div-gpt-ad-462759946838318386-9').setTargeting('pos',['r']).addService(googletag.pubads());
+      //Adslot 10 declaration
+      gptadslots[10]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[560,170]],'div-gpt-ad-462759946838318386-10').setTargeting('pos',['r']).addService(googletag.pubads());
+
+      //Adslot 11 decelration
+      gptadslots[11]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[320,50]],'div-gpt-ad-462759946838318386-11').setTargeting('pos',['1']).addService(googletag.pubads());;
+
+      //Adslot 12 decelration
+      gptadslots[12]= googletag.defineSlot('/4654/mc.tdyonl.com/world', [[970,90]],'div-gpt-ad-462759946838318386-12').setTargeting('pos',['1']).addService(googletag.pubads());
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().enableSyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().setTargeting(dfpLotameKey, [dfpLotame]);
+      googletag.pubads().setTargeting('UID', lotauds.Profile.pid);      
+googletag.enableServices();
+    });</script>
+<script src="//sv.brand-display.com/js/kserve.js"></script>
+<script>var knxtag = knxtag || {}; knxtag.items = knxtag.items || [];</script>
+<script src="http://www.todayonline.com/sites/default/files/js/js_U6xCiHJBr90_Xst_tpdFWg2C213sM6dh8zcLuIOE1sg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"today","theme_token":"bPL45eJr7YdOpqLqVZ024l1dTeUoUr_NoVMUeBUFoNo","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/modules\/custom\/today_new_sso\/today_new_sso.js":1,"misc\/progress.js":1,"sites\/all\/modules\/onix\/onix_newstream\/js\/newstream.engine.js":1,"sites\/all\/modules\/onix\/onix_facebook\/js\/onix_facebook.engine.js":1,"sites\/all\/modules\/custom\/today_multimedia\/js\/today-multimedia-fix.js":1,"sites\/all\/modules\/custom\/today_multimedia\/js\/today-multimedia-overlay.js":1,"sites\/all\/modules\/onix\/onix_multimedia\/js\/onix-multimedia-overlay.js":1,"sites\/all\/modules\/contrib\/radioactivity\/js\/radioactivity.js":1,"sites\/all\/modules\/contrib\/dart\/dart.js":1,"0":1,"sites\/all\/themes\/today\/js\/jquery.tools.min.js":1,"sites\/all\/themes\/today\/js\/hoverIntent.js":1,"sites\/all\/themes\/today\/js\/scrollable.js":1,"sites\/all\/themes\/today\/js\/home.js":1,"sites\/all\/themes\/today\/js\/common.js":1,"sites\/all\/themes\/today\/..\/..\/libraries\/fancybox\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/today\/js\/navigation.js":1,"sites\/all\/themes\/today\/js\/accordion.js":1,"sites\/all\/themes\/today\/js\/jquery.columnizer.js":1,"sites\/all\/themes\/today\/js\/jquery.jscrollpane.js":1,"sites\/all\/themes\/today\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/today\/js\/s_code.js":1,"sites\/all\/themes\/today\/js\/Omniture.js":1,"sites\/all\/themes\/today\/js\/jquery.ads.js":1,"sites\/all\/themes\/today\/lightbox\/js\/lightbox.js":1,"sites\/all\/themes\/today\/js\/ajax.omniture.js":1,"sites\/all\/themes\/today\/js\/newstream_ads.js":1,"sites\/all\/themes\/today\/js\/newstream_filter.js":1,"sites\/all\/themes\/today\/js\/nivo_slider_today.js":1,"1":1,"sites\/all\/modules\/onix\/onix_search\/js\/search.js":1,"sites\/all\/themes\/today\/js\/mobile_detect.js":1,"sites\/all\/modules\/custom\/header_complement_today\/js\/print-edition.js":1,"sites\/all\/modules\/onix\/onix_share\/js\/share.engine.js":1,"sites\/all\/themes\/today\/js\/active_menu_opinion.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"3":1,"\/\/sv.brand-display.com\/js\/kserve.js":1,"4":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/today_functions\/css\/today_functions.acquia-purge-message.css":1,"sites\/all\/modules\/custom\/today_hashtag_reader\/css\/voicestodayfeed.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/pollanon\/pollanon.css":1,"sites\/all\/modules\/contrib\/radioactivity\/css\/radioactivity.css":1,"0":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/638aad109e1c846f7a833f3bc8f74711_0.css":1,"sites\/all\/modules\/custom\/header_complement_today\/css\/print-edition.css":1,"sites\/all\/modules\/custom\/today_ads\/css\/today_ads.css":1,"sites\/all\/modules\/custom\/outbrain_today\/css\/outbrain-styles.css":1,"sites\/all\/themes\/today\/system.menus.css":1,"sites\/all\/themes\/today\/css\/normalize.css":1,"sites\/all\/themes\/today\/css\/wireframes.css":1,"sites\/all\/themes\/today\/css\/layouts\/fixed-width.css":1,"sites\/all\/themes\/today\/css\/page-backgrounds.css":1,"sites\/all\/themes\/today\/css\/tabs.css":1,"sites\/all\/themes\/today\/css\/pages.css":1,"sites\/all\/themes\/today\/css\/blocks.css":1,"sites\/all\/themes\/today\/css\/navigation.css":1,"sites\/all\/themes\/today\/css\/views-styles.css":1,"sites\/all\/themes\/today\/css\/nodes.css":1,"sites\/all\/themes\/today\/css\/comments.css":1,"sites\/all\/themes\/today\/css\/forms.css":1,"sites\/all\/themes\/today\/css\/fields.css":1,"sites\/all\/themes\/today\/css\/print.css":1,"sites\/all\/themes\/today\/css\/type.css":1,"sites\/all\/themes\/today\/css\/article.css":1,"sites\/all\/themes\/today\/css\/home.css":1,"sites\/all\/themes\/today\/css\/jquery.jscrollpane.css":1,"sites\/all\/themes\/today\/css\/onix_mosaic.css":1,"sites\/all\/themes\/today\/css\/onix_print_edition.css":1,"sites\/all\/themes\/today\/css\/onix_tv_guide.css":1,"sites\/all\/themes\/today\/lightbox\/css\/lightbox.css":1,"sites\/all\/themes\/today\/css\/newstream.css":1,"sites\/all\/themes\/today\/css\/digital-features.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"got_website_session":false,"onix_facebook":{"FBAppID":"146489805395077"},"search":"Search...","onix_newstream":{"default_filters":[{"machine_name":"hot_news","title":"Hot News","view_name":"hot_news_home","display_name":"block","arguments":"all"},{"machine_name":"commentary","title":"Commentary","view_name":"newstream","display_name":"default","arguments":"102"},{"machine_name":"voices","title":"Voices","view_name":"newstream","display_name":"default","arguments":"2"},{"machine_name":"singapore","title":"Singapore","view_name":"newstream","display_name":"default","arguments":"3"},{"machine_name":"daily_focus","title":"Daily Focus","view_name":"newstream","display_name":"default","arguments":"4"},{"machine_name":"china_india","title":"China \u0026 India","view_name":"newstream","display_name":"default","arguments":"110"},{"machine_name":"world","title":"World","view_name":"newstream","display_name":"default","arguments":"5"},{"machine_name":"business","title":"Business","view_name":"newstream","display_name":"default","arguments":"6"},{"machine_name":"tech","title":"Tech","view_name":"newstream","display_name":"default","arguments":"299"},{"machine_name":"sports","title":"Sports","view_name":"newstream","display_name":"default","arguments":"8"},{"machine_name":"entertainment","title":"Entertainment","view_name":"newstream","display_name":"default","arguments":"11"},{"machine_name":"lifestyle","title":"Lifestyle","view_name":"newstream","display_name":"default","arguments":"176"},{"machine_name":"blogs","title":"Blogs","view_name":"newstream","display_name":"default","arguments":"101"},{"machine_name":"photos","title":"Photos","view_name":"photos","display_name":"page","arguments":""},{"machine_name":"videos","title":"Videos","view_name":"videos","display_name":"page","arguments":""}],"twitter_users":[{"user_name":"TODAYonline","title":"@TODAYonline"},{"user_name":"tdy_T","title":"@tdy_T"},{"user_name":"tdysports","title":"@tdysports"}]},"radioactivity":{"emitters":{"\/sites\/all\/modules\/contrib\/radioactivity\/emit.php":{"checksum":"6a13ceacab98a3104e4037394d8cc786","data":"a:1:{s:4:\u0022Live\u0022;a:1:{s:4:\u0022node\u0022;a:1:{s:7:\u0022article\u0022;a:1:{s:19:\u0022field_radioactivity\u0022;a:1:{s:3:\u0022und\u0022;a:1:{i:1416196;i:10;}}}}}}"}},"flood_protection":{"enabled":false,"timeout":15}},"onix_active_trail":[{"title":"World","href":"\/world"}],"parent_mobile":{"mobile":"5"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  <!-- Start: GPT Async -->
+
+<script type='text/javascript'>
+                var gptadslots=[];
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                (function(){ var gads = document.createElement('script');
+                                gads.async = true; gads.type = 'text/javascript';
+                                var useSSL = 'https:' == document.location.protocol;
+                                gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                                var node = document.getElementsByTagName('script')[0];
+                                node.parentNode.insertBefore(gads, node);
+                })();
+</script>
+
+ 
+		<!-- Cxense script begin -->
+    <!--SSO Script-->
+  <script type="text/javascript" src="http://tags.crwdcntrl.net/c/5800/cc.js?ns=_cc5800" id="LOTCC_5800"></script>
+    <script type="text/javascript">
+     var SSOID = Drupal.settings.sso_id;
+     var got_website_session = Drupal.settings.got_website_session;
+  if(SSOID == undefined){
+       SSOID = '';
+       }        
+        var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+     
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+    
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+            
+        function GenerateUID(SSOID) {
+            try{                
+                UniversalID = getCookie("UID"); //Get Universal ID from cookies
+                var LotameID = lotauds.Profile.pid; //Get Lotame ID
+                var CxenseID = getCookie("cX_P");  //Get CxenseID
+                //Pass SSOID to lotame - Start
+                if (SSOID != "") {
+                    _cc5800.add('tp', 'MCRP');  //'MCRP'
+                    _cc5800.add('tpid', SSOID);
+
+                }
+                _cc5800.bcp();
+                //Pass SSOID to lotame - END
+
+                //Call API to generate universal ID
+                if ((UniversalID == "" && SSOID == "") || (UniversalID != SSOID && SSOID != "")) {
+                    var mapping = { LotameID: LotameID, CxenseID: CxenseID, SSOID: SSOID }
+
+                    $.support.cors = true;
+                    $.ajax({
+                        type: "POST",
+                        data: JSON.stringify(mapping),
+                        crossDomain: true,
+                        url: "https://uid.mediacorp.sg/api/Profiles/GetUID",
+                        contentType: "application/json",
+                        success: function (result, status) {
+                setCookie("UID", result, 365);                            
+                //cxense script start                                       
+                //Pass Universal ID to Cxense
+                cX.callQueue.push(['invoke', function () { // This is called when CX is ready, no need for callQueue.push after this.
+                                if (result != "" && result != "null" && result != "true" && result != "false" && result != "error" && result != "undefined" && result.length > 5)
+                                {
+                                    cX.addExternalId({ id: result, type: 'mdc' });
+                                }
+                                cX.setSiteId('9222302702321341888');
+                //for testing environment only. 
+                                //cX.sendPageViewEvent({ 'location': 'http://www.channelnewsasia.com/news/asiapacific/aggressive-governance-for/1790254.html' });
+                //for production use below
+                cX.sendPageViewEvent();
+                            }]);
+                        
+                        },
+                        error: function (result, status) {                            
+                //cxense script start
+                cX.callQueue.push(['invoke', function () { // This is called when CX is ready, no need for callQueue.push after this.
+                                cX.setSiteId('9222302702321341888');                
+                cX.sendPageViewEvent();
+                            }]);                  
+                        }
+                    });
+                }
+        else{
+            //cxense script start
+            cX.callQueue.push(['invoke', function () { 
+                        cX.setSiteId('9222302702321341888');                
+            cX.sendPageViewEvent();
+                        }]);
+            //cxense script end
+        }       
+      }
+            catch (ex)
+            {}
+        }
+        
+    (function() { try { var scriptEl = document.createElement('script'); 
+    scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+    scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+    var targetEl = document.getElementsByTagName('script')[0]; 
+    targetEl.parentNode.insertBefore(scriptEl, targetEl); } 
+    catch (e) {};} ());
+    //cxense script end
+    
+    //Call below function at section where you can get SSOID after user login successful and upon page load without login
+        GenerateUID(SSOID);
+    </script>
+		<!-- Cxense script end -->
+ 
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> <!-- font awesome icons -->
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1416196 node-type-article section-world" >
+<script>
+//SSO SCRIPTS BEGINS
+//http://beta.profile.mediacorp.sg/mawademo/ClientServer5.aspx
+//https://login.mediacorp.sg/Api/Api/profiles/get
+
+function onSignedInFunction(token) {
+ if (token === null || token.JWT === null || token.JWT === "") {
+  //Invalid token
+ } else {
+  $.ajax({
+   type: "POST",
+  url: "http://www.todayonline.com/sso/login/endpoint",
+  data: {token :token.JWT },
+   success: function (data) {
+    console.log(data);
+ var url = "http://www.todayonline.com/print-edition/archive?r=1499339100";    
+$(location).attr('href',url);
+   },
+   error: function () {
+console.log('error');
+   }
+  });
+ }
+};
+function onStatusChangedFunction(status) {
+ console.log(got_website_session);
+console.log(status);
+ if (!got_website_session || (got_website_session && status === "authenticated_changed")) {
+  if (status === "authenticated" || status === "authenticated_changed") {
+   var token = MCA.token();
+   if (token === null || token.JWT === null || token.JWT === "") {
+    //Invalid token
+   } else {
+    $.ajax({
+     type: "POST",
+     url: "http://www.todayonline.com/sso/login/endpoint",
+     data: { token: token.JWT  },
+     success: function (data) {
+      console.log(data);
+//       var url = "http://todayonlistg.prod.acquia-sites.com/print-edition/archive?r=1499339100";
+//$(location).attr('href',url);
+      //User profile return successfully
+     },
+     error: function () {
+      console.log('error');
+      //Error handling
+     }
+    });
+   }
+  } else {
+   //User not login
+  }
+ }
+}
+function onTokenRefreshedFunction(token) {
+ 
+}
+
+window.mcaAsyncInit = function () {
+ MCA.init({
+  onSignedIn: onSignedInFunction,
+  onStatusChanged: onStatusChangedFunction//,
+  //onTokenRefreshed: onTokenRefreshedFunction
+ });
+};
+
+(function (d) {
+ var js, id = 'mcajssdk', ref = d.getElementsByTagName("body")[0];
+ if (d.getElementById(id)) { return; }
+ js = d.createElement("script"); js.id = id; js.async = true;
+ js.src = "https://login.mediacorp.sg/jssdk/mca.js?clientid=F0366B28-2521-4AE3-945D-7512473B83CB";
+ ref.insertBefore(js, ref.childNodes[0]);
+}(document));
+
+//MCA.signIn()
+//MCA.signUp()
+//MCA.signOut()
+//MCA.updateProfile]()
+
+//UAT & PRD CLIENT ID: F0366B28-2521-4AE3-945D-7512473B83CB
+//SSO SCRIPTS ENDS
+</script>
+<div class="googleplusverify" style="height: 0;width: 0;visibility: hidden;position: absolute;"><a href="https://plus.google.com/106844520243221322465" rel="publisher">Google+</a></div>
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://sg-ssl' : 'http://sg-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+  <img src="//sg.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+
+        <div id="dfp-header">
+      </div>
+<div class="skin">
+<!-- sponsors skinners -->
+  <div class="skinner-left">
+    <!-- begin ad tag -->
+<div class="skinner-ad-left"></div>
+<script>
+(function($){
+  $('.skinner-ad-left').html(
+    '<div id="div-gpt-ad-' + gptid + '-8" class="gpt-ad-item"></div>'
+  );
+googletag.cmd.push(
+function() {
+googletag.display('div-gpt-ad-' + gptid + '-8');
+}
+);
+
+})(jQuery);
+</script>
+<!-- end ad tag -->
+  </div>
+<div class="skinner-right">
+    <!-- begin ad tag -->
+<div class="skinner-ad-right"></div>
+<script>
+(function($){
+  $('.skinner-ad-right').html(
+    '<div id="div-gpt-ad-' + gptid + '-9" class="gpt-ad-item"></div>'
+  );
+googletag.cmd.push(
+function() {
+googletag.display('div-gpt-ad-' + gptid + '-9');
+}
+);
+
+})(jQuery);
+</script>
+<!-- end ad tag -->
+  </div>
+  <!-- end of sponsors skinners -->
+
+<div id="page">
+
+
+  <div id="above-header">
+      <div class="region region-above-header">
+    <div id="block-onix-header-onix-header-web" class="block block-onix-header first last odd">
+
+      
+  
+  <div class="weather-bar">
+    <div class="weather-bar-degrees">
+      <span class="weather-bar-title">Singapore Weather</span> <span class="weather-bar-range">Min.</span> 27° | <span class="weather-bar-range">Max.</span> 33°
+    </div>
+    <div class="weather-bar-image">
+      <img src="http://mobile.mediacorp.com.sg/Today/images/thunder.png"></img>
+    </div>
+    <div class="weather-bar-extra">
+      <span class="">Air Quality: PSI 48-57</span> <!-- <span class="weather-bar-message">Thundery showers mainly over northern , eastern and western Singapore in the afternoon.</span> <span class="weather-bar-time">As of 8:57AM</span> -->
+    </div>
+  </div>
+
+	<div class="social-bar">
+    <a href="http://www.todayonline.com/print-edition/archive?r=2134734732" class="pdf-archives not-loggedin">LOGIN FOR PDF ARCHIVES</a><a href="/loginSSO?destination=http%3A//www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" class="logout-link"></a>    <div class="header-social-links">
+    	<a href="http://www.facebook.com/todayonline" target=_blank><div class="social-link fb-link"></div></a>
+    	<a href="https://twitter.com/#!/TODAYonline" target=_blank><div class="social-link twitter-link"></div></a>
+    	<!--a href="https://plus.google.com/107012923813555195102/" target=_blank><img class="social-link googleplus-link"></img></a !-->
+  	</div>
+	</div>
+
+
+	<div class="player-iframe">
+    <iframe id="jPlayer" src="/jplayer/index.html" width="70px" height="30px" style="overflow: hidden; border: none" scrolling="no" frameBorder="0" scrolling="no" allowTransparency="true"></iframe>
+	</div>
+
+
+	<div class="search-form">
+    <div id="block-onix-search-onix-search-block-form" class="block block-onix-search first odd">
+
+      
+  <form action="/world/new-afghan-taliban-leader-appeals-unity-first-public-message" method="post" id="onix-search-search-box-form--2" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-search-field">
+  <input type="text" id="edit-search-field--2" name="search_field" value="Search..." size="18" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="" class="form-submit" /><input type="hidden" name="form_build_id" value="form-C7nzwBK2yOcVkEmkbvdCG9nKmcAxxjlU_SQd1XOTWHo" />
+<input type="hidden" name="form_id" value="onix_search_search_box_form" />
+</div></form>
+</div>
+	</div>
+
+</div>
+  </div>
+  </div>
+
+  <header id="header" role="banner">
+
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://www.todayonline.com/sites/all/themes/today/logo.png" alt="Home" /></a>
+    
+          <hgroup id="name-and-slogan">
+        
+                  <h2 id="site-slogan">We set you thinking</h2>
+        
+        <span id="site-date">Sunday 2 August 2015</span>
+      </hgroup><!-- /#name-and-slogan -->
+    
+    <div id='complement' class="temp">
+      <div id="block-onix-header-onix-header-complement" class="block block-onix-header even">
+
+      
+  <div id="header-featured-title-container" class="print-edition-earspace">
+  <a href="/print-edition">Read the PDF<br />print edition</a></div>
+<div id="header-featured-image-container" class="print-edition-earspace">
+	  <div class="print-edition-block-rotator" style="width: 244px">
+    	    	    	<div class="print-edition-block-rotator-item first">
+        	<a href="/print-edition">
+				<img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/print_edition_cover_165/public/20150108_AP_page_3.jpg?itok=UsrLm4Vh" width="" height="" alt="" title="" />            </a>
+        </div>
+        	    	<div class="print-edition-block-rotator-item last">
+        	<a href="/print-edition">
+				<img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/print_edition_cover_165/public/20150108_AP_page_33.jpg?itok=hGcKtrTl" width="" height="" alt="" title="" />            </a>
+        </div>
+      </div>
+</div><br />
+</div>
+      <!--Dummy complement image-->
+    </div>
+
+    
+  </header>
+
+  <div id="navigation">
+              <nav id="main-menu" role="navigation">
+          <h2 class="element-invisible">Main menu</h2><ul class="links clearfix"><li class="menu-218 first"><a href="/" class="no-arrow">hot news</a></li>
+<li class="menu-1316"><a href="/commentary" id="submenu-102">Commentary</a></li>
+<li class="menu-1020"><a href="/voices" id="submenu-2">Voices</a></li>
+<li class="menu-1021"><a href="/singapore" id="submenu-3">Singapore</a></li>
+<li class="menu-1022"><a href="/daily-focus" id="submenu-4">daily focus</a></li>
+<li class="menu-1327"><a href="/chinaindia" id="submenu-110">China &amp; India</a></li>
+<li class="menu-1023 active-trail"><a href="/world" id="submenu-5" class="active-trail">World</a></li>
+<li class="menu-1024"><a href="/business" id="submenu-6">Business</a></li>
+<li class="menu-2747"><a href="/tech" id="submenu-299">Tech</a></li>
+<li class="menu-1026"><a href="/sports" id="submenu-8">Sports</a></li>
+<li class="menu-1029"><a href="/entertainment" id="submenu-11">Entertainment</a></li>
+<li class="menu-2289"><a href="/lifestyle" id="submenu-176">Lifestyle</a></li>
+<li class="menu-1317"><a href="/blogs" id="submenu-101">Blogs</a></li>
+<li class="menu-1326"><a href="/photos" id="photos" class="no-arrow">Photos</a></li>
+<li class="menu-1030"><a href="/videos" id="video" class="no-arrow">Videos</a></li>
+<li class="menu-1331 last"><a href="/print-edition" class="no-arrow">Print Edition</a></li>
+</ul>        </nav>
+      
+        <div class="region region-navigation">
+    <div id="block-onix-highlight-onix-highlight-section-header" class="block block-onix-highlight first odd">
+
+      
+  <div class="item-list"><ul id="" class="taxonomy-item-elements-section sections-navigation"><li class="section-header-list-items normal-link first"><a href="/world/asia" class="normal-link" target="">Asia</a></li>
+<li class="section-header-list-items normal-link"><a href="/world/australia" class="normal-link" target="">Australia</a></li>
+<li class="section-header-list-items normal-link"><a href="/world/americas" class="normal-link" target="">Americas</a></li>
+<li class="section-header-list-items normal-link"><a href="/world/europe" class="normal-link" target="">Europe</a></li>
+<li class="section-header-list-items normal-link"><a href="/world/middle-east" class="normal-link" target="">Middle East</a></li>
+<li class="section-header-list-items normal-link"><a href="/world/africa" class="normal-link" target="">Africa</a></li>
+<li class="section-header-list-items normal-link last"><a href="/world/quirky-world" class="normal-link" target="">Quirky World</a></li>
+</ul></div>
+</div>
+<div id="block-today-ads-ta-b-header-banner" class="block block-today-ads even">
+
+      
+  
+      <div class="today-ads-container">
+        <iframe src="http://ad.doubleclick.net/adi/mc.tdyonl.com/world;pos=1;sz=728x90;ord=462759946838318386;?" scrolling="no" frameborder="0" border="0" width="728" height="90"></iframe>
+      </div>
+</div>
+<div id="block-today-blocks-tb-sp-block" class="block block-today-blocks last odd">
+
+      
+  
+</div>
+  </div>
+
+  </div><!-- /#navigation -->
+
+  
+  <div id="main">
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar-first column sidebar">
+    <div id="block-block-286" class="block block-block first odd">
+
+      
+  <div style="margin-top: 10px">
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+// BrandDisplay (300x600) 
+knxtag.items.push(function() {
+	 	 knxtag.queueItem('39b14756869912b709382282b1dfb18c2f5dd72f', 
+['39b14756869912b709382282b1dfb18c2f5dd72f-0']);
+});
+
+//--><!]]>
+</script><div id="39b14756869912b709382282b1dfb18c2f5dd72f-0" style="margin: 0 auto;text-align:center"> </div>
+<!-- BrandDisplay(300x600)--></div>
+
+</div>
+<div id="block-onix-newstream-onix-newstream" class="block block-onix-newstream last even">
+
+        <h2 class="block__title block-title">Newstream</h2>
+    
+  <div id="onix_newstream">
+  <div id="newstream_filters" class="hidden_filters">
+  </div>
+  <div id="newstream_content">    
+    <div id="newstream_first_ad" class="newstream_ad">
+      <script type="text/javascript" src="http://ad.doubleclick.net/adj/mc.tdyonl.com/homepage;pos=1;sz=300x250?ord=4469753000000"></script>
+    </div>
+  </div>
+  <div class="newstream_ads_others" style="display:none">
+  	<div id="newstream_ad_2" class="newstream_ad">
+      <script type="text/javascript" src="http://ad.doubleclick.net/adj/mc.tdyonl.com/homepage;pos=1;sz=300x250?ord=530289634000000"></script>
+    </div>
+    <div id="newstream_ad_3" class="newstream_ad">
+      <script type="text/javascript" src="http://ad.doubleclick.net/adj/mc.tdyonl.com/homepage;pos=1;sz=300x250?ord=1898525879000000"></script>
+    </div>
+    <div id="newstream_ad_4" class="newstream_ad">
+      <script type="text/javascript" src="http://ad.doubleclick.net/adj/mc.tdyonl.com/homepage;pos=1;sz=300x250?ord=1279811062000000"></script>
+    </div>
+  </div>
+</div>
+</div>
+  </section>
+      </aside><!-- /.sidebars -->
+    
+    
+    
+    <div id="content" class="column" role="main">
+      <!-- sponsor by article-->
+                    		        <div class="region region-highlighted">
+    <div id="block-onix-highlight-onix-highlight-article-header" class="block block-onix-highlight first odd">
+
+      
+  <div class="header-sections-wrapper"><h2 class="header-sections">World</h2></div>
+</div>
+<div id="block-views-article-title-block" class="block block-views even">
+
+      
+  <div class="view view-article-title view-id-article_title view-display-id-block view-dom-id-ab3b39b67e83372a9a3589d0fdeb8ac9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div>        <span><h1 class="title" id="page-title">New Afghan Taliban leader appeals for unity in first public message</h1></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-abbbed293fc232acd042f79d5c8059a0" class="block block-views odd">
+
+      
+  <div class="view view-article-main-highlight-view view-id-article_main_highlight_view view-display-id-block view-dom-id-dde701b283f11c75cc57b5cb8758a2ac">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article class="node-1416196 article node node-article view-mode-highlight_article  clearfix" about="/world/new-afghan-taliban-leader-appeals-unity-first-public-message" typeof="sioc:Item foaf:Document">
+      <header>
+      <a href="http://www.todayonline.com/sites/default/files/styles/photo_gallery_image_lightbox/public/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG?itok=bTAJGEyJ" rel="lightbox" title="Mullah Akhtar Mohammad Mansour, Taliban militants' new leader, is seen in this undated handout photograph. Photo: Reuters"><img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/photo_gallery_image/public/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG?itok=ReaVJx6F" width="560" height="420" alt="New Afghan Taliban leader appeals for unity in first public message" /></a>    </header>
+
+    <div id="photo-highlight">
+      <div class="description">
+       Mullah Akhtar Mohammad Mansour, Taliban militants' new leader, is seen in this undated handout photograph. Photo: Reuters      </div>
+    </div>
+  </article><!-- /.node -->  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-photo-gallery-view-block" class="block block-views last even">
+
+      
+  <div class="view view-photo-gallery-view view-id-photo_gallery_view view-display-id-block view-dom-id-ab7a6a59eae10e7ec96e700c9e1dda2e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </div>
+      
+      <div id="content-main">
+        <div class="inner">
+                    
+          
+                                                            
+
+
+<article class="node-1416196 node node-article view-mode-full inline clearfix"  about="/world/new-afghan-taliban-leader-appeals-unity-first-public-message" typeof="sioc:Item foaf:Document" data-nid="1416196">
+    <div class="field-name-field-article-abstract">
+      </div>
+      <div class="social-links">
+      <div class="item-list"><ul id="social-links" class="clearfix"><li class="icon first"><a class="print-mail mail icon-social" target="_blank" href="/printmail/1416196">mail</a></li>
+<li class="icon"><a class="print icon-social" target="_blank" href="/print/1416196">print</a></li>
+<li class="facebook_comment"><a href="#fb-comments" class="fb_comments"><div class="fb-comment-icon">View all <fb:comments-count href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message"/></fb:comments-count> comments</div></a></li>
+<li class="facebook"><div class="fb icon"><div class="fb-like" data-href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div></li>
+<li class="pinterest"><a href="http://pinterest.com/pin/create/button/?url=http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message&media=http://www.todayonline.com/sites/default/files/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG&description=TODAYonline.com - New Afghan Taliban leader appeals for unity in first public message" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li>
+<li class="googleplus"><div>
+           <g:plusone size='medium'></g:plusone>
+           <script type="text/javascript">
+             window.___gcfg = {lang: 'en-GB'};
+
+             (function() {
+             var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+             po.src = 'https://apis.google.com/js/plusone.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+             })();
+            </script></div></li>
+<li class="twitter last"><div class="twitter icon"><a href="https://twitter.com/share"
+                class="twitter-share-button"
+                data-size="small"
+                data-count="horizontal"
+                data-lang="en">Tweet</a>
+                </div></li>
+</ul></div>    </div>
+  
+  
+        
+  <div class="authoring full-date"><span class="date-label">Published: </span><span class="date-value">8:49 PM, August 1, 2015</span></div>
+  <div class="authoring full-date"></div>
+  <div class="authoring"></div>
+  <!--<div class="pager-pagenum">(Page 1 of 2)</div>-->  <div class="pager-pagenum">(Page 1 of 2) -  <a href="?page=1">NEXT PAGE</a> | <a href="?singlepage=true">SINGLE PAGE</a></div>
+  <div class="content">
+    
+    <p>DERA ISMAIL KHAN/ PESHAWAR, Pakistan - The new Afghan Taliban leader appealed for unity in the insurgency in his first public message released on Saturday amid reports his predecessor's family members opposed his selection.</p><p>The new head, Mullah Akhtar Mohammad Mansour, was deputy for several years to the elusive one-eyed former leader Mullah Omar, who served as a unifying figure and a spiritual guide for the insurgency despite his absence.</p>
+    <!-- inline -->
+            <div class ='left '>
+
+                                      
+            
+                                      
+                                      
+            
+                                      
+                                      
+            
+                    </div>
+      
+        <p>This week the Taliban confirmed Omar had been dead for some time. The Afghan government said it was more than two years.</p><p>Mansour's selection could be a promising development for peace talks, analysts say, if he can persuade other factions of the fractious insurgency to support him.</p><p>"The enemy can't defeat us if we shown unity," he said in an audio recording that Taliban members provided to journalists.</p><p>"I will utilize all my energies to follow our late Mullah Mohammad Omar and his mission," he said. "We need to be patient and should try to go to those friends who are unhappy. We will have to convince them and take them on board."</p><p>On Friday, Taliban commanders who attended the meeting that chose Mansour as Omar's successor told Reuters that Omar's son and brother had walked out of the gathering in protest.</p><p>The open dissent within the movement's core group underscores the challenge Mansour faces. He has to try to persuade wavering commanders to pursue peace talks with the Afghan government at the same time a new extremist group is stepping up its recruiting in the region - Islamic State.</p><p>Two Afghan militant groups declared Omar was dead last month and swore allegiance to Islamic State.</p><p>Mansour blamed divisions in the Taliban on "enemy propaganda" and swore to continue to fight for rule under sharia, the Islamic legal and moral code, and to follow the vision of Mullah Omar.</p>
+        <div class="pager-pagenum bottom">(Page 1 of 2) -  <a href="?page=1">NEXT PAGE</a> | <a href="?singlepage=true">SINGLE PAGE</a></div>
+        <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/world/new-afghan-taliban-leader-appeals-unity-first-public-message?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/world/new-afghan-taliban-leader-appeals-unity-first-public-message?page=1" class="active"><span class="fa fa-angle-right" style="font-size:14px"></span></a></li>
+<li class="pager-last last"><a href="/world/new-afghan-taliban-leader-appeals-unity-first-public-message?page=1" class="active"><span class="fa fa-angle-double-right" style="font-size:14px"></span></a></li>
+</ul></div>
+                  <div class="social-links">
+            <div class="item-list"><ul id="social-links" class="clearfix"><li class="icon first"><a class="print-mail mail icon-social" target="_blank" href="/printmail/1416196">mail</a></li>
+<li class="icon"><a class="print icon-social" target="_blank" href="/print/1416196">print</a></li>
+<li class="facebook_comment"><a href="#fb-comments" class="fb_comments"><div class="fb-comment-icon">View all <fb:comments-count href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message"/></fb:comments-count> comments</div></a></li>
+<li class="facebook"><div class="fb icon"><div class="fb-like" data-href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div></li>
+<li class="pinterest"><a href="http://pinterest.com/pin/create/button/?url=http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message&media=http://www.todayonline.com/sites/default/files/2015-08-01T123334Z_1_LYNXNPEB701C6_RTROPTP_4_AFGHANISTAN-TALIBAN-EXCLUSIVE.JPG&description=TODAYonline.com - New Afghan Taliban leader appeals for unity in first public message" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li>
+<li class="googleplus"><div>
+           <g:plusone size='medium'></g:plusone>
+           <script type="text/javascript">
+             window.___gcfg = {lang: 'en-GB'};
+
+             (function() {
+             var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+             po.src = 'https://apis.google.com/js/plusone.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+             })();
+            </script></div></li>
+<li class="twitter last"><div class="twitter icon"><a href="https://twitter.com/share"
+                class="twitter-share-button"
+                data-size="small"
+                data-count="horizontal"
+                data-lang="en">Tweet</a>
+                </div></li>
+</ul></div>          </div>
+        
+      <span class="print-link"></span><div id="fb-root"></div><script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, "script", "facebook-jssdk"));</script><div class="fb-comments" data-mobile="false" data-href="http://www.todayonline.com/world/new-afghan-taliban-leader-appeals-unity-first-public-message" data-num-posts="15" data-width="370" data-colorscheme="light"></div>
+      
+
+
+  </div>
+
+</article><!-- /.node -->
+<div id="block-block-326" class="block block-block even">
+
+      
+  <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 28059
+       ,lang        : "en"
+       ,slot        : '.node-article .content > p'
+       ,format      : "inread"
+       ,css         : "margin: 21px 0px;"
+       ,mutable : false
+             ,components  : { mute: {delay :0}, skip: {delay :0} }
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/js/all-v1.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+
+//--><!]]>
+</script>
+</div>
+<div id="block-today-blocks-tb-article-ads" class="block block-today-blocks last odd">
+
+      
+  <iframe src="http://ad.doubleclick.net/adi/mc.tdyonl.com/world_landing;pos=1;sz=360x170" scrolling="no" frameborder="0" width="360" height="170" style="display:block;margin:1.5em auto"></iframe>
+</div>
+                  </div>
+      </div>
+
+            <div id="sidebar-second">
+          <section class="region region-sidebar-second column sidebar">
+    <div id="block-block-276" class="block block-block first odd">
+
+      
+  <div class="OUTBRAIN" data-ob-template="TodayOnline" data-src="http://www.todayonline.com" data-widget-id="SB_1"> </div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<div id="block-views-related-articles-view-block" class="block block-views even">
+
+      
+  <div class="view view-related-articles-view view-id-related_articles_view view-display-id-block view-dom-id-44f69efce89e4d87f95e43efef60247a today_views_alters tva_preprocess_views_view_related_articles_view_block">
+            <div class="view-header">
+      <div class="section-inside">Inside<span id="section-title">World</span></div>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/asia/sarawak-report-founder-not-rattled-threats-following-1mdb-reports">Sarawak Report founder not rattled by threats following 1MDB reports</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/airplane-debris-arrives-france-malaysia-crash-investigation">Airplane debris arrives in France for Malaysia crash investigation</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/americas/hitchhiking-robots-cross-country-trip-us-ends-philadelphia">Hitchhiking robot’s cross-country trip in US ends in Philadelphia</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-most-column-block" class="block block-views odd">
+
+        <h2 class="block__title block-title"><div><span>The Most</span></div><div class="title most-section-title">World</div></h2>
+    
+  <div class="view view-most-column view-id-most_column view-display-id-block view-dom-id-79ae240bcec6cd8e702b40d97923c5ed">
+            <div class="view-header">
+      <h2 id="most_read">READ</h2>
+<h2 id="most_commented">COMMENTED</h2>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class="views-row views-row-1 views-row-odd views-row-first"><article class="node-1409341 node node-article node-promoted view-mode-most clearfix" about="/world/asia/leaked-video-muhyiddin-alleges-najib-admitted-transferring-s956m-personal-accounts" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/leaked-video-muhyiddin-alleges-najib-admitted-transferring-s956m-personal-accounts">Muhyiddin shown making explosive claims in leaked video</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-2 views-row-even"><article class="node-1408366 node node-article node-promoted view-mode-most clearfix" about="/world/asia/blame-mahathir-malaysias-political-mess" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/blame-mahathir-malaysias-political-mess">Blame is on Mahathir for Malaysia’s political mess</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-3 views-row-odd"><article class="node-1416001 node node-article node-promoted view-mode-most clearfix" about="/world/asia/white-people-should-stay-out-malaysias-affairs-najib-says" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/white-people-should-stay-out-malaysias-affairs-najib-says">‘White people’ should stay out of Malaysia’s affairs, Najib says</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-4 views-row-even"><article class="node-1411781 node node-article node-promoted view-mode-most clearfix" about="/world/remote-island-last-place-pilots-want-land-plane" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/remote-island-last-place-pilots-want-land-plane">This remote island is the last place pilots want to land a plane</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last"><article class="node-1411446 node node-article node-promoted view-mode-most clearfix" about="/world/asia/suitcase-reportedly-found-reunion-island-near-site-where-plane-debris-discovered" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/suitcase-reportedly-found-reunion-island-near-site-where-plane-debris-discovered">Suitcase reportedly found on Reunion Island, near site where plane debris discovered</a></h2>
+              
+</article><!-- /.node -->
+</li>
+      </ol></div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-most-column view-id-most_column view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class="views-row views-row-1 views-row-odd views-row-first"><article class="node-1416001 node node-article node-promoted view-mode-most clearfix" about="/world/asia/white-people-should-stay-out-malaysias-affairs-najib-says" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/white-people-should-stay-out-malaysias-affairs-najib-says">‘White people’ should stay out of Malaysia’s affairs, Najib says</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-2 views-row-even"><article class="node-1415991 node node-article node-promoted view-mode-most clearfix" about="/world/asia/i-value-loyal-people-over-smart-people-najib" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/i-value-loyal-people-over-smart-people-najib">I value loyal people over ‘smart people’: Najib</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-3 views-row-odd"><article class="node-1405721 node node-article node-promoted view-mode-most clearfix" about="/world/asia/muhyiddin-4-others-out-cabinet-reshuffle-say-sources" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/muhyiddin-4-others-out-cabinet-reshuffle-say-sources">Muhyiddin, 4 others out in Cabinet reshuffle, say sources</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-4 views-row-even"><article class="node-1415901 node node-article node-promoted view-mode-most clearfix" about="/world/asia/pm-says-willing-unveil-source-political-funds-if-opposition-does-same" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/pm-says-willing-unveil-source-political-funds-if-opposition-does-same">PM says willing to unveil source of political funds if opposition does the same</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-5 views-row-odd"><article class="node-1404146 node node-article node-promoted view-mode-most clearfix" about="/world/asia/umno-blog-urges-muhyiddin-quit-if-he-cannot-be-loyal-deputy" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/umno-blog-urges-muhyiddin-quit-if-he-cannot-be-loyal-deputy">Muhyiddin slammed by M’sia’s ruling party for criticising 1MDB</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-6 views-row-even"><article class="node-1416546 node node-article node-promoted view-mode-most clearfix" about="/world/africa/zimbabwean-authorities-restrict-hunting-after-lion-killing" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/africa/zimbabwean-authorities-restrict-hunting-after-lion-killing">Zimbabwean authorities restrict hunting after lion killing</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-7 views-row-odd"><article class="node-1415981 node node-article node-promoted view-mode-most clearfix" about="/world/asia/chaos-tangkapnajib-rally-cops-nab-protesters" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/chaos-tangkapnajib-rally-cops-nab-protesters">Chaos at #TangkapNajib rally as cops nab protesters</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-8 views-row-even"><article class="node-1413246 node node-article node-promoted view-mode-most clearfix" about="/world/asia/purported-charge-sheet-draft-against-pm-shows-plot-topple-him-says-g" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/purported-charge-sheet-draft-against-pm-shows-plot-topple-him-says-g">Purported charge sheet draft against PM shows plot to topple him, says A-G</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-9 views-row-odd"><article class="node-1413316 node node-article node-promoted view-mode-most clearfix" about="/world/asia/its-now-crime-talk-about-1mdb-says-dr-mahathir" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/its-now-crime-talk-about-1mdb-says-dr-mahathir">It is now ‘illegal’ to talk about 1MDB: Dr Mahathir</a></h2>
+              
+</article><!-- /.node -->
+</li>
+          <li class="views-row views-row-10 views-row-even views-row-last"><article class="node-1416526 node node-article node-promoted view-mode-most clearfix" about="/world/asia/cops-raid-macc-office-seize-documents-prosecutors-laptop" typeof="sioc:Item foaf:Document">
+
+                <h2 class="node__title node-title"><a href="/world/asia/cops-raid-macc-office-seize-documents-prosecutors-laptop">Cops raid MACC office, seize documents, prosecutor’s laptop</a></h2>
+              
+</article><!-- /.node -->
+</li>
+      </ol></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-today-blocks-tb-skyscrapper-120-600" class="block block-today-blocks last even">
+
+      
+  <iframe src="http://ad.doubleclick.net/adi/mc.tdyonl.com/world_landing;pos=1;sz=120x600" scrolling="no" frameborder="0" width="120" height="600" style="display:block;margin:0 auto"></iframe>
+</div>
+  </section>
+      </div>
+      
+            <div id="content-bottom">
+        <div class="inner">
+          <div class="region region-content-bottom">
+    <div id="block-block-296" class="block block-block first odd">
+
+      
+  <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+// Shelfie
+knxtag.items.push(function() {
+	 	 knxtag.queueShelfie('861e6a69a6d33b25c2497996adb1569a7eba8bea', 
+['861e6a69a6d33b25c2497996adb1569a7eba8bea-0']);
+});
+
+//--><!]]>
+</script><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+body:not(.front) .shelfie-container{
+ margin-left: -20px;
+ margin-top: 10px;
+ margin-bottom: 10px
+}
+body.node-type-print-edition .shelfie-container{
+margin: 10px -22px 10px 0;
+float: right;
+}
+
+/*--><!]]>*/
+</style><div class="shelfie-container" id="861e6a69a6d33b25c2497996adb1569a7eba8bea-0"> </div>
+
+</div>
+<div id="block-outbrain-today-outbrain-today" class="block block-outbrain-today even">
+
+      
+  <div class="OUTBRAIN" data-src="http://www.todayonline.com" data-widget-id="AR_1" data-ob-template="TodayOnline"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<div id="block-panels-mini-home-footer" class="block block-panels-mini last odd">
+
+        <h2 class="block__title block-title"><span>Inside</span> Today</h2>
+    
+  <div class="panel-flexible panels-flexible-4_columns clearfix" id="mini-panel-home_footer">
+<div class="panel-flexible-inside panels-flexible-4_columns-inside">
+<div class="panels-flexible-row panels-flexible-row-4_columns-region_1 panels-flexible-row-first panels-flexible-row-last clearfix">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-4_columns-region_1-inside panels-flexible-row-inside-first panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-4_columns-region_1 panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4_columns-region_1-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-views pane-footer-displays" >
+  
+      
+  
+  <div class="header-footer">
+  <h3><a href="/world">World</a></h3></div>
+<div class="left">
+  <div class="node-image">
+    <a href="/world/asia/sarawak-report-founder-not-rattled-threats-following-1mdb-reports"><img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/thumbnail/public/23155192.JPG?itok=-in1Lo-S" alt="" /></a>  </div>
+</div>
+<div class="right">
+  <div class="title-node">
+      <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/asia/sarawak-report-founder-not-rattled-threats-following-1mdb-reports">Sarawak Report founder not rattled by threats following 1MDB reports</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/airplane-debris-arrives-france-malaysia-crash-investigation">Airplane debris arrives in France for Malaysia crash investigation</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/americas/hitchhiking-robots-cross-country-trip-us-ends-philadelphia">Hitchhiking robot’s cross-country trip in US ends in Philadelphia</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/africa/zimbabwean-authorities-restrict-hunting-after-lion-killing">Zimbabwean authorities restrict hunting after lion killing</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/world/asia/cops-raid-macc-office-seize-documents-prosecutors-laptop">Cops raid MACC office, seize documents, prosecutor’s laptop</a></span>  </div>  </div>
+  </div>
+</div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-4_columns-test ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4_columns-test-inside">
+<div class="panel-pane pane-views pane-footer-displays" >
+  
+      
+  
+  <div class="header-footer">
+  <h3><a href="/business">Business</a></h3></div>
+<div class="left">
+  <div class="node-image">
+    <a href="/business/greece-may-seek-24-billion-euros-first-new-aid-tranche-paper"><img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/thumbnail/public/2015-08-01T172409Z_1_LYNXNPEB701FT_RTROPTP_4_CBUSINESS-US-EUROZONE-GREECE-BAILOUT.JPG?itok=_yYztE5V" alt="" /></a>  </div>
+</div>
+<div class="right">
+  <div class="title-node">
+      <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business/greece-may-seek-24-billion-euros-first-new-aid-tranche-paper">Greece may seek up to 24 billion euros in first new aid tranche: paper</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business/pacific-rim-free-trade-talks-go-down-wire">Pacific Rim free trade talks fall short of deal</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business/japans-amari-tpp-member-nations-clash-over-intellectual-property-issue">Japan&#039;s Amari: TPP member nations clash over intellectual property issue </a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business/japans-amari-says-one-more-push-can-seal-elusive-pacific-trade-deal"> Japan&#039;s Amari says one more push can seal elusive Pacific trade deal</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business/pacific-trade-talks-conclude-without-deal-vow-keep-working">Pacific trade talks conclude without deal, vow to keep working</a></span>  </div>  </div>
+  </div>
+</div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-4_columns-region_2 ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4_columns-region_2-inside">
+<div class="panel-pane pane-views pane-footer-displays" >
+  
+      
+  
+  <div class="header-footer">
+  <h3><a href="/sports">Sports</a></h3></div>
+<div class="left">
+  <div class="node-image">
+    <a href="/sports/leaked-iaaf-data-reveals-hundreds-abnormal-blood-tests-report"><img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/thumbnail/public/photos/43_images/athletics_reuters.jpg?itok=_vYbHIji" alt="" /></a>  </div>
+</div>
+<div class="right">
+  <div class="title-node">
+      <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sports/leaked-iaaf-data-reveals-hundreds-abnormal-blood-tests-report">Leaked IAAF data reveals hundreds of abnormal blood tests - report</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sports/athletes-shrug-pollution-issues-rio-olympic-test">Athletes shrug off pollution issues at Rio Olympic test</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sports/ronda-rousey-says-shell-do-roddy-piper-proud-rio-fight">Ronda Rousey says she’ll do Roddy Piper ‘proud’ in Rio fight</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sports/football/chelsea-must-be-more-unpredictable-says-mourinho">Chelsea must be more unpredictable, says Mourinho</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sports/football/cech-arrival-adds-substance-arsenals-style">Cech arrival adds substance to Arsenal’s style</a></span>  </div>  </div>
+  </div>
+</div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-4_columns-test_ panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4_columns-test_-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-views pane-footer-displays" >
+  
+      
+  
+  <div class="header-footer">
+  <h3><a href="/entertainment">Entertainment</a></h3></div>
+<div class="left">
+  <div class="node-image">
+    <a href="/entertainment/television/downton-abbey-producer-doesnt-shut-door-post-series-film"><img typeof="foaf:Image" src="http://www.todayonline.com/sites/default/files/styles/thumbnail/public/23154834.JPG?itok=0ehPqSDW" alt="" /></a>  </div>
+</div>
+<div class="right">
+  <div class="title-node">
+      <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entertainment/television/downton-abbey-producer-doesnt-shut-door-post-series-film">‘Downton Abbey’ producer doesn’t shut door on post-series film</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entertainment/celebrity/steven-moffat-sherlock-special-how-long-series-can-go">Steven Moffat on ‘Sherlock’ special; how long series can go</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entertainment/music/snoop-dogg-stopped-italian-customs">Snoop Dogg stopped by Italian customs</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entertainment/movies/movie-goers-snap-tickets-sg50-film-project-7-letters">Movie goers snap up tickets for SG50 film project 7 Letters</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entertainment/arts/state-arts/state-arts-july-25-aug-1">State of the Arts: July 25 to Aug 1</a></span>  </div>  </div>
+  </div>
+</div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+
+</div>
+  </div>
+        </div>
+      </div>
+      
+    </div><!-- /#content -->
+
+  </div><!-- /#main -->
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-426" class="block block-block first odd">
+
+      
+  <style>
+.special-package-wrapper
+{
+background:none repeat scroll 0 0 #000 !important;
+}
+</style>
+</div>
+<div id="block-block-486" class="block block-block even">
+
+      
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55184547-4', 'auto');
+  ga('send', 'pageview');
+</script> 
+</div>
+<div id="block-block-541" class="block block-block last odd">
+
+      
+  <style>
+.car-id-tr
+{
+display:none;
+}
+</style>
+</div>
+  </footer>
+
+</div><!-- /#page -->
+  <div class="region region-bottom">
+    <div id="block-menu-menu-footer-links" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about-us" class="menu__link">About TODAY</a></li>
+<li class="menu__item is-leaf leaf"><a href="/apps" class="menu__link">Apps</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://profile.mediacorp.sg/SignUp.aspx?ReturnUrl=http%3a%2f%2fwww.todayonline.com&amp;web=today" target="_blank" class="menu__link">News Alert</a></li>
+<li class="menu__item is-leaf leaf"><a href="/rss-feeds" target="_blank" class="menu__link">RSS</a></li>
+<li class="menu__item is-leaf leaf"><a href="/sitemap" class="menu__link">Sitemap</a></li>
+<li class="menu__item is-leaf leaf"><a href="/syndication" target="_blank" class="menu__link">Syndication</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.mediacorp.sg/en/contactus" target="_blank" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="/advertise-us" target="_blank" class="menu__link">Advertise with Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="/terms-conditions" target="_blank" class="menu__link">Terms &amp; Conditions</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://www.mediacorp.sg" target="_blank" class="menu__link">About MediaCorp</a></li>
+</ul>
+</div>
+  </div>
+<div class="copyright">Copyright 2015 © MediaCorp Press Ltd. All Rights Reserved. MediaCorp News Group</div>
+</div>
+    <div class="region region-page-bottom">
+    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>  </div>
+ <!-- Begin comScore Tag -->
+    <script>
+        var _comscore = _comscore || [];
+        _comscore.push(
+            {
+                c1: "2",
+                c2: "6154803"
+            }
+        );
+        (
+            function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            }
+        )();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6154803&cv=2.0&cj=1" />
+    </noscript>
+ <!--  End comScore Tag -->
+ <!--  omniture -->
+        <script type="text/javascript">
+                var OmniObj = {
+                    "server": server,
+                    "ch": channel,
+                    "p1": Prop1,
+                    "p2": Prop2,
+                    "p3": Prop1 + ":" + Prop2 + ":" + "online",
+                    "p4": "",
+                    "p5": "",
+                    "p6": "",
+                    "p7": "",
+                    "p8": "",
+                    "eve": "",
+                    "hier": Prop1 + "|" + Prop2 + "|online|World|20150801|1416196_New Afghan Taliban leader appeals for unity in first public message",
+                    "pg": Prop1 + ":" + Prop2 + ":online:World:20150801:1416196_New Afghan Taliban leader appeals for unity in first public message"
+                    };
+                pagetracking(OmniObj)
+            </script>
+      <script type="text/javascript">
+        <!--if (navigator.appVersion.indexOf("MSIE") >= 0) { try { document.write(unescape("%3C") + "\!-" + "-"); } catch (ex) { } }//-->
+      </script>
+<!-- Omniture tags -->
+  <noscript>
+ <img src="http://mediacorp.112.2o7.net/b/ss/mediacorp-mcs-prd/1/H.16--NS/0" height="1" width="1" border="0" alt="" />
+ </noscript>
+   <!-- end omniture -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ab7b570406","applicationID":"3415279","transactionName":"NVEGZxNZDEMEBhZbCQwbJVAVUQ1eSgsNVgM9RAVUBGcUWQAS","queueTime":0,"applicationTime":2142,"ttGuid":"","agentToken":"","atts":"GRYFEVtDH00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

@@ -1,0 +1,1633 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/NewsArticle" xmlns:og="http://opengraphprotocol.org/schema/">
+  <head>
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4HV1FADQcCVFBTDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta name="robots" content="noodp" />
+    <title>Palestinian Homes In The West Bank Will Soon Be Demolished -- Again</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/resources/images/e5abfb98e95306addaa35d01aad2c6f6-favicon.ico">
+    <script src="/resources/lib/requirejs/35b6ffa40aab4f089048c2d614ea1048-require.min.js"></script>
+    <style>.masthead-component{text-align:center;padding-top:24px}.masthead-component__branding{margin-bottom:24px}.masthead-component__subhead{height:24px;width:980px;margin:0 auto 10px auto}.masthead-component__editions{float:left;width:300px}.masthead-component__search{float:left;width:380px}.masthead-component__social{float:left;width:300px;margin-top:5px}.masthead-component__social-list{float:right;list-style:none;margin:0;display:inline-block}.masthead-component__social-list:before,.masthead-component__social-list:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.masthead-component__item{float:left;margin-right:5px}.masthead-component__item_twitter{width:54px}
+</style>
+<style>.entry-tags-component{margin:25px 0px;font-family:"Open Sans",Helvetica,sans-serif;font-weight:600;font-size:12px;line-height:16px}.entry-tags-component:before,.entry-tags-component:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.entry-tags-component__tag{text-decoration:none;color:#2c9178;text-transform:capitalize}.entry-tags-component__tag:hover{text-decoration:underline;color:#2c9178}
+</style>
+<script type="text/javascript">
+require.config({
+  baseUrl: '/resources/',
+  paths: {"modules/resourceTiming":"/resources/javascript/modules/8da39b14a4cd33c83daceac4dc24896c-resourceTiming","components/video_story_unit":"/resources/javascript/components/9f7c09a0dccd07d6ac337b1d27abba50-video_story_unit","components/follow_us_below_entry":"/resources/javascript/components/e98344c125c72294144709f3aa0df30d-follow_us_below_entry","modules/gravity":"/resources/javascript/modules/c0d7a4c923170f338d2d5903e316b729-gravity","modules/facebookLike":"/resources/javascript/modules/67a547a94e7e65bce3775449dc5ebf15-facebookLike","bootbox":"/resources/lib/bootbox/8977c09ec75b0a551ec3f95b3425044e-bootbox.min","twitter-widget":"//platform.twitter.com/widgets","modules/registerPings":"/resources/javascript/modules/070fd5fcb101734039818ee090bc7855-registerPings","components/follow_us":"/resources/javascript/components/b259282d89e868f7b28a558d8fa06b24-follow_us","components/banner":"/resources/javascript/components/2fde0f95cceca3989df9617b0a8550a5-banner","json":"/resources/lib/json2/a10539c4accda630bcc43c20d1bae01b-json2.min","modules/fragment":"/resources/javascript/modules/66d739dd697c15ce9f315dea276aae8b-fragment","modules/styleLoader":"/resources/javascript/modules/ff319ad8fc91893411b15f8f916d22b2-styleLoader","dictionary":"/dictionary/en_US","modules/popup":"/resources/javascript/modules/9e439fca430692155ce6a7749ec6d4e2-popup","modules/rightRailLock":"/resources/javascript/modules/cf9211e3f03f05f282488e56e9e8cf94-rightRailLock","modules/getQueryStringByName":"/resources/javascript/modules/6a2b2916a70cb83718877c1e23b2adf5-getQueryStringByName","components/listicle":"/resources/javascript/components/227125e908dd99fa038337955b97a1fd-listicle","bootstrap-modal":"/resources/javascript/amdlib/d4c77d72643960ab7e66157cb726336a-bootstrap-modal","modules/microAjax":"/resources/javascript/modules/846103b81e6a0e6473c66303fcc832d8-microAjax","components/floating_share":"/resources/javascript/components/e99ab8b30531199a0f38023442d2f93f-floating_share","domready":"/resources/lib/requirejs-domready/243c716555d18bda8dd6bd2c4ab23391-domReady","components/masthead":"/resources/javascript/components/6fb6895fac39111182ddc6fbd043975a-masthead","bootstrap-modalmanager":"/resources/lib/bootstrap-modal/js/99982e058f98565417e341c279598073-bootstrap-modalmanager","components/main_nav":"/resources/javascript/components/0f9951670c842acd272f9132487253e8-main_nav","jquery-sticky":"/resources/javascript/amdlib/20adf84b2529d117d30e502c29bd3400-jquery.sticky","modules/hype":"/resources/javascript/modules/099f3fd4a52c76fd01d798bba5a72f27-hype","components/image":"/resources/javascript/components/4aec7ae651818e92aaa3cf8258aed178-image","bootstrapvalidator":"/resources/javascript/amdlib/ed990759aeacc6b585f35848c54ee2ef-bootstrapValidator","components/gravity_recirc":"/resources/javascript/components/gravity_recirc","backbone":"/resources/lib/backbonejs/c8b92fa748a88e78ee7abd840bab92b0-backbone-min","components/editions":"/resources/javascript/components/89317a1522bca93eaa251cad02eff64f-editions","FlexSlider":"/resources/javascript/amdlib/5f07b8e11e185d247a9fde9b20dd573c-jquery.flexslider","modules/bitly":"/resources/javascript/modules/bb3dbfe081ff981540e71582189197dd-bitly","components/slideshow":"/resources/javascript/components/59dce987481ee45d09021b4ae3a3e0db-slideshow","components/search_results":"/resources/javascript/components/5e8b2f241b2ff432f5e0532fa653cf00-search_results","comscore":"http://b.scorecardresearch.com/beacon","modules/tracking":"/resources/javascript/modules/a1738188883421215a21314ce1ad6b01-tracking","components/search_controls":"/resources/javascript/components/6e02b0511d10b6fcf892e599616cdeac-search_controls","jquery-cookie":"/resources/lib/jquery-cookie/9f9ea877e015732c7654279920ac6e56-jquery.cookie","jquery":"/resources/lib/jquery/94877cdd6a1db1132c406d819055f4c2-jquery.min","modules/ieYouTubeFix":"/resources/javascript/modules/ec2fbc385274d1032c92e4607154770a-ieYouTubeFix","components/newsletter_signup":"/resources/javascript/components/1129a1d2dc31a3bde2c6a8efedbcc665-newsletter_signup","components/search":"/resources/javascript/components/ca6be74788517a4fb69cda5ecb760eab-search","facebook-like":"/resources/javascript/modules/67a547a94e7e65bce3775449dc5ebf15-facebookLike","google-plus":"https://apis.google.com/js/platform","jquery-bem":"/resources/javascript/amdlib/6c23d2669b17903dbf8ed8e5004a8808-jquery.bem","components/slideshow_with_overlay":"/resources/javascript/components/940657b30da1110f98e3bb28cfa7fff3-slideshow_with_overlay","underscore":"/resources/lib/lodash/c07c65b36a6e22bb45a7c1fb15e5d1a8-lodash.min","modules/scrollTrack":"/resources/javascript/modules/fec888699b21a3a1697540fb144ec987-scrollTrack"}
+});
+</script>
+<style>.follow-us-component{color:#111;width:300px;line-height:1;margin-bottom:30px}.follow-us-component__header{margin-bottom:10px;font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:26px;text-transform:uppercase}.follow-us-component__window{border:1px solid #ccc;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;position:relative;padding:15px}.follow-us-component__newsletters-heading{font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:24px;text-transform:uppercase;text-align:center;margin:15px 0}.follow-us-component .newsletter-signup-component__form-success{text-align:center}.follow-us-component__name{font-family:Helvetica, Arial, sans-serif;font-weight:bold;font-size:18px;width:130px;margin-right:10px;float:left;padding-top:6px}.follow-us-component__share{padding:2px;float:left;font-family:"Open Sans",Helvetica,sans-serif;font-weight:700;font-size:22px}.follow-us-component__networks{list-style:none;padding:0;margin:0 0 30px 0}.follow-us-component__networks:before,.follow-us-component__networks:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.follow-us-component__content{list-style:none;margin:0;padding:0}.follow-us-component__content-item{padding:15px 0}.follow-us-component__content-item:before,.follow-us-component__content-item:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.follow-us-component__content-item:first-child{padding-top:5px}.follow-us-component__content_phone{width:275px}.follow-us-component__content-link{display:inline-block;text-indent:-119988px;overflow:hidden;text-align:left;text-transform:capitalize;margin-bottom:7px}.follow-us-component__content-link_ios{width:135px;height:40px}.follow-us-component__content-link_ios.follow-us-component__content-link_de{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_de:after{content:"";width:inherit;height:inherit;background:url("/resources/images/de/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_el{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_el:after{content:"";width:inherit;height:inherit;background:url("/resources/images/el/9abc1858887b59a28e4ea4e8b8fa0596-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_en{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_en:after{content:"";width:inherit;height:inherit;background:url("/resources/images/en/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_es{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_es:after{content:"";width:inherit;height:inherit;background:url("/resources/images/es/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_fr{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_fr:after{content:"";width:inherit;height:inherit;background:url("/resources/images/fr/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_it{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_it:after{content:"";width:inherit;height:inherit;background:url("/resources/images/it/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_ja{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_ja:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ja/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_ios.follow-us-component__content-link_ko{position:relative}.follow-us-component__content-link_ios.follow-us-component__content-link_ko:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ko/b32242e004d4ac8e5cf1144e757ddb3d-app_store.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android{width:135px;height:45px}.follow-us-component__content-link_android.follow-us-component__content-link_de{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_de:after{content:"";width:inherit;height:inherit;background:url("/resources/images/de/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_el{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_el:after{content:"";width:inherit;height:inherit;background:url("/resources/images/el/db06fb30a94f228ac2df8cffec062429-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_en{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_en:after{content:"";width:inherit;height:inherit;background:url("/resources/images/en/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_es{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_es:after{content:"";width:inherit;height:inherit;background:url("/resources/images/es/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_fr{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_fr:after{content:"";width:inherit;height:inherit;background:url("/resources/images/fr/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_it{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_it:after{content:"";width:inherit;height:inherit;background:url("/resources/images/it/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_ja{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_ja:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ja/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_android.follow-us-component__content-link_ko{position:relative}.follow-us-component__content-link_android.follow-us-component__content-link_ko:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ko/c95c9ddb49c5963f04202111a6aabb8c-google_play.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry{width:135px;height:45px}.follow-us-component__content-link_blackberry.follow-us-component__content-link_de{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_de:after{content:"";width:inherit;height:inherit;background:url("/resources/images/de/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_el{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_el:after{content:"";width:inherit;height:inherit;background:url("/resources/images/el/cde9d89aed9e541dad69559887227d8b-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_en{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_en:after{content:"";width:inherit;height:inherit;background:url("/resources/images/en/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_es{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_es:after{content:"";width:inherit;height:inherit;background:url("/resources/images/es/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_fr{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_fr:after{content:"";width:inherit;height:inherit;background:url("/resources/images/fr/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_it{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_it:after{content:"";width:inherit;height:inherit;background:url("/resources/images/it/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_ja{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_ja:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ja/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__content-link_blackberry.follow-us-component__content-link_ko{position:relative}.follow-us-component__content-link_blackberry.follow-us-component__content-link_ko:after{content:"";width:inherit;height:inherit;background:url("/resources/images/ko/4cf1e5079392f4329419aba388fe1bc0-app_world.png") no-repeat 0 0 transparent;position:absolute;left:0;top:0}.follow-us-component__button{width:65px;height:65px;text-indent:-119988px;overflow:hidden;text-align:left;text-transform:capitalize;cursor:pointer}.follow-us-component__button_facebook{background-color:#3d57a8;position:relative;position:relative}.follow-us-component__button_facebook:after{content:"";width:50px;height:50px;background:url("/resources/images/686b8a9bd039748a1c0a84f1b7a00cf3-social_module.png") no-repeat 0 -3px transparent;position:absolute;left:18px;top:4px}.follow-us-component__button_facebook:hover:after{background-position-x:-50px}.follow-us-component__button_facebook .facebook-like-component{position:absolute;top:0;left:0}.follow-us-component__button_twitter{background-color:#2daae2;position:relative}.follow-us-component__button_twitter:after{content:"";width:50px;height:50px;background:url("/resources/images/686b8a9bd039748a1c0a84f1b7a00cf3-social_module.png") no-repeat -7px -66px transparent;position:absolute;left:10px;top:10px}.follow-us-component__button_twitter:hover:after{background-position-x:-57px}.follow-us-component__button_googlePlus{background-color:#df4a32;position:relative}.follow-us-component__button_googlePlus:after{content:"";width:50px;height:50px;background:url("/resources/images/686b8a9bd039748a1c0a84f1b7a00cf3-social_module.png") no-repeat 0 -124px transparent;position:absolute;left:10px;top:10px}.follow-us-component__button_googlePlus:hover:after{background-position-x:-50px}.follow-us-component__button_phone{background-color:#38c15b;position:relative}.follow-us-component__button_phone:after{content:"";width:50px;height:50px;background:url("/resources/images/686b8a9bd039748a1c0a84f1b7a00cf3-social_module.png") no-repeat 3px -185px transparent;position:absolute;left:10px;top:10px}.follow-us-component__button_phone:hover:after{background-position-x:-47px}.follow-us-component__network{float:left;margin-left:2px}.follow-us-component__network:first-child{margin-left:0}.follow-us-component__network:after{display:none;content:"";width:0;height:0;margin-left:18px;position:absolute;border-left:15px solid transparent;border-right:15px solid transparent;border-top:15px solid}.follow-us-component__network_network_id_facebook:after{border-top-color:#3d57a8}.follow-us-component__network_network_id_twitter:after{border-top-color:#2daae2}.follow-us-component__network_network_id_googlePlus:after{border-top-color:#df4a32}.follow-us-component__network_network_id_phone:after{border-top-color:#38c15b}.follow-us-component__network_network_id_phone .follow-us-component__content{text-align:center}.follow-us-component__network_selected:after{display:block}.follow-us-component__network_wide:after{margin-left:28px}.follow-us-component__network_wide .follow-us-component__button{width:87px}.follow-us-component__network_wide .follow-us-component__button_facebook::after{left:27px}.follow-us-component__network_wide .follow-us-component__button_twitter::after{left:21px}.follow-us-component__network_wide .follow-us-component__button_phone::after{left:20px}.follow-us-component__social-container{min-height:15px;border-bottom:1px solid #ccc}.follow-us-component__content{display:none}.follow-us-component__content_phone{text-align:center}.follow-us-component__content_selected{display:block}.follow-us-component .fb_iframe_widget_lift{z-index:13}
+</style>
+<style>@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,600italic,700italic,400,600,700&subset=latin,greek-ext,greek);body .modal.hide{z-index:14}.display_none{display:none !important}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,button{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{margin:0;line-height:1}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}.ads-debug{background-color:#d00;padding:10px;color:#fff;font-size:14px;text-align:center}
+</style>
+<style>.layout .row{max-width:100%;margin-left:auto;margin-right:auto}.layout .row::after{content:" ";display:block;clear:both}.node,.component-container{min-height:1px}.three_column_narrow_splash_layout .double-wide-column{width:65.625%;float:left;margin-right:3.125%}.three_column_narrow_splash_layout .component-container.right{width:31.25%;float:right}.three_column_narrow_splash_layout .component-container.left{width:47.61905%;float:left;margin-right:4.7619%}.three_column_narrow_splash_layout .component-container.middle{width:47.61905%;float:right}.three_column_wide_splash_layout .component-container.left{width:31.25%;float:left;margin-right:3.125%}.three_column_wide_splash_layout .component-container.middle{width:31.25%;float:left;margin-right:3.125%}.three_column_wide_splash_layout .component-container.right{width:31.25%;float:right}.two_column_narrow_splash_layout .double-wide-column{width:65.625%;float:left;margin-right:3.125%}.two_column_narrow_splash_layout .component-container.right{width:31.25%;float:right}.two_column_wide_splash_layout .double-wide-column{width:65.625%;float:left;margin-right:3.125%}.two_column_wide_splash_layout .component-container.right{width:31.25%;float:right}.profile_layout .double-wide-column{width:65.625%;float:left;margin-right:3.125%}.profile_layout .component-container.right{width:31.25%;float:right}.standard_content_page_layout .component-container.content{width:630px;float:left;margin-right:2.32558%}.standard_content_page_layout .group.row.right{width:300px;float:right}.standard_content_page_layout .group.row.main-content .component-container.right{width:300px;float:right}.wide_content_page_layout .component-container.bottom-left{width:65.625%;float:left;margin-right:3.125%}.wide_content_page_layout .component-container.bottom-right{width:31.25%;float:right}.search_page_layout .component-container.left{width:31.25%;float:left;margin-right:3.125%}.search_page_layout .component-container.content{width:65.625%;float:right}.search_page_layout .component-container.top{height:40px}.modern-theme,.bpage-theme{font:12px/16px Arial,"Helvetica Neue",Helvetica,sans-serif}.modern-theme .component-container.footer,.bpage-theme .component-container.footer{width:100%}.modern-theme .group.main-content,.bpage-theme .group.main-content{width:970px;min-width:970px;margin:0 auto;background-color:#fff;padding:0 15px 15px 15px}
+</style>
+<style>.image-component{position:relative;max-width:100%;display:inline-block}.image-component_with-overlay{display:inline-block}.image-component_with-overlay .image-component__overlay{display:none;position:absolute;z-index:4;background:rgba(255,255,255,0.8);padding:5px;color:#000;font-size:11px;font-family:'Helvetica', Arial, sans-serif;text-align:right;box-sizing:border-box;line-height:13px}.image-component_with-overlay .image-component__overlay_visible{display:block}.image-component_with-overlay .image-component__overlay_visible a{text-decoration:none;color:#2c9178}.image-component_with-overlay .image-component__overlay_visible a:hover{text-decoration:underline;color:#2c9178}.image-component img{max-width:100%;vertical-align:bottom}.image-component__pinterest{position:absolute;display:none}.image-component__pinterest_visible{display:block;cursor:pointer}.image-component__pinterest .image-component__pinterest-button{margin:0;max-width:auto;display:inline-block}
+</style>
+<style>.main-nav-component{margin:0 auto 30px auto;font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:18px;color:#111;position:relative}.main-nav-component:before,.main-nav-component:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.main-nav-component__dropdown{position:absolute;padding:0;margin:0;z-index:15;min-width:160px;background-color:#f0f0f0;border:1px solid #ccc;border-bottom:3px solid #317161;list-style:none}.main-nav-component__dropdown-link{padding:10px;display:block;text-decoration:none;color:#111}.main-nav-component__dropdown-link:hover{color:#317161}.main-nav-component__categories{background-color:#2e7060;color:white;height:30px;width:980px;list-style:none;margin:0 auto 20px auto;padding:0;text-align:center;display:table}.main-nav-component__categories:before,.main-nav-component__categories:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.main-nav-component__category{display:table-cell}.main-nav-component__category:hover .main-nav-component__category-link{color:#333;background-color:#fbfbfb}.main-nav-component__category-link{display:block;padding:7px 10px;text-transform:uppercase;font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:16px;text-transform:uppercase;text-decoration:none;color:#fff;font-weight:600;-webkit-font-smoothing:antialiased}.main-nav-component__category-link:hover{color:#fff}.main-nav-component__category-link:hover{color:#333;background-color:#fbfbfb}.main-nav-component__dropdown{display:none}.main-nav-component__dropdown_open{display:block}.main-nav-component__menu-container{text-align:center;float:right;width:100px}.main-nav-component .search-component:after{background-position:-10px 0}.main-nav-component .search-component:hover:after{background-position:-45px 0}.main-nav-component .search-component_open:after{background:none}.main-nav-component .search-component_open:hover:after{background:none}.main-nav-component .editions-component__all{border-top:none}.main-nav-component .editions-component__all:after{display:none}.main-nav-component .editions-component:hover{background-color:#2c9178;border:1px solid #2c9178}.main-nav-component .editions-component:after{background-position:-10px -35px}.main-nav-component .editions-component:hover:after{background-position:-10px -35px}#main-nav-component-sticky-wrapper.is-sticky .main-nav-component__logo-container,#main-nav-component-sticky-wrapper.is-sticky .main-nav-component__menu-container{opacity:1;-moz-transition-property:opacity;-o-transition-property:opacity;-webkit-transition-property:opacity;transition-property:opacity;-moz-transition-duration:0.2s;-o-transition-duration:0.2s;-webkit-transition-duration:0.2s;transition-duration:0.2s}
+</style>
+<style>.editions-component{font-family:Helvetica, Arial, sans-serif;font-size:11px;cursor:pointer;background-color:transparent;z-index:16;position:relative}.editions-component__current-edition-text{display:inline-block;margin-top:2px}.editions-component__current-edition-arrow{display:inline-block;width:0;vertical-align:top;margin:6px 0 0 2px;border-left:4px solid transparent;border-right:4px solid transparent;border-top:4px solid #404040}.editions-component__current-edition{float:left;display:inline-block;padding:5px 12px;border-style:solid;border-width:1px;border-color:#fff;border-radius:3px}.editions-component__current-edition_open{border-color:#404040;background-color:#404040;color:#fff}.editions-component__current-edition_open .editions-component__current-edition-arrow{border-top-color:#fff}.editions-component:hover .editions-component__current-edition{border-color:#ccc}.editions-component:hover .editions-component__current-edition_open{border-color:#404040}.editions-component__dropdown{display:none;background-color:#404040;padding:5px;list-style:none;position:absolute;top:15px;border-radius:0 0 3px 3px}.editions-component__dropdown_open{display:block}.editions-component__dropdown-link{display:block;text-align:left;text-decoration:none;padding:5px 8px 2px 8px;color:#fff}.editions-component__dropdown-link:hover{background-color:#555}.editions-component__dropdown-link-edition-name{padding-right:6px}.editions-component__dropdown-link-edition-code{float:right;font-weight:bold}
+</style>
+<style>.author-component:before,.author-component:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.author-component__byline{max-width:630px}.author-component__byline:before,.author-component__byline:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.author-component__headshot{float:left;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%;display:block;width:40px;height:40px;border:1px solid #ccc;margin:0 10px 0 0}.author-component__info{margin-top:7px;float:left;max-width:80%}.author-component__name{display:block;line-height:1;margin-bottom:2px;color:#111;text-decoration:none;font-family:Helvetica, Arial, sans-serif;font-weight:normal;font-size:15px}.author-component__teaser{font-weight:normal !important;color:#666;font-family:Helvetica, Arial, sans-serif;font-weight:normal;font-size:11px}.author-component__social-links{float:right;padding:5px 0 0;margin:0;list-style:none}.author-component__social-links-item{list-style:none;padding:0;margin:0;float:left;width:24px;height:24px}.author-component__social-links-item_facebook .social-component__link{position:relative}.author-component__social-links-item_facebook .social-component__link:after{content:"";width:12px;height:18px;background:url("/resources/images/4023086218cd75e6fad03588a74c6f7e-social_byline.png") no-repeat 0 0 transparent;position:absolute;left:6px;top:3px}.author-component__social-links-item_facebook .social-component__link:hover:after{background-position-y:-18px}.author-component__social-links-item_twitter .social-component__link{position:relative}.author-component__social-links-item_twitter .social-component__link:after{content:"";width:24px;height:18px;background:url("/resources/images/4023086218cd75e6fad03588a74c6f7e-social_byline.png") no-repeat -32px -1px transparent;position:absolute;left:0;top:4px}.author-component__social-links-item_twitter .social-component__link:hover:after{background-position-y:-19px}.author-component .social-component__link{text-indent:-119988px;overflow:hidden;text-align:left;text-transform:capitalize;display:block;width:100%;height:24px;position:relative;z-index:12}.author-component__bio{font-family:"Open Sans",Helvetica,sans-serif;font-weight:700;font-size:15px;margin:20px 0px}
+</style>
+<style>.entry-component{margin-bottom:25px}.entry-component__blog-header{font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;color:#2c9178;margin-bottom:20px}.entry-component__sponsored-header-text{font-size:12px;font-weight:normal;font-family:Helvetica, Arial, sans-serif;color:#fff;text-transform:uppercase;text-align:center;padding:2px 8px;background-color:#a5a5a5;margin:7px 0 20px 0;display:inline-block}.entry-component__headline{font-family:"Georgia", "Century", "Times New Roman", serif;font-size:32px;line-height:36px;color:#111;margin-bottom:8px}.entry-component__excerpt{font-family:"Georgia", "Century", "Times New Roman", serif;font-size:16px;line-height:20px;font-weight:bold;color:#111;margin:10px 0}.entry-component__dateline{font-family:Helvetica, Arial, sans-serif;font-weight:normal;font-size:11px;font-weight:400;padding:16px 0;color:#999}.entry-component__dateline__edited{border-left:1px solid #999;margin-left:10px;padding-left:10px}.entry-component__above-entry-image{margin-bottom:27px}.entry-component__above-entry-image .image-component__overlay{padding:15px;text-align:left}.entry-component__above-entry-image_float{margin:0 !important}.entry-component__content-top-media{float:left;margin-right:20px;margin-bottom:0}.entry-component__content-top-media .placement-sharebox_260x60{margin:0 0 10px 0}.entry-component__content{font-family:"Georgia", "Century", "Times New Roman", serif;font-size:15px;line-height:24px}.entry-component__content embed,.entry-component__content iframe,.entry-component__content video,.entry-component__content object{max-width:100%}.entry-component__content a{color:#2c9178;text-decoration:none}.entry-component__content a:hover{text-decoration:underline}.entry-component__content p{margin:0 0 15px 0}.entry-component__content img{max-width:100%}.entry-component__content .embed-code .pull-quote,.entry-component__content .embed-code blockquote{padding:0 15px;margin:15px auto;border-left:8px solid #2e7061;background-color:transparent;display:block}.entry-component__content .embed-code .pull-quote .quote,.entry-component__content .embed-code .pull-quote p,.entry-component__content .embed-code blockquote .quote,.entry-component__content .embed-code blockquote p{margin-bottom:10px;display:block;font-family:"Open Sans",Helvetica,sans-serif;font-weight:600;font-size:24px;line-height:28px;position:relative}.entry-component__content .embed-code .pull-quote .quote:before,.entry-component__content .embed-code .pull-quote p:before,.entry-component__content .embed-code blockquote .quote:before,.entry-component__content .embed-code blockquote p:before{font-family:Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;font-size:2em;font-weight:700;content:'\201C';color:#2e7061;display:block;height:0.55em;padding-top:15px}.entry-component__content .embed-code .pull-quote .attribution,.entry-component__content .embed-code blockquote .attribution{display:block}.entry-component__content .embed-code .pull-quote .attribution:before,.entry-component__content .embed-code blockquote .attribution:before{content:'\2014 '}.entry-component__content blockquote{background-color:#ededed;padding:30px 40px}.entry-component__content blockquote p{margin:0}.entry-component__content ol{list-style-type:decimal}.entry-component__content ol ul,.entry-component__content ol ol{list-style-type:lower-latin}.entry-component__content .embed-asset{margin:30px auto}.entry-component__content .embed-asset .twitter-tweet{margin-left:auto !important;margin-right:auto !important}.entry-component__content .embed-asset .fmvps-wrapper{margin-left:auto !important;margin-right:auto !important}.entry-component__content .slideshow-component .hp-slideshow-wrapper{margin-left:auto;margin-right:auto}.entry-component__linkout{font-family:"Georgia", "Century", "Times New Roman", serif;font-size:15px;line-height:24px;font-style:italic;color:#2c9178;text-decoration:none}.entry-component__linkout span{font-style:normal}.entry-component__linkout:hover{text-decoration:underline}.entry-component__image-centering-wrapper{display:block;margin:30px 0;text-align:center}.entry-component__image-centering-wrapper:before,.entry-component__image-centering-wrapper:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.entry-component_wide .entry-component__content p,.entry-component_wide .entry-component__content .embed-asset,.entry-component_wide .entry-component__content .slideshow-component,.entry-component_wide .entry-component__content blockquote{width:630px;margin-left:auto;margin-right:auto}.entry-component .author-component{font-family:Helvetica, Arial, sans-serif;font-weight:normal;font-size:15px;border-bottom:1px solid #ccc;padding:7px 0}.entry-component .entry-component__floating-share-blog{position:relative;top:-45px}.entry-component .fmvps-wrapper{float:none !important}
+</style>
+<style>.search-component{padding-left:50px}.search-component:before,.search-component:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.search-component__label{display:none}.search-component__input{font-family:Helvetica, Arial, sans-serif;font-size:11px;border:1px solid #dfdfdf;width:244px;padding:5px 5px 4px;float:left;color:#787878;border-right:0;background-color:#f7f7f7;height:14px;box-sizing:content-box}.search-component__submit{float:left;background-color:#fff;background-image:url("/resources/images/7caf81f0cae952b2b223bcc8d8f879d5-search-icon.png");background-repeat:no-repeat;background-position:5px 5px;border:1px solid #dfdfdf;width:25px;height:25px;cursor:pointer;line-height:0;font-size:0}.search-component_long{padding:0 0 20px 0}.search-component_long .search-component__input{width:550px}
+</style>
+<style>.floating-share-component{position:absolute;z-index:14;margin:7px 0 0 -80px;width:50px;font-family:"Open Sans",Helvetica,sans-serif;font-weight:700;font-size:14px}.floating-share-component__list{margin:0;padding:0;list-style:none}.floating-share-component__item-container{min-height:50px}.floating-share-component__item{width:50px;min-height:50px;position:relative;margin-bottom:10px}.floating-share-component__item .floating-share-component__action{text-indent:-119988px;overflow:hidden;text-align:left;text-transform:capitalize;overflow:visible;display:block;border:none;background:transparent;cursor:pointer}.floating-share-component__item_facebook .floating-share-component__action{position:relative;width:50px;height:50px}.floating-share-component__item_facebook .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 10px 3px #3d57a8;position:absolute;left:0;top:0}.floating-share-component__item_facebook .floating-share-component__action:hover:after{background-position-x:-40px}.floating-share-component__item_facebook .floating-share-component__count{background-color:#3d57a8}.floating-share-component__item_twitter .floating-share-component__action{position:relative}.floating-share-component__item_twitter .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 5px -80px #2daae2;position:absolute;left:0;top:0}.floating-share-component__item_twitter .floating-share-component__action:hover:after{background-position-x:-45px}.floating-share-component__item_twitter .floating-share-component__count{background-color:#2daae2}.floating-share-component__item_pinterest .floating-share-component__action{position:relative;width:50px;height:50px}.floating-share-component__item_pinterest .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 5px -210px #cb2027;position:absolute;left:0;top:0}.floating-share-component__item_pinterest .floating-share-component__action:hover:after{background-position-x:-45px}.floating-share-component__item_pinterest .floating-share-component__count{background-color:#cb2027}.floating-share-component__item_email .floating-share-component__item-container .floating-share-component__action{position:relative;right:-10px;top:5px;width:100%;height:100%;margin-top:5px}.floating-share-component__item_email .floating-share-component__item-container .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 4px -165px #0089c6;position:absolute;left:-10px;top:-5px}.floating-share-component__item_email .floating-share-component__item-container .floating-share-component__action:hover:after{background-position-x:-46px}.floating-share-component__item_email .floating-share-component__count{background-color:#0089c6}.floating-share-component__item_linkedin .floating-share-component__item-container .floating-share-component__action{position:relative;right:-10px;top:5px;width:100%;height:100%;margin-top:5px}.floating-share-component__item_linkedin .floating-share-component__item-container .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 5px -121px #0077b5;position:absolute;left:-10px;top:-5px}.floating-share-component__item_linkedin .floating-share-component__item-container .floating-share-component__action:hover:after{background-position-x:-45px}.floating-share-component__item_linkedin .floating-share-component__count{background-color:#0077b5}.floating-share-component__item_comments .floating-share-component__item-container .floating-share-component__action{position:relative;right:-10px;top:5px}.floating-share-component__item_comments .floating-share-component__item-container .floating-share-component__action:after{content:"";width:50px;height:50px;background:url("/resources/images/fb67e964367fc34b18c2eb3cf1873678-social_share.png") no-repeat 6px -249px #2c9178;position:absolute;left:-10px;top:-5px}.floating-share-component__item_comments .floating-share-component__item-container .floating-share-component__action:hover:after{background-position-x:-44px}.floating-share-component__item_comments .floating-share-component__count{background-color:#2c9178}.floating-share-component__count{width:50px;display:block;padding:3px 0;text-align:center;color:#fff;margin-top:2px}#floating-share-component-sticky-wrapper{position:absolute}
+</style>
+<style>.follow-us-below-entry-component{clear:both;position:relative}.follow-us-below-entry-component__header{color:#111;font-family:"Open Sans Condensed",Helvetica,sans-serif;font-weight:700;font-size:24px;text-transform:uppercase}.follow-us-below-entry-component__content{padding:15px 0 15px;margin:15px 0;border-top:1px solid #ccc;border-bottom:1px solid #ccc}.follow-us-below-entry-component__content:before,.follow-us-below-entry-component__content:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.follow-us-below-entry-component__social-links{float:left;margin:0;padding:0;list-style:none}.follow-us-below-entry-component__social-links:before,.follow-us-below-entry-component__social-links:after{content:'\0020';display:block;clear:both;visibility:hidden;line-height:0;width:0;height:0}.follow-us-below-entry-component__email{float:left}.follow-us-below-entry-component__item{float:left;margin-right:15px}.follow-us-below-entry-component__item_facebook .social-component__link{background-color:#3d57a8;position:relative}.follow-us-below-entry-component__item_facebook .social-component__link:after{content:"";width:inherit;height:inherit;background:url("/resources/images/1f783cfb9603215fdfc71187bbba2552-social_after.png") no-repeat 0 -5px transparent;position:absolute;left:0;top:0}.follow-us-below-entry-component__item_facebook .social-component__link:hover:after{background-position-x:-30px}.follow-us-below-entry-component__item_twitter .social-component__link{background-color:#2daae2;position:relative}.follow-us-below-entry-component__item_twitter .social-component__link:after{content:"";width:inherit;height:inherit;background:url("/resources/images/1f783cfb9603215fdfc71187bbba2552-social_after.png") no-repeat 2px -35px transparent;position:absolute;left:0;top:0}.follow-us-below-entry-component__item_twitter .social-component__link:hover:after{background-position-x:-28px}.follow-us-below-entry-component__contact-button{position:absolute;right:0;top:4px;cursor:pointer;color:#317161;font-family:Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;font-weight:bold}.follow-us-below-entry-component .social-component__link{width:30px;height:30px;display:block;text-indent:-119988px;overflow:hidden;text-align:left;text-transform:capitalize;cursor:pointer}.follow-us-below-entry-component .newsletter-signup-component_follow-us{width:300px;float:left}.follow-us-below-entry-component .newsletter-signup-component_follow-us__subscribe .help-block{margin-left:15px}
+</style>
+    <meta property='sailthru.tags' content='Israel,Palestine, Susiya,Israeli-Palestinian Conflict,Israeli settlements ,two-state solution,Benjamin Netanyahu,Naftali Bennett,West Bank,West Bank settlements'>
+<meta property='sailthru.image.thumb' content='http://img.huffingtonpost.com//asset/600_450/55af1e861500002d00173d46.jpeg'>
+<meta property='og:title' content='Palestinian Homes In The West Bank Will Soon Be Demolished -- Again'>
+<script type="text/javascript">define("runtime_data/debugAolScripts",function(){ return false; });</script>
+<meta property='og:url' content='http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25'>
+<meta property='keywords' content='Israel,Palestine, Susiya,Israeli-Palestinian Conflict,Israeli settlements ,two-state solution,Benjamin Netanyahu,Naftali Bennett,West Bank,West Bank settlements'>
+<script type="text/javascript">define("runtime_data/hypeTrackingConfig",function(){ return {"comscore":{"c1":2,"c2":6723616,"c3":"","c4":"","c5":"world","c6":"","c15":"","options":{"url_append":"comscorekw=world"}},"omniture":{"account":"aolhuffpostworld,aolsvc","config":{"linkInternalFilters":"javascript:,huffingtonpost.com","prop54":"huffpost","channel":"us.hpmgwor","pfxID":"hpo","prop1":"hpo : default","prop9":"hpo:55af1787e4b0a9b94852fa25","prop16":"news","prop19":"israel|palestine|susiya|israeli-palestinian-conflict|israeli-settlements|two-state-solution|benjamin-netanyahu|naftali-bennett|west-bank|west-bank-settlements","prop22":"jessica-schulberg","prop23":"7-22-15","prop62":"video_novideo","prop65":"original_content","prop12":"http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25"}},"dataLayer":{"p":{"dL_ch":"us.hpmgwor","dL_flid":"_","edition":"us","platform":"desktop","sectionId":"55968730e4b0c706985a3c25","sectionName":"WorldPost","dL_cmsID":"hpo:55af1787e4b0a9b94852fa25","dL_blogID":2,"dL_Dpt":"default","dL_tags":"israel,palestine,susiya,israeli-palestinian-conflict,israeli-settlements,two-state-solution,benjamin-netanyahu,naftali-bennett,west-bank,west-bank-settlements","dL_author":"Jessica Schulberg","dL_pubts":1437592896662,"dL_vid":"video_novideo","authorId":"557703b5e4b09499c4202d5d","authorSlug":"jessica-schulberg","authorDisplayName":"Jessica Schulberg","publishSectionId":"55968730e4b0c706985a3c25","publishSectionName":"WorldPost","renderingEngine":"hyperion","format":"desktop"}}}; });</script>
+<link rel='alternate' media='only screen and (max-width: 640px)' href='http://m.huffpost.com/us/entry/55af1787e4b0a9b94852fa25'>
+<meta itemprop='inLanguage' property='article:language' content='en'>
+<script type="text/javascript">
+          // SimpleReach
+    __reach_config = {
+    pid: '523a4a96e79548b89a000003',
+    title: "Palestinian Homes In The West Bank Will Soon Be Demolished -- Again",
+    url: "http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25",
+    date: "2015-07-22T19:21:36.000Z",
+    authors: ['Jessica Schulberg'],
+    channels: ["us.hpmgwor"],
+    tags: ['israel', 'palestine', 'susiya', 'israeli-palestinian-conflict', 'israeli-settlements', 'two-state-solution', 'benjamin-netanyahu', 'naftali-bennett', 'west-bank', 'west-bank-settlements', '@health_gad', '@health_depression', '@health_models', '@health_erectile', '@health_ibs'],
+    ignore_errors: false
+  };
+  (function(){
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+  })();
+  </script>
+<meta property='sailthru.date' content='2015-07-22T19:21:36.000Z'>
+<script type="text/javascript">define("runtime_data/recaptchaKey",function(){ return {"pubkey":"6LeDDQATAAAAAHNBJdnKcwMvSdOnM7TDMeJR_cRn"}; });</script>
+<meta itemprop='headline' property='article:headline' content='Palestinian Homes In The West Bank Will Soon Be Demolished -- Again'>
+<meta property='sailthru.expire_date' content='2015-07-23T19:21:36.000Z'>
+<meta itemprop='dateModified' property='article:modified' content='2015-07-22T19:21:36.000Z'>
+<meta property='og:locale' content='en_US'>
+<meta itemprop='datePublished' property='article:published' content='2015-07-22T19:21:36.000Z'>
+<script type="text/javascript">require(['modules/resourceTiming']);</script>
+<meta property='article:publisher' content='theworldpost'>
+<link rel='canonical' href='http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25'>
+<script type="text/javascript">define("runtime_data/sailthruList",function(){ return "World Brief"; });</script>
+<meta property='og:site_name' content='The Huffington Post'>
+<script type="text/javascript">define("runtime_data/language",function(){ return "en"; });</script>
+<meta itemprop='articleBody' property='article:body' content='WASHINGTON -- Nasser Nawajah was 4&nbsp;years old the first time Israeli forces expelled him from his home in Susiya, a village in the southern part of the West Bank. In the 29 years since, Israeli forces have destroyed Nawajah&apos;s home -- and those of his neighbors -- countless times. Now, they&rsquo;re threatening to do it again.<br>
+The Palestinian village of Susiya currently consists of over 300 people and over 100 structures -- the latter of which are subject to demolition by the Israeli government because they were all erected without proper building permits. &nbsp;<br>
+Susiya is located in Area C, the 60 percent of the West Bank that was placed under Israeli control in 1995 as part of the Oslo Accords. Under that treaty, part of the land was eventually supposed to be transferred to Palestinian control as one element of a two-state solution. But no such final peace agreement exists. Some Israelis now argue that Israel should annex Area C outright. The Israeli settlement population in Area C continues to grow, and the Israeli government maintains policies that make it extremely difficult for Palestinians to legally build homes there.<br>
+Over the past several years, Rabbis for Human Rights, a Jerusalem-based nonprofit, has represented the Palestinians of Susiya in the battle to gain legal legitimacy for their tents, animal shelters, water cisterns, latrines, clinics and schools in Susiya. The Israeli High Court of Justice is scheduled to hear argument in that battle on Aug. 3. Until recently, residents had hoped the looming court case would protect their homes from Israeli bulldozers.<br>
+They were recently told this is not true.<br>
+On June 12, representatives from the Israeli government came to Susiya to tell the Palestinians that the government was not restricted by the impending court hearing and that residents should be prepared for demolitions to begin after Ramadan, which ended on Friday.<br>
+&ldquo;We thought maybe a couple of buildings,&rdquo; said Rabbi Arik Ascherman, the president of Rabbis for Human Rights. Several days later, Israeli authorities delivered a list of approximately 40 structures targeted for demolition. &ldquo;When we got the list, it&rsquo;s half the village! They&rsquo;re destroying half the village before the hearing comes to the court,&rdquo; he said.<br>
+
+        
+The way things stand, in the next few days, the bulldozers could show up any morning.
+Sarit Michaeli, B’Tselem
+
+Since the June 12 announcement, Palestinians have been organizing protests, mobilizing international support -- and waiting to see what becomes of their homes.<br>
+&ldquo;The way things stand, in the next few days, the bulldozers could show up any morning,&rdquo; said Sarit Michaeli, the spokeswoman for the human rights group B&rsquo;Tselem, which has been closely tracking the developments in Susiya. &ldquo;The community is obviously living under a lot of stress.&rdquo;<br>
+
+The official Israeli reason for the demolitions is that the Palestinian structures -- which are mostly tents and shabbily constructed shacks -- were built on agricultural land without a permit from the Israeli Civil Administration, the body that controls Area C.<br>
+According to Israeli data, Palestinians living in Area C submitted 3,750 applications for building permits between 2000 and 2012. Just 5.6 percent of those applications -- a total of 211 -- were approved. Bimkom, an Israeli-based nonprofit group of architects and planners, recently accessed more current data, which are not yet public, and found that only one permit was approved in 2014. The number of people requesting such permits has declined steadily over the years as Palestinians lose faith in the process.<br>
+&ldquo;No one is denying that there&rsquo;s a reality of unplanned construction in the Palestinian communities in Area C,&rdquo; said Michaeli. &ldquo;But that, of course, is because there is actually no way for them to get permits to construct lawfully. The authorities created this problem by establishing a discriminatory and restrictive planning regime -- and then complain that Palestinians violated the planning law and demolish their homes,&rdquo; she said.&nbsp;<br>
+Alon Cohen-Lifshitz, an architect with Bimkom, referred to the process as a &ldquo;silent transfer.&rdquo;<br>
+&ldquo;Israel is not moving Palestinians to Areas A and B -- but it&rsquo;s not giving them any [other] option except a life of struggle in Area C,&rdquo; he said.<br>
+
+
+        
+We know there are voices in the current government talking about annexing Area C, getting as much land as possible, do everything we can to drive the Palestinians off of the land and into Area A and B.
+Rabbi Arik Ascherman, Rabbis for Human Rights
+
+Some of Israel&rsquo;s leading hardliners -- including Naftali Bennett, the head of Israel&rsquo;s pro-settlements Jewish Home party -- have proposed that Israeli annex Area C, forcing the estimated 300,000 Palestinians who live there to either accept permanent Israeli rule or move elsewhere. Meanwhile, Israeli settlement in Susiya continues to grow and Israelis in the area overwhelmingly vote for politicians like Bennett.<br>
+&ldquo;We know there are voices in the current government talking about annexing Area C, getting as much land as possible, do everything we can to drive the Palestinians off of the land and into Area A and B,&rdquo; said Ascherman. &ldquo;That&rsquo;s the plan. They want to redraw the map.&rdquo;<br>
+Israeli Prime Minister Benjamin Netanyahu has stayed silent on Susiya, and more broadly, he&apos;s been quiet on the issue of settlements. But support from the pro-settlement community has been a critical element in his effort to stay in power. The day before the most recent elections in March, Netanyahu promised not to allow the creation of a Palestinian state if he were re-elected. He walked back his comments after the election (and after a stern rebuke from the White House), but he still relied on Bennett&rsquo;s support in cobbling together a coalition government.<br>
+The current situation in Susiya is the culmination of decades of efforts by the Israeli government to expel Palestinians from the village, invariably followed by the determined efforts of the Palestinians to rebuild their homes on their ancestral land.<br>
+&ldquo;Our houses are tents, we cannot build a normal house, and the conditions are very bad,&rdquo; Nawajah told The Huffington Post on Tuesday. Still, he will not consider moving elsewhere. &ldquo;Nobody is thinking about that. This is not a solution -- the Palestinians developed Susiya,&rdquo; he said.<br>
+The Palestinian village in Susiya dates back to the 1830s. The first major challenge to its existence came in 1986, three years after the creation of the Israeli settlement in Susiya. The Israeli government discovered remnants of an ancient synagogue, declared the area an archaeological site, and forced the Palestinians out of their cave dwellings. Nawajah was born in one of those caves, but he is not permitted to visit the archeological site today.<br>
+Israeli authorities destroyed homes in Susiya again in 2001 after two Palestinians killed Israeli settler Yair Har Sinai.<br>
+In the years that followed, the Palestinian residents dealt with what B&rsquo;Tselem once described as &ldquo;an impossible reality.&rdquo; The group wrote: &ldquo;On the one hand, they had to erect homes and structures for their livestock after the military destroyed their previous ones; on the other hand, the Civil Administration refused to prepare a master plan for the village that would enable its residents to build homes legally and connect to the water and power grids, and rejected residents&apos; applications for building permits.&rdquo;<br>
+In 2012, Rabbis for Human Rights helped draft a plan for the villagers to submit to the Israeli Civil Administration in an effort to pave the way for Palestinians to legally construct homes in Susiya. The plan was rejected the following year. Rabbis for Human Rights appealed to the Israeli High Court of Justice to overrule the government&rsquo;s rejection of the plan -- and requested that the court grant a temporary freeze on demolitions in Susiya while the court considered the case. Justice Noam Sohlberg, a settler himself, rejected the freeze in May 2015. The court is still scheduled to consider the case on Aug. 3, but in the meantime, there are no restrictions on home demolitions.&nbsp;<br>
+For a place with a population of just a few hundred, the Palestinian village of Susiya has drawn considerable international attention. Dorothy Shea, the U.S. State Department&rsquo;s acting consul general in Jerusalem, visited Susiya last week in solidarity with the Palestinians.<br>
+
+        A/Consul General Dorothy Shea: Today I visited Susiya to signal US opposition to planned demolition of the village. pic.twitter.com/XtXXqtByeo<br>&mdash; USCGJerusalem (@USCGJerusalem) July 16, 2015
+
+That same day, State Department spokesman John Kirby urged the Israelis to halt the planned destructions. &ldquo;Demolition of this Palestinian village, or of parts of it, and evictions of Palestinians from their homes would be harmful and provocative,&rdquo; he told reporters in Washington. &ldquo;We are concerned that the demolition of this village may worsen the atmosphere for a peaceful resolution and would set a damaging standard for displacement and land confiscation, particularly given settlement-related activity in the area,&rdquo; he added.<br>
+On Friday, 11 Democratic members of Congress signed a letter to Secretary of State John Kerry, urging him to take further action to prevent the demolitions. A petition echoing this request to Kerry, circulated by the American nonprofit Jewish Voice for Peace, now has over 25,000 signatures. &nbsp;<br>
+
+        
+Frankly, international concern is the only thing keeping Susiya standing.
+Rabbi Arik Ascherman, Rabbis for Human Rights
+
+Israeli authorities "are quite aware that this will be uncomfortable for Israel,&rdquo; Michaeli, the B&rsquo;Tselem spokeswoman, told HuffPost, noting the outpouring of support for the Palestinians in Susiya.<br>
+Ascherman, of Rabbis for Human Rights, put it more directly. &ldquo;Frankly, international concern is the only thing keeping Susiya standing,&rdquo; he said Tuesday.<br>
+Although local activists welcome the outside support, Michaeli worries that words without actions could ultimately be counterproductive. If after all these high-profile warnings, the Israeli government moves forward with the demolitions and the international community merely condemns the act, she said, &ldquo;It&rsquo;s a signal to Israel that it can continue to do these demolitions in Area C without any real consequences.&rdquo;<br>
+&ldquo;The most important thing is that if you&rsquo;re talking about the two-state solution, with Israel side by side Palestine, Area C is the future land for a Palestinian state. There&rsquo;s no other land available for housing, for agriculture, for industry, to re-house refugees -- there&rsquo;s just no other way,&rdquo; Michaeli&nbsp;said. &nbsp;<br>'>
+<script type="text/javascript">define("runtime_data/locale",function(){ return "en_US"; });</script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js" async defer></script>
+<script type="text/javascript">define("runtime_data/section",function(){ return {"name":"WorldPost","slug":"world","socialAccounts":{"facebook":"theworldpost","twitter":"TheWorldPost"},"sailthruList":"World Brief","contactUs":"world-corrections@huffingtonpost.com","comscoreFooterOverride":"Part of HPMG News","customHeader":"http://img.huffingtonpost.com//asset/5596876f1e0000d88bdcb458.gif"}; });</script>
+<meta property='fb:app_id' content='46744042133'>
+<meta property='og:type' content='article'>
+<link rel='alternate' href='android-app://com.huffingtonpost.android/http/www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25'>
+<script type="text/javascript">define("runtime_data/athenaEnvironment",function(){ return null; });</script>
+<meta property='og:image' content='http://img.huffingtonpost.com//asset/600_450/55af1e861500002d00173d46.jpeg'>
+<meta property='twitter:site' value='TheWorldPost'>
+<script type="text/javascript">define("runtime_data/sectionSlug",function(){ return "world"; });</script>
+<script type="text/javascript">require(['modules/rightRailLock']);</script>
+<meta itemprop='url' property='article:url' content='http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25'>
+<script type="text/javascript">require(['modules/registerPings']);</script>
+<meta itemprop='articleSection' property='article:section' content='WorldPost'>
+<!--[if IE]><script type="text/javascript">require(['modules/ieYouTubeFix']);</script><![endif]-->
+<script type="text/javascript">define("runtime_data/pageContext",function(){ return {"pageType":"entry","pageName":"55af1787e4b0a9b94852fa25","editionCode":"us","platform":"desktop2","requestParams":{"isProd":true}}; });</script>
+<link rel="stylesheet" type="text/css" media="screen" href="/resources/lib/bootstrap-modal/css/4caa6cb32044e3073df5afc2e0e97e20-bootstrap-modal.css">
+<meta property='twitter:description' content='WASHINGTON -- Nasser Nawajah was 4 years old the first time Israeli forces expelled him from his home in Susiya, a village in the southern part of the West Bank. In the 29 years since, Israeli forces have'>
+<meta property='description' content='"When we got the list, it&apos;s half the village!"'>
+<script type="text/javascript">define("runtime_data/entryData",function(){ return {"id":"55af1787e4b0a9b94852fa25","url":"http://m.huffpost.com/us/entry/55af1787e4b0a9b94852fa25","title":"Palestinian Homes In The West Bank Will Soon Be Demolished -- Again","author":"Jessica Schulberg"}; });</script>
+<meta property='twitter:card' value='summary_large_image'>
+<style>.fout_guard{visibility:hidden;}</style>
+<meta property='og:description' content='WASHINGTON -- Nasser Nawajah was 4 years old the first time Israeli forces expelled him from his home in Susiya, a village in the southern part of the West Bank. In the 29 years since, Israeli forces have'>
+<meta itemprop='thumbnailUrl' property='article:thumbnailUrl' content='http://img.huffingtonpost.com//asset/600_450/55af1e861500002d00173d46.jpeg'>
+    
+      <script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: search');
+  require(['components/search'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: image');
+  require(['components/image'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: editions');
+  require(['components/editions'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: banner');
+  require(['components/banner'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: follow_us_below_entry');
+  require(['components/follow_us_below_entry'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: floating_share');
+  require(['components/floating_share'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: masthead');
+  require(['components/masthead'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: main_nav');
+  require(['components/main_nav'], function () {});
+});
+</script>
+<script type='text/javascript'>
+require(['modules/hype'], function(hype){
+  hype.log('loading component JS: follow_us');
+  require(['components/follow_us'], function () {});
+});
+</script>
+    
+    <!-- modulous head start -->
+
+<script type="text/javascript">
+ try {
+commercial_video = {
+    "site_and_category":"us.world",
+    "package":null
+};
+} catch(e) { window.console && window.console.log(e) } 
+</script>
+<script>
+ try {
+if (typeof HPAds !== 'undefined') {
+  HPAds.ad_reload_old = HPAds.ad_reload;
+  HPAds.ad_reload = function(placement, id) {
+    jQuery(document).trigger('reloadAd', document.getElementById(id));
+    HPAds.ad_reload_old.apply(this, arguments);
+  }
+}
+} catch(e) { window.console && window.console.log(e) } 
+</script>
+<style type="text/css">
+.mp_title {
+    font-size: 30px;
+    color: #111;
+    margin-bottom: 18px;
+    font-family: "Open Sans Condensed",Helvetica,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+</style>
+<script type="text/javascript">
+ try {
+window.adTechCallback = function() {
+  
+  
+  window.adSetAdURL('http://' + (document.domain || 'www.huffingtonpost.com') + (location.port?':'+location.port:'') + '/_uac/2014adpage.html');
+  window.tacProp={tags:"kvpagetype=bpage;kventryid=55af1787e4b0a9b94852fa25;kvcmsid=hpo:55af1787e4b0a9b94852fa25;kveditags=@health_gad:israel:israeli-palestinian-conflict:susiya:west-bank-settlements:@health_depression:@health_models:@health_erectile:@health_ibs:benjamin-netanyahu:west-bank:palestine:two-state-solution:israeli-settlements:naftali-bennett;kvvert=world"};
+  window.tacProp.tags += ( (typeof window.HPAds!=="undefined") && (typeof window.HPAds.adtech_client_side_inf=="function") ) ? window.HPAds.adtech_client_side_inf() : "";
+  if (typeof window.adSetOthAT=="function") window.adSetOthAT(window.tacProp.tags);
+  
+  window.adSetMOAT('1');
+  
+};
+} catch(e) { window.console && window.console.log(e) } 
+</script>
+
+<script type="text/javascript">
+ try {
+var adsWrapperUrl = "http://o.aolcdn.com/ads/adsWrapper";
+require.config({
+  paths: {
+    "modulous/adsWrapper": adsWrapperUrl
+  }
+})
+define("modulous/adTechHeader", ["modulous/adsWrapper"], function($){
+  window.adTechCallback();
+});
+require(["modulous/adTechHeader"]);
+} catch(e) { window.console && window.console.log(e) } 
+</script>
+
+<script>
+ try {
+var _HPJS = (function (_mod) {
+  "use strict";
+
+  _mod.loadJS = function (src, options) {
+    var options = options || {};
+    var ref = window.document.getElementsByTagName("script")[0];
+    var script = window.document.createElement("script");
+    script.src = src;
+    script.async = options.async;
+    script.defer = options.defer;
+    ref.parentNode.insertBefore(script, ref);
+    return script;
+  }
+
+  _mod.loadJSLater = function (url, timeout) {
+    var ran = false;
+    var loader = function () {
+      if (ran) {
+        return;
+      }
+      ran = true;
+      _mod.loadJS(url, {async:true});
+    }
+    window.addEventListener ?
+      window.addEventListener("load",loader,false) :
+      window.attachEvent && window.attachEvent("onload",loader);
+    // in case the load event never fires
+    setTimeout(loader, timeout || 15000);
+  }
+
+  _mod.waitForGlobal = function(identifier, cb, poll) {
+    var test = typeof identifier === "function" ? identifier : function() { return !!window[identifier]; };
+    var interval;
+    if(test()) {
+      cb();
+    } else {
+      interval = setInterval(function(){
+        if(test()) {
+          cb();
+          clearInterval(interval);
+        }
+      }, poll || 50);
+    }
+  };
+
+  return _mod;
+
+}(_HPJS || {}));
+} catch(e) { window.console && window.console.log(e) } 
+</script>
+<meta name="apple-itunes-app" content="app-id=306621789, app-argument=huffpostnews://?entryID=55af1787e4b0a9b94852fa25"/>
+<meta name="taboola.category" content="world" />
+<!-- modulous head end -->
+  </head>
+  <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=46744042133&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div class="layout standard_entry_page standard_content_page_layout modern-theme">
+    
+<div class="group column">
+    
+        
+<div class="component-container nav">
+    
+        
+<div data-beacon='{"p":{"mnid":"masthead","mlid":"top_of_page"}}' class='masthead-component component'>
+
+  
+  
+
+
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-adtech_header component fout_guard'>
+
+</div>
+
+
+
+<div class='modulous-placement-component huffpost-adspot placement-top_1x1 component fout_guard'>
+
+  
+  <style type="text/css">.shares .email{display: none !important;}</style><style type="text/css">.three-up{display: none !important;}</style><!-- polar.me -->
+<script>
+if (typeof polar_config == "undefined") {
+var hour_timestamp = Math.round(+new Date()/1000/60/60)
+var polar_config = [
+{label:"Homepage- Right Rail Unit", id:"93416620"},
+{label:"Homepage- Left Rail Unit", id:"0"},
+{label:"Homepage- Brand Blog Unit", id:"93416622"},
+{label:"Article Page- Right Rail Unit", id:"93416621"},
+];
+
+}
+</script>
+
+
+<style>.preview{border:1px solid #949494;border-radius:5px;overflow:hidden;margin-top:12px;width:300px;margin-bottom:10px}.preview a{text-decoration:none;color:#333;font-weight:700}.preview .preview_image_wrapper{margin-bottom:10px}.preview .carousel{padding:0;margin-top:5px}.preview .preview_h4{font-size:16px;line-height:18px}.preview li{padding:4px 8px 8px}.preview .preview_image_wrapper{text-align:center}.preview .preview_meta_links{font-size:13px;margin-top:5px;text-align:center;padding:0}.preview_meta_links a{color:#2e7060}.preview .preview_entry{margin-bottom:5px;width:282px}.preview ul.preview_meta_links li{display:inline;color:#aaa;padding:0;margin-right:1px}.commercial_title{position:absolute;margin:-14px 8px;text-transform:uppercase;color:#fff;padding:2px 8px;border-radius:5px;background-color:#2e7060;font:700 10px/15px Arial,Helvetica,sans-serif}</style>
+<script async src="http://modulous.huffpost.com/2015/06/25/1435258612-polar_plugin_hype.js"></script>
+
+<!-- /polar.me -->
+
+
+</div>
+
+
+
+<div class='modulous-placement-component huffpost-adspot placement-asset_inserts component fout_guard'>
+
+  
+  <script type="text/javascript">
+window.adSetMOAT && adSetMOAT("1");
+</script>
+
+</div>
+
+
+<header class='masthead-component__edition masthead-component__edition_us'>
+  <section class='masthead-component__branding'>
+    <a href="/section/world"><img class='masthead-component__logo' data-beacon='{"p":{"lnid":"logo"}}' src="http://img.huffingtonpost.com//asset/5596876f1e0000d88bdcb458.gif" alt="WorldPost" /></a>
+    
+<div data-beacon='{"p":{"lnid":"partner_logo"}}' class='partner-component component fout_guard'>
+
+</div>
+
+
+  </section>
+  <section class='masthead-component__subhead'>
+    <section class='masthead-component__editions'>
+<div data-beacon='{"p":{"lnid":"editions"}}' class='editions-component component'>
+
+  
+  
+
+<div class='editions-component__current-edition'>
+  <span class='editions-component__current-edition-text'>Edition: <strong>US</strong></span>
+  <span class='editions-component__current-edition-arrow'></span>
+</div>
+
+<!-- edition dropdown -->
+<menu class='editions-component__dropdown'>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.brasilpost.com.br">
+        <span class='editions-component__dropdown-link-edition-name'>Brazil</span>
+        <span class='editions-component__dropdown-link-edition-code'>BR</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.ca">
+        <span class='editions-component__dropdown-link-edition-name'>Canada</span>
+        <span class='editions-component__dropdown-link-edition-code'>CA</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.de">
+        <span class='editions-component__dropdown-link-edition-name'>Deutschland</span>
+        <span class='editions-component__dropdown-link-edition-code'>DE</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.es">
+        <span class='editions-component__dropdown-link-edition-name'>España</span>
+        <span class='editions-component__dropdown-link-edition-code'>ES</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.fr">
+        <span class='editions-component__dropdown-link-edition-name'>France</span>
+        <span class='editions-component__dropdown-link-edition-code'>FR</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.gr">
+        <span class='editions-component__dropdown-link-edition-name'>Ελλάδα (Greece)</span>
+        <span class='editions-component__dropdown-link-edition-code'>GR</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.in">
+        <span class='editions-component__dropdown-link-edition-name'>India</span>
+        <span class='editions-component__dropdown-link-edition-code'>IN</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.com/?country=IT">
+        <span class='editions-component__dropdown-link-edition-name'>Italia</span>
+        <span class='editions-component__dropdown-link-edition-code'>IT</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.jp">
+        <span class='editions-component__dropdown-link-edition-name'>日本 (Japan)</span>
+        <span class='editions-component__dropdown-link-edition-code'>JP</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.kr">
+        <span class='editions-component__dropdown-link-edition-name'>한국 (Korea)</span>
+        <span class='editions-component__dropdown-link-edition-code'>KR</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffpostmaghreb.com">
+        <span class='editions-component__dropdown-link-edition-name'>Maghreb</span>
+        <span class='editions-component__dropdown-link-edition-code'>MG</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://quebec.huffingtonpost.ca/?country=CA&amp;region=CA-QB">
+        <span class='editions-component__dropdown-link-edition-name'>Quebec</span>
+        <span class='editions-component__dropdown-link-edition-code'>QC</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.co.uk">
+        <span class='editions-component__dropdown-link-edition-name'>United Kingdom</span>
+        <span class='editions-component__dropdown-link-edition-code'>UK</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://www.huffingtonpost.com">
+        <span class='editions-component__dropdown-link-edition-name'>United States</span>
+        <span class='editions-component__dropdown-link-edition-code'>US</span>
+      </a>
+    </li>
+  
+    <li class='editions-component__edition'>
+      <a class='editions-component__dropdown-link' href="http://voces.huffingtonpost.com/">
+        <span class='editions-component__dropdown-link-edition-name'>Voces</span>
+        <span class='editions-component__dropdown-link-edition-code'>VS</span>
+      </a>
+    </li>
+  
+</menu>
+
+
+</div>
+
+</section>
+    <section class='masthead-component__search'>
+<div data-beacon='{"p":{"lnid":"search"}}' class='search-component component'>
+
+  
+  
+
+<form action="/search" class='search-component__form'>
+   
+  <label class='search-component__label' for="q">Huffpost Search</label>
+  <input class='search-component__input' name="q" type="search" placeholder="Search The Huffington Post" value=""></input>
+  <input class='search-component__submit' type="submit" name="submit" value="Search">
+</form>
+<gcse:search enableAutoComplete="true"></gcse:search>
+
+
+</div>
+
+</section>
+    <section class='masthead-component__social'>
+      <ul class='masthead-component__social-list'>
+        
+          <li class='masthead-component__item masthead-component__item_facebook' data-beacon='{"p":{"lnid":"facebook"}}'>
+<div class='social-component component fout_guard'>
+
+  
+  <div class='floating-share-component__action fb-like' data-href='http://facebook.com/HuffingtonPost' data-send='false' data-layout='button_count' data-show-faces='false' data-colorscheme='light' data-font='trebuchet ms' data-action='like' ref=''></div>
+
+</div>
+
+</li>
+        
+          <li class='masthead-component__item masthead-component__item_twitter' data-beacon='{"p":{"lnid":"twitter"}}'>
+<div class='social-component component fout_guard'>
+
+  
+  <a href="https://twitter.com/HuffingtonPost" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-lang="en" data-width="100px"></a>
+
+</div>
+
+</li>
+        
+      </ul>
+    </section>
+  </section>
+</header>
+
+
+</div>
+
+
+    
+        
+<div data-beacon='{"p":{"mnid":"sticky_nav","mlid":"menu"}}' class='main-nav-component component'>
+
+  
+  
+
+<ul class='main-nav-component__categories'>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="/">Front Page</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.in/">India</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.brasilpost.com.br/">Brasil</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.co.uk/">U.K.</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffpostmaghreb.com/">Maghreb</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.jp/">Japan</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.de/">Deutschland</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.ca/">Canada</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.kr/">Korea</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.fr/">France</a>
+      
+    </li>
+  
+    <li class='main-nav-component__category'>
+      <!-- Eventually, will need BEM modifier on category link for the section id tracking -->
+      <a class='main-nav-component__category-link' href="http://www.huffingtonpost.es/">Espana</a>
+      
+    </li>
+  
+</ul>
+
+
+<div class='modulous-placement-component huffpost-adspot placement-leaderboard_flex component fout_guard'>
+
+  
+  <style type="text/css">#topnav_margin_btm { margin0 !important }</style>
+<div id="ad_leaderboard_flex" class="ad_wrapper_"><div id="adtech_leaderboard_flex"></div>
+<script type="text/javascript">
+
+require(["modulous/adTechHeader"], function(){
+
+var adsDiv = document.getElementById('adtech_leaderboard_flex');
+adsDiv.id = adsDiv.id + Math.round(Math.random()*1e16);
+var adId = '93318133';
+
+
+var args = [adId, 'lb', 'lb'
+, 'f'];
+if (typeof debugadcode == 'function') { debugadcode('AdTech', {placement: 'leaderboard_flex', args: args}, adsDiv); }
+args.push(adsDiv);
+
+
+htmlAdWH.apply(this, args);
+
+
+adSetInView('0');
+
+});
+
+</script></div>
+<script type="text/javascript">if (typeof HPAds !== 'undefined') { 
+HPAds.ad_onload('div[id^="ad_leaderboard_flex"] iframe','HPAds.ad_uac_onload_handler(\' iframe[class^="uac_"]\',this,\'bottom_ad_border_div\',10)')
+}</script>
+
+</div>
+
+
+
+<div data-section='world' data-type='breaking_news' class='banner-component component fout_guard' data-page='entry'>
+
+</div>
+
+
+
+</div>
+
+
+    
+</div>
+
+    
+        
+<div class="group row content-outer">
+    
+        
+<div class="group row main-content">
+    
+        
+<div class="component-container content">
+    
+        
+<div class='entry-component component'>
+
+  
+  
+
+  <div class='entry-component__floating-share'>
+<div data-beacon='{"p":{"mnid":"floating_share","mlid":"bpage_share_bar"}}' class='floating-share-component component' id='floating-share-component'>
+
+  
+  
+
+<ul class='floating-share-component__list'>
+
+  <li class='floating-share-component__item floating-share-component__item_facebook' data-beacon='{"p":{"lnid":"facebook"}}'>
+    <div class='floating-share-component__item-container'>
+<div class='social-component component fout_guard'>
+
+  
+  <button class='floating-share-component__action floating-share-component__action_popup facebook-share' data-root='https://www.facebook.com/sharer/sharer.php' data-params='?u=http://m.huffpost.com/us/entry/55af1787e4b0a9b94852fa25'></button>
+
+</div>
+
+</div>
+    
+  </li>
+
+  <li class='floating-share-component__item floating-share-component__item_twitter' data-beacon='{"p":{"lnid":"twitter"}}'>
+    <div class='floating-share-component__item-container'>
+<div class='social-component component fout_guard'>
+
+  
+  <a class="floating-share-component__action twitter-tweet-btn" href="https://twitter.com/intent/tweet?lang=en&text=Palestinian%20homes%20in%20the%20West%20Bank%20will%20soon%20be%20demolished%20--%20again%20http://m.huffpost.com/us/entry/55af1787e4b0a9b94852fa25%20via%20@TheWorldPost"></a>
+
+</div>
+
+</div>
+    
+  </li>
+
+  <li class='floating-share-component__item floating-share-component__item_pinterest' data-beacon='{"p":{"lnid":"pinterest"}}'>
+    <div class='floating-share-component__item-container'>
+<div class='social-component component fout_guard'>
+
+  
+  <button class='floating-share-component__action floating-share-component__action_popup pinterest-pinit-btn' data-root='http://www.pinterest.com/pin/create/button/' data-params='?url=http%3A%2F%2Fm.huffpost.com%2Fus%2Fentry%2F55af1787e4b0a9b94852fa25&media=http%3A%2F%2Fimg.huffingtonpost.com%2F%2Fasset%2F735_980%2F55af1e861500002d00173d46.jpeg&description=Palestinian+Homes+In+The+West+Bank+Will+Soon+Be+Demolished+--+Again'></button>
+
+</div>
+
+</div>
+    
+  </li>
+
+  <li class='floating-share-component__item floating-share-component__item_comments' data-beacon='{"p":{"lnid":"comments"}}'>
+    <div class='floating-share-component__item-container'>
+<div class='html-component component fout_guard'>
+
+  
+  <a class="floating-share-component__action" href="#comments">Comment</a>
+
+</div>
+
+</div>
+    
+  </li>
+
+  <li class='floating-share-component__item floating-share-component__item_email' data-beacon='{"p":{"lnid":"email"}}'>
+    <div class='floating-share-component__item-container'>
+<div class='html-component component fout_guard'>
+
+  
+  <button class="floating-share-component__action">Email</button>
+
+</div>
+
+</div>
+    
+  </li>
+
+</ul>
+
+
+</div>
+
+</div>
+
+
+
+<h1 class='entry-component__headline' itemprop="name">Palestinian Homes In The West Bank Will Soon Be Demolished -- Again</h1>
+
+  <h2 class='entry-component__excerpt'>"When we got the list, it's half the village!"</h2>
+
+<div class='entry-component__author' itemscope='' itemprop='author creator' itemtype='http://schema.org/Person'><div class='author-component component'>
+
+  
+  
+
+
+<div class='author-component__byline' data-beacon='{"p":{"mnid":"byline"}}' itemid="http://www.huffingtonpost.com/jessica-schulberg">
+
+  <div class='author-component__headshot' data-beacon='{"p":{"lnid":"headshot"}}' data-href="http://www.huffingtonpost.com/jessica-schulberg">
+<div name='http://img.huffingtonpost.com//asset/50_50/00120013aa47.jpg' class='image-component component'>
+
+  
+  
+
+<img src='http://img.huffingtonpost.com//asset/50_50/00120013aa47.jpg' data-beacon='{"p":{"lnid":"headshot"}}' class='image-component__main-image author-component__headshot' alt='Headshot of Jessica Schulberg'>
+
+
+
+
+</div>
+
+</div>
+
+<div class='author-component__info'>
+  <a class='author-component__name' data-beacon='{"p":{"lnid":"author"}}' rel="author" href="http://www.huffingtonpost.com/jessica-schulberg"><span itemprop="name">Jessica Schulberg</span></a>
+  <span class='author-component__teaser'>Foreign Affairs Reporter, The Huffington Post</span>
+</div>
+
+  <ul class='author-component__social-links'>
+  	
+    
+      <li class='author-component__social-links-item author-component__social-links-item_twitter' data-beacon='{"p":{"lnid":"twitter"}}'>
+  	  
+<div class='social-component component fout_guard'>
+
+  
+  <a class='social-component__link' href='http://twitter.com/jessicaschulb' target='_blank'></a>
+
+</div>
+
+
+  	  </li>
+    
+  </ul>
+
+</div>
+
+
+
+</div></div>
+<div class='entry-component__dateline'><span class='entry-component__posted'>Posted: 07/22/2015 03:21 PM EDT</span></div>
+
+<div class='entry-component__content' data-beacon='{"p":{"mlid":"entry"}}'>
+  
+  <div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_0 component fout_guard"> 
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-sharebox_260x60 component fout_guard"> 
+</div> 
+<p>WASHINGTON -- Nasser Nawajah was 4&nbsp;years old the first time Israeli forces expelled him from his home in Susiya, a village in the southern part of the West Bank. In the 29 years since, Israeli forces have destroyed Nawajah's home -- and those of his neighbors -- countless times. Now, they’re threatening to do it again.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_1 component fout_guard"> 
+</div> 
+<p>The Palestinian village of Susiya currently consists of over 300 people and over 100 structures -- the latter of which are subject to demolition by the Israeli government because they were all erected without proper building permits. &nbsp;</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_2 component fout_guard"> 
+</div> 
+<p>Susiya is located in Area C, the 60 percent of the West Bank that was placed under Israeli control in 1995 as part of the Oslo Accords. Under that treaty, part of the land was eventually supposed to be transferred to Palestinian control as one element of a two-state solution. But no such final peace agreement exists. Some Israelis now argue that Israel should annex Area C outright. The Israeli settlement population in Area C continues to grow, and the Israeli government maintains policies that make it extremely difficult for Palestinians to legally build homes there.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_3 component fout_guard"> 
+</div> 
+<p>Over the past several years, Rabbis for Human Rights, a Jerusalem-based nonprofit, has represented the Palestinians of Susiya in the battle to gain legal legitimacy for their tents, animal shelters, water cisterns, latrines, clinics and schools in Susiya. The Israeli High Court of Justice is scheduled to hear argument in that battle on Aug. 3. Until recently, residents had hoped the looming court case would protect their homes from Israeli bulldozers.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_4 component fout_guard"> 
+</div> 
+<p>They were recently told this is not true.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_5 component fout_guard"> 
+</div> 
+<p>On June 12, representatives from the Israeli government came to Susiya to tell the Palestinians that the government was not restricted by the impending court hearing and that residents should be prepared for demolitions to begin after Ramadan, which ended on Friday.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_6 component fout_guard"> 
+</div> 
+<p>“We thought maybe a couple of buildings,” said Rabbi Arik Ascherman, the president of Rabbis for Human Rights. Several days later, Israeli authorities delivered a list of approximately 40 structures targeted for demolition. “When we got the list, it’s half the village! They’re destroying half the village before the hearing comes to the court,” he said.</p> 
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""> 
+ <div class="embed-code">
+  <blockquote class="pull-quote"> 
+   <span class="quote">The way things stand, in the next few days, the bulldozers could show up any morning.</span> 
+   <span class="attribution">Sarit Michaeli, B’Tselem</span> 
+  </blockquote>
+ </div>
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_7 component fout_guard"> 
+</div> 
+<p>Since the June 12 announcement, Palestinians have been organizing protests, mobilizing international support -- and waiting to see what becomes of their homes.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_8 component fout_guard"> 
+</div> 
+<p>“The way things stand, in the next few days, the bulldozers could show up any morning,” said Sarit Michaeli, the spokeswoman for the human rights group B’Tselem, which has been closely tracking the developments in Susiya. “The community is obviously living under a lot of stress.”</p> 
+<div class="wrapper-component component entry-component__image-centering-wrapper fout_guard"> 
+ <span itemtype="http://schema.org/ImageObject" itemscope name="http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55af1ba21500007600173d45.png" class="image-component image-component_with-overlay image-component_with-pinterest image-component_with-microdata component"> <img itemprop="contentUrl" src="http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55af1ba21500007600173d45.png" class="image-component__main-image" alt="Palestinian children in Susiya hold up their handmade&nbsp;pinwheels for peace on June 23, 2015. They wrote what peace meant to them on one side and drew a picture of peace on the other.
+&nbsp;"> <span class="image-component__overlay"><span itemprop="caption">Palestinian children in Susiya hold up their handmade&nbsp;pinwheels for peace on June 23, 2015. They wrote what peace meant to them on one side and drew a picture of peace on the other. &nbsp;</span> | <span itemprop="author">Credit: Christian Peacemaker Teams</span></span> <span class="image-component__pinterest" data-beacon="{&quot;p&quot;:{&quot;mnid&quot;:&quot;image&quot;,&quot;lnid&quot;:&quot;pinterest&quot;}}" data-pinterest-href="https://www.pinterest.com/pin/create/button/?url=http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25&amp;media=http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55af1ba21500007600173d45.png&amp;description=Palestinian%20children%20in%20Susiya%20hold%20up%20their%20handmade%26nbsp;pinwheels%20for%20peace%20on%20June%2023,%202015.%20They%20wrote%20what%20peace%20meant%20to%20them%20on%20one%20side%20and%20drew%20a%20picture%20of%20peace%20on%20the%20other.%0A%26nbsp;"><img class="image-component__pinterest-button" src="/resources/images/4d8482c06a0e70ca6052bb201617e4f2-pinterest_icon.png" alt="Share on Pinterest"></span> </span> 
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_9 component fout_guard"> 
+</div> 
+<p>The official Israeli reason for the demolitions is that the Palestinian structures -- which are mostly tents and shabbily constructed shacks -- were built on agricultural land without a permit from the Israeli Civil Administration, the body that controls Area C.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_10 component fout_guard"> 
+</div> 
+<p>According to Israeli data, Palestinians living in Area C submitted 3,750 applications for building permits between 2000 and 2012. Just 5.6 percent of those applications -- a total of 211 -- were approved. Bimkom, an Israeli-based nonprofit group of architects and planners, recently accessed more current data, which are not yet public, and found that only one permit was approved in 2014. The number of people requesting such permits has declined steadily over the years as Palestinians lose faith in the process.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_11 component fout_guard"> 
+</div> 
+<p>“No one is denying that there’s a reality of unplanned construction in the Palestinian communities in Area C,” said Michaeli. “But that, of course, is because there is actually no way for them to get permits to construct lawfully. The authorities created this problem by establishing a discriminatory and restrictive planning regime -- and then complain that Palestinians violated the planning law and demolish their homes,” she said.<strong><strong>&nbsp;</strong></strong></p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_12 component fout_guard"> 
+</div> 
+<p>Alon Cohen-Lifshitz, an architect with Bimkom, referred to the process as a “silent transfer.”</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_13 component fout_guard"> 
+</div> 
+<p>“Israel is not moving Palestinians to Areas A and B -- but it’s not giving them any [other] option except a life of struggle in Area C,” he said.</p> 
+<div class="wrapper-component component entry-component__image-centering-wrapper fout_guard"> 
+ <span itemtype="http://schema.org/ImageObject" itemscope name="http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55afb2381200002c0013afb0.png?cache=HwFcXin4ob" class="image-component image-component_with-overlay image-component_with-pinterest image-component_with-microdata component"> <img itemprop="contentUrl" src="http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55afb2381200002c0013afb0.png?cache=HwFcXin4ob" class="image-component__main-image" alt="A map centered on Susiya. Red dots indicate planned demolitions of Palestinian structures."> <span class="image-component__overlay"><span itemprop="caption">A map centered on Susiya. Red dots indicate planned demolitions of Palestinian structures.</span> | <span itemprop="author">Credit: Alon Cohen-Lifshitz/Bimkom</span></span> <span class="image-component__pinterest" data-beacon="{&quot;p&quot;:{&quot;mnid&quot;:&quot;image&quot;,&quot;lnid&quot;:&quot;pinterest&quot;}}" data-pinterest-href="https://www.pinterest.com/pin/create/button/?url=http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25&amp;media=http://img.huffingtonpost.com//asset/scalefit_630_noupscale/55afb2381200002c0013afb0.png?cache%3DHwFcXin4ob&amp;description=A%20map%20centered%20on%20Susiya.%20Red%20dots%20indicate%20planned%20demolitions%20of%20Palestinian%20structures."><img class="image-component__pinterest-button" src="/resources/images/4d8482c06a0e70ca6052bb201617e4f2-pinterest_icon.png" alt="Share on Pinterest"></span> </span> 
+</div> 
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""> 
+ <div class="embed-code">
+  <blockquote class="pull-quote"> 
+   <span class="quote">We know there are voices in the current government talking about annexing Area C, getting as much land as possible, do everything we can to drive the Palestinians off of the land and into Area A and B.</span> 
+   <span class="attribution">Rabbi Arik Ascherman, Rabbis for Human Rights</span> 
+  </blockquote>
+ </div>
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_14 component fout_guard"> 
+</div> 
+<p>Some of Israel’s leading hardliners -- including Naftali Bennett, the head of Israel’s pro-settlements Jewish Home party -- have <a href="http://www.jpost.com/Diplomacy-and-Politics/In-wake-of-talks-collapse-Bennett-to-present-PM-with-proposal-to-annex-Area-C-352444">proposed</a> that Israeli annex Area C, forcing the estimated 300,000 Palestinians who live there to either accept permanent Israeli rule or move elsewhere. Meanwhile, Israeli settlement in Susiya continues to grow and Israelis in the area overwhelmingly vote for politicians like Bennett.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_15 component fout_guard"> 
+</div> 
+<p>“We know there are voices in the current government talking about annexing Area C, getting as much land as possible, do everything we can to drive the Palestinians off of the land and into Area A and B,” said Ascherman. “That’s the plan. They want to redraw the map.”</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_16 component fout_guard"> 
+</div> 
+<p>Israeli Prime Minister Benjamin Netanyahu has stayed silent on Susiya, and more broadly, he's been quiet on the issue of settlements. But support from the pro-settlement community has been a critical element in his effort to stay in power. The day before the most recent elections in March, Netanyahu <a href="http://www.huffingtonpost.com/2015/03/16/israel-election-2015_n_6876964.html">promised</a> not to allow the creation of a Palestinian state if he were re-elected. He <a href="http://www.huffingtonpost.com/2015/03/19/netanyahu-palestine-un_n_6901826.html">walked back </a>his comments after the election (and after a stern rebuke from the White House), but he still relied on Bennett’s support in cobbling together a coalition government.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_17 component fout_guard"> 
+</div> 
+<p>The current situation in Susiya is the culmination of decades of efforts by the Israeli government to expel Palestinians from the village, invariably followed by the determined efforts of the Palestinians to rebuild their homes on their ancestral land.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_18 component fout_guard"> 
+</div> 
+<p>“Our houses are tents, we cannot build a normal house, and the conditions are very bad,” Nawajah told The Huffington Post on Tuesday. Still, he will not consider moving elsewhere. “Nobody is thinking about that. This is not a solution -- the Palestinians developed Susiya,” he said.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_19 component fout_guard"> 
+</div> 
+<p>The Palestinian village in Susiya dates back to the 1830s. The first major challenge to its existence came in 1986, three years after the creation of the Israeli settlement in Susiya. The Israeli government discovered remnants of an ancient synagogue, declared the area an archaeological site, and forced the Palestinians out of their cave dwellings. Nawajah was born in one of those caves, but he is not permitted to visit the archeological site today.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_20 component fout_guard"> 
+</div> 
+<p>Israeli authorities destroyed homes in Susiya again in 2001 after two Palestinians <a href="http://www.ynetnews.com/articles/0,7340,L-3480836,00.html">killed</a> Israeli settler Yair Har Sinai.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_21 component fout_guard"> 
+</div> 
+<p>In the years that followed, the Palestinian residents dealt with what B’Tselem <a href="http://www.btselem.org/south_hebron_hills/susiya">once described</a> as “an impossible reality.” The group wrote: “On the one hand, they had to erect homes and structures for their livestock after the military destroyed their previous ones; on the other hand, the Civil Administration refused to prepare a master plan for the village that would enable its residents to build homes legally and connect to the water and power grids, and rejected residents' applications for building permits.”</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_22 component fout_guard"> 
+</div> 
+<p>In 2012, Rabbis for Human Rights helped <a href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&amp;ik=0e79d5d9a7&amp;view=att&amp;th=14ead61ecc85a916&amp;attid=0.1.1&amp;disp=inline&amp;safe=1&amp;zw&amp;sadnir=1&amp;saddbat=ANGjdJ8z3P_z0_TeswpVOTGP8SuRpTBKdAxFURH2JL4uqw7EbNCTcvVi7hHp3YWfCOJl4AlqQhC3veJCL5VCGfLtAp78o8ZwIb_8r3FpwP0X-OxfeS10KG-PUniGHhON4vGLrr7grCSIpDSdh1qDZuLHteh7KfnAUm3QcXtOGChjx2hH2vk6cucQ0VKVzSsflwyoYYp_8E1TZ71-M-vTUIqYLKkwK639RPvUwXURpPc_sxd2neJbo7hhB9mJKm5ZicQQzDjno91vQAO-sp1FxV4bCEB-XpUd3hz4hsqSsfn-uPk4IQ1opV68tgg31Lon1dDrxg1VNvWn6uqALftx_cdY6UDGdgq-GXF70fSkjG4Hm_hqtVV-2g7i6N4KtvsB_gcICU8oKHcpfjmYXmov6xBTN3BxuK6W9-r8tSmwaHLh_qDvsDnLbvvpBSmVI3IATye_0u88zTuGpIAZS-kX1awNYRk48A_xrArz9efciSCs3MbzbC8ylF5SWEIabjgzMLFCFZ7NPMrS-_Y8QmwhF4vNTjjfoj1dtVsybjTlMZ6FNTois7oV-WNttkDNodGRQ5zTszQ-cv3Q71_AQU4B">draft a plan</a> for the villagers to submit to the Israeli Civil Administration in an effort to pave the way for Palestinians to legally construct homes in Susiya. The plan was rejected the following year. Rabbis for Human Rights appealed to the Israeli High Court of Justice to overrule the government’s rejection of the plan -- and requested that the court grant a temporary freeze on demolitions in Susiya while the court considered the case. Justice Noam Sohlberg, a settler himself, <a href="http://www.btselem.org/south_hebron_hills/susiya">rejected</a> the freeze in May 2015. The court is still scheduled to consider the case on Aug. 3, but in the meantime, there are no restrictions on home demolitions.&nbsp;</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_23 component fout_guard"> 
+</div> 
+<p>For a place with a population of just a few hundred, the Palestinian village of Susiya has drawn considerable international attention. Dorothy Shea, the U.S. State Department’s acting consul general in Jerusalem, visited Susiya last week in solidarity with the Palestinians.</p> 
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""> 
+ <div class="embed-code">
+  <blockquote class="twitter-tweet" align="center">
+   <p lang="en" dir="ltr">A/Consul General Dorothy Shea: Today I visited Susiya to signal US opposition to planned demolition of the village. <a href="http://t.co/XtXXqtByeo">pic.twitter.com/XtXXqtByeo</a></p>— USCGJerusalem (@USCGJerusalem) 
+   <a href="https://twitter.com/USCGJerusalem/status/621754388386811905">July 16, 2015</a>
+  </blockquote> 
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ </div>
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_24 component fout_guard"> 
+</div> 
+<p>That same day, State Department spokesman John Kirby urged the Israelis to halt the planned destructions. “Demolition of this Palestinian village, or of parts of it, and evictions of Palestinians from their homes would be harmful and provocative,” he told reporters in Washington. “We are concerned that the demolition of this village may worsen the atmosphere for a peaceful resolution and would set a damaging standard for displacement and land confiscation, particularly given settlement-related activity in the area,” he added.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_25 component fout_guard"> 
+</div> 
+<p>On Friday, 11 Democratic members of Congress signed a <a href="https://www.documentcloud.org/documents/2170245-eshoo-letter-to-kerry-on-susiya.html">letter</a> to Secretary of State John Kerry, urging him to take further action to prevent the demolitions. A <a href="https://org.salsalabs.com/o/301/p/dia/action3/common/public/?action_KEY=18204">petition</a> echoing this request to Kerry, circulated by the American nonprofit Jewish Voice for Peace, now has over 25,000 signatures. &nbsp;</p> 
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""> 
+ <div class="embed-code">
+  <blockquote class="pull-quote"> 
+   <span class="quote">Frankly, international concern is the only thing keeping Susiya standing.</span> 
+   <span class="attribution">Rabbi Arik Ascherman, Rabbis for Human Rights</span> 
+  </blockquote>
+ </div>
+</div>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_26 component fout_guard"> 
+</div> 
+<p>Israeli authorities "are quite aware that this will be uncomfortable for Israel,” Michaeli, the B’Tselem spokeswoman, told HuffPost, noting the outpouring of support for the Palestinians in Susiya.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_27 component fout_guard"> 
+</div> 
+<p>Ascherman, of Rabbis for Human Rights, put it more directly. “Frankly, international concern is the only thing keeping Susiya standing,” he said Tuesday.</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_28 component fout_guard"> 
+</div> 
+<p>Although local activists welcome the outside support, Michaeli worries that words without actions could ultimately be counterproductive. If after all these high-profile warnings, the Israeli government moves forward with the demolitions and the international community merely condemns the act, she said, “It’s a signal to Israel that it can continue to do these demolitions in Area C without any real consequences.”</p>  
+<div class="modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-entry_paragraph_29 component fout_guard"> 
+</div> 
+<p>“The most important thing is that if you’re talking about the two-state solution, with Israel side by side Palestine, Area C is the future land for a Palestinian state. There’s no other land available for housing, for agriculture, for industry, to re-house refugees -- there’s just no other way,” Michaeli&nbsp;said. &nbsp;</p>
+</div>
+
+<div class='entry-component__entry-tags'>
+<div data-beacon='{"p":{"mnid":"entry_tags"}}' class='entry-tags-component component'>
+
+  
+  
+
+MORE:
+<a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/israel">Israel</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/palestine">Palestine</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/susiya"> Susiya</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/israeli-palestinian-conflict">Israeli-Palestinian Conflict</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/israeli-settlements">Israeli settlements </a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/two-state-solution">two-state solution</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/benjamin-netanyahu">Benjamin Netanyahu</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/naftali-bennett">Naftali Bennett</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/west-bank">West Bank</a>, <a class='entry-tags-component__tag' href="http://huffingtonpost.com/news/west-bank-settlements">West Bank settlements</a>
+
+
+</div>
+
+</div>
+
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-article_bottom component fout_guard'>
+
+</div>
+
+
+    
+        
+<div data-beacon='{"p":{"mnid":"below_entry_follow"}}' class='follow-us-below-entry-component component'>
+
+  
+  
+
+<!-- Right now there is no differentiation between root and section implmentations of components. Need more flexibility -->
+
+<h2 class='follow-us-below-entry-component__header'>Follow WorldPost</h2>
+<div class='follow-us-below-entry-component__content'>
+  <ul class='follow-us-below-entry-component__social-links'>
+    <li class='follow-us-below-entry-component__item follow-us-below-entry-component__item_facebook' data-beacon='{"p":{"lnid":"facebook"}}'>
+        
+<div class='social-component component fout_guard'>
+
+  
+  <a class='social-component__link' href='http://facebook.com/theworldpost' target='_blank'></a>
+
+</div>
+
+
+    </li>
+    <li class='follow-us-below-entry-component__item follow-us-below-entry-component__item_twitter' data-beacon='{"p":{"lnid":"twitter"}}'>
+        
+<div class='social-component component fout_guard'>
+
+  
+  <a class='social-component__link' href='http://twitter.com/TheWorldPost' target='_blank'></a>
+
+</div>
+
+
+    </li>
+    <li class='follow-us-below-entry-component__item follow-us-below-entry-component__item_contact'>
+      <button class='follow-us-below-entry-component__contact-button' data-beacon='{"p":{"lnid":"comments"}}'>Contact</button>
+    </li>
+  </ul>
+  
+<div class='newsletter-signup-component newsletter-signup-component_follow-us-below-entry component fout_guard'>
+
+  
+    <h3 class='newsletter-signup-component__header'>Get the Newsletter</h3>
+  
+  
+
+
+<form class='newsletter-signup-component__subscribe bootstrap'>
+  <input type="hidden" name="section" value="world">
+  
+  <input type="hidden" name="source" value="Below-Entry Follow Module">
+  
+  <div class="form-group" class='newsletter-signup-component__email'>
+    <legend class="display_none">Email Address</legend>
+    <label class='newsletter-signup-component__label' for="side_subscribe_user_email_follow-us-below-entry">Get top stories and blog posts sent to me each day.</label>
+    <input id="side_subscribe_user_email_follow-us-below-entry" class="form-control" name="email" placeholder='address@email.com' type="text">
+    <button class='newsletter-signup-component__button btn btn-primary btn-sm' data-beacon='{"p":{"lnid":"email"}}'>Subscribe!</button>
+  </div>
+  <div class='newsletter-signup-component__form-success'></div>
+  <div class='newsletter-signup-component__form-error'></div>
+</form>
+
+
+</div>
+
+
+</div>
+
+
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component huffpost-recirc placement-below_entry_recirc component fout_guard'>
+
+  
+    <h3 class='modulous-placement-component__header'>You May Like</h3>
+  
+  
+<div >
+<div id="grv-personalization-939"></div>
+</div>
+
+<script type='text/javascript'>
+//<![CDATA[
+(function() {
+  window.gravityInsightsParams = {
+    'type': 'content',
+    'action': '',
+    'site_guid': '95ec266b244de718b80c652a08af06fa'
+  };
+  var adServerReq, bUrl, cburl, doUseGravityUserGuid, includeJs, jq, pfurl, type, ug, wlPrefix, wlUrl, _ref, _ref1, _ref2;
+  includeJs = function(a) {
+    var b;
+    b = document.createElement("script");
+    b.async = !0;
+    b.src = a;
+    a = document.getElementsByTagName("script")[0];
+    return a.parentNode.insertBefore(b, a)
+  };
+  bUrl = "";
+  ug = (doUseGravityUserGuid = !0 === gravityInsightsParams.useGravityUserGuid ? 1 : 0) ? "" : gravityInsightsParams.user_guid || (null != (_ref = /grvinsights=([^;]+)/.exec(document.cookie)) ? _ref[1] : void 0) || "";
+  wlUrl = (wlPrefix = "https:" === location.protocol ? "https://secure-api.gravity.com/v1/api/intelligence" : "http://rma-api.gravity.com/v1/api/intelligence", 
+  jq = (null != (_ref1 = window.jQuery) ? null != (_ref2 = _ref1.fn) ? _ref2.jquery : void 0 : void 0) || "", 
+  type = "iframe", 
+  adServerReq = gravityInsightsParams.ad || "", 
+  cburl = gravityInsightsParams.cburl || "", 
+  pfurl = gravityInsightsParams.pfurl || "", "" + wlPrefix + "/wl?jq=" + jq + "&sg=" + gravityInsightsParams.site_guid + "&ug=" + ug + "&ugug=" + doUseGravityUserGuid + "&id=grv-personalization-939&pl=939" +
+    ("&type=" + type + "&ad=" + adServerReq + "&cburl=") + encodeURIComponent(cburl) + "&pfurl=" + encodeURIComponent(pfurl) + ("&x=" + (new Date).getTime()) + ("undefined" !== typeof forceArticleIds && null !== forceArticleIds && forceArticleIds.join ? "&ai=" + forceArticleIds.join(",") : "") + ("undefined" !== typeof apids && null !== apids && "" !== apids ? "&apids=" + encodeURIComponent(apids) : ""));
+  bUrl && includeJs(bUrl);
+  wlUrl && (window.gravityInsightsParams.sidebar && (window.gravityInsightsParams.wlStartTime = (new Date).getTime()), includeJs(wlUrl));
+})();
+//]]>
+</script>
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component huffpost-adspot placement-bottom_article_text component fout_guard'>
+
+  
+  <script>
+if (typeof debugadcode == 'function') { debugadcode('AdSonar', {placement: 'bottom_article_text', plid: '1570406', pid: '2930767'}); }
+adsonar_placementId=1570406;
+adsonar_pid=2930767;
+adsonar_ps=-1;
+adsonar_zw=580;
+adsonar_zh=275;
+adsonar_jv='ads.tw.adsonar.com';
+</script>
+<script src="http://js.adsonar.com/js/tw_dfp_adsonar.js"></script>
+
+
+</div>
+
+
+    
+        
+<div data-beacon='{"p":{"mnid":"fb_conversations","mlid":"comments"}}' class='comments-component component fout_guard'>
+
+  
+  
+
+<a name="comments"></a>
+<h2 class='comments-component__header'>Conversations</h2>
+<fb:comments colorscheme="light" width="620" href="http://www.huffingtonpost.com/entry/palestinians-west-bank-demolition_55af1787e4b0a9b94852fa25" />
+
+
+</div>
+
+
+    
+</div>
+
+    
+        
+<div class="group row right">
+    
+        
+<div class="component-container right">
+    
+        
+<div class='modulous-placement-component huffpost-adspot placement-right_rail_flex component fout_guard'>
+
+  
+  <div id="ad_right_rail_flex" class="ad_wrapper_top"><div id="adtech_right_rail_flex"></div>
+<script type="text/javascript">
+
+require(["modulous/adTechHeader"], function(){
+
+var adsDiv = document.getElementById('adtech_right_rail_flex');
+adsDiv.id = adsDiv.id + Math.round(Math.random()*1e16);
+var adId = '93314328';
+
+
+var args = [adId, 'RR', 'RR'
+, 'f'];
+if (typeof debugadcode == 'function') { debugadcode('AdTech', {placement: 'right_rail_flex', args: args}, adsDiv); }
+args.push(adsDiv);
+
+
+htmlAdWH.apply(this, args);
+
+
+adSetInView('0');
+
+});
+
+</script></div>
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-right_rail_edit_promo component fout_guard'>
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-sponsorship component fout_guard'>
+
+</div>
+
+
+    
+        
+<div data-beacon='{"p":{"mnid":"mod_follow","mlid":"sidebar_right"}}' class='follow-us-component component'>
+
+  
+    <h3 class='follow-us-component__header'>Follow Huffpost</h3>
+  
+  
+<section class='follow-us-component__window'>
+  <ul class='follow-us-component__networks'>
+    
+      <li class='follow-us-component__network follow-us-component__network_network_id_facebook follow-us-component__network_selected follow-us-component__network_wide' data-beacon='{"p":{"lnid":"nav_facebook"}}' data-network="facebook">
+        <button class='follow-us-component__button follow-us-component__button_facebook'>Facebook</button>
+      </li>
+    
+      <li class='follow-us-component__network follow-us-component__network_network_id_twitter follow-us-component__network_wide' data-beacon='{"p":{"lnid":"nav_twitter"}}' data-network="twitter">
+        <button class='follow-us-component__button follow-us-component__button_twitter'>Twitter</button>
+      </li>
+    
+    <li class='follow-us-component__network follow-us-component__network_network_id_phone follow-us-component__network_wide' data-beacon='{"p":{"lnid":"nav_phone"}}' data-network="phone">
+      <button class='follow-us-component__button follow-us-component__button_phone'>Phone</button>
+    </li>
+  </ul>
+  <div class='follow-us-component__social-container'>
+    
+
+<ul class='follow-us-component__content follow-us-component__content_facebook follow-us-component__content_selected'>
+  
+    <li class='follow-us-component__content-item'>
+      <strong class='follow-us-component__name'>HuffPost</strong>
+      <div class='follow-us-component__share follow-us-component__share_facebook'>
+<div class='social-component component fout_guard'>
+
+  
+  <div class='floating-share-component__action fb-like' data-href='http://facebook.com/HuffingtonPost' data-send='false' data-layout='button_count' data-show-faces='false' data-colorscheme='light' data-font='trebuchet ms' data-action='like' ref=''></div>
+
+</div>
+
+</div>
+    </li>
+  
+    <li class='follow-us-component__content-item'>
+      <strong class='follow-us-component__name'>WorldPost</strong>
+      <div class='follow-us-component__share follow-us-component__share_facebook'>
+<div class='social-component component fout_guard'>
+
+  
+  <div class='floating-share-component__action fb-like' data-href='http://facebook.com/theworldpost' data-send='false' data-layout='button_count' data-show-faces='false' data-colorscheme='light' data-font='trebuchet ms' data-action='like' ref=''></div>
+
+</div>
+
+</div>
+    </li>
+  
+</ul>
+
+
+<ul class='follow-us-component__content follow-us-component__content_twitter'>
+  
+    <li class='follow-us-component__content-item'>
+      <strong class='follow-us-component__name'>HuffPost</strong>
+      <div class='follow-us-component__share follow-us-component__share_twitter'>
+<div class='social-component component fout_guard'>
+
+  
+  <a href="https://twitter.com/HuffingtonPost" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-lang="en" data-width="100px"></a>
+
+</div>
+
+</div>
+    </li>
+  
+    <li class='follow-us-component__content-item'>
+      <strong class='follow-us-component__name'>WorldPost</strong>
+      <div class='follow-us-component__share follow-us-component__share_twitter'>
+<div class='social-component component fout_guard'>
+
+  
+  <a href="https://twitter.com/TheWorldPost" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-lang="en" data-width="100px"></a>
+
+</div>
+
+</div>
+    </li>
+  
+</ul>
+
+    <div class='follow-us-component__content follow-us-component__content_phone'>
+      <a class='follow-us-component__content-link follow-us-component__content-link_ios follow-us-component__content-link_en' data-beacon='{"p":{"lnid":"mobile_apple"}}' href="http://itunes.apple.com/us/app/the-huffington-post/id306621789?mt=8" target="_blank">Available on the App Store</a>
+      <a class='follow-us-component__content-link follow-us-component__content-link_android follow-us-component__content-link_en' data-beacon='{"p":{"lnid":"mobile_google"}}' href="https://play.google.com/store/apps/details?id=com.huffingtonpost.android&hl=en" target="_blank">Android App on Google Play</a>
+      <a class='follow-us-component__content-link follow-us-component__content-link_blackberry follow-us-component__content-link_en' data-beacon='{"p":{"lnid":"mobile_blackberry"}}' href="http://appworld.blackberry.com/webstore/content/19143/?countrycode=US&lang=en" target="_blank">Get it at Blackberry App World</a>
+    </div>
+  </div>
+  <div class='follow-us-component__form-container'>
+    <h3 class='follow-us-component__newsletters-heading'>HuffPost Newsletters</h3>
+    
+<div class='newsletter-signup-component newsletter-signup-component_follow-us component fout_guard'>
+
+  
+  
+
+
+<form class='newsletter-signup-component__subscribe bootstrap'>
+  <input type="hidden" name="section" value="world">
+  
+  <input type="hidden" name="source" value="RR Follow Module_bpage">
+  
+  <div class="form-group" class='newsletter-signup-component__email'>
+    <legend class="display_none">Email Address</legend>
+    <label class='newsletter-signup-component__label' for="side_subscribe_user_email_follow-us">Get top stories and blog posts sent to me each day.</label>
+    <input id="side_subscribe_user_email_follow-us" class="form-control" name="email" placeholder='address@email.com' type="text">
+    <button class='newsletter-signup-component__button btn btn-primary btn-sm' data-beacon='{"p":{"lnid":"email"}}'>Subscribe!</button>
+  </div>
+  <div class='newsletter-signup-component__form-success'></div>
+  <div class='newsletter-signup-component__form-error'></div>
+</form>
+
+
+</div>
+
+
+  </div>
+  <!-- Insert ads_sharebox_260x60 -->
+</section>
+
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component huffpost-recirc placement-gravity_most_popular component fout_guard'>
+
+  
+  <h2 class="mp_title">Suggested For You</h2>
+<div class="mp_cycle">
+<div id="grv-personalization-249"></div>
+</div>
+
+<script type='text/javascript'>
+//<![CDATA[
+(function() {
+  window.gravityInsightsParams = {
+    'type': 'content',
+    'action': '',
+    'site_guid': '95ec266b244de718b80c652a08af06fa'
+  };
+  var adServerReq, bUrl, cburl, doUseGravityUserGuid, includeJs, jq, pfurl, type, ug, wlPrefix, wlUrl, _ref, _ref1, _ref2;
+  includeJs = function(a) {
+    var b;
+    b = document.createElement("script");
+    b.async = !0;
+    b.src = a;
+    a = document.getElementsByTagName("script")[0];
+    return a.parentNode.insertBefore(b, a)
+  };
+  bUrl = "";
+  ug = (doUseGravityUserGuid = !0 === gravityInsightsParams.useGravityUserGuid ? 1 : 0) ? "" : gravityInsightsParams.user_guid || (null != (_ref = /grvinsights=([^;]+)/.exec(document.cookie)) ? _ref[1] : void 0) || "";
+  wlUrl = (wlPrefix = "https:" === location.protocol ? "https://secure-api.gravity.com/v1/api/intelligence" : "http://rma-api.gravity.com/v1/api/intelligence", 
+  jq = (null != (_ref1 = window.jQuery) ? null != (_ref2 = _ref1.fn) ? _ref2.jquery : void 0 : void 0) || "", 
+  type = "iframe", 
+  adServerReq = gravityInsightsParams.ad || "", 
+  cburl = gravityInsightsParams.cburl || "", 
+  pfurl = gravityInsightsParams.pfurl || "", "" + wlPrefix + "/wl?jq=" + jq + "&sg=" + gravityInsightsParams.site_guid + "&ug=" + ug + "&ugug=" + doUseGravityUserGuid + "&id=grv-personalization-249&pl=249" +
+    ("&type=" + type + "&ad=" + adServerReq + "&cburl=") + encodeURIComponent(cburl) + "&pfurl=" + encodeURIComponent(pfurl) + ("&x=" + (new Date).getTime()) + ("undefined" !== typeof forceArticleIds && null !== forceArticleIds && forceArticleIds.join ? "&ai=" + forceArticleIds.join(",") : "") + ("undefined" !== typeof apids && null !== apids && "" !== apids ? "&apids=" + encodeURIComponent(apids) : ""));
+  bUrl && includeJs(bUrl);
+  wlUrl && (window.gravityInsightsParams.sidebar && (window.gravityInsightsParams.wlStartTime = (new Date).getTime()), includeJs(wlUrl));
+})();
+//]]>
+</script>
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-sponsorship_2 component fout_guard'>
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component huffpost-adspot placement-right_rail_300x250_lower component fout_guard'>
+
+  
+  <div id="ad_right_rail_300x250_lower" class="ad_wrapper_"><div id="adtech_right_rail_300x250_lower"></div>
+<script type="text/javascript">
+
+require(["modulous/adTechHeader"], function(){
+
+var adsDiv = document.getElementById('adtech_right_rail_300x250_lower');
+adsDiv.id = adsDiv.id + Math.round(Math.random()*1e16);
+var adId = '93434371';
+adSetInView('D');
+
+var args = [adId, 'RR', 'RR'
+, 'f'];
+if (typeof debugadcode == 'function') { debugadcode('AdTech', {placement: 'right_rail_300x250_lower', args: args}, adsDiv); }
+args.push(adsDiv);
+
+
+htmlAdWH.apply(this, args);
+
+
+adSetInView('0');
+
+});
+
+</script></div>
+
+</div>
+
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    
+        
+<div class="component-container footer">
+    
+        
+<div data-beacon='{"p":{"mlid":"footer"}}' class='footer-component component fout_guard'>
+
+  
+  
+
+
+<div class='modulous-placement-component modulous-placement-component_flight-absent huffpost-adspot placement-leaderboard_bottom component fout_guard'>
+
+</div>
+
+
+<ul class='footer-component__links'>
+  
+    <li class='footer-component__item'><a href="http://advertising.aol.com/properties#huffington-post" class='footer-component__link'>Advertise</a></li>
+  
+    <li class='footer-component__item'><a href="http://www.huffingtonpost.com/terms.html" class='footer-component__link'>User Agreement</a></li>
+  
+    <li class='footer-component__item'><a href="http://privacy.aol.com/" class='footer-component__link'>Privacy</a></li>
+  
+    <li class='footer-component__item'><a href="http://www.huffingtonpost.com/comment/policy/" class='footer-component__link'>Comment Policy</a></li>
+  
+    <li class='footer-component__item'><a href="http://www.huffingtonpost.com/p/huffington-post.html" class='footer-component__link'>About Us</a></li>
+  
+    <li class='footer-component__item'><a href="http://adinfo.aol.com/about-our-ads/" class='footer-component__link'>About Our Ads</a></li>
+  
+    <li class='footer-component__item'><a href="http://www.huffingtonpost.com/contact/" class='footer-component__link'>Contact Us</a></li>
+  
+    <li class='footer-component__item'><a href="http://www.huffingtonpost.com/p/frequently-asked-question.html" class='footer-component__link'>FAQ</a></li>
+  
+</ul>
+<ul class='footer-component__legal'>
+  <li class='footer-component__item'>
+    <div class='footer-component__copyright'>Copyright © 2015 TheHuffingtonPost.com, Inc.</div>
+  </li>
+  <li class='footer-component__item'>
+    <div class='footer-component__rights'>"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.</div>
+  </li>
+</ul>
+<div class='footer-component__part-of'><strong class='footer-component__group'>Part of HPMG News</strong></div>
+
+
+</div>
+
+
+    
+        
+<div class='place-holder-component component fout_guard'>
+
+  
+  <!-- Component: Tracking -->
+
+</div>
+
+
+    
+        
+<div class='modulous-placement-component huffpost-tracking placement-bottom_1x1 component fout_guard'>
+
+  
+  <script type="application/javascript" 
+src="http://a02.korrelate.net/a/e/d2a.ads?r=901206&et=a&ago=127&ao=128&px=208&pt=s&lvl=world&av1=bpage" async></script><script type="text/javascript">
+
+  try {
+     // Make sure the adsDevilAd object exists before putting your function on it
+     window.adsDevilAd=window.adsDevilAd||{};
+
+     adsDevilAd.adinfo=function(n,d,w,h){
+       // n will be the ad number, we assume the LB ad is #1. 
+       // NOTE: d=divName if you'd rather use that.  And w,h are width and height respectively.
+
+         if (window.adsDevilAd.ad[1].aolFormat == "Wallpaper") {
+	   window.floater.destroy();
+           jQuery('#badges_v2_1').css('display','none !important');
+         }
+
+     } // end function
+   }
+   catch (e) {}
+
+</script><script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '95ec266b244de718b80c652a08af06fa'
+    };
+    var adServerReq,bUrl,doUseGravityUserGuid,includeJs,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;bUrl="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");
+    includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script><!-- Sailthru Horizon -->
+<script type="text/javascript">
+(function() {
+  function loadHorizon() {
+   var s = document.createElement('script');
+   s.type = 'text/javascript';
+   s.async = true;
+   s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+   var x = document.getElementsByTagName('script')[0];
+   x.parentNode.insertBefore(s, x);
+  }
+  loadHorizon();
+  window.jQuery && jQuery(window).load(function() {
+    Sailthru.setup({
+      domain: 'horizon.huffingtonpost.com'
+    });
+  });
+})();
+</script>
+<script>
+// interfering with omniture
+//_HPJS.loadJSLater('http://ar.voicefive.com/bmx3/node.pli?pub=aol2');
+</script>
+
+
+</div>
+
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+    
+      <!-- modulous footer code -->
+
+<!-- modulous footer end -->
+<script type='text/javascript'>
+(function(){
+var link = document.createElement("link");
+var sibling = document.getElementsByTagName("script")[0];
+link.rel = "stylesheet";
+link.href = "/resources/optimize_css/f27b6a5bf812d8d023f0e25f1df09b63-non_critical.css";
+link.media = "only x";
+sibling.parentNode.insertBefore(link, sibling);
+setTimeout(function () {
+  link.media = "all";
+});
+})();
+</script>
+<script type="text/javascript">require(['modules/hype'], function(hype) { require(['modules/tracking']); });</script>
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"5420118","applicationTime":95,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"a2134792db","transactionName":"MVIBN0UEWBJZAhFeWQgYLQZDEU8lURIVVkIFXwYRGCtTFUwYIV5FFlYXAF8ARA==","agent":"js-agent.newrelic.com\/nr-632.min.js","errorBeacon":"bam.nr-data.net"}</script>
+  </body>
+</html>
+
+<!-- f4f7d16 -->

@@ -1,0 +1,1319 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 lte-ie9 isie" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js html-device--desktop" lang="en" itemscope itemtype="http://schema.org/NewsArticle" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge | Central - ITV News</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"87de30ced4","applicationID":"4335979","transactionName":"dg1cERBZXVhdQh5WE0ELUQkHRR5HUF9G","queueTime":0,"applicationTime":96,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+
+<!--[if lt IE 9&(!IEMobile)]>
+  <link href="/news/assets/application-lt-ie9-b519a4f809c485e0f25ca98a4ab2bef1.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <link href="/news/assets/application-752583418df7c96c6e6115232a7409e7.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rss" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="z5r1yUTx0UUMnWAnmDOiRdSBMZnCwswr7Gtg8hvpBtw=" name="csrf-token" />
+<script src="/news/assets/modernizr-a7419295f4f1209213d5240d42bdba86.js" type="text/javascript"></script>
+
+<script>ns_loadingtime1=(new Date()).getTime()</script>
+
+<meta name="description" content="Read the latest Central stories, Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge on ITV News, videos, stories and all the latest Central news" />
+<meta name="keywords" content="Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge, Central, news, video, latest, ITV News" />
+<meta name="canonical" content="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/" />
+<meta name="apple-itunes-app" content="app-id=907113454">
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<meta property="fb:app_id" content="201017720004512">
+<meta property="fb:admins" content="222303292">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ITV News">
+<meta property="og:url" content="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/">
+<meta property="og:title" content="Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge">
+<meta property="og:description" content="A video has emerged of three suspected migrants from Calais escaping from a lorry in Stourbridge in the Black Country.
+
+The footage shows the men cutting a hole in the canvas of the vehicle before leaping out to take their first steps on British soil.
+
+West Midlands Police say they were unaware of the incident which happened on Tuesday 250 miles from the French port.
+">
+
+  <meta property="og:image" content="http://news.images.itv.com/image/file/730239/img.jpg">
+
+<!-- Twitter card -->
+<meta name="twitter:site" content="@itvnews">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge">
+<meta name="twitter:description" content="A video has emerged of three suspected migrants from Calais escaping from a lorry in Stourbridge in the Black Country.
+
+The footage shows the men cutting a hole in the canvas of the vehicle before leaping out to take their first steps on British soil.
+
+West Midlands Police say they were unaware of the incident which happened on Tuesday 250 miles from the French port.
+">
+
+  <meta property="twitter:image" content="http://news.images.itv.com/image/file/730239/img.jpg">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.itv.com/news/assets/mobile/high/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="shortcut icon" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+
+
+
+  <link rel="stylesheet" href="//www.itvstatic.com/assets/css/fonts.css">
+
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-f01986ac5b9472fd5801871aabf800be.css">
+  <!--<![endif]-->
+
+  <!--[if lt IE 9&(!IEMobile)]>
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-lt-ie9-f38f662f1a45ba9800ca31873113fea5.css">
+  <![endif]-->
+
+</head>
+
+<body class="articles-show region-page " id="articles" data-action="show" data-ad-id="news.central.article">
+
+    <div class="header-ad js-ad">    
+      <div class="ad leaderboard any" data-key="Article:86941">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=78225/site=itv/area=news.central.article/position=1/adtype=any/size=728x90/categories=politics.world/topics=west.midlands.chris.halpin/contentid=2015.08.01.calais.migrant.crisis.arrives.in.midlands.as.dramatic.footage.shows.stowaways.cutting.fre/viewid=1439020065"></script>
+      </div>
+    
+</div>
+
+  <div id="itv-header-page-fragment" class="itv-page-fragment">
+  <div class="itv-glob-nav">
+    <header>
+      <div class="itv-glob-nav__inner">
+        <div class="itv-glob-nav__logo">
+          <a class="itv-glob-nav__logo-link icon--itv-glob-head-itv" href="/">ITV</a>
+        </div>
+
+        <nav>
+          <div class="itv-glob-nav__nav" id="skip_to_navigation">
+            <a class="itv-glob-nav__toggle" href="#" id="itv-glob-nav-dropdown">
+              <span class="itv-glob-nav__toggle-icon"></span>
+              <span class="itv-glob-nav__visuallyhidden">Toggle navigation</span>
+</a>
+            <ul class="itv-glob-nav__list">
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="https://www.itv.com/itvplayer/">Player</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvshows/">Shows</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvguide/">Guide</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/news/">News</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/sport/">Sport</a>
+              </li>
+              <li class="itv-glob-nav__item itv-glob-nav__item--with-dropdown">
+                <a class="itv-glob-nav__link itv-glob-nav__dropdown-toggler" href="#" id="itv-glob-nav-more-dropdown">More</a>
+
+                <ul class="itv-glob-nav__dropdown-list">
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.jmldirect.com/" rel="nofollow">Shop</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itv.com/games/" rel="nofollow">Games</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itvbingo.com/" rel="nofollow">Bingo</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        
+          <div id="itv-glob-search" class="itv-glob-search  itv-glob-search--no-mobile">
+            <button id="itv-glob-search-toggle" class="itv-glob-search__toggle icon--itv-glob-search-alt-white">Search</button>
+            <form name="search_search" class="itv-glob-search__form" method="get" action="/news/central/search/">
+              <div class="itv-glob-search__field">
+                <input class="itv-glob-search__input" id="q" name="q" placeholder="Search" type="text" />
+                <button class="itv-glob-search__button icon--itv-glob-search-alt-white" type="submit">Search</button>
+              </div>
+            </form>
+          </div>
+      </div>
+    </header>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    !function(){function e(e,t,n){e&&(e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n))}function t(e){return function(t){n(t,e.parentNode)}}function n(e,t){var n=t.className,a=/\b ? is-open\b/;for(m=0;m<c.length;m++)t!==c[m].parentNode&&(c[m].parentNode.className=c[m].parentNode.className.replace(a,""));t.className=n.match(a)?n.replace(a,""):n+" is-open",e.preventDefault?e.preventDefault():e.returnValue=!1}var a=document.forms.search_search,c=[document.getElementById("itv-glob-nav-dropdown"),document.getElementById("itv-glob-nav-more-dropdown")],o=!!a,r="placeholder"in document.createElement("input");if(o){if(!r){var l=a.q,u=l.getAttribute("placeholder");l.value=u,e(l,"focus",function(){l.value==u&&(l.value="")}),e(l,"blur",function(){""==l.value&&(l.value=u)})}c.push(document.getElementById("itv-glob-search-toggle"))}var d,s,m,v,i,g=["click","touchstart"];for(m=0;m<c.length;m++)for(s=c[m],d=t(s),i=0;i<g.length;i++)v=g[i],e(s,v,d)}(),function(){var e=document.getElementById("itv-header-page-fragment");e&&document.createElementNS&&document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect&&(e.className=e.className+" svg")}();
+</script>
+
+  
+  
+      <div class="background-takeover-container">
+        <div class="background-takeover">
+          <script src="http://tom.itv.com/itv/jserver/random=68481/site=itv/area=news.central.article/position=1/adtype=any/size=pagetakeover/contentid=2015.08.01.calais.migrant.crisis.arrives.in.midlands.as.dramatic.footage.shows.stowaways.cutting.fre/viewid=1439020065"></script>
+        </div>
+      </div>
+    
+
+
+  <div class="header-apron">
+    
+  </div>
+
+  <nav class="main-nav main-nav--with-selected-nav">
+  <ul class="main-nav__inner">
+    <li class="main-nav__item">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--news"><img alt="News" src="/news/assets/icons/itv-news-bed4fe0b312ab6c9b3118a0107bfa4aa.svg" /></a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/central/" class="main-nav__item-link main-nav__item-link--bordered">Top stories</a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Your area
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner region-selector">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/" class="main-nav__item-link ">National</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/border/" class="main-nav__item-link ">Border</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/tyne-tees/" class="main-nav__item-link ">Tyne Tees</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/calendar/" class="main-nav__item-link ">Calendar</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/granada/" class="main-nav__item-link ">Granada</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/" class="main-nav__item-link is-active">Central</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/anglia/" class="main-nav__item-link ">Anglia</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/london/" class="main-nav__item-link ">London</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/meridian/" class="main-nav__item-link ">Meridian</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/wales/" class="main-nav__item-link ">Wales</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/west/" class="main-nav__item-link ">West Country (E)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/westcountry/" class="main-nav__item-link ">West Country (W)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/channel/" class="main-nav__item-link ">Channel</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Topics
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/world/" class="main-nav__item-link ">World</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/politics/" class="main-nav__item-link ">Politics</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/election2015/" class="main-nav__item-link ">Election 2015</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/business/" class="main-nav__item-link ">Business</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/money/" class="main-nav__item-link ">Money</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/health/" class="main-nav__item-link ">Health</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/education/" class="main-nav__item-link ">Education</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/entertainment/" class="main-nav__item-link ">Entertainment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/royal/" class="main-nav__item-link ">Royal</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/technology/" class="main-nav__item-link ">Technology</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/sport/" class="main-nav__item-link ">Sport</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/and-finally/" class="main-nav__item-link ">And Finally</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/environment/" class="main-nav__item-link ">Environment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/science/" class="main-nav__item-link ">Science</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/travel/" class="main-nav__item-link ">Travel</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/religion/" class="main-nav__item-link ">Religion</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/economy/" class="main-nav__item-link ">Economy</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/weather/" class="main-nav__item-link ">Weather</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/countryside/" class="main-nav__item-link ">Countryside</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/employment/" class="main-nav__item-link ">Employment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/animals/" class="main-nav__item-link ">Animals</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/consumer/" class="main-nav__item-link ">Consumer</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/central/weather/" class="main-nav__item-link main-nav__item-link--bordered">Weather</a>
+    </li>
+
+  </ul>
+</nav>
+
+
+  <a id="containerTarget" class="visuallyhidden" tabindex="-1" href="#containerTarget">Main page content</a>
+
+  
+
+    <div class="visuallyhidden">
+    <div class="page-header wrap wrap--with-top-margin ">
+      
+   <h2 class="page-title region-title visuallyhidden"><a href="/news/central/">Central</a></h2>
+
+    </div>
+    </div>
+
+  
+
+  <div role="main" class="site-container clearfix content-left ">
+    
+
+
+
+
+
+
+
+    
+
+<div class="container container--grey container--with-sidebar container--no-border">
+
+    <div class="content content--with-sidebar">
+
+      <div class="content__main">
+
+
+        <div class="content__main__responsive">
+          <div class="content__main__responsive__inner">
+
+            <article class="update">
+              <header class="update__header ">
+
+                <div class="update__header__content">
+
+                  <div class="update__top">
+
+                    <div class="update__sponsorbutton sponsorbutton js-ad js-ad-author-sponsorbutton">
+                      
+      <div class="ad sponsorbutton any" data-key="Article:86941">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=17728/site=itv/area=news.central.article/position=1/adtype=any/size=sponsorbutton/categories=politics.world/topics=west.midlands.chris.halpin/contentid=2015.08.01.calais.migrant.crisis.arrives.in.midlands.as.dramatic.footage.shows.stowaways.cutting.fre/viewid=1439020065"></script>
+      </div>
+    
+                    </div>
+
+                    <section class="update__labels">
+                      <ol class="labels">
+                          <li class="labels__item labels__item--article">
+                            ITV Report
+                          </li>
+
+                        <li class="labels__item labels__item--time">
+                          <time datetime="2015-08-01T09:02:58+01:00">
+                             1 August 2015 at  9:02am
+                          </time>
+                        </li>
+                      </ol>
+                    </section>
+
+                  </div>
+
+                  <h1 class="update__title update__title--large">Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge</h1>
+
+                </div>
+
+
+              </header>
+
+
+              <div class="item__content-block item__content-block--video">
+  <div class="brightcove-video js-brightcove-video "
+     data-video-id="4390354305001"
+     data-is-regionalised="false"
+     data-brightcove-ad-id="">
+  <a href="#" class="brightcove-video__poster-frame fluid-media-wrapper complex-link js-brightcove-poster-frame">
+    <img alt="P-CALAIS_CRISIS_WEST" class="js-brightcove-video__image fluid-media-wrapper__media" src="http://news.images.itv.com/image/file/730237/image_update_2821697655001_4390365172001_brightcove.jpg" />
+    <span class="play-brightcove-video "><span class="visuallyhidden">Play video</span></span>
+</a></div>
+
+</div>
+<div class="item__content-block item__content-block--markdown">
+  <p>A video has emerged of three suspected migrants from Calais escaping from a lorry in Stourbridge in the Black Country.</p>
+
+<p>The footage shows the men cutting a hole in the canvas of the vehicle before leaping out to take their first steps on British soil.</p>
+
+<p>West Midlands Police say they were unaware of the incident which happened on Tuesday 250 miles from the French port.</p>
+
+</div>
+<figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.1875%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Lorries have remained parked as part of Operation Stack on the M20 with Channel crossings severely disrupted." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730239/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730239/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730239/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Lorries have remained parked as part of Operation Stack on the M20 with Channel crossings severely disrupted." src="http://news.images.itv.com/image/file/730239/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Lorries have remained parked as part of Operation Stack on the M20 with Channel crossings severely disrupted. <cite>Credit: PA Wire</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>Meanwhile a removal firm in Aldridge has described the moment they found 13 stowaways in one of their lorries. </p>
+
+<p>Late last year a driver from MoveCorp heard banging from inside his trailer once it had arrived in the UK from France. </p>
+
+<p>But when they informed the authorities, the company were fined £18,000, accused of not carrying out proper checks which allowed the migrants to board their vehicle.</p>
+
+</div>
+<figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.27760252365931%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Driver Jason Birkett has just returned from Calais and described the mood among drivers as &#x27;very stressed&#x27;." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730232/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730232/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730232/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Driver Jason Birkett has just returned from Calais and described the mood among drivers as &#x27;very stressed&#x27;." src="http://news.images.itv.com/image/file/730232/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Driver Jason Birkett has just returned from Calais and described the mood among drivers as &#x27;very stressed&#x27;. <cite>Credit: ITV News Central</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>In the last week another of the firm&#39;s drivers Jason Birkett has arrived back from Calais. </p>
+
+<p>He says he now dreads crossing across the Channel using the Dover to Calais - Calais to Dover route, and if he could easily go any other way then he would.</p>
+
+</div>
+<figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.1875%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Hundreds of migrants have been trying to storm the Channel Tunnel terminal in France each night this week." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730241/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730241/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730241/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Hundreds of migrants have been trying to storm the Channel Tunnel terminal in France each night this week." src="http://news.images.itv.com/image/file/730241/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Hundreds of migrants have been trying to storm the Channel Tunnel terminal in France each night this week. <cite>Credit: PA</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>Jason says he also fears for his life, as sometimes migrants throw blocks of wood and bricks at lorries in order for them to slow down, as they attempt to force open the trailers to stowaway. </p>
+
+<p>Here he shows our reporter Chris Halpin how those desperately trying to illegally get to Britain try to break into lorries.</p>
+
+</div>
+<div class="item__content-block item__content-block--video">
+  <div class="brightcove-video js-brightcove-video "
+     data-video-id="4389638655001"
+     data-is-regionalised="false"
+     data-brightcove-ad-id="">
+  <a href="#" class="brightcove-video__poster-frame fluid-media-wrapper complex-link js-brightcove-poster-frame">
+    <img alt="EXPLAINER" class="js-brightcove-video__image fluid-media-wrapper__media" src="http://news.images.itv.com/image/file/730236/image_update_2821697655001_4389646814001_brightcove.jpg" />
+    <span class="play-brightcove-video "><span class="visuallyhidden">Play video</span></span>
+</a></div>
+
+</div>
+<div class="item__content-block item__content-block--markdown">
+  <p>Meanwhile speaking at an emergency COBRA cabinet meeting David Cameron pledged more support for the French authorities to deal with the crisis, but warned it could last the entire summer.</p>
+
+<p>The meeting came a day after he said that a &quot;swarm&quot; of migrants were coming across the Mediterranean &quot;seeking a better life&quot; because we have &quot;jobs, a growing economy and it&#39;s an incredible place to live&quot;.</p>
+
+</div>
+<figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.1875%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Queues on the M20 in Kent - known as Operation Stack." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730242/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730242/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730242/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Queues on the M20 in Kent - known as Operation Stack." src="http://news.images.itv.com/image/file/730242/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Queues on the M20 in Kent - known as Operation Stack. <cite>Credit: PA</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>Police and social services in Kent are already struggling to cope with the impact of an unprecedented surge in migrants attempting to reach the UK.</p>
+
+<p>Operation Stack, which turns the M20 into a giant lorry park as a result of chaos on the other side of the Channel, has hit tourists, businesses and lorry drivers.</p>
+
+</div>
+<div class="item__content-block item__content-block--markdown">
+  <p><a href="http://www.itv.com/news/story/2015-07-31/pm-extra-sniffer-dogs-and-fencing-to-be-sent-to-calais/" target="_blank">Read more: Extra sniffer dogs and fencing to be sent to Calais</a></p>
+
+</div>
+
+
+                <div class="item__content-block">
+                  <time datetime="2015-08-01" pubdate class="update__time-edited">
+                    Last updated Sat 1 Aug 2015
+                  </time>
+                </div>
+
+
+
+                <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/central/politics/">Politics</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/central/topic/west-midlands/">West Midlands</a>
+        </li>
+        <li class="tag-list__tag">
+          <a href="/news/central/topic/chris-halpin/">Chris Halpin</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+              <div class="update__share">
+                <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Calais migrant crisis arrives in Midlands as dramatic footage shows &#x27;stowaways&#x27; cutting free from lorry in Stourbridge&amp;url=http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/central/2015-08-01/calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+              </div>
+
+            </article>
+
+
+          </div>
+        </div>
+
+      </div>
+
+      <aside class="content__aside">
+  <div class="content__aside__inner">
+
+      <div class="add-sidebar any js-ad">
+    
+      <div class="ad mpu any" data-key="Article:86941">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=26261/site=itv/area=news.central.article/position=1/adtype=any/size=300x250/categories=politics.world/topics=west.midlands.chris.halpin/contentid=2015.08.01.calais.migrant.crisis.arrives.in.midlands.as.dramatic.footage.shows.stowaways.cutting.fre/viewid=1439020065"></script>
+      </div>
+    
+  </div>
+
+
+      <section class="small-content-listing small-content-listing--in-sidebar">
+    <h2 class="small-content-listing__title">
+      Related news
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-07-14/daniel-pelkas-mother-magdalena-luczak-found-dead-in-prison/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Magdelena Luczak and Mariusz Krezolek were jailed for life for Daniel Pelka&#x27;s murder " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/715673/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/715673/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/715673/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/715673/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Magdelena Luczak and Mariusz Krezolek were jailed for life for Daniel Pelka&#x27;s murder " src="http://news.images.itv.com/image/file/715673/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/central/2015-07-14/daniel-pelkas-mother-magdalena-luczak-found-dead-in-prison/" class="small-content-listing__item-link">Daniel Pelka&#x27;s mother Magdalena Luczak dies in prison</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-07-02/bailiffs-evict-cancer-patient-from-home/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Tom" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/705784/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/705784/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/705784/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/705784/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Tom" src="http://news.images.itv.com/image/file/705784/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/central/2015-07-02/bailiffs-evict-cancer-patient-from-home/" class="small-content-listing__item-link">Locals clash with police over cancer patient&#x27;s eviction</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-06-24/father-torn-between-grief-of-losing-daughters-having-wife-older-children-in-hospital-after-horror-handsworth-crash/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Shelley Wu and her sister Lily in a school photograph taken in October" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/698747/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/698747/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/698747/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/698747/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Shelley Wu and her sister Lily in a school photograph taken in October" src="http://news.images.itv.com/image/file/698747/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/central/2015-06-24/father-torn-between-grief-of-losing-daughters-having-wife-older-children-in-hospital-after-horror-handsworth-crash/" class="small-content-listing__item-link">Chinese community supports victims of Handsworth crash</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+
+      <section class="small-content-listing small-content-listing--top-stories">
+    <h2 class="small-content-listing__title">
+      Top stories
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-08-01/thousands-take-part-in-leicesters-30th-caribbean-carnival/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Thousands take part in Leicester&#x27;s Caribbean Carnival" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730461/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730461/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730461/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730461/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Thousands take part in Leicester&#x27;s Caribbean Carnival" src="http://news.images.itv.com/image/file/730461/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/2015-08-01/thousands-take-part-in-leicesters-30th-caribbean-carnival/" class="small-content-listing__item-link">Thousands take part in Leicester&#x27;s Caribbean Carnival</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/update/2015-08-01/16-year-old-girl-missing-from-home-for-almost-a-week/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="16-year-old girl missing from home for almost a week" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730326/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730326/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730326/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730326/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="16-year-old girl missing from home for almost a week" src="http://news.images.itv.com/image/file/730326/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/update/2015-08-01/16-year-old-girl-missing-from-home-for-almost-a-week/" class="small-content-listing__item-link">16-year-old girl missing from home for almost a week</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-08-01/derbyshire-paceman-footitt-named-in-england-squad-for-the-fourth-ashes-test/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Footitt named in Ashes squad" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730443/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730443/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730443/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730443/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Footitt named in Ashes squad" src="http://news.images.itv.com/image/file/730443/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/2015-08-01/derbyshire-paceman-footitt-named-in-england-squad-for-the-fourth-ashes-test/" class="small-content-listing__item-link">Footitt named in Ashes squad</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-07-31/footage-shows-calais-migrants-escaping-lorry-in-west-midlands/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="CCTV shows suspected Calais migrants fleeing lorry in Stourbridge" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/729250/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/729250/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/729250/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/729250/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="CCTV shows suspected Calais migrants fleeing lorry in Stourbridge" src="http://news.images.itv.com/image/file/729250/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/2015-07-31/footage-shows-calais-migrants-escaping-lorry-in-west-midlands/" class="small-content-listing__item-link">CCTV shows suspected Calais migrants fleeing lorry in Stourbridge</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-07-31/weekend-picks-your-weekend-whats-on-round-up/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Weekend Picks: Your weekend what&#x27;s on round up" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730152/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730152/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730152/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730152/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Weekend Picks: Your weekend what&#x27;s on round up" src="http://news.images.itv.com/image/file/730152/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/2015-07-31/weekend-picks-your-weekend-whats-on-round-up/" class="small-content-listing__item-link">Weekend Picks: Your weekend what&#x27;s on round up</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/story/2015-07-31/amateur-photographer-snaps-camera-thieves-during-attack/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Amateur photographer snaps camera thieves during attack" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/729281/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/729281/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/729281/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/729281/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Amateur photographer snaps camera thieves during attack" src="http://news.images.itv.com/image/file/729281/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/story/2015-07-31/amateur-photographer-snaps-camera-thieves-during-attack/" class="small-content-listing__item-link">Amateur photographer snaps camera thieves during attack</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="http://www.itv.com/news/central/weather/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Central weather: Is summer back?" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/728902/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/728902/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/728902/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/728902/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Central weather: Is summer back?" src="http://news.images.itv.com/image/file/728902/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="http://www.itv.com/news/central/weather/" class="small-content-listing__item-link">Central weather: Is summer back?</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/2015-07-31/wolverhampton-man-jailed-for-life-after-killing-mother-in-law-in-pakistan/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Wolverhampton man jailed for life after Pakistan murder" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/729807/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/729807/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/729807/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/729807/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Wolverhampton man jailed for life after Pakistan murder" src="http://news.images.itv.com/image/file/729807/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/2015-07-31/wolverhampton-man-jailed-for-life-after-killing-mother-in-law-in-pakistan/" class="small-content-listing__item-link">Wolverhampton man jailed for life after Pakistan murder</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/story/2015-07-31/womens-fa-cup-final-preview-chelsea-v-notts-county/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Women&#x27;s FA Cup final preview: Chelsea v Notts County" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/729422/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/729422/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/729422/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/729422/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Women&#x27;s FA Cup final preview: Chelsea v Notts County" src="http://news.images.itv.com/image/file/729422/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/story/2015-07-31/womens-fa-cup-final-preview-chelsea-v-notts-county/" class="small-content-listing__item-link">Women&#x27;s FA Cup final preview: Chelsea v Notts County</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/central/story/2015-06-15/how-to-nominate-for-the-daily-mirror-pride-of-britain-awards-2015/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="How to nominate for 2015 Daily Mirror Pride of Britain awards" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/690526/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/690526/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/690526/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/690526/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="How to nominate for 2015 Daily Mirror Pride of Britain awards" src="http://news.images.itv.com/image/file/690526/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/central/story/2015-06-15/how-to-nominate-for-the-daily-mirror-pride-of-britain-awards-2015/" class="small-content-listing__item-link">How to nominate for 2015 Daily Mirror Pride of Britain awards</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+    
+
+    
+
+  </div>
+</aside>
+
+
+    </div>
+
+</div>
+
+  </div>
+
+    <div class="ad-onebyone any">
+      
+      <script src="http://tom.itv.com/itv/jserver/random=55962/site=itv/area=news.central.article/position=1/adtype=any/size=1x1/categories=politics.world/topics=west.midlands.chris.halpin/contentid=2015.08.01.calais.migrant.crisis.arrives.in.midlands.as.dramatic.footage.shows.stowaways.cutting.fre/viewid=1439020065"></script>
+    
+    </div>
+
+  <div class="itv-page-fragment">
+  <div class="itv-glob-foot" id="skip_to_footer">
+    <footer>
+      <div class="itv-glob-foot__inner">
+        <div class="itv-glob-foot__channels itv-glob-foot__block">
+          <nav>
+            <ul class="itv-glob-foot__channels-list">
+              <li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv">ITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv2/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv2">ITV2</span>
+</a>              </li><!--
+              --><li class="itv-glob-foot__channels-item">
+                  <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itvplayer/itvbe/">
+                    <span class="itv-glob-foot__channel itv-glob-foot__channel--itvbe icon--itv-glob-foot-itvbe">ITVBE</span>
+</a>                </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv3/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv3">ITV3</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv4/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv4">ITV4</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/citv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-citv">CITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/">
+                  <span class="itv-glob-foot__channel itv-glob-foot__channel--player icon--itv-glob-foot-itv-player">ITV Player</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/encore/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-encore itv-glob-foot__channel--encore">ITV Encore</span>
+</a>              </li>
+
+            </ul>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__links itv-glob-foot__block">
+          <nav>
+            <div class="itv-glob-foot__columns">
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">ITV Presents</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/beontv/">Be on TV</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/mobile/">Mobile</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.signedstories.com/" rel="nofollow">Signed Stories</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Corporate</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvplc.com/">ITV Plc</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvjobs.com/">Jobs</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/presscentre/">Press Centre</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvmedia.co.uk/">ITV Media</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/commissioning/">Commissioning</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Information</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/help/">Help</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/contactus/">Contact Us</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/termsconditions/" rel="nofollow">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/privacy/" rel="nofollow">Privacy Policy</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__legal">
+          <section>
+            <p class="itv-glob-foot__cookies">
+              By using this site, you agree we can set and use cookies.
+              For more details of these cookies and how to disable them,
+              see our <a href="http://www.itv.com/cookies/">cookie policy</a>.
+            </p>
+
+            <p class="itv-glob-foot__copyright">
+              &copy; Copyright ITV plc 2015
+            </p>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+    <script type="text/javascript">
+    !function(){var o,e=document.createElement("div");e.className;var i=document.location.hostname.split(".").slice(-2).join("."),t=document.cookie.replace(/(?:(?:^|.*;\s*)Itv.CookiePolicy\s*\=\s*([^;]*).*$)|^.*$/,"$1"),c=function(o){document.cookie="Itv.CookiePolicy=accepted; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i,e.parentElement.removeChild(e),o.preventDefault?o.preventDefault():o.returnValue=!1};"accepted"!==t&&("notified"!==t&&(document.cookie="Itv.CookiePolicy=notified; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i),e.innerHTML='      <div class="itv-page-fragment">        <div id="itv-glob-cookie-policy" class="itv-glob-cook">          <div class="itv-glob-cook__inner">            <div class="itv-glob-cook__columns">              <div class="itv-glob-cook__header">                <h2 class="itv-glob-cook__title">                  Cookies on the ITV website                </h2>              </div>              <div class="itv-glob-cook__body">                <div class="itv-glob-cook__content">                  <p class="itv-glob-cook__message">                    ITV websites use cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them, see our <a href="http://www.itv.com/cookies/">cookie policy</a>.                  </p>                </div>                <div class="itv-glob-cook__cta">                  <a href="#" id="itv-glob-accept-cookie-policy" class="itv-glob-cook__cta-accept">                    <span class="itv-glob-cook__check icon--itv-glob-cook-tick"></span>Continue                  </a>                </div>              </div>            </div>          </div>        </div>      </div>',document.body.insertBefore(e,document.body.firstChild),o=document.getElementById("itv-glob-accept-cookie-policy"),o.addEventListener&&o.addEventListener("click",c,!1),o.attachEvent&&o.attachEvent("onclick",c))}();
+</script>
+
+
+  <!-- for facebook like button - don't delete me -->
+  <div id="fb-root"></div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/news/assets/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="http://js.pusher.com/1.11.2/pusher.min.js" type="text/javascript"></script>
+  <script src="/news/assets/application-3d15058f7e309ba68de8bfe6c0c89372.js" type="text/javascript"></script>
+
+  
+
+  <!-- mathiasbynens.be/notes/async-analytics-snippet -->
+<script>
+  // google analytics code - don't delete me
+  var _gaq=[['_setAccount','UA-17825253-1']];
+    _gaq.push(['_setPageGroup', "1", "Article"]);
+    _gaq.push(['_setPageGroup', "2", "Politics"]);
+    _gaq.push(['_setPageGroup', "3", "West Midlands"]);
+    _gaq.push(['_setPageGroup', "4", "Chris Halpin"]);
+    _gaq.push(['_setPageGroup', "5", "Central"]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,"script"));
+</script>
+  <script>
+
+    (function () {
+      var d = new Image(1, 1);
+      d.onerror = d.onload = function () {
+        d.onerror = d.onload = null;
+      };
+      d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+
+    function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"><'+'/p>');}; sitestat("//ned.itv.com/itv/itv/s?news.central.article.2015-08-01.calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=central&itv_sitesection3=article&itv_sitesection4=2015-08-01&itv_sitesection5=calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews");
+
+    var nedstat_twitter_share = "//ned.itv.com/itv/itv/s?news.central.article.2015-08-01.calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=central&itv_sitesection3=article&itv_sitesection4=2015-08-01&itv_sitesection5=calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=twittershare&itv_eventtype=twitterbutton&ns_type=hidden";
+    var nedstat_fb_share = "//ned.itv.com/itv/itv/s?news.central.article.2015-08-01.calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=central&itv_sitesection3=article&itv_sitesection4=2015-08-01&itv_sitesection5=calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=fbshare&itv_eventtype=fbbutton&ns_type=hidden";
+
+  </script>
+  <noscript>
+    <div>
+      <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+      <p><img src="//ned.itv.com/itv/itv/s?news.central.article.2015-08-01.calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=central&itv_sitesection3=article&itv_sitesection4=2015-08-01&itv_sitesection5=calais-migrant-crisis-arrives-in-midlands-as-dramatic-footage-shows-stowaways-cutting-free-from-lorry-in-stourbridge&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews" height="1" width="1" alt="*"></p>
+    </div>
+  </noscript>
+
+  <!-- Prompt IE 6 users to install Chrome Frame. -->
+  <!--[if lt IE 7 ]>
+    <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+  <!-- <script src="/news/assets/softclick-8447e086017ff6eeedfdef2e8316f1aa.js"></script> -->
+
+    <script src="/news/assets/sitestat-e7cb657a1afde57defac6b7de95bc7b1.js"></script>
+  <script>ns_loadingtime2=(new Date()).getTime()</script>
+</body>
+</html>

@@ -1,0 +1,2963 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.vancouversun.com/business/fp/yourmoney/" />
+<!-- this script must be the first element in the head -->
+<script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
+<script type="text/javascript">
+	JANRAIN.SSO.CAPTURE.check_login({
+		sso_server: 'https://sso.canada.com',
+		client_id: 'r9pez9besbxys2z6dbgsy5gdzzczd4zb',
+		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx',
+		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers',
+		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html'
+	});
+</script>
+
+<!-- Janrain fix for secure content warnings in IE9/IE10 -->
+<script type="text/javascript" src="http://d7v0k4dt27zlp.cloudfront.net/assets/capture_client.js"></script>
+
+ 
+
+
+
+<script type="text/javascript" src="/js/CDMScriptManager-1.0.js"></script>
+<script type="text/javascript">
+	CDMScriptManager.load('/js/jquery-1.2.6.min.js');
+	CDMScriptManager.load('/js/slider.js');
+</script>
+<script type="text/javascript" src="/js/jquery-hoverintent.js"></script>
+<script type="text/javascript" src="/js/headernav_tab.js"></script>
+
+<script async src="http://cdn.mediavoice.com/nativeads/script/postmedia/polarAd-LEGO-prod.js"></script>
+
+<script type="text/javascript">
+	CDMScriptManager.load('/js/comments.js');
+</script>
+
+<!-- membership js files -->
+<script type="text/javascript" src="/js/members/json.js"></script>
+<script type="text/javascript" src="/js/members/member.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/global.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header_nav.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/components.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/widgets.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/featurebox.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/footer.css" />
+<!-- membership css -->
+<link href="/css/members/member.css" type="text/css" rel="stylesheet" media="screen" />
+<!--[if IE 6]>
+<link href="/members/css/member_ie6.css" type="text/css" rel="stylesheet" media="screen" />
+<![endif]-->
+
+<!--/vancouversun/branding.inc -->
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/branding.css" />
+
+<!--/vancouversun/branding.inc -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/heatmap.css" />
+<!-- /includes/inform_contextual_ad_setup.inc -->
+
+	<script type="text/javascript">
+		var contentid = "11260294";
+		var iabterms = new Array();
+		var informterms = new Array();
+
+				
+				informterms.push("Alysha Brilla"); 				
+					
+				informterms.push("National"); 				
+			
+
+		var iablength = iabterms.length,
+			inflength = informterms.length,
+			iabstring = "",
+			informstring = "";
+		
+		
+		
+		for(i=0; i<iablength; i++)
+		{
+			iabterms[i] = iabterms[i].replace(/[\&]/g,"and");
+			iabterms[i] = iabterms[i].replace(/[^A-Za-z0-9\s]/g,"");
+			iabstring += "ciab=" + iabterms[i] + ";";
+		}
+
+		for (j=0; j<inflength; j++)
+		{
+			informterms[j] = informterms[j].replace(/[\&]/g,"and");
+			informterms[j] = informterms[j].replace(/[^A-Za-z0-9\s]/g,"");
+			informstring += "cinf=" + informterms[j] + ";";
+		}
+		
+		iabstring = iabstring.toLowerCase();
+		iabstring = iabstring.replace(/\s/g,"-");
+		informstring = informstring.toLowerCase();		
+		informstring = informstring.replace(/\s/g,"-");		
+		
+
+	</script>
+
+<!-- /includes/inform_contextual_ad_setup.inc -->
+
+
+
+
+<!-- /includes/paywall-story.inc -->
+<style type="text/css">
+        #gregbox-outer {
+                border: 6px solid #aa040b !important
+        }
+        #gregbox-signInTab {
+                background: url("http://i-ppjol.s3.amazonaws.com/signin/pp_sign-in_button-aa040b.png")
+no-repeat scroll 0 0 transparent !important;
+        }
+        * html #gregbox-content {
+                border: 6px solid #aa040b !important;
+        }
+        #pp-branding {
+        background-color: #aa040b !important;
+        }
+</style>
+<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+	'zone':"o3PPkhgU8xOGq8j7-aWe5g",
+	'mode':"meter",
+	'customPreCheck': "preCheckVancouversun102467",
+	'debug':0
+}</script><script type="text/javascript">
+function preCheckVancouversun102467($)
+{
+    var metamatch = document.getElementsByTagName("meta");
+    for (var i=0; i < metamatch.length; i++) {
+    if (metamatch[i].name.match(/(keywords)/i)) {
+        if (metamatch[i].content.match(/(breaking|sponsored)/i)) 
+          {
+           return 0;
+          } 	  
+	else if (metamatch[i].content.match(/(premium)/i))
+	  {
+          return 1;
+          }
+       }
+    }
+
+    loc = window.location + '';
+
+	if (loc.match(/\/(cars|jobs|homes|tag|category|author)\//i))
+    {
+         return 0;
+    }
+    else if (loc.match(/(story\.html)/i))
+    {
+         return 1;
+    }
+    
+    return 0;
+}
+</script>
+<!-- /includes/paywall-story.inc -->
+<!-- ad-head.inc -->
+	<script type="text/javascript">
+		var Postmedia = Postmedia || {};
+		Postmedia.adConfig = Postmedia.adConfig || {};
+		Postmedia.adConfig.Casale = Postmedia.adConfig.Casale || {};
+	</script>
+	<script src="//js.indexww.com/ht/post.js" async></script><!-- Casale - Index Exchange code -->
+	
+
+
+		
+		<!--^^^^^^^^^^^ CREATIVE WRAPPER ^^^^^^^^^^^^-->
+		<!--Ad Server: DFP Premium (3081) -->
+		<!--DFP Order ID: %ebuy! -->
+		<!--DFP Line Item ID: %eaid! -->
+		<!--DFP Creative ID: %ecid! -->
+		<!--DFP Advertiser ID: %eadv! -->
+		<!--CK Value: %%PATTERN:CK%! -->
+		<!--SCK Value: %%PATTERN:SCK%%! -->
+		<!--IMP Value: %%PATTERN:IMP%%! -->
+		<!--LOC Value: %%PATTERN:LOC%%! -->
+		<!--PAGE Value: %%PATTERN:PAGE%%! -->
+		<!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+		
+
+		<script type="text/javascript">
+		
+			if (typeof iabterms !== 'undefined') {
+				for(j=0; j<iabterms.length; j++){
+					iabterms[j] = iabterms[j].toLowerCase();
+					iabterms[j] = iabterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var iabterms = "";
+			}
+
+			if (typeof informterms !== 'undefined') {
+				for(j=0; j<informterms.length; j++){
+					informterms[j] = informterms[j].toLowerCase();
+					informterms[j] = informterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var informterms = "";
+			}
+		
+						
+			
+			
+			function get_aamCookie(c_name)
+			{
+				var i,x,y,ARRcookies=document.cookie.split(";");
+				for (i=0;i<ARRcookies.length;i++)
+				{
+					x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+					y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+					x=x.replace(/^\s+|\s+$/g,"");
+					if (x==c_name)
+					{
+						return unescape(y);
+					}
+				}
+			}
+
+			
+			dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+
+			var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/fp/yourmoney/story;cnt=business;nk=print;pr=vs;aid=11260294;ck=business;author=the-canadian-press;sck=fp;sck=yourmoney;page=story;?";
+
+			Postmedia = typeof(Postmedia) != 'undefined' ? Postmedia : {}; 
+
+			 
+					Postmedia.Weather = {"City":"Vancouver","Country":"Canada","CurrentBarometricPressureHg":"29.9 Hg","CurrentBarometricPressureKpa":"101.3 kPa","CurrentDate":"\/Date(1438473600000-0400)\/","CurrentDetails":"A few clouds","CurrentDewpointC":"15 degrees C","CurrentDewpointF":"59 degrees F","CurrentHumidexC":"30 degrees C","CurrentHumidexF":"86 degrees F","CurrentHumidity":"51 %","CurrentIcon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ih-115x100.gif","CurrentRealC":"30 degrees C","CurrentRealF":"86 degrees F","CurrentStation":"Vancouver","CurrentTempC":"26 degrees C","CurrentTempF":"79 degrees F","CurrentWindKm":"5 km SW","CurrentWindMi":"3 mi SW","CurrentWindchillC":null,"CurrentWindchillF":null,"NormalHighC":"22 degrees C","NormalHighF":"72 degrees F","NormalLowC":"13 degrees C","NormalLowF":"55 degrees F","RecordHighC":"28.0 degrees C","RecordHighF":"82 degrees F","RecordLowC":"10.0 degrees C","RecordLowF":"50 degrees F","Sunrise":"5:44am","Sunset":"8:52pm","WeatherForecastLongTermTimePeriods":[{"Caption":"Sunday","Date":"\/Date(1438531200000-0400)\/","Details":"Sunny","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ic-115x100.gif","Id":2,"Pop":"10","HighC":"27 degrees C","HighF":"81 degrees F","LowC":"17 degrees C","LowF":"63 degrees F"},{"Caption":"Monday","Date":"\/Date(1438617600000-0400)\/","Details":"Mainly sunny","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ih-115x100.gif","Id":3,"Pop":"10","HighC":"26 degrees C","HighF":"79 degrees F","LowC":"16 degrees C","LowF":"61 degrees F"},{"Caption":"Tuesday","Date":"\/Date(1438704000000-0400)\/","Details":"Isolated showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ia-115x100.gif","Id":4,"Pop":"40","HighC":"23 degrees C","HighF":"73 degrees F","LowC":"16 degrees C","LowF":"61 degrees F"},{"Caption":"Wednesday","Date":"\/Date(1438790400000-0400)\/","Details":"Isolated showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ia-115x100.gif","Id":5,"Pop":"40","HighC":"22 degrees C","HighF":"72 degrees F","LowC":"15 degrees C","LowF":"59 degrees F"}],"WeatherForecastShortTermTimePeriods":[{"Caption":"This evening","Date":"\/Date(1438498800000-0400)\/","Details":"Sunny","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ic-115x100.gif","Id":3,"Pop":"10","TempC":"24 degrees C","TempF":"75 degrees F","WindKm":"5 km W","WindMi":"3 mi W"},{"Caption":"Tonight","Date":"\/Date(1438520400000-0400)\/","Details":"Clear","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_icn-115x100.gif","Id":4,"Pop":"10","TempC":"17 degrees C","TempF":"62 degrees F","WindKm":"5 km NE","WindMi":"3 mi NE"},{"Caption":"Sunday morning","Date":"\/Date(1438542000000-0400)\/","Details":"Sunny","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ic-115x100.gif","Id":5,"Pop":"10","TempC":"19 degrees C","TempF":"66 degrees F","WindKm":"5 km E","WindMi":"3 mi E"},{"Caption":"Sunday afternoon","Date":"\/Date(1438563600000-0400)\/","Details":"Sunny","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ic-115x100.gif","Id":6,"Pop":"10","TempC":"27 degrees C","TempF":"80 degrees F","WindKm":"10 km SW","WindMi":"6 mi SW"}]}; 
+				
+			
+			
+			if (Postmedia.hasOwnProperty("adConfig")) {
+                Postmedia.adConfigPartner=Postmedia.adConfig;
+			}
+
+			Postmedia.adConfig = {
+									
+					"site": "vs_bus.com",
+					"async": true,
+					"sra": true,
+					"networkId": "3081",
+					"disableInitialLoad": false,
+					"enablecasale": false,
+					"zone": "business/fp/yourmoney/story",
+									
+				
+				    "burt": {
+					 },
+
+
+					"keys": {
+						"cnt":  "business",
+						"nk":  "print",
+						"pr":  "vs",
+						"aid":  "11260294",
+						"ck":  "business",
+						"author":  "the-canadian-press",
+						"sck":  ["fp","yourmoney"],
+						"page":  "story",
+						"ciab": iabterms,
+						"cinf": informterms
+					},
+					"adslots":[
+						{
+							"name": "gpt-skinnybar",  "type": "skinnybar"
+						},
+						{
+							"name": "gpt-leaderboard",  "type": "leaderboard"
+						},
+						{
+							"name": "gpt-bigboxtop",  "type": "bigboxtop"
+						},
+						{
+							"name": "gpt-bigboxbot",  "type": "bigboxbot"
+						},
+						{
+							"name": "gpt-oop",  "type": "oop"
+						}				
+					]
+				
+			};
+			
+			
+			
+		</script>
+	<script type="text/javascript" src="/js/postmedia_obj_init.js?v=1"></script>
+	<script type="text/javascript" src="/js/gpt.js?v=27"></script>
+	<script type="text/javascript" src="/js/burt.js?v=2"></script>
+<!-- ad-head.inc -->
+<title>Rally in support of women's right to go topless takes place in Waterloo, Ont.</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/story.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/hot-photos-tab.css" />
+<script type="text/javascript" src="/js/storyChromefix.js"></script>
+<script type="text/javascript" src="/js/pmHotWidget-tab.min.js"></script>
+<meta property="og:title" content="Rally in support of women's right to go topless takes place in Waterloo, Ont.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.vancouversun.com/business/fp/yourmoney/Rally+support+womens+right+topless+today+Waterloo/11260294/story.html">
+<meta property="og:image" content="http://www.vancouversun.com/cms/binary/11260879.jpg">
+<meta property="og:site_name" content="www.vancouversun.com">
+<meta property="og:description" content="WATERLOO, Ont. - A rally and march organized by three sisters who were stopped by a police officer for biking topless a week ago was held Saturday in Waterloo, Ont."><meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@vancouversun">
+<meta name="twitter:title" content="Rally in support of women's right to go topless takes place in Waterloo, Ont.">
+<meta name="twitter:description" content="WATERLOO, Ont. - A rally and march organized by three sisters who were stopped by a police officer for biking topless a week ago was held Saturday in Waterloo, Ont.">
+<meta name="twitter:image" content="http://www.vancouversun.com/cms/binary/11260879.jpg"><link href="http://www.vancouversun.com/touch/news/national/Rally+support+womens+right+topless+today+Waterloo/11260294/story.html" rel="alternate" media="only screen and (max-width: 640px)" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="description" content="WATERLOO, Ont. - A rally and march organized by three sisters who were stopped by a police officer for" /><meta name="keywords" content="Business, Asia-Pacific news, resources, real estate, money, markets, features, advisor, tools, trade, financial tools, financial markets, Vancouver, British Columbia,4,Guelph,Marlee McLean,Kitchener (Ontario),The Canadian Press,Alysha Brilla,national,news,Rally in support of womens right to go topless set for today in Waterloo Ont.,TG0801.xml,Waterloo" /><meta property="fb:app_id" content="375057209234363" /><meta name="PubDate" content="2015-07-31" /><meta name="Author" content="The Canadian Press" /></head>
+<body class="business" >
+ <!-- start: ad-common_ads.inc -->
+<div class="ad">
+	<div id='gpt-oop' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-oop');
+		</script>
+	</div>
+</div>  
+<!-- end: ad-common_ads.inc -->
+ <!-- /includes/remarketing_pixel.inc -->
+    <!--
+    Start of DoubleClick Floodlight Tag: Please do not remove
+    Activity name of this tag: VancouverSun - retargeting pixel
+    URL of the webpage where the tag is expected to be placed: http://www.postmedia.com/
+    This tag must be placed between the body tags, as close as possible to the opening tag.
+    Creation Date: 05/22/2014
+    -->
+    <script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="http://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=5XwCutqB;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+    </script>
+    <noscript>
+    <iframe src="http://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=5XwCutqB;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </noscript>
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!-- /includes/remarketing_pixel.inc -->
+	<div id="page">
+		<div class="pagewrapper">
+			<!-- facebook_init.inc -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- // facebook_init.inc -->
+			<div class="adwrapper">
+				<div id="leaderboard">
+				 	<!-- /theprovince/leaderboard_story.inc -->
+
+	<div class="ad">
+	<div id='gpt-leaderboard' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-leaderboard');
+		</script>
+	</div>
+</div>  
+
+<!-- /theprovince/leaderboard_story.inc -->
+				</div>
+				<!-- leaderboard ends -->
+			</div>
+			<!-- adwrapper ends -->
+			<div class="headerwrapper">
+				<div id="networkbar">
+					<div class="networkbar">
+						<!--/vancouversun/header_networkbar.inc -->
+
+	<div id="weatherspot">
+		<!--/vancouversun/header_search_box_top.inc -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/search/autocomplete.css" />
+		<div id="headersearch" class="headersearch">
+			<div class="formrow">
+				<ul class="hr_items quicklinks">
+					<li class="q-links"><a href="http://www.vancouversun.com/shopping/"><span>Shopping</span></a> | <a href="http://www.legacy.com/can-vancouver/Obituaries.asp"><span>Obituaries</span></a> | <a href="/life/diversions/"><span>Horoscopes</span></a> | <a href="/life/diversions/"><span>Lotteries</span></a></li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<form name="searchform" action="http://www.vancouversun.com/search/search.html">
+					<ul class="form_newspaper">
+						<li class="formbutton">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+						<li class="forminput">
+							<input type="text" class="input_newspaper" id="q" name="q" onclick="this.focus();this.value='';" onblur="this.value=!this.value?'Search vancouversun.com...':this.value;" value="Search vancouversun.com..." />
+						</li>
+						<li class="formicon">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+					</ul>
+				</form>
+				<div class="clear">&nbsp;</div>
+			</div>
+		</div>
+		<!-- headersearch ends -->
+
+		<script type="text/javascript">
+			CDMScriptManager.load("http://www.vancouversun.com/js/autocomplete/jquery.autocomplete.min.js");
+		</script>
+		
+		<script language="javascript">
+			function doSearch() {
+				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,"");
+				q = q.replace(/ /g,"+");
+				if (q.length == 0) {
+					alert("Please enter your search criteria");
+					return;
+				}
+				var dname = document.domain; 
+				if ( dname=="driving.ca") {
+					document.location.href="http://www.driving.ca/vancouver/search/search.html?q=" + escape(q);
+					}
+				else {
+					document.location.href="http://www.vancouversun.com/search/search.html?q=" + escape(q);
+				}
+			}
+			//FAST WAVE 1
+			//add javascript to hook up search text box in header
+			//set up autocomplete on search box in header			
+			jQuery(document).ready(function() {
+				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", {
+					dataType: 'jsonp',
+					parse: function(data) {
+						var rows = new Array();
+						data = data.Terms;
+						for(var i=0; i<data.length; i++){
+							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] };
+						}
+						return rows;
+					},
+					resultsClass: "fast_wave_results",
+					formatItem: function(row, i, n) {
+						return  row.Term;
+					},
+					cacheLength: 0,
+					extraParams: {
+						format: "json"
+					},
+					minChars: 1,
+					max: 10,
+					highlight: function(value, term) {
+						var pos = value.toLowerCase().indexOf(term.toLowerCase());
+						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>";
+					},
+					scroll: false,
+					selectFirst: false
+				}); 
+			});
+		</script>
+							
+<!--/vancouversun/header_search_box_top.inc -->
+		<!--/vancouversun/header_weather.inc -->
+
+	<div id="weather4" class="bubble bubbleweather">
+<!-- legoctl: ctl01 --><!-- CACHE HIT: weather4 -->
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ih.gif"></div><div class="temperature">26&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+ 
+
+<!--/vancouversun/header_weather.inc -->
+	</div>
+	<!-- weatherspot ends -->
+	<!--/header_networkbar_global.inc -->
+<style type="text/css">
+	#networkbar ul li.subscribe {background:#000;padding:2px 5px 3px 5px;}
+	#networkbar ul li.subscribe a span{color:#fff;font-weight:bold;text-transform:uppercase;}
+	#networkbar ul li.noDeli {background:none;}
+</style>
+		<ul class="network_dropdown">
+			<li class="ss-nopad subscribe" id="subscriber_services"><a href="http://www.vancouversun.com/subscribe/index.html"><span>Subscribe</span></a></li>
+			<li class="noDeli" id="subscriber_services"><a href="http://members.canada.com/canada/vancouversun/subscribers/selfserve/index.html?site=cc&brand=vancouversun"><span>Subscriber Services</span></a></li>
+			<li id="subscriber_services"><a href="http://epaper.vancouversun.com/epaper"><span>ePaper</span></a></li>
+			<li id="subscriber_services"><a href="http://vancouversun.com/estore/index.html"><span>eStore</span></a></li>
+			<li id="subscriber_services"><a href="http://vancouversunandprovince.adperfect.com/?pref=skinvansun" onclick="scCustomLink('Place An Ad Click - Header',[],['eVar23','eVar2','eVar6'],['event85']);"><span>Place an Ad</span></a></li>
+		</ul>
+		<!-- networkbar ends -->
+		<ul class="cc_dropdown">
+			<li class="cc">
+				<a href="http://www.canada.com/" class="ccn_network"><span>canada.com network</span></a>
+				<div class="cc-dropdown">
+					<div class="cc-dropdown-content">
+						<div class="wrapper_0_10_0_10">
+							<div class="col_170">
+								<div class="col_160">
+									<div class="section_title">
+										<h3><span>Newspapers</span></h3>
+										<div class="clear">&nbsp;</div>
+									</div>
+									<div class="clear">&nbsp;</div>
+									<div id="textlinks">
+										<div class="featurecontent">
+											<ul class="bullet">
+												<li><a href="http://www.nationalpost.com/"><span>National Post</span></a></li>
+												<li><a href="http://www.theprovince.com/"><span>The Province (Vancouver)</span></a></li>
+												<li><a href="http://www.vancouversun.com/"><span>Vancouver Sun</span></a></li>
+												<li><a href="http://www.edmontonjournal.com/"><span>Edmonton Journal</span></a></li>
+												<li><a href="http://www.calgaryherald.com/"><span>Calgary Herald</span></a></li>
+												<li><a href="http://www.leaderpost.com/"><span>Regina Leader-Post</span></a></li>
+												<li><a href="http://www.thestarphoenix.com/"><span>Saskatoon StarPhoenix</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col_160">
+								<div class="section_title">
+									<h3><span>&nbsp;</span></h3>
+									<div class="clear">&nbsp;</div>
+								</div>
+								<div class="clear">&nbsp;</div>
+								<div id="textlinks">
+									<div class="featurecontent">
+										<ul class="bullet">
+											<li><a href="http://www.windsorstar.com/"><span>Windsor Star</span></a></li>
+											<li><a href="http://www.ottawacitizen.com/"><span>Ottawa Citizen</span></a></li>
+											<li><a href="http://www.montrealgazette.com/"><span>Montreal Gazette</span></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+						</div>
+						<!-- wrapper ends-->
+					</div>
+				</div>
+			</li>
+		</ul>
+
+<!--/header_networkbar_global.inc -->
+
+<!--/vancouversun/header_networkbar.inc -->
+					</div>
+					<!-- networkbar ends -->
+					<div id="loginstatusbar">
+						<!--/common/loginstatusbar.inc -->
+
+<div id="loginstatusbarchild"></div>
+
+<script>
+	function handlePostLogin() {
+		// change the login status bar to reflect a logged in state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+
+		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function handlePostLogout() {
+		// change the login status bar to reflect a logged out state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+		
+		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function dologout() {
+		// create the hidden logout iframe
+		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true';
+		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body');
+	}
+
+	function renderLoginStatusBar(user) {
+		var user = user.User;
+		var statusBarHtml = "";
+
+		if (user.IsLoggedIn) {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>";
+			statusBarHtml += " " + profileLink;
+			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		else {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\" rel=\"nofollow\">Log in</a></li>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\" rel=\"nofollow\">Register</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml;
+	}
+</script>
+
+<script>jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");</script>
+
+<!--/common/loginstatusbar.inc -->
+					</div>
+					<!-- loginstatusbar ends -->
+				</div>
+				<!-- networkbar ends -->
+				<div class="clear">&nbsp;</div>
+				<div class="logosearchbar">
+					<div id="logocol">
+						<!--/vancouversun/header_logo.inc -->
+
+		<!--/header_feature_left.inc -->
+		<div class="headersponsor" id="callout_left">
+			<div class="logo">
+				<div id="syndication5">
+<!-- legoctl: ctl02 --><!-- CACHE HIT: syndication5 -->
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Featured Photos</span></h3></div><div id="featurewidget" class="spotlight_right_image"><div class="featurecontent"><div class="newsimage"><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT"><img border="0" src="cms/binary/11260929.jpg?size=90x90" alt="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season." title="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season."></a><span class="photo_credit"></span></div><h3><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT" class=""><span>Once in a blue moon</span></a></h3><p class="newscontent">Check out photos of this month&#8217;s second full moon or blue moon from around the world.</p><ul class="morelink"><li><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>
+
+			</div>
+		</div>
+<!--/header_feature_left.inc -->
+
+		<div class="newspaperlogo">
+			<h1><a href="/index.html"> <span>The Vancouver Sun</span> </a></h1>
+		</div>
+		<!-- newspaperlogo ends -->
+
+		<!--/header_feature_right.inc -->		
+		<div class="headersponsor" id="callout_right">
+			<div class="logo">
+				<div id="syndication6">
+<!-- legoctl: ctl03 --><!-- CACHE HIT: syndication6 -->
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Featured video</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/news/Pride+Selling/11255803/story.html"><img border="0" src="cms/binary/11255878.jpg?size=90x90" alt="Revellers wave rainbow flags during the Vancouver Pride Parade in 2014." title="Revellers wave rainbow flags during the Vancouver Pride Parade in 2014."></a><span class="photo_credit"></span></div><h3><a href="/news/Pride+Selling/11255803/story.html" class=""><span class="video-icon"></span><span>Is Pride Selling Out?</span></a></h3><p class="newscontent">Veteran LGQBT activists say the movement has lost its edge and is selling out to the mainstream and money. Corporate donors love Pride parade now. A look at the arguments.</p><ul class="morelink"><li><a href="/news/Pride+Selling/11255803/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="Video+Pride+Selling/11255788/story.html"><span>Video: Is Pride Selling Out?</span></a></li><li class="doc"><a href="/opinion/columnists/Have+Pride+parades+lost+their+activist+roots/11255875/story.html"><span>Douglas Todd: Has Pride lost its activist roots?</span></a></li><li class="doc"><a href="/news/Video+City+Vancouver+kicks+Pride+Week+with+Transgender+Flag/11247089/story.html"><span>Video: Vancouver drag queen helps kick off Pride Week</span></a></li><li class="doc"><a href="/news/metro/Transgender+pledge+request+means+Liberals+Pride/11238233/story.html"><span>Transgender pledge request means no B.C. Liberals at Pride</span></a></li></ul></div></div><div class="clear"> </div></div>
+
+			</div>
+		</div>
+<!--/header_feature_right.inc -->
+
+<!--/vancouversun/header_logo.inc -->
+					</div>
+					<!-- logocol ends -->
+					<div id="weatherspot">
+						<!--/vancouversun/header_weather.inc -->
+
+	<div id="weather7" class="bubble bubbleweather">
+<!-- legoctl: ctl04 --><!-- CACHE HIT: weather7 -->
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ih.gif"></div><div class="temperature">26&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+ 
+
+<!--/vancouversun/header_weather.inc -->
+					</div>
+					<!-- weatherspot ends -->
+					<div id="searchcol">
+						<div class="searchwrapper">
+							<!--/vancouversun/header_search_box.inc -->		
+<!--/vancouversun/header_search_box.inc -->
+						</div>
+						<!-- Search  wrapper ends -->
+					</div>
+					<!-- searchcol ends -->
+				</div>
+				<!-- logosearchbar ends -->
+			</div>
+			<!-- headerwrapper ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="navbar">
+				<div class="navbarwrapper">
+					<!--/vancouversun/header_nav.inc -->
+<ul id="navcontent">
+  <li id="home" class="mainnav"> <a class="navitem" href="/index.html"><span><img src="/images/header/home.gif"/></span></a> </li>
+  <li id="news" class="mainnav"> <a class="navitem" href="/news/"><span>News</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="/news/metro/index.html"><span>Metro</span></a></li>   
+                  <li><a href="/news/national/index.html"><span>National</span></a></li>
+                  <li><a href="/news/world/index.html"><span>World</span></a></li>
+				  <li><a href="/news/politics/index.html"><span>Politics</span></a></li>
+				  <li><a href="/news/specialreports/index.html"><span>Special Reports</span></a></li>
+<li><a href="/news/vansun360/index.html"><span>#VanSun360 Challenge</span></a></li>
+                  <li><a href="/gangs/index.html"><span>Gangs</span></a></li>
+                  <li><a href="/news/education/index.html"><span>Education</span></a></li>
+                  <li><a href="/news/health/index.html"><span>Health</span></a></li>
+                  <li><a href="/weather/index.html?city=vancouver&rg=bc"><span>Weather</span></a></li>
+                  <li><a href="/news/traffic-cameras/index.html"><span>Traffic and Transit</span></a></li>
+                  <li><a href="/datacentral/index.html"><span>Database</span></a></li>
+                  <li><a href="/news/u-report/index.html"><span>U-Report</span></a></li>
+                  <!-- <li><a href="/news/todays-paper/index.html"><span>Today&rsquo;s Paper</span></a></li> -->
+                  <li><a href="http://vancouversunpodcasts.com"><span>Podcasts</span></a></li>
+		 <li class="lastlink"><a href="/news/environment/index.html"><span>Environment</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="opinion" class="mainnav"> <a class="navitem" href="/opinion/"><span>Opinion</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="http://blogs.vancouversun.com/category/staff"><span>Staff Blogs</span></a></li>
+                  <li><a href="http://blogs.vancouversun.com/category/community"><span>Community Blogs</span></a></li>
+                  <li><a href="/opinion/letters/index.html"><span>Letters</span></a></li>
+                  <li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+                  <li><a href="/opinion/editorials/index.html"><span>Editorials-Columns</span></a></li>
+                  <li><a href="/opinion/op-ed/index.html"><span>Op&ndash;Ed</span></a></li>
+                  <li><a href="/opinion/editorial-cartoons/index.html"><span>Editorial Cartoon</span></a></li>
+                  <!--li class="lastlink"><a href="/opinion/community-of-interest/index.html"><span>Community of Interest</span></a></li-->
+                  <!--li class="lastlink"><a href="/opinion/unews/index.html"><span>Unews</span></a></li-->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="business" class="mainnav"> <a class="navitem" href="/business/"><span>Business</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+				  <li><a href="/business/energy/index.html"><span>Energy</span></a></li>
+				  <li><a href="/business/northern-bc/index.html"><span>Northern BC</span></a></li>
+		          <li><a href="/business/smallbusiness/index.html"><span>Small Business</span></a></li>
+ 		          <li><a href="/business/commercial-real-estate/index.html"><span>Commercial Real Estate</span></a></li>
+                  <li><a href="/business/resources/index.html"><span>Resources</span></a></li>
+                  <li><a href="/business/technology/index.html"><span>Technology</span></a></li>
+                  <li><a href="/business/asia-pacific/index.html"><span>Asia Pacific</span></a></li>
+				  <li><a href="/business/bc2035/index.html"><span>Innovation/BC 2035</span></a></li>
+                  <li><a href="/business/real-estate/index.html"><span>Real Estate</span></a></li>
+				  <li><a href="/business/watchlist.html"><span>Watchlist</span></a></li>
+                  <li class="lastlink"><a href="http://www.financialpost.com/markets/"><span>Markets on FP</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="sports" class="mainnav"> <a class="navitem" href="/sports/"><span>Sports</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="/sports/hockey/vancouver-canucks/index.html"><span>Canucks-Hockey</span></a></li>
+                  <li><a href="/sports/football/lions/index.html"><span>Lions-Football</span></a></li>
+				  <li><a href="/sports/football/nfl/"><span>NFL Football</span></a></li>
+                  <li><a href="/sports/soccer/index.html"><span>Whitecaps-Soccer</span></a></li>
+                  <li><a href="/sports/baseball/index.html"><span>Baseball</span></a></li>
+                  <li><a href="/sports/basketball/index.html"><span>Basketball</span></a></li>
+                  <li><a href="/sports/golf/index.html"><span>Golf</span></a></li>
+				  <li><a href="/sports/golf/golf-guide/index.html"><span>Find a Course</span></a></li>
+                  <li><a href="/mma/"><span>MMA/Boxing</span></a></li>
+                  <li><a href="/sports/tennis/index.html"><span>Tennis</span></a></li>
+                  <li><a href="/sports/autoracing/index.html"><span>Racing</span></a></li>
+                  <li><a href="/sports/winter-sports/index.html"><span>Winter Sports</span></a></li>
+                  <li><a href="http://www.vancouversun.com/sports/olympics-anniversary/index.html"><span>2010 Olympics Legacy</span></a></li>
+                  <li><a href="http://www.vancouversun.com/sunrun/event/news.html"><span>Sun Run</span></a></li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="entertainment" class="mainnav"> <a class="navitem" href="/entertainment/"><span>Entertainment</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="/entertainment/movie-guide/index.html"><span>Movies</span></a></li>
+                  <li><a href="/entertainment/television/index.html"><span>Television</span></a></li>
+                  <li><a href="/entertainment/television/tv-listings/index.html"><span>TV Listings</span></a></li>
+                  <li><a href="/entertainment/music/index.html"><span>Music</span></a></li>
+                  <li><a href="/entertainment/books/index.html"><span>Books</span></a></li>
+                  <li><a href="/entertainment/celebrity/index.html"><span>Celebrity</span></a></li>
+                  <li><a href="/entertainment/theatre-listings/index.html"><span>Theatre</span></a></li>
+                  <li class="lastlink"><a href="/entertainment/listings/index.html?cbResetParam=1"><span>What's On</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="life" class="mainnav"> <a class="navitem" href="/life/"><span>Life</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                                    <li><a href="/life/fashion-beauty/index.html"><span>Fashion &amp; Beauty</span></a></li>
+                  <li><a href="/life/food/index.html"><span>Food</span></a></li>
+                  <li><a href="/life/food/wine-country/index.html"><span>Wine</span></a></li>
+				  <li><a href="http://www.sunwinecritic.com/"><span>Sunwinecritic</span></a></li>
+                  <!--li><a href="http://insider.vancouversun.com"><span>Restaurant Insider</span></a></li-->
+                  <li><a href="/life/parenting/index.html"><span>Parenting</span></a></li>
+                  <li><a href="/life/relationships/index.html"><span>Relationships</span></a></li>
+                  <li><a href="/life/diversions/index.html"><span>Diversions - Comics &amp; Games</span></a></li>
+                  <li><a href="/life/steve-whysall-garden/index.html"><span>Steve Whysall Garden</span></a></li>
+				  <li class="lastlink"><a href="/life/royals"><span>The Royals</span></a></li>
+				  <li><a href="http://www.vancouversun.com/sunrun/index.html"><span>Sun Run</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="health" class="mainnav"> <a class="navitem" href="/health/"><span>Health</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="/health/diet-fitness/index.html"><span>Fitness</span></a></li>
+				  <li><a href="/health/women/index.html"><span>Women</span></a></li>
+                  <li><a href="/health/men/index.html"><span>Men</span></a></li>
+                  <li><a href="/health/family-child/index.html"><span>Family & Child</span></a></li>
+                  <li><a href="/health/seniors/index.html"><span>Seniors</span></a></li>
+                  <li class="lastlink"><a href="/health/sexual-health/index.html"><span>Sexual Health</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="technology" class="mainnav"> <a class="navitem" href="/technology/"><span>Technology</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+				 <li><a href="/technology/personal-tech/index.html"><span>Personal Tech</span></a></li>
+                  <li><a href="/technology/gaming/index.html"><span>Gaming</span></a></li>
+                  <li><a href="/technology/tech-biz/index.html"><span>Tech &#8211; Biz</span></a></li>
+                  <li class="lastlink"><a href="/mobile-site/index.html"><span>Download Sun Apps</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="travel" class="mainnav"> <a class="navitem" href="/travel/"><span>Travel</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+					<li><a href="/travel/news/"><span>Travel News</span></a></li>
+					<li><a href="/travel/destinations/"><span>Destinations</span></a></li>
+					<li><a href="/travel/ideas/"><span>Activities</span></a></li>
+					<li><a href="/travel/top-5/"><span>Top 5</span></a></li>
+					<li><a href="/travel/travel-shots/"><span>Travel Shots</span></a></li>
+					<li><a href="/travel/skiguide/"><span>Ski and Board Guide</span></a></li>
+					<li><a href="/travel/government-advisories/"><span>Advisories</span></a></li>
+          <li class="lastlink"><a href="/travel/sun-tours/"><span>Sun Tours</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="navSeparator"><span></span></li>
+  <li id="jobs" class="mainnav"> <a class="navitem" href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home"><span>Careers</span></a>
+  </li>
+  <li id="cars" class="mainnav"> <a class="navitem" href="http://www.driving.ca/index.html" target="_blank"><span>Driving</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+					<li><a href="http://www.driving.ca/" target="_blank"><span>Home</span></a></li>
+					<li><a href="http://www.driving.ca/category/auto-news" target="_blank"><span>News</span></a></li>
+					<li><a href="http://www.driving.ca/category/reviews" target="_blank"><span>Reviews</span></a></li>
+					<li class="lastnoline"><a href="http://driving.kijiji.ca" target="_blank"><span>Kijiji Autos Classifieds</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="homes" class="mainnav"> <a class="navitem" href="http://www.househunting.ca/vancouversun/"><span>Homes</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="http://www.househunting.ca/vancouversun/new-home-development/index.html"><span>New Home Developments</span></a></li>
+                  <li><a href="http://www.househunting.ca/vancouversun/at-home/index.html"><span>At Home</span></a></li>
+                  <li><a href="http://www.househunting.ca/vancouversun/WestcoastHomeswithArranHenn.html"><span>Westcoast Homes with Arran Henn</span></a></li>
+                  <li><a href="http://www.househunting.ca/vancouversun/out-of-town-properties/index.html"><span>Out Of Town Properties</span></a></li>
+                  <li><a href="http://www.househunting.ca/vancouversun/bought-sold/index.html"><span>Bought&#47;Sold</span></a></li>
+                  <li><a href="http://www.homesanddesign.ca/"><span>Westcoast Homes &amp; Design Magazine</span></a></li>
+                   <!--<li><a href="http://www.househunting.ca/vancouversun/Home-Renovating/index.html"><span>Renovating</span></a></li>-->
+                  <li><a href="http://www.househunting.ca/vancouversun/decorating/index.html"><span>Decorating & Renovating</span></a></li>
+				  <li><a href="/mikeholmes"><span>Mike Holmes</span></a></li>
+                  <!--<li><a href="http://www.househunting.ca/vancouversun/sale-and-rent/index.html"><span>For Sale/Rent</span></a></li>
+				  <li><a href="http://www.househunting.ca/vancouversun/Buying-Homes/index.html"><span>Real Estate</span></a></li>
+				  <li><a href="http://www.househunting.ca/vancouversun/Homes-and-Gardens/index.html"><span>Gardening</span></a></li>
+				  <li class="lastlink"><a href="http://www.househunting.ca/vancouversun/Vacation-Homes/index.html"><span>Vacation Homes</span></a></li-->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+  <li id="classifieds" class="mainnav"> <a class="navitem" href="http://classifieds.vancouversun.com"><span>Classifieds</span></a>
+    <div class="subnav">
+      <div class="subnavcontent">
+        <div class="wrapper_5_5_0_5">
+          <div class="col_160 tagged">
+            <div id="textlinks">
+              <div class="featurecontent">
+                <ul class="bullet">
+                  <li><a href="http://www.legacy.com/celebration/vancouversun"><span>Announcements</span></a></li>
+                  <li><a href="http://www.legacy.com/obituaries/vancouversun/"><span>Obituaries</span></a></li>
+                  <li><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home"><span>Job Listings</span></a></li>
+                  <li><a href="http://autos.canada.com/index.html?branding=vancouver"><span>Car Listings</span></a></li>
+                  <li><a href="http://www.househunting.ca"><span>Real Estate For Sale/Rent</span></a></li>
+                  <li><a href="http://www.vancouversun.com/shopping"><span>Shopping</span></a></li>
+                  <li><a href="http://classifieds.canada.com/vancouversun/placead/placead_index.html"><span>Place an Ad</span></a></li>
+				  <li class="lastlink"><a href=http://www.flyercity.ca/?p=vancouversun&locale=en&utm_campaign=pm_nav-bar&utm_source=nav-bar&utm_medium=nav-bar&utm_term=Vancouver%20Sun"><span>FlyerCity</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="dottedline"></div>
+      </div>
+    </div>
+  </li>
+
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="dmiss">
+  <div class="dmiss-word">Don't miss: </div>
+  <div id="syndication8">
+<!-- legoctl: ctl05 --><!-- CACHE HIT: syndication8 -->
+<!-- Source="828008.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.vancouversun.com/entertainment/topic.html?t=topic&amp;q=Vancouver+Sun+Videos" class="">
+      <span>Video</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/life/wine-growers/index.html" class="">
+      <span>Winegrowers</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=adoption+series" class="">
+      <span>Adoption series</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/sports/pan-am/index.html" class="">
+      <span>Pan Am Games</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=Richmond+series" class="">
+      <span>Richmond series</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=baby+names+series" class="">
+      <span>Baby names</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=keyword&amp;q=affordability" class="">
+      <span>Affordability</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/simon-fraser-university/index.html" class="">
+      <span>SFU</span>
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.sunwinecritic.com/" rel="nofollow">
+      <span>Wine Critic</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/business/business-of-auto/index.html" class="">
+      <span>Auto</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> »
+		</div></div>
+
+  <div class="clear">&nbsp;</div>
+</div>
+<!--/vancouversun/header_nav.inc -->
+				</div>
+				<!-- navbarwrapper ends -->
+			</div>
+			<!-- navabr ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="contentbody">
+			
+				<div class="promobannerwrapper">
+					<!-- /montrealgazette/promobanner_story.inc -->
+	<div class="ad">
+	<div id='gpt-skinnybar' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-skinnybar');
+		</script>
+	</div>
+</div>  
+<!-- /montrealgazette/promobanner_story.inc -->
+				</div>
+				<!-- promobannerwrapper ends -->
+				<div class="clear">&nbsp;</div>
+			
+				<div class="bodywrapper">
+					
+					 
+<!-- /includes/facebook_comments.inc -->
+
+<div id="fb-root"></div>
+<!-- facebook comments JS -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=375057209234363";  //this is Vancouver's app id -- needs to be changed
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- end facebook comments JS -->
+
+<!-- /includes/facebook_comments.inc --> 
+
+
+<div class="col_640">
+	
+	<div class="page_title_branding">
+		<h3><span>Business</span></h3>
+		<span class="branding"><a href="http://www.financialpost.com/"><img src="/images/logo/logo_fp_125_20.gif" /></a></span>
+	</div>
+	<!-- page title ends -->
+	<div class="clear">&nbsp;</div>
+
+	<div class="clear">&nbsp;</div>
+	<div id="LEGO_story">
+<!-- legoctl: ctl06 --><!-- CACHE MISS: LEGO_story -->
+
+
+<div id="storypage" class="story_content" xmlns:fb="urn:facebook.com:fb"><div class="wrapper_0_20_0_0"><script type="text/javascript">
+				CDMScriptManager.load('/js/SpiderRedirect.js');
+				jQuery.getScript('/js/adsync/adSyncLibrary.js',function(){
+					ParseDartAdUrl();
+				});
+
+				function ParseDartAdUrl(){
+				if (typeof dartad_url != 'undefined') {
+					var dd = adSync.ParseDartAdUrl(dartad_url);
+					cwZoneAd=dd["zone"];
+					cwSiteAd =dd["site"];
+					cwKeyAd=dd["keyValues"];
+				}else {
+					cwSiteAd = "vs_bus.com"; // plug in the Ad site variable
+					cwZoneAd= "business/fp/yourmoney/story"; // plug in the ad zone.
+					cwKeyAd="kw=ron;kw=business;kw=fp;kw=yourmoney"; // plug in the Ad key words.
+				}	
+				}
+			</script>
+		
+			<script type="text/javascript">
+	
+				var addthis_pub = 'canada.com';
+
+				function tabClick(eventText, hasVideo, id, classname, pause,syncAds)
+				{	
+					//the statsEvent and Ad Refresh have been disabled on the story tab clicks
+					//I've left the code in the xsl (just commented out), in case the decision gets reversed.
+									
+					//omniture event
+					//statsEvent(eventText);	
+					
+					//set tab
+					if(hasVideo) {
+						ooVideo.switchTab(id,classname);
+					}
+					setClass('storypage', classname);
+
+					//refresh ads
+					
+						
+							
+							//if(syncAds)
+								//Postmedia.adConfig.refreshAds(true);
+							
+						
+				}
+
+				
+				
+				function pageClick(eventText, pg)
+				{			
+	        var prevpage,
+            pageList = $j('ul.pagebreak li'),
+            pageListArr = $j( 'ul.pagebreak li a' ),
+        lastPos = pageList.length,
+		scrollToPage = '',
+		viewAll = false;
+
+            if( $j( $j(pageList[pg]).children()[0] ).attr('class') == '' ){
+		//goes through list of pages and find previous active page
+              pageListArr.each(function(e){
+	           if($j(this)[0].className == 'active'){
+	               prevpage = e;
+	           }
+	        });
+        	
+		if( pg == lastPos - 2){
+			if (prevpage == (lastPos -3)){
+				scrollToPage = lastPos - 3;
+			} else {
+				scrollToPage = prevpage + 1;
+			}
+			pg = pg + 1;	
+		}else if(pg == 0){
+	           if(prevpage == 1) { 
+			        return false; 
+		        } else { 
+			        pg = prevpage 
+		        };
+	        } else if(pg == (lastPos-1) ) {
+			if(prevpage == (lastPos-3)) {
+			        return false; 
+                } else {
+			        pg = (prevpage + 2);
+		        }
+	        } else if(pg == prevpage) {
+		        return false; 
+	        } else {
+	           pg = pg + 1;
+	        };
+        	
+              pageListArr.removeClass('active inactive');
+		
+              $j( $j(pageList[pg-1]).children()[0] ).addClass('active');
+	        if(pg == 2){
+                 $j( pageListArr[pg-2] ).addClass('inactive');
+		}
+		else if( pg == lastPos-2){
+			$j( pageListArr[pg+1] ).addClass('inactive');
+            };
+        	
+	        setClass('storyContent', 'page' + (pg - 1) + ' para18');
+            
+		if (pg == lastPos - 1){
+			$j('#storyContent').removeClass('page' + (pg - 1));
+			$j(pageList).hide();
+			viewAll = true;
+		}else {
+			viewAll = false;
+		};
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+            //refresh ads
+					
+					
+                
+								Postmedia.adConfig.refreshAds(true);
+							
+              
+					
+					//omniture event
+           scStoryPageBreak((lastPos - 2),(pg - 1),viewAll);
+          }
+					
+				}
+				
+				function statsEvent(eventText)
+				{
+					//omniture event
+					s.prop38=s.pageName + eventText;
+					s.events='';
+					void(s.t());				
+				}
+
+				function showTab(firstentrytype)
+				{
+					var tab = getQueryVar('tab');
+					var tabclass = '';
+
+					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == ''))
+						tabclass = 'story_photo_content';
+					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala' || firstentrytype == 'application/vnd.kaltura') && tab == ''))
+						tabclass = 'story_video_content';
+					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == ''))
+						tabclass = 'story_interactive_content';
+
+					if (tabclass != '')
+						setClass('storypage', tabclass);
+				}
+				function EmailThis(qs, emailViewer) 
+				{
+					var url = "http://" + window.location.hostname + window.location.pathname;
+					var id = "";
+
+					id = getQueryVar("id");
+					if (id != "")
+					{
+						url = addQS(url, "id=" + id);
+					}
+					if (qs != "")
+					{
+						url = addQS(url, qs);
+					}
+					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html";
+					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380')
+				}
+				function getQueryVar(key) 
+				{
+					var qs = window.location.search.substring(1);
+					var arrQS = qs.split("&");
+					var value = "";
+
+					for (i=0; i<arrQS.length; i++) {
+						var ft = arrQS[i].split("=");
+						if (ft[0] == key) {
+							value =  ft[1];
+						}
+					}
+
+					return value;
+				}
+				function addQS(theURL, QS)
+				{
+					var url = theURL;
+					if (QS != '')
+					{
+						if (url.indexOf("?") == -1)	{
+							url += "?" + QS;
+						} 
+						else {
+							url += "%26amp;" + QS;
+						}
+					}
+					return url;
+				}
+				function openWindow(theURL, WinName, WinFeatures) {
+					window.open(theURL, WinName, WinFeatures);
+				}
+				function jumpToAnchor(anchor) 
+				{
+					window.location = String(window.location).replace(/\#.*$/, "") + anchor;
+				}
+				function showAd(story_elem, ad_elem, ad_wrapper, offset) {
+					var eosPos = Y(story_elem);
+					var adPos = Y(ad_wrapper);
+					var showAd = false;
+					var offsetPos = 0;
+					
+					if (eosPos >= adPos)
+					{
+						showAd = true;
+					}
+					else
+					{
+						offsetPos = eosPos + offset;
+						if (offsetPos >= adPos)
+						{
+							showAd = true;
+						}
+					}
+
+					// write out ad include
+					if (showAd == true)
+					{
+					   document.getElementById(ad_elem).style.display = "block"; 
+					}
+				}				
+				function X(id) {
+					var obj = document.getElementById(id);
+					var x = obj.offsetLeft
+
+					while (obj = obj.offsetParent) x += obj.offsetLeft
+					return x
+				}
+				function Y(id) {
+					var obj = document.getElementById(id);
+					var y = obj.offsetTop
+
+					while (obj = obj.offsetParent) y += obj.offsetTop
+					return y
+				}
+
+			</script>
+			<script>CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10");</script>
+
+		
+	<div id="storyheader"><div class="headline"><h1>Rally in support of women's right to go topless takes place in Waterloo, Ont.</h1></div><div class="clear"> </div><div class="subheadline"><h2></h2></div><div class="clear"> </div><div class="byline">
+<span class="name">By The Canadian Press</span>
+<span class="timestamp">August 1, 2015 8:30 PM</span>
+<span id="lblComment" class="comments"></span>
+</div><div class="clear"> </div></div>
+						
+							<!-- /story_share_bar_1.inc -->
+	
+<div class="sharebar">
+<!-- /story_share_bar_1.inc end -->
+
+						
+						
+						
+							<!-- /story_share_bar_2.inc -->
+	<div class="recomm" onclick="scSocial.logEvent(scSocial.facebookShare, 'story top');">
+		<!-- facebook_recommend_page.inc -->
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="true" data-action="recommend"></div>
+<!-- // facebook_recommend_page.inc -->
+	</div>
+<!-- /story_share_bar_2.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_3.inc -->
+	<div class="tweet" onclick="scSocial.logEvent(scSocial.twitterTweet, 'story top');">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url='http://www.vancouversun.com/business/fp/yourmoney/Rally+support+womens+right+topless+today+Waterloo/11260294/story.html'>Tweet</a>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</div>
+<!-- /story_share_bar_3.inc end -->
+						
+						
+						
+							<style>
+.sharebar .recomm {float:left;width:120px;}
+.sharebar .tweet {float:left;width:100px;}
+.sharebar .plusone {float:left;width:80px;}
+.sharebar .comment {float:left;width:120px;}
+.sharebar .pinitbutton {float:left;width:80px;}
+</style>
+
+<!-- /story_share_bar_4.inc -->
+	<div class="plusone" onclick="scSocial.logEvent(scSocial.googleShare, 'story top');">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<g:plusone size="medium" count="true"></g:plusone>
+	</div>
+	
+	<div class="pinitbutton" onclick="scSocial.logEvent(scSocial.pinterestPin, 'story top');">
+	
+	<a id="pinitbuttonid" href="" class="pin-it-button" count-layout="horizontal">
+		<img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" />
+	</a>
+		
+	</div>
+	
+	<script>
+	
+		$j(document).ready(function(){
+			var storyUrl = $j("meta[property='og:url']").attr("content");
+			var imageUrl = ($j("#story_photo").length > 0) ? $j("#story_photo").attr("src") : ($j("#storyphoto").length > 0) ? $j("#storyphoto").attr("src") : $j("meta[property='og:image']").attr("content").replace("http://"+document.domain+"/","");
+			imageUrl = "http://" + document.domain + "/" +imageUrl;
+			var storyDes = $j("meta[property='og:title']").attr("content");
+			
+			var thisisthelink = "http://pinterest.com/pin/create/button/?url=" + encodeURIComponent(storyUrl) + "&media=" + encodeURIComponent(imageUrl) + "&description=" + encodeURIComponent(storyDes);
+
+			$j(".pinitbutton a").attr("href", thisisthelink);
+			
+			js = document.createElement('script');
+			js.src = "//assets.pinterest.com/js/pinit.js";
+			js.type = 'text/javascript';
+			document.body.appendChild(js);
+		})
+		
+		
+		
+	</script>
+
+	
+<!-- /story_share_bar_4.inc end -->
+
+
+						
+						
+						
+							<!-- /story_share_bar_6.inc -->
+	<div class="share" onclick="scSocial.logEvent(scSocial.otherShare, 'story top');">
+		<span class="st_sharethis_custom"></span>
+	</div>
+</div>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+		stLight.options({
+				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5',
+				offsetLeft:'-265',
+				onhover: false,
+				embeds:'true',
+		});
+</script>
+<!-- /story_share_bar_6.inc end -->
+						
+						<div class="clear"> </div><div class="storytab"><ul class="tab"><li class="story_tab"><a href="javascript:void(0);" onClick="tabClick(' - Story Tab',false,'storypage','story_content',null, true);"><span>Story</span></a></li><li class="story_photo_tab"><a href="javascript:void(0);" onClick="tabClick(' - Photos Tab',false,'storypage','story_photo_content', null, true);"><span>Photos ( 1 )</span></a></li></ul>
+								
+									
+								
+							</div><script type="text/javascript">
+						showTab("text/html");
+					</script></div><div class="clear"> </div>
+		
+			<script type="text/javascript">
+				function resizeImage() {
+					var imgBox = document.getElementById('imageBox');
+					var photo = document.getElementById('storyphoto');
+
+					if (imgBox != null && photo != null)
+					{
+						if(photo.width >= 460) 
+						{
+							imgBox.className = 'imagesize460';
+						}
+						else 
+						{
+							if(photo.width >= 300) 
+							{
+								imgBox.className = 'imagesize310';
+							}
+							else 
+							{
+								imgBox.className = 'imageboxpadding';
+							}
+							imgBox.style.width = photo.width + 'px';
+						}
+					}
+				}
+				function getStoryFontSize() {
+					var storyfontsize = getCookie('storyfontsize');
+					var storyfontimage = getCookie('storyfontimage');
+
+					// use cookied value, if present
+					if (storyfontsize != null)
+					{
+						setClass('story_content',storyfontsize); 
+						if (storyfontimage != null)
+						{
+							setClass('fontsizecontainer',storyfontimage); 
+						}
+					}
+					else	// default it to para14 if no cookie
+					{
+						setClass('story_content','para14'); 
+						setClass('fontsizecontainer','size02');
+					}
+				}
+				function setStoryFontSize(storyfontsize,storyfontimage) {
+					setClass('story_content',storyfontsize); 
+					setClass('fontsizecontainer',storyfontimage);
+					setCookie('storyfontsize', storyfontsize, '365', '/', '', '');
+					setCookie('storyfontimage', storyfontimage, '365', '/', '', '');
+				}
+				function setCookie( name, value, expires, path, domain, secure ) {
+					// set time
+					var today = new Date();
+					today.setTime( today.getTime() );
+
+					if ( expires )
+					{
+						expires = expires * 1000 * 60 * 60 * 24; //days
+					}
+					var expires_date = new Date( today.getTime() + (expires) );
+
+					document.cookie = name + "=" + escape( value ) +
+					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+					( ( path ) ? ";path=" + path : "" ) + 
+					( ( domain ) ? ";domain=" + domain : "" ) +
+					( ( secure ) ? ";secure" : "" );
+				}
+				function getCookie( check_name ) {
+					// split this cookie up into name/value pairs
+					var a_all_cookies = document.cookie.split( ';' );
+					var a_temp_cookie = '';
+					var cookie_name = '';
+					var cookie_value = '';
+					var b_cookie_found = false; // set boolean t/f default f
+					
+					for ( i = 0; i < a_all_cookies.length; i++ )
+					{
+						// split apart each name=value pair
+						a_temp_cookie = a_all_cookies[i].split( '=' );
+						
+						// and trim left/right whitespace while we're at it
+						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+					
+						// if the extracted name matches passed check_name
+						if ( cookie_name == check_name )
+						{
+							b_cookie_found = true;
+							// we need to handle case where cookie has no value but exists (no = sign, that is):
+							if ( a_temp_cookie.length > 1 )
+							{
+								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+							}
+							// note that in cases where cookie is initialized but no value, null is returned
+							return cookie_value;
+							break;
+						}
+						a_temp_cookie = null;
+						cookie_name = '';
+					}
+					if ( !b_cookie_found )
+					{
+						return null;
+					}
+				}				
+				
+			</script>
+		
+	<div id="story_content"><div class="col_480"><div class="col_460"><div class="page1 para18" id="storyContent"><div id="imageBox"><div class="wrapper_0_10_0_0"><div class="storyimage" id=""><script>
+												jQuery(document).ready(function(){
+													jQuery("img#storyphoto.tabClick").click(function() {
+														tabClick(' - Photos Tab',false,'storypage','story_photo_content',true,true);
+													});	
+												});
+											</script><img id="storyphoto" class="thumbnail tabClick" border="0" onLoad="resizeImage();" src="cms/binary/11260879.jpg" alt="Rally in support of women's right to go topless takes place in Waterloo, Ont." title="Bare With Us Rally supporters gathered at the Waterloo Town Square in Waterloo, Ont., on Saturday, Aug. 1, 2015."></div><div class="clear"> </div><div class="imagetext"><h3 id="photocaption">Bare With Us Rally supporters gathered at the Waterloo Town Square in Waterloo, Ont., on Saturday, Aug. 1, 2015.</h3><h3 id="photocredit"><b>Photograph by: </b>Hannah Yoon
+															, THE CANADIAN PRESS</h3></div></div></div><div id="page1"><p>WATERLOO, Ont. - A rally and march organized by three sisters who were stopped by a police officer for biking topless a week ago was held Saturday in Waterloo, Ont.</p><p>Dozens of topless women — and men — attended the trio's "Bare With Us" rally at Waterloo Town Square, meant to educate the public about women's right to be topless if they so choose.</p><p>Local media reports say people were waving placards, banners and sporting body paint with messages including "everyone has the right to NOT be harassed" and "Bare With Us! They're just boobs!"</p><p>Juno-nominated musician Alysha Brilla says she and her sisters were not wearing shirts while cycling in Kitchener, Ont., on July 24 when a male officer drove up beside them and told them to cover up because it is the law.</p><p>Brilla says told the officer he was wrong, adding that when she started filming the interaction on her cellphone, the officer said he had only wanted to check if the women had proper bells and lights on their bicycles.</p><p>Ontario women have had the right to go topless in public since 1996.</p><p>A similar incident in June garnered headlines after eight-year-old Marlee McLean was told by city staff in Guelph, Ont., to cover up while she was in a wading pool wearing only a swim bottom.</p></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11260294&amp;sponsor=','StoryPrint','scrollbars=yes,toolbar=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li class="share"><span class="st_sharethis">Share this Article</span></li></ul></div></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div></div></div></div><div class="col_160"><div class="wrapper_0_20_0_0">
+						
+							
+						
+					<div class="clear"> </div><div class="clear"></div><div class="clear"> </div><div class="story_tool_vr"><div class="story_tool"><div class="section_title"><h3><span>Story Tools</span></h3></div><div class="clear"> </div><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11260294&amp;sponsor=','StoryPrint','toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li id="liComment" class="comments"></li><script>jQuery('#liComment').hide();</script></ul><div class="clear"> </div><div class="fontsize_label">Font:</div><ul id="fontsizecontainer" class="size01"><li><a href="javaScript:setStoryFontSize('para11','size00');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para12','size01');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para14','size02');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16','size03');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16C','size04');"><span>*</span></a></li></ul><script type="text/javascript">
+								// load up cookied story font size
+								getStoryFontSize();
+							</script><div class="clear"> </div><div class="imagesize_label">Image:</div><ul id="imagesizecontainer" class="size01"><li><a href="javascript:setClass('imageBox','imagesize170'); setClass('imageizecontainer','size00');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize310'); setClass('imageizecontainer','size01');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li><li><a href="javaScript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li></ul></div></div>
+						
+					   <!-- /story_spotlights.inc -->
+<br />
+<div class="section_title">
+	<h3><span>Spotlights</span></h3>
+</div>
+<!-- /national_spotlights.inc -->
+<div class="no_section_title">
+	<div id="syndication1">
+<!-- legoctl: ctl06$ctl02 --><!-- CACHE HIT: syndication1 -->
+<!-- Source="8089872.atom" --></div>
+
+</div>
+<!-- /national_spotlights.inc -->
+
+<div class="no_section_title">
+	<div id="syndication2">
+<!-- legoctl: ctl06$ctl03 --><!-- CACHE HIT: syndication2 -->
+<!-- Source="8089866.atom" --><div class="section_title">
+  <h3>
+    <span>Video</span>
+  </h3>
+</div>
+<div class="clear"> </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.vancouversun.com/entertainment/topic.html?t=topic&amp;q=Vancouver+Sun+Videos" class="">
+          <span>Watch popular Vancouver Sun Videos</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.facebook.com/vancouversun" class="">
+          <span>Follow The Vancouver Sun on Facebook</span>
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://twitter.com/#!/vancouversun" rel="nofollow">
+          <span>Follow The Vancouver Sun on Twitter</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://itunes.apple.com/ca/app/the-vancouver-sun/id406561903?mt=8" class="">
+          <span>Download the Sun's iPhone app</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://play.google.com/store/apps/details?id=com.indusblue.vancouversun&amp;feature=search_result" class="">
+          <span>Download the Sun's Android app</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://plus.google.com/101809991499815441613/posts" class="">
+          <span>Add The Vancouver Sun to your Google Plus circles</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+</div>
+<!-- /story_spotlights.inc -->
+
+					 
+					<div class="clear"> </div>
+						
+							
+						
+					</div></div></div><div id="story_photo_content"><div id="storyphoto"><div class="col_620"><div id="photoBox"><div class="clear"> </div><div class="storyimage"><img id="story_photo" class="thumbnail" border="0" src="cms/binary/11260879.jpg?size=620x400s" alt="Bare With Us Rally supporters gathered at the Waterloo Town Square in Waterloo, Ont., on Saturday, Aug. 1, 2015. Alysha Brilla and her two sisters, Tameera Mohamed and Nadia Mohamed, who were recently cycling topless when a police officer told them to cover up, organized the Bare With Us rally to help raise awareness about women's rights. THE CANADIAN PRESS/Hannah Yoon" title="Bare With Us Rally supporters gathered at the Waterloo Town Square in Waterloo, Ont., on Saturday, Aug. 1, 2015."></div><div class="clear">   </div><div class="imagetext"><h1 id="storyphotocaption">Bare With Us Rally supporters gathered at the Waterloo Town Square in Waterloo, Ont., on Saturday, Aug. 1, 2015.</h1><h2 id="storyphotocredit"><b>Photograph by: </b>Hannah Yoon, THE CANADIAN PRESS</h2></div></div><div class="clear">    </div><div class="rule_grey_solid"> </div><div class="clear"> </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('tab=PHOT','/story_emailthis.html');"><span>E-mail this Gallery</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11260294&amp;tab=PHOT&amp;sponsor=','StoryPrint','toolbar=yes,scrollbars=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Gallery</span></a></li><li class="share"><span class="st_sharethis">Share this Gallery</span></li></ul></div></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div>
+					
+						<!-- /story_photo_galleries.inc -->
+
+	<div class="section_title">
+		<h3><a href="/news/photos/index.html"><span>Photo Galleries  &#187;</span></a></h3>
+	</div>
+	<!-- title_section ends -->
+	<div class="clear">&nbsp;</div>
+
+	<div class="no_section_title">
+		<div id="syndication3" class="smallfeature">
+<!-- legoctl: ctl06$ctl04 --><!-- CACHE HIT: syndication3 -->
+<!-- Source="827595.atom" --><div class="section_title"><h3><span>More Photo Galleries</span></h3></div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/metro/Photos+Powell+Street+Festival/11261173/story.html"><img border="0" src="cms/binary/11261192.jpg?size=140x95" alt="Powell Street Festival" title="Powell Street Festival"></a><span class="photo_credit"></span></div><h3><a href="/news/metro/Photos+Powell+Street+Festival/11261173/story.html" class=""><span>Photos: Powell Street Festival</span></a></h3><p class="newscontent">The Powell Street Festival, the longest-running community...</p><ul class="morelink"><li><a href="/news/metro/Photos+Powell+Street+Festival/11261173/story.html" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/life/Video+Canadian+YouTube+sensation+LaurDIY+talks+online+fame/11258935/story.html"><img border="0" src="cms/binary/11258931.jpg?size=140x95" alt="Lauren Riihimaki of LaurDIY" title="Lauren Riihimaki of LaurDIY"></a><span class="photo_credit"></span></div><h3><a href="/life/Video+Canadian+YouTube+sensation+LaurDIY+talks+online+fame/11258935/story.html" class=""><span class="video-icon"></span><span>Video: Canadian YouTube sensation...</span></a></h3><p class="newscontent">Toronto YouTube sensation Lauren Riihimaki of LaurDIY...</p><ul class="morelink"><li><a href="/life/Video+Canadian+YouTube+sensation+LaurDIY+talks+online+fame/11258935/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="Video+Canadian+YouTube+sensation+LaurDIY+talks+online+fame+Vancouver/11258927/story.html"><span>Video: Canadian YouTube sensation LaurDIY talks online fame, DIY in Vancouver</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT"><img border="0" src="cms/binary/11260929.jpg?size=140x95" alt="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season." title="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season."></a><span class="photo_credit"></span></div><h3><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT" class=""><span>Photos: Once in a blue moon</span></a></h3><p class="newscontent">Check out photos of this month&#8217;s second full...</p><ul class="morelink"><li><a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>		</div></div>
+
+
+	</div>
+	<!-- no_section_title ends -->
+
+<div class="clear">&#160;</div>
+<div class="section_morelink">
+	<div class="featurecontent">
+		<a href="/news/photos/index.html"><span>More Photo Galleries &#187;</span></a>
+	</div>
+</div>
+<!-- morelink ends -->
+<div class="clear">&#160;</div>
+
+<!-- /story_photo_galleries.inc -->
+
+					
+				</div></div></div><div class="col_620">
+								<!-- story_end starts -->
+<!-- vs-newsletter-signups.inc -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/newsletter-signups.css" />
+
+<form name="nlsignup" class="newsletter_signup_form" method="POST" action="http://www.lists.canada.com/subscribe/subscribe.tml">
+	<h2>Get Vancouver Sun stories in your inbox</h2>
+
+	<input type="email" name="email" size="30" required="required" placeholder="Enter email address" />
+	<input type="submit" value="Subscribe Now" />
+	
+	<ul>
+		<li><input name="list" type="checkbox" value="breakingnewsalert-vancouver" /> Breaking News Alerts</li>
+		<li><input name="list" type="checkbox" value="vancouversunsports" /> Sports Newsletter (daily)</li>
+		<li><input name="list" type="checkbox" value="breakingnewsalert-vancouversports" /> Breaking Sports News Alerts</li>
+		<li><input name="list" type="checkbox" value="vancouversun-sunspots" /> Entertainment Newsletter (daily)</li>
+		<li><input name="list" type="checkbox" value="vancouversunnews" /> Top Stories Newsletter (daily)</li>
+		<li><input name="list" type="checkbox" value="vancouversun-foodwine" /> Food and Wine Newsletter (weekly)</li>
+		<li><input name="list" type="checkbox" value="vancouversun-informedopinion" /> Opinion Newsletter (daily)</li>
+		<li><input name="list" type="checkbox" value="vancouversunrun" /> Sun Run Newsletter (seasonal)</li>
+	</ul>
+	
+	<input type="hidden" name="confirm" value="one">
+	<input type="hidden" name="showconfirm" value="T">
+	<input id="nlredirect" type="hidden" name="url" value="http://www.vancouversun.com">
+</form>
+<script language="javascript" type="text/javascript">
+	document.getElementById("nlredirect").value = window.location.href;
+</script>
+
+<!-- vs-newsletter-signups.inc -->
+
+<div class="clear"></div>
+<!-- TABOOLA CODE -->
+
+<div class="clear"></div>
+<!-- no promo_story_end.inc -->
+<div class="clear"></div>
+<div id="flyertown_module_389"></div>
+<script src="http://api.flyertown.ca/389/ee8162b90e657cb4/flyertown_module.js"></script>
+<!-- story_end ends -->
+
+
+						</div></div><div class="clear" xmlns:fb="urn:facebook.com:fb"> </div><hr id="EoS" style="visibility:hidden" xmlns:fb="urn:facebook.com:fb"></div>
+
+	<!-- /includes/video_beacon.inc -->
+	<script type="text/javascript">
+		var playingAd;
+		document.write("<img id='vid1' height='1' width='1'>");
+		function videoScore(evt){
+			playingAd=evt.data.isAd;
+			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+		}
+	</script>
+<!-- /includes/video_beacon.inc -->
+
+ 
+</div>
+<!-- col_640 ends -->
+<div class="col_300">
+	
+	<!-- no /includes/promo_rightrail_top.inc -->
+	<div class="clear">&nbsp;</div>
+	<!-- <div id="relatedtopics">
+		< //cwi// :welcomesearchuser id="LEGO_welcomesearchuser" catalog="VASN" publicationname="Vancouver Sun" tagpageurl="topic.html" PlaceInDivTag="false" />
+	</div> --> 
+	<!-- relatedtopics ends --> 
+	<!-- /place_ad_story.inc -->
+	<a href="http://vancouversunandprovince.adperfect.com/?pref=skinvansun" onclick="scCustomLink('Place An Ad Click',[],['eVar23','eVar2','eVar6'],['event85']);"><img src="/images/buttons/placead_button_3.jpg"></a>
+<!-- /place_ad_story.inc -->
+	<div class="clear">&nbsp;</div>
+	<div class="bigboxwrapper"> 
+		<!-- /montrealgazette/bigboxad_story.inc -->
+	
+	<div style="text-align:center;" class="bboxContainer">
+		<!-- /ad-bigboxtop.inc -->
+<div class="ad">
+	<div id='gpt-bigboxtop' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-bigboxtop');
+		</script>
+	</div>
+</div> 
+<!-- /ad-bigboxtop.inc -->
+	</div>
+
+<!-- /montrealgazette/bigboxad_story.inc --> 
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+	<!-- /common/business/kaltura_player.inc -->
+<div class="section_title">
+	<h3><span>Business Videos</span></h3>
+</div>
+<div class="clear"></div>
+<div class="pm_player">
+	<!--PMVideo Player v2.5.5-->
+<div class="video300" style="width:300px;min-height:168px;" data-playlist-id="1_6alsnt5l">
+  <div id="Player1" itemprop="video" itemtype="http://schema.org/VideoObject" itemscope="itemscope" data-playlist-id="1_6alsnt5l">
+  </div>
+</div>
+<script type="text/javascript">  
+
+      (function () { 
+
+      var params = {	  
+       
+        playlistId: '1_6alsnt5l',        //playlistId
+        shareUrl:'http%3A%2F%2Fwww.vancouversun.com%2Fbusiness%2Ffp%2F%7BvideoId%7D%2Fvideo.html',
+        autoplay: 'false',
+      
+      targetId: 'Player1'
+      
+      };
+      var url = 'http://app.canada.com/Video/video.svc/loader/?';
+      for (var key in params) {
+        if (params[key] != '' & params[key] != 'undefined' & typeof params[key] != undefined ) {
+			    url += key + '=' + escape(params[key]) + '&';
+		    }
+      }
+      var pv = document.createElement('script'); pv.type = 'text/javascript'; pv.async = false; pv.src = url.slice(0, -1);
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pv, s);
+
+      })();
+
+    </script>
+<!--End of Kaltura Video player-->
+</div>
+<!-- /common/business/kaltura_player.inc ends -->
+
+
+	<div class="clear">&nbsp;</div>
+	<div class="nativead-right">
+		<div class="nativead"></div>
+	</div>
+	<div class="clear">&nbsp;</div>
+	<!-- no /includes/promo_rightrail_mid.inc -->
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	
+
+
+	<div class="clear">&nbsp;</div>
+	<!-- /flyertown.inc -->
+<style>
+#flyertown_sidebar_widget div.heading { padding: 10px 5px 9px 5px !important; text-align: right !important; }
+
+</style>
+<div class="clear">&nbsp;</div>
+<div class="wrapper_0_0_10_0">
+<div id="flyertown_sidebar_widget"></div>
+</div>
+<script src="http://api.flyertown.ca/8/ee8162b90e657cb4/flyertown_sidebar_widget.js"></script>
+<!-- /flyertown.inc -->
+	<div class="clear">&nbsp;</div>
+	<!-- no taipromo.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<!-- shaw widget -->
+	 
+	<!-- shaw widget -->
+	<div class="clear">&nbsp;</div>
+	 <!-- /hotphotostabs.inc -->
+ <div id="hotphoto">
+  <div class="hotphotowrapper">
+    <div class="clear">&nbsp;</div>
+    <div class="section_title">
+      <h3><span>Hot photos and videos</span></h3>
+    </div>
+    <!-- title_section ends -->
+    <div class="clear">&nbsp;</div>
+    <div class="hotphotocontent">
+      <div class="tab_id_01" id="hotphoto-tabs">
+        <div class="textheadlines">
+          <div class="sectiontab">
+            <ul class="tab">
+              <li class="tab01"><a href="javascript:setClass('hotphoto-tabs','tab_id_01');"><span>News</span></a></li>
+              <li class="tab02"><a href="javascript:setClass('hotphoto-tabs','tab_id_02');"><span>Sports</span></a></li>
+              <li class="tab03"><a href="javascript:setClass('hotphoto-tabs','tab_id_03');"><span>Entertainment</span></a></li>
+              <li class="tab04"><a href="javascript:setClass('hotphoto-tabs','tab_id_04');"><span>Business</span></a></li>
+            </ul>
+            <!-- tab ends -->
+          </div>
+          <!-- sectiontab ends -->
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div id="hotphotopictures"> </div>
+        <div class="clear">&nbsp;</div>
+        <div class="section_morelink">
+          <div class="featurecontent"> <a href="/news/photos/index.html"><span>More photos &#187;</span></a> </div>
+          <!-- featurecontent ends -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- hotphotowrapper ends -->
+</div>
+<!-- hotphotostabs.inc ends -->
+ 
+	 <!-- /includes/hotphotostabs_story.inc -->
+<script type="text/javascript">
+  var pmHotWidgetsections=["news","sports","entertainment","videos"];
+  var pmHotWidgetinit="news";
+  for (var x = 0; x < pmHotWidgetsections.length; x++) {
+			if(document.body.getAttribute('class').toLowerCase().indexOf(pmHotWidgetsections[x])>=0){
+				pmHotWidgetinit=pmHotWidgetsections[x];
+				break;
+			}
+  		}
+  	pmHotWidget.create(pmHotWidgetinit);
+  </script>
+	
+<!-- /includes/hotphotostabs_story.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<!--/mostpopular.inc -->
+
+ <div class="tabbox_300">
+    <div class="top">
+      <div class="section_title">
+        <h3><span>Most Popular - Business</span></h3>
+      </div>
+      <!-- section title ends -->
+    </div>
+    <!-- top ends -->
+    <div class="center">
+		
+		<div id="mostpopular" class="tab_id_01">
+					<div class="textheadlines">
+						<div class="sectiontab">
+							<ul class="tab">
+								<li class="tab01"><a href="javascript:setClass('mostpopular','tab_id_01');"><span>Most Read</span></a></li>
+								<li class="tab02"><a href="javascript:setClass('mostpopular','tab_id_02');"><span>E-mailed</span></a></li>
+								<li class="tab03"><a href="javascript:setClass('mostpopular','tab_id_03');"><span>Shared </span></a></li>
+							</ul>
+							<!-- tab ends -->
+						</div>
+						<!-- sectiontab ends -->
+						<div class="clear">&nbsp;</div>
+						<div class="content content_01">
+							<div id="syndication11">
+<!-- legoctl: ctl08 --><!-- CACHE HIT: syndication11 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story&tag=business" --><ul class="bullet">
+  <li>
+    <a href="/sports/Vancouver+hotel+market+heats+American+visitors+return/11258723/story.html" class="">
+      <span>Vancouver hotel market heats up as American visitors return</span>
+    </a>
+  </li>
+  <li>
+    <a href="/sports/Douglas+Todd+Five+problems+with+Metro+Vancouver+housing+debate/11258650/story.html" class="">
+      <span>Douglas Todd: Five problems with Metro Vancouver’s housing debate</span>
+    </a>
+  </li>
+  <li>
+    <a href="/sports/City+harbour+comes+alive+with+summer+seekers/11259307/story.html" class="">
+      <span>City harbour comes alive with summer fun seekers</span>
+    </a>
+  </li>
+  <li>
+    <a href="/sports/Cayo+Free+debt+perhaps+Many+young+optimists+surprise/11259312/story.html" class="">
+      <span>Don Cayo: Free of debt by age 39? Or perhaps by 56? Many young optimists may be in for a surprise</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/sports/most-popular-articles.html">
+    <span>more</span>
+  </a> »
+		</div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_02">
+							<div id="syndication12">
+<!-- legoctl: ctl09 --><!-- CACHE HIT: syndication12 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=email&tag=business" --><ul class="bullet">
+  <li>
+    <a href="/Douglas+Todd+Five+problems+with+Metro+Vancouver+housing+debate/11258650/story.html" class="">
+      <span>Douglas Todd: Five problems with Metro Vancouver’s housing debate</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/sports/most-popular-articles.html">
+    <span>more</span>
+  </a> »
+		</div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_03">
+							<!-- cwi:syndication source="/scripts/mostpopular.aspx?stattype=comment&tag=business" template="MostPopular" MoreViewer="/sports/most-popular-articles.html" MoreTitle="more" StartAtDoc="1" maxdocs="6" viewer="/story.html" / -->
+							<!-- facebook_widget_activity.inc -->
+<div class="fb-activity" data-href="http://www.vancouversun.com" data-width="300" data-height="300" data-header="false" data-recommendations="true"></div>
+<!-- // facebook_widget_activity.inc -->
+							 <!-- <div id="mostCommented"></div> -->
+							
+						</div>
+						<!-- content ends -->
+					</div>
+					<!-- textheadlines ends -->
+				</div>
+				<!-- mostpopular ends -->
+				<div class="clear">&nbsp;</div>
+				<!--/sponsor_hr.inc -->
+
+				<div class="sponsor_hr">
+					<div class="sponsor">
+						<div class="label">
+							<span>Sponsored By</span>
+						</div>
+						<div class="logo">
+							<!-- cwi:dartad Loc="sponsor,top" sz="80x30" / -->
+						</div>
+					</div>
+					<!-- sponsor ends-->
+				</div>
+				<!-- sponsor_hr ends-->
+
+<!--/sponsor_hr.inc -->
+    	</div>
+    	<!-- center ends -->
+	<div class="clear">&nbsp;</div>
+    <div class="bottom">&nbsp;</div>
+    <!-- bottom ends -->
+  </div>
+  <!-- tabbox_300 ends -->
+
+<!--/mostpopular.inc -->
+	<div class="clear">&nbsp;</div>
+	<div class="clear">&nbsp;</div>
+<div class="fb-like-box" data-href="https://www.facebook.com/VancouverSun" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+
+	<div class="clear">&nbsp;</div>
+	<div class="wrapper_10_0_0_0">
+<a href="https://twitter.com/VancouverSun" class="twitter-follow-button" data-show-count="false" data-size="large" data-width="300px">Follow @VancouverSun</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+	<div class="clear">&nbsp;</div>
+	 
+		<!--/includes/breaking_news_alert.inc -->
+
+    <div id="newsalert">
+      <div class="section_title">
+        <h3><span>Breaking News Alerts</span></h3>
+      </div>
+      <!-- section_title ends -->
+      <div class="clear">&nbsp;</div>
+      <div class="alerttype"> <span>Sign up to receive e-mail alerts on breaking news from The Vancouver Sun.</span> </div>
+      <div class="clear">&nbsp;</div>
+      <form name="vancouvernewsalertsubscribeform" method="POST" action="http://members.canada.com/scripts/subscribe.aspx">
+        <input type="hidden" name="returnurl" value="http://www.vancouversun.com/about-vancouver-sun/thankyou.html">
+        <input type="hidden" name="errorurl" value="http://www.vancouversun.com/about-vancouver-sun/error.html">
+        <input type="hidden" name="newsletter" value="breakingnewsalert-vancouver">
+        <input name="email" type="text" class="input_alert">
+        <div class="col_80">
+          <div class="submitbutton"> <a href="Javascript:void(1);" onclick="Javascript:document.vancouvernewsalertsubscribeform.submit();"><span>Submit</span></a> </div>
+          <!-- submitbutton ends -->
+        </div>
+        <!-- col_80 ends-->
+      </form>
+      <div class="clear">&nbsp;</div>
+      <ul class="bullet">
+        <li> <a href="http://www.canada.com/aboutus/privacy.html" target="_blank"><span>Our Privacy Statement</span></a> </li>
+      </ul>
+    </div>
+    <!-- newsalert ends -->
+    
+<!--/includes/breaking_news_alert.inc -->
+ 
+	
+	<div class="clear">&nbsp;</div>
+			<!--/storycontent.inc -->
+		<div class="section_title">
+				<h3><a href="/index.html"><span>more business headlines &#187;</span></a></h3>
+		</div>
+		<!-- section_title ends -->
+		<div class="no_section_title">
+				<div id="syndication13">
+<!-- legoctl: ctl10 --><!-- CACHE HIT: syndication13 -->
+<!-- Source="901016.atom" --><div class="section_title"><h3><span>Latest updates</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/business/fp/Canada+economy+shrinks+fifth+month/11257693/story.html"><img border="0" src="cms/binary/11257694.jpg?size=90x60" alt="canflagtatt" title="canflagtatt"></a><span class="photo_credit"></span></div><h3><a href="/business/fp/Canada+economy+shrinks+fifth+month/11257693/story.html" class=""><span>Canada’s economy shrinks for fifth month in row</span></a></h3><p class="newscontent">Canada's GDP fell 0.2% in May, the fifth consecutive monthly decrease</p><ul class="morelink"><li><a href="/business/fp/Canada+economy+shrinks+fifth+month/11257693/story.html" class=""><span>more »</span></a></li></ul><span class="timestamp"></span><br><span class="comments"><a href="/business/fp/Canada+economy+shrinks+fifth+month/11257693/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11257693"></span>)
+				</a></span></div></div><div class="clear"> </div></div>
+
+				<div id="syndication14">
+<!-- legoctl: ctl11 --><!-- CACHE HIT: syndication14 -->
+<!-- Source="901016.atom" --><div class="section_title">
+  <h3>
+    <span>Local updates</span>
+  </h3>
+</div>
+<div class="clear"> </div>
+<div id="textlinks_timestamp" class="textlinks_timestamp">
+  <div class="featurecontent">
+    <div class="col_content">
+      <div class="headline">
+        <h3>
+          <a href="/business/fp/Home+Capital+shares+surge+after+company+provides+additional+details/11254729/story.html" class="">
+            <span>Home Capital shares surge after company  provides additional details about mortgage fraud allegations</span>
+          </a>
+        </h3>
+      </div>
+      <div class="clear"> </div>
+      <div class="content">
+        <span class="timestamp"></span>
+        <div class="clear"> </div>
+        <span class="comments">
+          <a href="/business/fp/Home+Capital+shares+surge+after+company+provides+additional+details/11254729/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11254729"></span>)
+				</a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="clear"> </div>
+  <div class="featurecontent">
+    <div class="col_content">
+      <div class="headline">
+        <h3>
+          <a href="/business/fp/short+sellers+building+front+their+Canadian+stocks/11246828/story.html" class="">
+            <span>How short sellers are building up a new front in their war on Canadian stocks</span>
+          </a>
+        </h3>
+      </div>
+      <div class="clear"> </div>
+      <div class="content">
+        <span class="timestamp"></span>
+        <div class="clear"> </div>
+        <span class="comments">
+          <a href="/business/fp/short+sellers+building+front+their+Canadian+stocks/11246828/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11246828"></span>)
+				</a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="clear"> </div>
+  <div class="featurecontent">
+    <div class="col_content">
+      <div class="headline">
+        <h3>
+          <a href="/business/fp/Goldcorp+slashes+dividend+amid+rough+gold+market/11254397/story.html" class="">
+            <span>Goldcorp Inc slashes dividend 60% amid rough gold market</span>
+          </a>
+        </h3>
+      </div>
+      <div class="clear"> </div>
+      <div class="content">
+        <span class="timestamp"></span>
+        <div class="clear"> </div>
+        <span class="comments">
+          <a href="/business/fp/Goldcorp+slashes+dividend+amid+rough+gold+market/11254397/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11254397"></span>)
+				</a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="clear"> </div>
+</div></div>
+
+		</div>
+		<!-- no_section_title ends -->
+		<!--/storycontent.inc -->
+	<div class="clear">&nbsp;</div>
+	<div id="bigboxwrapperlower" class="bigboxwrapper"> 
+		<!-- /montrealgazette/bigboxadlower_story.inc -->
+
+	<div id="bigboxlower" style="text-align:center;" class="bboxContainer">
+		<!-- /ad-bigboxbot.inc -->
+<div class="ad">
+	<div id='gpt-bigboxbot' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-bigboxbot');
+		</script>
+	</div>
+</div>
+<!-- /ad-bigboxbot.inc -->
+	</div>
+
+<!-- /montrealgazette/bigboxadlower_story.inc --> 
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+	
+<iframe src="/business/ratesupermarket.html" width="300px" height="400px" scrolling="no" frameborder="0">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+	<div class="clear">&nbsp;</div>
+	<!-- /business/story_bottom_content.inc -->
+
+	<div class="business_wire">
+		<div class="section_title">
+			<h3><a href="http://www.businesswire.com/portal/site/vancouversun/"><span>FP Business Wire &#187;</span></a></h3>
+		</div>
+		<!-- section_title ends --> 
+	</div>
+	<!-- business_wire ends -->
+	<div class="clear">&nbsp;</div>
+	<div class="no_section_title">
+		<div class="textheadlines">
+		<div id="syndication15">
+<!-- legoctl: ctl12 --><!-- CACHE HIT: syndication15 -->
+<!-- Source="http://feed.businesswire.com/rss/vancouversun/?rss=G1QFDERJXkJcFVtXXw==" --><div class="section_title">
+  <h3>
+    <span>FP Business Wire</span>
+  </h3>
+</div>
+<div class="clear"> </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.businesswire.com/news/vancouversun/20150731005890/en/Renewable-Energy-Group-Acquire-Imperium-Renewables" class="">
+          <span>Renewable Energy Group to Acquire Imperium Renewables</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.businesswire.com/news/vancouversun/20150731005876/en/Walton-Westphalia-Development-Corporation-Announces-Approval-Shareholders" class="">
+          <span>Walton Westphalia Development Corporation Announces Approval by Shareholders of Vertical Development on the Westphalia Property</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.businesswire.com/news/vancouversun/20150731005652/en/Coveris-Host-Management-Call-Discuss-Quarter-2015" class="">
+          <span>Coveris to Host Management Call to Discuss Second Quarter 2015 Results</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+		</div>
+	</div>
+
+<!-- /business/story_bottom_content.inc -->
+	<div class="clear">&nbsp;</div>
+	
+</div>
+<!-- col_300 ends -->
+<div class="clear">&nbsp;</div>
+<!--include file="googlestoryad.inc" -->
+<div class="clear">&nbsp;</div>
+<!-- /footerfeature.inc -->
+
+<div id="footerfeature" class="footerfeature">
+	<div class="footer_title">
+		<span class="start_quote">&nbsp;</span>
+		<span class="title">Inside The Vancouver Sun</span>
+		<span class="end_quote">&nbsp;</span>
+	</div>
+    <!-- footer_title ends -->
+	<div class="clear">&nbsp;</div>
+		 <div id="syndication16">
+<!-- legoctl: ctl13 --><!-- CACHE HIT: syndication16 -->
+<!-- Source="950769.atom" --><script>
+			   CDMScriptManager.load("/js/slider.js");
+			</script>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_LeftNav">
+  <div class="nav" id="FooterFeature_2_LeftNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_LeftNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/left_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<div class="contentwrapper" style="overflow:hidden;position:relative;float:left;" id="FooterFeature_2_Window">
+  <div style="position:relative;" id="FooterFeature_2_Content">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_0">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT">
+                    <img border="0" src="cms/binary/11260929.jpg?size=140x95" alt="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season." title="In this handout provided by the National Aeronautics and Space Administration (NASA), a second full moon for the month of July rises behind the dome of the U.S. Capitol on July 31, 2015 in Washington, DC. In recent years, people have been using the name Blue Moon for the second of two full moons in a single calendar month. An older definition of Blue Moon is that it is the third of four full moons in a single season.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://www.vancouversun.com/search/Photos+Blue+moon+around+world/11260924/story.html?tab=PHOT" class="">
+                    <span>
+                      <span>Photos: Once in a blue moon</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/Video+Politics+this+week+surprise+cabinet+shuffle+TransLink/11258237/story.html">
+                    <img border="0" src="cms/binary/11183865.jpg?size=140x95" alt="Transit users queue to board a Coast Mountain bus at the Surrey Central exchange. Voters on both sides of the transit referendum agree that changes are needed to make TransLink function better." title="Transit users queue to board a Coast Mountain bus at the Surrey Central exchange. Voters on both sides of the transit referendum agree that changes are needed to make TransLink function better.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/Video+Politics+this+week+surprise+cabinet+shuffle+TransLink/11258237/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: B.C. Politics this week – surprise cabinet shuffle, TransLink, education and health firings</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/Video+allegedly+drunk+rescued+from+North+Vancouver+crane/11258102/story.html">
+                    <img border="0" src="cms/binary/11257869.jpg?size=140x95" alt="north vancouver crane" title="north vancouver crane">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/Video+allegedly+drunk+rescued+from+North+Vancouver+crane/11258102/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Six allegedly drunk men rescued from North Vancouver crane</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/entertainment/Video+Vancouver+Studio+Records+first+record+store+North/11251967/story.html">
+                    <img border="0" src="cms/binary/11251963.jpg?size=140x95" alt="Studio Records on Granville Street" title="Studio Records on Granville Street">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/entertainment/Video+Vancouver+Studio+Records+first+record+store+North/11251967/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Vancouver's Studio Records first record store in North America to have a liquor license</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/sports/football/lions/Photos+Lions+Bombers/11256068/story.html">
+                    <img border="0" src="cms/binary/11256051.jpg?size=140x95" alt="Winnipeg Blue Bombers’ Justin Veltung (19) runs in the touchdown against Cord Parks (26) and the B.C. Lions." title="Winnipeg Blue Bombers’ Justin Veltung (19) runs in the touchdown against Cord Parks (26) and the B.C. Lions.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/sports/football/lions/Photos+Lions+Bombers/11256068/story.html" class="">
+                    <span>
+                      <span>Photos: Lions and Bombers</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/metro/Video+Interview+with+mother+youngest+child+sexually+abused/11256047/story.html">
+                    <img border="0" src="cms/binary/11256045.jpg?size=140x95" alt="J.P." title="J.P.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/metro/Video+Interview+with+mother+youngest+child+sexually+abused/11256047/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Interview with J.P., mother of youngest child who was sexually abused</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/Photos+Fireworks+light+Vancouver+night/11253033/story.html?tab=PHOT">
+                    <img border="0" src="cms/binary/11253044.jpg?size=140x95" alt="People gather around English Bay to watch as Brazil shows off its fireworks during the Honda Celebration of Light in Vancouver on July 29, 2015." title="People gather around English Bay to watch as Brazil shows off its fireworks during the Honda Celebration of Light in Vancouver on July 29, 2015.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://www.vancouversun.com/Photos+Fireworks+light+Vancouver+night/11253033/story.html?tab=PHOT" class="">
+                    <span>
+                      <span>Photos: Fireworks light up Vancouver night sky</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/life/Garden+Serenely+Japanese+Vancouver/11254939/story.html?tab=PHOT">
+                    <img border="0" src="cms/binary/11254948.jpg?size=140x95" alt="A stone lantern element in a Japanese garden designed by Yas Kato of Earth Sculptors." title="A stone lantern element in a Japanese garden designed by Yas Kato of Earth Sculptors.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://www.vancouversun.com/life/Garden+Serenely+Japanese+Vancouver/11254939/story.html?tab=PHOT" class="">
+                    <span>
+                      <span>Photos: Vancouver's gorgeous private Japanese gardens</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/Video+sharing+Vancouver+more+cars+steets/11252428/story.html">
+                    <img border="0" src="cms/binary/11252427.jpg?size=140x95" alt="car sharing" title="car sharing">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/Video+sharing+Vancouver+more+cars+steets/11252428/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Car sharing in Vancouver</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/news/metro/Crews+dealing+with+several+businesses+fire+Port+Coquitlam/11254744/story.html?tab=PHOT">
+                    <img border="0" src="cms/binary/11254761.jpg?size=140x95" alt="Poco fire" title="Poco fire">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://www.vancouversun.com/news/metro/Crews+dealing+with+several+businesses+fire+Port+Coquitlam/11254744/story.html?tab=PHOT" class="">
+                    <span>
+                      <span>Photos: Fire crews battle Port Coquitlam blaze</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_RightNav">
+  <div class="nav" id="FooterFeature_2_RightNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_RightNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/right_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<script language="javascript">
+
+		var FooterFeature_2_Object = null;
+                jQuery(function() {
+			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);
+
+			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ;
+			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ;
+		});
+	    </script></div>
+
+		 <div class="clear">&nbsp;</div>
+</div>
+
+<!-- /footerfeature.inc -->
+<div class="clear">&nbsp;</div>
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cCzF5auuSr35fradbiUt4I&s=132"></script>
+
+					
+					<div class="clear">&nbsp;</div>
+					<!-- /sub-promo.inc -->
+	<a id="sub-promo" href="http://www.vancouversun.com/subscribe/index.html?cid=PM|Footer|SubAc|VS"><img src="/images/Subscribe_Footer_940x210_VS.jpg" title="Subscribe to The Vancouver Sun and stay connected your way" alt="Subscribe to The Vancouver Sun and stay connected your way" border="0" /></a>
+<!-- /sub-promo.inc -->
+
+				</div>
+				<!-- bodywrapper ends -->
+			</div>
+			<!-- contentbody ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="footer">
+				<!-- /footer.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<div id="footer">
+		<div class="footer_top">
+			<ul class="footer_list_top">
+				<li><a href="/index.html" rel="nofollow"><span>Home</span></a></li>
+				<li><a href="/news/index.html" rel="nofollow"><span>News</span></a></li>
+				<li><a href="/opinion/index.html" rel="nofollow"><span>Opinion</span></a></li>
+				<li><a href="/business/index.html" rel="nofollow"><span>Business</span></a></li>
+				<li><a href="/sports/index.html" rel="nofollow"><span>Sports</span></a></li>
+				<li><a href="/entertainment/index.html" rel="nofollow"><span>Entertainment</span></a></li>
+				<li><a href="/life/index.html" rel="nofollow"><span>Life</span></a></li>
+				<li><a href="/health/index.html" rel="nofollow"><span>Health</span></a></li>
+				<li><a href="/technology/index.html" rel="nofollow"><span>Technology</span></a></li>
+				<li><a href="/travel/index.html" rel="nofollow"><span>Travel</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home" rel="nofollow"><span>Jobs</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.driving.ca/" rel="nofollow" target="_blank"><span>Driving</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.househunting.ca/vancouversun" rel="nofollow"><span>Homes</span></a></li>
+				<li class="footerclassifieds"><a href="http://classifieds.vancouversun.com" rel="nofollow"><span>Classifieds</span></a></li>
+			</ul>
+		</div>
+		<!-- footer_top ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="wrapper_0_10_0_10">
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Don't Miss</span></h3></div></li>
+					</ul>
+					<div id="syndication17">
+<!-- legoctl: ctl14 --><!-- CACHE HIT: syndication17 -->
+<!-- Source="828008.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.vancouversun.com/entertainment/topic.html?t=topic&amp;q=Vancouver+Sun+Videos" class="">
+      <span>Video</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/life/wine-growers/index.html" class="">
+      <span>Winegrowers</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=adoption+series" class="">
+      <span>Adoption series</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/sports/pan-am/index.html" class="">
+      <span>Pan Am Games</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=Richmond+series" class="">
+      <span>Richmond series</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=topic&amp;q=baby+names+series" class="">
+      <span>Baby names</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/topic.html?t=keyword&amp;q=affordability" class="">
+      <span>Affordability</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/simon-fraser-university/index.html" class="">
+      <span>SFU</span>
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.sunwinecritic.com/" rel="nofollow">
+      <span>Wine Critic</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/business/business-of-auto/index.html" class="">
+      <span>Auto</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> »
+		</div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Most Popular</span></h3></div></li>
+					</ul>
+					<div id="syndication18">
+<!-- legoctl: ctl15 --><!-- CACHE HIT: syndication18 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="/Upgrades+highway+critical+says+ministry+after+crash/11258894/story.html" class="">
+      <span>Upgrades to highway are 'critical', says B.C. ministry after bus crash</span>
+    </a>
+  </li>
+  <li>
+    <a href="/stories+tells+Taylor+Swift+career+owes+much+carefully+controlled+narrative/11258060/story.html" class="">
+      <span>The stories she tells: Taylor Swift’s career owes much to a carefully controlled narrative</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Confusion+miscommunication+slowed+Vancouver+fuel+spill+response+report/11257965/story.html" class="">
+      <span>'Confusion', 'miscommunication' slowed Vancouver fuel spill response: report</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span></span>
+  </a> »
+		</div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Formats</span></h3></div></li>
+						<li><a href="/about-vancouver-sun/sitemap.html"><span>Sitemap / RSS</span></a></li>
+						<li><a href="http://vancouversun.com/contests/"><span>Contests</span></a></li>
+						<li><a href="/opinion/blogs/index.html"><span>Blogs</span></a></li>
+						<li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+						<li><a href="/news/photos/index.html"><span>Photo Galleries</span></a></li>
+						<li><a href="/mobile-site/"><span>Mobile</span></a></li>
+						<li><a href="http://itunes.apple.com/ca/app/the-vancouver-sun/id406561903?mt=8" target="_blank"><span>iPad App</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Vancouver Sun</span></h3></div></li>
+						<li><a href="/about-vancouver-sun/aboutus.html"><span>About Us</span></a></li>
+						<li><a href="/about-vancouver-sun/contactus.html"><span>Contact Us</span></a></li>
+						<li><a href="http://www.sunprovince.com/"><span>Advertise with Us</span></a></li>
+						<li><a href="http://www.vancouversun.com/subscribe/" rel="nofollow"><span>Subscribe</span></a></li>
+						<li><a href="http://www.vancouversun.com/nie/index.html"><span>Newspaper in Education</span></a></li>
+						<li id="subscriber_services"><a href="http://vancouversun.com/estore/index.html"><span>E-store</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_300">
+				<ul class="footer_list_middle">
+					<li><div class="section_title"><h3><span>Tools</span></h3></div></li>
+					<li>
+						<div class="formsearchbar">
+							<form name="searchform" onSubmit="footerSearch();return false;">
+								<input type="text" id="f" name="f" maxlength="1024" onclick="this.value='';" onblur="this.value=!this.value?'Search vancouversun.com...':this.value;" value="Search vancouversun.com..." />
+								<div class="formbutton">
+									<a class="" href="Javascript:void(1);" onClick="footerSearch();"><span>Search</span></a>
+								</div>
+							</form>
+							<!-- formbutton ends -->
+						</div>
+						<!-- formsearchbar ends -->
+					</li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<div class="col_160">
+					<div class="col_140">
+						<ul class="footer_list_middle">
+							<li><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home" rel="nofollow"><span>Search for a Job</span></a></li>
+							<li><a href="http://driving.kijiji.ca/" rel="nofollow" target="_blank"><span>Buy/Sell a Car</span></a></li>
+							<li><a href="http://www.househunting.ca/vancouversun/sale-and-rent/index.html" rel="nofollow"><span>Real Estate Listings</span></a></li>
+							<!-- li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn?_SWCATID=10149607&_TRK=061" target="_blank" rel="nofollow"><span>SwarmJam Sweet Deals</span></a></li -->
+						</ul>
+					</div>
+					<!-- col_140 ends -->
+				</div>
+				<!-- col_160 ends -->
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><a href="http://vancouversunandprovince.adperfect.com/?pref=skinvansun"><span>Place a Classified Ad</span></a></li>
+						<li><a href="/news/email-alerts.html" rel="nofollow"><span>E-mail Alerts</span></a></li>
+						<li><a href="http://www.flyercity.ca/?p=vancouversun&locale=en&utm_campaign=pm_nav-bar&utm_source=nav-bar&utm_medium=nav-bar&utm_term=Vancouver%20Sun" rel="nofollow"><span>Flyercity.ca</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_300 ends -->
+		</div>
+		<!-- wrapper_0_10_0_10 ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="rule">&nbsp;</div>
+		<div class="clear">&nbsp;</div>
+		<div class="footer_bottom">
+			<ul class="footer_list_bottom">
+				<li class="footer_canadacom no_background"><a href="http://www.canada.com" rel="nofollow"><span>canada.com Logo</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/index.html"><span>About canada.com</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/privacy.html"><span>Privacy Statement</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/termsofservice.html"><span>Terms</span></a></li>
+				<li class="no_background"><a href="http://www.canada.com/aboutus/copyright.html"><span>Copyright &amp; Permissions</span></a></li>
+				<li class="footer_copyright no_background">
+					&copy; 2010 - 2015 Postmedia Network Inc. All rights reserved.
+					<div class="clear">&nbsp;</div>
+					Unauthorized distribution, transmission or republication strictly prohibited.
+				</li>
+			</ul>
+		</div>
+		<!-- footer_bottom ends -->
+	</div>
+	<!-- footer ends -->
+	<div class="clear">&nbsp;</div>
+	<script language="javascript">
+		function footerSearch() {
+			var q = document.getElementById("f").value.replace(/ /g,"+");
+			if (q.length == 0) {
+				alert("Please enter your search criteria");
+				return;
+			}
+			var dname = document.domain; 
+			if ( dname=="driving.ca") {
+				document.location.href="http://www.driving.ca/vancouversun/search/search.html?q=" + escape(q);
+				}
+			else {
+				document.location.href="/search/search.html?q=" + escape(q);
+			}
+		}
+	</script>
+	<script language="javascript">
+		document.getElementById("f").value = document.getElementById("q").value;
+	</script>
+
+<!-- /footer.inc -->
+
+			</div>
+			<!-- footer ends -->
+
+		</div>
+		<!-- pagewrapper ends -->
+	</div>
+	<!-- page ends -->
+
+	<img src="http://leadback.advertising.com/adcedge/lb?site=695501&betr=sunsitert_cs=[+]1[720],3[8760]" width="1" height="1" border="0">
+	<!-- /chartbeat-analytics.inc -->
+
+<!-- chartbeat Added on Feb09/11 � local request- var _sf_startpt in header  -->
+<!-- updated with new code on Aug22/11 -->
+
+<script type='text/javascript'>
+                /**Postmedia values**/
+                var chartbeatPath = window.location.pathname.split( '/' );
+                var chartbeatpage = chartbeatPath[chartbeatPath.length-1].substring(0,chartbeatPath[chartbeatPath.length-1].lastIndexOf('.'));
+                var sectionName = '';
+                var authorName = '';
+    
+                if (chartbeatPath[1].lastIndexOf('.')==-1)
+                sectionName = chartbeatPath[1];
+
+                if (chartbeatpage == 'story')
+                authorName = $j('#storyheader .name').text();
+                
+                /**Chartbeat values**/
+                var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 3498;
+    _sf_async_config.domain = 'postmedia.com';
+    _sf_async_config.sections = 'vancouversun.com';          //This to your Section name  
+    _sf_async_config.authors = authorName;        //This to your Author name  
+	_sf_async_config.videoPageGroups = 'true';
+                
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+			'js/chartbeat_video.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+</script>
+
+<!-- start measure.ly tracking -->
+<script src="http://lsa-staging.elasticbeanstalk.com/lsa-dynamic.js"></script>
+<!-- end measure.ly tracking -->
+
+
+<!-- /chartbeat-analytics.inc -->
+
+	<!-- sliceplayer.inc start -->
+<!--PMVideo SlicePlayer v1.2--><script type="text/javascript" src="http://app.canada.com/Video/video.svc/GetSlicePlayer/?parentClass=story_content"></script><!--End of SlicePlayer-->
+<!-- sliceplayer.inc end -->
+
+<form name="frmPage" method="post" action="story.html" id="frmPage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM2MjgyMTc3N2RklIHc+UtVXQM/WZ8W+YTIzlRfB+c=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3AF912A7" /></form>
+                            <!-- Begin GAT Tag -->
+                            <script type='text/javascript'>
+                                var _gaq = _gaq || [];
+                                _gaq.push(['_setAccount', 'UA-24419597-9']);
+                                _gaq.push(['_setDomainName', 'vancouversun.com']);
+                                _gaq.push(['_trackPageview']);
+                                (function() {
+                                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                                })();
+                            </script>
+                            <!-- End GAT Tag -->
+                        
+                        <!-- Begin comScore Tag -->
+                        <script>
+                            var _comscore = _comscore || [];
+                            _comscore.push({ c1: '2', c2: '10276888' });
+                            (function() {
+                                var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+                                s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+                                el.parentNode.insertBefore(s, el);
+                            })();
+                        </script>
+                        <noscript>
+                            <img src='http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1' />
+                        </noscript>
+                        <!-- End comScore Tag -->
+                        <!-- SiteCatalyst code version: H.25.4.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/global_s_code.js?v3'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js?v3'></script>
+                
+                            <script language='JavaScript' type='text/javascript'>
+                            <!--
+                            /* You may give each page an identifying name, server, and channel on
+                            the next lines. */
+                            s.pageName='/business/fp/yourmoney/story.html';
+                            s.server=window.location.hostname.toLowerCase();
+                            s.channel='business';
+                            s.pageType='';                            
+                            s.prop2='business/fp/yourmoney';
+                            s.prop3='postmedia';
+                            s.prop4='Non-Registered';
+                            s.prop6='Metered Content';
+                            s.prop7='THE CANADIAN PRESS';
+                            s.prop8='11260294';
+                            s.prop10='';
+                            s.prop11='';
+                            s.prop13='';
+                            s.prop23=document.title;
+                            s.prop25='story';
+                            s.prop27='business/fp';  
+                            s.prop28='business/fp/yourmoney'; 
+                            s.prop29='';
+                            s.prop36='National||100~Alysha Brilla||72'; 
+                            s.prop37='';
+							s.prop48='The Canadian Press, THE CANADIAN PRESS';
+							s.events='event45';
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><img src='http://canwest.112.2o7.net/b/ss/canwestglobal,canvancouver/1/H.25.4--NS/O' alt='' width='1' height='1' border='0' /></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.25.4. -->
+                        <!-- Google Code for Remarketing Tag -->
+                        <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+                        <script type="text/javascript">
+                            /* <![CDATA[ */
+                            var google_conversion_id = 990309138;
+                            var google_custom_params = window.google_tag_params;
+                            var google_remarketing_only = true;
+                            /* ]]> */
+                        </script>
+                        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+                        <noscript>
+                            <div style="display:inline;">
+                                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+                            </div>
+                        </noscript></body>
+</html>
+<!-- WPGPDWEB86 687 -->

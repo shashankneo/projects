@@ -1,0 +1,3784 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+     
+        <script type="text/javascript">
+            var pageTypeId = '7';
+            var pageTypeOfCategory = '1'
+            function isMobile() {
+
+                var mobiles = ["midp", "240x320", "blackberry", "netfront", "nokia", "panasonic", "portalmmm", "sharp", "sie-", "sonyericsson", "symbian", "windows ce", "benq", "mda", "mot-", "opera mini", "philips", "pocket pc", "sagem", "samsung", "sda", "sgh-", "vodafone", "xda", "palm", "iphone", "ipod", "android", "ipad", "mobile", "tablet", "iemobile", "opera mobi"];
+                var uagent = navigator.userAgent.toLowerCase();
+                var ismobile = false;
+
+                if (uagent.indexOf("windows nt") != -1)
+                    return false;
+
+                for (var i = 0; i < mobiles.length; i++) {
+                    if (uagent.indexOf(mobiles[i]) != -1) {
+                        ismobile = true;
+                        return ismobile;
+                    }
+                }
+
+                return ismobile;
+            }
+
+            //function getNewUrlIfIsmobile(){
+            //    if (isMobile() && pageTypeId == '7' && window.location.href.indexOf('?m=1') == '-1') {
+            //        var url = window.location.href + "?m=1";
+            //        window.location = url;                    
+            //    }
+            //}
+
+
+        </script>
+        
+    <title>
+	Iran&apos;s parliament has no authority over nuclear deal, Iran&apos;s top negotiator says - Middle East - Jerusalem Post
+</title><link rel='stylesheet' media='screen and (min-width: 1201px)' href='/CSS/Article_1200_min.css?ver=265'/><link rel='stylesheet' media='screen and (max-width: 1200px)' href='/CSS/Article_960_min.css?ver=265'/><link rel='stylesheet' media='screen and (max-width: 640px)' href='/CSS/MobileArticle.min.css?ver=3'/><link rel='stylesheet' media='screen and (max-width: 640px)' href='/CSS/MobileCategory.min.css?ver=2'/><link rel='stylesheet' media='screen and (max-width: 640px)' href='/CSS/Mobile_Blogs.css?ver=3'/><link rel='stylesheet'  media='screen and (max-width: 640px)' href='/CSS/MobileExpert.min.css?ver=4'/><link rel='stylesheet'  media='screen and (max-width: 640px)' href='/CSS/Mobile_Video.css?ver=2'/><link rel="SHORTCUT ICON" href="/favicon.ico" />
+<meta name='publishdate' content='201508011731'/>
+<meta name='description' content='The comments from Ali Akbar Salehi, the head of Iran&apos;s atomic energy agency, are the latest volley in a lengthy battle between Iranian officials supportive of the deal, and hardliners who are skeptical of it.'/>
+<meta name='keywords' content='iran deal,iran geneva deal,iran nuclear bomb'/><link rel='alternate' media='only screen and (max-width: 640px)' href='Http://m.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808' >
+    <!-- For Mobile -->
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    
+
+    
+    
+    
+    <!-- Scripts In Head -->
+
+<script async >(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '836631023055372']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=836631023055372&amp;ev=PixelInitialized" /></noscript><!-- DynamicYieldHead_New -->
+<script async  type='text/javascript'>
+	DY = {scsec : 8765297 ,API: function(){(DY.API.actions = DY.API.actions || []).push(arguments)}};
+</script>
+<script async  type='text/javascript' src='//ddrn6tjst80qg.cloudfront.net/api/8765297/api_dynamic.js'></script>
+<script async  type='text/javascript' src='//ddrn6tjst80qg.cloudfront.net/api/8765297/api_static.js'></script>
+<meta property="fb:app_id" content="163414806897"/><!-- Javascript tag  -->
+<!-- begin ZEDO for channel:  Overlay without base , publisher: JPost.com , Ad Dimension: Zedo Overlay No Base Unit - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="1546"; var zflag_cid="9"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="18"; 
+</script>
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+<!-- end ZEDO for channel:  Overlay without base , publisher: JPost.com , Ad Dimension: Zedo Overlay No Base Unit - 1 x 1 -->
+
+
+<script async  type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/jpost/loader.js');
+</script>
+<script async  type="text/javascript">
+//<![CDATA[
+  (function() {
+    var shr = document.createElement('script');
+    shr.setAttribute('data-cfasync', 'false');
+    shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+    shr.type = 'text/javascript'; shr.async = 'true';
+    shr.onload = shr.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (rs && rs != 'complete' && rs != 'loaded') return;
+      var site_id = '3b01450a9517d7559b39feb94b553ae8';
+      try { Shareaholic.init(site_id); } catch (e) {}
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(shr, s);
+  })();
+//]]>
+</script>
+
+
+
+
+
+<meta property="og:site_name" content=" The Jerusalem Post | JPost.com "/>
+<meta property="og:title" content="Iran&apos;s parliament has no authority over nuclear deal, Iran&apos;s top negotiator says"/>
+<meta property="og:type" content="Article"/>
+<meta property="og:image" content="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=291983"/>
+<meta property="og:url" content="http://www.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808" />
+<meta property="og:description" content="The comments from Ali Akbar Salehi, the head of Iran&apos;s atomic energy agency, are the latest volley in a lengthy battle between Iranian officials supportive of the deal, and hardliners who are skeptical of it."/><link rel="canonical" href="http://www.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808" /><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=291983">
+<meta name="twitter:url" content="http://www.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808">
+<meta name="twitter:site" content="@Jerusalem_Post">
+<meta name="twitter:description" content="The comments from Ali Akbar Salehi, the head of Iran&apos;s atomic energy agency, are the latest volley in a lengthy battle between Iranian officials supportive of the deal, and hardliners who are skeptical of it.">
+<meta name="twitter:title" content="Iran&apos;s parliament has no authority over nuclear deal, Iran&apos;s top negotiator says">
+<meta name="news_keywords" content="iran deal,iran geneva deal,iran nuclear bomb" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/><!-- begin ZEDO for channel: ZINC Horizontal Slider_ROS , publisher: default , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+<script language="JavaScript">
+var zflag_nid="1546"; var zflag_cid="1"; var zflag_sid="0"; var zflag_width="160"; var zflag_height="600"; var zflag_sz="7"; var zflag_y_offset=30;
+</script>
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fhs.js"></script>
+<!-- end ZEDO for channel: ZINC Horizontal Slider_ROS , publisher: default , Ad Dimension: Wide Skyscraper - 160 x 600 --><script async >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3326248-22', 'jpost.com');
+  ga('send', 'pageview');
+
+</script>
+        <script type='text/javascript'>var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement('script');gads.async = true;gads.type = 'text/javascript';var useSSL = 'https:' == document.location.protocol;gads.src =(useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';var node = document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads, node);})();</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>googletag.cmd.push(function() {
+var bannerUrl0 = '%6943%Home_Page%JPOST_ARTICLE%728X180_JPOST_ARTICLE_TOP'.replace(/%/g,'/'); var googleBanner0 = googletag.defineSlot(bannerUrl0, [[728, 90], [728, 180]], 'div-gpt-ad-1408352734734-6').addService(googletag.pubads());var bannerUrl1 = '%6943%Home_Page%JPOST_ARTICLE%300X250_JPOST_ARTICLE_MIDDLE'.replace(/%/g,'/'); var googleBanner1 = googletag.defineSlot(bannerUrl1, [300, 250], 'div-gpt-ad-1408352734734-1').addService(googletag.pubads());var bannerUrl2 = '%6943%Home_Page%JPOST_ARTICLE%300X250_JPOST_ARTICLE_TOP'.replace(/%/g,'/'); var googleBanner2 = googletag.defineSlot(bannerUrl2, [300, 250], 'div-gpt-ad-1408352734734-2').addService(googletag.pubads());var bannerUrl3 = '%6943%Home_Page%JPOST_ARTICLE%728X180_JPOST_ARTICLE_BUTTON'.replace(/%/g,'/'); var googleBanner3 = googletag.defineSlot(bannerUrl3, [[728, 90], [728, 180]], 'div-gpt-ad-1408352734734-5').addService(googletag.pubads());
+var bannerUrl4 = '%6943%Home_Page%JPOST_ARTICLE%300X250_JPOST_ARTICLE_BUTTON'.replace(/%/g,'/'); var googleBanner4 = googletag.defineSlot(bannerUrl4, [300, 250], 'div-gpt-ad-1408352734734-0').addService(googletag.pubads());
+
+var bannerUrl5 = '%6943%Home_Page%JPOST_ARTICLE%300X600_JPOST_ARTICLE_BUTTON'.replace(/%/g,'/'); var googleBanner5 = googletag.defineSlot(bannerUrl5, [300, 600], 'div-gpt-ad-1408352734734-3').addService(googletag.pubads());
+var bannerUrl6 = '%6943%Home_Page%JPOST_ARTICLE%468X60_JPOST_ARTICLE_BUTTON'.replace(/%/g,'/'); var googleBanner6 = googletag.defineSlot(bannerUrl6, [468, 60], 'div-gpt-ad-1408352734734-4').addService(googletag.pubads());
+googletag.enableServices();});</script></head>
+<body >
+    <form method="post" action="/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="uZoDrEh0CbZA+rcSHlNd5b95707RT2P/VFLmWmCMnV7r/47XorqWSU7OHlRj6SLsIWBPMZ2rn58TEPF3TFRVcEsg6QjYiUSSvOSwjm1eqFCrKtuAgYgFxS7Bl0YsTisLeeXRP3AkbsjhaeAKVF79S2eZZM8HuftwKApAshsZ6AJE9/5UQcF/fHYDPFaE5T+i5vQ2fwAFGL5bGzP225tN80GBmdsKKYFg6dT7Q8hqaQHdkteN17R49QO7C8rEbgcLvEF8RxvV03vS+bpkHOJbeFEcu9ieoOCgogYvQ2+IxPU=" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+1C1nITyZprnfUjQi0pROeoWB9WDENHmY+wYlv+PR+YAM7uJq3/i88eRUEXQi1k8G33tqdCbg9klFrFzk+2GAMbCSwXLRIUlNkZ5OP2yn0WsuFDihXVRwLrFHJXw9jF9LM2RXOgEJ40aVsNQWVBdow==" />
+        <div class="container">
+            
+        
+    
+        
+    
+        <!-- BEGIN DY SCRIPT TAG FOR SECTION 8765297 - DO NOT MODIFY -->
+<div id='DYSCR'></div>
+<script async  type='text/javascript'>
+(function(){var d=document,e='createElement',a='appendChild',g='getElementsByTagName',m='getElementById',i=d[e]('iframe'); 
+			  i.id=i.name='DY-iframe'; i.style.display='none'; i.width=i.height='1px';d[m]('DYSCR')[a](i);
+			  DY.x = function(w) { var d=w.document, s=d[e]('script');s.type='text/javascript'; s.async=true;          s.src=('https:'==d.location.protocol?'http://st.dynamicyield.com'.replace('http:','https:') : 'http://st.dynamicyield.com')+'/ast?sec='+DY.scsec; 
+			  d[g]('head')[0][a](s);}; var c = i.contentWindow.document;
+			  c.open().write('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><body onload="parent.DY.x(window)" style="margin:0"></'+'body></html>');
+			  c.close();})();
+		</script>
+	<!-- END TAG -->
+    
+        
+    
+        <!-- YouTube Script -->
+		<script async >
+		if (!window['YT']) {var YT = {loading: 0,loaded: 0};}if (!window['YTConfig']) {var YTConfig = {'host': 'http://www.youtube.com'};}if (!YT.loading) {YT.loading = 1;(function(){var l = [];YT.ready = function(f) {if (YT.loaded) {f();} else {l.push(f);}};window.onYTReady = function() {YT.loaded = 1;for (var i = 0; i < l.length; i++) {try {l[i]();} catch (e) {}}};YT.setConfig = function(c) {for (var k in c) {if (c.hasOwnProperty(k)) {YTConfig[k] = c[k];}}};var a = document.createElement('script');a.id = 'www-widgetapi-script';a.src = 'https:' + '//s.ytimg.com/yts/jsbin/www-widgetapi-vflqvh1vf.js';a.async = true;var b = document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a, b);})();}
+		</script>
+    
+        
+    
+        
+<script async  type="text/javascript">
+var _zaVer=4,_zaq=_zaq||[]; 
+(function() {
+  var w=window,d=document;w.__za_api=function(a){_zaq.push(a);if(typeof __ZA!='undefined'&&typeof __ZA.sendActions!='undefined')__ZA.sendActions(a);}
+  var e=d.createElement('script');e.type='text/javascript';e.async=true;e.src=('https:'==d.location.protocol?'https://d2xerlamkztbb1.cloudfront.net/':'http://wcdn.zoomanalytics.co/')+'19760976-1b49/3/widget.js';
+  var ssc=d.getElementsByTagName('script')[0];ssc.parentNode.insertBefore(e,ssc);
+})();
+</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+<!-- Start Header -->
+
+<!-- Start Top Container -->
+<div class="top-container-wrap">
+
+    <div class="header-wrap">
+        <header class="header">
+            <div class="topHeader">
+                <div class="header-channels">
+                    <a id="showchannels" class="header-show-cat">
+                        <img src="http://www.jpost.com//HttpHandlers/ShowImage.ashx?id=288912" width="45" />
+                    </a>
+                </div>
+                
+
+                
+                <div class="header-logo-wrap">
+                    
+        <a href='http://www.jpost.com/'  class='header-logo'>   
+            <img src='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=245904&w=468&h=61' alt='The Jerusalem Post - Israel News' >               
+         </a>
+    
+
+
+                </div>
+                <div class="header-social-share">
+                    <!-- Top Like Buttons -->
+                    
+        <!-- facebook -->
+<!--<div class="fb-like" data-href="http://www.jpost.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>-->
+
+<div id="fb-root"></div>
+<script async >
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=163414806897";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="fb-like" data-href="https://www.facebook.com/TheJerusalemPost" data-send="false" data-layout="button_count" data-width="150" data-show-faces="true" data-font="arial"></div>
+
+    
+        <!-- Twitter -->
+<a href="https://twitter.com/Jerusalem_Post" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en">Follow</a>
+    
+        <!-- Gplus -->
+<div style="display:inline-block; width:100px;">
+<div class="g-plusone" data-size="medium" data-align="left"></div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+
+            </div>
+            <div class="header-menu-mobile">
+                
+
+
+<ul>
+    <li class="openCats1">
+        <a style="font-size: 26px" class="DigitalNewsPaper">CHANNELS: </a>
+    </li>
+    
+            <li class="openCats">
+                <a class="txtflash" href='/?Mobileid=1'>Front Page  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Headlines'>Breaking news  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Israel-News'>Israel News  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Arab-Israeli-Conflict'>Arab-Israeli Conflict  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Diaspora'>Diaspora  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Middle-East'>Middle East  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Opinion'>Opinion  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Not-Just-News'>Not Just News  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Christian-News'>Christian News  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Aliyah-With-NBN'>ALIYAH WITH Nefesh B’Nefesh   </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Jerusalem-Report'>Jerusalem Report  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Magazine'>Magazine  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/In-Jerusalem'>In Jerusalem  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Metro'>Metro  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/IVRIT'>Ivrit  </a>
+            </li>
+        
+            <li class="openCats">
+                <a class="txtflash" href='/Business-and-Innovation'>Business & Innovation  </a>
+            </li>
+            
+</ul>
+
+            </div>
+            <div class="header-menu-site">
+                <!-- Start Main Menu -->
+                
+
+<div class="main-menu-wrap">
+	<nav class="main-menu">
+		<ul class="nav">
+            
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Israel-News'>Israel News</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Israel-News/Politics-And-Diplomacy'>Politics & Diplomacy</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Withholding-blame-US-issues-harsh-condemnation-of-Nablus-area-deadly-arson-410841'>
+				        <img class="sub-menu-featured-item-img" alt='Photo of a tricycle that survived the fire in the Dawabsha home on Duma'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294665&h=123&w=210' 
+                                     title='Photo of a tricycle that survived the fire in the Dawabsha home on Duma Photo By: TOVAH LAZAROFF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Withholding blame, US issues harsh condemnation of Nablus-area deadly arson</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Herzog-Jewish-and-Muslim-terror-should-be-dealt-with-in-the-same-way-410806'>
+				        <img class="sub-menu-featured-item-img" alt='Zionist Union head Isaac Herzog speaks to the press'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=286934&h=123&w=210' 
+                                     title='Zionist Union head Isaac Herzog speaks to the press Photo By: MARC ISRAEL SELLEM'/>
+                        
+				        <p class="sub-menu-featured-item-text">Herzog: Jewish and Muslim terror should be dealt with in the same way</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Netanyahu-to-bring-case-against-Iran-deal-to-N-American-Jews-in-live-webcast-event-410799'>
+				        <img class="sub-menu-featured-item-img" alt='netanyahu '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288022&h=123&w=210' 
+                                     title='Prime Minister Benjamin Netanyahu  Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Netanyahu to bring case against Iran deal to N. American Jews in live webcast event</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Zionist-Union-MK-Itzik-Shmuli-confirms-Im-gay-410783'>
+				        <img class="sub-menu-featured-item-img" alt='Zionist Union MK Itzik Shmuli'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=287320&h=123&w=210' 
+                                     title='Zionist Union MK Itzik Shmuli Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Zionist Union MK Itzik Shmuli confirms: I'm gay</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Israel-News/Culture'>Culture</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Culture/Rising-to-a-comic-occasion-410831'>
+				        <img class="sub-menu-featured-item-img" alt='‘SOLDIERS AND THE RADIO’ by Israeli political cartoonist Michel Kishka.'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294706&h=123&w=210' 
+                                     title='‘SOLDIERS AND THE RADIO’ by Israeli political cartoonist Michel Kishka. Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Rising to a comic occasion</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Culture/Fashion-From-Barcelona-to-Bnei-Brak-410592'>
+				        <img class="sub-menu-featured-item-img" alt='Haredi fashion'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294223&h=123&w=210' 
+                                     title='Haredi fashion Photo By: PR'/>
+                        
+				        <p class="sub-menu-featured-item-text">Fashion: From Barcelona to Bnei Brak</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Culture/Food-The-continuing-saga-410591'>
+				        <img class="sub-menu-featured-item-img" alt='Papaya salad'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294217&h=123&w=210' 
+                                     title='Papaya salad Photo By: PR'/>
+                        
+				        <p class="sub-menu-featured-item-text">Food: The continuing saga</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Culture/Recipes-Time-for-lime-410589'>
+				        <img class="sub-menu-featured-item-img" alt='Papaya salad'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294214&h=123&w=210' 
+                                     title='Papaya salad Photo By: PR'/>
+                        
+				        <p class="sub-menu-featured-item-text">Recipes: Time for lime</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Israel-News/Sports'>Sports</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/Israeli-swimmers-hoping-to-shine-at-worlds-in-Russia-410845'>
+				        <img class="sub-menu-featured-item-img" alt='Israel’s Amit Ivry will begin her participation at the World swimming Championships in the first day'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294716&h=123&w=210' 
+                                     title='Israel’s Amit Ivry will begin her participation at the World swimming Championships in the first day of action in the pool in Kazan, Russia today, taking part in the 100m butterfly and 200m IM heats. Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israeli swimmers hoping to shine at worlds in Russia</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/Oliel-stars-at-Euro-Olympic-festival-410844'>
+				        <img class="sub-menu-featured-item-img" alt='youth olympics'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294713&h=123&w=210' 
+                                     title='Yshai Oliel (left) and Roi Ginat (right) pose for a photo with coach Jan Pochter (center) Photo By: COURTESY OLYMPIC COMMITTEE OF ISRAEL'/>
+                        
+				        <p class="sub-menu-featured-item-text">Oliel stars at Euro Olympic festival</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/UEFA-goes-easy-on-Beitar-Jerusalem-punishment-410843'>
+				        <img class="sub-menu-featured-item-img" alt='beitar'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293229&h=123&w=210' 
+                                     title='The behavior of Beitar Jerusalem fans in the Europa League qualifier in Charleroi, Belgium last Thursday has resulted in owner Eli Tabib  putting the club up for sale Photo By: UDI ZITIAT/BSL,ADI AVISHAI'/>
+                        
+				        <p class="sub-menu-featured-item-text">UEFA goes easy on Beitar Jerusalem punishment</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/Late-goal-boosts-Kiryat-Shmonas-hopes-410726'>
+				        <img class="sub-menu-featured-item-img" alt='iryat Shmona’s Ugwu Uzochukwu Chukwuma'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294628&h=123&w=210' 
+                                     title='iryat Shmona’s Ugwu Uzochukwu Chukwuma Photo By: UDI ZITIAT/BSL'/>
+                        
+				        <p class="sub-menu-featured-item-text">Late goal boosts Kiryat Shmona’s hopes</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/Israeli-swimmers-hoping-to-shine-at-worlds-in-Russia-410845'>
+				        <img class="sub-menu-featured-item-img" alt='Israel’s Amit Ivry will begin her participation at the World swimming Championships in the first day'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294716&h=123&w=210' 
+                                     title='Israel’s Amit Ivry will begin her participation at the World swimming Championships in the first day of action in the pool in Kazan, Russia today, taking part in the 100m butterfly and 200m IM heats. Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israeli swimmers hoping to shine at worlds in Russia</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/Oliel-stars-at-Euro-Olympic-festival-410844'>
+				        <img class="sub-menu-featured-item-img" alt='youth olympics'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294713&h=123&w=210' 
+                                     title='Yshai Oliel (left) and Roi Ginat (right) pose for a photo with coach Jan Pochter (center) Photo By: COURTESY OLYMPIC COMMITTEE OF ISRAEL'/>
+                        
+				        <p class="sub-menu-featured-item-text">Oliel stars at Euro Olympic festival</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Sports/UEFA-goes-easy-on-Beitar-Jerusalem-punishment-410843'>
+				        <img class="sub-menu-featured-item-img" alt='beitar'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293229&h=123&w=210' 
+                                     title='The behavior of Beitar Jerusalem fans in the Europa League qualifier in Charleroi, Belgium last Thursday has resulted in owner Eli Tabib  putting the club up for sale Photo By: UDI ZITIAT/BSL,ADI AVISHAI'/>
+                        
+				        <p class="sub-menu-featured-item-text">UEFA goes easy on Beitar Jerusalem punishment</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Withholding-blame-US-issues-harsh-condemnation-of-Nablus-area-deadly-arson-410841'>
+				        <img class="sub-menu-featured-item-img" alt='Photo of a tricycle that survived the fire in the Dawabsha home on Duma'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294665&h=123&w=210' 
+                                     title='Photo of a tricycle that survived the fire in the Dawabsha home on Duma Photo By: TOVAH LAZAROFF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Withholding blame, US issues harsh condemnation of Nablus-area deadly arson</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Arab-Israeli-Conflict'>Arab-Israeli Conflict</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href=''></a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/Two-rockets-fall-near-Israeli-border-fence-410836'>
+				        <img class="sub-menu-featured-item-img" alt='Gaza Strip'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288755&h=123&w=210' 
+                                     title='Light streak trail is seen as a rocket is launched from the northern Gaza Strip towards Israel July 29, 2014 Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Two rockets fall near Israel-Gaza border fence</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/Palestinian-toddlers-murder-sparks-violent-clashes-410834'>
+				        <img class="sub-menu-featured-item-img" alt='A fire believed to have been caused by Palestinian arsonists near a settlement'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294656&h=123&w=210' 
+                                     title='A fire believed to have been caused by Palestinian arsonists near a settlement Photo By: MAARIV'/>
+                        
+				        <p class="sub-menu-featured-item-text">Palestinian toddler’s murder sparks violent clashes</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/Security-forces-deployed-to-quell-riot-near-Duma-410812'>
+				        <img class="sub-menu-featured-item-img" alt='Riots close highway 458'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294691&h=123&w=210' 
+                                     title='Riots close highway 458 Photo By: SETH J. FRANTZMAN'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">Security forces deployed to quell riot near Duma</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/After-deadly-arson-Rioting-death-of-two-Palestinians-Jerusalem-disturbances-410804'>
+				        <img class="sub-menu-featured-item-img" alt='israel '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294685&h=123&w=210' 
+                                     title='Scene of settler fight with Palestinians near Esh Kodesh, August 1, 2015 Photo By: TAZPIT'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">After deadly arson: Rioting, death of two Palestinians, Jerusalem disturbances</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/Report-IDF-kills-17-year-old-Palestinian-during-clashes-near-Ramallah-410797'>
+				        <img class="sub-menu-featured-item-img" alt='checkpoint Qalandia '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=254861&h=123&w=210' 
+                                     title='Soldiers keep guard at checkpoint near Qalandia  Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Report: IDF kills 17-year-old Palestinian, during clash near Ramallah</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Diaspora'>Diaspora</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href=''></a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Diaspora/Anti-Semitic-abuses-in-Berlin-mar-Maccabi-games-410820'>
+				        <img class="sub-menu-featured-item-img" alt='maccabiah'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294573&h=123&w=210' 
+                                     title='Athletes of the Israeli team arrive for the opening cermony of the 14th European Maccabi Games in Berlin, Germany July 28, 2015 Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Euro Maccabi games marred by anti-Semitism in Berlin</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Diaspora/Ex-hasid-who-committed-suicide-had-mental-issues-says-family-410684'>
+				        <img class="sub-menu-featured-item-img" alt='Faigy Mayer'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293854&h=123&w=210' 
+                                     title='Faigy Mayer Photo By: TWITTER'/>
+                        
+				        <p class="sub-menu-featured-item-text">Ex-hasid who committed suicide had mental issues, says family</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Diaspora/Survivors-appeal-to-Pope-to-intercede-with-Germany-over-Holocaust-reparations-410682'>
+				        <img class="sub-menu-featured-item-img" alt='Pope '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=262833&h=123&w=210' 
+                                     title='Pope Francis waves during his Sunday Angelus prayer in Saint Peter&apos;s Square at the Vatican Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Survivors appeal to Pope to intercede with Germany over Holocaust reparations</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Diaspora/The-expulsion-of-Baghdads-Jews-and-the-unraveling-of-the-Middle-East-410672'>
+				        <img class="sub-menu-featured-item-img" alt='Baghdad'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293114&h=123&w=210' 
+                                     title='Ramshackle al-Rasheed Street, in the heart of old Baghdad. Photo By: PATRICK BAZ / AFP'/>
+                        
+				        <p class="sub-menu-featured-item-text">The expulsion of Baghdad’s Jews and the unraveling of the Middle East</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Diaspora/Jewish-egg-donations-are-hot-commodity-but-are-they-kosher-410623'>
+				        <img class="sub-menu-featured-item-img" alt='A plastinated fetus is seen during the exhibition "Body Worlds" by Gunther von Hagen in Rome'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294569&h=123&w=210' 
+                                     title='A plastinated fetus is seen during the exhibition "Body Worlds" by Gunther von Hagen in Rome Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Jewish egg donations are hot commodity, but are they 'kosher'?</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Middle-East'>Middle East</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Middle-East/Iran'>Iran</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808'>
+				        <img class="sub-menu-featured-item-img" alt='Ali Akbar Salehi '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291983&h=123&w=210' 
+                                     title='Head of the Iranian Atomic Energy Organization Ali Akbar Salehi speaks with reporters [File] Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Iran's parliament has no authority over nuclear deal, Iran's top negotiator says</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Iran/Netanyahu-The-more-one-looks-at-the-Iran-accord-the-worse-it-looks-410679'>
+				        <img class="sub-menu-featured-item-img" alt='Prime Minister Benjamin Netanyahu at the weekly cabinet meeting on Sunday'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288774&h=123&w=210' 
+                                     title='Prime Minister Benjamin Netanyahu at the weekly cabinet meeting on Sunday Photo By: AMIT SHABAY/POOL'/>
+                        
+				        <p class="sub-menu-featured-item-text">Netanyahu: The more one looks at the Iran accord, the worse it looks</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Iran/Foreign-Ministry-calls-Sunni-Arab-states-Israels-Allies-410587'>
+				        <img class="sub-menu-featured-item-img" alt='Saudi King Salman '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=279426&h=123&w=210' 
+                                     title='Saudi King Salman  Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Foreign Ministry calls Sunni Arab states 'Israel's allies'</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Iran/Top-US-general-distances-himself-from-choice-of-Iran-deal-or-war-410519'>
+				        <img class="sub-menu-featured-item-img" alt='Martin Dempsey'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294374&h=123&w=210' 
+                                     title='The Chairman of the Joint Chiefs of Staff, U.S.Army General Martin Dempsey (R), along with Energy Secretary Ernest Moniz, (L), appear before the Senate Armed Services Committee in Washington July 29, 2015.  Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Top US general distances himself from choice of Iran deal or war</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Middle-East/ISIS-Threat'>ISIS Threat</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/ISIS-Threat/Nusra-Front-abducts-US-backed-rebel-leader-blunts-efforts-against-ISIS-410594'>
+				        <img class="sub-menu-featured-item-img" alt='Members of al Qaeda&apos;s Nusra Front'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273554&h=123&w=210' 
+                                     title='Members of al-Qaida&apos;s‏ Nusra Front [File] Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Nusra Front abducts US-backed rebel leader, blunts efforts against ISIS</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/ISIS-Threat/Iraqi-militia-leader-says-US-not-serious-about-fighting-Islamic-State-410458'>
+				        <img class="sub-menu-featured-item-img" alt='ISIS'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273362&h=123&w=210' 
+                                     title='Air strikes against ISIS targets [file] Photo By: screenshot'/>
+                        
+				        <p class="sub-menu-featured-item-text">Iraqi militia leader says US not serious about fighting Islamic State</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/ISIS-Threat/Canadian-Israeli-anti-ISIS-fighter-If-we-dont-fight-them-there-theyll-come-here-410407'>
+				        <img class="sub-menu-featured-item-img" alt='Gill Rosenberg'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294182&h=123&w=210' 
+                                     title='Gill Rosenberg on the front-line against ISIS Photo By: Courtesy'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">Canadian-Israeli anti-ISIS fighter: If we don't fight them there, they'll come here</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/ISIS-Threat/My-friends-went-on-vacation-and-all-I-got-was-this-stupid-ISIS-flag-410303'>
+				        <img class="sub-menu-featured-item-img" alt='ISIS'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294096&h=123&w=210' 
+                                     title='Islamic State &apos;souvenir shop&apos; Photo By: ISLAMIC SOCIAL MEDIA'/>
+                        
+				        <p class="sub-menu-featured-item-text">My friends went on vacation and all I got was this stupid ISIS flag</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Egyptian-forces-kill-top-ISIS-figure-seal-security-pact-with-Saudi-Arabia-410813'>
+				        <img class="sub-menu-featured-item-img" alt='Cairo'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=280312&h=123&w=210' 
+                                     title='Egyptian military helicopters fly over a republican guard around the congress hall during the Arab Summit in Sharm el-Sheikh, in the South Sinai governorate, south of Cairo, March 28 Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Egyptian forces kill top ISIS figure, seal security pact with Saudi Arabia</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Iran/Irans-parliament-has-no-authority-over-nuclear-deal-Irans-top-nuclear-negotiator-says-410808'>
+				        <img class="sub-menu-featured-item-img" alt='Ali Akbar Salehi '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291983&h=123&w=210' 
+                                     title='Head of the Iranian Atomic Energy Organization Ali Akbar Salehi speaks with reporters [File] Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Iran's parliament has no authority over nuclear deal, Iran's top negotiator says</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Arab-Israeli-Conflict/Hamas-leaders-car-fire-bombed-in-West-Bank-410807'>
+				        <img class="sub-menu-featured-item-img" alt='Hamas'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293292&h=123&w=210' 
+                                     title='Palestinians gather around a burnt-out car in Gaza City on July 19, 2015, after explosions destroyed five cars in Gaza belonging to members of Hamas and Islamic Jihad, witnesses and a security source said, amid tensions between the Palestinian territory&apos;s rulers and Islamist extremists. Photo By: MOHAMMED ABED / AFP'/>
+                        
+				        <p class="sub-menu-featured-item-text">Hamas leader's car fire-bombed in West Bank</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Middle-East/Report-Osama-Bin-Ladens-stepmother-half-sister-killed-in-private-jet-crash-in-Britain-410802'>
+				        <img class="sub-menu-featured-item-img" alt='Osama bin-Laden'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=275442&h=123&w=210' 
+                                     title='Osama bin-Laden Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Report: Osama Bin Laden's stepmother, half-sister killed in private jet crash in Britain</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Business-and-Innovation'>Business & Innovation</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Business-and-Innovation/Health-and-Science'>Health & Science</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Albert-Einsteins-stupendous-work-Its-all-relative-410838'>
+				        <img class="sub-menu-featured-item-img" alt='Albert Einstein'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=268815&h=123&w=210' 
+                                     title='Albert Einstein Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Albert Einstein’s stupendous work: It’s all relative</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Arab-MKs-claim-brucellosis-epidemic-and-demand-budgets-410733'>
+				        <img class="sub-menu-featured-item-img" alt='Ahmed Tibi'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=252329&h=123&w=210' 
+                                     title='MK Ahmed Tibi (UAL - Ta&apos;al) in the Knesset. Photo By: MARC ISRAEL SELLEM/THE JERUSALEM POST'/>
+                        
+				        <p class="sub-menu-featured-item-text">Arab MKs claim brucellosis ‘epidemic’ and demand budgets</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Quality-of-Health-Ministrys-staff-better-than-its-image-says-D-G-410560'>
+				        <img class="sub-menu-featured-item-img" alt='Deputy Minister Haim Litzman (center), Moshe Bar Siman Tov (left) and Prof. Arnon Afek (right)'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294386&h=123&w=210' 
+                                     title='Deputy Minister Haim Litzman (center), Moshe Bar Siman Tov (left) and Prof. Arnon Afek (right) Photo By: JUDY SIEGEL-ITZKOVICH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Quality of Health Ministry’s staff better than its image, says D-G</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Knesset-drops-requirement-for-doctors-authorization-for-adults-who-want-to-work-out-in-gyms-410510'>
+				        <img class="sub-menu-featured-item-img" alt='exercise gym'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293822&h=123&w=210' 
+                                     title='Group exercise at a gym [Illustrative] Photo By: INGIMAGE'/>
+                        
+				        <p class="sub-menu-featured-item-text">Knesset drops requirement for doctor’s authorization for adults who want to work out in gyms</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Business-and-Innovation/Environment'>Environment</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Environment/Haifa-to-expand-air-quality-monitoring-program-410811'>
+				        <img class="sub-menu-featured-item-img" alt='haifa'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294688&h=123&w=210' 
+                                     title='haifa air monitoring station Photo By: HAIFA DISTRICT MUNICIPAL ASSOCIATION FOR ENVIRONMENTAL PROTECTION'/>
+                        
+				        <p class="sub-menu-featured-item-text">Haifa to expand air quality monitoring program</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Environment/Israels-largest-solar-field-begins-flowing-to-the-national-grid-410548'>
+				        <img class="sub-menu-featured-item-img" alt='solar power'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294396&h=123&w=210' 
+                                     title='Aerial view of the 40-megawatt Ketura Solar field Photo By: EGE'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israel’s largest solar field begins flowing to the national grid</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Environment/Hydrocarbons-found-in-second-wells-at-Golan-Heights-oil-project-410515'>
+				        <img class="sub-menu-featured-item-img" alt='Golan oil rig'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=280216&h=123&w=210' 
+                                     title='Golan oil rig Photo By: SHARON UDASIN'/>
+                        
+				        <p class="sub-menu-featured-item-text">Hydrocarbons found in second wells at Golan Heights oil project</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Environment/Establish-commission-to-examine-water-flow-to-Jordan-MK-says-410415'>
+				        <img class="sub-menu-featured-item-img" alt='Lake Kinneret '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=281601&h=123&w=210' 
+                                     title='Lake Kinneret  Photo By: JULIE STEIGERWALD'/>
+                        
+				        <p class="sub-menu-featured-item-text">Establish commission to examine water flow to Jordan, MK says</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Business-and-Innovation/Tech'>Tech</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Tech/Mark-Zuckerberg-Virtual-reality-is-Facebooks-next-frontier-410673'>
+				        <img class="sub-menu-featured-item-img" alt='Facebook'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288604&h=123&w=210' 
+                                     title='Facebook Photo By: ILLUSTRATIVE: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Mark Zuckerberg: Virtual reality is Facebook's next frontier</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Tech/Budget-deal-to-give-NIS-18000-piggy-bank-to-18-year-olds-410449'>
+				        <img class="sub-menu-featured-item-img" alt='Moshe Kahlon '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293246&h=123&w=210' 
+                                     title='Moshe Kahlon  Photo By: EMIL SALMAN/POOL'/>
+                        
+				        <p class="sub-menu-featured-item-text">Budget deal to give NIS 18,000 ‘piggy bank’ to 18-year-olds</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Tech/Tech-talk-Cybereason-takes-on-Operation-Kofer-410439'>
+				        <img class="sub-menu-featured-item-img" alt='computer'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=264513&h=123&w=210' 
+                                     title='Computer keyboard [illustrative]. Photo By: ING IMAGE/ASAP'/>
+                        
+				        <p class="sub-menu-featured-item-text">Tech talk: Cybereason takes on Operation Kofer</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Tech/Israeli-safety-app-Musketeer-saves-lives-410266'>
+				        <img class="sub-menu-featured-item-img" alt='app'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294068&h=123&w=210' 
+                                     title='Musketeer app  Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israeli safety app Musketeer saves lives</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Albert-Einsteins-stupendous-work-Its-all-relative-410838'>
+				        <img class="sub-menu-featured-item-img" alt='Albert Einstein'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=268815&h=123&w=210' 
+                                     title='Albert Einstein Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Albert Einstein’s stupendous work: It’s all relative</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Environment/Haifa-to-expand-air-quality-monitoring-program-410811'>
+				        <img class="sub-menu-featured-item-img" alt='haifa'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294688&h=123&w=210' 
+                                     title='haifa air monitoring station Photo By: HAIFA DISTRICT MUNICIPAL ASSOCIATION FOR ENVIRONMENTAL PROTECTION'/>
+                        
+				        <p class="sub-menu-featured-item-text">Haifa to expand air quality monitoring program</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Health-and-Science/Arab-MKs-claim-brucellosis-epidemic-and-demand-budgets-410733'>
+				        <img class="sub-menu-featured-item-img" alt='Ahmed Tibi'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=252329&h=123&w=210' 
+                                     title='MK Ahmed Tibi (UAL - Ta&apos;al) in the Knesset. Photo By: MARC ISRAEL SELLEM/THE JERUSALEM POST'/>
+                        
+				        <p class="sub-menu-featured-item-text">Arab MKs claim brucellosis ‘epidemic’ and demand budgets</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Business-and-Innovation/Tech/Mark-Zuckerberg-Virtual-reality-is-Facebooks-next-frontier-410673'>
+				        <img class="sub-menu-featured-item-img" alt='Facebook'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288604&h=123&w=210' 
+                                     title='Facebook Photo By: ILLUSTRATIVE: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Mark Zuckerberg: Virtual reality is Facebook's next frontier</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Opinion'>Opinion</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href=''></a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Opinion/Jpost-Letters-to-Editor-Police-negligence-410830'>
+				        <img class="sub-menu-featured-item-img" alt='Letters'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=250257&h=123&w=210' 
+                                     title='Letters Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Jpost Letters to Editor: Police negligence?</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Opinion/Americas-Jews-leaking-at-both-ends-410829'>
+				        <img class="sub-menu-featured-item-img" alt='Israel US flags'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=287569&h=123&w=210' 
+                                     title='Israel US flags Photo By: INGIMAGE'/>
+                        
+				        <p class="sub-menu-featured-item-text">America’s Jews – leaking at both ends?</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Opinion/Turkey-and-ISIS-410827'>
+				        <img class="sub-menu-featured-item-img" alt='Recep Tayyip Erdogan'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=268058&h=123&w=210' 
+                                     title='Turkish President Recep Tayyip Erdogan pays a visit to Lebanon Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Turkey and ISIS</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Opinion/Stand-by-your-friends-410826'>
+				        <img class="sub-menu-featured-item-img" alt='iba'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=255073&h=123&w=210' 
+                                     title='IBA logo Photo By: COURTESY OF IBA'/>
+                        
+				        <p class="sub-menu-featured-item-text">Stand by your friends</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Opinion/Governments-ignorance-of-the-propaganda-war-against-Israel-410825'>
+				        <img class="sub-menu-featured-item-img" alt='Demonstration'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=251782&h=123&w=210' 
+                                     title='Demonstrators burn an Israeli national flag during an anti-Israel protest Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Government’s ignorance of the propaganda war against Israel</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Premium'>Premium</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/JpostEpaper.aspx'>Jpost Epaper</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Jerusalem-Report'>The Jerusalem Report</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Jerusalem-Report/Take-two-tablets-409824'>
+				        <img class="sub-menu-featured-item-img" alt='Painting by Pepe Fainberg'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293567&h=123&w=210' 
+                                     title='Painting by Pepe Fainberg Photo By: PEPE FAINBERG'/>
+                        
+				        <p class="sub-menu-featured-item-text">Take two tablets!~</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Jerusalem-Report/Sin-Offering-409821'>
+				        <img class="sub-menu-featured-item-img" alt='Painting by Avi Katz'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293564&h=123&w=210' 
+                                     title='Painting by Avi Katz Photo By: AVI KATZ'/>
+                        
+				        <p class="sub-menu-featured-item-text">Sin Offering</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Jerusalem-Report/Lincoln-and-the-Jews-409819'>
+				        <img class="sub-menu-featured-item-img" alt='Abraham Lincoln'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293561&h=123&w=210' 
+                                     title='Abraham Lincoln Photo By: Wikimedia Commons'/>
+                        
+				        <p class="sub-menu-featured-item-text">Lincoln and the Jews</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Jerusalem-Report/Portrait-of-an-assassins-wife-409818'>
+				        <img class="sub-menu-featured-item-img" alt='Yigal Amir'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293557&h=123&w=210' 
+                                     title='Larisa Trembovler: A ‘soul mate’ of Yigal Amir, the killer of Yitzhak Rabin. Photo By: COURTESY ‘BEYOND THE FEAR&apos;'/>
+                        
+				        <p class="sub-menu-featured-item-text">Portrait of an assassin's wife</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Magazine'>Magazine</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/The-light-makes-his-life-410666'>
+				        <img class="sub-menu-featured-item-img" alt='Tel Aviv Port'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294501&h=123&w=210' 
+                                     title='The carousel at the Tel Aviv Port; one of Troiani’s photographic works. Photo By: MARIO TROIANI'/>
+                        
+				        <p class="sub-menu-featured-item-text">The light makes his life</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/An-American-Jewish-idiom-410661'>
+				        <img class="sub-menu-featured-item-img" alt='Interracial love'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294492&h=123&w=210' 
+                                     title='Interracial love Photo By: INGIMAGE'/>
+                        
+				        <p class="sub-menu-featured-item-text">An American-Jewish idiom</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/The-story-of-the-Sabena-pilot-hijacked-en-route-to-Israel-410660'>
+				        <img class="sub-menu-featured-item-img" alt='Shimon Peres'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294489&h=123&w=210' 
+                                     title='Reginald Levy (right) and Shimon Peres in 1993. Photo By: SCOOP 80'/>
+                        
+				        <p class="sub-menu-featured-item-text">The story of the Sabena pilot hijacked en route to Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/We-were-the-only-ones-left-alive-410658'>
+				        <img class="sub-menu-featured-item-img" alt='Australian Light Horse Brigade '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294486&h=123&w=210' 
+                                     title='A view of 4,500 prisoners captured by the Second Australian Light Horse Brigade during operations in Amman in September 1918. Photo By: Wikimedia Commons'/>
+                        
+				        <p class="sub-menu-featured-item-text">‘We were the only ones left alive’</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/In-Jerusalem'>In Jerusalem</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/In-Jerusalem/The-Tower-of-David-Full-speed-ahead-410627'>
+				        <img class="sub-menu-featured-item-img" alt='A pop-up festival'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294532&h=123&w=210' 
+                                     title='At last month’s Nylon, a pop-up festival showcasing works by students and graduates of the city’s art and design schools. Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">The Tower of David– Full speed ahead</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/In-Jerusalem/This-Week-in-Jerusalem-410626'>
+				        <img class="sub-menu-featured-item-img" alt='Art in Jerusalem'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291337&h=123&w=210' 
+                                     title='People walk under colourful umbrellas decorating a pedestrian mall in downtown Jerusalem June 30, 2015. Photo By: CINDY AZOULAY'/>
+                        
+				        <p class="sub-menu-featured-item-text">This Week in Jerusalem</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/In-Jerusalem/Get-on-the-shabus-410619'>
+				        <img class="sub-menu-featured-item-img" alt='Shabus'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294526&h=123&w=210' 
+                                     title='Screen grab from video on Shabus website, detailing why Shabbat transportation is a necessity for some city residents. Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Get on the shabus</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/In-Jerusalem/Remembering-three-lone-soldiers-410616'>
+				        <img class="sub-menu-featured-item-img" alt='Max Steinberg'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=249533&h=123&w=210' 
+                                     title='Max Steinberg Photo By: FACEBOOK'/>
+                        
+				        <p class="sub-menu-featured-item-text">Remembering three lone soldiers</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Metro'>Metro</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Metro/No-worst-there-is-none-410664'>
+				        <img class="sub-menu-featured-item-img" alt='Fashion'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294577&h=123&w=210' 
+                                     title='Woman tailor working on dress (illustrative). Photo By: INGIMAGE'/>
+                        
+				        <p class="sub-menu-featured-item-text">No worst, there is none</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Metro/Walking-the-linethe-Animix-festival-410654'>
+				        <img class="sub-menu-featured-item-img" alt='The Animix festival'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294272&h=123&w=210' 
+                                     title='Raffael Blumenberg’s ‘Woman, Man, Line.’ at the Animix festival. Photo By: COURTESY RAFFAEL BLUMENBERG'/>
+                        
+				        <p class="sub-menu-featured-item-text">Walking the line:the Animix festival</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Metro/Wandering-through-fascinating-Florentin-410652'>
+				        <img class="sub-menu-featured-item-img" alt='Florentin Tel Aviv'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294260&h=123&w=210' 
+                                     title='Florentin neighborhood in Tel Aviv. Photo By: ALLAN RABINOWITZ'/>
+                        
+				        <p class="sub-menu-featured-item-text">Wandering through fascinating Florentin</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Metro/Who-Cares-Israel-does-410651'>
+				        <img class="sub-menu-featured-item-img" alt='Falcons in Israel'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294257&h=123&w=210' 
+                                     title='A falcon Photo By: Wikimedia Commons'/>
+                        
+				        <p class="sub-menu-featured-item-text">Who Cares? Israel does</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/IVRIT'>IVRIT</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Ivrit/משירי-רחל-אל-ארצי-408423'>
+				        <img class="sub-menu-featured-item-img" alt='A poem by Rahel: “To My Land”'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292151&h=123&w=210' 
+                                     title='A poem by Rahel: “To My Land” Photo By: WIKIPEDIA'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">מִשִירֵי רָחֵל: אֶל אַרְצִי</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Ivrit/מתנדבים-מישראל-408422'>
+				        <img class="sub-menu-featured-item-img" alt='Volunteers from Israel'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292132&h=123&w=210' 
+                                     title='Volunteers from Israel Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">מִתְנַדְבִים מִיִשְׂרָאֵל</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Ivrit/שירת-רבים-3-408419'>
+				        <img class="sub-menu-featured-item-img" alt='David Deor'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292143&h=123&w=210' 
+                                     title='David Deor Photo By: ELAD GUTMAN'/>
+                        
+				        <p class="sub-menu-featured-item-text">שִירַת רַבִּים 3</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Ivrit/נתיבי-ישראל-408417'>
+				        <img class="sub-menu-featured-item-img" alt='Israel Roads'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292136&h=123&w=210' 
+                                     title='Israel Roads Photo By: GINI AGENCY'/>
+                        
+				        <p class="sub-menu-featured-item-text">‘נְתִיבֵי יִשְׂרָאֵל’</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/The-path-to-aliya-Indian-style-407779'>
+				        <img class="sub-menu-featured-item-img" alt=''  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291495&h=123&w=210' 
+                                     title=' Photo By: '/>
+                        
+				        <p class="sub-menu-featured-item-text">The path to aliya- Indian style</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Magazine/The-journey-of-Ukraines-embattled-Jews-to-Israel-407780'>
+				        <img class="sub-menu-featured-item-img" alt=''  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291507&h=123&w=210' 
+                                     title=' Photo By: '/>
+                        
+				        <p class="sub-menu-featured-item-text">The journey of Ukraine’s embattled Jews to Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/In-Jerusalem/A-historic-win-but-no-slam-dunk-407804'>
+				        <img class="sub-menu-featured-item-img" alt=''  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291560&h=123&w=210' 
+                                     title=' Photo By: '/>
+                        
+				        <p class="sub-menu-featured-item-text">A historic win, but no slam dunk</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Metro/Art-is-for-everyone-everywhere-407818'>
+				        <img class="sub-menu-featured-item-img" alt=''  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291597&h=123&w=210' 
+                                     title=' Photo By: '/>
+                        
+				        <p class="sub-menu-featured-item-text">Art is for everyone, everywhere</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Blogs'>Blogs</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href=''></a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Blogs/Think-With-Me/Hollywoody-Gallery-410839'>
+				        <img class="sub-menu-featured-item-img" alt='Nurit Greenger'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=283580&h=123&w=210' 
+                                     title='Nurit Greenger Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Hollywoody Gallery</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Blogs/A-Daughter-of-Zion/Pleading-Forgiving-and-Pardoning-410810'>
+				        <img class="sub-menu-featured-item-img" alt='Bat-Zion Susskind-Sacks'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=286818&h=123&w=210' 
+                                     title='Bat-Zion Susskind-Sacks Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Pleading, Forgiving and Pardoning</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Blogs/Window-on-Israel/Wisdom-and-justice-410795'>
+				        <img class="sub-menu-featured-item-img" alt='Ira Sharkansky'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=249506&h=123&w=210' 
+                                     title='Ira Sharkansky Photo By: JPOST STAFF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Wisdom and justice</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Blogs/Through-a-Glass-Darkly/Echo-410786'>
+				        <img class="sub-menu-featured-item-img" alt='Robin Nettelhorst'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=265415&h=123&w=210' 
+                                     title='Robin Nettelhorst Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Echo</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Christian-News'>Christian News</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href=''></a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Christian-News/Israels-Northern-stars-410603'>
+				        <img class="sub-menu-featured-item-img" alt=' Lt.-Col. Rafi Goldstein receiving the 2014 President’s Citation'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=294543&h=123&w=210' 
+                                     title=' Lt.-Col. Rafi Goldstein receiving the 2014 President’s Citation Photo By: Courtesy'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israel's Northern stars</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Christian-News/Israeli-Church-leaders-blame-anti-Christian-attacks-on-government-inaction-410508'>
+				        <img class="sub-menu-featured-item-img" alt='FATHER NIKODEMUS SCHNABEL inspects the damage at Capernaum’s Church of the Loaves and Fishes'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=290152&h=123&w=210' 
+                                     title='FATHER NIKODEMUS SCHNABEL inspects the damage at Capernaum’s Church of the Loaves and Fishes caused by an arson attack Photo By: BEN HARTMAN'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israeli Church leaders blame anti-Christian attacks on government inaction</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Christian-News/Poll-Pope-Francis-approval-rating-dips-in-US-ahead-of-September-visit-409908'>
+				        <img class="sub-menu-featured-item-img" alt='Pope Francis'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=274473&h=123&w=210' 
+                                     title='Pope Francis gives the thumb up as he arrives to lead the weekly audience in Saint Peter&apos;s Square at the Vatican. Photo By: REUTERS'/>
+                        
+				        <p class="sub-menu-featured-item-text">Poll: Pope Francis' approval rating dips in US ahead of September visit</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Christian-News/Oren-at-Knesset-Christian-Allies-Caucus-inauguration-Jesus-today-would-be-a-settler-409856'>
+				        <img class="sub-menu-featured-item-img" alt='christian caucus'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293869&h=123&w=210' 
+                                     title='Left to Right: KCAC Director Josh Reinstein, Speaker of the Knesset Yuli Edelstein, Chairman of the KCAC MK Robert Ilatov Photo By: RENEE SHARON'/>
+                        
+				        <p class="sub-menu-featured-item-text">Oren: Jesus today would be a settler</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Christian-News/Israeli-Christian-group-challenges-BDS-with-new-guide-409685'>
+				        <img class="sub-menu-featured-item-img" alt='Father Gabriel Naddaf'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293465&h=123&w=210' 
+                                     title='Father Gabriel Naddaf Photo By: FACEBOOK'/>
+                        
+				        <p class="sub-menu-featured-item-text">Israeli Christian group challenges BDS with new guide</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/GreenIsrael'>Green Israel</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/GreenIsrael/Community'>Community</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Community/New-Campsite-for-Youth-Dedicated-in-Maginim-Forest-409461'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293279&h=123&w=210' 
+                                     title='New Campsite for Youth Dedicated in Maginim Forest Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">New Campsite for Youth Dedicated in Maginim Forest</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Community/New-Hadid-Single-Dedicated-in-Ben-Shemen-Forest-408494'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292316&h=123&w=210' 
+                                     title='New Hadid Single Dedicated in Ben Shemen Forest Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">New Hadid Single Dedicated in Ben Shemen Forest</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Community/Eucalyptus-Park-in-Beit-Shean-Inaugurated-408489'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292312&h=123&w=210' 
+                                     title='Eucalyptus Park in Beit Shean Inaugurated Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Eucalyptus Park in Beit Shean Inaugurated</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Community/Tranquil-Weekend-in-Nes-Harim-for-Gaza-Border-Families-408485'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292309&h=123&w=210' 
+                                     title='Gaza Border Families Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Tranquil Weekend in Nes Harim for Gaza Border Families</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/GreenIsrael/International-Cooperation'>International Cooperation</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/International-Cooperation/Italys-National-Day-at-EXPO-2015-405955'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=289486&h=123&w=210' 
+                                     title='Italy’s National Day at EXPO 2015 Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Italy’s National Day at EXPO 2015</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/International-Cooperation/The-Ambassadors-Club-of-Israel-Tours-the-Galilee-with-KKL-JNF-404812'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288352&h=123&w=210' 
+                                     title='Tours the Galilee Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">The Ambassadors’ Club of Israel Tours the Galilee with KKL-JNF</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/International-Cooperation/The-International-Solidarity-Mission-Says-Goodbye-in-Jerusalem-403639'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=287010&h=123&w=210' 
+                                     title='International Solidarity Mission Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">The International Solidarity Mission Says Goodbye in Jerusalem</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/International-Cooperation/Chinese-Ambassador-Visits-the-Israel-China-Friendship-Fores-398048'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=281699&h=123&w=210' 
+                                     title='Chinese Ambassador   Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Chinese Ambassador Visits the Israel-China Friendship Fores</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/GreenIsrael/Water-for-Israel'>Ecology</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Water-for-Israel/KKL-JNF-Global-Landscapes-Seminar-at-Expo-2015-409460'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293276&h=123&w=210' 
+                                     title='KKL-JNF Global Landscapes Seminar at Expo 2015 Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">KKL-JNF Global Landscapes Seminar at Expo 2015</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Water-for-Israel/New-Bio-filters-Purify-Surface-Runoff-Water-for-Reuse-393256'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=276519&h=123&w=210' 
+                                     title='New Bio-filters 758E Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">New Bio-filters Purify Surface Runoff Water for Reuse</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Water-for-Israel/Future-Tour-Guides-Discover-the-Negev-with-KKL-JNF-391535'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=274703&h=123&w=210' 
+                                     title='Negev with KKL-JNF 758 Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Future Tour Guides Discover the Negev with KKL-JNF</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Water-for-Israel/The-Shamir-Drilling-Project-384819'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=266933&h=123&w=210' 
+                                     title='The Shamir Drilling Project 758 Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">The Shamir Drilling Project</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/GreenIsrael/KKL-JNF-World-Wide'>KKL- JNF WorldWide</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/KKL-JNF-World-Wide/100-Million-JNF-Boruchin-Israel-Education-Advocacy-Center-Opens-406888'>
+				        <img class="sub-menu-featured-item-img" alt='JNF USA solidarity delegation in Northern Israel, May 2015. Photo: Yoav Devir '  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=290537&h=123&w=210' 
+                                     title='Israel Education Photo By: JNF USA SOLIDARITY DELEGATION IN NORTHERN ISRAEL, MAY 2015. PHOTO: YOAV DEVIR'/>
+                        
+				        <p class="sub-menu-featured-item-text">$100 Million JNF Boruchin Israel Education Advocacy Center Opens</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/KKL-JNF-World-Wide/JNF-Canada-Pays-Tribute-to-the-Honourable-John-Baird-405954'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=289480&h=123&w=210' 
+                                     title='JNF Canada Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">JNF Canada Pays Tribute to the Honourable John Baird</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/KKL-JNF-World-Wide/From-Sunny-Israel-to-Cold-Canada-394470'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=277796&h=123&w=210' 
+                                     title='Israel to Cold Canada Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">From Sunny Israel to Cold Canada</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/KKL-JNF-World-Wide/Walking-for-Water-with-KKL-France-in-the-Mountains-of-Eilat-393746'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=277084&h=123&w=210' 
+                                     title='Mountains of Eilat 758A Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Walking for Water with KKL France in the Mountains of Eilat</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/GreenIsrael/Innovative-Research'>Innovative Research</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/Renewable-Energies-for-the-Future-in-the-Arava-409458'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293273&h=123&w=210' 
+                                     title='Renewable Energies for the Future in the Arava Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Renewable Energies for the Future in the Arava</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/LDA-Conference-Science-and-Technology-for-Forests-408495'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292319&h=123&w=210' 
+                                     title='LDA Conference: Science and Technology for Forests Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">LDA Conference: Science and Technology for Forests</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/The-Negev-Conference-on-Agricultural-Research-and-Development-392134'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=275264&h=123&w=210' 
+                                     title='The Negev Conference 758A Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">The Negev Conference on Agricultural Research and Development</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/Arava-Open-Day-Food-Security-for-Israel-and-the-Entire-World-389842'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=272867&h=123&w=210' 
+                                     title='Arava Open Day 758A Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Arava Open Day: Food Security for Israel and the Entire World</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Community/New-Campsite-for-Youth-Dedicated-in-Maginim-Forest-409461'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293279&h=123&w=210' 
+                                     title='New Campsite for Youth Dedicated in Maginim Forest Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">New Campsite for Youth Dedicated in Maginim Forest</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Water-for-Israel/KKL-JNF-Global-Landscapes-Seminar-at-Expo-2015-409460'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293276&h=123&w=210' 
+                                     title='KKL-JNF Global Landscapes Seminar at Expo 2015 Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">KKL-JNF Global Landscapes Seminar at Expo 2015</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/Renewable-Energies-for-the-Future-in-the-Arava-409458'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=293273&h=123&w=210' 
+                                     title='Renewable Energies for the Future in the Arava Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">Renewable Energies for the Future in the Arava</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Green-Israel/Innovative-Research/LDA-Conference-Science-and-Technology-for-Forests-408495'>
+				        <img class="sub-menu-featured-item-img" alt='KKL-JNF'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=292319&h=123&w=210' 
+                                     title='LDA Conference: Science and Technology for Forests Photo By: KKL-JNF'/>
+                        
+				        <p class="sub-menu-featured-item-text">LDA Conference: Science and Technology for Forests</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                
+	                 <li class="main-menu-item-wrap">
+				        <a class="main-menu-item " href='/Aliyah-With-NBN'>Aliyah With NBN</a>
+				        <div class="main-sub-menu">
+					        <div class="main-sub-menu-inner-wrap">
+						      
+
+<nav class="sub-menu">
+	<ul>
+        
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/Oleh-Spotlight'>Oleh Spotlight</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Oleh-Spotlight/An-Olah-Reports-From-Nepal-405278'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288768&h=123&w=210' 
+                                     title='An Olah Reports From Nepal Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">An Olah Reports From Nepal</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Oleh-Spotlight/How-One-Oleh-is-Helping-to-Transform-the-Way-People-Drink-Water-398802'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=282771&h=123&w=210' 
+                                     title='How One Oleh is Helping Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">How One Oleh is Helping to Transform the Way People Drink Water</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Oleh-Spotlight/From-Think-Tank-to-Environmental-Consultant-390075'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273148&h=123&w=210' 
+                                     title='From Think Tank 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">From Think Tank to Environmental Consultant</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Oleh-Spotlight/Award-Winning-Designer-Launches-Career-as-Wedding-Dressmaker-390072'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273144&h=123&w=210' 
+                                     title='Award Winning Designer 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Award Winning Designer Launches Career as Wedding Dressmaker</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/Working-In-Israel'>Working In Israel</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Working-In-Israel/How-Natalie-Edwards-Built-a-Successful-Career-in-Israels-Startup-Industry-405279'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288771&h=123&w=210' 
+                                     title='Israel’s Startup Industry Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">How Natalie Edwards Built a Successful Career in Israel’s Startup Industry</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Working-In-Israel/5-Tips-to-Land-a-Job-in-Israel-390085'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273171&h=123&w=210' 
+                                     title='5 Tips to Land a Job in Israel 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">5 Tips to Land a Job in Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Working-In-Israel/Starting-Your-Own-Business-in-Israel-Real-Life-Examples-390084'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273165&h=123&w=210' 
+                                     title='Starting Your Own Business in Israel 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Starting Your Own Business in Israel: Real Life Examples</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Working-In-Israel/5-Strategies-for-Finding-Your-Professional-Place-in-Israel-390079'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273161&h=123&w=210' 
+                                     title='5 Strategies 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">5 Strategies for Finding Your Professional Place in Israel</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/Family-Life'>Family Life</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Family-Life/36-Hours-in-Southern-Israel-390048'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273034&h=123&w=210' 
+                                     title='36 Hours in Southern Israel 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">36 Hours in Southern Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Family-Life/Food-Shopping-In-Israel-388876'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271943&h=123&w=210' 
+                                     title='food shooping 7588 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Food Shopping In Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Family-Life/How-Women-Can-Have-it-All-in-Israel-388874'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271938&h=123&w=210' 
+                                     title='How Women Can Have it All in Israel 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">How Women Can Have it All in Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Family-Life/The-Eisenbergs-Long-Journey-Home-388872'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271935&h=123&w=210' 
+                                     title='The Eisenberg’s Long Journey Home 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">The Eisenberg’s Long Journey Home</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/Retiring-In-Israel'>Retiring In Israel</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Retiring-In-Israel/Why-Retirees-are-Thriving-in-Israel-388961'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=272003&h=123&w=210' 
+                                     title='Why Retirees are Thriving 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Why Retirees are Thriving in Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Retiring-In-Israel/Thank-To-Aliyah-Video-388959'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271997&h=123&w=210' 
+                                     title='Thank To Aliyah Video 758 Photo By: NEFESH B&apos;NEFESH'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">Thanks to Aliyah video</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Retiring-In-Israel/6-Frequently-Asked-Questions-about-Israeli-Healthcare-388958'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271993&h=123&w=210' 
+                                     title='6 Frequently Asked Questions 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">6 Frequently Asked Questions about Israeli Healthcare</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/Retiring-In-Israel/Starting-Over-in-Israel-388956'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=271990&h=123&w=210' 
+                                     title='Starting Over in Israel 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Starting Over in Israel</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/Live-Love-Israel'>Live Love Israel</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/Sam-Eisenberg-From-Nativ-to-Aliyah-405282'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288777&h=123&w=210' 
+                                     title='Sam Eisenberg: From Nativ to Aliyah Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Sam Eisenberg: From Nativ to Aliyah</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/WATCH-Why-Olim-LiveLoveIsrael-398807'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=282780&h=123&w=210' 
+                                     title='WATCH: Why Olim #LiveLoveIsrael Photo By: NEFESH B&apos;NEFESH'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">WATCH: Why Olim #LiveLoveIsrael</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/10-Ways-that-Olim-Kick-Back-398804'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=282774&h=123&w=210' 
+                                     title='10 Ways that Olim Kick Back Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">5 Ways that Olim Kick Back</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/VIDEO-Are-you-ready-for-the-South-393565'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=276814&h=123&w=210' 
+                                     title='Are you ready for the South 758 Photo By: NEFESH B&apos;NEFESH'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">VIDEO: Are you ready for the South?</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+				<li class="sub-menu-item-wrap"><a class="sub-menu-item" href='/Aliyah-With-NBN/NBN-News'>NBN News</a>
+                
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/NBN-News/Make-yourself-at-home-in-Israel-393563'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=276809&h=123&w=210' 
+                                     title='home… in Israe 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Make yourself at home… in Israel</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/NBN-News/NBN-Announces-Bonei-Zion-Prize-Winners-for-2015-393561'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=276806&h=123&w=210' 
+                                     title='Bonei Zion 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">NBN Announces Bonei Zion Prize Recipients for 2015</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/NBN-News/NefeshBNefesh-Provides-Services-to-Bnot-Sherut-390058'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273076&h=123&w=210' 
+                                     title='Bnot Sherut 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">NefeshB’Nefesh Provides Services to Bnot Sherut</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/ALIYAH-WITH-NBN-/NBN-News/How-Doctors-Are-Impacting-Israels-South-390055'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=273058&h=123&w=210' 
+                                     title='How Doctors 758 Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">How Doctors Are Impacting Israel’s South</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div></li>
+			
+    </ul>
+</nav>
+
+                              
+
+<div class="sub-menu-featured-items-wrap">
+	<ul>
+        
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/Sam-Eisenberg-From-Nativ-to-Aliyah-405282'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288777&h=123&w=210' 
+                                     title='Sam Eisenberg: From Nativ to Aliyah Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">Sam Eisenberg: From Nativ to Aliyah</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Working-In-Israel/How-Natalie-Edwards-Built-a-Successful-Career-in-Israels-Startup-Industry-405279'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288771&h=123&w=210' 
+                                     title='Israel’s Startup Industry Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">How Natalie Edwards Built a Successful Career in Israel’s Startup Industry</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Oleh-Spotlight/An-Olah-Reports-From-Nepal-405278'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=288768&h=123&w=210' 
+                                     title='An Olah Reports From Nepal Photo By: NEFESH B&apos;NEFESH'/>
+                        
+				        <p class="sub-menu-featured-item-text">An Olah Reports From Nepal</p>
+			        </a>
+		        </li>
+            
+		        <li class="sub-menu-featured-item">
+			        <a href='http://www.jpost.com/Aliyah-With-NBN/Live-Love-Israel/WATCH-Why-Olim-LiveLoveIsrael-398807'>
+				        <img class="sub-menu-featured-item-img" alt='Nefesh B Nefesh'  
+                                     data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=282780&h=123&w=210' 
+                                     title='WATCH: Why Olim #LiveLoveIsrael Photo By: NEFESH B&apos;NEFESH'/>
+                                               
+                            <span class="sub-menu-featured-item-image-video"><i class="icon" data-icon="m"></i></span>
+                        
+				        <p class="sub-menu-featured-item-text">WATCH: Why Olim #LiveLoveIsrael</p>
+			        </a>
+		        </li>
+            
+	</ul>
+</div>
+					        </div>
+				        </div>
+			        </li>
+                	
+		</ul>
+	</nav>
+</div>
+			
+                <!-- End Main Menu -->
+            </div>
+
+        </header>
+    </div>
+</div>
+
+<!-- End Top Container -->
+
+
+<div id="site-overlay" class=""></div>
+
+<div class="content-wrap">
+
+    <!-- Start Content Top-->
+    <div class="content-top-wrap">
+
+        <!-- Date Time & Search for 1200 -->
+        <div class="content-top-utility-wrap-1200 ">
+            <div class="date-time-wrap hide-on-960">
+                <p class="date-time">08.02.2015 | 17 Av, 5775</p>
+                <div class="search-wrap">
+                    <input class="search-input content-box" placeholder="search" type="search" name="search">
+                    <button class="search-submit content-box" type="submit"><i data-icon="g" class="icon"></i></button>
+                </div>
+            </div>
+            
+        </div>
+        <!-- End Date Time & Search for 1200 -->
+
+        <!-- Top Banner -->
+        <div class="content-top-banner-wrap">
+            <span class="inline-block horizontal-banner">
+                <!-- JPost_New_WebSite /JPOST_ARTICLE/728X180_JPOST_ARTICLE_TOP -->
+<div id='div-gpt-ad-1408352734734-6'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408352734734-6'); });
+</script>
+</div>
+
+
+
+
+            </span>
+        </div>
+        <!-- End Top Banner -->
+
+        <!-- Social 1200 -->
+        <div class="content-top-social hide-on-960">
+            <div class="signin">
+                
+                
+            </div>
+            
+
+<ul>
+    
+            <li class='social-icon-wrap gplus'>
+		        <a title='Advertise With Us' target="a_blank" href='http://www.jpost.com/LandedPages/AdsWithUsHebrew.aspx'>
+			        <span class="social-icon"> <i data-icon="z" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap email'>
+		        <a title='Newsletter' target="a_blank" href='http://www.jpost.com/LandedPages/JPostNewsletterAndJPostAlert.aspx'>
+			        <span class="social-icon"> <i data-icon="c" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap rss'>
+		        <a title='Rss' target="a_blank" href='http://www.jpost.com/RSS/'>
+			        <span class="social-icon"> <i data-icon="j" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap facebook'>
+		        <a title='JPost On Facebook' target="a_blank" href='https://www.facebook.com/TheJerusalemPost'>
+			        <span class="social-icon"> <i data-icon="i" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap twitter'>
+		        <a title='JPost On Twitter' target="a_blank" href='https://twitter.com/Jerusalem_Post'>
+			        <span class="social-icon"> <i data-icon="h" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap gplus'>
+		        <a title='JPost On Google+' target="a_blank" href='https://plus.google.com/100424174270733716683/posts'>
+			        <span class="social-icon"> <i data-icon="k" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap linkedin'>
+		        <a title='Jpost On LinkedIn' target="a_blank" href='http://www.linkedin.com/company/jerusalem-post'>
+			        <span class="social-icon"> <i data-icon="l" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap gplus'>
+		        <a title='Jpost On youtube' target="a_blank" href='https://www.youtube.com/user/Jposttv/videos'>
+			        <span class="social-icon"> <i class="icon" data-icon="y"></i> </span>
+		        </a>
+	        </li>
+        
+</ul>
+
+
+				
+			
+				
+			
+        </div>
+        <!-- End Social 1200 -->
+
+        <!-- Social Search & Data Time 960 -->
+        <div class="content-top-utility-wrap-960">
+            <div class="date-time-wrap hide-on-1200">
+                <p class="date-time">08.02.2015 | 17 Av, 5775</p>
+            </div>
+            <div class="content-top-social hide-on-1200">
+                
+
+<ul>
+    
+            <li class='social-icon-wrap gplus'>
+		        <a title='Advertise With Us' target="a_blank" href='http://www.jpost.com/LandedPages/AdsWithUsHebrew.aspx'>
+			        <span class="social-icon"> <i data-icon="z" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap email'>
+		        <a title='Newsletter' target="a_blank" href='http://www.jpost.com/LandedPages/JPostNewsletterAndJPostAlert.aspx'>
+			        <span class="social-icon"> <i data-icon="c" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap rss'>
+		        <a title='Rss' target="a_blank" href='http://www.jpost.com/RSS/'>
+			        <span class="social-icon"> <i data-icon="j" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap facebook'>
+		        <a title='JPost On Facebook' target="a_blank" href='https://www.facebook.com/TheJerusalemPost'>
+			        <span class="social-icon"> <i data-icon="i" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap twitter'>
+		        <a title='JPost On Twitter' target="a_blank" href='https://twitter.com/Jerusalem_Post'>
+			        <span class="social-icon"> <i data-icon="h" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap gplus'>
+		        <a title='JPost On Google+' target="a_blank" href='https://plus.google.com/100424174270733716683/posts'>
+			        <span class="social-icon"> <i data-icon="k" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap linkedin'>
+		        <a title='Jpost On LinkedIn' target="a_blank" href='http://www.linkedin.com/company/jerusalem-post'>
+			        <span class="social-icon"> <i data-icon="l" class="icon"></i> </span>
+		        </a>
+	        </li>
+        
+            <li class='social-icon-wrap gplus'>
+		        <a title='Jpost On youtube' target="a_blank" href='https://www.youtube.com/user/Jposttv/videos'>
+			        <span class="social-icon"> <i class="icon" data-icon="y"></i> </span>
+		        </a>
+	        </li>
+        
+</ul>
+
+
+				
+			
+				
+			
+            </div>
+            <div class="search-wrap hide-on-1200">
+                <input class="search-input content-box" placeholder="search" type="search" name="search">
+                <button class="search-submit content-box" type="submit"><i data-icon="g" class="icon"></i></button>
+            </div>
+        </div>
+        <!-- End Social Search & Data Time 960 -->
+
+    </div>
+    <!-- End Content Top -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- End Header -->
+</div>
+
+
+
+            <div id="site-overlay" class=""></div>
+
+            <div class="content-wrap">
+                
+
+
+<!-- Start Content Level 1 -->
+<div class="level-wrap level-1">
+    
+
+    <!-- Start Top Articles Round -->
+    
+
+
+<div class="top-articles-round">
+    <ul class="top-articles-round-items-wrap" id="katava-top-articles-slider">
+
+        
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Egyptian-forces-kill-top-ISIS-figure-seal-security-pact-with-Saudi-Arabia-410813" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Cairo'
+                                src='/HttpHandlers/ShowImage.ashx?id=280312&h=74&w=260'
+                                title='Egyptian military helicopters fly over a republican guard around the congress hall during the Arab Summit in Sharm el-Sheikh, in the South Sinai governorate, south of Cairo, March 28 Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            Egyptian forces kill top ISIS figure, seal security pact with Saudi Arabia</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Arab-Israeli-Conflict/Hamas-leaders-car-fire-bombed-in-West-Bank-410807" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Hamas'
+                                src='/HttpHandlers/ShowImage.ashx?id=293292&h=74&w=260'
+                                title='Palestinians gather around a burnt-out car in Gaza City on July 19, 2015, after explosions destroyed five cars in Gaza belonging to members of Hamas and Islamic Jihad, witnesses and a security source said, amid tensions between the Palestinian territory&apos;s rulers and Islamist extremists. Photo By: MOHAMMED ABED / AFP' /></span>
+                        <p class="title top-articles-round-title">
+                            Hamas leader's car fire-bombed in West Bank</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Report-Osama-Bin-Ladens-stepmother-half-sister-killed-in-private-jet-crash-in-Britain-410802" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Osama bin-Laden'
+                                src='/HttpHandlers/ShowImage.ashx?id=275442&h=74&w=260'
+                                title='Osama bin-Laden Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            Report: Osama Bin Laden's stepmother, half-sister killed in private jet crash in Britain</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/WATCH-Jordanians-march-in-solidarity-with-Palestinian-day-of-rage-410770" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Protesters from the Islamic Action Front wave their party flags and shout slogans during a protest'
+                                src='/HttpHandlers/ShowImage.ashx?id=294653&h=74&w=260'
+                                title='Protesters from the Islamic Action Front wave their party flags and shout slogans during a protest in support of Palestinians Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            WATCH: Jordanians march in solidarity with Palestinian 'day of rage'</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Top-French-official-If-Congress-votes-down-Iran-deal-a-better-deal-could-be-achieved-410724" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Kerry and Zarif in Vienna'
+                                src='/HttpHandlers/ShowImage.ashx?id=292714&h=74&w=260'
+                                title='Secretary Kerry Poses for a Group Photo With Fellow EU, P5+1 Foreign Ministers and Iranian Foreign Minister Zarif After Reaching Iran Nuclear Deal Photo By: STATE DEPARTMENT PHOTO' /></span>
+                        <p class="title top-articles-round-title">
+                            Report: Top French official says if Congress rejects Iran deal, a better deal could be achieved</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Chechen-girls-con-ISIS-operatives-out-of-cash-in-recruitment-scheme-410683" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='ISIS'
+                                src='/HttpHandlers/ShowImage.ashx?id=293333&h=74&w=260'
+                                title='ISIS Photo By: ISLAMIC SOCIAL MEDIA' /></span>
+                        <p class="title top-articles-round-title">
+                            ISIS conned by Chechen women in internet recruitment scam</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Iran/Netanyahu-The-more-one-looks-at-the-Iran-accord-the-worse-it-looks-410679" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Prime Minister Benjamin Netanyahu at the weekly cabinet meeting on Sunday'
+                                src='/HttpHandlers/ShowImage.ashx?id=288774&h=74&w=260'
+                                title='Prime Minister Benjamin Netanyahu at the weekly cabinet meeting on Sunday Photo By: AMIT SHABAY/POOL' /></span>
+                        <p class="title top-articles-round-title">
+                            Netanyahu: The more one looks at the Iran accord, the worse it looks</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Refugees-flee-ISIS-to-Iraqi-Kurdistan-the-Israel-of-the-Arab-states-410676" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Erbil'
+                                src='/HttpHandlers/ShowImage.ashx?id=292974&h=74&w=260'
+                                title='Internally displaced people walk in the Harsham Refugee camp, in Erbil. Photo By: LAURA KELLY' /></span>
+                        <p class="title top-articles-round-title">
+                            Refugees flee ISIS to Iraqi Kurdistan, 'the Israel of the Arab states'</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/ISIS-Threat/Nusra-Front-abducts-US-backed-rebel-leader-blunts-efforts-against-ISIS-410594" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Members of al Qaeda&apos;s Nusra Front'
+                                src='/HttpHandlers/ShowImage.ashx?id=273554&h=74&w=260'
+                                title='Members of al-Qaida&apos;s‏ Nusra Front [File] Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            Nusra Front abducts US-backed rebel leader, blunts efforts against ISIS</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Iran/Foreign-Ministry-calls-Sunni-Arab-states-Israels-Allies-410587" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Saudi King Salman '
+                                src='/HttpHandlers/ShowImage.ashx?id=279426&h=74&w=260'
+                                title='Saudi King Salman  Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            Foreign Ministry calls Sunni Arab states 'Israel's allies'</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/With-more-than-250000-dead-in-Syria-UN-proposes-working-groups-for-peace-410542" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Syria civil war'
+                                src='/HttpHandlers/ShowImage.ashx?id=291770&h=74&w=260'
+                                title='Damaged buildings in Al-Zabadani, Syria (file) Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            With more than 250,000 dead in Syria, UN proposes working groups for peace</p>
+                    </a>
+                </li>
+            
+                <li class="top-articles-round-item">
+                    <a href="http://www.jpost.com/Middle-East/Iran/Top-US-general-distances-himself-from-choice-of-Iran-deal-or-war-410519" class="inline-block">
+                        <span class="top-articles-round-image-crop">
+                            <img class="top-articles-round-image"
+                                alt='Martin Dempsey'
+                                src='/HttpHandlers/ShowImage.ashx?id=294374&h=74&w=260'
+                                title='The Chairman of the Joint Chiefs of Staff, U.S.Army General Martin Dempsey (R), along with Energy Secretary Ernest Moniz, (L), appear before the Senate Armed Services Committee in Washington July 29, 2015.  Photo By: REUTERS' /></span>
+                        <p class="title top-articles-round-title">
+                            Top US general distances himself from choice of Iran deal or war</p>
+                    </a>
+                </li>
+            
+
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    <!-- End Top Articles Round -->
+    <!-- Start Breadcrumbs -->
+    
+
+<nav class="breadcrumbs">
+	<ul>
+        
+                <li class="breadcrumbs-item">
+			        <a class="breadcrumbs-item-link" href='/'>Jerusalem Post</a>
+		        </li>
+            
+                <li class="breadcrumbs-item">
+			        <a class="breadcrumbs-item-link" href='/Middle-East'>Middle East</a>
+		        </li>
+            
+                <li class="breadcrumbs-item">
+			        <a class="breadcrumbs-item-link" href='/Middle-East/Iran'>Iran</a>
+		        </li>
+            
+	</ul>
+</nav>
+
+<div class="breadcrumbs-title">Iran's parliament has no authority over nuclear deal, Iran's top negotiator says</div>
+
+
+    <!-- End Breadcrumbs -->
+</div>
+<!-- End Content Level 1 -->
+
+
+
+<!-- Start Content Level 2 -->
+<div class="level-wrap level-2">
+
+
+    <div class="article-left-wrap">
+        <!-- Start Article Content -->
+        
+
+
+<div class="article-box">
+
+    <div class="article-box-title-wrap">
+        <div class="article-box-inner-title">
+          
+            <p class="uppercase content-box-title article-box-title">
+                Iran
+            </p>
+
+            <a id="157_ArticleControl_lnkPrint" href="http://www.jpost.com/landedpages/printarticle.aspx?id=410808" target="_blank">
+                <span class="article-print-icon">
+                    <i class="icon" data-icon="x"></i>
+                </span>
+            </a>
+
+            <div class="article-info">
+                <p class="article-author">
+                    By 
+                    REUTERS \
+                </p>
+                <p class="article-date-time">
+                    08/01/2015 17:31
+                </p>
+              
+            </div>
+        </div>
+    </div>
+   
+    <div class="article-inner-content-bg-wrap">
+        <div class="article-inner-content-bg-inner">
+            <div class="article-top-wrap">
+              
+      <div class="article-top">
+                    <h1 class="article-title">
+                        Iran's parliament has no authority over nuclear deal, Iran's top negotiator says
+                    </h1>
+                    <ul class="article-related-wrap">
+                        
+                                <li class="article-related-item">
+                                    <a  href='http://www.jpost.com/Middle-East/Iran/Foreign-Ministry-calls-Sunni-Arab-states-Israels-Allies-410587' target="_blank"><h3 class="article-related-link">Foreign Ministry calls Sunni Arab states 'Israel's al...</h3></a>
+                                </li>
+                            
+                                <li class="article-related-item">
+                                    <a  href='http://www.jpost.com/Middle-East/Iran/Netanyahu-The-more-one-looks-at-the-Iran-accord-the-worse-it-looks-410679' target="_blank"><h3 class="article-related-link">Netanyahu: The more one looks at the Iran accord, the...</h3></a>
+                                </li>
+                            
+                                <li class="article-related-item">
+                                    <a  href='http://www.jpost.com/Middle-East/Top-French-official-If-Congress-votes-down-Iran-deal-a-better-deal-could-be-achieved-410724' target="_blank"><h3 class="article-related-link">Report: Top French official says if Congress rejects ...</h3></a>
+                                </li>
+                            
+                    </ul>
+
+                    
+        <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='7939847'></div>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   
+
+                </div>
+                <!-- Banner -->
+                <div class="box-banner-wrap">
+                    <!-- JPost_New_WebSite /JPOST_ARTICLE/300X250_JPOST_ARTICLE_TOP -->
+<div id='div-gpt-ad-1408352734734-2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408352734734-2'); });
+</script>
+</div>
+
+
+
+
+                </div>
+              
+                
+            </div>
+            <!-- Article Teaser-->
+            <div id="157_ArticleControl_dTeaser" class="article-teaser-wrap">
+                <h2 class="article-teaser-text">  The comments from Ali Akbar Salehi, the head of Iran's atomic energy agency, are the latest volley in a lengthy battle between Iranian officials supportive of the deal, and hardliners who are skeptical of it.
+                </h2>
+              <img id="157_ArticleControl_imgArticle" title="Head of the Iranian Atomic Energy Organization Ali Akbar Salehi speaks with reporters [File] Photo By: REUTERS" class="article-main-image" src="http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=291983&amp;h=530&amp;w=758" alt="Ali Akbar Salehi " />
+              
+                
+               <div id="157_ArticleControl_dFirstVideoArticle"></div>
+               <div id="157_ArticleControl_dImage" class="article-image-caption-holder">
+                    <div class="navctl">
+                        <i data-icon="b" class="next"></i>
+                        <span class="pager"></span>
+                        <i data-icon="a" class="previous"></i>
+                    </div>
+                    <p class="article-image-caption">
+                    Head of the Iranian Atomic Energy Organization Ali Akbar Salehi speaks with reporters [File].
+                     (photo credit:REUTERS)
+                    </p>
+                </div>
+            </div>
+            <!-- Article -->
+            <div class="article-content">
+                <div id="157_ArticleControl_dShareButton" class="social-share-buttons top hide-on-960" data-share-url="http://www.jpost.com/page.aspx?pageid=7&amp;articleid=410808">
+                    <button  type="button" class="share-facebook-button"><i class="icon" data-icon="d"></i>Share on Facebook</button>
+                    <button type="button" class="share-twitter-button"><i class="icon" data-icon="h"></i>Share on Twitter</button>
+                   
+                </div>
+                <div class="article-text">
+                    <div class="article-box-banner-wrap">
+                           <!-- JPost_New_WebSite /JPOST_ARTICLE/300X250_JPOST_ARTICLE_MIDDLE -->
+<div id='div-gpt-ad-1408352734734-1' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408352734734-1'); });
+</script>
+</div>
+
+
+
+
+                    </div>
+                   <p>
+                        Iran's parliament does not have authority over the nuclear agreement signed with world powers last month, the Islamic Republic's top nuclear negotiator was quoted as saying on Saturday.<br/><br/>The comments from Ali Akbar Salehi, the head of Iran's atomic energy agency, are the latest volley in a lengthy battle between Iranian officials supportive of the deal, and hardliners who are skeptical of it.<br/><br/>The conservative-dominated parliament in June passed a bill imposing strict conditions on any nuclear deal, such as barring international inspectors from Iran's military sites.<br/><br/>Under the terms of the final deal, however, Iran must provide access to suspect sites including at its military facilities within 24 days, or risk sanctions being reimposed.<br/><br/>&quot;It is absolutely not the case that the government must bring before parliament any agreement it wants to sign with a foreign country,&quot; Salehi was quoted as saying by state news agency IRNA.<br/><br/>&quot;The Joint Comprehensive Plan of Action is not a treaty or a convention, and I don't know under what definition it would go to parliament.&quot;<br/><br/>The Iran nuclear deal, reached with six world powers on July 14, imposes strict limits on its nuclear program in exchange for relief from international sanctions, breaking decades of mounting hostility with the West.<br/><br/>Hardliners in parliament and the security establishment began sniping at the deal within days but have been unable to persuade Supreme Leader Ayatollah Ali Khamenei, the country's highest authority, to withdraw his cautious support for it.<br/><br/>The deal is also under threat from US lawmakers, who have until Sept. 17 to accept or reject the agreement. Some members of Congress have objected to the deal as not tough enough, and rejection would prevent President Barack Obama from waiving most US-imposed sanctions on Iran.<br/><br/>The head of the United Nations nuclear watchdog, Yukiya Amano, will meet US Senators this week to discuss his agency's monitoring role of Iran's nuclear program.<br />
+                   </p>     
+                         <div class='imagegallery'>
+                            <p class="article-image-caption"></p>
+                         </div>
+                       <p> </p>
+                           
+                    <div>
+                         
+        <a href="http://www.jpost.com/LandedPages/JPostNewsletterAndJPostAlert.aspx" target="_blank"> <img src="http://www.jpost.com/HttpHandlers/ShowImage.ashx?id=290327" alt="subscribe newsletter" width="601" height="79" /> </a>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+
+                <div id="157_ArticleControl_divShareButton" data-share-url="http://www.jpost.com/page.aspx?pageid=7&amp;articleid=410808" class="social-share-buttons bottom">
+                    <button type="button" class="share-facebook-button"><i class="icon" data-icon="d"></i>Share on Facebook</button>
+                    <button  type="button" class ="share-twitter-button"><i class="icon" data-icon="h"></i>Twitter</button>
+                    <button  type="button" class="share-google-button"><i class="icon" data-icon="k"></i>Google Plus</button>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+   
+     
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- article-inner-content-bg-wrap -->
+    <!-- End Article Content -->
+</div>
+        
+
+        <div class="article-bg-bottom">
+            <div class="article-bg-bottom-inner"></div>
+        </div>
+
+        
+        <!-- Insert Outbrain here -->
+        
+        <div id="taboola-below-article-thumbnails"></div>
+<script async  type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-2r-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+    
+        <div id="taboola-below-article-text-links"></div>
+<script async  type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'text-links-a',
+    container: 'taboola-below-article-text-links',
+    placement: 'Below Article Text Links',
+    target_type: 'mix'
+  });
+</script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- End Outbrain here -->
+
+        <!-- Banner 728X90 -->
+        <div class="article-bottom-banner">
+            
+
+<input type="hidden" name="157$DFPScript1200$Show_1139" id="157_DFPScript1200_Show_1139" value="&lt;!-- JPost_New_WebSite /JPOST_ARTICLE/728X180_JPOST_ARTICLE_BUTTON -->
+&lt;div id=&#39;div-gpt-ad-1408352734734-5&#39;>
+&lt;script type=&#39;text/javascript&#39;>
+googletag.cmd.push(function() { googletag.display(&#39;div-gpt-ad-1408352734734-5&#39;); });
+&lt;/script>
+&lt;/div>
+" />
+<div id='script_Holder_1139'></div>
+
+            
+
+<input type="hidden" name="157$DFPScript960$Show_1696" id="157_DFPScript960_Show_1696" value="&lt;!-- JPost_New_WebSite /JPOST_ARTICLE/468X60_JPOST_ARTICLE_BUTTON -->
+&lt;div id=&#39;div-gpt-ad-1408352734734-4&#39; style=&#39;width:468px; height:60px;&#39;>
+&lt;script type=&#39;text/javascript&#39;>
+googletag.cmd.push(function() { googletag.display(&#39;div-gpt-ad-1408352734734-4&#39;); });
+&lt;/script>
+&lt;/div>" />
+<div id='script_Holder_1696'></div>
+
+        </div>
+        <div id="talkbackForDesktop">
+        <!--[ Talkback script Start ] -->
+        
+        <p class="copy-rights-text"> Your comment must be approved by a moderator before being published on JPost.com.   
+Disqus users can post comments automatically.
+<br /> 
+<br /> 
+Comments must adhere to <a target="_blank" class="copy-rights-wrap" href="http://www.jpost.com/LandedPages/talkbackpolicy.aspx"> our Talkback policy</a>. If you believe that a comment has breached the Talkback policy, please press the flag icon to bring it to the attention of our moderation team.
+</p>
+<br /> 
+<br /> 
+<div id="disqus_thread"></div>
+
+<script async  type="text/javascript">
+    // CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'jpost'; // required: replace example with your forum shortname
+
+    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+    //var disqus_identifier = '';
+    //var disqus_url = 'http://dev1.jpost.com/permalink-to-page.html';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+                 var dsq = document.createElement('script'); 
+                 dsq.type = 'text/javascript'; dsq.async = true;
+                 dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0]  ||
+                 document.getElementsByTagName('body')[0]).appendChild(dsq);
+         
+                })();
+</script>
+
+            <noscript> Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a> </noscript>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--[ Talkback script End ] -->
+        </div>
+    </div>
+
+    <div class="article-right-wrap">
+
+        <div class="article-newsletters">
+            
+
+<div class="content-box newsletter-signup-wrap">
+    <div class="content-box-title-wrap">
+        <p class="newsletter-signup-title"><i class="icon" data-icon="n"></i>Sign up for our newsletter</p>
+    </div>
+    <div class="newsletter-signup-form">
+        <input type="email" value="" class="newsletter-signup-input" placeholder="Enter e-mail address" id="user-email-input">
+
+        <button type="button" class="newsletter-signup-submit" id="newsletter-submit">Submit</button>
+        <p class="newsletter-form-alerts" id="newsletter-form-msg">Please insert a valid email address</p>
+        <p class="newsletter-signup-text">By signing up to The Jpost mailing list, I hereby</p>
+        <input type="checkbox" id="newsletter-signup-checkbox" name="newsletter-signup-disclaimer" class="css-checkbox" value="newsletter-signup-disclaimer">
+        <label for="newsletter-signup-checkbox" class="css-label newsletter-signup-label">Accept the <a class="newsletter-signup-terms" href="/LandedPages/TermsOfService.aspx">terms</a> and conditions</label>
+
+        <input type="hidden"  id="contact-list-id" value="1514019609" />
+
+    </div>
+</div>
+
+
+
+
+        </div>
+
+        <!-- Insert Outbrain here -->
+        
+        <div id="taboola-right-rail-thumbnails"></div>
+<script async  type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-rr-a',
+    container: 'taboola-right-rail-thumbnails',
+    placement: 'Right Rail Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Start XL Banner -->
+        <div class="article-sidebar-item xl-banner-wrap">
+            <!-- JPost_New_WebSite /JPOST_ARTICLE/300X600_JPOST_ARTICLE_BUTTON -->
+<div id='div-gpt-ad-1408352734734-3' style='width:300px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408352734734-3'); });
+</script>
+</div>
+
+
+
+
+
+        </div>
+        <!-- End XL Banner -->
+
+        <!-- Start Box Twitter -->
+        <div class="box-twitter-script">
+            
+        <a class="twitter-timeline" href="https://twitter.com/Jerusalem_Post/lists/jpost-reporters" data-widget-id="532117517037092864">Tweets from https://twitter.com/Jerusalem_Post/lists/jpost-reporters</a>
+<script async >!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <!-- End Box Twitter -->
+
+        <!-- Banner -->
+        <div class="article-sidebar-item box-banner-wrap">
+            <!-- JPost_New_WebSite /JPOST_ARTICLE/300X250_JPOST_ARTICLE_BUTTON -->
+<div id='div-gpt-ad-1408352734734-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408352734734-0'); });
+</script>
+</div>
+
+
+
+
+        </div>
+
+         <!-- Start NewsMax Headline -->
+        <div class="article-sidebar-item">
+            
+        <div id="NmWg405" ></div><script type="text/javascript" src ='https://cdn.nmcdn.us/js/connectV3.js'></script><script type="text/javascript">  NM.init({WidgetID: 405})</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <!-- End NewsMax Headline -->
+
+        <!-- Start Tags -->
+        <div class="article-sidebar-item article-tags ">
+
+            
+
+<div class="news-feed-tags">
+    <p class="uppercase content-box-title">Tags</p>
+    <ul>
+        
+                <li id="157_RelatedTagsControl_rptRelatedTagsControl_liTag_0" class="tag-large">
+                    <a href='/Tags/iran-deal'>
+                        iran deal</a>
+                </li>
+            
+                <li id="157_RelatedTagsControl_rptRelatedTagsControl_liTag_1" class="tag-small">
+                    <a href='/Tags/iran-geneva-deal'>
+                        iran geneva deal</a>
+                </li>
+            
+                <li id="157_RelatedTagsControl_rptRelatedTagsControl_liTag_2" class="tag-large">
+                    <a href='/Tags/iran-nuclear-bomb'>
+                        iran nuclear bomb</a>
+                </li>
+            
+       
+    </ul>
+</div>
+
+
+
+        </div>
+        <!-- End Tags -->
+
+        <div id="talkbackForMobile" style="display:none;">
+        <!--[ Talkback script Start ] -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--[ Talkback script End ] -->
+        </div>
+
+
+
+
+        <!-- Banner -->
+        
+        <style type="text/css">
+            .cid-29 #NmWgContainer {
+                width: initial;
+            }
+        </style>
+    </div>
+</div>
+<!-- End Content Level 2 -->
+
+
+
+
+
+
+            </div>
+
+            
+
+
+
+<!-- Start Footer -->
+<footer class="footer-wrap">
+	<div class="footer-inner-wrap content-wrap">
+		
+
+
+
+<div class="footer-left-wrap">
+	<div class="footer-logo-wrap">
+	    <a href='' target="_blank">	</a>
+        
+        <a href='http://www.jpost.com'  class=''>   
+            <img src='http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=245272&w=204&h=31' alt='The Jerusalem Post - Israel News' >               
+         </a>
+    
+
+
+	</div>
+	<nav class="footer-menu">
+		
+                
+
+<div class="footer-menu-column">
+    <h3 class="footer-menu-title">Information</h3>
+    <ul class="">
+        
+                <li class="">
+                    <a href='/LandedPages/AboutUs.aspx' class="footer-menu-item" >
+                        About Us</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/Feedback.aspx' class="footer-menu-item" target='_blank' Feedback>
+                        Feedback</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/StaffEmails.aspx' class="footer-menu-item" target='_blank' Staff E-mails>
+                        Staff E-mails</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/Copyright.aspx' class="footer-menu-item" target='_blank' Copyright>
+                        Copyright</a>
+                </li>
+            
+                <li class="">
+                    <a href='/LandedPages/AdsWithUs.aspx' class="footer-menu-item" target='_blank' Advertise with Us>
+                        Advertise with Us</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/landedpages/statistics/statistics.aspx' class="footer-menu-item" target='_blank' Statistics>
+                        Statistics</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/ads/adspecs.pdf' class="footer-menu-item" target='_blank' Ad Specs>
+                        Ad Specs</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/TermsOfService.aspx' class="footer-menu-item" target='_blank' Terms Of Service>
+                        Terms Of Service</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/landedpages/privacypolicy.aspx' class="footer-menu-item" target='_blank' Privacy Policy>
+                        Privacy Policy</a>
+                </li>
+            
+    </ul>
+</div>
+
+            
+                
+
+<div class="footer-menu-column">
+    <h3 class="footer-menu-title">The Jerusalem Post Group</h3>
+    <ul class="">
+        
+                <li class="">
+                    <a href='https://members.jpost.com/LandedPages/hebrew.aspx' class="footer-menu-item" target='_blank' Learn Hebrew>
+                        Learn Hebrew</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/Jerusalem-Report' class="footer-menu-item" target='_blank' The Jerusalem Report>
+                        The Jerusalem Report</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/Subscribe.aspx' class="footer-menu-item" target='_blank' Our Magazines>
+                        Our Magazines</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/EditionFrancaise' class="footer-menu-item" target='_blank' Edition Francaise>
+                        Edition Francaise</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/GreenIsrael' class="footer-menu-item" target='_blank' Green Israel>
+                        Green Israel</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpostlite.co.il/' class="footer-menu-item" target='_blank' Jerusalem Post Lite>
+                        Jerusalem Post Lite</a>
+                </li>
+            
+                <li class="">
+                    <a href='https://members.jpost.com/UlpanOnline/UlpanOnlineHome.aspx' class="footer-menu-item" target='_blank' Ulpan Online>
+                        Ulpan Online</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/termsofserviceweekendandlite.aspx' class="footer-menu-item" target='_blank' Magazines Terms>
+                        Magazines Terms</a>
+                </li>
+            
+    </ul>
+</div>
+
+            
+                
+
+<div class="footer-menu-column">
+    <h3 class="footer-menu-title">Tools and services</h3>
+    <ul class="">
+        
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/jpostapps.aspx' class="footer-menu-item" target='_blank' Mobile Apps>
+                        JPost Mobile Apps</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/premium/premiumzone.aspx' class="footer-menu-item" target='_blank' JPost Premium>
+                        JPost Premium</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/JPostNewsletterAndJPostAlert.aspx' class="footer-menu-item" title='Subscribe To The JPost NewsLetter '  target='_blank'>
+                        JPost Newsletter</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/NewsTicker.aspx' class="footer-menu-item" target='_blank' JPost News Ticker>
+                        JPost News Ticker</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/RSS/' class="footer-menu-item" target='_blank'>
+                        JPost RSS feeds</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/ArticleArchive/ArticleArchive.aspx' class="footer-menu-item" target='_blank' JPost.com Archive>
+                        JPost.com Archive</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/Cooperations/Archives/' class="footer-menu-item" target='_blank' JPost Archives>
+                        JPost Archives</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/JPostNewsletterAndJPostAlert.aspx' class="footer-menu-item" target='_blank' JPost Alert>
+                        JPost Alert</a>
+                </li>
+            
+                <li class="">
+                    <a href='https://plus.google.com/100424174270733716683' class="footer-menu-item" rel="publisher">
+                        Find us on Google+</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/MagazinePrint/DigitalLibrary.aspx' class="footer-menu-item" target='_blank'>
+                        Digital Library</a>
+                </li>
+            
+    </ul>
+</div>
+
+            
+                
+
+<div class="footer-menu-column">
+    <h3 class="footer-menu-title">Conferences</h3>
+    <ul class="">
+        
+                <li class="">
+                    <a href='http://www.jpost.com/landedpages/ConferenceNewYork2016/Conference_Home.aspx' class="footer-menu-item" target='_blank' NYC Conference>
+                        NYC Conference</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.jpost.com/LandedPages/DiplomaticConference-2015/DiplomaticConference_Home.aspx' class="footer-menu-item" target='_blank' Diplomatic Conference>
+                        Diplomatic Conference</a>
+                </li>
+            
+    </ul>
+</div>
+
+            
+                
+
+<div class="footer-menu-column">
+    <h3 class="footer-menu-title">Sites Of Interest</h3>
+    <ul class="">
+        
+                <li class="">
+                    <a href='http://xads.zedo.com/ads2/c?a=2301741;g=0;c=1546000007;i=0;x=4352;n=1546;s=0;k=http://www.inbalhotel.com/hot-summer-promotion' class="footer-menu-item" target='_blank' Hotel Inbal>
+                        Inbal Jerusalem Hotel</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.danhotels.com/JerusalemHotels/?utm_source=jpost&utm_medium=referral&utm_content=footer&utm_campaign=jpost-dan' class="footer-menu-item" target='_blank' Dan Hotel>
+                        Jerusalem Hotels</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.kkl.org.il/eng/' class="footer-menu-item" target='_blank' KKL-JNF>
+                        KKL-JNF</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.bankhapoalim.com/?refferer=Jpost&subject=hp' class="footer-menu-item" target='_blank' Poalim Online>
+                        Poalim Online</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.itraveljerusalem.com/SearchBusiness.aspx?type=10' class="footer-menu-item" target='_blank' Old City Tours>
+                        Old City Tours</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://goo.gl/WdQM8d' class="footer-menu-item" target='_blank'>
+                        car rental Israel</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://dealspotr.com/' class="footer-menu-item" target='_blank'dealspoter>
+                        Dealspotr: Deals and coupon codes</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.ahuva.com/' class="footer-menu-item" target='_blank'>
+                        Jewish Jewelry, Gifts & Judaica</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://itraveljerusalem.com/' class="footer-menu-item" target='_blank' itraveljerusalem.com>
+                        itraveljerusalem.com</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://quickfansandlikes.com/' class="footer-menu-item" target='_blank'>
+                        buy instagram followers</a>
+                </li>
+            
+                <li class="">
+                    <a href='http://www.breakingisraelnews.com/' class="footer-menu-item" target='_blank'>
+                        Breaking Israel News</a>
+                </li>
+            
+    </ul>
+</div>
+
+            
+	</nav>
+</div>
+
+
+
+
+
+        
+
+<div class="footer-mobile-promo-wrap">
+    
+            <a href='http://www.jpost.com/LandedPages/jpostapps.aspx'>
+                <img class='footer-mobile-promo-image left lazy ' alt="" data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=245280' />
+                <p class='footer-mobile-promo-text top'>Now Available</p> <p class='footer-mobile-promo-text bottom'>On iphone, ipad and android</p>
+		        
+	        </a>
+        
+            <a href='http://www.jpost.com/LandedPages/jpostapps.aspx'>
+                <img class='footer-app-store-logo lazy ' alt="" data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=245281' />
+                
+		        
+	        </a>
+        
+            <a href='http://www.jpost.com/LandedPages/jpostapps.aspx'>
+                <img class=' lazy ' alt="" data-original='http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=245282' />
+                
+		        
+	        </a>
+        
+	
+</div>
+	</div>
+
+    <!-- Copyright -->
+    <div class="copy-rights-wrap">
+<p class="copy-rights-text">Copyright &copy; 2015 Jpost Inc. All rights reserved &bull; <a href="http://www.jpost.com/LandedPages/TermsOfService.aspx" class="copy-rights-wrap">Terms of Use</a> &bull; <a href="http://www.jpost.com/landedpages/privacypolicy.aspx" class="copy-rights-wrap">Privacy Policy</a></p>
+<a href="http://www.sefibogin.co.il" class="copy-rights-text right"> Ux Design &amp; Strategy <img src="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=245285" alt="" class="credits-logo" /> </a> <span class="copy-rights-text right">  &nbsp; &nbsp;&bull; &nbsp; </span> <a href="http://www.gns.co.il" class="copy-rights-text right"><img src="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=255343&amp;h=26&amp;w=40" alt="" class="credits-logo" /></a></div>
+
+</footer>
+
+<!-- End Footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js" defer="true"></script>
+   <script src="//admin.brightcove.com/js/APIModules_all.js" defer="true"></script>
+    
+        <script type="text/javascript" async="">
+var refreshSite; refreshSiteInterval();function refreshSiteInterval() {refreshSite=setInterval(function(){document.location=document.location;},420000);};function stopRefreshSite() {clearInterval(refreshSite);}
+</script>
+    
+        <script async  type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Facebook Scripts -->
+		<div id="fb-root"></div>
+
+		<script async >
+		    window.fbAsyncInit = function () {
+		        FB.init({
+		            appId: '163414806897',
+		            xfbml: true,
+		            version: 'v2.0'
+		        });
+		    };
+
+		    (function (d, s, id) {
+		        var js, fjs = d.getElementsByTagName(s)[0];
+		        if (d.getElementById(id)) { return; }
+		        js = d.createElement(s); js.id = id;
+		        js.src = "//connect.facebook.net/en_US/sdk.js";
+		        fjs.parentNode.insertBefore(js, fjs);
+		    }(document, 'script', 'facebook-jssdk'));
+	    </script>
+
+		<script async >
+		    (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=163414806897&version=v2.0";
+            fjs.parentNode.insertBefore(js, fjs);
+		    }(document, 'script', 'facebook-jssdk'));
+
+		</script>
+    
+        <!-- YouTube Script -->
+		<script async >
+		    if (!window['YT']) { var YT = { loading: 0, loaded: 0 }; } if (!window['YTConfig']) { var YTConfig = { 'host': 'http://www.youtube.com' }; } if (!YT.loading) { YT.loading = 1; (function () { var l = []; YT.ready = function (f) { if (YT.loaded) { f(); } else { l.push(f); } }; window.onYTReady = function () { YT.loaded = 1; for (var i = 0; i < l.length; i++) { try { l[i](); } catch (e) { } } }; YT.setConfig = function (c) { for (var k in c) { if (c.hasOwnProperty(k)) { YTConfig[k] = c[k]; } } }; var a = document.createElement('script'); a.id = 'www-widgetapi-script'; a.src = 'https:' + '//s.ytimg.com/yts/jsbin/www-widgetapi-vflqvh1vf.js'; a.async = true; var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(a, b); })(); }
+		</script>
+    
+        <!-- Twitter Script -->
+		<script async >!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+
+    
+        <!-- Google Plus Script -->
+		<script async  type="text/javascript">
+		    (function () {
+		        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		        po.src = 'https://apis.google.com/js/platform.js';
+		        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		    })();
+		</script>
+    
+        
+    
+        
+    
+        <script async  type="text/javascript">
+    window._tfa = window._tfa || [];
+    _tfa.push({notify:"action", name: 'conversion'});
+</script>
+<script async  src="//cdn.taboola.com/libtrc/jpostil-sc/tfa.js"></script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!-- Start Video Lightbox -->
+            
+            <!-- End Video Lightbox -->
+
+          
+        </div>
+          <!-- jQuery library (served from Google) -->
+    <script src="/lib/jquery.min.js?v=1" ></script>
+    <script>var pageTypeId = '7';</script>
+
+    <script>var pageTypeOfCategory = '1'</script>
+
+    <!-- Custom Functions -->
+    <script src="/JavaScript/functions.min.js?ver=86" type="text/javascript" ></script>
+       <!-- dfpScript for resize window -->
+            <script type="text/javascript"> var Show_1139 = document.getElementById('157_DFPScript1200_Show_1139').value; $(window).on('load resize', function() {if ($('.content-wrap').width()  >= 1200) { $('#script_Holder_1139').html(Show_1139);} else {$('#script_Holder_1139').html('');}}); </script><script type="text/javascript"> var Show_1696 = document.getElementById('157_DFPScript960_Show_1696').value; $(window).on('load resize', function() {if ($('.content-wrap').width()  < 1200) { $('#script_Holder_1696').html(Show_1696);} else {$('#script_Holder_1696').html('');}}); </script>
+            <!--End  dfpScript for resize window -->
+    </form>
+   
+</body>
+</html>

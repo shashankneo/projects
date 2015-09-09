@@ -1,0 +1,2833 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.edmontonjournal.com/technology/" />
+<!-- this script must be the first element in the head -->
+<script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
+<script type="text/javascript">
+	JANRAIN.SSO.CAPTURE.check_login({
+		sso_server: 'https://sso.canada.com',
+		client_id: 'wfdxgx3wh333rg65tzn68q984enazf9u',
+		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx',
+		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers',
+		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html'
+	});
+</script>
+
+<!-- Janrain fix for secure content warnings in IE9/IE10 -->
+<script type="text/javascript" src="http://d7v0k4dt27zlp.cloudfront.net/assets/capture_client.js"></script>
+
+
+
+
+<script type="text/javascript" src="/js/CDMScriptManager-1.0.js"></script>
+<script type="text/javascript">
+	CDMScriptManager.load('/js/jquery-1.2.6.min.js');
+	CDMScriptManager.load('/js/slider.js');
+</script>
+<script type="text/javascript" src="/js/jquery-hoverintent.js"></script>
+<script type="text/javascript" src="/js/headernav_tab.js"></script>
+
+<script async src="http://cdn.mediavoice.com/nativeads/script/postmedia/polarAd-LEGO-prod.js"></script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<script type="text/javascript">
+	CDMScriptManager.load('/js/comments.js');
+</script>
+
+
+<!-- membership js files -->
+<script type="text/javascript" src="/js/members/json.js"></script>
+<script type="text/javascript" src="/js/members/member.js"></script>
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/global.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header_nav.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/components.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/widgets.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/featurebox.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/footer.css" />
+<!-- membership css -->
+<link href="/css/members/member.css" type="text/css" rel="stylesheet" media="screen" />
+<!--[if IE 6]>
+<link href="/members/css/member_ie6.css" type="text/css" rel="stylesheet" media="screen" />
+<![endif]-->
+<!--/edmontonjournal/branding.inc -->
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/branding.css" />
+
+<!--/edmontonjournal/branding.inc -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/heatmap.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/heatmap.css" />
+<!-- /includes/inform_contextual_ad_setup.inc -->
+
+	<script type="text/javascript">
+		var contentid = "11255012";
+		var iabterms = new Array();
+		var informterms = new Array();
+
+				
+			iabterms.push("Science"); 
+				
+			iabterms.push("Weather"); 
+				
+				informterms.push("Climatology"); 				
+					
+				informterms.push("Drought"); 				
+					
+				informterms.push("Earth Science"); 				
+					
+				informterms.push("Science and Technology"); 				
+					
+				informterms.push("Sciences"); 				
+					
+				informterms.push("Weather"); 				
+					
+				informterms.push("National"); 				
+					
+				informterms.push("William Anderegg"); 				
+			
+
+		var iablength = iabterms.length,
+			inflength = informterms.length,
+			iabstring = "",
+			informstring = "";
+		
+		
+		
+		for(i=0; i<iablength; i++)
+		{
+			iabterms[i] = iabterms[i].replace(/[\&]/g,"and");
+			iabterms[i] = iabterms[i].replace(/[^A-Za-z0-9\s]/g,"");
+			iabstring += "ciab=" + iabterms[i] + ";";
+		}
+
+		for (j=0; j<inflength; j++)
+		{
+			informterms[j] = informterms[j].replace(/[\&]/g,"and");
+			informterms[j] = informterms[j].replace(/[^A-Za-z0-9\s]/g,"");
+			informstring += "cinf=" + informterms[j] + ";";
+		}
+		
+		iabstring = iabstring.toLowerCase();
+		iabstring = iabstring.replace(/\s/g,"-");
+		informstring = informstring.toLowerCase();		
+		informstring = informstring.replace(/\s/g,"-");		
+		
+
+	</script>
+
+<!-- /includes/inform_contextual_ad_setup.inc -->
+
+
+
+
+<!-- /includes/paywall-story.inc -->
+<style type="text/css">
+        #gregbox-outer {
+                border: 6px solid #1b2f4a !important
+        }
+        #gregbox-signInTab {
+                background: url("http://i-ppjol.s3.amazonaws.com/signin/pp_sign-in_button-1b2f4a.png")
+no-repeat scroll 0 0 transparent !important;
+        }
+        * html #gregbox-content {
+                border: 6px solid #1b2f4a !important;
+        }
+        #pp-branding {
+        background-color: #1b2f4a !important;
+        }
+</style>
+<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+	'zone':"IvgBVymL1kWKh5HN831U6g",
+	'mode':"meter",
+	'customPreCheck': "preCheckEdmontonjournal102451",
+	'debug':0
+}</script><script type="text/javascript">
+function preCheckEdmontonjournal102451($)
+{
+    var metamatch = document.getElementsByTagName("meta");
+    for (var i=0; i < metamatch.length; i++) {
+    if (metamatch[i].name.match(/(keywords)/i)) {
+        if (metamatch[i].content.match(/(breaking|sponsored)/i)) 
+          {
+           return 0;
+          } 	  
+	else if (metamatch[i].content.match(/(premium)/i))
+	  {
+          return 1;
+          }
+       }
+    }
+
+    loc = window.location + '';
+
+	if (loc.match(/\/(cars|jobs|homes|tag|category|author)\//i))
+    {
+         return 0;
+    }
+    else if (loc.match(/(story\.html)/i))
+    {
+         return 1;
+    }
+    
+    return 0;
+}
+</script>
+<!-- /includes/paywall-story.inc -->
+
+<!-- ad-head.inc -->
+	<script type="text/javascript">
+		var Postmedia = Postmedia || {};
+		Postmedia.adConfig = Postmedia.adConfig || {};
+		Postmedia.adConfig.Casale = Postmedia.adConfig.Casale || {};
+	</script>
+	<script src="//js.indexww.com/ht/post.js" async></script><!-- Casale - Index Exchange code -->
+	
+
+
+		
+		<!--^^^^^^^^^^^ CREATIVE WRAPPER ^^^^^^^^^^^^-->
+		<!--Ad Server: DFP Premium (3081) -->
+		<!--DFP Order ID: %ebuy! -->
+		<!--DFP Line Item ID: %eaid! -->
+		<!--DFP Creative ID: %ecid! -->
+		<!--DFP Advertiser ID: %eadv! -->
+		<!--CK Value: %%PATTERN:CK%! -->
+		<!--SCK Value: %%PATTERN:SCK%%! -->
+		<!--IMP Value: %%PATTERN:IMP%%! -->
+		<!--LOC Value: %%PATTERN:LOC%%! -->
+		<!--PAGE Value: %%PATTERN:PAGE%%! -->
+		<!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+		
+
+		<script type="text/javascript">
+		
+			if (typeof iabterms !== 'undefined') {
+				for(j=0; j<iabterms.length; j++){
+					iabterms[j] = iabterms[j].toLowerCase();
+					iabterms[j] = iabterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var iabterms = "";
+			}
+
+			if (typeof informterms !== 'undefined') {
+				for(j=0; j<informterms.length; j++){
+					informterms[j] = informterms[j].toLowerCase();
+					informterms[j] = informterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var informterms = "";
+			}
+		
+						
+			
+			
+			function get_aamCookie(c_name)
+			{
+				var i,x,y,ARRcookies=document.cookie.split(";");
+				for (i=0;i<ARRcookies.length;i++)
+				{
+					x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+					y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+					x=x.replace(/^\s+|\s+$/g,"");
+					if (x==c_name)
+					{
+						return unescape(y);
+					}
+				}
+			}
+
+			
+			dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+
+			var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ej_tech.com/technology/story;cnt=technology;nk=print;pr=ej;aid=11255012;ck=technology;author=bob-weber;author=-the-canadian-press;page=story;?";
+
+			Postmedia = typeof(Postmedia) != 'undefined' ? Postmedia : {}; 
+
+			 
+					Postmedia.Weather = {"City":"Edmonton","Country":"Canada","CurrentBarometricPressureHg":"30.0 Hg","CurrentBarometricPressureKpa":"101.6 kPa","CurrentDate":"\/Date(1438477200000-0400)\/","CurrentDetails":"Sunny","CurrentDewpointC":"9 degrees C","CurrentDewpointF":"48 degrees F","CurrentHumidexC":null,"CurrentHumidexF":null,"CurrentHumidity":"45 %","CurrentIcon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ic-115x100.gif","CurrentRealC":"21 degrees C","CurrentRealF":"70 degrees F","CurrentStation":"Edmonton","CurrentTempC":"21 degrees C","CurrentTempF":"70 degrees F","CurrentWindKm":"9 km N","CurrentWindMi":"6 mi N","CurrentWindchillC":null,"CurrentWindchillF":null,"NormalHighC":"23 degrees C","NormalHighF":"73 degrees F","NormalLowC":"11 degrees C","NormalLowF":"52 degrees F","RecordHighC":"33.0 degrees C","RecordHighF":"91 degrees F","RecordLowC":"1.0 degrees C","RecordLowF":"34 degrees F","Sunrise":"5:49am","Sunset":"9:30pm","WeatherForecastLongTermTimePeriods":[{"Caption":"Sunday","Date":"\/Date(1438531200000-0400)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":2,"Pop":"30","HighC":"25 degrees C","HighF":"77 degrees F","LowC":"16 degrees C","LowF":"61 degrees F"},{"Caption":"Monday","Date":"\/Date(1438617600000-0400)\/","Details":"Sunny with cloudy periods","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ih-115x100.gif","Id":3,"Pop":"40","HighC":"26 degrees C","HighF":"79 degrees F","LowC":"16 degrees C","LowF":"61 degrees F"},{"Caption":"Tuesday","Date":"\/Date(1438704000000-0400)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":4,"Pop":"60","HighC":"22 degrees C","HighF":"72 degrees F","LowC":"14 degrees C","LowF":"57 degrees F"},{"Caption":"Wednesday","Date":"\/Date(1438790400000-0400)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":5,"Pop":"60","HighC":"20 degrees C","HighF":"68 degrees F","LowC":"13 degrees C","LowF":"55 degrees F"}],"WeatherForecastShortTermTimePeriods":[{"Caption":"Tonight","Date":"\/Date(1438520400000-0400)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ibn-115x100.gif","Id":4,"Pop":"20","TempC":"13 degrees C","TempF":"55 degrees F","WindKm":"5 km N","WindMi":"3 mi N"},{"Caption":"Sunday morning","Date":"\/Date(1438542000000-0400)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":5,"Pop":"20","TempC":"16 degrees C","TempF":"60 degrees F","WindKm":"5 km S","WindMi":"3 mi S"},{"Caption":"Sunday afternoon","Date":"\/Date(1438563600000-0400)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":6,"Pop":"30","TempC":"25 degrees C","TempF":"77 degrees F","WindKm":"10 km SE","WindMi":"6 mi SE"},{"Caption":"Sunday evening","Date":"\/Date(1438585200000-0400)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":7,"Pop":"30","TempC":"23 degrees C","TempF":"73 degrees F","WindKm":"10 km E","WindMi":"6 mi E"}]}; 
+				
+			
+			
+			if (Postmedia.hasOwnProperty("adConfig")) {
+                Postmedia.adConfigPartner=Postmedia.adConfig;
+			}
+
+			Postmedia.adConfig = {
+									
+					"site": "ej_tech.com",
+					"async": true,
+					"sra": true,
+					"networkId": "3081",
+					"disableInitialLoad": false,
+					"zone": "technology/story",
+									
+				
+				    "burt": {
+					 },
+
+
+					"keys": {
+						"cnt":  "technology",
+						"nk":  "print",
+						"pr":  "ej",
+						"aid":  "11255012",
+						"ck":  "technology",
+						"author":  ["bob-weber","-the-canadian-press"],
+						"page":  "story",
+						"ciab": iabterms,
+						"cinf": informterms
+					},
+					"adslots":[
+						{
+							"name": "gpt-skinnybar",  "type": "skinnybar"
+						},
+						{
+							"name": "gpt-impulse",  "type": "impulse"
+						},
+						{
+							"name": "gpt-leaderboard",  "type": "leaderboard"
+						},
+						{
+							"name": "gpt-bigboxtop",  "type": "bigboxtop"
+						},
+						{
+							"name": "gpt-bigboxbot",  "type": "bigboxbot"
+						},
+						{
+							"name": "gpt-oop",  "type": "oop"
+						}				
+					]
+				
+			};
+			
+			
+			
+		</script>
+	<script type="text/javascript" src="/js/postmedia_obj_init.js?v=1"></script>
+	<script type="text/javascript" src="/js/gpt.js?v=27"></script>
+	<script type="text/javascript" src="/js/burt.js?v=2"></script>
+<!-- ad-head.inc -->
+<title>Dry trees: Study says drought affects forests for years, changes climate models</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/story.css" />
+<script type="text/javascript" src="/js/storyChromefix.js"></script>
+<meta property="og:title" content="Dry trees: Study says drought affects forests for years, changes climate models">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.edmontonjournal.com/technology/trees+Study+says+drought+affects+forests+years+changes/11255012/story.html">
+<meta property="og:image" content="http://www.edmontonjournal.com/cms/binary/11255013.jpg">
+<meta property="og:site_name" content="www.edmontonjournal.com">
+<meta property="og:description" content="New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought."><meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@edmontonjournal">
+<meta name="twitter:title" content="Dry trees: Study says drought affects forests for years, changes climate models">
+<meta name="twitter:description" content="New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought.">
+<meta name="twitter:image" content="http://www.edmontonjournal.com/cms/binary/11255013.jpg"><link href="http://www.edmontonjournal.com/touch/news/national/trees+Study+says+drought+affects+forests+years+changes/11255012/story.html" rel="alternate" media="only screen and (max-width: 640px)" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta property="fb:app_id" content="476107372414010" /><meta name="ROBOTS" content="NOARCHIVE" /><meta name="Keywords" content="2,Agriculture and Agri-Food Canada,The Canadian Press,Princeton University,Bob Weber,Environmental Issues and Protection,Global Climate Change,Nature and the Environment,Climatology,Drought,Earth Science,Science,Science and Technology,Sciences,Weather,Weather,Dry trees: Study says drought affects forests for years changes climate models,EG6407.xml,national,news,William Anderegg" /><meta name="Description" content="New research suggests that Canada's drought-stricken forests will take years longer to recover from" /><meta name="PubDate" content="2015-07-29" /><meta name="Author" content="Bob Weber, The Canadian Press" /></head>
+
+<body class="technology" >
+<!-- start: ad-common_ads.inc -->
+<div class="ad">
+	<div id='gpt-oop' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-oop');
+		</script>
+	</div>
+</div>  
+<!-- end: ad-common_ads.inc -->
+<!-- /includes/remarketing_pixel.inc -->
+    <!--
+    Start of DoubleClick Floodlight Tag: Please do not remove
+    Activity name of this tag: EdmontonJournal - retargeting pixel
+    URL of the webpage where the tag is expected to be placed: http://www.postmedia.com/
+    This tag must be placed between the body tags, as close as possible to the opening tag.
+    Creation Date: 05/22/2014
+    -->
+    <script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="http://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=CWyKdx1H;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+    </script>
+    <noscript>
+    <iframe src="http://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=CWyKdx1H;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </noscript>
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!-- /includes/remarketing_pixel.inc -->
+	<div id="page">
+		<div class="pagewrapper">
+			<!-- facebook_init.inc -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- // facebook_init.inc -->
+			<div class="adwrapper">
+				<div id="leaderboard">
+				 	<!-- /leaderboard_story.inc -->
+
+	<div class="ad">
+		<div class="ad">
+	<div id='gpt-leaderboard' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-leaderboard');
+		</script>
+	</div>
+</div>  
+	</div>
+
+<!-- /leaderboard_story.inc -->
+				</div>
+				<!-- leaderboard ends -->
+			</div>
+			<!-- adwrapper ends -->
+			<div class="headerwrapper">
+				<div id="networkbar">
+					<div class="networkbar">
+						<!--/edmontonjournal/header_networkbar.inc -->
+
+	<div id="weatherspot">
+		<!--/edmontonjournal/header_weather.inc -->
+
+		<style>
+		#networkbar #weatherspot {top:-85px !important;width:210px !important;}
+		#networkbar #weathersponsor {margin-bottom:3px !important;vertical-align:middle !important;}
+		</style>
+		<div id="weather4" class="bubble bubbleweather">
+<!-- legoctl: ctl01 --><!-- CACHE HIT: weather4 -->
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ih.gif"></div><div class="temperature">23&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=edmonton&amp;rg=ab"><b>Edmonton</b></a><ul class="bullet"><li><a href="/weather/index.html?city=edmonton&amp;rg=ab"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+ 
+		<div class="clear"></div>
+<!--/edmontonjournal/header_weather.inc -->
+	</div>
+	<!-- weatherspot ends -->
+	<!--/header_networkbar_global.inc -->
+<style type="text/css">
+	#networkbar ul li.subscribe {background:#000;padding:7px 5px 5px 5px;}
+	#networkbar ul li.subscribe a span {color:#fff;font-weight:bold;text-transform:uppercase;}
+	#networkbar ul li.noDeli {background:none;}
+</style>
+		<ul class="network_dropdown">
+			<li class="ss-nopad subscribe">
+				<a href="http://www.edmontonjournal.com/subscribe/index.html"><span>Subscribe</span></a>
+			</li>
+			<li class="noDeli">
+				<a href="https://contests.canada.com/edmontonjournal/subscribe/services/index.html"><span>Subscriber Services</span></a>
+			</li>
+			<li>
+				<a href="http://epaper.edmontonjournal.com/epaper"><span>ePaper</span></a>
+			</li>
+			<li>
+				<a href="/news/email-alerts.html"><span>Email Alerts</span></a>
+			</li>
+			<li>
+				<a href="http://edmontonjournal.adperfect.com/"><span>Place an Ad</span></a>
+			</li>
+            <li>
+				<a href="http://www.edmontonjournal.com/entertainment/whats-on/submit.html"><span>What's On</span></a>
+			</li>
+            <li>
+				<a href="http://www.journalexpress.com/ejsubmit"><span>Send Pics</span></a>
+			</li>
+            <li>
+				<a href="http://www.edmontonjournal.com/life/story.html?id=2208040"><span>Order Reprints</span></a>
+			</li>
+			<li>
+			
+			</li>
+		</ul>
+		<!-- networkbar ends -->
+		<ul class="cc_dropdown">
+			<li class="cc">
+				<a href="http://www.canada.com/" class="ccn_network"><span>canada.com network</span></a>
+				<div class="cc-dropdown">
+					<div class="cc-dropdown-content">
+						<div class="wrapper_0_10_0_10">
+							<div class="col_170">
+								<div class="col_160">
+									<div class="section_title">
+										<h3><span>Newspapers</span></h3>
+										<div class="clear">&nbsp;</div>
+									</div>
+									<div class="clear">&nbsp;</div>
+									<div id="textlinks">
+										<div class="featurecontent">
+											<ul class="bullet">
+												<li><a href="http://www.nationalpost.com/"><span>National Post</span></a></li>
+												<li><a href="http://www.theprovince.com/"><span>The Province (Vancouver)</span></a></li>
+												<li><a href="http://www.vancouversun.com/"><span>Vancouver Sun</span></a></li>
+												<li><a href="http://www.edmontonjournal.com/"><span>Edmonton Journal</span></a></li>
+												<li><a href="http://www.calgaryherald.com/"><span>Calgary Herald</span></a></li>
+												<li><a href="http://www.leaderpost.com/"><span>Regina Leader-Post</span></a></li>
+												<li><a href="http://www.thestarphoenix.com/"><span>Saskatoon StarPhoenix</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col_160">
+								<div class="section_title">
+									<h3><span>&nbsp;</span></h3>
+									<div class="clear">&nbsp;</div>
+								</div>
+								<div class="clear">&nbsp;</div>
+								<div id="textlinks">
+									<div class="featurecontent">
+										<ul class="bullet">
+											<li><a href="http://www.windsorstar.com/"><span>Windsor Star</span></a></li>
+											<li><a href="http://www.ottawacitizen.com/"><span>Ottawa Citizen</span></a></li>
+											<li><a href="http://www.montrealgazette.com/"><span>Montreal Gazette</span></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+						</div>
+						<!-- wrapper ends-->
+					</div>
+				</div>
+			</li>
+		</ul>
+
+<!--/header_networkbar_global.inc -->
+
+<!--/edmontonjournal/header_networkbar.inc -->
+					</div>
+					<!-- networkbar ends -->
+					<div id="loginstatusbar">
+						<!--/common/loginstatusbar.inc -->
+
+<div id="loginstatusbarchild"></div>
+
+<script>
+	function handlePostLogin() {
+		// change the login status bar to reflect a logged in state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+
+		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function handlePostLogout() {
+		// change the login status bar to reflect a logged out state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+		
+		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function dologout() {
+		// create the hidden logout iframe
+		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true';
+		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body');
+	}
+
+	function renderLoginStatusBar(user) {
+		var user = user.User;
+		var statusBarHtml = "";
+
+		if (user.IsLoggedIn) {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>";
+			statusBarHtml += " " + profileLink;
+			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		else {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\" rel=\"nofollow\">Log in</a></li>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\" rel=\"nofollow\">Register</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml;
+	}
+</script>
+
+<script>jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");</script>
+
+<!--/common/loginstatusbar.inc -->
+					</div>
+					<!-- loginstatusbar ends -->
+				</div>
+				<!-- networkbar ends -->
+				<div class="clear">&nbsp;</div>
+				<div class="logosearchbar">
+					<div id="logocol">
+						<!--/edmontonjournal/header_logo.inc -->
+
+		<div class="newspaperlogo">
+			<h1><a href="/index.html"><span>Edmonton Journal</span></a></h1>
+		</div>
+		<!-- newspaperlogo ends -->
+		<div class="headersponsor">
+			<div class="logo">
+				<!-- header_feature -->
+<style>
+.headersponsor .spotlight_right_image .newscontent {display:none;}
+.headersponsor .spotlight_right_image {text-align:right;}
+</style>
+<div class="no_section_title">
+ 	<div id="syndication5">
+<!-- legoctl: ctl02 --><!-- CACHE HIT: syndication5 -->
+<!-- Source="5713996.atom" --><div class="section_title"><h3><a href="http://www.edmontonjournal.com/columnists/Paula_Simons.html"><span>Paula Simons
+		    »</span></a></h3></div><div id="featurewidget" class="spotlight_right_image"><div class="featurecontent"><div class="newsimage"><a href="/news/edmonton/Simons+secrets+Thomas+Svekla+haunt+still/11258361/story.html"><img border="0" src="cms/binary/11258364.jpg?size=90x90" alt="Thomas George Svekla gestures to photographers as he is taken away from the Fort Saskatchwan courthouse after his first court appearance on Thursday , May 11, 2006." title="Thomas George Svekla gestures to photographers as he is taken away from the Fort Saskatchwan courthouse after his first court appearance on Thursday , May 11, 2006."></a><span class="photo_credit"></span></div><h3><a href="/news/edmonton/Simons+secrets+Thomas+Svekla+haunt+still/11258361/story.html" class=""><span>Simons: The secrets of Thomas Svekla haunt us still</span></a></h3><p class="newscontent">lt is one of the most haunting photos in the Edmonton Journal archives: a picture of Thomas Svekla, dressed in a green camouflage jacket and tinted round sunglasses, smiling tauntingly at the camera, his finger held to his lips. &#8220;Shhhh,&#8221; he seems to be saying. &#8220;I&#8217;ve got a secret.&#8221;</p><ul class="morelink"><li><a href="/news/edmonton/Simons+secrets+Thomas+Svekla+haunt+still/11258361/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="doc"><a href="/news/edmonton/Convicted+murderer+Thomas+Svekla+suspect+disappearances/11252549/story.html"><span>Convicted murderer Thomas Svekla was suspect in disappearances of two women whose remains were recently found</span></a></li><li class="doc"><a href="/news/edmonton/RCMP+believe+serial+predator+behind+murder+woman/11249160/story.html"><span>RCMP believe ‘serial predator’ behind murder of woman missing since 2004 whose remains were found near Leduc</span></a></li></ul></div></div><div class="clear"> </div></div>
+
+</div>
+<!-- header_feature -->
+			</div>
+			<!-- logo ends -->
+			<div class="clear">&nbsp;</div>
+		</div>
+		<!-- headersponsor ends -->
+
+<!--/edmontonjournal/header_logo.inc -->
+					</div>
+					<!-- logocol ends -->
+					<div id="weatherspot">
+						<!--/edmontonjournal/header_weather.inc -->
+
+		<style>
+		#networkbar #weatherspot {top:-85px !important;width:210px !important;}
+		#networkbar #weathersponsor {margin-bottom:3px !important;vertical-align:middle !important;}
+		</style>
+		<div id="weather6" class="bubble bubbleweather">
+<!-- legoctl: ctl03 --><!-- CACHE HIT: weather6 -->
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ih.gif"></div><div class="temperature">23&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=edmonton&amp;rg=ab"><b>Edmonton</b></a><ul class="bullet"><li><a href="/weather/index.html?city=edmonton&amp;rg=ab"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+ 
+		<div class="clear"></div>
+<!--/edmontonjournal/header_weather.inc -->
+					</div>
+					<!-- weatherspot ends -->
+					<div id="searchcol">
+						<div class="searchwrapper">
+							<!--/edmontonjournal/header_search_boxs.inc -->
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/search/autocomplete.css" />
+		<div id="headersearch" class="headersearch">
+			<div class="formrow">
+				<ul class="hr_items quicklinks">
+					<li class="q-links"><a href="http://www.edmontonjournal.com/shopping/"><span>Shopping</span></a>, <a href="http://www.legacy.com/can-edmonton/Obituaries.asp"><span>Obituaries</span></a>, <a href="/entertainment/television/tv-listings/index.html"><span>TV Listings</span></a></li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<form name="searchform" action="http://www.edmontonjournal.com/search/search.html">
+					<ul class="form_newspaper">
+						<li class="forminput">
+							<input type="text" class="input_newspaper" id="q" name="q" onclick="this.focus();this.value='';" onfocus="" onblur="this.value=!this.value?'Search edmontonjournal.com...':this.value;" value="Search edmontonjournal.com..." />
+						</li>
+						<li class="formbutton">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+					</ul>
+				</form>
+				<div class="clear">&nbsp;</div>
+				<ul class="hr_items">
+					<li class="ypg"><a href="http://directory.edmontonjournal.com">Find a business in the Business Directory</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- headersearch ends -->
+		<!-- FAST wave 1 -->
+		<!-- add script call to pull in jquery.autocomplete.min.js plugin -->
+
+		<script type="text/javascript">
+			CDMScriptManager.load("http://www.edmontonjournal.com/js/autocomplete/jquery.autocomplete.min.js");
+		</script>		
+		<script language="javascript">
+			function doSearch() {
+				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,"");
+				q = q.replace(/ /g,"+");
+				if (q.length == 0) {
+					alert("Please enter your search criteria");
+					return;
+				}
+				var dname = document.domain; 
+				if ( dname=="driving.ca") {
+					document.location.href="http://www.driving.ca/edmonton/search/search.html?q=" + escape(q);
+					}
+				else {
+					document.location.href="http://www.edmontonjournal.com/search/search.html?q=" + escape(q);
+				}
+			}
+			//FAST WAVE 1
+			//add javascript to hook up search text box in header
+			//set up autocomplete on search box in header			
+			jQuery(document).ready(function() {
+				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", {
+					dataType: 'jsonp',
+					parse: function(data) {
+						var rows = new Array();
+						data = data.Terms;
+						for(var i=0; i<data.length; i++){
+							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] };
+						}
+						return rows;
+					},
+					resultsClass: "fast_wave_results",
+					formatItem: function(row, i, n) {
+						return  row.Term;
+					},
+					cacheLength: 0,
+					extraParams: {
+						format: "json"
+					},
+					minChars: 1,
+					max: 10,
+					highlight: function(value, term) {
+						var pos = value.toLowerCase().indexOf(term.toLowerCase());
+						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>";
+					},
+					scroll: false,
+					selectFirst: false
+				}); 
+			});
+		</script>
+							
+<!--/edmontonjournal/header_search_boxs.inc -->
+						</div>
+						<!-- Search  wrapper ends -->
+					</div>
+					<!-- searchcol ends -->
+				</div>
+				<!-- logosearchbar ends -->
+			</div>
+			<!-- headerwrapper ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="navbar">
+				<div class="navbarwrapper">
+					<!--/edmontonjournal/header_nav.inc -->
+<ul id="navcontent">
+	<li id="home" class="mainnav"> <a class="navitem" href="/index.html"><span>Home</span></a> </li>
+	<li id="news" class="mainnav"> <a class="navitem" href="/news/"><span>News</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>News</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.edmontonjournal.com/index.html"><span>Home</span></a></li>
+										<li><a href="/news/edmonton/"><span>Edmonton/Alberta</span></a></li>
+										<li><a href="/news/canada/"><span>National</span></a></li>
+										<li><a href="/news/alberta-politics/"><span>Politics</span></a></li>
+										<li><a href="/news/world/"><span>World</span></a></li>
+										<li><a href="/news/insight/"><span>Insight</span></a></li>
+										<li><a href="/weather/index.html?city=edmonton&rg=ab"><span>Weather</span></a></li>
+										<li><a href="/news/traffic/"><span>Traffic Cams</span></a></li>
+										<!--li><a href="/news/todays-paper/"><span>Today's Paper</span></a></li-->
+										<li><a href="/news/education/"><span>Education</span></a></li>
+										<li><a href="http://blogs.edmontonjournal.com/category/news/"><span>News Blogs</span></a></li>
+										<li class="lastnoline"><a href="/news/extras/"><span>Extras</span></a></li>
+										
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>			
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="opinion" class="mainnav"> <a class="navitem" href="/opinion/"><span>Opinion</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Opinion</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/opinion/"><span>Home</span></a></li>
+										<li><a href="/opinion/blogs/"><span>Journal Blogs</span></a></li>
+										<li><a href="/opinion/blogs/community"><span>Community Blogs</span></a></li>
+										<li><a href="/opinion/letters/"><span>Letters</span></a></li>
+										<li><a href="/columnists/"><span>Columnists</span></a></li>
+										<li><a href="/opinion/editorials/"><span>Editorials</span></a></li>
+										<li><a href="/opinion/editorial-cartoons/"><span>Malcolm Mayes Cartoon</span></a></li>
+										<li class="lastnoline"><a href="/opinion/venting/"><span>Venting</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="business" class="mainnav"> <a class="navitem" href="/business/"><span>Business</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Business</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/business/"><span>Home</span></a></li>
+										<li><a href="/business/energy-resources/"><span>Energy</span></a></li>
+										<li><a href="http://capitalideasedmonton.com"><span>Capital Ideas</span></a></li>
+										<li><a href="/business/tradesalberta/"><span>Trades Alberta</span></a></li>
+										<li><a href="/business/real-estate/"><span>Real Estate</span></a></li>
+										<li><a href="/business/money/"><span>Money</span></a></li>
+										<li><a href="/business/commercial-real-estate/index.html"><span>Commercial Real Estate</span></a></li>
+										<li><a href="http://www.financialpost.com/markets/"><span>Markets on FP</span></a></li>
+										<li><a href="/business/watchlist.html"><span>Watchlist</span></a></li>
+										<li><a href="/business/mortgages/"><span>Mortgages</span></a></li>
+										<li class="lastnoline"><a href="http://www.edmontonjournal.com/business/employment-supershow/index.html"><span>Employment Tradeshow</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="sports" class="mainnav"> <a class="navitem" href="/sports/"><span>Sports</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Sports</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/sports/"><span>Home</span></a></li>
+										<li><a href="/sports/hockey/edmonton-oilers/"><span>Oilers / Hockey</span></a></li>
+										<li><a href="http://blogs.edmontonjournal.com/category/cult-of-hockey/"><span>Cult of Hockey</span></a></li>
+										<li><a href="/sports/hockey/edmonton-oilers/gretzky-trade/index.html"><span>Gretzky Trade</span></a></li>
+										<li><a href="/sports/football/edmonton-eskimos/"><span>Eskimos / Football</span></a></li>
+										<li><a href="/sports/football/nfl/"><span>NFL Football</span></a></li>
+										<li><a href="/sports/cycling/"><span>Cycling</span></a></li>
+										<li><a href="/sports/baseball/"><span>Baseball</span></a></li>
+										<li><a href="/sports/basketball/"><span>Basketball</span></a></li>
+										<li><a href="/sports/golf/"><span>Golf</span></a></li>
+										<li><a href="/sports/autoracing/"><span>Auto Racing</span></a></li>
+										<li><a href="/sports/rodeo/"><span>Rodeo</span></a></li>
+										<li><a href="/sports/curling/"><span>Curling</span></a></li>
+										<li><a href="/sports/tennis/"><span>Tennis</span></a></li>
+										<li><a href="/sports/mma/"><span>Mixed Martial Arts</span></a></li>
+										<li><a href="/sports/soccer/"><span>Soccer</span></a></li>
+										<li class="lastnoline"><a href="http://blogs.edmontonjournal.com/category/sports/"><span>Sports Blogs</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="entertainment" class="mainnav"> <a class="navitem" href="/entertainment/"><span>Entertainment</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Entertainment</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/entertainment/"><span>Home</span></a></li>
+										<li><a href="/entertainment/movie-guide/"><span>Movies</span></a></li>
+										<li><a href="/entertainment/whats-on/"><span>Events Calendar</span></a></li>
+										<li><a href="/entertainment/television/"><span>Television</span></a></li>
+										<li><a href="/entertainment/television/tv-listings/"><span>TV Listings</span></a></li>
+										<li><a href="/entertainment/music/"><span>Music</span></a></li>
+										<li><a href="/entertainment/books/"><span>Books</span></a></li>
+										<li><a href="/entertainment/ebooks/"><span>eBooks</span></a></li>
+										<li><a href="/entertainment/celebrity/"><span>Celebrity</span></a></li>
+										<li><a href="/entertainment/festivals/"><span>Festivals</span></a></li>
+										<li><a href="http://blogs.edmontonjournal.com/category/entertainment/"><span>Entertainment Blogs</span></a></li>
+										<li class="lastnoline"><a href="/entertainment/cappies/"><span>Cappies</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="life" class="mainnav"> <a class="navitem" href="/life/"><span>Life</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Life</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/life/"><span>Home</span></a></li>
+										<li><a href="/life/food/"><span>Food and Drink</span></a></li>
+										<li><a href="http://edmonton.gastropost.com/"><span>Gastropost</span></a></li>
+										<li><a href="/life/food/dining-out/"><span>Dining Out</span></a></li>
+										<li><a href="/life/fashion/"><span>Fashion</span></a></li>
+										<li><a href="/life/socialseen/"><span>Social Seen</span></a></li>
+										<li><a href="/life/top-trends/"><span>Top Trends</span></a></li>
+										<li><a href="/health/fitness/"><span>Fitness</span></a></li>
+										<li><a href="/life/family/"><span>Family</span></a></li>
+										<li><a href="/life/taste/"><span>Taste Alberta</span></a></li>
+										<li><a href="/life/pets/"><span>Pets</span></a></li>
+										<li><a href="http://blogs.edmontonjournal.com/category/life/"><span>Life Blogs</span></a></li>
+										<li><a href="/life/relationships/"><span>Relationships</span></a></li>
+										<li><a href="/life/diversions/"><span>Diversions - Comics &amp; Games</span></a></li>
+										<li><a href="/life/wedding-tales/"><span>Weddings</span></a></li>
+										<li class="lastnoline"><a href="/life/royals"><span>The Royals</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="health" class="mainnav"> <a class="navitem" href="/health/"><span>Health</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Health</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/health/"><span>Home</span></a></li>
+										<li><a href="/health/fitness/"><span>Fitness</span></a></li>
+										<li><a href="/health/women/"><span>Women</span></a></li>
+										<li><a href="/health/men/"><span>Men</span></a></li>
+										<li><a href="/health/family-child/"><span>Family &amp; Child</span></a></li>
+										<li><a href="/health/seniors/"><span>Seniors</span></a></li>
+										<li class="lastnoline"><a href="/health/sexual-health/"><span>Sexual Health</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="technology" class="mainnav"> <a class="navitem" href="/technology/"><span>Technology</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Technology</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/technology/"><span>Home</span></a></li>
+										<li><a href="/technology/personal-tech/"><span>Personal Tech</span></a></li>
+										<li><a href="/technology/gaming/"><span>Gaming</span></a></li>
+										<li><a href="/technology/tech-biz/"><span>Tech-Biz</span></a></li>
+										<li><a href="/technology/internet/"><span>Internet</span></a></li>
+										<li class="lastnoline"><a href="/technology/space/"><span>Space</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="travel" class="mainnav"> <a class="navitem" href="/travel/"><span>Travel</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Travel</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/travel/"><span>Home</span></a></li>
+										<li><a href="/travel/news/"><span>Travel News</span></a></li>
+										<li><a href="/travel/destinations/"><span>Destinations</span></a></li>
+										<li><a href="/travel/ideas/"><span>Activities</span></a></li>
+										<li><a href="/travel/top-5/"><span>Top 5</span></a></li>
+										<li><a href="/travel/travel-shots/"><span>Travel Shots</span></a></li>
+										<li><a href="/travel/government-advisories/"><span>Advisories</span></a></li>
+										<li><a href="/travel/weekly-deals/"><span>Weekly Deals</span></a></li>
+										<li class="lastnoline"><a href="/travel/explore-alberta/"><span>Explore Alberta</span></a></li>
+										<li><a href="/travel/ski-and-snowboard/"><span>Ski and Snowboard</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="jobs" class="mainnav"> <a class="navitem" href="http://www.workopolis.com/jobsearch/whitelabel/edmontonjournal/home"><span>Careers</span></a>
+	</li>
+	<li id="cars" class="mainnav"> <a class="navitem" href="http://www.driving.ca/" target="_blank"><span>Driving</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Driving</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.driving.ca/" target="_blank"><span>Home</span></a></li>
+										<li><a href="http://www.driving.ca/category/auto-news" target="_blank"><span>News</span></a></li>
+										<li><a href="http://www.driving.ca/category/reviews" target="_blank"><span>Reviews</span></a></li>
+										<li class="lastnoline"><a href="http://driving.kijiji.ca" target="_blank"><span>Kijiji Autos Classifieds</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="homes" class="mainnav"> <a class="navitem" href="http://www.househunting.ca/edmonton"><span>Homes</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Homes</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.househunting.ca/edmonton/index.html"><span>Home</span></a></li>
+<li><a href="http://www.househunting.ca/edmonton/my-house-beautiful/index.html"><span>My House Beautiful</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/sale-and-rent/index.html"><span>For Sale/Rent</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/Buying-Homes/index.html"><span>Real Estate & Mortgages</span></a></li>
+										<!--<li><a href="http://www.househunting.ca/edmonton/Home-Renovating/index.html"><span>Renovating</span></a></li>-->
+										<li><a href="http://www.househunting.ca/edmonton/decorating/index.html"><span>Decorating & Renovating</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/Homes-and-Gardens/index.html"><span>Gardens</span></a></li>
+										<!--<li><a href="http://www.househunting.ca/edmonton/Vacation-Homes/index.html"><span>Vacation Homes</span></a></li>-->
+										<li><a href="/homes/recreational-properties/index.html"><span>Recreational Properties</span></a></li>
+										 <li><a href="http://www.househunting.ca/edmonton/firstin/index.html"><span>First In</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/bestinshow/index.html"><span>Best In Show</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/condocloseup/index.html"><span>Condo Closeup</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/livingsmall/index.html"><span>Living Small</span></a></li>
+						                <li class="lastnoline"><a href="http://www.househunting.ca/edmonton/madeinedmonton/index.html"><span>Made In Edmonton</span></a></li>
+					
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="classifieds" class="mainnav"> <a class="navitem" href="http://classifieds.edmontonjournal.com"><span>Classifieds</span></a>
+		<div class="subnav"> <a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>Classifieds</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://classifieds.edmontonjournal.com"><span>Home</span></a></li>
+										<li><a href="http://www.legacy.com/obituaries/edmontonjournal/"><span>Obituaries</span></a></li>
+										<li><a href="http://www.legacy.com/celebration/edmontonjournal"><span>Announcements</span></a></li>
+										<li><a href="http://classifieds.edmontonjournal.com/edmonton/automotive/search"><span>Vehicles</span></a></li>
+										<li><a href="http://www.househunting.ca/edmonton/index.html"><span>Real Estate</span></a></li>
+										<li><a href="http://classifieds.edmontonjournal.com/edmonton/rentals/search"><span>Rentals</span></a></li>
+										<li><a href="http://www.workopolis.com/jobsearch/whitelabel/edmontonjournal/products"><span>Jobs</span></a></li>
+										<li><a href="http://classifieds.edmontonjournal.com/edmonton/pets-animals/search"><span>Pets</span></a></li>
+										<li><a href="http://classifieds.edmontonjournal.com/edmonton/for-sale/search"><span>For Sale</span></a></li>
+										<li><a href="http://www.edmontonjournal.com/shopping/"><span>Shopping</span></a></li>
+										<li><a href="http://classifieds.canada.com/edmonton/placead/placead_index.html"><span>Place an Ad</span></a></li>
+										<li class="lastnoline"><a href="http://www.flyercity.ca/?p=edmontonjournal&locale=en&utm_campaign=pm_nav-bar&utm_source=nav-bar&utm_medium=nav-bar&utm_term=Edmonton%20Journal"><span>FlyerCity</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="dmiss">
+	<div class="dmiss-word">Don't miss: </div>
+	<div id="syndication7">
+<!-- legoctl: ctl04 --><!-- CACHE HIT: syndication7 -->
+<!-- Source="974176.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.edmontonjournal.com/sports/Life+track+Love+horses+motivates+breed+apart+Northlands/11258742/story.html" class="">
+      <span>Life at the track</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/homes/my+house+beautiful/House+Beautiful+Rossdale+renovation+produced/11258272/story.html" class="">
+      <span>My House Beautiful</span>
+    </a>
+  </li>
+  <li>
+    <a href="/business/commercial-real-estate/Company+hopes+restart+stalled+Glenora/11258879/story.html" class="">
+      <span>Glenora condo project</span>
+    </a>
+  </li>
+  <li>
+    <a href="/entertainment/From+beer+bongs+classic+country+Valley+Jamboree+back/11259036/story.html" class="">
+      <span>Big Valley Jamboree</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/sports/the-daily-mcdavid/index.html" class="">
+      <span>The Daily McDavid</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/news/photos/index.html" class="">
+      <span>Photos</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/news/history/index.html" class="">
+      <span>Day in History</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> »
+		</div></div>
+
+	<div class="clear">&nbsp;</div>
+</div>
+<!--/edmontonjournal/header_nav.inc -->
+				</div>
+				<!-- navbarwrapper ends -->
+			</div>
+			<!-- navabr ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="contentbody">
+				<div class="promobannerwrapper">
+					<!-- /edmontonjournal/promobanner_story.inc -->
+	<div class="ad">
+	<div id='gpt-skinnybar' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-skinnybar');
+		</script>
+	</div>
+</div>  
+<!-- /edmontonjournal/promobanner_story.inc -->
+				</div>
+				<!-- promobannerwrapper ends -->
+				<div class="clear">&nbsp;</div>
+				<div class="bodywrapper">
+					
+					 
+<!-- /includes/facebook_comments.inc -->
+
+<div id="fb-root"></div>
+<!-- facebook comments JS -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=476107372414010";  //this is windsor's app id -- needs to be changed
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- end facebook comments JS -->
+
+<!-- /includes/facebook_comments.inc -->
+<div class="clear">&nbsp;</div>
+
+
+<div class="col_640">
+	
+	<div class="clear">&nbsp;</div>
+	<div id="LEGO_story">
+<!-- legoctl: ctl05 --><!-- CACHE MISS: LEGO_story -->
+
+
+<div id="storypage" class="story_content" xmlns:fb="urn:facebook.com:fb"><div class="wrapper_0_20_0_0"><script type="text/javascript">
+				CDMScriptManager.load('/js/SpiderRedirect.js');
+				jQuery.getScript('/js/adsync/adSyncLibrary.js',function(){
+					ParseDartAdUrl();
+				});
+
+				function ParseDartAdUrl(){
+				if (typeof dartad_url != 'undefined') {
+					var dd = adSync.ParseDartAdUrl(dartad_url);
+					cwZoneAd=dd["zone"];
+					cwSiteAd =dd["site"];
+					cwKeyAd=dd["keyValues"];
+				}else {
+					cwSiteAd = "ej_tech.com"; // plug in the Ad site variable
+					cwZoneAd= "technology/story"; // plug in the ad zone.
+					cwKeyAd="kw=ron;kw=technology"; // plug in the Ad key words.
+				}	
+				}
+			</script>
+		
+			<script type="text/javascript">
+	
+				var addthis_pub = 'canada.com';
+
+				function tabClick(eventText, hasVideo, id, classname, pause,syncAds)
+				{	
+					//the statsEvent and Ad Refresh have been disabled on the story tab clicks
+					//I've left the code in the xsl (just commented out), in case the decision gets reversed.
+									
+					//omniture event
+					//statsEvent(eventText);	
+					
+					//set tab
+					if(hasVideo) {
+						ooVideo.switchTab(id,classname);
+					}
+					setClass('storypage', classname);
+
+					//refresh ads
+					
+						
+							
+							//if(syncAds)
+								//Postmedia.adConfig.refreshAds(true);
+							
+						
+				}
+
+				
+				
+				function pageClick(eventText, pg)
+				{			
+	        var prevpage,
+            pageList = $j('ul.pagebreak li'),
+            pageListArr = $j( 'ul.pagebreak li a' ),
+        lastPos = pageList.length,
+		scrollToPage = '',
+		viewAll = false;
+
+            if( $j( $j(pageList[pg]).children()[0] ).attr('class') == '' ){
+		//goes through list of pages and find previous active page
+              pageListArr.each(function(e){
+	           if($j(this)[0].className == 'active'){
+	               prevpage = e;
+	           }
+	        });
+        	
+		if( pg == lastPos - 2){
+			if (prevpage == (lastPos -3)){
+				scrollToPage = lastPos - 3;
+			} else {
+				scrollToPage = prevpage + 1;
+			}
+			pg = pg + 1;	
+		}else if(pg == 0){
+	           if(prevpage == 1) { 
+			        return false; 
+		        } else { 
+			        pg = prevpage 
+		        };
+	        } else if(pg == (lastPos-1) ) {
+			if(prevpage == (lastPos-3)) {
+			        return false; 
+                } else {
+			        pg = (prevpage + 2);
+		        }
+	        } else if(pg == prevpage) {
+		        return false; 
+	        } else {
+	           pg = pg + 1;
+	        };
+        	
+              pageListArr.removeClass('active inactive');
+		
+              $j( $j(pageList[pg-1]).children()[0] ).addClass('active');
+	        if(pg == 2){
+                 $j( pageListArr[pg-2] ).addClass('inactive');
+		}
+		else if( pg == lastPos-2){
+			$j( pageListArr[pg+1] ).addClass('inactive');
+            };
+        	
+	        setClass('storyContent', 'page' + (pg - 1) + ' para18');
+            
+		if (pg == lastPos - 1){
+			$j('#storyContent').removeClass('page' + (pg - 1));
+			$j(pageList).hide();
+			viewAll = true;
+		}else {
+			viewAll = false;
+		};
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+            //refresh ads
+					
+					
+                
+								Postmedia.adConfig.refreshAds(true);
+							
+              
+					
+					//omniture event
+           scStoryPageBreak((lastPos - 2),(pg - 1),viewAll);
+          }
+					
+				}
+				
+				function statsEvent(eventText)
+				{
+					//omniture event
+					s.prop38=s.pageName + eventText;
+					s.events='';
+					void(s.t());				
+				}
+
+				function showTab(firstentrytype)
+				{
+					var tab = getQueryVar('tab');
+					var tabclass = '';
+
+					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == ''))
+						tabclass = 'story_photo_content';
+					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala' || firstentrytype == 'application/vnd.kaltura') && tab == ''))
+						tabclass = 'story_video_content';
+					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == ''))
+						tabclass = 'story_interactive_content';
+
+					if (tabclass != '')
+						setClass('storypage', tabclass);
+				}
+				function EmailThis(qs, emailViewer) 
+				{
+					var url = "http://" + window.location.hostname + window.location.pathname;
+					var id = "";
+
+					id = getQueryVar("id");
+					if (id != "")
+					{
+						url = addQS(url, "id=" + id);
+					}
+					if (qs != "")
+					{
+						url = addQS(url, qs);
+					}
+					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html";
+					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380')
+				}
+				function getQueryVar(key) 
+				{
+					var qs = window.location.search.substring(1);
+					var arrQS = qs.split("&");
+					var value = "";
+
+					for (i=0; i<arrQS.length; i++) {
+						var ft = arrQS[i].split("=");
+						if (ft[0] == key) {
+							value =  ft[1];
+						}
+					}
+
+					return value;
+				}
+				function addQS(theURL, QS)
+				{
+					var url = theURL;
+					if (QS != '')
+					{
+						if (url.indexOf("?") == -1)	{
+							url += "?" + QS;
+						} 
+						else {
+							url += "%26amp;" + QS;
+						}
+					}
+					return url;
+				}
+				function openWindow(theURL, WinName, WinFeatures) {
+					window.open(theURL, WinName, WinFeatures);
+				}
+				function jumpToAnchor(anchor) 
+				{
+					window.location = String(window.location).replace(/\#.*$/, "") + anchor;
+				}
+				function showAd(story_elem, ad_elem, ad_wrapper, offset) {
+					var eosPos = Y(story_elem);
+					var adPos = Y(ad_wrapper);
+					var showAd = false;
+					var offsetPos = 0;
+					
+					if (eosPos >= adPos)
+					{
+						showAd = true;
+					}
+					else
+					{
+						offsetPos = eosPos + offset;
+						if (offsetPos >= adPos)
+						{
+							showAd = true;
+						}
+					}
+
+					// write out ad include
+					if (showAd == true)
+					{
+					   document.getElementById(ad_elem).style.display = "block"; 
+					}
+				}				
+				function X(id) {
+					var obj = document.getElementById(id);
+					var x = obj.offsetLeft
+
+					while (obj = obj.offsetParent) x += obj.offsetLeft
+					return x
+				}
+				function Y(id) {
+					var obj = document.getElementById(id);
+					var y = obj.offsetTop
+
+					while (obj = obj.offsetParent) y += obj.offsetTop
+					return y
+				}
+
+			</script>
+			<script>CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10");</script>
+
+		
+	<div id="storyheader"><div class="headline"><h1>Dry trees: Study says drought affects forests for years, changes climate models</h1></div><div class="clear"> </div><div class="subheadline"><h2></h2></div><div class="clear"> </div><div class="byline">
+<span class="name">By Bob Weber, The Canadian Press</span>
+<span class="timestamp">July 31, 2015</span>
+<span id="lblComment" class="comments"></span>
+</div><div class="clear"> </div></div>
+						
+							<!-- /story_share_bar_1.inc -->
+	
+<div class="sharebar">
+<!-- /story_share_bar_1.inc end -->
+
+						
+						
+						
+							<!-- /story_share_bar_2.inc -->
+	<div class="recomm" onclick="scSocial.logEvent(scSocial.facebookShare, 'story top');">
+		<!-- facebook_recommend_page.inc -->
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="true" data-action="recommend"></div>
+<!-- // facebook_recommend_page.inc -->
+	</div>
+<!-- /story_share_bar_2.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_3.inc -->
+	<div class="tweet">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="edmontonjournal" data-url='http://www.edmontonjournal.com/technology/trees+Study+says+drought+affects+forests+years+changes/11255012/story.html'>Tweet</a>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</div>
+<!-- /story_share_bar_3.inc end -->
+						
+						
+						
+							<style>
+.sharebar .recomm {float:left;width:120px;}
+.sharebar .tweet {float:left;width:100px;}
+.sharebar .plusone {float:left;width:80px;}
+.sharebar .comment {float:left;width:120px;}
+.sharebar .pinitbutton {float:left;width:80px;}
+</style>
+
+<!-- /story_share_bar_4.inc -->
+	<div class="plusone" onclick="scSocial.logEvent(scSocial.googleShare, 'story top');">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<g:plusone size="medium" count="true"></g:plusone>
+	</div>
+	
+	<div class="pinitbutton" onclick="scSocial.logEvent(scSocial.pinterestPin, 'story top');">
+	
+	<a id="pinitbuttonid" href="" class="pin-it-button" count-layout="horizontal">
+		<img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" />
+	</a>
+		
+	</div>
+	
+	<script>
+	
+		$j(document).ready(function(){
+			var storyUrl = $j("meta[property='og:url']").attr("content");
+			var imageUrl = ($j("#story_photo").length > 0) ? $j("#story_photo").attr("src") : ($j("#storyphoto").length > 0) ? $j("#storyphoto").attr("src") : $j("meta[property='og:image']").attr("content").replace("http://"+document.domain+"/","");
+			imageUrl = "http://" + document.domain + "/" +imageUrl;
+			var storyDes = $j("meta[property='og:title']").attr("content");
+			
+			var thisisthelink = "http://pinterest.com/pin/create/button/?url=" + encodeURIComponent(storyUrl) + "&media=" + encodeURIComponent(imageUrl) + "&description=" + encodeURIComponent(storyDes);
+
+			$j(".pinitbutton a").attr("href", thisisthelink);
+			
+			js = document.createElement('script');
+			js.src = "//assets.pinterest.com/js/pinit.js";
+			js.type = 'text/javascript';
+			document.body.appendChild(js);
+		})
+		
+		
+		
+	</script>
+
+	
+<!-- /story_share_bar_4.inc end -->
+
+
+						
+						
+						
+							<!-- /story_share_bar_6.inc -->
+	<div class="share" onclick="scSocial.logEvent(scSocial.otherShare, 'story top');">
+		<span class="st_sharethis_custom"></span>
+	</div>
+</div>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+		stLight.options({
+				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5',
+				offsetLeft:'-265',
+				onhover: false,
+				embeds:'true',
+		});
+</script>
+<!-- /story_share_bar_6.inc end -->
+						
+						<div class="clear"> </div><div class="storytab"><ul class="tab"><li class="story_tab"><a href="javascript:void(0);" onClick="tabClick(' - Story Tab',false,'storypage','story_content',null, true);"><span>Story</span></a></li><li class="story_photo_tab"><a href="javascript:void(0);" onClick="tabClick(' - Photos Tab',false,'storypage','story_photo_content', null, true);"><span>Photos ( 1 )</span></a></li></ul>
+								
+									
+								
+							</div><script type="text/javascript">
+						showTab("text/html");
+					</script></div><div class="clear"> </div>
+		
+			<script type="text/javascript">
+				function resizeImage() {
+					var imgBox = document.getElementById('imageBox');
+					var photo = document.getElementById('storyphoto');
+
+					if (imgBox != null && photo != null)
+					{
+						if(photo.width >= 460) 
+						{
+							imgBox.className = 'imagesize460';
+						}
+						else 
+						{
+							if(photo.width >= 300) 
+							{
+								imgBox.className = 'imagesize310';
+							}
+							else 
+							{
+								imgBox.className = 'imageboxpadding';
+							}
+							imgBox.style.width = photo.width + 'px';
+						}
+					}
+				}
+				function getStoryFontSize() {
+					var storyfontsize = getCookie('storyfontsize');
+					var storyfontimage = getCookie('storyfontimage');
+
+					// use cookied value, if present
+					if (storyfontsize != null)
+					{
+						setClass('story_content',storyfontsize); 
+						if (storyfontimage != null)
+						{
+							setClass('fontsizecontainer',storyfontimage); 
+						}
+					}
+					else	// default it to para14 if no cookie
+					{
+						setClass('story_content','para14'); 
+						setClass('fontsizecontainer','size02');
+					}
+				}
+				function setStoryFontSize(storyfontsize,storyfontimage) {
+					setClass('story_content',storyfontsize); 
+					setClass('fontsizecontainer',storyfontimage);
+					setCookie('storyfontsize', storyfontsize, '365', '/', '', '');
+					setCookie('storyfontimage', storyfontimage, '365', '/', '', '');
+				}
+				function setCookie( name, value, expires, path, domain, secure ) {
+					// set time
+					var today = new Date();
+					today.setTime( today.getTime() );
+
+					if ( expires )
+					{
+						expires = expires * 1000 * 60 * 60 * 24; //days
+					}
+					var expires_date = new Date( today.getTime() + (expires) );
+
+					document.cookie = name + "=" + escape( value ) +
+					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+					( ( path ) ? ";path=" + path : "" ) + 
+					( ( domain ) ? ";domain=" + domain : "" ) +
+					( ( secure ) ? ";secure" : "" );
+				}
+				function getCookie( check_name ) {
+					// split this cookie up into name/value pairs
+					var a_all_cookies = document.cookie.split( ';' );
+					var a_temp_cookie = '';
+					var cookie_name = '';
+					var cookie_value = '';
+					var b_cookie_found = false; // set boolean t/f default f
+					
+					for ( i = 0; i < a_all_cookies.length; i++ )
+					{
+						// split apart each name=value pair
+						a_temp_cookie = a_all_cookies[i].split( '=' );
+						
+						// and trim left/right whitespace while we're at it
+						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+					
+						// if the extracted name matches passed check_name
+						if ( cookie_name == check_name )
+						{
+							b_cookie_found = true;
+							// we need to handle case where cookie has no value but exists (no = sign, that is):
+							if ( a_temp_cookie.length > 1 )
+							{
+								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+							}
+							// note that in cases where cookie is initialized but no value, null is returned
+							return cookie_value;
+							break;
+						}
+						a_temp_cookie = null;
+						cookie_name = '';
+					}
+					if ( !b_cookie_found )
+					{
+						return null;
+					}
+				}				
+				
+			</script>
+		
+	<div id="story_content"><div class="col_480"><div class="col_460"><div class="page1 para18" id="storyContent"><div id="imageBox"><div class="wrapper_0_10_0_0"><div class="storyimage" id=""><script>
+												jQuery(document).ready(function(){
+													jQuery("img#storyphoto.tabClick").click(function() {
+														tabClick(' - Photos Tab',false,'storypage','story_photo_content',true,true);
+													});	
+												});
+											</script><img id="storyphoto" class="thumbnail tabClick" border="0" onLoad="resizeImage();" src="cms/binary/11255013.jpg" alt="Dry trees: Study says drought affects forests for years, changes climate models" title="Researchers study stressed forests in the southwestern United States in this undated handout photo. New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years. THE CANADIAN PRESS/HO - Princeton University, William Anderegg"></div><div class="clear"> </div><div class="imagetext"><h3 id="photocaption">Researchers study stressed forests in the southwestern United States in this undated handout photo. New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years. THE CANADIAN PRESS/HO - Princeton University, William Anderegg</h3></div></div></div><div id="page1"><p>New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. </p><p>In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years.</p><p>"Drought is always (thought of) as a light switch: when it's dry, trees grow slowly, but the moment the rains come back and the soil gets wetter, it's like the trees recover perfectly and almost immediately," he said.</p><p>"It turns out it doesn't work like that."</p><p>The findings are expected to affect everyone from foresters estimating harvest rates to climate modellers trying to understand how forests affect greenhouse gas emissions, especially as Canada's great northern greenbelt continues to warm.</p><p>Anderegg's findings are based on an analysis of tree rings from more than 1,300 trees around the world.</p><p>He and his colleagues compared growth rates in the years following droughts with the average growth rate for a tree in those locations.</p><p>The differences were substantial.</p><p>Researchers concluded that trees grew an average of nine per cent less the first year after a drought and about five per cent less the second year. For some types of trees, effects continued for another two years.</p><p>The researchers used 18 different methods of measuring drought and each gave a similar result.</p><p>"It seems like trees are pretty sensitive to drought and they just take a while to recover."</p><p>The effects were most noticeable in pines and aspens — two of the most common species in the vast swath of boreal forest that stretches across Canada. </p><p>"A lot of people are concerned," said Anderegg. "They've started to see some pretty big drought effects in Canada's boreal forest.</p><p>"There's been documented increasing tree mortality rates. (And) our study adds to these concerns."</p><p>Agriculture Canada figures suggest the Northwest Territories and the northern reaches of the provinces have received between 60 and 85 per cent of normal precipitation this summer. But after repeated dry years, soil moisture is less than 40 per cent of normal. </p><p>Anderegg noted his study didn't look into what happens after multiple drought years.</p><p>The study could lead to changes in forest management, Anderegg suggested. Because wildfires are routinely suppressed, many forests are denser than they would naturally be.</p><p>"That leaves them vulnerable to drought, large forest fires and insect outbreaks. Things like thinning out the density of trees would certainly increase resilience."</p><p>The findings could also mean climate modellers have been significantly overestimating the amount of greenhouse gases that forests absorb from the atmosphere, now thought to equal about one-quarter of all human emissions.</p><p>"Because climate change is projected to have more intense and more frequent droughts, forests are going to spend more of their time recovering than we thought and they're growing to be growing more slowly and taking out less carbon."</p></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11255012&amp;sponsor=','StoryPrint','scrollbars=yes,toolbar=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li class="share"><span class="st_sharethis">Share this Article</span></li></ul></div></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div></div></div></div><div class="col_160"><div class="wrapper_0_20_0_0">
+						
+							
+						
+					<div class="clear"> </div><div class="clear"></div><div class="clear"> </div><div class="story_tool_vr"><div class="story_tool"><div class="section_title"><h3><span>Story Tools</span></h3></div><div class="clear"> </div><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11255012&amp;sponsor=','StoryPrint','toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li id="liComment" class="comments"></li><script>jQuery('#liComment').hide();</script></ul><div class="clear"> </div><div class="fontsize_label">Font:</div><ul id="fontsizecontainer" class="size01"><li><a href="javaScript:setStoryFontSize('para11','size00');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para12','size01');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para14','size02');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16','size03');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16C','size04');"><span>*</span></a></li></ul><script type="text/javascript">
+								// load up cookied story font size
+								getStoryFontSize();
+							</script><div class="clear"> </div><div class="imagesize_label">Image:</div><ul id="imagesizecontainer" class="size01"><li><a href="javascript:setClass('imageBox','imagesize170'); setClass('imageizecontainer','size00');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize310'); setClass('imageizecontainer','size01');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li><li><a href="javaScript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li></ul></div></div>
+						
+					   <!-- /story_spotlights.inc -->
+<br />
+<div class="section_title">
+	<h3><span>Spotlights</span></h3>
+</div>
+<!-- /national_spotlights.inc -->
+<div class="no_section_title">
+	<div id="syndication1">
+<!-- legoctl: ctl05$ctl02 --><!-- CACHE MISS: syndication1 -->
+<!-- Source="8089872.atom" --></div>
+
+</div>
+<!-- /national_spotlights.inc -->
+
+<div class="no_section_title">
+	<div id="syndication2">
+<!-- legoctl: ctl05$ctl03 --><!-- CACHE MISS: syndication2 -->
+<!-- Source="8089841.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear"> </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a target="_blank" href="http://www.edmontonjournal.com/news/email-alerts.html" rel="nofollow">
+          <span>Sign up for Journal email alerts</span>
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://twitter.com/edmontonjournal" rel="nofollow">
+          <span>Follow the Edmonton Journal on Twitter</span>
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="http://pinterest.com/edmontonjournal/" rel="nofollow">
+          <span>Some of our favourite things on Pinterest</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://play.google.com/store/apps/details?id=com.indusblue.edmontonjournal&amp;feature=search_result" class="">
+          <span>Download the Journal's Android app</span>
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="http://www.facebook.com/edmontonjournal" rel="nofollow">
+          <span>Follow the Journal on Facebook</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.journalexpress.com/twitter_news/" class="">
+          <span>Follow all the Journal news writers on Twitter</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+</div>
+<!-- /story_spotlights.inc -->
+
+					 
+					<div class="clear"> </div>
+						
+							
+						
+					</div></div></div><div id="story_photo_content"><div id="storyphoto"><div class="col_620"><div id="photoBox"><div class="clear"> </div><div class="storyimage"><img id="story_photo" class="thumbnail" border="0" src="cms/binary/11255013.jpg?size=620x400s" alt="Researchers study stressed forests in the southwestern United States in this undated handout photo. New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years. THE CANADIAN PRESS/HO - Princeton University, William Anderegg" title="Researchers study stressed forests in the southwestern United States in this undated handout photo. New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years. THE CANADIAN PRESS/HO - Princeton University, William Anderegg"></div><div class="clear">   </div><div class="imagetext"><h1 id="storyphotocaption">Researchers study stressed forests in the southwestern United States in this undated handout photo. New research suggests that Canada's drought-stricken forests will take years longer to recover from dry weather than previously thought. In a study published in Science magazine, William Anderegg of Princeton University said trees feel the lingering effects of a drought for up to four years. THE CANADIAN PRESS/HO - Princeton University, William Anderegg</h1><h2 id="storyphotocredit"></h2></div></div><div class="clear">    </div><div class="rule_grey_solid"> </div><div class="clear"> </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a rel="nofollow" href="javascript:EmailThis('tab=PHOT','/story_emailthis.html');"><span>E-mail this Gallery</span></a></li><li class="print"><a rel="nofollow" href="javascript:openWindow('/story_print.html?id=11255012&amp;tab=PHOT&amp;sponsor=','StoryPrint','toolbar=yes,scrollbars=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Gallery</span></a></li><li class="share"><span class="st_sharethis">Share this Gallery</span></li></ul></div></div><div class="clear"> </div><div class="rule_grey_solid"> </div><div class="clear"> </div>
+					
+						<!-- /story_photo_galleries.inc -->
+
+	<div class="section_title">
+		<h3><a href="/news/photos/index.html"><span>Photo Galleries  &#187;</span></a></h3>
+	</div>
+	<!-- title_section ends -->
+	<div class="clear">&nbsp;</div>
+
+	<div class="no_section_title">
+		<div id="syndication3" class="smallfeature">
+<!-- legoctl: ctl05$ctl04 --><!-- CACHE HIT: syndication3 -->
+<!-- Source="855336.atom" --><div class="section_title"><h3><span>More Photo Galleries</span></h3></div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/edmonton/Fort+Edmonton+Park+gets+bite+federal+infrastructure/11258012/story.html"><img border="0" src="cms/binary/11258013.jpg?size=140x95" alt="Member of Parliament Tim Uppal at Fort Edmonton Park on July 31, 2015 where he announced a federal government grant in the amount of $500,000 for the park." title="Member of Parliament Tim Uppal at Fort Edmonton Park on July 31, 2015 where he announced a federal government grant in the amount of $500,000 for the park."></a><span class="photo_credit"></span></div><h3><a href="/news/edmonton/Fort+Edmonton+Park+gets+bite+federal+infrastructure/11258012/story.html" class=""><span class="video-icon"></span><span>Fort Edmonton Park gets bite of...</span></a></h3><p class="newscontent">Fort Edmonton Park is receiving half a million dollars...</p><ul class="morelink"><li><a href="/news/edmonton/Fort+Edmonton+Park+gets+bite+federal+infrastructure/11258012/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="Fort+Edmonton+Park+gets+bite+federal+infrastructure+funding+2018/11258511/story.html"><span>Fort Edmonton Park gets bite of federal infrastructure funding for 2018 reconstruction</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/edmonton/Pleasantview+residents+frustrated+Edmonton+traffic/11256009/story.html"><img border="0" src="cms/binary/11256012.jpg?size=140x95" alt="Lynn and Joe Durbacz are among the Pleasantview residents who are upset with new traffic measures they say are making their streets less safe." title="Lynn and Joe Durbacz are among the Pleasantview residents who are upset with new traffic measures they say are making their streets less safe."></a><span class="photo_credit"></span></div><h3><a href="/news/edmonton/Pleasantview+residents+frustrated+Edmonton+traffic/11256009/story.html" class=""><span class="video-icon"></span><span>Pleasantview residents frustrated...</span></a></h3><p class="newscontent">Some Pleasantview residents are upset with new traffic...</p><ul class="morelink"><li><a href="/news/edmonton/Pleasantview+residents+frustrated+Edmonton+traffic/11256009/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="Traffic+troubles/11256167/story.html"><span>Traffic troubles</span></a></li><li class="doc"><a href="/news/edmonton/City+must+improve+approach+reducing+traffic+shortcuts/11148408/story.html"><span>City must improve approach to reducing traffic shortcuts, auditor says</span></a></li><li class="doc"><a href="/opinion/editorials/Thursday+Editorial+Traffic+shortcutting+path+most/11163690/story.html"><span>Thursday’s Editorial: Traffic shortcutting is the path of most resistance</span></a></li><li class="doc"><a href="/news/edmonton/Pushing+120th+Street+Oliver+Square+redevelopment/11190208/story.html"><span>Pushing LRT to 120th Street key to Oliver Square redevelopment</span></a></li><li class="doc"><a href="/news/edmonton/Edmonton+traffic+police+write+tickets+hour+crackdown/11252239/story.html"><span>Edmonton traffic police write 2,600 tickets in 24-hour crackdown</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/edmonton/Staples+What+kind+Edmontonian/11255593/story.html"><img border="0" src="cms/binary/2241511.jpg?size=140x95" alt="David Staples writes: We love to categorize one another and ourselves, but none of the popular terms of recent decades have been too satisfying in Edmonton, mainly because they’re not specifically about us." title="David Staples writes: We love to categorize one another and ourselves, but none of the popular terms of recent decades have been too satisfying in Edmonton, mainly because they’re not specifically about us."></a><span class="photo_credit"></span></div><h3><a href="/news/edmonton/Staples+What+kind+Edmontonian/11255593/story.html" class=""><span class="video-icon"></span><span>Staples: What kind of Edmontonian...</span></a></h3><p class="newscontent">We love to categorize one another and ourselves, but...</p><ul class="morelink"><li><a href="/news/edmonton/Staples+What+kind+Edmontonian/11255593/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="What+kind+Edmontonian/11256145/story.html"><span>What kind of Edmontonian are you?</span></a></li></ul></div></div><div class="clear"> </div></div>		</div></div>
+
+
+	</div>
+	<!-- no_section_title ends -->
+
+<div class="clear">&#160;</div>
+<div class="section_morelink">
+	<div class="featurecontent">
+		<a href="/news/photos/index.html"><span>More Photo Galleries &#187;</span></a>
+	</div>
+</div>
+<!-- morelink ends -->
+<div class="clear">&#160;</div>
+
+<!-- /story_photo_galleries.inc -->
+
+					
+				</div></div></div><div class="col_620">
+								<!-- story_end starts -->
+<div class="clear"></div>
+<div id="flyertown_module"></div>
+<script src="http://api.flyertown.ca/330/370715b7254c7a93/flyertown_module.js"></script>
+<div class="clear"></div>
+<!-- no promo_story_end.inc -->
+<!-- story_end ends -->
+
+
+						</div></div><div class="clear" xmlns:fb="urn:facebook.com:fb"> </div><hr id="EoS" style="visibility:hidden" xmlns:fb="urn:facebook.com:fb"></div>
+
+	<!-- /includes/video_beacon.inc -->
+	<script type="text/javascript">
+		var playingAd;
+		document.write("<img id='vid1' height='1' width='1'>");
+		function videoScore(evt){
+			playingAd=evt.data.isAd;
+			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+		}
+	</script>
+<!-- /includes/video_beacon.inc -->
+
+ 
+</div>
+<!-- col_640 ends -->
+<div class="col_300">
+	
+    <!-- no /includes/promo_rightrail_top.inc -->
+    <div class="clear">&nbsp;</div>
+	<!-- <div id="relatedtopics">
+		< //cwi//:welcomesearchuser id="LEGO_welcomesearchuser" catalog="EDJN" publicationname="Edmonton Journal" tagpageurl="topic.html" PlaceInDivTag="false" />
+	</div> --> 
+	<!-- relatedtopics ends -->
+	<div class="clear">&nbsp;</div>
+	<div class="bigboxwrapper"> 
+		<!-- /edmontonjournal/bigboxad_story.inc -->
+	
+	<div style="text-align:center;" class="bboxContainer">
+		<!-- /ad-bigboxtop.inc -->
+<div class="ad">
+	<div id='gpt-bigboxtop' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-bigboxtop');
+		</script>
+	</div>
+</div> 
+<!-- /ad-bigboxtop.inc -->
+	</div>
+
+<!-- /edmontonjournal/bigboxad_story.inc --> 
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+	<!-- /common/technology/kaltura_player.inc -->
+<div class="section_title">
+	<h3><span>Technology Videos</span></h3>
+</div>
+<div class="clear"></div>
+<div class="pm_player">
+	<!--PMVideo Player v2.5.5-->
+<div class="video300" style="width:300px;min-height:168px;" data-playlist-id="1_segwc25l">
+  <div id="Player1" itemprop="video" itemtype="http://schema.org/VideoObject" itemscope="itemscope" data-playlist-id="1_segwc25l">
+  </div>
+</div>
+<script type="text/javascript">  
+
+      (function () { 
+
+      var params = {	  
+       
+        playlistId: '1_segwc25l',        //playlistId
+        shareUrl:'http%3A%2F%2Fwww.edmontonjournal.com%2Ftechnology%2F%7BvideoId%7D%2Fvideo.html',
+        autoplay: 'false',
+      
+      targetId: 'Player1'
+      
+      };
+      var url = 'http://app.canada.com/Video/video.svc/loader/?';
+      for (var key in params) {
+        if (params[key] != '' & params[key] != 'undefined' & typeof params[key] != undefined ) {
+			    url += key + '=' + escape(params[key]) + '&';
+		    }
+      }
+      var pv = document.createElement('script'); pv.type = 'text/javascript'; pv.async = false; pv.src = url.slice(0, -1);
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pv, s);
+
+      })();
+
+    </script>
+<!--End of Kaltura Video player-->
+</div>
+<!-- /common/technology/kaltura_player.inc ends -->
+
+ 
+	<div class="clear">&nbsp;</div>
+	<div class="nativead-right">
+		<div class="nativead">
+		</div>
+	</div>
+	<div class="clear">&nbsp;</div>
+	<!-- no /includes/promo_rightrail_mid.inc -->
+	<div class="clear">&nbsp;</div>
+	
+
+	<div class="clear">&nbsp;</div>
+	<!-- shaw widget -->
+	 
+	<!-- shaw widget -->
+	<div class="clear">&nbsp;</div>
+	<!--/mostpopular.inc -->
+
+ <div class="tabbox_300">
+    <div class="top">
+      <div class="section_title">
+        <h3><span>Most Popular News</span></h3>
+      </div>
+      <!-- section title ends -->
+    </div>
+    <!-- top ends -->
+    <div class="center">
+		
+		<div id="mostpopular" class="tab_id_01">
+					<div class="textheadlines">
+						<div class="sectiontab">
+							<ul class="tab">
+								<li class="tab01"><a href="javascript:setClass('mostpopular','tab_id_01');"><span>Most Read</span></a></li>
+								<li class="tab02"><a href="javascript:setClass('mostpopular','tab_id_02');"><span>E-mailed</span></a></li>
+								<li class="tab03"><a href="javascript:setClass('mostpopular','tab_id_03');"><span>Shared </span></a></li>
+							</ul>
+							<!-- tab ends -->
+						</div>
+						<!-- sectiontab ends -->
+						<div class="clear">&nbsp;</div>
+						<div class="content content_01">
+							<div id="syndication10">
+<!-- legoctl: ctl07 --><!-- CACHE HIT: syndication10 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="/news/Company+hopes+restart+stalled+Glenora+condo+project/11258879/story.html" class="">
+      <span>Company hopes to restart stalled Glenora condo project</span>
+    </a>
+  </li>
+  <li>
+    <a href="/news/City+explores+interim+service+problem+plagued+Edmonton+Metro+line/11257963/story.html" class="">
+      <span>City explores ‘interim service’ for problem-plagued Edmonton Metro LRT line</span>
+    </a>
+  </li>
+  <li>
+    <a href="/news/Lamphier+Alberta+industry+needs+moon+vision+former+executive/11258906/story.html" class="">
+      <span>Lamphier: Alberta oil industry needs ‘man on the moon’ vision: former executive</span>
+    </a>
+  </li>
+  <li>
+    <a href="/news/that+full+life+Friends+family+hold+memorial+Morinville+toddler/11259013/story.html" class="">
+      <span>‘A kid that was full of life’: Friends, family hold memorial for Morinville toddler</span>
+    </a>
+  </li>
+  <li>
+    <a href="/news/Economic+slowdown+hasn+hurt+sales+Alberta+restaurants+bars/11258801/story.html" class="">
+      <span>Economic slowdown hasn’t hurt sales for Alberta restaurants, bars</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span>more</span>
+  </a> »
+		</div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_02">
+							<div id="syndication11">
+<!-- legoctl: ctl08 --><!-- CACHE HIT: syndication11 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=email" --><ul class="bullet">
+  <li>
+    <a href="City+explores+interim+service+problem+plagued+Edmonton+Metro+line/11257963/story.html" class="">
+      <span>City explores ‘interim service’ for problem-plagued Edmonton Metro LRT line</span>
+    </a>
+  </li>
+  <li>
+    <a href="Lamphier+Alberta+industry+needs+moon+vision+former+executive/11258906/story.html" class="">
+      <span>Lamphier: Alberta oil industry needs ‘man on the moon’ vision: former executive</span>
+    </a>
+  </li>
+  <li>
+    <a href="Economic+slowdown+hasn+hurt+sales+Alberta+restaurants+bars/11258801/story.html" class="">
+      <span>Economic slowdown hasn’t hurt sales for Alberta restaurants, bars</span>
+    </a>
+  </li>
+  <li>
+    <a href="love+horses+what+motivates+unsung+workers+Northlands+racetrack/11258742/story.html" class="">
+      <span>A love of horses is what motivates the unsung workers at Northlands racetrack</span>
+    </a>
+  </li>
+  <li>
+    <a href="Company+hopes+restart+stalled+Glenora+condo+project/11258879/story.html" class="">
+      <span>Company hopes to restart stalled Glenora condo project</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span>more</span>
+  </a> »
+		</div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_03">
+							<!-- cwi:syndication source="/scripts/mostpopular.aspx?stattype=comment&tag=news" template="MostPopular" MoreViewer="/news/most-popular-articles.html" MoreTitle="more" StartAtDoc="1" maxdocs="5" / -->
+							 <!-- facebook_widget_activity.inc -->
+<div class="fb-activity" data-href="http://www.edmontonjournal.com" data-width="300" data-height="300" data-header="false" data-recommendations="true"></div>
+<!-- // facebook_widget_activity.inc -->
+							 <!-- <div id="mostCommented"></div> -->
+						</div>
+						<!-- content ends -->
+					</div>
+					<!-- textheadlines ends -->
+				</div>
+				<!-- mostpopular ends -->
+				<div class="clear">&nbsp;</div>
+				<!--/sponsor_hr.inc -->
+
+    	</div>
+    	<!-- center ends -->
+	<div class="clear">&nbsp;</div>
+    <div class="bottom">&nbsp;</div>
+    <!-- bottom ends -->
+  </div>
+  <!-- tabbox_300 ends -->
+
+<!--/mostpopular.inc -->
+	<div class="clear">&nbsp;</div>
+	<div class="adimpulse_hr"> 
+		<!-- /edmontonjournal/adimpulse_hr.inc -->
+
+	<div style="text-align:center">
+		<div class="ad">
+	<div id='gpt-impulse' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-impulse');
+		</script>
+	</div>
+</div>  
+	</div>
+
+<!-- /edmontonjournal/adimpulse_hr.inc --> 
+	</div>
+	<!-- adimpulse_hr ends -->
+	<div class="clear">&nbsp;</div>
+	<div class="clear">&nbsp;</div>
+<div class="fb-like-box" data-href="http://www.facebook.com/edmontonjournal" data-width="300" data-show-faces="true" data-stream="false" data-header="false"></div>
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	
+		<!--/includes/breaking_news_alert.inc -->
+
+    <div id="newsalert">
+      <div class="section_title">
+        <h3><span>EDMONTON JOURNAL BREAKING NEWS ALERTS</span></h3>
+      </div>
+      <!-- section_title ends -->
+      <div class="clear">&nbsp;</div>
+      <div class="alerttype"> <span>When news breaks in Edmonton and beyond, be the first to know by signing up for our breaking news email alerts. Our staff will keep you ahead of the curve on big news stories and events.</span> </div>
+      <div class="clear">&nbsp;</div>
+      <form name="edmontonjournalsubscribeform" method="POST" action="http://members.canada.com/scripts/subscribe.aspx">
+        <input type="hidden" name="returnurl" value="http://www.edmontonjournal.com/about-edmonton-journal/thankyou.html">
+        <input type="hidden" name="errorurl" value="http://www.edmontonjournal.com/about-edmonton-journal/error.html">
+        <input type="hidden" name="newsletter" value="breakingnewsalert-edmontonjournal">
+        <input  name="email"  type="text" class="input_alert" value="you@canada.com">
+        <div class="col_80">
+        <div class="submitbutton"> <a href="Javascript:void(1);" onclick="Javascript:document.edmontonjournalsubscribeform.submit();"><span>Submit</span></a> </div>
+        <!-- submitbutton ends -->
+        </div>
+        <!-- col_80 ends-->
+      </form>
+      <div class="clear">&nbsp;</div>
+      <ul class="bullet">
+        <li> <a href="http://www.canada.com/aboutus/privacy.html" target="_blank"><span>Our Privacy Statement</span></a> </li>
+      </ul>
+    </div>
+    <!-- newsalert ends -->
+    
+<!--/includes/breaking_news_alert.inc -->
+
+	
+	<div class="clear">&nbsp;</div>
+	<!-- /technology/storycontent.inc -->
+<!-- /technology/storycontent.inc -->
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	<div id="bigboxwrapperlower" class="bigboxwrapper"> 
+		<!-- /edmontonjournal/bigboxadlower_story.inc -->
+
+	<div id="bigboxlower" style="text-align:center;" class="bboxContainer">
+		<!-- /ad-bigboxbot.inc -->
+<div class="ad">
+	<div id='gpt-bigboxbot' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-bigboxbot');
+		</script>
+	</div>
+</div>
+<!-- /ad-bigboxbot.inc -->
+	</div>
+
+<!-- /edmontonjournal/bigboxadlower_story.inc --> 
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	
+</div>
+<!-- col_300 ends -->
+<div class="clear">&nbsp;</div>
+<!--include file="googlestoryad.inc" -->
+<div class="clear">&nbsp;</div>
+<!-- /footerfeature.inc -->
+
+<div id="footerfeature" class="footerfeature">
+	<div class="footer_title">
+		<span class="start_quote">&nbsp;</span>
+		<span class="title">Inside Edmonton Journal</span>
+		<span class="end_quote">&nbsp;</span>
+	</div>
+    <!-- footer_title ends -->
+	<div class="clear">&nbsp;</div>
+		 <div id="syndication12">
+<!-- legoctl: ctl09 --><!-- CACHE HIT: syndication12 -->
+<!-- Source="/Scripts/Aggregate.aspx?source=950626.atom,4&source=969791.atom,6" --><script>
+			   CDMScriptManager.load("/js/slider.js");
+			</script>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_LeftNav">
+  <div class="nav" id="FooterFeature_2_LeftNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_LeftNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/left_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<div class="contentwrapper" style="overflow:hidden;position:relative;float:left;" id="FooterFeature_2_Window">
+  <div style="position:relative;" id="FooterFeature_2_Content">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_0">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/entertainment/Valley+Jamboree+roars+gate/11256103/story.html">
+                    <img border="0" src="cms/binary/11256095.jpg?size=140x95" alt="Bull riding during the opening rodeo event at Big Valley Jamboree in Camrose on July 30, 2015" title="Bull riding during the opening rodeo event at Big Valley Jamboree in Camrose on July 30, 2015">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/entertainment/Valley+Jamboree+roars+gate/11256103/story.html" class="">
+                    <span>
+                      <span>Photos: Big Valley Jamboree roars out of the gate</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/business/Pipeline+firm+TransCanada+reports+429M+profit+from+416M+year/11257508/story.html">
+                    <img border="0" src="cms/binary/11119633.jpg?size=140x95" alt="111814-Energy_East_Imports_20141029-1119_biz_transcanada-W.jpg" title="111814-Energy_East_Imports_20141029-1119_biz_transcanada-W.jpg">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/business/Pipeline+firm+TransCanada+reports+429M+profit+from+416M+year/11257508/story.html" class="">
+                    <span>
+                      <span>Energy East pipeline will cost more than $12 billion, TransCanada says</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/edmonton/Sorry+Thunderboy+Melon+Liam+Olivia+rule+baby+names+list/11254921/story.html">
+                    <img border="0" src="cms/binary/11255360.jpg?size=140x95" alt="Service Alberta Minister Deron Bilous, right, met with children and their parents at the Centre Day Care in downtown Edmonton on July 30, 2015 to talk about raising a family and popular baby names in Alberta. The top baby names in Alberta in 2014, where 55,587 babies were born, were Liam and Olivia." title="Service Alberta Minister Deron Bilous, right, met with children and their parents at the Centre Day Care in downtown Edmonton on July 30, 2015 to talk about raising a family and popular baby names in Alberta. The top baby names in Alberta in 2014, where 55,587 babies were born, were Liam and Olivia.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/edmonton/Sorry+Thunderboy+Melon+Liam+Olivia+rule+baby+names+list/11254921/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Sorry, Thunderboy and Melon: Liam and Olivia rule baby names list</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/edmonton/July+1934+Fortune+teller+saved+from+river+city+boys/11255528/story.html">
+                    <img border="0" src="cms/binary/11255529.jpg?size=140x95" alt="Price Brown, who entertained people as fortune teller Professor Cosmo, was saved from drowning in the North Saskatchewan River by two local boys, James Thompson and Daniel Peden, in 1934." title="Price Brown, who entertained people as fortune teller Professor Cosmo, was saved from drowning in the North Saskatchewan River by two local boys, James Thompson and Daniel Peden, in 1934.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/edmonton/July+1934+Fortune+teller+saved+from+river+city+boys/11255528/story.html" class="">
+                    <span>
+                      <span>July 31, 1934: Fortune teller saved from river by two city boys</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://driving.ca/mini/cooper/auto-news/entertainment/the-5-best-cars-from-british-gangster-films">
+                    <img border="0" src="cms/binary/11257636.jpg?size=140x95" alt="Here's a look at our 5 favourite rides from British gangster films." title="Here's a look at our 5 favourite rides from British gangster films.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://driving.ca/mini/cooper/auto-news/entertainment/the-5-best-cars-from-british-gangster-films" class="">
+                    <span>
+                      <span>The 5 best cars from British gangster films</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/health/study+shows+Canadian+made+Ebola+vaccine+protects/11257543/story.html">
+                    <img border="0" src="cms/binary/11257611.jpg?size=140x95" alt="FILE - In this March 7, 2015 file photo, a health worker, right, cleans a man's arm before injecting him with a Ebola vaccine in Conakry, Guinea. An experimental vaccine tested on thousands of people in Guinea exposed to Ebola seems to work and might help shut down the ongoing epidemic in West Africa, according to interim results from a study published Friday, July 31, 2015. There is currently no licensed treatment or vaccine for Ebola, which has so far killed more than 11,000 people in West Afr" title="FILE - In this March 7, 2015 file photo, a health worker, right, cleans a man's arm before injecting him with a Ebola vaccine in Conakry, Guinea. An experimental vaccine tested on thousands of people in Guinea exposed to Ebola seems to work and might help shut down the ongoing epidemic in West Africa, according to interim results from a study published Friday, July 31, 2015. There is currently no licensed treatment or vaccine for Ebola, which has so far killed more than 11,000 people in West Afr">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/health/study+shows+Canadian+made+Ebola+vaccine+protects/11257543/story.html" class="">
+                    <span>
+                      <span>It appears the world finally has an effective Ebola vaccine</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://news.nationalpost.com/life/travel/travelling-with-a-toddler-on-a-trip-to-puerto-rico-what-we-did-right-and-wrong">
+                    <img border="0" src="cms/binary/11257822.jpg?size=140x95" alt="In this May 23, 2015 photo, Amber Hunt plays with her 17-month-old son Hunt Van Benschoten at a beach in San Juan, Puerto Rico." title="In this May 23, 2015 photo, Amber Hunt plays with her 17-month-old son Hunt Van Benschoten at a beach in San Juan, Puerto Rico.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://news.nationalpost.com/life/travel/travelling-with-a-toddler-on-a-trip-to-puerto-rico-what-we-did-right-and-wrong" class="">
+                    <span>
+                      <span>Ever considered travelling with your toddler?</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://news.nationalpost.com/life/style/dress-code-for-summer-wedding-guests-make-a-statement-without-standing-out">
+                    <img border="0" src="cms/binary/11257777.jpg?size=140x95" alt="Nicole McInnis, milliner and owner of Oh Dina!, wears a floral maxi dress with a floral crown." title="Nicole McInnis, milliner and owner of Oh Dina!, wears a floral maxi dress with a floral crown.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://news.nationalpost.com/life/style/dress-code-for-summer-wedding-guests-make-a-statement-without-standing-out" class="">
+                    <span>
+                      <span>Summer wedding style sense</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://news.nationalpost.com/life/food-drink/summer-calls-for-easy-food-and-even-easier-drinks-recipes-for-three-winning-pitcher-style-cocktails">
+                    <img border="0" src="cms/binary/11254685.jpg?size=140x95" alt="From left: Cilantro Corn Margaritas, Pitcher Micheladas and Hibiscus Coolers." title="From left: Cilantro Corn Margaritas, Pitcher Micheladas and Hibiscus Coolers.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://news.nationalpost.com/life/food-drink/summer-calls-for-easy-food-and-even-easier-drinks-recipes-for-three-winning-pitcher-style-cocktails" class="">
+                    <span>
+                      <span>Three winning pitcher-style cocktails</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://driving.ca/ford/auto-news/entertainment/respect-your-elders-these-sierra-cosworths-are-seriously-fast-fords">
+                    <img border="0" src="cms/binary/11257649.jpg?size=140x95" alt="Craig Siemens' Ford Sierra Cosworth." title="Craig Siemens' Ford Sierra Cosworth.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="http://driving.ca/ford/auto-news/entertainment/respect-your-elders-these-sierra-cosworths-are-seriously-fast-fords" class="">
+                    <span>
+                      <span>Wild Sierra Cosworth a blast from Ford's maniacal past</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_RightNav">
+  <div class="nav" id="FooterFeature_2_RightNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_RightNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/right_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<script language="javascript">
+
+		var FooterFeature_2_Object = null;
+                jQuery(function() {
+			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);
+
+			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ;
+			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ;
+		});
+	    </script></div>
+
+		 <div class="clear">&nbsp;</div>
+</div>
+
+<!-- /footerfeature.inc -->
+<div class="clear">&nbsp;</div>
+
+                     
+                     <div class="clear">&nbsp;</div>
+					<!-- /sub-promo.inc -->
+	<a id="sub-promo" href="http://www.edmontonjournal.com/subscribe/index.html?cid=PM|Footer|SubAc|EJ"><img src="/images/Subscribe_Footer_940x210_EJ.jpg" title="Subscribe to Edmonton Journal and stay connected your way" alt="Subscribe to Edmonton Journal and stay connected your way" border="0" /></a>
+<!-- /sub-promo.inc -->
+
+					
+				</div>
+				<!-- bodywrapper ends -->
+			</div>
+			<!-- contentbody ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="footer">
+				<!-- /footer.inc -->
+	<div class="clear">&nbsp;</div>
+	<div id="footer">
+		<div class="footer_top">
+			<ul class="footer_list_top">
+				<li><a href="/index.html" rel="nofollow"><span>Home</span></a></li>
+				<li><a href="/news/index.html" rel="nofollow"><span>News</span></a></li>
+				<li><a href="/opinion/index.html" rel="nofollow"><span>Opinion</span></a></li>
+				<li><a href="/business/index.html" rel="nofollow"><span>Business</span></a></li>
+				<li><a href="/sports/index.html" rel="nofollow"><span>Sports</span></a></li>
+				<li><a href="/entertainment/index.html" rel="nofollow"><span>Entertainment</span></a></li>
+				<li><a href="/life/index.html" rel="nofollow"><span>Life</span></a></li>
+				<li><a href="/health/index.html" rel="nofollow"><span>Health</span></a></li>
+				<li><a href="/technology/index.html" rel="nofollow"><span>Technology</span></a></li>
+				<li><a href="/travel/index.html" rel="nofollow"><span>Travel</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.workopolis.com/jobsearch/whitelabel/edmontonjournal/home" rel="nofollow"><span>Jobs</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.driving.ca/" rel="nofollow" target="_blank"><span>Driving</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.househunting.ca/index.html?branding=edmontonjournal" rel="nofollow"><span>Homes</span></a></li>
+				<li class="footerclassifieds"><a href="http://classifieds.edmontonjournal.com/" rel="nofollow"><span>Classifieds</span></a></li>
+			</ul>
+		</div>
+		<!-- footer_top ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="wrapper_0_10_0_10">
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Don't Miss</span></h3></div></li>
+					</ul>
+					<div id="syndication13">
+<!-- legoctl: ctl10 --><!-- CACHE HIT: syndication13 -->
+<!-- Source="974176.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.edmontonjournal.com/sports/Life+track+Love+horses+motivates+breed+apart+Northlands/11258742/story.html" class="">
+      <span>Life at the track</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/homes/my+house+beautiful/House+Beautiful+Rossdale+renovation+produced/11258272/story.html" class="">
+      <span>My House Beautiful</span>
+    </a>
+  </li>
+  <li>
+    <a href="/business/commercial-real-estate/Company+hopes+restart+stalled+Glenora/11258879/story.html" class="">
+      <span>Glenora condo project</span>
+    </a>
+  </li>
+  <li>
+    <a href="/entertainment/From+beer+bongs+classic+country+Valley+Jamboree+back/11259036/story.html" class="">
+      <span>Big Valley Jamboree</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/sports/the-daily-mcdavid/index.html" class="">
+      <span>The Daily McDavid</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/news/photos/index.html" class="">
+      <span>Photos</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/news/history/index.html" class="">
+      <span>Day in History</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> »
+		</div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Most Popular</span></h3></div></li>
+					</ul>
+					<div id="syndication14">
+<!-- legoctl: ctl11 --><!-- CACHE HIT: syndication14 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="/Company+hopes+restart+stalled+Glenora+condo+project/11258879/story.html" class="">
+      <span>Company hopes to restart stalled Glenora condo project</span>
+    </a>
+  </li>
+  <li>
+    <a href="/City+explores+interim+service+problem+plagued+Edmonton+Metro+line/11257963/story.html" class="">
+      <span>City explores ‘interim service’ for problem-plagued Edmonton Metro LRT line</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Lamphier+Alberta+industry+needs+moon+vision+former+executive/11258906/story.html" class="">
+      <span>Lamphier: Alberta oil industry needs ‘man on the moon’ vision: former executive</span>
+    </a>
+  </li>
+</ul>
+<div class="clear"> </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span></span>
+  </a> »
+		</div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Formats</span></h3></div></li>
+						<li><a href="/about-edmonton-journal/sitemap.html"><span>Sitemap / RSS</span></a></li>
+						<li><a href="/contests/index.html"><span>Contests</span></a></li>
+						<li><a href="/opinion/blogs/index.html"><span>Blogs</span></a></li>
+						<li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+						<li><a href="/news/photos/index.html"><span>Photos</span></a></li>
+						<li><a href="/mobile-site/"><span>Mobile</span></a></li>
+						<li><a href="http://itunes.apple.com/ca/app/edmonton-journal/id406546228?mt=8" target="_blank"><span>iPad App</span></a></li>
+						
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>The Journal</span></h3></div></li>
+						<li><a href="/about-edmonton-journal/aboutus.html"><span>About Us</span></a></li>
+						<li><a href="http://contests.canada.com/edmontonjournal/subscribe/services/"><span>Subscriber Services</span></a></li>
+						<li><a href="http://rewards.edmontonjournal.com/"><span>Subscriber Rewards</span></a></li>
+						<li><a href="/about-edmonton-journal/advertising.html"><span>Advertise with Us</span></a></li>
+						<li><a href="https://members.canada.com/rss/newsubscription.aspx?site=cc&provider=canada&brand=edmontonjournal" rel="nofollow"><span>Subscribe to the Print Edition</span></a></li>
+						<li><a href="/about-edmonton-journal/contactus.html"><span>Contact Us</span></a></li>
+						
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_300">
+				<ul class="footer_list_middle">
+					<li><div class="section_title"><h3><span>Tools</span></h3></div></li>
+					<li>
+						<div class="formsearchbar">
+							<form name="searchform" onSubmit="footerSearch();return false;">
+								<input type="text" id="f" name="f" onclick="this.value='';" onblur="this.value=!this.value?'Search edmontonjournal.com...':this.value;" value="Search edmontonjournal.com..." maxlength="1024" />
+								<div class="formbutton">
+									<a class="" href="Javascript:void(1);" onClick="footerSearch();"><span>Search</span></a>
+								</div>
+							</form>
+							<!-- formbutton ends -->
+						</div>
+						<!-- formsearchbar ends -->
+					</li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<div class="col_160">
+					<div class="col_140">
+						<ul class="footer_list_middle">
+							<li><a href="http://www.workopolis.com/jobsearch/whitelabel/edmontonjournal/home" rel="nofollow"><span>Search for a Job</span></a></li>
+							<li><a href="http://driving.kijiji.ca/" rel="nofollow" target="_blank"><span>Buy/Sell a Car</span></a></li>
+							<li><a href="http://www.househunting.ca/edmonton/sale-and-rent/index.html" rel="nofollow"><span>Real Estate Listings</span></a></li>
+							
+						</ul>
+					</div>
+					<!-- col_140 ends -->
+				</div>
+				<!-- col_160 ends -->
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><a href="http://edmontonjournal.adperfect.com/"><span>Place a Classified Ad</span></a></li>
+						<li><a href="/news/email-alerts.html" rel="nofollow"><span>E-mail Alerts</span></a></li>
+						<li><a href="http://www.flyercity.ca/?p=edmontonjournal&locale=en&utm_campaign=pm_nav-bar&utm_source=nav-bar&utm_medium=nav-bar&utm_term=Edmonton%20Journal" rel="nofollow"><span>Flyercity.ca</span></a></li>
+					  <li><a href="http://www.infomart.com" rel="nofollow"><span>Infomart</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_300 ends -->
+		</div>
+		<!-- wrapper_0_10_0_10 ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="rule">&nbsp;</div>
+		<div class="clear">&nbsp;</div>
+		<div class="footer_bottom">
+			<ul class="footer_list_bottom">
+				<li class="footer_canadacom no_background"><a href="http://www.canada.com" rel="nofollow"><span>canada.com Logo</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/index.html"><span>About canada.com</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/privacy.html"><span>Privacy Statement</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/termsofservice.html"><span>Terms</span></a></li>
+				<li class="no_background"><a href="http://www.canada.com/aboutus/copyright.html"><span>Copyright &amp; Permissions</span></a></li>
+				<li class="footer_copyright no_background">
+					&copy; 2010 - 2015 Postmedia Network Inc. All rights reserved.
+					<div class="clear">&nbsp;</div>
+					Unauthorized distribution, transmission or republication strictly prohibited.
+				</li>
+			</ul>
+		</div>
+		<!-- footer_bottom ends -->
+	</div>
+	<!-- footer ends -->
+	<div class="clear">&nbsp;</div>
+		<script language="javascript">
+			function footerSearch() {
+				var q = document.getElementById("f").value.replace(/ /g,"+");
+				if (q.length == 0) {
+					alert("Please enter your search criteria");
+					return;
+				}
+				document.location.href="/search/search.html?q=" + escape(q);
+			}
+		</script>
+		<script language="javascript">
+			document.getElementById("f").value = document.getElementById("q").value;
+		</script>
+<!-- /footer.inc -->
+
+			</div>
+			<!-- footer ends -->
+
+		</div>
+		<!-- pagewrapper ends -->
+	</div>
+	<!-- page ends -->
+
+	<!-- /chartbeat-analytics.inc -->
+
+<!-- chartbeat Added on Feb09/11 � local request- var _sf_startpt in header  -->
+<!-- updated with new code on Aug22/11 -->
+
+<script type='text/javascript'>
+                /**Postmedia values**/
+                var chartbeatPath = window.location.pathname.split( '/' );
+                var chartbeatpage = chartbeatPath[chartbeatPath.length-1].substring(0,chartbeatPath[chartbeatPath.length-1].lastIndexOf('.'));
+                var sectionName = '';
+                var authorName = '';
+    
+                if (chartbeatPath[1].lastIndexOf('.')==-1)
+                sectionName = chartbeatPath[1];
+
+                if (chartbeatPath[1] != 'touch' && chartbeatpage == 'story')
+                	authorName = $j('#storyheader .name').text();
+                
+                /**Chartbeat values**/
+                var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 3498;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.domain = 'postmedia.com';
+    _sf_async_config.sections = 'edmontonjournal.com';          //This to your Section name  
+    _sf_async_config.authors = authorName;        //This to your Author name 
+	_sf_async_config.videoPageGroups = 'true'; 
+                
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat_video.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+</script>
+
+<!-- start measure.ly tracking -->
+<script src="http://lsa-staging.elasticbeanstalk.com/lsa-dynamic.js"></script>
+<!-- end measure.ly tracking -->
+
+
+<!-- /chartbeat-analytics.inc -->
+	<!-- sliceplayer.inc start -->
+<!--PMVideo SlicePlayer v1.2--><script type="text/javascript" src="http://app.canada.com/Video/video.svc/GetSlicePlayer/?parentClass=story_content"></script><!--End of SlicePlayer-->
+<!-- sliceplayer.inc end -->
+
+<form name="frmPage" method="post" action="story.html" id="frmPage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MDUxMTc4MDhkZKYFXIh1yTpqMxObpgPRQwyeP11l" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A20F03B3" /></form>
+                            <!-- Begin GAT Tag -->
+                            <script type='text/javascript'>
+                                var _gaq = _gaq || [];
+                                _gaq.push(['_setAccount', 'UA-24419597-1']);
+                                _gaq.push(['_setDomainName', 'edmontonjournal.com']);
+                                _gaq.push(['_trackPageview']);
+                                (function() {
+                                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                                })();
+                            </script>
+                            <!-- End GAT Tag -->
+                        
+                        <!-- Begin comScore Tag -->
+                        <script>
+                            var _comscore = _comscore || [];
+                            _comscore.push({ c1: '2', c2: '10276888' });
+                            (function() {
+                                var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+                                s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+                                el.parentNode.insertBefore(s, el);
+                            })();
+                        </script>
+                        <noscript>
+                            <img src='http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1' />
+                        </noscript>
+                        <!-- End comScore Tag -->
+                        <!-- SiteCatalyst code version: H.25.4.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/global_s_code.js?v3'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js?v3'></script>
+                
+                            <script language='JavaScript' type='text/javascript'>
+                            <!--
+                            /* You may give each page an identifying name, server, and channel on
+                            the next lines. */
+                            s.pageName='/technology/story.html';
+                            s.server=window.location.hostname.toLowerCase();
+                            s.channel='technology';
+                            s.pageType='';                            
+                            s.prop2='technology';
+                            s.prop3='postmedia';
+                            s.prop4='Non-Registered';
+                            s.prop6='Free Content';
+                            s.prop7='';
+                            s.prop8='11255012';
+                            s.prop10='';
+                            s.prop11='';
+                            s.prop13='';
+                            s.prop23=document.title;
+                            s.prop25='story';
+                            s.prop27='';  
+                            s.prop28=''; 
+                            s.prop29='';
+                            s.prop36='National||100~William Anderegg||100~Climatology||75~Drought||75~Earth Science||75~Science|IAB|75'; 
+                            s.prop37='';
+							s.prop48='Bob Weber, The Canadian Press';
+							s.events='event45';
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><img src='http://canwest.112.2o7.net/b/ss/canwestglobal,canedmonton/1/H.25.4--NS/O' alt='' width='1' height='1' border='0' /></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.25.4. -->
+                        <!-- Google Code for Remarketing Tag -->
+                        <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+                        <script type="text/javascript">
+                            /* <![CDATA[ */
+                            var google_conversion_id = 990309138;
+                            var google_custom_params = window.google_tag_params;
+                            var google_remarketing_only = true;
+                            /* ]]> */
+                        </script>
+                        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+                        <noscript>
+                            <div style="display:inline;">
+                                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+                            </div>
+                        </noscript></body>
+</html>
+<!-- WPGPDWEB96 219 -->

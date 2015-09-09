@@ -1,0 +1,1955 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html xmlns:fb="http://ogp.me/ns/fb#" lang="en">
+<!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<meta name="viewport" id="nypviewport" content="" />
+<script type="text/javascript">
+if ( navigator.userAgent.match(/IEMobile\/10\.0/) ) {
+	var msViewportStyle = document.createElement( 'style' );
+	msViewportStyle.appendChild(
+		document.createTextNode( '@-ms-viewport{ width:auto!important }' )
+	);
+	document.getElementsByTagName( 'head' )[0].appendChild( msViewportStyle );
+}
+var mvp = document.getElementById('nypviewport');
+if (screen.width <= 767) {
+	mvp.setAttribute('content','width=device-width, initial-scale=1');
+}
+</script>
+<meta name="copyright" content="Copyright 2015 NYP Holdings. All rights reserved."/>
+
+<link rel="apple-touch-icon" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/apple-icons/nypost/apple-icon.png" />
+			<link rel="apple-touch-icon" sizes="57x57" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/apple-icons/nypost/apple-icon-57x57.png" />
+			<link rel="apple-touch-icon" sizes="114x114" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/apple-icons/nypost/apple-icon-114x114.png" />
+			<link rel="apple-touch-icon" sizes="144x144" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/apple-icons/nypost/apple-icon-144x144.png" />
+	<meta name="p:domain_verify" content="701c0e13bca342086174f2a19ed49228"/>
+
+<meta name="description" content="After Bank of America lost three of its top officers last week, Brian Moynihan is hoping he can keep his two jobs. The CEO of the second-largest US bank asked..."/>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/favicon-nypost/favicon.ico" />
+<title>BofA CEO asks shareholders to keep him as chairman | New York Post</title>
+	<script type="text/javascript" src="//use.typekit.net/yoc0pwu.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="apple-touch-icon" href="https://s0.wp.com/wp-content/themes/vip/nypost/static/images/favicon.png" />
+<script src="//cdn.optimizely.com/js/291827881.js"></script>		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=nypost.com&amp;id=56757169&amp;t=1438491087&amp;back=http%3A%2F%2Fnypost.com%2F2015%2F08%2F01%2Fbofa-ceo-asks-shareholders-to-keep-him-as-chairman%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+	<script>
+	window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+	(function(){
+	  function retrieve(n){
+		var m, k='kx'+n;
+		if (window.localStorage) {
+		  return window.localStorage[k] || "";
+	   } else if (navigator.cookieEnabled) {
+		  m = document.cookie.match(k+'=([^;]*)');
+		  return (m && unescape(m[1])) || "";
+		} else {
+		  return '';
+		}
+	  }
+	  Krux.user = retrieve('user');
+	  Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+	})();
+	</script>
+		<script type='text/javascript'>
+	var crtg_nid = '1660';
+	var crtg_cookiename = 'crtg_nyp';
+	var crtg_varname = 'crtg_content';
+	function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+	var crtg_content = crtg_getCookie(crtg_cookiename);
+	var crtg_rnd=Math.floor(Math.random()*99999999999);
+	(function(){
+	var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+	crtg_url +='&cookieName='+escape(crtg_cookiename);
+	crtg_url +='&rnd='+crtg_rnd;
+	crtg_url +='&varName=' + escape(crtg_varname);
+	var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+	if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+	else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+	})();
+	</script>
+		<script type="text/javascript" src="http://static.proximic.com/t/newscorp.js"></script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJx9juEKwjAMhF/IrnMO0R/is3RdcOmaLiwtw7c3E0QE6Z+QO77LxW5s/JIypGypGI7lgUmsEEZ48roE8PlXNV7kYP/HIs4gNkBm52fzVjXcLyuoT+zyThCM6CACKVaLEZ8/qX2dtKtas7HSZhh4BRGjk7CQyZMWfXOYfCyjfq+GHZ1MqJekIUw7cqfbsT91167tL214AVrGc2M=' type='text/css' media='all' />
+<link rel='stylesheet' id='google-cabin-font-css'  href='//fonts.googleapis.com/css?family=Cabin&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-mobile-css-css'  href='//code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.css?ver=1.3.1' type='text/css' media='all and (max-width: 767px)' />
+<link rel='stylesheet' id='all-css-4' href='https://s0.wp.com/wp-content/themes/vip/nypost/static/stylesheets/mobile.css?m=1438102493g' type='text/css' media='all' />
+<link rel='stylesheet' id='allandmin-width767px-css-5' href='https://s0.wp.com/wp-content/themes/vip/nypost/static/stylesheets/screen.css?m=1437409151g' type='text/css' media='all and (min-width: 767px)' />
+<link rel='stylesheet' id='all-css-6' href='https://s2.wp.com/wp-content/themes/vip/plugins/release-candidates/sailthru/css/widget.subscribe.css?m=1418053925g' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-8' href='https://s2.wp.com/_static/??-eJx9j9EKwjAMRX/IGuaG7kX8lq7EtqNtSpOx37ejIopjL8m95J6QwJqVoSSYBOKiclisTwwYafatng3zCTwkEl+T/BFtsM9bJBXIaPGUfox6Bu3LEVpwCmSrtFBTX/YIysTSVgM7XTb43Y+vTFjaU7vyjxWHERncADbQpMMWeMR7N/TX29hfxm5+AbYrfX0=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsivb6qP4LbXGkbqktUkd+vV2oA/CUAgEcg+X2CUb5DDXM4iNbW4VyuO9uig7+wsYwql4hY6QPzgkVmBdLaUTzmCqQPFTu7WiS9pwOYkSiDS0kX6/hHxHWP6yCJp9uJoCgs+19UiH3o3jvh/c4OILM+5bxw=='></script>
+<script type='text/javascript' src='http://d134l0cdryxgwa.cloudfront.net/backplane.js?ver=4.3-alpha-32652'></script>
+<script type='text/javascript' src='http://admin.brightcove.com/js/BrightcoveExperiences.js?ver=4.3-alpha-32652'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nypostGlobalJs = {"img_modal_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nypostGaJs = {"scrollTracking":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nypost_meme_gen_data = {"ajaxurl":"https:\/\/thenypost.wordpress.com\/wp-admin\/admin-ajax.php","generate_action":"generate_meme","more_action":"more_memes","nonce":"nypost_meme_gen_nonce"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nypostMobileJs = {"uiPanelEnable":"1","uiPanelDirection":"right"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydVMtOwzAQ/CESU9oDHBAfwRf4sXU2rL3GXjfN3+PQCnEByZF8Ws+MZ19WSxowWqoOiprb+ayQV1VRWc4wBozjXB7Un6gFnQf5jbMcBaIomSA09AWTimviIqqIFrQb3xMbTT0Md06jTzISew955AvkjA56JG6BYVPqZ3ndQ7rVZ7TMH7jHY2iIwUOErIVzj0BiorLDarG5MR0kmXqbmdBKzXBG6uro/WHhaqf3BdOeOhVqM1AmXnq4P6RvdEu7q16BDVKX17OOdjV87fKIIREEdm1LOtthMvpJbNuQQUdNawv/l2Ci6jEWlYFAFxisjg6dlnZdNJJMuW6q9z0v1bRJQbOrWduPYlhnN9zV5vIWXg+n4/Ph8en0cpy/ALY9uqY='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thenypost.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://nyp.st/1I954b3' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fnypost.com%2F2015%2F08%2F01%2Fbofa-ceo-asks-shareholders-to-keep-him-as-chairman%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fnypost.com%2F2015%2F08%2F01%2Fbofa-ceo-asks-shareholders-to-keep-him-as-chairman%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="BofA CEO asks shareholders to keep him as chairman" />
+<meta property="og:url" content="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/" />
+<meta property="og:description" content="After Bank of America lost three of its top officers last week, Brian Moynihan is hoping he can keep his two jobs. The CEO of the second-largest US bank asked shareholders on Friday to keep him in ..." />
+<meta property="article:published_time" content="2015-08-01T06:02:41+00:00" />
+<meta property="article:modified_time" content="2015-08-01T06:02:41+00:00" />
+<meta property="og:site_name" content="New York Post" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@nypost" />
+<meta name="twitter:image:src" content="https://thenypost.files.wordpress.com/2015/07/brian.jpg?w=150" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@nypost" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:title" content="BofA CEO asks shareholders to keep him as chairman" />
+<meta name="twitter:description" content="After Bank of America lost three of its top officers last week, Brian Moynihan is hoping he can keep his two jobs. The CEO of the second-largest US bank asked..." />
+<meta name="twitter:image" content="https://thenypost.files.wordpress.com/2015/07/brian.jpg?w=150" />
+<meta property="og:image" content="https://thenypost.files.wordpress.com/2015/07/brian.jpg" />
+<meta property="og:image:secure_url" content="https://i1.wp.com/thenypost.files.wordpress.com/2015/07/brian.jpg" />
+<link rel='openid.server' href='http://thenypost.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://thenypost.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://nypost.com/osd.xml" title="New York Post" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wordpress.com/opensearch.xml" title="WordPress.com" />
+<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script><script type="text/javascript">
+function janrainSignOut(){
+	janrain.capture.ui.endCaptureSession();
+}
+(function() {
+	if (typeof window.janrain !== 'object') window.janrain = {};
+	window.janrain.settings = {};
+	window.janrain.settings.capture = {};
+
+	// capture settings
+	janrain.settings.capture.redirectUri = 'https://thenypost.wordpress.com/wp-admin/admin-ajax.php?action=janrain_capture_redirect_uri';
+	janrain.settings.capture.appId= 'rmzxajhacm697fdpmb8usywzxg';
+	janrain.settings.capture.clientId = 'r3b8u9uyttgwxym6h3g8kj9xqbtchasu';
+	janrain.settings.capture.responseType = 'token';
+	janrain.settings.capture.captureServer = 'https://nypost.janraincapture.com';
+	janrain.settings.capture.registerFlow = 'socialRegistration';
+	janrain.settings.packages = ['capture','login'];
+
+	janrain.settings.capture.setProfileCookie = true;
+	janrain.settings.capture.keepProfileCookieAfterLogout = true;
+	janrain.settings.capture.setProfileData = 'true';
+	janrain.settings.capture.federateEnableSafari = true;
+
+	// styles
+	janrain.settings.capture.stylesheets = ['https://s0.wp.com/wp-content/themes/vip/nypost/janrain-capture-screens/stylesheets/styles.css'];
+	janrain.settings.capture.mobileStylesheets = ['https://s0.wp.com/wp-content/themes/vip/nypost/janrain-capture-screens/stylesheets/mobile-styles.css'];
+	janrain.settings.capture.recaptchaPublicKey = '6LeVKb4SAAAAAGv-hg5i6gtiOV4XrLuCDsJOnYoP';
+
+	// engage settings
+	janrain.settings.appUrl = 'https://nypost.rpxnow.com';
+	janrain.settings.tokenAction = 'event';
+		
+
+	//backplane settings
+	janrain.settings.capture.backplane = 1;
+	janrain.settings.capture.backplaneBusName = 'nypost.com';
+	janrain.settings.capture.backplaneVersion = 1.2;
+		
+	function isReady() { janrain.ready = true; };
+	if (document.addEventListener) {
+		document.addEventListener("DOMContentLoaded", isReady, false);
+	} else {
+		window.attachEvent('onload', isReady);
+	}
+
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.id = 'janrainAuthWidget'
+	var url = document.location.protocol === 'https:' ? 'https://' : 'http://';
+	url += 'd29usylhdk1xyu.cloudfront.net/load/nypost';
+	e.src = url;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(e, s);
+})();
+</script><script type="text/javascript">function janrainCaptureWidgetOnLoad() {
+    janrain.events.onCaptureLoginSuccess.addHandler(function(result){
+    	livefyreUserVerified(result);
+    	janrain.capture.ui.modal.close();
+    	janrainLoggedIn();
+    });
+    
+    janrain.events.onCaptureRegistrationSuccess.addHandler(function(result){
+    	livefyreUserVerified(result);
+    	janrain.capture.ui.modal.close();
+    	janrainLoggedIn();
+    });
+    
+    janrain.events.onCaptureSessionFound.addHandler(function(){
+    	// The user is logged in, so display their welcome name and change the Sign In menu item to My Account
+		janrainLoggedIn();
+    });
+    
+    janrain.events.onCaptureSessionEnded.addHandler(function(result){
+    	
+    	jQuery( '#sign-out' ).off().addClass( 'reloading' );
+
+    	// after logging out of Janrain
+    	// clear email cookie
+	    jQuery.removeCookie('janrainEmailVerified');
+    	// and log out of Livefyre if logged in
+    	if ( typeof fyre !== 'undefined' && typeof fyre.conv.user.id !== 'undefined' ) {
+	    	fyre.conv.logout();
+	    }
+
+	    // there should be a listener in livefyre that refreshes after logout
+	    // but reload window in case that misfires
+	    setTimeout( function(){
+	    	window.location.reload( false );
+	    }, 2000);
+
+	});
+    
+    janrain.capture.ui.start();
+}
+
+// Manually update the Sign In functionality to Sign Out due to the modal workaround
+function janrainLoggedIn() {
+	// Hide the Sign In link
+	$janrain_element = jQuery( '#promoted-tags #janrain_auth, #page-nav #janrain_auth' );
+	$janrain_element.hide();
+	
+	// Manually create a new element for Sign Out since the Sign In element 
+	// has an unremovable Sign In modal event attached to it until the page refreshes.
+	jQuery( '<a></a>' )
+	.text( 'Sign Out' )
+	.attr( "onclick", "janrain.capture.ui.endCaptureSession()" )
+	.attr( 'id', 'sign-out' )
+	.insertAfter( $janrain_element );
+
+	// Remove click event from comments sign in, change text
+	jQuery( '.comments-sign-x' )
+	.off()
+	.on( 'click', janrain.capture.ui.endCaptureSession )
+	.text( 'Sign Out' );
+
+	// close flyover on mobile if open
+	if ( jQuery( '#nav-flyovers' ).hasClass( 'ui-panel-open' ) ){
+		nypostCloseFlyover();
+	}
+
+	// toggles display of signin-out links in mobile nav
+	jQuery( '#account-flyover' ).addClass( 'logged-in' );
+
+}
+
+// toggle the classes that close the flyover menu
+function nypostCloseFlyover(){
+	$('#content-wrapper').removeClass('ui-panel-content-wrap-position-right ui-panel-content-wrap-display-reveal ui-panel-content-wrap-open').addClass('ui-panel-content-wrap-closed');
+	$('#nav-flyovers').removeClass('ui-panel-open').addClass('ui-panel-closed');
+	$('#content-wrapper').css('position', 'relative');
+	$('#div-gpt-ad-pull.mobile-ad-pull').show();
+}
+
+// Function to check if a user's email is verified
+function nypostJanrainVerified(user) {	
+	// If a null user object was passed in, attempt to get the data from the cookie
+	if ( null == user ) {
+		var emailVerified = jQuery.cookie('janrainEmailVerified');
+		if ( typeof( emailVerified ) != "undefined" ) {
+			return emailVerified;
+		}
+	}
+		
+	// Check the access token and uuid are set as well as the URL required to make the API call
+	if ( null != user 
+		&& "undefined" != typeof( user.accessToken )
+		&& null != user.accessToken
+		&& "undefined" != typeof( user.userData.uuid )
+		&& null != user.userData.uuid ) {
+		
+		// Query for the user emailVerified status. Anything other than a successful response should be considered false.
+		emailVerified = false;
+
+		jQuery.ajax({
+			type: 'POST', 
+			url: janrain_ajaxurl, 
+			async: false,
+			timeout: 3000,
+			data: { action: 'janrain_entity_api_call', nonce: janrain_entity_api_call_nonce, access_token: user.accessToken, uuid: user.userData.uuid, type_name: 'user', attribute_name: 'emailVerified' } 
+		})
+		.done( function( response ) {
+			var response_data = JSON.parse( response );
+			if ( typeof( response_data.result ) != "undefined" && response_data.result != null )
+				emailVerified = true;
+		} );
+		
+		// Set a session cookie to store the value
+		jQuery.cookie('janrainEmailVerified', emailVerified);
+	}
+	
+	// If no user object was passed in and no cookie was set previously, emailVerified could be undefined at this point.
+	// That is acceptable to denote that as a special case.
+	return emailVerified;
+}</script>
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.date" content="2015-08-01 02:02:41" />
+<meta name="sailthru.title" content="BofA CEO asks shareholders to keep him as&nbsp;chairman" />
+<meta name="sailthru.tags" content="bank-of-america,banks,brian-moynihan," />
+<meta name="sailthru.description" content="After Bank of America lost three of its top officers last week, Brian Moynihan is hoping he can keep his two jobs." />
+<meta name="sailthru.image.full" content="https://thenypost.files.wordpress.com/2015/07/brian.jpg" />
+<meta name="sailthru.image.thumb" content="https://thenypost.files.wordpress.com/2015/07/brian.jpg?w=231&amp;h=154&amp;crop=1" />
+<!-- END Sailthru Horizon Meta Information -->
+
+		<meta name='nypost-section' content='business' />
+			<script
+        type="text/javascript"
+        data-lf-domain="nypost.fyre.co"
+        src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js">
+	</script>
+			<script type="text/javascript" src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+		<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type='text/javascript'>
+			try {
+				amznads.getAds('3105');
+			} catch (e) { /*ignore*/ }
+		</script>
+		<script type='text/javascript'>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		  try { amznads.setTargetingForGPTAsync('amznslots'); } catch(e) { /*ignore*/}
+		</script>
+		<script type='text/javascript'>
+		var dfp_ad_slots_desktop = [];
+var dfp_ad_slots_mobile = [];
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+		<script type="text/javascript">
+		googletag.cmd.push(function() {
+			if ( nypost_dfp_screen == 'desktop') {
+dfp_ad_slots_desktop[0] = googletag.defineSlot('/5850/post.desktop/billb_atf/business/stories', [[970,251],[970,90],[970,200],[970,250],[978,250],[970,415],[1,1]],'div-gpt-ad-billb_atf').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[1] = googletag.defineSlot('/5850/post.desktop/rec_atf/business/stories', [[300,251],[300,250],[300,600],[1,1],[300,1050]],'div-gpt-ad-rec_atf').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[2] = googletag.defineSlot('/5850/post.desktop/rec_btf/business/stories', [[300,252],[300,250],[1,1]],'div-gpt-ad-rec_btf').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[3] = googletag.defineSlot('/5850/post.desktop/rec_widget/business/stories', [[300,255],[300,250],[1,1]],'div-gpt-ad-rec_widget').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[4] = googletag.defineSlot('/5850/post.desktop/rec_bottom/business/stories', [[300,253],[300,250],[1,1]],'div-gpt-ad-rec_bottom').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[5] = googletag.defineSlot('/5850/post.desktop/skin/business/stories', [[1,2]],'div-gpt-ad-skin').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[6] = googletag.defineSlot('/5850/post.desktop/inline/business/stories', [[1,7]],'div-gpt-ad-inline').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[7] = googletag.defineSlot('/5850/post.desktop/overlay_topstory/business/stories', [[1,3]],'div-gpt-ad-overlay_topstory').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[8] = googletag.defineSlot('/5850/post.desktop/overlay_fullpage/business/stories', [[1,4]],'div-gpt-ad-overlay_fullpage').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_desktop[9] = googletag.defineSlot('/5850/post.desktop/rec_widget_footer/business/stories', [[281,166],[1,1]],'div-gpt-ad-rec_widget_footer').addService(googletag.companionAds()).addService(googletag.pubads());
+have_ad_slots = true;
+}else if ( nypost_dfp_screen == 'mobile') {
+dfp_ad_slots_mobile[0] = googletag.defineSlot('/5850/post.mobile/rec_atf/business/stories', [[1,1],[300,250],[300,1050]],'div-gpt-ad-rec_atf').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_mobile[1] = googletag.defineSlot('/5850/post.mobile/top/business/stories', [[1,1],[320,162]],'div-gpt-ad-top').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_mobile[2] = googletag.defineSlot('/5850/post.mobile/sidecar/business/stories', [[1,1],[28,250]],'div-gpt-ad-sidecar').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_mobile[3] = googletag.defineSlot('/5850/post.mobile/bottom/business/stories', [[1,1],[320,50]],'div-gpt-ad-bottom').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_mobile[4] = googletag.defineSlot('/5850/post.mobile/overlay_fullpage/business/stories', [[1,4]],'div-gpt-ad-overlay_fullpage').addService(googletag.companionAds()).addService(googletag.pubads());
+dfp_ad_slots_mobile[5] = googletag.defineOutOfPageSlot('/5850/post.mobile/oop/business/stories','div-gpt-ad-oop').addService(googletag.companionAds()).addService(googletag.pubads());
+have_ad_slots = true;
+}			if ( have_ad_slots ) {
+				googletag.pubads().setTargeting('authors',["Kevin Dugan"]).setTargeting('page_type',"article").setTargeting('content',["bank-of-america","banks","brian-moynihan"]).setTargeting('site',"nypost");
+				var testadv = window.location.href.toString().match(/testadv=([\w\d]+)/);
+				if (testadv !== null) {
+					testadv = testadv[1].toString().replace(/testadv=/, "");
+					googletag.pubads().setTargeting('testadv',[testadv]);
+				}
+				if ( typeof Krux != 'undefined' ) {
+					googletag.pubads().setTargeting('ksg', Krux.segments);
+					googletag.pubads().setTargeting('kuid', Krux.user);
+				}
+				if ( typeof pxSegmentIDs != 'undefined' && pxSegmentIDs != '' ) {
+					googletag.pubads().setTargeting('psg', pxSegmentIDs);
+				}
+				if ( typeof crtg_content != 'undefined' ) {
+					var crtg_split = crtg_content.split( ';' );
+					for ( var i=1; i < crtg_split.length; i++ ) {
+						googletag.pubads().setTargeting( '' + ( crtg_split[i-1].split( '=' ) )[0] + '', '' + ( crtg_split[i-1].split( '=' ) )[1] + '' );
+					}
+				}
+
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().enableAsyncRendering();
+								googletag.companionAds().setRefreshUnfilledSlots(true);
+				googletag.pubads().enableVideoAds();
+								googletag.pubads().collapseEmptyDivs();
+				googletag.enableServices();
+			}
+					});
+		</script>
+				<script type="text/javascript">
+			window.dataLayer = window.dataLayer || [];
+			dataLayer.push({"pagename":"\/2015\/08\/01\/bofa-ceo-asks-shareholders-to-keep-him-as-chairman\/","page_type":"article","byline":["Kevin Dugan"],"tags":["bank of america","banks","brian moynihan"],"section":"business","article_title":"BofA CEO asks shareholders to keep him as&nbsp;chairman","publish_date":"2015\/08\/01","date":"2015-08-01T02:02:41+00:00","publish_time":"02:02:41","post_id":9785630,"primary_tag":"bank of america","word_count":358} );
+		</script>
+					<meta name='parsely-page' content='{"title":"BofA CEO asks shareholders to keep him as chairman","link":"http:\/\/nypost.com\/2015\/08\/01\/bofa-ceo-asks-shareholders-to-keep-him-as-chairman\/","image_url":"https:\/\/thenypost.files.wordpress.com\/2015\/07\/brian.jpg","type":"post","post_id":"nypost-9785630","pub_date":"2015-08-01T06:02:41Z","section":"business","author":["Kevin Dugan"],"tags":["bank of america","banks","brian moynihan","\/article"]}' />
+							<meta name='parsely-metadata' content='{"post_id":9785630}' />
+				<meta name="google-site-verification" content="0ChYYJ_QsKnyimSC27PNRqpEJ8sstO08-2yQ81t5yfU" />
+<meta name="google-site-verification" content="Y35rxQGMDF8RBK0PXe_b3H0oZ6qw1a5l3oI4l_YXIcE" />
+<meta name="msvalidate.01" content="8188997BC82071CE07AB711B5675CE54" />
+<link rel='canonical' href='http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/' />
+<script type="text/javascript">var ajaxurl = "http://nypost.com/wp-admin/admin-ajax.php"</script><meta name="application-name" content="New York Post" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://1.gravatar.com/blavatar/5a214da64b1b66f28cbfcd6b1b352675?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<script>
+		(function(){
+			
+			window.NATIVEADS = window.NATIVEADS || {};
+			window.NATIVEADS.injectedAt = new Date().getTime();
+			window.NATIVEADS.onReady = function(ads) {
+
+			  ads.setPropertyID("NA-NEWYORKPOST-11236056");
+			  ads.setSecondaryPageURL("/sample/publisher/sponsored.html");
+			  ads.setWillLinkRedirect(function(){ return false; });
+
+			  
+						compiledTemplate1 = function (Handlebars,depth0,helpers,partials,data) {
+						  this.compilerInfo = [4,'>= 1.0.0'];
+						helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
+						  var buffer = "", stack1, stack2, functionType="function", escapeExpression=this.escapeExpression, self=this;
+
+						function program1(depth0,data) {
+  
+						  var buffer = "", stack1;
+						  buffer += "\n			<div class=\"polar-sponsor\">\n				<span class=\"polar-dispatch\">Dispatch</span> from <a href=\""
+							+ escapeExpression(((stack1 = ((stack1 = depth0.sponsor),stack1 == null || stack1 === false ? stack1 : stack1.link)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+							+ "\">"
+							+ escapeExpression(((stack1 = ((stack1 = depth0.sponsor),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+							+ "</a>\n			</div>\n			";
+						  return buffer;
+						  }
+
+						  buffer += "<div class=\"story-wrapper footer-story-2 polar-story\">\n	<article class=\"story-photo-box\">\n		<h3>\n			<a href=\"";
+						  if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
+						  else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; }
+						  buffer += escapeExpression(stack1)
+							+ "\">";
+						  if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
+						  else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; }
+						  buffer += escapeExpression(stack1)
+							+ "</a>\n			";
+						  stack2 = helpers['if'].call(depth0, ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.sponsor_label), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data});
+						  if(stack2 || stack2 === 0) { buffer += stack2; }
+						  buffer += "\n		</h3>\n		<a href=\"";
+						  if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
+						  else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
+						  buffer += escapeExpression(stack2)
+							+ "\">\n			<div class=\"story-thumbnail\" data-picture=\"\" data-alt=\"";
+						  if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
+						  else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
+						  buffer += escapeExpression(stack2)
+							+ "\">\n				<img alt=\"";
+						  if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); }
+						  else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; }
+						  buffer += escapeExpression(stack2)
+							+ "\" width=\"360\" height=\"280\" src=\""
+							+ escapeExpression(((stack1 = ((stack1 = depth0.image),stack1 == null || stack1 === false ? stack1 : stack1.href)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+							+ "\" data-polar=\"1\">\n			</div>\n		</a>\n	</article>\n</div>";
+						  return buffer;
+						};
+
+													  ads.insertPreview({
+								label: "Business Story Grid Footer",
+								unit: {"server":"dfp","id":"/5850/post.desktop/native_btf/business/stories","size":"1x6"},
+								location: "#story-grid-wrapper .footer-story-3",
+								infoText: "",
+								infoButtonText: "&#63;",
+								template: compiledTemplate1,
+								onRender: function($element) { },
+								onFill: function(data) { 									jQuery("#story-grid-wrapper .footer-story-2").remove();
+																		if ( 'undefined' !== typeof data.custom.sponsor_label ) {
+										if ( 'Sponsored Content' !== data.custom.sponsor_label ) {
+											data.custom.sponsor_label = '';
+										}
+									}
+									return data;
+								},
+								onError: function(error) { }
+							  });
+
+							  ads.injectCSS("", null);
+							  
+				  						};
+		})();
+
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s);
+			js.id = id; js.type = "text/javascript"; js.async = true;
+			js.src = "http://plugin.mediavoice.com/plugin.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		})(document, "script", "nativeads-plugin");
+
+		</script>
+			<script>
+		if ( typeof fyre != 'undefined' ) {
+			// Add a custom class to identify user status
+			var nypLfUser = function() {
+				if ( 'undefined' !== typeof fyre.conv.user.id ) {
+					jQuery( '.comments #comments' ).addClass( 'iaf-lf-signed-in' );
+				}
+			};
+
+			// Move the date
+			var nypLfDate = function() {
+				if ( jQuery( '.fyre-comment-head' ).length ) {
+					jQuery( '.fyre-comment-head' ).each( function() {
+						jQuery( this ).find( '.fyre-comment-date' ).detach().prependTo( jQuery( this ).parent().find( '.fyre-comment-footer' ) );
+					} );
+				}
+			}
+
+			// Create a comment title
+			var nypLfTitle = function() {
+				if ( jQuery( '.fyre-comment-stream' ).find( '.fyre-comment-article' ).length ) {
+					var headerEl = jQuery( '<h1 />' );
+					headerEl.addClass( 'iaf-lf-stream-title' );
+					headerEl.prependTo( jQuery( '.fyre-comment-stream' ) ).text( 'Comments' );
+
+					if ( jQuery( '.fyre-comment-count' ).length ) {
+						var commentCount = jQuery( '.fyre-comment-count' ).text().replace( /[^\d]/g, '' );
+						headerEl.append( '<span />' );
+						headerEl.find( 'span' ).text( commentCount );
+					}
+				}
+			}
+
+			var authDelegate = new fyre.conv.BackplaneAuthDelegate(window.Backplane);
+			authDelegate.login = function(delegate) {
+				var successCallback = function(result) {
+					// Ensure the user has a verified email and only proceed if true
+					var emailVerified = livefyreUserVerified(result);
+					if ( emailVerified ) {
+						delegate.success();
+						janrain.events.onCaptureLoginSuccess.removeHandler(successCallback);
+						janrain.events.onModalClose.removeHandler(failureCallback);
+					}
+				};
+
+				var failureCallback = function() {
+					delegate.failure();
+					janrain.events.onModalClose.removeHandler(failureCallback);
+					janrain.events.onCaptureLoginSuccess.removeHandler(successCallback);
+				};
+
+				janrain.capture.ui.modal.open();
+				window.Backplane.expectMessages('identity/login');
+				janrain.events.onCaptureLoginSuccess.addHandler(successCallback);
+				janrain.events.onModalClose.addHandler(failureCallback);
+			};
+
+			authDelegate.logout = function(delegate) {
+				jQuery.removeCookie('janrainEmailVerified');
+				Backplane.resetCookieChannel();
+				fyre.conv.BackplaneAuthDelegate.prototype.logout.call(this, delegate);
+			};
+
+			authDelegate.viewProfile = function(delegate, author) {};
+
+			var livefyreOnLoad = function(widget) {
+
+				widget.on('commentPosted', function (data) {
+					ga('send', 'event', 'Response', 'Post Response', 'Comment');
+					ga('set', 'dimension13', 'yes');
+				});
+
+				widget.on('initialRenderComplete', function (data) {
+					// If a user is logged in, ensure they have a verified email.
+					// Do not allow them to post comments if not.
+					var emailVerified = livefyreUserVerified(null);
+					if ( 'false' == emailVerified || false == emailVerified ) {
+						this.stop();
+						jQuery('.fyre-comment-footer').remove();
+					}
+				});
+
+				// reload window after user logs out
+				// this avoids error where Janrain is logged in while Livefyre is logged out
+				widget.on( 'userLoggedOut', function(){
+					jQuery( '#account-flyover' ).removeClass( 'logged-in' ); // toggles signin-out links
+					window.location.reload( false );
+				});
+
+				// Move markup within commenting area
+				jQuery( window ).load( function() {
+					if ( jQuery( 'body.internetactionforce.single-article' ).length ) {
+						nypLfUser();
+						nypLfDate();
+						nypLfTitle();
+					}
+				} );
+
+							}
+
+			var livefyreUserVerified = function(user) {
+				// Get the email verified status
+				var emailVerified = nypostJanrainVerified(user);
+
+				// If the email is not verified, remove the comment box and display a message instead
+				if ( 'false' == emailVerified || false == emailVerified ) {
+					jQuery('.fyre-editor').first().html('<p class="fyre-not-verified">Your email address must be verified before you can comment. To complete the registration process, please click on the link that appears in the the email that was sent to the address you entered. It may take a few minutes for the email to arrive. If you don\'t receive it, please check your spam folder.</p>');
+					jQuery('.fyre-comment-footer').remove();
+				}
+
+				// Also return the value in case the function calling this needs it for other operations.
+				return emailVerified;
+			}
+		}
+
+		var janrain_entity_api_call_nonce = '320c4afe3f';
+		var janrain_ajaxurl = 'https://thenypost.wordpress.com/wp-admin/admin-ajax.php';
+		var janrain_resend_url = '{* resendLink *}';
+    </script>
+    		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+		<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+  <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+  <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+<link rel='stylesheet' id='screen-css'  href='https://s0.wp.com/wp-content/themes/vip/nypost/static/stylesheets/screen.css' type='text/css'/>
+<![endif]-->
+</head>
+<body class="single single-article postid-9785630 nypost mp6 customizer-styles-applied highlander-enabled highlander-light">
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=823934954307605&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<div id='div-gpt-ad-sidecar' class='dfp-ad dfp-ad-post dfp-sidecar'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidecar'); });
+		}
+	</script>
+</div>
+</div>
+	<ul id="nav-flyovers" class="ui-panel ui-panel-position-right ui-panel-display-reveal ui-body-a ui-panel-animate ui-panel-closed">
+		<li id="search-flyover" class="flyover">
+			<div class="nav-carat"></div>
+			<div class="flyover-inner clearfix">
+				<form id="nav-search" action="http://nypost.com/">
+	<input type="text" name="s" id="search-field" placeholder="Search..." value="" />
+	<input type="submit" value="search" id="search-submit" />
+</form>			</div>
+		</li>
+		<li id="sections-flyover" class="flyover">
+			<div class="nav-carat"></div>
+			<div class="flyover-inner">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-1612774" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612774"><a href="/news/">news</a></li>
+<li id="menu-item-1612773" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612773"><a href="/metro/">Metro</a></li>
+<li id="menu-item-1612779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1612779"><a href="http://pagesix.com">Page Six</a></li>
+<li id="menu-item-1612777" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612777"><a href="/sports/">sports</a></li>
+<li id="menu-item-1612768" class="menu-item menu-item-type-taxonomy menu-item-object-section current-article-ancestor current-menu-parent current-article-parent menu-item-1612768"><a href="/business/">business</a></li>
+<li id="menu-item-1612775" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612775"><a href="/opinion/">Opinion</a></li>
+<li id="menu-item-1612769" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612769"><a href="/entertainment/">Entertainment</a></li>
+<li id="menu-item-1617339" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1617339"><a href="/fashion/">fashion</a></li>
+<li id="menu-item-1612771" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612771"><a href="/living/">Living</a></li>
+<li id="menu-item-1612772" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612772"><a href="/media/">media</a></li>
+<li id="menu-item-1612778" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1612778"><a href="/tech/">tech</a></li>
+<li id="menu-item-9020413" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-9020413"><a href="/cars/">cars</a></li>
+<li id="menu-item-1615324" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-1615324"><a href="/real-estate/">Real Estate</a></li>
+<li id="menu-item-9582299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9582299"><a title="Video" href="http://nypost.com/video/">Video</a></li>
+<li id="menu-item-7962507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7962507"><a href="http://nypost.com/cover">Covers</a></li>
+<li id="menu-item-7962521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7962521"><a href="http://nypost.com/horoscope/">Horoscopes</a></li>
+<li id="menu-item-7962530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7962530"><a href="http://nypost.com/columnists/">Columnists</a></li>
+<li id="menu-item-8028368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8028368"><a href="http://bit.ly/1BJmUB5">Realtor.com</a></li>
+</ul></div>				<div class="spacer mobile"></div>
+			</div>
+		</li>
+		<li id="follow-flyover" class="flyover">
+			<div class="nav-carat"></div>
+			<div class="flyover-inner">
+				<ul id="nav-follow">
+															<li><a href="https://twitter.com/nypost" target="_blank"><i id="twitter-icon"></i>Twitter</a></li>
+															<li><a href="https://www.facebook.com/nypost" target="_blank"><i id="facebook-icon"></i>Facebook</a></li>
+									</ul>
+			</div>
+		</li>
+		<li id="account-flyover" class="flyover mobile">
+			<a id="janrain_auth" href="#" class="capture_modal_open" >Sign in / Register</a>
+					 <script>
+						 if(localStorage && localStorage.getItem("janrainCaptureToken")) {
+						 var authLink = document.getElementById("janrain_auth");
+						 authLink.innerHTML = "Log out";
+						 authLink.setAttribute("href", "https://thenypost.wordpress.com/wp-admin/admin-ajax.php?action=janrain_capture_logout&#038;source=http%3A%2F%2Fnypost.com%2F2015%2F08%2F01%2Fbofa-ceo-asks-shareholders-to-keep-him-as-chairman%2F");
+						 authLink.setAttribute("onclick", "janrain.capture.ui.endCaptureSession()");
+						 authLink.setAttribute("class","");
+						 }
+					 </script>			<a id="sign-out-flyover" href="#" class="" onclick="janrain.capture.ui.endCaptureSession()">Sign Out</a>
+		</li>
+		<li id="pagesix-submit-a-tip" class="flyover">
+			<div class="nav-carat"></div>
+			<div class="flyover-inner">
+				<label for="pagesix-tip-text"><strong>See something newsworthy?</strong><br>Tell us about it!</label>
+								<p>or email <a href="mailto:tips@nypost.com">tips@nypost.com</a></p>
+				<label for="tip-submit">(all tips will be submitted anonymously)</label>
+			</div>
+		</li>
+	</ul>
+	<div id="email-response" style="display:none;">
+	<div class="thankyou">
+		<span class="email-icon"></span>
+		<div class="rule"></div>
+		<h3>Thanks for contacting us. We've received your submission.</h3>
+		<a href="#" class="back">Back to Reading</a>
+	</div>
+</div>	<div id="content-wrapper" class="ui-panel-animate ui-panel-content-wrap-closed ui-panel-content-wrap ui-panel-content-wrap-closed">
+		<header id="page-header" class="clearfix">
+				<div id="top-bar-wrapper" class="desktop">
+		<div id="top-bar">
+							<div id="promoted-tags-wrapper">
+					<div id="promoted-tags" class="container">
+													<h3>In The News:</h3>
+						
+													<a href="http://nypost.com/tag/poaching/">poaching</a>
+													<a href="http://nypost.com/tag/iran/">iran</a>
+													<a href="http://nypost.com/tag/hillary-clinton/">hillary clinton</a>
+													<a href="http://nypost.com/tag/donald-trump/">donald trump</a>
+													<a href="http://nypost.com/tag/new-york-mets/">new york mets</a>
+						
+											</div>
+				</div>
+								</div>
+	</div>
+			<div id="nav-wrapper">
+				<div class="container">
+					<nav id="page-nav">
+						<div class="nav-links">
+	<a class="nav-item" id="home" href="http://nypost.com">
+		<i></i>
+		<span class="nav-text">Home</span>
+	</a>
+	<a class="nav-item" id="sections" href="#nav-flyovers">
+		<i></i>
+		<span class="nav-text">Sections</span>
+	</a>
+	<a class="nav-item desktop" id="search">
+	<i></i>
+	<span>Search</span>
+</a>	<a class="nav-item" id="pagesix-tip" class="pagesix" href="#">
+		<i></i>
+		<span>Tips</span>
+	</a>
+	<a id="janrain_auth" href="#" class="capture_modal_open" >Sign in / Register</a>
+					 <script>
+						 if(localStorage && localStorage.getItem("janrainCaptureToken")) {
+						 var authLink = document.getElementById("janrain_auth");
+						 authLink.innerHTML = "Log out";
+						 authLink.setAttribute("href", "https://thenypost.wordpress.com/wp-admin/admin-ajax.php?action=janrain_capture_logout&#038;source=http%3A%2F%2Fnypost.com%2F2015%2F08%2F01%2Fbofa-ceo-asks-shareholders-to-keep-him-as-chairman%2F");
+						 authLink.setAttribute("onclick", "janrain.capture.ui.endCaptureSession()");
+						 authLink.setAttribute("class","");
+						 }
+					 </script>	<a class="nav-item" id="subscribe" href="https://pay.nypost.com/" target="_blank" class="desktop">
+		<i></i>
+		<span>Subscribe</span>
+	</a>
+	<a class="nav-item" id="follow" class="desktop">
+		<i></i>
+		<span>Follow</span>
+	</a>
+</div>
+
+													<a href="http://nypost.com" id="header-logo">New York Post</a>
+						
+											</nav>
+				</div>
+			</div>
+						<div id="header-billboard-ad" class="billboard-ad">
+				<div id='div-gpt-ad-billb_atf' class='dfp-ad dfp-ad-post dfp-billb_atf'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-billb_atf'); });
+		}
+	</script>
+</div>
+</div>
+			</div>
+			<div id='div-gpt-ad-top' class='dfp-ad dfp-ad-post dfp-top'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-top'); });
+		}
+	</script>
+</div>
+</div>
+		</header>
+
+		<div id='div-gpt-ad-skin' class='dfp-ad dfp-ad-post dfp-skin'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin'); });
+		}
+	</script>
+</div>
+</div>
+		<div id='div-gpt-ad-overlay_fullpage' class='dfp-ad dfp-ad-post dfp-overlay_fullpage'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-overlay_fullpage'); });
+		}
+	</script>
+</div>
+</div>
+
+		<div id="content">
+			<div id='div-gpt-ad-bottom' class='dfp-ad dfp-ad-post dfp-bottom'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-bottom'); });
+		}
+	</script>
+</div>
+</div>
+			<div id="background-wrapper">
+				<div class="container clearfix">
+					<div id='div-gpt-ad-overlay_topstory' class='dfp-ad dfp-ad-post dfp-overlay_topstory'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-overlay_topstory'); });
+		}
+	</script>
+</div>
+</div>
+
+
+
+
+<div id="article-wrapper" class="left-column clearfix standard">
+		<div class="box article modal-enabled">
+		<div class="article-header">
+			<div class="flag-region">
+																		<p class="section-tag">
+						<a href="/business/" class="background-color">business</a>
+					</p>
+																<div class="article-share-top nyp-sharedaddy-wrapper">
+					<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-9785630" class="share-facebook sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-9785630" class="share-twitter sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-9785630" class="share-google-plus-1 sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-whatsapp"><a rel="nofollow" data-shared="sharing-whatsapp-9785630" class="share-whatsapp sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=whatsapp" target="_blank" title="Click to share on Whatsapp"><span>Whatsapp</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>				</div>
+				<div id="sharebar-trigger-mobile"></div>
+							</div>
+							<h1><a href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/" class="postid-9785630">BofA CEO asks shareholders to keep him as&nbsp;chairman</a></h1>
+									<div id="author-byline">
+				<p class="byline">By <a class="kevin-dugan" href="http://nypost.com/author/kevin-dugan/">Kevin Dugan</a></p>				<div class="author-flyout kevin-dugan" data-author-name="Kevin Dugan">
+	<div class="arrow"></div>
+	<div class="author-flyout-inner">
+		<ul class="author-flyout-icons">
+			<li><a href="http://nypost.com/author/kevin-dugan/" data-interaction-type="archive" title="Kevin Dugan's archive"><span class="author-flyout-archive"></span>View author archive</a></li>
+															<li><a href="http://nypost.com/author/kevin-dugan/feed/" data-interaction-type="rss" title="Get Kevin Dugan's RSS feed" target="_blank"><span class="author-flyout-rss"></span>Get author RSS feed</a></li>
+		</ul>
+	</div>
+</div>
+<div id="columnist-contact" class="author-contact"><div class="box show-mobile module widget_text">			<div class="textwidget"><div id='contact-form-widget-text-2'>
+<form action='/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/#contact-form-widget-text-2' method='post' class='contact-form commentsblock'>
+
+<div>
+		<label for='gwidget-text-2-name' class='grunion-field-label name'>Name<span>(required)</span></label>
+		<input type='text' name='gwidget-text-2-name' id='gwidget-text-2-name' value='' class='name'  required aria-required='true'/>
+	</div>
+
+<div>
+		<label for='gwidget-text-2-email' class='grunion-field-label email'>Email<span>(required)</span></label>
+		<input type='email' name='gwidget-text-2-email' id='gwidget-text-2-email' value='' class='email'  required aria-required='true'/>
+	</div>
+
+<div>
+		<label for='contact-form-comment-gwidget-text-2-comment' class='grunion-field-label textarea'>Comment<span>(required)</span></label>
+		<textarea name='gwidget-text-2-comment' id='contact-form-comment-gwidget-text-2-comment' rows='20'  required aria-required='true'></textarea>
+	</div>
+	<p class='contact-submit'>
+		<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>
+		<input type='hidden' name='contact-form-id' value='widget-text-2' />
+		<input type='hidden' name='action' value='grunion-contact-form' />
+	</p>
+</form>
+</div>
+</div>
+		</div></div>			</div>
+			<p class="byline-date">August 1, 2015 | 2:02am</p>
+						<div class="double-rule"></div>
+												<div id="featured-image-wrapper">
+																					<a class="modal-trigger" data-modal-type="image" href="https://thenypost.files.wordpress.com/2015/07/brian.jpg" title="Expand Image">Modal Trigger</a>
+														<div class="featured-image" data-picture data-alt="BofA CEO asks shareholders to keep him as&nbsp;chairman">
+								<div data-src="https://thenypost.files.wordpress.com/2015/07/brian.jpg?w=600"></div>
+								<div data-src="https://thenypost.files.wordpress.com/2015/07/brian.jpg?w=720&#038;h=480&#038;crop=1" data-media="(min-width: 640px)"></div>
+							</div>
+																			<div class="wp-caption-text featured">
+																	Bank of America CEO Brian Moynihan																									<span class="credit">Photo: Reuters</span>
+															</div>
+											</div>
+																<div class="in-line-column wp-caption alignleft">
+			<div id="more-on" class="box module inline tag desktop">
+			<div class="module-wrapper">
+				<div class="tag-header">
+					<h3>MORE ON:</h3>
+											<h6><a href="http://nypost.com/tag/bank-of-america/">bank of america</a></h6>
+									</div>
+										<h5><a href="http://nypost.com/2015/07/24/bank-of-america-ceo-on-the-hot-seat-after-latest-defection/" class="postid-9775433">Bank of America CEO on the hot seat after latest defection</a></h5>
+											<div class="rule"></div>
+										<h5><a href="http://nypost.com/2015/07/15/bank-of-america-profits-soar-as-its-settlement-costs-dwindle/" class="postid-9763089">Bank of America profits soar as its settlement costs dwindle</a></h5>
+											<div class="rule"></div>
+										<h5><a href="http://nypost.com/2015/06/09/metlife-looking-to-sublet-space-at-3-bryant-park/" class="postid-9714716">MetLife looking to sublet space at 3 Bryant Park</a></h5>
+											<div class="rule"></div>
+										<h5><a href="http://nypost.com/2015/06/05/bank-of-america-shares-jump-on-heels-of-jobs-report/" class="postid-9709920">Bank of America shares jump on heels of jobs report</a></h5>
+							</div>
+		</div>
+</div>							<div class="entry-content">
+							<p>After Bank of America lost three of its top officers last week, Brian Moynihan is hoping he can keep his two jobs.</p>
+<p>The CEO of the second-largest US bank asked shareholders on Friday to keep him in his chairman role as well — a title he took on after the bank changed its bylaws and overrode a 2009 shareholder vote that split the two positions.</p>
+<p>The 55-year-old bank chieftain has held both roles since October, in a board-approved move that ignited intense debate about governance at the top of the Wall Street giant.</p>
+<p>“We undertook a thorough and thoughtful process before changing the company’s bylaws, and, through our engagement with you, we have heard your desire to vote on this action,” the bank’s directors said in a company regulatory filing.</p>
+<p>“We now seek your support of our decision,” the plea continued.</p>
+<p>Investors, including the $191 billion California State Teachers Retirement System, and prominent analysts like Mike Mayo at CLSA, have been vocal critics and called for a shareholder vote to ratify Moynihan’s dual roles.</p>
+<p>Last week, the Charlotte, NC-based bank lost its CFO Bruce Thompson and Vice Chairman David Darnell.</p>
+<p>The next day, word leaked that the bank’s general counsel was also planning on exiting his position, although he is expected to stay at the bank in a less formal role.</p>
+<p>Mayo, who’s been critical of the bank’s current structure, told The Post last week that the loss of the three C-suite executives was a “power grab” by Moynihan.</p>
+<p>“We appreciate the candor with which you have shared your insights and perspectives with us,” the directors said in the filing urging shareholders to uphold the status quo.</p>
+<p>The bank called for a “special meeting” about the board leadership, though it didn’t say when it would happen.</p>
+<p>Previously, BofA has called for the meeting to be held before next year’s annual meeting, which would likely happen in May.</p>
+<p>Moynihan isn’t the only CEO-chairman on Wall Street. Jamie Dimon, who heads JPMorgan Chase, and Lloyd Blankfein, over at Goldman Sachs, also claim the dual roles.</p>
+<p>Shares of the bank slid 1.3 percent on Friday to $17.90.</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-9785630" class="share-facebook sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-9785630" class="share-twitter sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-9785630" class="share-google-plus-1 sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-whatsapp"><a rel="nofollow" data-shared="sharing-whatsapp-9785630" class="share-whatsapp sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=whatsapp" target="_blank" title="Click to share on Whatsapp"><span>Whatsapp</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div></div>							</div>
+		</div>
+				<div class="tag-list">
+				<span>Filed under</span>
+				<a href="http://nypost.com/tag/bank-of-america/" rel="tag">bank of america</a>
+							<span class="sep">,&nbsp;</span>
+						<a href="http://nypost.com/tag/banks/" rel="tag">banks</a>
+							<span class="sep">,&nbsp;</span>
+						<a href="http://nypost.com/tag/brian-moynihan/" rel="tag">brian moynihan</a>
+					</div>
+				
+		<div id="syndicated-partner-mobile"></div>
+
+		<div id="sharebar-trigger-desktop"></div>
+		<div class="sharebar nyp-sharedaddy-wrapper">
+	<div id="sharebar-social">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-9785630" class="share-facebook sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-9785630" class="share-twitter sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-9785630" class="share-google-plus-1 sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-whatsapp"><a rel="nofollow" data-shared="sharing-whatsapp-9785630" class="share-whatsapp sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=whatsapp" target="_blank" title="Click to share on Whatsapp"><span>Whatsapp</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+			<div class="read-next-wrapper" class="clearfix">
+			<p class="read-next">
+				<a href="http://nypost.com/2015/08/01/employee-stock-ownership-plans-back-in-spotlight-as-big-player-exits/">Read Next:</a>
+			</p>
+			<p class="read-next-link">
+				<a class="mobile" href="http://nypost.com/2015/08/01/employee-stock-ownership-plans-back-in-spotlight-as-big-player-exits/">
+					Employee stock ownershi...				</a>
+				<a class="desktop" href="http://nypost.com/2015/08/01/employee-stock-ownership-plans-back-in-spotlight-as-big-player-exits/">
+					Employee stock ownership plans back in spotlight as big pl...				</a>
+				<a class="desktop expand" href="http://nypost.com/2015/08/01/employee-stock-ownership-plans-back-in-spotlight-as-big-player-exits/">
+					Employee stock ownership plans back in spotlight as big player exits				</a>
+			</p>
+		</div>
+		</div>		
+		
+				<div id="outbrainContainer" data-ob-template="nypost" class="OBR" data-src="http://nypost.com/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/"></div>
+		<script type="text/javascript">
+			// set a default widget id
+			var ob_id = 'AR_3';
+
+			// Select the proper template to use
+			if ( nypost_screen == 'mobile' ) {
+				ob_id='MB_2';
+			}
+
+			OB_elements = ( typeof( OB_elements ) !== 'undefined' ) ? OB_elements : [];
+			var OB_element = {};
+
+			// Editable section
+			OB_element.containerId = "outbrainContainer";
+			OB_element.widgetId  = ob_id;
+
+			OB_elements.push( OB_element );
+
+			( function() {
+				var ob = document.createElement("script");ob.type = "text/javascript";
+				ob.async = true;
+				ob.src = "http://widgets.outbrain.com/outbrain.js";
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ob, s);
+			} )();
+		</script>
+				<div class="comments">
+			<span id="sailthru-scout-header">Recommended For You</span><div id="sailthru-scout"><div class="loading">Loading, please wait...</div></div><span id="article-popular-this-week-header">Most Popular This Week</span>
+<div id="article-popular-this-week">
+		<div class="content-item">
+		<div class="image">
+			<span>1</span>
+			<a href="http://nypost.com/2015/07/28/people-are-dressing-like-slobs-so-its-time-to-bring-back-dress-codes/">
+				<img src="https://thenypost.files.wordpress.com/2015/07/les_miz.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://nypost.com/2015/07/28/people-are-dressing-like-slobs-so-its-time-to-bring-back-dress-codes/">For the love of God, stop dressing like&nbsp;crap</a>
+		</div>
+	</div>
+		<div class="content-item">
+		<div class="image">
+			<span>2</span>
+			<a href="http://nypost.com/2015/07/28/linda-tripp-breaks-silence-after-nearly-20-years-unloads-on-hillary/">
+				<img src="https://thenypost.files.wordpress.com/2015/07/tripp.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://nypost.com/2015/07/28/linda-tripp-breaks-silence-after-nearly-20-years-unloads-on-hillary/">Linda Tripp breaks silence after nearly 20 years, unloads on&nbsp;Hillary</a>
+		</div>
+	</div>
+		<div class="content-item">
+		<div class="image">
+			<span>3</span>
+			<a href="http://nypost.com/2015/08/01/text-reveals-subways-jared-paid-16-year-old-for-sex-report/">
+				<img src="https://thenypost.files.wordpress.com/2015/08/subway_spokesman_raid.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://nypost.com/2015/08/01/text-reveals-subways-jared-paid-16-year-old-for-sex-report/">Text reveals Subway&#8217;s Jared paid 16-year-old for sex:&nbsp;report</a>
+		</div>
+	</div>
+		<div class="content-item">
+		<div class="image">
+			<span>4</span>
+			<a href="http://nypost.com/2015/07/26/hillary-has-a-dangerous-enemy-in-the-obama-administration/">
+				<img src="https://thenypost.files.wordpress.com/2015/07/inset-top-right-portrait-smart-template-13.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://nypost.com/2015/07/26/hillary-has-a-dangerous-enemy-in-the-obama-administration/">Hillary faces dangerous enemy in the Obama&nbsp;administration</a>
+		</div>
+	</div>
+		<div class="content-item">
+		<div class="image">
+			<span>5</span>
+			<a href="http://pagesix.com/2015/07/29/gisele-dons-a-burqa-to-secretly-fix-her-deflated-boobs/">
+				<img src="https://nyppagesix.files.wordpress.com/2015/07/giseleindex.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://pagesix.com/2015/07/29/gisele-dons-a-burqa-to-secretly-fix-her-deflated-boobs/">Gisele dons a burqa to secretly fix her &#8216;deflated&#8217; boobs</a>
+		</div>
+	</div>
+		<div class="content-item">
+		<div class="image">
+			<span>6</span>
+			<a href="http://nypost.com/2015/07/26/principal-commits-suicide-amid-common-core-test-scandal/">
+				<img src="https://thenypost.files.wordpress.com/2015/07/3-photos-a3.jpg?w=264&#038;h=177&#038;crop=1">
+			</a>
+		</div>
+		<div class="title">
+			<a href="http://nypost.com/2015/07/26/principal-commits-suicide-amid-common-core-test-scandal/">Principal commits suicide amid Common Core test&nbsp;scandal</a>
+		</div>
+	</div>
+	</div>		</div>
+	</div>
+
+</div>
+
+
+<div id="highlight-share">
+	<p>Share Selection</p>
+	<div class="share-content">
+		<a target="_blank" class="facebook" href"" data-short-url="http://nyp.st/1I954b3">Facebook</a>
+		<a target="_blank" href="" data-short-url="http://nyp.st/1I954b3" class="twitter">Twitter</a>
+	</div>
+	<div class="arrow"></div>
+</div>
+
+<div class="right-column sidebar">
+		<div class="box no-mobile module widget_nypost_columnists_widget"><div class="module-title"><h2>Columnists</h2></div>		<div class="module-wrapper">
+					<div class="module-author">
+				<h4><a href="http://nypost.com/2015/08/01/mort-zuckerman-not-attending-hamptons-charity-game/">Claire Atkinson</a></h4>
+				<img class="columnist" src="https://thenypost.files.wordpress.com/2014/09/claire-atkinson.png?w=76&#038;h=69&#038;crop=1">
+			</div>
+			<h3><a href="http://nypost.com/2015/08/01/mort-zuckerman-not-attending-hamptons-charity-game/" class="postid-9786068">Mort Zuckerman not attending Hamptons charity&nbsp;game</a></h3>
+						<div class="rule-thick"></div>
+						<div class="module-author">
+				<h4><a href="http://nypost.com/2015/08/01/dear-john-its-the-2-percent-that-bothers-me/">John Crudele</a></h4>
+				<img class="columnist" src="https://thenypost.files.wordpress.com/2013/08/john-crudele.png?w=76&#038;h=69&#038;crop=1">
+			</div>
+			<h3><a href="http://nypost.com/2015/08/01/dear-john-its-the-2-percent-that-bothers-me/" class="postid-9786094">Dear John: It’s the 2 percent that bothers&nbsp;me</a></h3>
+					</div>
+		<div class="see-all">
+			<h3><a href="/columnists/">SEE ALL COLUMNISTS</a></h3>
+		</div>	
+		</div><div class="box show-mobile module widget_nypost_dfp_ad_widget"><div id='div-gpt-ad-rec_atf' class='dfp-ad dfp-ad-post dfp-rec_atf'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-rec_atf'); });
+		}
+	</script>
+</div>
+</div>
+</div><div class="box no-mobile module widget_nypost_trending_widget"><div class="module-title"><h2>Trending Now on NYPost.com</h2></div>		<div class="image-layout none">
+						<div class="trending-headlines-story clearfix">
+					<p class="share-count">101410</p>
+					<h3><a href="http://nypost.com/2015/08/01/text-reveals-subways-jared-paid-16-year-old-for-sex-report/">Text reveals Subway&#8217;s Jared paid 16-year-old for sex:&nbsp;report</a></h3>
+				</div>
+									<div class="rule"></div>
+									<div class="trending-headlines-story clearfix">
+					<p class="share-count">34252</p>
+					<h3><a href="http://nypost.com/2015/08/01/iran-publishes-book-on-how-to-outwit-us-and-destroy-israel/">Iran publishes book on how to outwit US and destroy&nbsp;Israel</a></h3>
+				</div>
+									<div class="rule"></div>
+									<div class="trending-headlines-story clearfix">
+					<p class="share-count">17990</p>
+					<h3><a href="http://nypost.com/2015/07/28/people-are-dressing-like-slobs-so-its-time-to-bring-back-dress-codes/">For the love of God, stop dressing like&nbsp;crap</a></h3>
+				</div>
+						</div>
+		</div><div class="box no-mobile module widget_nypost_iaf_rss_widget"><div class="module-title"><h2>
+		<div class="module-title">
+			<h2>Now On</h2>
+			<a class="iaf-icon" href="#">IAF</a>
+		</div>
+
+		</h2></div>		<div class="module-wrapper">
+					<div class="story-photo-box">
+				<a href="http://iaf.tv/2015/08/01/a-magicians-greatest-trick-is-unrelenting-confidence/"><img src="https://internetactionforce.files.wordpress.com/2015/07/magic-is-confidence.jpg?w=322&#038;h=215&#038;crop=1" alt=""></a>
+				<h2><a href="http://iaf.tv/2015/08/01/a-magicians-greatest-trick-is-unrelenting-confidence/">A Magician’s Greatest Trick Is Unrelenting Confidence</a></h2>
+			</div>
+					</div>
+
+		<div class="see-all">
+			<h3><a href="http://iaf.tv">SEE ALL</a></h3>
+		</div>
+
+		</div><div class="box show-mobile module widget_nypost_dfp_ad_widget"><div id='div-gpt-ad-rec_widget' class='dfp-ad dfp-ad-post dfp-rec_widget'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-rec_widget'); });
+		}
+	</script>
+</div>
+</div>
+</div><div class="box no-mobile module widget_nypost_custom_widget"><div class="module-title"><h2>Video</h2></div>			<div class="module-wrapper first">
+												<div class="story-photo-box">
+						<a href="http://nypost.com/video/is-gold-the-new-botox/"><img src="https://thenypost.files.wordpress.com/2015/07/gold.jpg?w=264&#038;h=177&#038;crop=1" /></a>
+						<h2><a href="http://nypost.com/video/is-gold-the-new-botox/" class="postid-9778250">Is gold the new&nbsp;Botox?</a></h2>
+					</div>
+										</div>
+		</div><div class="box no-mobile module widget_nypost_pagesix_rss_widget"><div class="module-title"><h2>
+		<div class="module-title">
+			<h2>Now On</h2>
+			<a class="pagesix-icon" href="#">Page Six</a>
+		</div>
+
+		</h2></div>		<div class="module-wrapper">
+					<div class="story-photo-box">
+				<a href="http://pagesix.com/2015/08/02/john-green-defends-cara-delevingne-after-awkward-interview/"><img src="https://nyppagesix.files.wordpress.com/2015/07/477215358.jpg?w=322&#038;h=215&#038;crop=1" alt=""></a>
+				<h2><a href="http://pagesix.com/2015/08/02/john-green-defends-cara-delevingne-after-awkward-interview/">John Green defends Cara Delevingne after awkward interview</a></h2>
+			</div>
+						<div class="rule"></div>
+						<h3><a href="http://pagesix.com/2015/08/02/karolina-kurkova-has-another-baby-boy-on-the-way/">Karolina Kurkova has another baby boy on the way</a></h3>
+						<div class="rule"></div>
+						<h3><a href="http://pagesix.com/2015/08/01/jason-segel-gets-oscar-buzz-for-david-foster-wallace-role/">Jason Segel gets Oscar buzz for David Foster Wallace role</a></h3>
+					</div>
+
+		<div class="see-all">
+			<h3><a href="http://pagesix.com">SEE ALL</a></h3>
+		</div>
+
+		</div><div class="box no-mobile module widget_nypost_decider_rss_widget"><div class="module-title"><h2>
+		<div class="module-title">
+			<h2>Now On</h2>
+			<a class="decider-icon" href="#">Decider</a>
+		</div>
+
+		</h2></div>		<div class="module-wrapper">
+					<div class="story-photo-box">
+				<a href="http://decider.com/2015/08/01/ufc-190-ronda-rousey-correia-live-stream/"><img src="https://nypdecider.files.wordpress.com/2015/08/ufc-190-rousey-correia-lead.png?w=322&#038;h=215&#038;crop=1" alt=""></a>
+				<h2><a href="http://decider.com/2015/08/01/ufc-190-ronda-rousey-correia-live-stream/">UFC 190 Live Stream: Ronda Rousey Vs. Bethe Correia</a></h2>
+			</div>
+						<div class="rule"></div>
+						<h3><a href="http://decider.com/2015/08/01/ronda-rousey-ufc-190-photo-gallery/">Ronda Rousey UFC 190 Photo Gallery</a></h3>
+						<div class="rule"></div>
+						<h3><a href="http://decider.com/2015/08/01/mission-impossible-hates-women/">Does ‘Mission: Impossible’ Have A Problem With Women?</a></h3>
+					</div>
+
+		<div class="see-all">
+			<h3><a href="http://decider.com">SEE ALL</a></h3>
+		</div>
+
+		</div>	<div id='div-gpt-ad-rec_btf' class='dfp-ad dfp-ad-post dfp-rec_btf'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-rec_btf'); });
+		}
+	</script>
+</div>
+</div>
+</div>
+			</div><!-- /container -->
+		</div><!-- /background-wrapper -->
+	</div><!-- /content -->
+
+		<div id="story-grid-wrapper">
+		<div id="story-grid" class="container">
+												<div class="story-wrapper footer-story-1">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/08/01/text-reveals-subways-jared-paid-16-year-old-for-sex-report/">Text reveals Subway&#8217;s Jared paid 16-year-old for&hellip;</a></h3>
+								<a href="http://nypost.com/2015/08/01/text-reveals-subways-jared-paid-16-year-old-for-sex-report/">
+									<div class="story-thumbnail" data-picture data-alt="Text reveals Subway&#8217;s Jared paid 16-year-old for sex:&nbsp;report">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/08/subway_spokesman_raid.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/08/subway_spokesman_raid.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-2">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/08/01/hillary-worried-about-a-post-photo-of-her-on-vacation-emails/">Hillary worried about a Post photo of&hellip;</a></h3>
+								<a href="http://nypost.com/2015/08/01/hillary-worried-about-a-post-photo-of-her-on-vacation-emails/">
+									<div class="story-thumbnail" data-picture data-alt="Hillary worried about a Post photo of her on vacation:&nbsp;emails">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/07/inset-top-right-portrait-smart-template-16.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/07/inset-top-right-portrait-smart-template-16.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-3">
+													<div class="ad">
+								<div id='div-gpt-ad-rec_bottom' class='dfp-ad dfp-ad-post dfp-rec_bottom'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-rec_bottom'); });
+		}
+	</script>
+</div>
+</div>
+							</div>
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://pagesix.com/2015/08/01/ex-nanny-at-center-of-affleck-garner-divorce-is-loving-the-fame/">Ex-nanny at center of Affleck-Garner divorce is&hellip;</a></h3>
+								<a href="http://pagesix.com/2015/08/01/ex-nanny-at-center-of-affleck-garner-divorce-is-loving-the-fame/">
+									<div class="story-thumbnail" data-picture data-alt="Ex-nanny at center of Affleck-Garner divorce is loving the fame">
+																				<div data-src="https://nyppagesix.files.wordpress.com/2015/08/2-photos.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://nyppagesix.files.wordpress.com/2015/08/2-photos.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-4">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/08/01/iran-publishes-book-on-how-to-outwit-us-and-destroy-israel/">Iran publishes book on how to outwit&hellip;</a></h3>
+								<a href="http://nypost.com/2015/08/01/iran-publishes-book-on-how-to-outwit-us-and-destroy-israel/">
+									<div class="story-thumbnail" data-picture data-alt="Iran publishes book on how to outwit US and destroy&nbsp;Israel">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/08/iran_nuclear.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/08/iran_nuclear.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-5">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/07/28/people-are-dressing-like-slobs-so-its-time-to-bring-back-dress-codes/">For the love of God, stop dressing&hellip;</a></h3>
+								<a href="http://nypost.com/2015/07/28/people-are-dressing-like-slobs-so-its-time-to-bring-back-dress-codes/">
+									<div class="story-thumbnail" data-picture data-alt="For the love of God, stop dressing like&nbsp;crap">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/07/les_miz.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/07/les_miz.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-6">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/08/01/the-yanks-perfect-storm-of-trouble-could-threaten-division/">The Yanks&#8217; perfect storm of trouble could&hellip;</a></h3>
+								<a href="http://nypost.com/2015/08/01/the-yanks-perfect-storm-of-trouble-could-threaten-division/">
+									<div class="story-thumbnail" data-picture data-alt="The Yanks&#8217; perfect storm of trouble could threaten&nbsp;division">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/08/month.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/08/month.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+																<div class="story-wrapper footer-story-7">
+												<!-- Temporarily Disabled -->
+													<article class="story-photo-box oversize-headline">
+								<h3><a href="http://nypost.com/2015/08/01/beggar-chokes-robs-man-in-central-park/">Beggar chokes man unconscious in Central&nbsp;Park</a></h3>
+								<a href="http://nypost.com/2015/08/01/beggar-chokes-robs-man-in-central-park/">
+									<div class="story-thumbnail" data-picture data-alt="Beggar chokes man unconscious in Central&nbsp;Park">
+																				<div data-src="https://thenypost.files.wordpress.com/2015/08/dsffdgfd.jpg?w=360&#038;h=240&#038;crop=1"></div>
+										<div data-src="https://thenypost.files.wordpress.com/2015/08/dsffdgfd.jpg?w=360&#038;h=280&#038;crop=1" data-media="(min-width: 640px)"></div>
+									</div>
+								</a>
+							</article>
+											</div>
+									</div>
+	</div>
+		<footer id="page-footer" class="clearfix">
+		<div id="footer-wrapper" class="container">
+	<div id="footer-branding">
+		<a href="http://nypost.com/" id="footer-logo">
+	New York Post</a>			<ul id="footer-social" class="">
+		
+		
+			
+				
+					
+																														
+						<li><a href="https://twitter.com/nypost" id="footer-twitter-icon" target="_blank">Twitter</a></li>
+
+									
+			
+				
+					
+																	
+						<li><a href="https://www.facebook.com/nypost" id="footer-facebook-icon" target="_blank">Facebook</a></li>
+
+									
+						</ul>
+		<div id="footer-mobile" class="mobile">
+			<div id="footer-links" class="clearfix">
+				<div class="menu-footer-menu-mobile-container"><ul id="menu-footer-menu-mobile" class="menu"><li id="menu-item-7878405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7878405"><a href="#">Column 1</a>
+<ul class="sub-menu">
+	<li id="menu-item-7838044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7838044"><a href="http://nypost.com/iphone-app">iPhone App</a></li>
+	<li id="menu-item-7838048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7838048"><a href="https://play.google.com/store/apps/developer?id=NYP+Holdings,+Inc.">Android App</a></li>
+	<li id="menu-item-7838038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7838038"><a href="http://newsletters.nypost.com/join/signup">Email Newsletters</a></li>
+</ul>
+</li>
+<li id="menu-item-7878427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7878427"><a href="#">Column 2</a>
+<ul class="sub-menu">
+	<li id="menu-item-7838051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7838051"><a href="http://advertising.nypost.com/">Advertising Info</a></li>
+	<li id="menu-item-7838059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7838059"><a href="http://nypost.com/contact/">Contact Us</a></li>
+	<li id="menu-item-7878441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7878441"><a href="http://nypost.com/careers">Careers/Jobs</a></li>
+</ul>
+</li>
+</ul></div>			</div>
+			<div id="controls">
+			</div>
+			<p id="copyright">&copy; Copyright 2015 NYP Holdings, Inc. All rights reserved</p>			<div id="footer-mobile-nav">
+				<a href="http://nypost.com/terms">Terms of Use</a> | <a href="http://nypost.com/privacy">Privacy</a>
+			</div>
+		</div>
+	</div>
+	<div id="footer-nav" class="desktop clearfix">
+					<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-1612816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1612816"><a href="#">Column 1</a>
+<ul class="sub-menu">
+	<li id="menu-item-1673407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673407"><a href="http://newsletters.nypost.com/join/signup">Email Newsletters &amp; Alerts</a></li>
+	<li id="menu-item-1617020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1617020"><a href="http://nypost.com/home-delivery/">Home Delivery</a></li>
+	<li id="menu-item-1673525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673525"><a href="http://nypost.com/customer-service/">Customer Service</a></li>
+	<li id="menu-item-1616973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1616973"><a href="http://nyp.nypost.com/classifieds/">Classifieds</a></li>
+	<li id="menu-item-1618776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1618776"><a title="Advertising Info" href="http://advertising.nypost.com/">Advertising Info</a></li>
+</ul>
+</li>
+<li id="menu-item-1612818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1612818"><a href="#">Column 2</a>
+<ul class="sub-menu">
+	<li id="menu-item-1616896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1616896"><a href="http://nypost.com/ipad-app">iPad App</a></li>
+	<li id="menu-item-1673512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673512"><a href="http://nypost.com/iphone-app">iPhone App</a></li>
+	<li id="menu-item-1673513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673513"><a href="https://play.google.com/store/apps/developer?id=NYP+Holdings,+Inc.">Android Apps</a></li>
+	<li id="menu-item-6644841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6644841"><a href="http://nypost.com/apps-help/">App Help &amp; FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-1612820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1612820"><a href="#">Column 3</a>
+<ul class="sub-menu">
+	<li id="menu-item-1673510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673510"><a href="http://nypost.com/rssfeeds/">RSS Feeds</a></li>
+	<li id="menu-item-1612821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1612821"><a href="http://nypost.com/contact/">Contacts</a></li>
+	<li id="menu-item-7879047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7879047"><a href="http://nypost.com/careers">Careers/Jobs</a></li>
+	<li id="menu-item-1617021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1617021"><a href="http://nypstore.com">NYP Store</a></li>
+</ul>
+</li>
+</ul></div>			</div>
+	<div id="footer-promo" class="desktop">
+		<div class="footer-module widget_nypost_dfp_ad_widget"><div id='div-gpt-ad-rec_widget_footer' class='dfp-ad dfp-ad-post dfp-rec_widget_footer'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-rec_widget_footer'); });
+		}
+	</script>
+</div>
+</div>
+</div>	</div>
+			<div id="footer-legal" class="desktop">
+		<p>&copy; 2015 NYP Holdings, Inc. All Rights Reserved<br />
+		<a href="http://nypost.com/terms">TERMS OF USE</a> |  <a href="http://nypost.com/privacy">PRIVACY</a> |  <a href="http://nypost.com/privacy#adchoices">YOUR AD CHOICES</a></p>
+		<a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="https://s0.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP" /></a>	</div>
+</div>	</footer>
+</div><!-- /content-wrapper -->
+<!-- wpcom_wp_footer -->
+<script type="text/javascript">
+ function setup_bp() {
+	/*
+	 * Initialize Backplane:
+	 * This creates a channel and adds a cookie for the channel.
+	 * It also sets the function to call when this is complete.
+	 */
+	Backplane(bp_ready);
+	Backplane.init({
+		serverBaseURL: "http://backplane1.janrainbackplane.com/v1.2",
+		busName: "nypost.com"
+	});
+}
+
+function bp_ready() {
+	/*
+	 * This function is called when Backplane.init is complete.
+	 */
+	if (Backplane.getChannelID() != undefined) {
+		// backplane loaded
+		//console.log(Backplane.getChannelID());
+		return false;
+	}
+}
+
+setup_bp();
+</script>	<script type="text/javascript">
+	LF.CommentCount( {
+		replacer: function( element, count ) {
+						element.innerHTML = count;
+					}
+	} );
+	</script>
+			<script type="text/javascript" src="https://s0.wp.com/wp-content/themes/vip/nypost/static/js/show_ads.js"></script>
+		<script>
+			if ( 'undefined' === typeof dimension21 ) {
+				var dimension21 = 'yes';
+			}
+		</script>
+   		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+						ga('create', 'UA-3922003-6', 'auto', {'allowLinker': true});
+			// Optimizely Universal Analytics Integration code
+			window.optimizely = window.optimizely || [];
+			window.optimizely.push(['activateUniversalAnalytics']);
+			ga('set', 'dimension3', 'bank of america,banks,brian moynihan');
+ga('set', 'dimension2', 'Kevin Dugan');
+ga('set', 'dimension1', 'article');
+ga('set', 'dimension5', 'standard');
+ga('set', 'dimension6', 'BofA CEO asks shareholders to keep him as chairman');
+ga('set', 'dimension7', '');
+ga('set', 'dimension12', 'BofA CEO asks shareholders to keep him as chairman');
+ga('set', 'dimension9', '2015-08-01');
+ga('set', 'dimension10', '02:02');
+ga('set', 'dimension11', '9785630');
+ga('set', 'dimension4', 'business');
+ga('set', 'dimension15', 'bank of america');
+ga('set', 'dimension16', '358');
+ga('set', 'dimension17', 'no');
+			if ( typeof nypost_screen != 'undefined' ) {
+				ga('set', 'dimension8', nypost_screen);
+			}
+			ga('set', 'dimension21', dimension21);
+			ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+			ga('require', 'linker');
+ga('linker:autoLink', ["nypost.com","pagesix.com","decider.com","iaf.tv"])
+		</script>
+				<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWX9Z9"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer',"GTM-TWX9Z9");</script>
+		<!-- End Google Tag Manager -->
+			<!-- START Parse.ly Include: Standard -->
+		<div id="parsely-root" style="display: none">
+		<div id="parsely-cfg" data-parsely-site="nypost.com"></div>
+		</div>
+		<script>
+		(function(s, p, d) {
+		var h=d.location.protocol, i=p+"-"+s,
+		e=d.getElementById(i), r=d.getElementById(p+"-root"),
+		u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+		:"static."+p+".com";
+		if (e) return;
+		e = d.createElement(s); e.id = i; e.async = true;
+		e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+		})("script", "parsely", document);
+		</script>
+		<!-- END Parse.ly Include -->
+				<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201531x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<!-- Sailthru Horizon  Async-->
+<script type="text/javascript">
+(function() {
+     function loadHorizon() {
+           var s = document.createElement('script');
+           s.type = 'text/javascript';
+          s.async = true;
+          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+         var x = document.getElementsByTagName('script')[0];
+         x.parentNode.insertBefore(s, x);
+      }
+     loadHorizon();
+      var oldOnLoad = window.onload;
+      window.onload = function() {
+          if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+         }
+           Sailthru.setup({
+              domain: 'horizon.nypost.com'
+         });
+     };
+  })();
+ </script>
+<script type="text/javascript" src="//ak.sail-horizon.com/scout/v1.js"></script><script type="text/javascript">
+    SailthruScout.setup( {
+        domain: 'horizon.nypost.com',
+        numVisible: 6,
+    } );
+</script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/nypost.com\/2015\/08\/01\/bofa-ceo-asks-shareholders-to-keep-him-as-chairman\/":9785630};
+		window.WPCOM_jetpack = false;
+				window.WPCOM_site_ID = 56757169;
+			</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2015/08/01/bofa-ceo-asks-shareholders-to-keep-him-as-chairman/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+//set the flow name for this screen here
+janrain.settings.capture.flowName = 'plugins';
+janrain.settings.width = 310;
+</script>
+<div style="display:none;" id="signIn">
+    <div class="capture_header">
+        <h1><span class="nypost pagesix">Sign Up / Sign In</span> <span class="decider">Sign In <span>//</span> Sign Up</span></h1>
+    </div>
+    <div class="capture_signin">
+        <h2>With your existing account from...</h2>
+        {* loginWidget *} <br />
+    </div>
+    <div class="capture_backgroundColor">
+        <div class="capture_signin">
+            <h2>Use an account with your email address</h2>
+                {* #userInformationForm *}
+                    {* traditionalSignIn_emailAddress *}
+                    {* traditionalSignIn_password *}
+                    <div class="capture_rightText">
+                        {* traditionalSignIn_signInButton *}{* traditionalSignIn_createButton *}
+                    </div>
+                {* /userInformationForm *}
+        </div>
+    </div>
+</div>
+
+<div style="display:none;" id="returnSocial">
+    <div class="capture_header">
+        <h1><span class="nypost pagesix">Sign Up / Sign In</span> <span class="decider">Sign In <span>//</span> Sign Up</span></h1>
+    </div>
+    <div class="capture_signin">
+        <h2>Welcome Back, {* welcomeName *}</h2>
+        {* loginWidget *}
+        <div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Or use another account</a></div>
+    </div>
+</div>
+<div style="display:none;" id="returnTraditional">
+    <div class="capture_header">
+        <h1><span class="nypost pagesix">Sign Up / Sign In</span> <span class="decider">Sign In <span>//</span> Sign Up</span></h1>
+    </div>
+    <h2 class="capture_centerText">Welcome back<span id="displayNameData"></span></h2>
+        <div id="userPhoto" class="inline">
+        </div>
+        <div class="inline">
+            <span id="displayNameData">{* welcomeName *}</span>
+        </div>
+            <div class="capture_backgroundColor">
+                <div class="capture_signin">
+                {* #userInformationForm *}
+                    {* traditionalSignIn_emailAddress *}
+                    {* traditionalSignIn_password *}
+                    <div class="capture_form_item capture_rightText">
+                        {* traditionalSignIn_signInButton *}
+                    </div>
+                {* /userInformationForm *}
+            </div>
+        <div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use an account with your email address</a></div>
+    </div>
+</div>
+<div style="display:none;" id="socialRegistration" class="capture_lrg_footer">
+    <div class="capture_header">
+        <h1>Almost Done!</h1>
+    </div>
+      <h2>Please confirm the information below before signing in.</h2>
+        {* #socialRegistrationForm *}
+            {* socialRegistration_emailAddress *}
+            {* socialRegistration_displayName *}
+            {* socialRegistration_ageVerification *}
+            By clicking "Sign In", you confirm that you accept our
+                <a href="/terms" target="_blank">terms of service</a> and have read and understand
+                <a href="/privacy" target="_blank">privacy policy</a>.
+            <div class="capture_footer">
+                <div class="capture_left">
+                    {* backButton *}
+                </div>
+                <div class="capture_right">
+                {* socialRegistration_signInButton *}
+                </div>
+            </div>
+        {* /socialRegistrationForm *}
+</div>
+<div style="display:none;" id="traditionalRegistration">
+    <div class="capture_header">
+        <h1>Almost Done!</h1>
+    </div>
+        {* #registrationForm *}
+            {* traditionalRegistration_emailAddress *}
+            {* traditionalRegistration_password *}
+            {* traditionalRegistration_passwordConfirm *}
+            {* traditionalRegistration_displayName *}
+            {* traditionalRegistration_captcha *}
+            {* traditionalRegistration_ageVerification *}
+            By clicking "Sign In", you confirm that you accept our
+                <a href="/terms" target="_blank">terms of service</a> and have read and understand
+                <a href="/privacy" target="_blank">privacy policy</a>.
+            <div class="capture_footer">
+                <div class="capture_left">
+                    {* backButton *}
+                </div>
+                <div class="capture_right">
+                {* createAccountButton *}
+                </div>
+            </div>
+        {* /registrationForm *}
+</div>
+<div style="display:none;" id="forgotPassword">
+    <div class="capture_header">
+        <h1><span class="nypost pagesix">Create a new password</span> <span class="decider">Forgot<br />Password?</span></h1>
+    </div>
+    <h2>Don't worry, it happens. We'll send you a link to create a new password.</h2>
+    {* #forgotPasswordForm *}
+        {* traditionalSignIn_emailAddress *}
+        <div class="capture_footer">
+            <div class="capture_left">
+                {* backButton *}
+            </div>
+            <div class="capture_right">
+                {* forgotPassword_sendButton *}
+            </div>
+        </div>
+    {* /forgotPasswordForm *}
+</div>
+<div style="display:none;" id="forgotPasswordSuccess">
+    <div class="capture_header">
+        <h1><span class="nypost pagesix">Create a new password</span> <span class="decider">Sent!</span></h1>
+    </div>
+      <p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
+    <div class="capture_footer">
+        <a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+    </div>
+</div>
+<div style="display:none;" id="mergeAccounts">
+    <div class="capture_header">
+        <h1>Account Already Exists</h1>
+    </div>
+    {* mergeAccounts *}
+</div>
+<div style="display:none;" id="traditionalAuthenticateMerge">
+    <div class="capture_header">
+        {* backButton *}
+        <h1>Sign in to complete account merge</h1>
+    </div>
+    <div class="capture_signin">
+    {* #tradAuthenticateMergeForm *}
+        {* traditionalSignIn_emailAddress *}
+        {* mergePassword *}
+        <div class="capture_footer">
+            <div class="capture_form_item capture_rightText">
+                {* traditionalSignIn_signInButton *}
+            </div>
+        </div>
+     {* /tradAuthenticateMergeForm *}
+    </div>
+</div>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/grunion-contact-form/css/grunion.css?m=1422908831g' type='text/css' media='all' />
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"http:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVkltuwyAQRTdUQvP4aD+qroXA2B4CAx2GWN59SKpItaratYQ0EjoHLujqMSubSIBEx6pyqD1S0TKiCLA6B2MvZ2SnMoLOQA6p3/nyord4BFfguYtkQ3VQtG/rqwJPuqLOqaBgol1EWiYjUF2nTJVkU8wBBP6iKzngYhPPiOfbZIDYuCtmTVOLJ7qIEbR3szEWgXtYDgFdB1bWwzojkNFegLcG+d5QI7oepGwxhSvZdu8mZ4AcjHSJ40ITDuou+8cZypAJU9N/ZfshQEweW4Fmc5X3ILlVTf2PXqMe39gFg6zLYLj19Tmb9Bk/9qfj2/71cHo/+hs9PTYU'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?47" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'56757169','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'56757169','v':'wpcom','tz':'-4','user_id':'0','post':'9785630','subd':'thenypost'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=56757169&v=wpcomvt&tz=-4&user_id=0&post=9785630&subd=thenypost&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdhJitIV3pwXVM1Smt6THRKS1srLiZtZ2FVYk5EaDB2SnYzWVV5TkxpNHZzfFFqMEFMLk9qNXxXX3RXc2JpdzUtV2t0Rz9Wc05DcW5nTWFSLXRCMSZMY0p+WUV0W1BpeWVZK1FCemtXVX45RzRCV1tWMy5SVV9fb3pfb2hKNC9zLkQmLzU/VnxUdjBjckFWV3pJSWs9RWtzTVR4cVF4VV1xM3RE'}]);
+_stq.push([ 'clickTrackerInit', '56757169', '9785630' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<script type="text/javascript">
+		var _sf_async_config={};
+		/** CONFIGURATION START **/
+		_sf_async_config.uid = 19332;
+		_sf_async_config.domain = "nypost.com";
+				_sf_async_config.title = "BofA CEO asks shareholders to keep him as chairman";
+		_sf_async_config.sections = 'business';
+		_sf_async_config.authors = 'Kevin Dugan';
+		_sf_async_config.path = window.location.pathname;
+		/** CONFIGURATION END **/
+		(function(){
+		  function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement("script");
+			e.setAttribute("language", "javascript");
+			e.setAttribute("type", "text/javascript");
+			e.setAttribute('src',
+				(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+				"static.chartbeat.com/js/chartbeat_pub.js");
+			document.body.appendChild(e);
+		  }
+		  jQuery(window).load( function() { loadChartbeat(); } );
+		})();
+		</script>
+		<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><div class="hide">
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 988380111;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988380111/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+</div><!-- /.hide -->
+<div id='div-gpt-ad-oop' class='dfp-ad dfp-ad-post dfp-oop'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-oop'); });
+		}
+	</script>
+</div>
+</div>
+<div id='div-gpt-ad-inline' class='dfp-ad dfp-ad-post dfp-inline'>
+<div class='ad-wrapper'>
+	<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-inline'); });
+		}
+	</script>
+</div>
+</div>
+</body>
+</html>
+<!--
+	generated 160 seconds ago
+	generated in 2.707 seconds
+	served from batcache in 0.003 seconds
+	expires in 140 seconds
+-->

@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Lake Elsinore-Wildomar, California Patch" />
+<meta property="og:url" content="http://patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="459719980707802" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:section" content="Schools" />
+<meta property="article:modified_time" content="2015-08-01T16:03:29-04:00" />
+<link rel="image_src" href="http://cdn.patch.com/users/231734/2015/08/T800x600/20150855bc818789d9a.jpg" />
+<meta property="og:title" content="How Do California Schools Rank Compare to the Rest of the Nation?" />
+<meta property="og:description" content="A new study by a financial advice company may surprise you." />
+<meta property="article:publisher" content="116541048368485" />
+<meta property="article:published_time" content="2015-08-01T16:03:29-04:00" />
+<meta property="og:image" content="http://cdn.patch.com/users/231734/2015/08/T800x600/20150855bc818789d9a.jpg" />
+  <title>How Do California Schools Rank Compare to the Rest of the Nation? | Lake Elsinore-Wildomar, CA Patch</title>
+
+  <!-- Styling -->
+  <link type="text/css" rel="stylesheet" href="http://patch.com/sites/default/files/css/css_wyIsq8pGyMmgOCifn3NlirYtt8r71KXAfzhuAE6crls.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://patch.com/sites/default/files/css/css_GSQzZ8py2TpK2CWIKY5uGHDeftWfonvf-uBmSUp20LA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://patch.com/sites/default/files/css/css_du9VzQ1jGtGXjRSk7C6sBYhda0lK0d3ZOfWr09YQ0vw.css" media="all" />
+
+  <!-- Browser Compatibility and Mobile device handling -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+  <!-- Icons -->
+  <link rel="shortcut icon" href="http://cdn.patch.com/assets/layout/favicon.ico"/>
+  <link rel="apple-touch-icon" sizes="152x152" href="http://cdn.patch.com/assets/layout/apple-touch-icon-152-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.patch.com/assets/layout/apple-touch-icon-144-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="120x120" href="http://cdn.patch.com/assets/layout/apple-touch-icon-120-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.patch.com/assets/layout/apple-touch-icon-114-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="76x76" href="http://cdn.patch.com/assets/layout/apple-touch-icon-76-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="72x72" href="http://cdn.patch.com/assets/layout/apple-touch-icon-72-precomposed.png"/>
+  <link rel="apple-touch-icon" sizes="57x57" href="http://cdn.patch.com/assets/layout/apple-touch-icon-57-precomposed.png"/>
+  <link rel="apple-touch-icon" href="http://cdn.patch.com/assets/layout/apple-touch-icon-57-precomposed.png"/>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet" type="text/css"/>
+
+    <!-- GPT library used by several APIs -->
+  <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js" async></script>
+  <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+  <!-- Sanitize URL to remove any user emails. Required for DFP compliance -->
+  <script type="text/javascript">
+    function sanitizeURL() {
+      var pattern = /@/;
+      var loc = decodeURIComponent(window.location.href);
+      if (pattern.test(loc)) {
+        console.log("URLDirty!");
+        window.location.hash = "#clean";
+      }
+    }
+    sanitizeURL();
+  </script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://patch.com/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="http://patch.com/sites/default/files/js/js_lqf9e83-A-o12xbBBJ9xIl23NTga8er4efVMunfpSrY.js"></script>
+<script type="text/javascript" src="http://patch.com/sites/default/files/js/js_R88Td6ErUlFh9AVba-iYzyHWeRgydAOQr_xqAw3sdUE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"patch","theme_token":"RwD9voTEU_rML5Hr2-L6prNExMehzjIE70zmxNWlJZ8","js":{"sites\/all\/themes\/patch\/scripts\/min\/bootstrap-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/imagesloaded-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/isotope-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/jquery.unveil-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/jquery.cycle2-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/ekko-lightbox-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/jquery-spin-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/underscore-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/backbone-1-1-2-min.js":1,"sites\/all\/themes\/patch\/scripts\/min\/jquery-placeholder-min.js":1,"sites\/all\/modules\/custom\/fe_find_your_patch\/js\/fe_find_your_patch.js":1,"sites\/all\/modules\/custom\/fe_zillow\/js\/fe_zillow.js":1,"sites\/all\/modules\/custom\/fe_gravity\/js\/fe_gravity.beacon.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/fe_recirc\/js\/fe_recirc.js":1,"sites\/all\/modules\/custom\/fe_weather\/js\/skycons.js":1,"sites\/all\/modules\/custom\/fe_weather\/js\/fe_weather.widget.js":1,"sites\/all\/themes\/patch\/scripts\/content-scripts.js":1,"sites\/all\/themes\/patch\/scripts\/min\/modernizr-min.js":1},"css":{"sites\/all\/modules\/frontend\/client_comment_disqus\/css\/client_comment_disqus.css":1,"sites\/all\/modules\/frontend\/client_topic\/css\/client_topic.css":1,"sites\/all\/modules\/custom\/fe_news_ticker\/css\/fe_news_ticker.css":1,"sites\/all\/modules\/custom\/fe_recirc\/css\/fe_recirc.css":1,"sites\/all\/modules\/custom\/fe_zillow\/css\/fe_zillow.css":1,"sites\/all\/modules\/custom\/fe_common\/css\/fe_common.css":1,"sites\/all\/modules\/custom\/fe_find_your_patch\/css\/fe_find_your_patch.css":1,"sites\/all\/modules\/custom\/fe_gravity\/css\/fe_gravity.css":1,"sites\/all\/modules\/custom\/fe_weather\/css\/fe_weather.css":1,"sites\/all\/modules\/custom\/fe_social\/css\/fe_social.css":1,"sites\/all\/themes\/patch\/css\/style.css":1}},"fe_find_your_patch":{"ajaxer":"http:\/\/patch.com\/patch_find_your_patch_ajaxer"},"fe_weather_block":{"current_temp_color":"#f39c0e","weather_alias":"california\/lakeelsinore-wildomar\/todays-weather-forecast"}});
+//--><!]]>
+</script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-51909201-1', 'auto');
+    // Enable display features
+    ga('require', 'displayfeatures');
+    // Enable enhanced link attribution
+    ga('require', 'linkid');
+
+    //AJN20141219: Implementation for PAT-112-Google Analytics Custom Dimension Tags
+        // Set dimension 1 to be article user id
+    ga('set', 'dimension1', 231734);
+    
+        // Set dimension 2 to be patch id
+    ga('set', 'dimension2', 345);
+            // Set dimension 3 to be region id
+    ga('set', 'dimension3', 2704);
+            // Set dimension 4 to be topic id
+    ga('set', 'dimension4', 3018);
+            // Set dimension 5 to be article id
+    ga('set', 'dimension5', 25460120);
+                ga('set', 'dimension6', '0' );
+         ga('send', 'pageview');
+
+</script>
+
+<script>
+    /**
+     * Function that tracks a click on an outbound link in Google Analytics.
+     * This function takes a String as the event label.
+     */
+    var trackOutboundLink = function(category, action, label) {
+        ga('send', 'event', category, action, label, null);
+    }
+</script>
+
+<script>
+  jQuery(function($) {
+
+    var percents = [25,50,75,90];
+    var percentCaptured = [false, false, false, false];
+
+    // Debug flag
+    var debugMode = false;
+
+    // get top of viewport
+    function scrollY() {
+      var de = document.documentElement;
+
+      return self.pageYOffset || ( de && de.scrollTop ) || document.body.scrollTop;
+    }
+
+    // get total height of page
+    function pageHeight() {
+      return document.body.scrollHeight;
+    }
+
+    // get window height
+    function windowHeight() {
+      var de = document.documentElement;
+
+      return self.innerHeight || (de && de.clientHeight ) || document.body.clientHeight;
+    }
+
+    // Cross browser way to listen for events.
+    function addListener(element, type, callback) {
+      if (element.addEventListener) {
+        element.addEventListener(type, callback);
+      }
+      else if (element.attachEvent) {
+        element.attachEvent('on' + type, callback);
+      }
+    }
+
+    // array flag to track each percent scrolled only once
+    var gaTracked = [];
+
+    function sendScrollEvent() {
+      for (var i = 0, len = percents.length; i < len; i++) {
+        // on scroll determine scolling %
+        var yScroll = (scrollY() + windowHeight()) / pageHeight() * 100;
+        var percentLabel = percents[i] + '%';
+        // if the % has not been tracked, but has been scrolled past, call an event
+        if (gaTracked.indexOf(percentLabel) < 0 && yScroll > percents[i]) {
+          if (!percentCaptured[i]) {
+            if (!debugMode) {
+              ga('send', 'event', 'interaction', 'page-scroll', percentLabel, {'nonInteraction': 1});
+            }
+            else {
+              alert(percentLabel);
+            }
+            percentCaptured[i] = true;
+          }
+        }
+      }
+    }
+
+    addListener(window, 'scroll', sendScrollEvent);
+  });
+
+</script>
+
+
+</head>
+<body class='desktop safari local'>
+<div id="wrapper"></div>
+<div id="page-wrapper">
+  <a name="top"></a>
+
+  <div id="page" class="public">
+    <header class="header-container">
+      <div class="nav-main-container navbar navbar-fixed-top" role="navigation"
+           id="slide-nav">
+          <div class="region region-nav-geography">
+    <div id="block-client-navigation-client-navigation-geography" class="block block-client-navigation">
+
+    
+  <div class="content">
+    <div class="container">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse"
+            data-target="#nav-main">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <div class="navbar-brand">
+                      <span class="site-name"><a href="/california/lakeelsinore-wildomar"
+                                   title="Lake Elsinore-Wildomar Patch">Lake Elsinore-Wildomar</a></span>
+        <span class="site-logo"><a href="/california/lakeelsinore-wildomar"
+                                   title="Lake Elsinore-Wildomar Patch">Patch</a></span>
+            <span class="breadcrumb-divider breadcrumb-pipe"></span>
+              <a href="#" id="nav-findyourpatch" class="breadcrumb breadcrumb-region dropdown-toggle" data-toggle="dropdown" title="Find Your Patch">
+          <span class="patch-icon icon-patch-location"></span> Find Your Patch <span
+            class="caret"></span>
+        </a>
+        <nav id="dropdown-find-your-patch" class="dropdown-menu dropdown-menu-border full-width" role="navigation">
+          <div class="dropdown-menu-inner">
+            <div class="row">
+              <div class="col-fav col-sm-6 col-lg-4 clearfix">
+                                <div class="block-title"><span class="header">My Favorites <span
+                      class="remaining-favs"></span></span></div>
+                <ul id="favourites" class="menu">
+                  <li class="nav"><a class="add-favourite"
+                                     data-alias="california/lakeelsinore-wildomar"
+                                     data-name="Lake Elsinore-Wildomar">
+                      <span class="patch-icon icon-patch-view-all"></span> Add
+                      to Favorites
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-recent col-sm-6 col-lg-4">
+                <div class="block-title"><span
+                    class="header">Recently Visited</span></div>
+                <ul id="recents" class="menu"
+                    data-alias="california/lakeelsinore-wildomar"
+                    data-name="Lake Elsinore-Wildomar">
+                </ul>
+              </div>
+              <div class="col-browse col-sm-12 col-lg-4 clearfix">
+                <div class="block-title"><span class="header">Find Your Community</span>
+                </div>
+                <div class="widget-search">
+	<input type="text" class="form-control form-text community_search" id="community_search" placeholder="Find your Patch by name or zipcode..." autocomplete="off" />
+	<div id="spinner-placeholder">&nbsp;</div>
+	<div id="autocomplete-results" class="autocomplete-results"></div>
+	<span class="patch-icon icon-patch-search"></span>
+	<div class="left"></div>
+	<div class="right"></div>
+</div>
+                <p class="help-inline">Find your Patch by name or zipcode.</p>
+                <ul class="menu">
+                  <li><a href="http://corp.patch.com/browse"
+                         title="Browse Patches by State"><span
+                        class="patch-icon icon-patch-search"></span> Browse
+                      Patches by State</a></li>
+                </ul>
+              </div>
+
+                              <div class="col-nearby col-sm-6 col-md-6 col-lg-4">
+                  <div class="block-title"><span
+                      class="header">Nearby Patches</span></div>
+                  <ul class="menu menu-nearby">
+                    <li>
+	<a href="/california/murrieta" title="Murrieta Patch">
+		<span class="patch-icon icon-patch-location"></span> Murrieta	</a>
+</li><li>
+	<a href="/california/temecula" title="Temecula Patch">
+		<span class="patch-icon icon-patch-location"></span> Temecula	</a>
+</li><li>
+	<a href="/california/ranchosantamargarita" title="Rancho Santa Margarita Patch">
+		<span class="patch-icon icon-patch-location"></span> Rancho Santa Margarita	</a>
+</li><li>
+	<a href="/california/missionviejo" title="Mission Viejo Patch">
+		<span class="patch-icon icon-patch-location"></span> Mission Viejo	</a>
+</li><li>
+	<a href="/california/lakeforest-ca" title="Lake Forest Patch">
+		<span class="patch-icon icon-patch-location"></span> Lake Forest	</a>
+</li><li>
+	<a href="/california/sanclemente" title="San Clemente Patch">
+		<span class="patch-icon icon-patch-location"></span> San Clemente	</a>
+</li><li>
+	<a href="/california/sanjuancapistrano" title="San Juan Capistrano Patch">
+		<span class="patch-icon icon-patch-location"></span> San Juan Capistrano	</a>
+</li><li>
+	<a href="/california/alisoviejo" title="Aliso Viejo Patch">
+		<span class="patch-icon icon-patch-location"></span> Aliso Viejo	</a>
+</li>                  </ul>
+                </div>
+              
+                              <div class="col-regional col-sm-6 col-md-6 col-lg-4">
+                  <div class="block-title"><span
+                      class="header">State Edition</span></div>
+                  <ul class="menu">
+                    <li><a href="/california"
+                           title="California Patch"><span
+                          class="patch-icon icon-patch-location"></span> California                      </a></li>
+                    <li>                        <a
+                        href="http://corp.patch.com/states/california"
+                        title="Browse All Patches Within California"><span
+                          class="patch-icon icon-patch-location"></span> Browse
+                        All Patches Within California</a>
+
+                    </li>
+                  </ul>
+                </div>
+                            <div class="col-national col-sm-6 col-md-6 col-lg-4">
+                <div class="block-title"><span
+                    class="header">National Edition</span></div>
+                <ul class="menu">
+                  <li><a href="/" title="Best of Patch Nationwide"
+                         class="active"><span
+                        class="patch-icon icon-patch-fav"></span> Best of Patch
+                      Nationwide</a></li>
+                  <li><a href="http://corp.patch.com/about" title="About Patch"><span
+                        class="patch-icon icon-patch-about"></span> About Patch</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </nav>
+          </div>
+    <!-- /.navbar-brand -->
+
+    <div class="navbar-right">
+      <ul class="nav navbar-nav navbar-social pull-right">
+        <li>
+          <a href="http://contribute.patch.com" id="link-publish"
+             class="link-social" title="Post on Patch" rel="nofollow"
+             target="_blank"><span
+              class="patch-icon icon-patch-create-article"></span> <span
+              class="hidden-xs hidden-sm">Post on Patch</span></a>
+        </li>
+      </ul>
+
+              <span class="breadcrumb-divider breadcrumb-pipe pull-right"></span>
+        <div class="widget-weather-container">
+          <a href="http://patch.com/california/lakeelsinore-wildomar/todays-weather-forecast" class="widget-weather" category="localrecirc" trigger="weathertop">
+  <div class="content">
+    <div class="date">
+      <span class="date-val">02</span>
+      <span class="month-val">Aug</span>
+      <span class="year-val">2015</span>
+    </div>
+
+    <canvas id="patch-weather-icon" class="patch-weather-icon clear-night"
+            data-skycon="clear-night" width="128" height="128"></canvas>
+
+    <div class="temperature above-75">
+      <span class="text above-75"> 75&deg;</span>
+      <span class="summary above-75">Clear</span>
+    </div>
+  </div>
+</a>        </div>
+          </div>
+    <!--/.navbar-right -->
+  </div>
+  <!-- /.navbar-header -->
+</div><!-- ./container -->
+  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-config" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <script type='text/javascript'>
+    googletag.cmd.push(function()
+    {
+                    googletag.defineSlot('/270360483/internal', [[728, 90],[970, 250]], 'client_ad_dfp_lb').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] );
+                    googletag.defineSlot('/270360483/internal', [[465, 90]], 'client_ad_dfp_logo').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] );
+                    googletag.defineSlot('/270360483/internal', [[300, 250],[300, 600],[300, 1050]], 'client_ad_dfp_slot_1').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] ).setTargeting( 'slot' , ['1'] );
+                    googletag.defineSlot('/270360483/internal', [[300, 250],[300, 600]], 'client_ad_dfp_slot_2').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] ).setTargeting( 'slot' , ['2'] );
+                    googletag.defineSlot('/270360483/internal', [[300, 250],[300, 600]], 'client_ad_dfp_slot_3').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] ).setTargeting( 'slot' , ['3'] );
+                    googletag.defineSlot('/270360483/internal', [[300, 250],[300, 600]], 'client_ad_dfp_slot_4').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] ).setTargeting( 'slot' , ['4'] );
+                    googletag.defineSlot('/270360483/internal', [[300, 250],[300, 600]], 'client_ad_dfp_slot_5').addService( googletag.pubads() ).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] ).setTargeting( 'slot' , ['5'] );
+        
+        // Add 33Across slot definitions
+        googletag.defineSlot('/270360483/skin', [1, 1], 'div-gpt-ad-1420577848472-0').addService(googletag.pubads()).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] );
+googletag.defineOutOfPageSlot('/270360483/skin', 'div-gpt-ad-1420577848472-0-oop').addService(googletag.pubads()).setTargeting( 'patch' , ['lakeelsinore-wildomar'] ).setTargeting( 'dma' , ['sandiego'] ).setTargeting( 'state' , ['ca'] ).setTargeting( 'category' , ['schools'] ).setTargeting( 'article' , ['25460120'] );
+
+
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs( false );
+        googletag.enableServices();
+    });
+</script>
+  </div>
+</div>
+  </div>
+          <div class="region region-nav-primary">
+    <div id="block-client-navigation-client-navigation-primary" class="block block-client-navigation">
+
+    
+  <div class="content">
+    <div id="slidemenu">
+	<nav class="nav-primary">
+		<div class="container">
+			<div class="navbar-brand visible-xs">
+				<span class="site-logo">					<a href="/california/lakeelsinore-wildomar" title="Patch">Patch</a>				</span>
+			</div>			<ul class="nav navbar-nav nav-styled">					<li><a id="primarynav-home" href="/california/lakeelsinore-wildomar" title="Lake Elsinore-Wildomar Patch"><span class="patch-icon icon-patch-home"></span> Home</a>
+					</li>
+    <li>
+    <a href="/advertise-with-us" title="Advertise With Us" id="primarynav-tise-with-us" 0="primary-with-us">Advertise With Us</a>  </li>
+					<li class="dropdown"><a id="primarynav-topic" href="#" class="dropdown-toggle" data-toggle="dropdown" title="Topics For Articles In Lake Elsinore-Wildomar"><span class="patch-icon icon-patch-my-contributions"></span> All Topics <span class="patch-icon icon-patch-chevron-right"></span>Schools<span class="caret"></span></a>
+						<ul id="dropdown-menu-topics" class="dropdown-menu dropdown-menu-border full-width" role="menu">
+							<li>
+								<ul class="menu dropdown-menu-inner dropdown-menu-inner-topics">  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/arts-entertainment" title="Arts & Entertainment">
+      <span  class="taxonomy taxonomy-category"></span> Arts & Entertainment    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/bulletinboard" title="Bulletin Board">
+      <span  class="taxonomy taxonomy-category"></span> Bulletin Board    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/business" title="Business">
+      <span  class="taxonomy taxonomy-category"></span> Business    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/around-town" title="Community Corner">
+      <span  class="taxonomy taxonomy-category"></span> Community Corner    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/lifestyle" title="Health & Fitness">
+      <span  class="taxonomy taxonomy-category"></span> Health & Fitness    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/jobs" title="Jobs">
+      <span  class="taxonomy taxonomy-category"></span> Jobs    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/kids-family" title="Kids & Family ">
+      <span  class="taxonomy taxonomy-category"></span> Kids & Family     </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/classifieds" title="Local Deals & Classifieds">
+      <span  class="taxonomy taxonomy-category"></span> Local Deals & Classifieds    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/obituaries" title="Obituaries">
+      <span  class="taxonomy taxonomy-category"></span> Obituaries    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/going-green" title="Outdoors">
+      <span  class="taxonomy taxonomy-category"></span> Outdoors    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/police-fire" title="Police & Fire">
+      <span  class="taxonomy taxonomy-category"></span> Police & Fire    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/politics" title="Politics & Government">
+      <span  class="taxonomy taxonomy-category"></span> Politics & Government    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/real-estate" title="Real Estate">
+      <span  class="taxonomy taxonomy-category"></span> Real Estate    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/schools" title="Schools">
+      <span  class="taxonomy taxonomy-category"></span> Schools    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/holidays" title="Seasonal & Holidays">
+      <span  class="taxonomy taxonomy-category"></span> Seasonal & Holidays    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/small-business-voices" title="Small Business Voices">
+      <span  class="taxonomy taxonomy-category"></span> Small Business Voices    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/sports" title="Sports">
+      <span  class="taxonomy taxonomy-category"></span> Sports    </a>
+  </li>
+								</ul>
+							</li>
+						</ul>
+					</li>			</ul>		</div><!-- /.container -->
+	</nav><!-- ./nav-primary -->
+</div><!-- /slidemenu -->
+<script type="text/javascript">
+	var d = document.getElementById( "primarynav-topic" );
+	if ( d != null ) {
+	  d.className = d.className + " active";
+	}
+</script>
+  </div>
+</div>
+  </div>
+      </div>
+    </header>
+    <!-- /.header-container -->
+    <div id="page-content">
+      <div id="widget-billboard" class="billboard-container container">
+              </div>
+      <div id="widget-container" class="widget-top-container container">
+        <div id="ad-leaderboard" class="ad-leaderboard-container">
+            <div class="region region-ad-leaderboard">
+    <div id="block-client-ads-dfp-client-ad-dfp-lb" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_lb' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_lb'); });</script></div>
+  </div>
+</div>
+<div id="block-client-ads-33across-client-ad-33across-slot-1" class="block block-client-ads-33across">
+
+    
+  <div class="content">
+    <!-- 33Across Div Scripts -->
+<!-- skin -->
+<div id='div-gpt-ad-1420577848472-0' style='width:1px; height:1px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420577848472-0'); } );</script></div>
+<!-- skin out-of-page -->
+<div id='div-gpt-ad-1420577848472-0-oop'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420577848472-0-oop'); } );</script></div>
+
+
+  </div>
+</div>
+  </div>
+        </div>
+
+        <div class="widget-row">
+          <div id="widget-left">
+              <div class="region region-widget-left">
+    <div id="block-fe-weather-fe-weather" class="block block-fe-weather">
+
+    
+  <div class="content">
+    <a href="http://patch.com/california/lakeelsinore-wildomar/todays-weather-forecast" class="widget-weather" category="localrecirc" trigger="weathertop">
+  <div class="content">
+    <div class="date">
+      <span class="date-val">02</span>
+      <span class="month-val">Aug</span>
+      <span class="year-val">2015</span>
+    </div>
+
+    <canvas id="patch-weather-icon" class="patch-weather-icon clear-night"
+            data-skycon="clear-night" width="128" height="128"></canvas>
+
+    <div class="temperature above-75">
+      <span class="text above-75"> 75&deg;</span>
+      <span class="summary above-75">Clear</span>
+    </div>
+  </div>
+</a>  </div>
+</div>
+  </div>
+          </div>
+          <div id="widget-right">
+                      </div>
+        </div>
+        <!--/.widget-row-->
+      </div>
+      <!-- /.widget-container -->
+      <nav id="nav-secondary">
+              </nav>
+      <div class="content-main-container-border container">
+        <div class="content-wrapper">
+          
+          <div class="content-main-container col-custom">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+      <div id="node-25460120"
+       class="node node-article clearfix">
+    <section>
+      <div class="article-recirc-wrapper">
+    <a href="/california/lakeelsinore-wildomar/demolition-complete-i-10-bridge-repair-project" title="Demolition Complete for I-10 Bridge Repair Project" class="article-recirc-default article-recirc" category="localrecirc" trigger="bluebutton_top"><span class="nextup">Next on Patch</span> &raquo; Demolition Complete for I-10 Bridge Repair Project </a> <span class="recirc-arrow"></span>
+</div>
+    </section>
+    <article class="article full content">
+      <header>
+        <div class="article-title-container">
+          <h1 class="article-title">How Do California Schools Rank Compare to the Rest of the Nation?</h1>
+          <h2 class="article-deck">A new study by a financial advice company may surprise you.</h2>
+
+			
+        </div>
+        <div class="article-meta clearfix">
+          <div class="article-meta-content">
+            <!-- Shared -->
+          <span class="article-shared">              By <a href="/users/alexander-nguyen"
+                   title="View Alexander Nguyen&rsquo;s Profile"
+                   class="article-author"><span
+                class="article-author-name">Alexander Nguyen</span><span class="article-author-role">
+                (Patch Staff)</span></a>
+          </span>
+            <!-- Updated Date -->
+          <span class="article-updated meta-separator">
+            <span
+              class="patch-icon icon-patch-clock"></span><time datetime="2015-08-01 16:03:29"> August 1, 2015 </time>
+          </span>
+            <!-- Moderation -->
+          <span class="article-mod">
+            <a
+              href="http://contribute.patch.com/moderation/25460120"
+              rel="nofollow" target="_blank"><span
+                class="patch-icon icon-patch-p"></span></a>
+          </span>
+          </div>
+
+          <section class="article-more article-more-top">
+            <div class="social-share-wrapper"><div class="social-share"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Share on Facebook" alt="Share on Facebook" target="_blank" category="social" trigger="facebook" class="social-btn btn-facebook">Share</a><a href="https://twitter.com/intent/tweet?text=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F&amp;url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Tweet" alt="Tweet" target="_blank" category="social" trigger="twitter" class="social-btn btn-twitter">Tweet</a><a href="https://plus.google.com/share?url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation&amp;t=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F" title="Post on Google+" alt="Post on Google+" target="_blank" category="social" trigger="google_plus" class="social-btn btn-gplus">Google Plus</a><a href="http://www.reddit.com/submit?url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation&amp;title=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F" title="Post on Reddit" alt="Post on Reddit" target="_blank" category="social" trigger="reddit" class="social-btn btn-reddit">Reddit</a><a href="mailto:?subject=Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?&amp;body=Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?%0D%0A%0D%0AA new study by a financial advice company may surprise you.%0D%0A%0D%0Ahttp://patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Send Email" alt="Send Email" category="social" trigger="email" class="social-btn btn-email">Email</a><a class="btn-comment-now" href="#comments" title="View Comments for &ldquo;Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?&rdquo;"><span class="social-comment-btn">Comments</span><span class="disqus-comment-count" data-disqus-identifier="25460120">0</span></a></div></div>          </section>
+          <!-- /.article-more -->
+        </div>
+      </header>
+              <div class="article-image">          <img src="http://cdn.patch.com/users/231734/2015/08/T800x600/20150855bc818789d9a.jpg"
+               alt="How Do California Schools Rank Compare to the Rest of the Nation?" />        </div>      <div id="article-body" class="article-body clearfix"><p>As back-to-school shopping begin in earnest, parents in California may be surprised to learn how California schools fare compare to the rest of the country.</p><p>A new study by Wallet Hub, a financial advice company, puts California schools at the bottom of the pack. California school systems are the ninth worse in the nation.</p><p>Only West Virginia, South Carolina, Oregon, Louisiana, Arizona, Nevada, the District of Columbia and Alaska are ranked lower.</p><p>The study used public data available for 13 metrics, including student-teacher ratios, dropout rates and test scores. It also came up with a safety ranking based on bullying incidents, incarceration rates and a school safety survey.</p><p>Here’s how California measured up:</p><ul><li>38th  in percentage of high school graduates who completed the ACT</li><li>46th  in math test score</li><li>42nd in reading rest score</li><li>51st in pupil-to-teacher ratio</li><li>30th in dropout rate</li><li>34th in average SAT Score</li></ul><p>California schools were also some of the least safe, according to the study. D.C. was the least safe, followed by Indiana, California, South Dakota and Colorado.</p><p>But all is not lost, some of the best high schools in the nation are in California, according to <a href="https://k12.niche.com/rankings/public-high-schools/best-overall/">Niche.com</a></p><p>So, which states have the best schools? According to Wallet Hub, they are Massachusetts, Colorado, New Jersey, Wisconsin and Kentucky.</p><p>You can see the nationwide results in the interactive map below:</p><p><iframe src="http://widgets.patch.com/widget-maker/1d6b5304f8a2a450f3b522fa095c67fe.html" width="460" height="400"></iframe><br /></p><p>For the full results, check out the full study, which includes a breakdown of each category, <b><a href="http://wallethub.com/edu/states-with-the-best-schools/5335/">here</a>.</b></p><p><b>--</b><i>Photo via Shutterstock</i><br /><br /></p><p>
+</p>        <section>
+          <hr /><div class="recirc-ul-title">More stories from Lake Elsinore-Wildomar</div>
+<ul class="recirc-ul recirc-ul-local">
+    <li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/saturday-smiles-horse-rescue-best-college-usa-aloha-ed" title="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" class="auto-recirc" category="localrecirc" trigger="lr_art_local">Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!</a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/two-hospitalized-early-morning-house-fire" title="Two Hospitalized in Early Morning House Fire" class="auto-recirc" category="localrecirc" trigger="lr_art_local">Two Hospitalized in Early Morning House Fire</a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/felon-suspected-burglarizing-stadium-manufacturing-drugs" title="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" class="auto-recirc" category="localrecirc" trigger="lr_art_local">Felon Suspected of Burglarizing Stadium, Manufacturing Drugs</a></li></ul>
+<div class="recirc-ul-title">Across California</div>
+<ul class="recirc-ul recirc-ul-regional">
+    <li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5pgv/rockyfire-hits-22k-acres-5-contained-more-evacuations-wraggfire-nearly-a-wrap-92-contained" title="#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained (Napa Valley, CA)" class="auto-recirc" category="localrecirc" trigger="lr_art_reg">#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained <span class="recirc-link-patch-name">(Napa Valley, CA)</span></a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5oh0/update-gerald-desmond-bridge-in-long-beach-reopens" title="Update: Gerald Desmond Bridge in Long Beach Reopens (Long Beach, CA)" class="auto-recirc" category="localrecirc" trigger="lr_art_reg">Update: Gerald Desmond Bridge in Long Beach Reopens <span class="recirc-link-patch-name">(Long Beach, CA)</span></a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5pm4/governor-declares-state-of-emergency-in-response-to-wildfires" title="Governor Declares State Of Emergency In Response To Wildfires (Healdsburg, CA)" class="auto-recirc" category="localrecirc" trigger="lr_art_reg">Governor Declares State Of Emergency In Response To Wildfires <span class="recirc-link-patch-name">(Healdsburg, CA)</span></a></li></ul>
+<div class="recirc-ul-title">Trending Across Patch</div>
+<ul class="recirc-ul recirc-ul-trending">
+    <li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5lne/teen-ordered-to-register-as-sex-offender-for-25-years" title="Teen Ordered To Register As Sex Offender For 25 Years (Grosse Pointe, MI)" class="auto-recirc" category="localrecirc" trigger="lr_art_trending">Teen Ordered To Register As Sex Offender For 25 Years <span class="recirc-link-patch-name">(Grosse Pointe, MI)</span></a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5n5w/drone-narrowly-misses-airplane-flying-into-jfk-report" title="Drone Narrowly Misses Airplane Flying Into JFK: Report (Park Slope, NY)" class="auto-recirc" category="localrecirc" trigger="lr_art_trending">Drone Narrowly Misses Airplane Flying Into JFK: Report <span class="recirc-link-patch-name">(Park Slope, NY)</span></a></li><li class="recirc-link-li"><a href="/california/lakeelsinore-wildomar/s/f5jok/beer-pong-shark-attacks-and-mallrats-the-top-17-patch-stories-from-july-2015" title="Beer Pong, Shark Attacks and Mallrats: The Top 17 Patch Stories From July 2015 (Dearborn, MI)" class="auto-recirc" category="localrecirc" trigger="lr_art_trending">Beer Pong, Shark Attacks and Mallrats: The Top 17 Patch Stories From July 2015 <span class="recirc-link-patch-name">(Dearborn, MI)</span></a></li></ul>
+        </section>
+        <section class="article-more">
+          <div class="social-share-wrapper"><div class="social-share-wrapper"><div class="social-share"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Share on Facebook" alt="Share on Facebook" target="_blank" category="social" trigger="facebook" class="social-btn btn-facebook">Share</a><a href="https://twitter.com/intent/tweet?text=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F&amp;url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Tweet" alt="Tweet" target="_blank" category="social" trigger="twitter" class="social-btn btn-twitter">Tweet</a><a href="https://plus.google.com/share?url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation&amp;t=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F" title="Post on Google+" alt="Post on Google+" target="_blank" category="social" trigger="google_plus" class="social-btn btn-gplus">Google Plus</a><a href="http://www.reddit.com/submit?url=http%3A//patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation&amp;title=Lake%20Elsinore-Wildomar%20Patch%3A%20How%20Do%20California%20Schools%20Rank%20Compare%20to%20the%20Rest%20of%20the%20Nation%3F" title="Post on Reddit" alt="Post on Reddit" target="_blank" category="social" trigger="reddit" class="social-btn btn-reddit">Reddit</a><a href="mailto:?subject=Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?&amp;body=Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?%0D%0A%0D%0AA new study by a financial advice company may surprise you.%0D%0A%0D%0Ahttp://patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" title="Send Email" alt="Send Email" category="social" trigger="email" class="social-btn btn-email">Email</a><a class="btn-comment-now" href="#comments" title="View Comments for &ldquo;Lake Elsinore-Wildomar Patch: How Do California Schools Rank Compare to the Rest of the Nation?&rdquo;"><span class="social-comment-btn">Comments</span><span class="disqus-comment-count" data-disqus-identifier="25460120">0</span></a></div></div></div>        </section>
+        <!-- /.article-more -->
+      </div>
+      <!-- /.article-body -->
+    </article>
+    <!-- /.article.full -->
+    <section>
+          </section>
+  </div><!-- /.node -->
+  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-logo" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_logo' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_logo'); });</script></div>
+  </div>
+</div>
+<div id="block-fe-gravity-fe-gravity-iframe" class="block block-fe-gravity">
+
+    
+  <div class="content">
+    <div class="fe-gravity-wrapper fe-gravity-wrapper-desktop">
+    <div id="grv-personalization-116"></div>
+</div>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': 'd22ca14ff69cea02a417fd0d5bdb21d7'
+    };
+    var adServerReq,bUrl,cburl,doUseGravityUserGuid,extPlacementIdOpt,externalPlacementId,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";
+    ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",extPlacementIdOpt=gravityInsightsParams.epl,externalPlacementId=extPlacementIdOpt&&"${EXTERNAL_PLACEMENT_ID}"!==extPlacementIdOpt?extPlacementIdOpt:
+    "",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-116&pl=116"+("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+"&epl="+encodeURIComponent(externalPlacementId)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?
+    "&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script>  </div>
+</div>
+<div id="block-client-comment-disqus-client-comment-disqus" class="block block-client-comment-disqus">
+
+    
+  <div class="content">
+    <a name="comments" id="show-disqus" class="btn btn-lg btn-block">Show Comments</a>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_shortname = "patchmedia";
+  var disqus_identifier = "25460120";
+  var disqus_title = "How Do California Schools Rank Compare to the Rest of the Nation?";
+  var disqus_url = "http://patch.com/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation";
+
+  jQuery(document).ready(function() {
+    jQuery('#show-disqus, .btn-comment-now').on('click', function(event){
+      jQuery.ajax({
+        type: "GET",
+        url: "http://patchmedia.disqus.com/embed.js",
+        dataType: "script",
+        cache: true
+      });
+      event.target.id !== 'show-disqus' && jQuery('html, body').animate({
+        scrollTop: jQuery('#disqus_thread').offset().top
+      }, 1000);
+      jQuery('#show-disqus').slideUp();
+      return false;
+    });
+    location.hash === '#comments' && jQuery('#show-disqus').click();
+  });
+</script>  </div>
+</div>
+  </div>
+          </div>
+          <!-- /.content-main-container -->
+
+                      <aside id="sidebar" class="sidebar-container">
+                <div class="region region-sidebar">
+    <div id="block-client-ads-dfp-client-ad-dfp-slot-1" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_slot_1' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_slot_1'); });</script></div>
+  </div>
+</div>
+<div id="block-fe-social-fe-social-email-sidebar" class="block block-fe-social">
+
+    
+  <div class="content">
+    <div class="block-title">
+  <h2>Stay <span class="em">Connected</span></h2>
+</div>
+<div class="social-bar btn-group">
+  <a href="https://facebook.com/pages/Lake-Elsinore-Wildomar-Patch/163685173660517" title="Visit the Lake Elsinore-Wildomar Patch on Facebook" target="_blank" class="btn btn-primary btn-facebook"><span class="patch-icon icon-patch-facebook"></span></a>  <a href="https://twitter.com/LkElsinorePatch" title="Follow the Lake Elsinore-Wildomar Patch on Twitter" target="_blank" class="btn btn-primary btn-twitter"><span class="patch-icon icon-patch-twitter"></span></a>  <a href="mailto:LakeElsinore-Wildomar@Patch.com" title="Email the Lake Elsinore-Wildomar Patch" class="btn btn-primary btn-mail"><span class="patch-icon icon-patch-mail"></span></a></div>
+
+<div id="email-signup-form-anchor" class="email-signup-form-wrapper"><form action="/california/lakeelsinore-wildomar/how-do-california-schools-rank-compare-rest-nation" method="post" id="fe-social-email-signup-form" accept-charset="UTF-8"><div><div class="email-signup-intro-text">Get the free daily newsletter and real-time news alerts from the <strong>Lake Elsinore-Wildomar Patch</strong>.</div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email </label>
+ <input class="form-control form-text" placeholder="Enter your email address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" />
+</div>
+<input style="background-color:#D12929; border-color:#D12929;" type="submit" id="edit-submit" name="op" value="Send Me Patch News Alerts!" class="form-submit" /><div class="privacy-text">We never share your address. Unsubscribe at any time.</div><input type="hidden" name="form_build_id" value="form-YutRNyNqcgKiupMXgoPAZNOCRyb_LdM0PeMyY2FvaPE" />
+<input type="hidden" name="form_id" value="fe_social_email_signup_form" />
+</div></form></div>
+  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-slot-2" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_slot_2' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_slot_2'); });</script></div>
+  </div>
+</div>
+<div id="block-client-article-trending-client-article-trending-nat" class="block block-client-article-trending">
+
+    
+  <div class="content">
+    <section>
+<header class="block-title">
+  <span class="header">Trending Now Across <span class="em">Patch</span></span>
+</header>
+
+<div id="trending-across-patch" class="widget-trending">
+				<div class="trending-item-outer">
+				<div class="trending-item">
+						<a href="/california/lakeelsinore-wildomar/s/f5lne/teen-ordered-to-register-as-sex-offender-for-25-years" title="Teen Ordered To Register As Sex Offender For 25 Years" category="localrecirc" trigger="lr_side_trending">
+						<span class="count">1</span>
+						<span class="text">Teen Ordered To Register As Sex Offender For 25 Years</span>
+						</a>
+				</div><!-- .trending-item -->
+			</div><!-- .trending-item-outer -->
+				<div class="trending-item-outer">
+				<div class="trending-item">
+						<a href="/california/lakeelsinore-wildomar/s/f5n5w/drone-narrowly-misses-airplane-flying-into-jfk-report" title="Drone Narrowly Misses Airplane Flying Into JFK: Report" category="localrecirc" trigger="lr_side_trending">
+						<span class="count">2</span>
+						<span class="text">Drone Narrowly Misses Airplane Flying Into JFK: Report</span>
+						</a>
+				</div><!-- .trending-item -->
+			</div><!-- .trending-item-outer -->
+				<div class="trending-item-outer">
+				<div class="trending-item">
+						<a href="/california/lakeelsinore-wildomar/s/f5jok/beer-pong-shark-attacks-and-mallrats-the-top-17-patch-stories-from-july-2015" title="Beer Pong, Shark Attacks and Mallrats: The Top 17 Patch Stories From July 2015" category="localrecirc" trigger="lr_side_trending">
+						<span class="count">3</span>
+						<span class="text">Beer Pong, Shark Attacks and Mallrats: The Top 17 Patch Stories From July 2015</span>
+						</a>
+				</div><!-- .trending-item -->
+			</div><!-- .trending-item-outer -->
+				<div class="trending-item-outer">
+				<div class="trending-item">
+						<a href="/california/lakeelsinore-wildomar/s/f5k88/watch-cop-smashes-window-to-save-toddler-from-hot-car" title="WATCH: Cop Smashes Window To Save Toddler From Hot Car" category="localrecirc" trigger="lr_side_trending">
+						<span class="count">4</span>
+						<span class="text">WATCH: Cop Smashes Window To Save Toddler From Hot Car</span>
+						</a>
+				</div><!-- .trending-item -->
+			</div><!-- .trending-item-outer -->
+				<div class="trending-item-outer">
+				<div class="trending-item">
+						<a href="/california/lakeelsinore-wildomar/s/f5j24/man-convicted-of-carjacking-woman-who-was-in-labor" title="Man Convicted Of Carjacking Woman Who Was In Labor" category="localrecirc" trigger="lr_side_trending">
+						<span class="count">5</span>
+						<span class="text">Man Convicted Of Carjacking Woman Who Was In Labor</span>
+						</a>
+				</div><!-- .trending-item -->
+			</div><!-- .trending-item-outer -->
+	</div>
+<!-- End Trending Stories -->
+  </section>
+  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-slot-3" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_slot_3' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_slot_3'); });</script></div>
+  </div>
+</div>
+<div id="block-fe-recirc-fe-recirc-sidebar-local" class="block block-fe-recirc">
+
+    
+  <div class="content">
+    <section>
+<header class="block-title">
+    <span class="header">
+        <a href="/california/lakeelsinore-wildomar" title="Lake Elsinore-Wildomar Patch.com" category="localrecirc" trigger="lr_side_local">More Lake Elsinore-Wildomar, CA News</a>    </span>
+</header>
+<div id="local-recirc-gen" class="row page-container">
+    <!-- Article Tiles -->
+    <div class="tile-outer">
+        <div class="article tile micro">
+            <span class="article-title"><a href="/california/lakeelsinore-wildomar/saturday-smiles-horse-rescue-best-college-usa-aloha-ed" title="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" category="localrecirc" trigger="lr_side_local">Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!</a></span>
+            <div class="article-image">
+                <a href="/california/lakeelsinore-wildomar/saturday-smiles-horse-rescue-best-college-usa-aloha-ed" title="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" category="localrecirc" trigger="lr_side_local"><img class="recirc-sidebar-image invisifade" title="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" alt="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" src="" data-src="http://cdn.patch.com/users/21854731/2015/08/T300x300/20150855bd10e204da6.jpg"><noscript><img src="http://cdn.patch.com/users/21854731/2015/08/T300x300/20150855bd10e204da6.jpg" alt="Saturday Smiles: Horse Rescue; Best College in USA; Aloha From Ed!" noscript="sasquatch"/></noscript></a>            </div>
+            <div class="article-body">
+                Need a break from bad news? Here are a few of our favorite uplifting headlines and photos from Southern California Patch sites.            </div>
+	   </div><!-- End Article Tile -->
+    </div><!-- End Tile Outer -->
+    <!-- Article Tiles -->
+    <div class="tile-outer">
+        <div class="article tile micro">
+            <span class="article-title"><a href="/california/lakeelsinore-wildomar/two-hospitalized-early-morning-house-fire" title="Two Hospitalized in Early Morning House Fire" category="localrecirc" trigger="lr_side_local">Two Hospitalized in Early Morning House Fire</a></span>
+            <div class="article-image">
+                <a href="/california/lakeelsinore-wildomar/two-hospitalized-early-morning-house-fire" title="Two Hospitalized in Early Morning House Fire" category="localrecirc" trigger="lr_side_local"><img class="recirc-sidebar-image invisifade" title="Two Hospitalized in Early Morning House Fire" alt="Two Hospitalized in Early Morning House Fire" src="" data-src="http://cdn.patch.com/assets/stock/3015/T300x300/firefighter-with-hose_shutterstock_134048720-(2).jpg"><noscript><img src="http://cdn.patch.com/assets/stock/3015/T300x300/firefighter-with-hose_shutterstock_134048720-(2).jpg" alt="Two Hospitalized in Early Morning House Fire" noscript="sasquatch"/></noscript></a>            </div>
+            <div class="article-body">
+                One person suffered second-degree burns while a firefighter was taken to the hospital with non-life-threatening injury.            </div>
+	   </div><!-- End Article Tile -->
+    </div><!-- End Tile Outer -->
+    <!-- Article Tiles -->
+    <div class="tile-outer">
+        <div class="article tile micro">
+            <span class="article-title"><a href="/california/lakeelsinore-wildomar/felon-suspected-burglarizing-stadium-manufacturing-drugs" title="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" category="localrecirc" trigger="lr_side_local">Felon Suspected of Burglarizing Stadium, Manufacturing Drugs</a></span>
+            <div class="article-image">
+                <a href="/california/lakeelsinore-wildomar/felon-suspected-burglarizing-stadium-manufacturing-drugs" title="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" category="localrecirc" trigger="lr_side_local"><img class="recirc-sidebar-image invisifade" title="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" alt="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" src="" data-src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd352726b64.jpg"><noscript><img src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd352726b64.jpg" alt="Felon Suspected of Burglarizing Stadium, Manufacturing Drugs" noscript="sasquatch"/></noscript></a>            </div>
+            <div class="article-body">
+                Deputies investigating the stadium burglary found a drug lab in the suspect's home.            </div>
+	   </div><!-- End Article Tile -->
+    </div><!-- End Tile Outer -->
+    <!-- Article Tiles -->
+    <div class="tile-outer">
+        <div class="article tile micro">
+            <span class="article-title"><a href="/california/lakeelsinore-wildomar/teen-accused-temecula-burglaries-arraigned" title="Teen Accused in Temecula Burglaries Arraigned" category="localrecirc" trigger="lr_side_local">Teen Accused in Temecula Burglaries Arraigned</a></span>
+            <div class="article-image">
+                <a href="/california/lakeelsinore-wildomar/teen-accused-temecula-burglaries-arraigned" title="Teen Accused in Temecula Burglaries Arraigned" category="localrecirc" trigger="lr_side_local"><img class="recirc-sidebar-image invisifade" title="Teen Accused in Temecula Burglaries Arraigned" alt="Teen Accused in Temecula Burglaries Arraigned" src="" data-src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd331044dda.jpg"><noscript><img src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd331044dda.jpg" alt="Teen Accused in Temecula Burglaries Arraigned" noscript="sasquatch"/></noscript></a>            </div>
+            <div class="article-body">
+                The 18-year-old is accused of a series of break-ins in the Temecula area.            </div>
+	   </div><!-- End Article Tile -->
+    </div><!-- End Tile Outer -->
+    <!-- Article Tiles -->
+    <div class="tile-outer">
+        <div class="article tile micro">
+            <span class="article-title"><a href="/california/lakeelsinore-wildomar/sheriffs-body-cam-policy-backed-aclu" title="Sheriff&#039;s Body Cam Policy Backed by ACLU" category="localrecirc" trigger="lr_side_local">Sheriff's Body Cam Policy Backed by ACLU</a></span>
+            <div class="article-image">
+                <a href="/california/lakeelsinore-wildomar/sheriffs-body-cam-policy-backed-aclu" title="Sheriff&#039;s Body Cam Policy Backed by ACLU" category="localrecirc" trigger="lr_side_local"><img class="recirc-sidebar-image invisifade" title="Sheriff's Body Cam Policy Backed by ACLU" alt="Sheriff's Body Cam Policy Backed by ACLU" src="" data-src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd2f6d6c420.png"><noscript><img src="http://cdn.patch.com/users/231734/2015/08/T300x300/20150855bd2f6d6c420.png" alt="Sheriff's Body Cam Policy Backed by ACLU" noscript="sasquatch"/></noscript></a>            </div>
+            <div class="article-body">
+                The policy bans deputies from immediately viewing the footage following a 'critical incident.'            </div>
+	   </div><!-- End Article Tile -->
+    </div><!-- End Tile Outer -->
+</div>
+</section>  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-slot-4" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_slot_4' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_slot_4'); });</script></div>
+  </div>
+</div>
+<div id="block-client-article-topstories-client-article-topstories-reg" class="block block-client-article-topstories">
+
+    
+  <div class="content">
+    <section>
+<header class="block-title">
+	<span class="header">Top News <span class="em">California</span></span>
+</header>
+<div id="California" class="row page-container">
+<!-- Article Tile -->
+<div class="tile-outer">
+	<article class="article tile micro">
+	  <header>
+      <span class="article-title">
+        <a href="/california/lakeelsinore-wildomar/s/f5pgv/rockyfire-hits-22k-acres-5-contained-more-evacuations-wraggfire-nearly-a-wrap-92-contained" title="#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained" >#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained</a>
+      </span>
+		</header>
+		<div class="article-image">
+	<a href="/california/lakeelsinore-wildomar/s/f5pgv/rockyfire-hits-22k-acres-5-contained-more-evacuations-wraggfire-nearly-a-wrap-92-contained" title="#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained" >
+		<img src="" data-src="http://cdn.patch.com/users/22511888/2015/08/T200x150/20150855bd42253bde9.jpg" class="invisifade" alt="#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained" />
+		<noscript><img src="http://cdn.patch.com/users/22511888/2015/08/T200x150/20150855bd42253bde9.jpg" alt="#RockyFire Hits 22K Acres, 5% Contained, More Evacuations; #WraggFire Nearly A Wrap, 92% Contained" /></noscript>
+	</a>
+</div>
+		<div class="article-body">And from the #FrogFire near Alturas: The death of a U.S. Forest Service firefighter was reported.</div>
+		
+	</article><!-- /.article tile micro -->
+</div><!-- /.tile-outer --><!-- Article Tile -->
+<div class="tile-outer">
+	<article class="article tile micro">
+	  <header>
+      <span class="article-title">
+        <a href="/california/lakeelsinore-wildomar/s/f5oh0/update-gerald-desmond-bridge-in-long-beach-reopens" title="Update: Gerald Desmond Bridge in Long Beach Reopens" >Update: Gerald Desmond Bridge in Long Beach Reopens</a>
+      </span>
+		</header>
+		<div class="article-image">
+	<a href="/california/lakeelsinore-wildomar/s/f5oh0/update-gerald-desmond-bridge-in-long-beach-reopens" title="Update: Gerald Desmond Bridge in Long Beach Reopens" >
+		<img src="" data-src="http://cdn.patch.com/users/21854731/2015/08/T200x150/20150855bcec39a65a1.jpg" class="invisifade" alt="Update: Gerald Desmond Bridge in Long Beach Reopens" />
+		<noscript><img src="http://cdn.patch.com/users/21854731/2015/08/T200x150/20150855bcec39a65a1.jpg" alt="Update: Gerald Desmond Bridge in Long Beach Reopens" /></noscript>
+	</a>
+</div>
+		<div class="article-body">Long Beach Fire Department blames the crashes on a wrong way driver.</div>
+		
+	</article><!-- /.article tile micro -->
+</div><!-- /.tile-outer --><!-- Article Tile -->
+<div class="tile-outer">
+	<article class="article tile micro">
+	  <header>
+      <span class="article-title">
+        <a href="/california/lakeelsinore-wildomar/s/f5pm4/governor-declares-state-of-emergency-in-response-to-wildfires" title="Governor Declares State Of Emergency In Response To Wildfires" >Governor Declares State Of Emergency In Response To Wildfires</a>
+      </span>
+		</header>
+		<div class="article-image">
+	<a href="/california/lakeelsinore-wildomar/s/f5pm4/governor-declares-state-of-emergency-in-response-to-wildfires" title="Governor Declares State Of Emergency In Response To Wildfires" >
+		<img src="" data-src="http://cdn.patch.com/users/22511888/2015/08/T200x150/20150855bd4b823d11c.jpg" class="invisifade" alt="Governor Declares State Of Emergency In Response To Wildfires" />
+		<noscript><img src="http://cdn.patch.com/users/22511888/2015/08/T200x150/20150855bd4b823d11c.jpg" alt="Governor Declares State Of Emergency In Response To Wildfires" /></noscript>
+	</a>
+</div>
+		<div class="article-body">Resources are strained as 8,000 firefighters are battling nearly two dozen fires around the state.</div>
+		
+	</article><!-- /.article tile micro -->
+</div><!-- /.tile-outer --><!-- Article Tile -->
+<div class="tile-outer">
+	<article class="article tile micro">
+	  <header>
+      <span class="article-title">
+        <a href="/california/lakeelsinore-wildomar/s/f5n7o/notorious-chowchilla-kidnapper-to-be-paroled-soon" title="Notorious Chowchilla Kidnapper To Be Paroled Soon" >Notorious Chowchilla Kidnapper To Be Paroled Soon</a>
+      </span>
+		</header>
+		<div class="article-image">
+	<a href="/california/lakeelsinore-wildomar/s/f5n7o/notorious-chowchilla-kidnapper-to-be-paroled-soon" title="Notorious Chowchilla Kidnapper To Be Paroled Soon" >
+		<img src="" data-src="http://cdn.patch.com/users/1372433/stock/T200x150/20150555573e9453688.png" class="invisifade" alt="Notorious Chowchilla Kidnapper To Be Paroled Soon" />
+		<noscript><img src="http://cdn.patch.com/users/1372433/stock/T200x150/20150555573e9453688.png" alt="Notorious Chowchilla Kidnapper To Be Paroled Soon" /></noscript>
+	</a>
+</div>
+		<div class="article-body">James Schoenfeld was one of three who kidnapped the children and the driver, drove them 100 miles to Livermore and hid them to demand ransom</div>
+		
+	</article><!-- /.article tile micro -->
+</div><!-- /.tile-outer --><!-- Article Tile -->
+<div class="tile-outer">
+	<article class="article tile micro">
+	  <header>
+      <span class="article-title">
+        <a href="/california/lakeelsinore-wildomar/s/f5lm2/need-a-job-caltrans-is-hiring" title="Need A Job? Caltrans is Hiring" >Need A Job? Caltrans is Hiring</a>
+      </span>
+		</header>
+		<div class="article-image">
+	<a href="/california/lakeelsinore-wildomar/s/f5lm2/need-a-job-caltrans-is-hiring" title="Need A Job? Caltrans is Hiring" >
+		<img src="" data-src="http://cdn.patch.com/users/22511888/2015/07/T200x150/20150755bb95d4c657c.jpg" class="invisifade" alt="Need A Job? Caltrans is Hiring" />
+		<noscript><img src="http://cdn.patch.com/users/22511888/2015/07/T200x150/20150755bb95d4c657c.jpg" alt="Need A Job? Caltrans is Hiring" /></noscript>
+	</a>
+</div>
+		<div class="article-body">Most are permanent, full-time positions, with openings throughout the state. See the list!</div>
+		
+	</article><!-- /.article tile micro -->
+</div><!-- /.tile-outer --></div>
+<!-- End California Article Sidebar Stories -->
+</section>  </div>
+</div>
+<div id="block-client-ads-dfp-client-ad-dfp-slot-5" class="block block-client-ads-dfp">
+
+    
+  <div class="content">
+    <div id='client_ad_dfp_slot_5' class="client-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('client_ad_dfp_slot_5'); });</script></div>
+  </div>
+</div>
+  </div>
+            </aside> <!-- /#sidebar -->
+                  </div>
+        <!-- /.content-wrapper -->
+      </div>
+      <!-- /.content-main-container-border -->
+      <div id="footer">
+          <div class="region region-footer">
+    <div id="block-client-footer-client-footer" class="block block-client-footer">
+
+    
+  <div class="content">
+    <div class="footer-container">
+  <div class="footer-primary-container container">
+    <!-- Topics -->      <nav class="footer-topic-container-inner">
+      <header class="block-title">
+        <span class="header">Topics</span>
+      </header>
+      <ul class="menu dropdown-menu-inner-topics dropdown-menu-inner">
+          <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/arts-entertainment" title="Arts & Entertainment">
+      <span  class="taxonomy taxonomy-category"></span> Arts & Entertainment    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/bulletinboard" title="Bulletin Board">
+      <span  class="taxonomy taxonomy-category"></span> Bulletin Board    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/business" title="Business">
+      <span  class="taxonomy taxonomy-category"></span> Business    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/around-town" title="Community Corner">
+      <span  class="taxonomy taxonomy-category"></span> Community Corner    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/lifestyle" title="Health & Fitness">
+      <span  class="taxonomy taxonomy-category"></span> Health & Fitness    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/jobs" title="Jobs">
+      <span  class="taxonomy taxonomy-category"></span> Jobs    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/kids-family" title="Kids & Family ">
+      <span  class="taxonomy taxonomy-category"></span> Kids & Family     </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/classifieds" title="Local Deals & Classifieds">
+      <span  class="taxonomy taxonomy-category"></span> Local Deals & Classifieds    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/obituaries" title="Obituaries">
+      <span  class="taxonomy taxonomy-category"></span> Obituaries    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/going-green" title="Outdoors">
+      <span  class="taxonomy taxonomy-category"></span> Outdoors    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/police-fire" title="Police & Fire">
+      <span  class="taxonomy taxonomy-category"></span> Police & Fire    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/politics" title="Politics & Government">
+      <span  class="taxonomy taxonomy-category"></span> Politics & Government    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/real-estate" title="Real Estate">
+      <span  class="taxonomy taxonomy-category"></span> Real Estate    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/schools" title="Schools">
+      <span  class="taxonomy taxonomy-category"></span> Schools    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/holidays" title="Seasonal & Holidays">
+      <span  class="taxonomy taxonomy-category"></span> Seasonal & Holidays    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/small-business-voices" title="Small Business Voices">
+      <span  class="taxonomy taxonomy-category"></span> Small Business Voices    </a>
+  </li>
+  <li class="col-topic">
+    <a href="/california/lakeelsinore-wildomar/sports" title="Sports">
+      <span  class="taxonomy taxonomy-category"></span> Sports    </a>
+  </li>
+      </ul>
+      </nav>    <nav id="footer-stay-connected" class="footer-primary-container-inner">
+      <ul class="footer-social">          <li>
+            <a href="mailto:LakeElsinore-Wildomar@Patch.com" class="link-social"
+               title="Contact Lake Elsinore-Wildomar Patch At LakeElsinore-Wildomar@Patch.com">
+              <span class="patch-icon icon-patch-mail"></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://facebook.com/pages/Lake-Elsinore-Wildomar-Patch/163685173660517"
+               class="link-social" rel="nofollow" target="_blank"
+               title="Like Lake Elsinore-Wildomar Patch On Facebook"><span
+                class="patch-icon icon-patch-facebook"></span></a>
+          </li>
+          <li>
+          <a href="https://twitter.com/LkElsinorePatch"
+             class="link-social" rel="nofollow" target="_blank"
+             title="Follow Lake Elsinore-Wildomar Patch On Twitter"><span
+              class="patch-icon icon-patch-twitter"></span></a>
+          </li>      </ul>
+    </nav>
+    <section class="footer-primary-container-inner">
+      <div class="col-footer col-brand">
+        <a class="footer-logo patch-icon icon-patch-patch"
+           href="http://patch.com"><span></span></a>
+      </div>
+      <nav class="col-footer col-corporate">
+        <span class="header">Corporate Info</span>
+        <ul class="menu">
+          <li><a href="http://corp.patch.com/about" title="About Patch">About
+              Patch</a></li>
+          <li><a href="http://corp.patch.com/careers-volunteering"
+                 title="Careers &amp; Volunteering">Careers &amp;
+              Volunteering</a></li>
+        </ul>
+      </nav>
+      <nav class="col-footer col-partnerships">
+        <span class="header">Partnerships</span>
+        <ul class="menu">
+          <li><a href="http://patch.com/advertise-with-us" title="Advertise With Patch">Advertise</a></li>
+          <li><a
+              href="https://patch.zendesk.com/hc/en-us/sections/200008123-Business-Directory"
+              title="Patch for Businesses">Patch for Businesses</a></li>
+          <li><a href="http://corp.patch.com/what-people-are-saying"
+                 title="What People Are Saying">What People Are Saying</a></li>
+        </ul>
+      </nav>
+      <nav class="col-footer col-support">
+        <span class="header">Support</span>
+        <ul class="menu">
+          <li><a
+              href="https://patch.zendesk.com/hc/en-us/categories/200003713-Frequently-Asked-Questions-and-How-To-s"
+              title="Frequently Asked Questions and How-To's">FAQs</a></li>
+          <li><a href="http://corp.patch.com/contact-us" title="Contact Us">Contact
+              Us</a></li>
+          <li><a href="http://cdn.patch.com/assets/sales/Patch%20Ad%20Specs.pdf"
+                 title="About Our Advertisements" rel="nofollow"
+                 target="_blank">About our Ads</a></li>
+        </ul>
+      </nav>
+    </section>
+  </div>
+  <!-- /.footer-primary-container -->
+  <div class="footer-secondary-container container">
+    <div class="footer-secondary-container-inner">
+      <div class="row footer-copyright text-center">
+        <div class="col-xs-12">
+          <section>
+            <span class="header visible-xs">Copyright</span>
+            <span class="footer-text">©&nbsp;2015&nbsp;Patch&nbsp;Media.&nbsp;All&nbsp;Rights&nbsp;Reserved.</span>
+            <nav>
+              <ul class="menu">
+                <li><a href="http://aol.com/" rel="nofollow" target="_blank"
+                       title="Patch Network"><strong>Patch&nbsp;Network</strong></a>
+                </li>
+                <li><a href="http://corp.patch.com/terms" title="Terms of Use">Terms&nbsp;of&nbsp;Use</a>
+                </li>
+                <li><a href="http://corp.patch.com/privacy" title="Privacy Policy">Privacy&nbsp;Policy</a>
+                </li>
+              </ul>
+            </nav>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div><!-- /.footer-secondary-container -->
+</div><!-- /.footer-container -->
+  </div>
+</div>
+<div id="block-client-ops-alexa-client-ops-alexa" class="block block-client-ops-alexa">
+
+    
+  <div class="content">
+    <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct:"qKjWj1a0Sn00GK", domain:"patch.com",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  </div>
+</div>
+<div id="block-client-ops-chartbeat-client-ops-chartbeat" class="block block-client-ops-chartbeat">
+
+    
+  <div class="content">
+    <script type="text/javascript">
+    var _sf_async_config = {"uid":"12406","domain":"patch.com","sections":"california,lakeelsinore-wildomar,Patch 3.1","authors":"schools"};
+    var _sf_endpt=( new Date() ).getTime();
+</script>
+<script type="text/javascript" async src="http://static.chartbeat.com/js/chartbeat.js"></script>  </div>
+</div>
+<div id="block-client-ops-moat-client-ops-moat" class="block block-client-ops-moat">
+
+    
+  <div class="content">
+    <script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/patch618YXln33/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+  </div>
+</div>
+<div id="block-fe-gravity-fe-gravity-beacon" class="block block-fe-gravity">
+
+    
+  <div class="content">
+    <div></div>  </div>
+</div>
+  </div>
+      </div>
+      <!-- /#footer -->
+    </div>
+    <!-- .page-content -->
+  </div>
+</div>
+<script type="text/javascript" src="http://patch.com/sites/default/files/js/js_GY-Yhid-qaVsHteqrMEegVZ8qgerOpTLazka0KdSXyo.js"></script>
+<script type="text/javascript" src="http://patch.com/sites/default/files/js/js_oxO6gq2bmZ1eLrrnefXt8uDCyb6SuUAgEog-1BuJUQQ.js"></script>
+  <!-- Disqus scripts to get comment counts in all article pages -->
+  <script type="text/javascript">
+    var disqus_shortname = 'patchmedia';
+  </script>
+  <script type="text/javascript" src="http://patchmedia.disqus.com/count.js" async></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"27106e794d","applicationID":"7530982","transactionName":"MQNVZUdSWhJZUE0NWQhJdERGR1sMF1VcO1UJC1peW2xHBEpFUAdTORRSQEBWRxUXUkkNGQcUQ1hWX1FMTFxJF0IJFF5URg==","queueTime":0,"applicationTime":103,"ttGuid":"","agentToken":"","atts":"HURWEw9ISRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

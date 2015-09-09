@@ -1,0 +1,4302 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 modePublish"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 modePublish"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 modePublish"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js modePublish"><!--<![endif]-->
+
+
+
+
+  <head>
+    
+    
+    <!-- Begin comScore Tag -->
+    <script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"18406752"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();</script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=18406752&cv=2.0&cj=1" pagespeed_url_hash="2509096413"/>
+    </noscript>
+    <!-- End comScore Tag -->
+    
+    
+    <script>if(window.location.search.indexOf("print")>-1){if(document.referrer.indexOf("http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html")!=0){window.location="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html";}}</script>
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4OUFNbGwEGU1dUAwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <script type="text/javascript">var slate_public_url="http://www.slate.com/";window._sf_startpt=(new Date()).getTime();</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Key and Peele sportscenter teacher parody: New sketch imagines teachers as athletes (VIDEO).</title>
+    <meta name="description" content="By now, the lament for the way in which our culture privileges athletics over education is an old, common sentiment&mdash;but&nbsp;Key &amp; Peele&nbsp;has breathed new life into the apt observation in their latest sketch, &ldquo;TeachersCenter.&rdquo; A spot-on parody of SportsCenter&rsquo;s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the..."/>
+    <meta name="keywords" content="key and peele teacherscenter, key and peele sportscenter parody, key and peele sportscenter teacher parody, key and peele teachers sports center parody"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    
+    
+
+    
+    
+    
+    <script>var commercialNode='blogs/browbeat';var commercialPageType='article';var selectedText="";</script>
+    <!-- Facebook OG -->
+    <meta id="ogtitle" property="og:title" content="Key &amp; Peele Imagines What It&rsquo;d Be Like if We Obsessed Over Teachers the Way We Do Athletes"/>
+    
+
+    <meta property="article:publisher" content="http://www.facebook.com/Slate"/>
+
+    
+
+    <meta property="og:type" content="article"/>
+    <meta id="ogurl" property="og:url" content="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"/>
+    <meta id="ogimage" property="og:image" content="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png"/>
+    <meta property="og:site_name" content="Slate Magazine"/>
+    <meta id="ogdescription" property="og:description" content="By now, the lament for the way in which our culture privileges athletics over education is an old, common sentiment&mdash;but&nbsp;Key &amp; Peele&nbsp;has breathed new life into the apt observation in their latest sketch, &ldquo;TeachersCenter.&rdquo; A spot-on parody of SportsCenter&rsquo;s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the..."/>
+    <meta property="fb:app_id" content="142011022527753"/>
+    <!-- Twitter -->
+    <meta name="twitter:card" value="summary"/>
+    <meta name="twitter:site" value="@slate"/>
+    
+    <meta name="twitter:creator" value="@craftingmystyle"/>
+    
+    <meta name="twitter:url" value="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"/>
+    <meta name="twitter:title" value="&lt;em&gt;Key &amp;amp; Peele &lt;/em&gt;Imagines What It&rsquo;d Be Like if We Obsessed Over Teachers the Way We Do Athletes"/>
+    <meta name="twitter:description" value="By now, the lament for the way in which our culture privileges athletics over education is an old, common sentiment&mdash;but&nbsp;Key &amp; Peele&nbsp;has breathed new life into the apt observation in their latest sketch, &ldquo;TeachersCenter.&rdquo; A spot-on parody of SportsCenter&rsquo;s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the..."/>
+    <meta name="twitter:image" value="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png"/>
+    
+    <meta name="tw-line" content="Key &amp; Peele imagines what it'd be like if we treated teachers like athletes:"/>
+
+      
+    <meta name="fb-share" content="The fake ads may be the best part."/>
+
+    
+    <link type="text/css" href="http://static.cdnslate.com/etc/designs/slate/css/story.f22782e1.css" rel="stylesheet"/>
+    
+    
+    
+    <script id="slate-webfont-localstorage-js">!function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="http://static.cdnslate.com/etc/designs/slate/css/slate-fonts.3d7d8557.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(document,"DOMContentLoaded",n)}();</script>
+    <noscript id="slate-font"><link rel="stylesheet" id="slate-font-css" href="http://static.cdnslate.com/etc/designs/slate/css/slate-fonts.3d7d8557.css" type="text/css" media="all"></noscript>
+    
+    
+    <script data-ad-site="slate" src="http://static.cdnslate.com/etc/designs/slate/js/libs/require.js"></script>
+    <script>requirejs.config({"baseUrl":"http://static.cdnslate.com/etc/designs/slate/js","waitSeconds":0,"paths":{"jquery":"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min","jqueryui":"//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min","modernizr":"/etc/designs/slate/js/libs/modernizr-2.6.1.min","announcements":"/etc/designs/slate/js/announcements","slate":"/etc/designs/slate/lib","hogan":"libs/hogan-2.0.0","facebook":"//connect.facebook.net/en_US/all","livefyre":"//cdn.livefyre.com/Livefyre","brightcove":"http://admin.brightcove.com/js/BrightcoveExperiences","brightcovetracking":"/etc/designs/slate/js/brightcovetracking","mobileredirection":"libs/redirection_mobile_1.0.0.min","optimizely":"//cdn.optimizely.com/js/37441550","outbrain":"//widgets.outbrain.com/outbrain","shared":"http://static.cdnslate.com/etc/designs/shared/js","instafeed":"/etc/designs/slate/js/instafeed","campaigns":"http://campaigns.slate.com/campaigns/slate","clipboard":"libs/zeroclipboard/ZeroClipboard.min","tinypass":"https://cdn.tinypass.com/api/tinypass.min","rpxnow":window.location.protocol==='https:'?'https://rpxnow.com/load/login.slate.com?noext':'http://widget-cdn.rpxnow.com/load/login.slate.com?noext','promise':'requirejs-promise','youtube':"/etc/designs/slate/js/youtube",'youtubeapi':"https://www.youtube.com/iframe_api?noext"},"shim":{"shared/devicemode":["modernizr"],"hcs/script":["jquery","modernizr","shared/devicemode"],"libs/jquery-plugins/jquery.browser":["jquery"],"hcs/plugins/jquery.transit":["jquery"],"hcs/plugins/SGFootnote.jquery":["jquery"],"hcs/plugins/SGSocialIcons.jquery":["jquery","hcs/script"],"hcs/plugins/SGNavDropdown.jquery":["jquery"],"hcs/plugins/SGComments.jquery":["jquery","hcs/script"],"hcs/plugins/SGRollup.jquery":["jquery","hcs/script"],"hcs/plugins/SGGlobalNav.jquery":["jquery","hcs/script"],"hcs/plugins/SGLightbox.jquery":["jquery"],"hcs/plugins/jQuery.highlighter":["jquery"],"hcs/libs/swipe":["jquery"],"hcs/libs/magnific":["jquery"],"hcs/plugins/jquery.swipebox":["jquery"],"hcs/plugins/SGBigSlider.jquery":["jquery","hcs/script","hcs/libs/swipe"],"hcs/plugins/jquery.placeholder.min":["jquery"],"libs/jquery-plugins/jquery.timeago":["jquery"],"libs/jquery-plugins/jquery.form":["jquery"],"libs/jquery-plugins/jquery.cookie":["jquery"],"libs/jquery-plugins/jquery.fittext":["jquery"],"libs/jquery-plugins/jquery.backgroundSize":["jquery"],"libs/jquery-plugins/jquery.flexslider":["jquery"],"libs/jquery-plugins/purl":["jquery"],"libs/jquery-plugins/jquery.colorbox":["jquery"],"libs/jquery-plugins/jquery.sticky":["jquery"],"libs/jquery-plugins/jquery.autoComplete":["jquery"],"libs/jquery-plugins/jquery.boxfit":["jquery"],"libs/jquery-plugins/jquery.dateformat":["jquery"],"libs/jquery-plugins/jquery.lazyloadxt":["jquery"],"libs/jquery-plugins/jquery.lazyloadxt.extra":["jquery"],"libs/jquery-plugins/jquery.lazyloadxt.bg":["jquery"],"libs/jquery-plugins/jquery.lazyloadxt.widget":["jquery"],"libs/jquery-plugins/jquery.storageapi":["jquery"],"libs/jquery-plugins/jquery.visible":["jquery"],"libs/jquery-plugins/jquery.event.move":["jquery"],"libs/jquery-plugins/jquery.twentytwenty":["jquery"],"optimizely":["jquery"],"facebook":{deps:["site-bottom"],exports:"FB"},"livefyre":{exports:"fyre"},"brightcove":{"exports":"brightcove"},"mobileredirection":{"exports":"mobileredirection"},"hogan":{"exports":"Hogan"},"outbrain":{"exports":"OBR"}},map:{'*':{'css':'libs/require-css/css'}}});define("config",{"env":{"edit":false,"environment":"prod"},"janrain":{"siteConfig":{"enabled":true,"propertyId":"login.slate.com","raceConditionTimeout":+"500".replace(/\D/gi,''),"jsNamespace":"slateJanrain","userMessage":""},"appUrl":"https://login.slate.com","tokenUrl":"http://www.slate.com","capture":{"appId":"dbuhzej2qm7k436x6jg4qpef3f","captureServer":"https://profile.slate.com","clientId":"sskdd3tv7ekxx8mt6gq5hnu7mdxpmpha","accessTokenLifeHours":+"730".replace(/\D/gi,''),"stylesheets":"//slate-static-prod.s3.amazonaws.com/etc/designs/slate/css/janrain.css".split(",").map(function(item){return item.trim();}),"returnExperienceUserData":"uuid,displayName,email".split(",").map(function(item){return item.trim();}),"flowVersion":"HEAD"}},"myslate":{"site_base_domain":"slate.com","site_path":"/","site_url":"//www.slate.com/","myslate_domain":"//my.slate.com/","myslateTokenPath":"proxies/livefyre/token/","myslateJanrainTokenPath":"proxies/janrain/token/","myslateVerifyPath":"proxies/janrain/verify/","myslateSubscriptionsManagePath":"subscriptions/manage/","myslate_https":true,"fb_xd_receiver":"http://www.slate.com/xd_receiver.htm","fb_app_id":142011022527753,},"livefyre":{"network":"slate.fyre.co","jsSourceUrl":"http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js","siteId":"337720","loadTiming":"immediate"},"campaigns":{"domain":"campaigns.slate.com"},"site":{"site":"slate","title":"Slate","staticUrl":"http://static.cdnslate.com","omniturePrefix":"sl"},"data_domain":"http://www.slate.com/","page":{"articleId":"205150728007","roadblocked":false,"embeddedContent":false,"slateplus":false,"enableIssueCollector":false},"ads":{"enableHomepageViewability":false,"enableStoryViewability":true,"viewabilityEnabled":true,"viewability":{"leaderboardRollup":true,"leaderboardRollupDisabledList":"","refreshInterval":"30","refreshPolar":false,"testPageList":"news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts,news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts","lazyload":{"homepageBB":true,"leaderboard_2":true,"tiffTiles":true,"rightflex":true}}},"tinypass":{"jsNamespace":"slateTinypass","enabled":true,"globalTrackPageview":true,"aid":"Ey9jlGV74T","rid":"PW_54887721","paywallId":"54887721","sandbox":false,"contentCreated":"2015-07-28T15:56:00","contentAuthor":["Aisha Harris"],"contentSection":"Arts","janrainAppName":"the-slate-group-prod.us","ribbonText":"","templates":{"offerId":"OFRO847YFZZ2","defaultOffer":"OT6TPCSI94W5","reminder":"OTN6JFAPXOAR","curtain":"OTM6Z4P8U1OE","template4of5":"OT8HXCA1TCPX","template5of5":"OT0V1T3EU4ZQ","faq":"OT8KJPE8Z2CA"},"internationalOffers":{"CA":{"offerId":"OFNFOLDOUBN1","defaultOffer":"OTFKE6VMUTRA","reminder":"OTU0BN1RZA59","curtain":"OT522QEFSKBU","template4of5":"OTQU7V4J5Q1T","template5of5":"OTKAIYO11WCR","faq":"OTSLZE94Q7NN"},"GB":{"offerId":"OF5X80KUVFDM","defaultOffer":"OT5GZFNKVV0D","reminder":"OTDIACLP1GJX","curtain":"OT0NLDL4GAER","template4of5":"OT4QBVKACCOA","template5of5":"OTGBVZ3P6CZ1","faq":"OTVZPJFCMPKK"},"Europe":{"offerId":"OF9H1SAODWS3","defaultOffer":"OT425B0PIB6C","reminder":"OT6BUP2JE3WW","curtain":"OTPJJ9ZUK744","template4of5":"OT4TEJCCMP4K","template5of5":"OT2GTODIR962","faq":"OT58VOY6CJFC"},"AU":{"offerId":"OF130IZX2JU6","defaultOffer":"OTJXP44SQVU8","reminder":"OT68H8QOVXWC","curtain":"OTGKO7WOSR97","template4of5":"OT0UEZXM0KFO","template5of5":"OTDW9GU7L9UW","faq":"OT7SRU05FQPZ"}}},"_log":[],"log":function(data){requirejs(["config"],function(config){if(typeof console!="undefined"&&typeof console.log!="undefined"){console.log(data);}
+config._log.push(data);});}});requirejs(['config'],function(config){var documentDomain='slate.com';if(config.janrain.siteConfig.enabled){documentDomain=config.myslate.site_base_domain;}
+document.domain=documentDomain;});var homepagePolarSpot='b1';</script>
+    
+    <script src="http://static.cdnslate.com/etc/designs/slate/js/main.min.800be276.js"></script>
+    
+
+
+<script type="text/javascript" language="javascript">requirejs(["jquery","s_code","libs/jquery-plugins/jquery.cookie"],function($,s,unused){s.currencyCode="usd";s.charSet="utf-8";s.trackDownloadLinks=true;s.trackExternalLinks=true;s.trackInlineStats=true;s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";s.linkInternalFilters="javascript:,slate.com,traffic.outbrain.com";s.linkTrackVars="none";s.linkTrackEvents="none";s.pageName="arts:blog:brow beat - 20150728 - key and peele sportscenter teacher parody: new sketch imagines teachers as athletes (video).";s.channel="sl - arts";s.server="www.slate.com";s.prop2="blog";s.prop3="blog";s.prop4="slate";s.prop5="aisha harris";s.prop12="205150728007";s.prop13="key and peele sportscenter teacher parody: new sketch imagines teachers as athletes (video).";s.prop14="1";s.prop25="brow beat";s.prop34="3.74.4";s.prop36="general";s.prop39="blogs/browbeat";s.hier1="arts|blog|blog";s.eVar8="aisha harris";s.eVar11="brow beat";s.eVar17="blog";s.prop32=$.cookie('spf')||'false';if(typeof placeAd2==='undefined'){$.cookie('spf','true',{expires:365,path:'/'});}
+s.t();});</script>
+
+
+    <script>var _isNavMoving=false;</script>
+
+    <!-- Google Sitemap -->
+    <meta name="google-site-verification" content="jXqoqqPSmx_PWchRdG-IXu-X616Ee2Ptf_AiElI9LzQ"/>
+    <link rel="canonical" href="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"/>
+    <link rel="image_src" href="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png.CROP.thumbnail-small.png"/>
+
+    <!-- Parsely -->
+        <meta name='parsely-page' content='{
+  "title": "Key & Peele Imagines What It\u2019d Be Like if We Obsessed Over Teachers the Way We Do Athletes",
+  "link": "http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html",
+  "image_url": "http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png.CROP.thumbnail-small.png",
+  "type": "post",
+  "post_id": "205150728007",
+  "pub_date": "2015-07-28T15:56:00Z",
+  "section": "Arts",
+  "author": "Aisha Harris",
+  "tags": []
+}'/>
+    
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="Brow Beat (RSS 2.0)" href="http://www.slate.com/blogs/browbeat.fulltext.all.rss"/>
+
+    
+    <script>var wp_meta_data={"authors":["Aisha Harris"],"contentType":"blog","page_id":"205150728007","keywords":"key and peele teacherscenter, key and peele sportscenter parody, key and peele sportscenter teacher parody, key and peele teachers sports center parody","section":"Arts","rubric":"Blog"};</script>
+
+    
+    <![if gte IE 8]>
+    <script type="text/javascript">requirejs(['jquery'],function($){var SlateNextbox={};SlateNextbox.data={'headline':'How Four Very Different Directors Left Their Mark on the <em>Mission: Impossible<\/em> Franchise','subhead':'','url':'http:\/\/www.slate.com\/blogs\/browbeat\/2015\/08\/01\/impossible_mission_force_video_essay_sean_witzke_and_grantland_give_a_magisterial.html','article_id':'205150801002','hasImage':true,'image':'http:\/\/www.slate.com\/content\/dam\/slate\/blogs\/browbeat\/2015\/07\/07\/the_hair_and_makeup_team_behind_key_and_peele_on_substitute_teacher_east\/cruise7.jpg.CROP.rectangle-small.jpg','section':'Brow Beat','subscribe_type':'rubric'};$.data(window,"SlateNextbox",SlateNextbox);});</script>
+    <![endif]>
+    
+
+    
+
+      
+        <!-- sailthru meta -->
+        <meta name="sailthru.tags" content="key and peele teacherscenter, key and peele sportscenter parody, key and peele sportscenter teacher parody, key and peele teachers sports center parody"/>
+        <meta name="sailthru.author" content="Aisha Harris"/>
+        <meta name="sailthru.date" content="2015-07-28T15:56:00Z"/>
+        <meta name="sailthru.description" content="By now, the lament for the way in which our culture privileges athletics over education is an old, common sentiment&mdash;but&nbsp;Key &amp; Peele&nbsp;has breathed new life into the apt observation in their latest sketch, &ldquo;TeachersCenter.&rdquo; A spot-on parody of SportsCenter&rsquo;s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the..."/>
+        <meta name="sailthru.image.full" content="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png"/>
+
+        <meta name="sailthru.headline" content="Key &amp; Peele Imagines What It&rsquo;d Be Like if We Obsessed Over Teachers the Way We Do Athletes"/>
+        <meta name="sailthru.subheadline" content=""/>
+        <meta name="sailthru.promoheadline" content="Key &amp; Peele Imagines What It&rsquo;d Be Like if We Obsessed Over Teachers the Way We Do Athletes"/>
+        
+    
+      <script type="text/javascript">var teadsEnabled=true;requirejs(["jquery","myslate"],function($,myslate){if(myslate.isSlatePlusUser){teadsEnabled=false;}});</script>
+    
+      
+        <script type="application/ld+json">
+        {"@context":"http://schema.org","url":"http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html","@type":"Article","mainEntityOfPage":"True","articleBody":"By now, the lament about how our culture privileges athletics over education is an old one\u2014but Key & Peele has breathed new life into it in their latest sketch, \u201cTeachersCenter.\u201d A spot-on parody of SportsCenter\u2019s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the clip cleverly reimagines athletes as the educators we entrust our children to every day. Unsurprisingly, it\u2019s a biting critique that says a lot about the economic and symbolic power we assign to an industry in which men are considered exceptional for throwing a ball. But the best part of \u201cTeachersCenter\u201d might just be the incredible ads dropped in throughout\u2014being a teacher has never looked so sexy. Also in Slate: \u201cKey & Peele Is the One Show That Knows How to Make America\u2019s Strained Race Relations Funny\u201d \u201cMeet the Hair and Makeup Team Behind Key & Peele\u2019s Scene-Stealing, Wacky Looks\u201d \u201cKey & Peele\u2019s Latest Season Has a Feminist Bent\u201d \u201cJohn Oliver Takes on the Raw Deal for Players That\u2019s at the Heart of March Madness\u201d \u201cWhy Are Some Teachers Being Evaluated Using the Test Scores of Kids They Didn\u2019t Teach?\u201d","headline":"Key & Peele Imagines What It\u2019d Be Like if We Obsessed Over Teachers the Way We Do Athletes","datePublished":"2015-07-28T15:56:00-04:00","author":"Aisha Harris","image":{"@list":["http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png.CROP.promo-mediumlarge.png"]}}
+        </script>
+      
+
+
+
+
+  </head>
+
+
+  <body class="article story">
+    <script type="text/javascript">requirejs(["jquery","libs/jquery-plugins/jquery.cookie"],function($,unused1){var twitterReferral=document.referrer.indexOf("t.co/")>-1;var facebookReferral=document.referrer.indexOf("facebook.com/")>-1;var socialCookie=$.cookie('slate-social-referral');if(twitterReferral||facebookReferral||socialCookie){var hideSocialBanner=$.cookie('slate-social-referral-noshow');if(hideSocialBanner===undefined){hideSocialBanner="";}
+var referrerHost=socialCookie;if(twitterReferral||facebookReferral){referrerHost=twitterReferral?"twitter":"facebook";}
+if(hideSocialBanner.indexOf(referrerHost)==-1){$('#notification-'+referrerHost).show();$('.notification .close').click(function(){$.cookie('slate-social-referral-noshow',hideSocialBanner+"-"+referrerHost,{expires:30,path:'/'});});if(!socialCookie){$.cookie('slate-social-referral',referrerHost,{path:'/'});}}}});</script>
+
+    <header class="notification" style="display:none;" id="notification-facebook">
+    Like us on Facebook for more great Slate stories!
+    <div class="social">
+        <div class="fb-like" data-href="https://www.facebook.com/Slate" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+    </div>
+    <a href="#" class="close">X</a>
+    </header>
+
+    <header class="notification" style="display:none;" id="notification-twitter">
+    Follow us on Twitter for more great Slate stories!
+    <div class="social">
+    <a href="https://twitter.com/slate" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @slate</a>
+    </div>
+    <a href="#" class="close">X</a>
+    </header>
+
+
+
+    <input type="hidden" id="currPath" value="/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as"/>
+    <!-- HCS: shared/roll_ups/tablet -->
+    <!-- This is the header bar we always show in tablet mode -->
+    <header class="roll-up" id="tablet_header">
+      <div class="container">
+        <div class="main">
+
+        </div>
+        <div class="sidebar">
+          
+
+
+
+
+
+
+
+<section class="nav-panel">
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link "></a>
+    <a href="#" class="search-link "></a>
+    <a href="#" class="global-nav-handle "></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+        </div>
+      </div><!-- /.container -->
+    </header><!-- /.header.roll-up -->
+    <!-- HCS END: shared/roll_ups/tablet -->
+    
+    <div class="top">
+
+      
+      
+<div id="slug_t" class="tAd ad " data-ad-type="t" data-ad-mode="mobile"></div>
+
+      
+      
+        
+          <div class="ad banner leaderboard" data-ad-type="leaderboard" data-ad-mode="large"></div>
+        
+        
+      
+      
+<div id="slug_pushdown" class="banner ad " data-ad-type="pushdown" data-ad-mode="large"></div>
+
+
+    </div><!-- end #top -->
+    
+    <!-- HCS END: layouts/shared/top -->
+    
+    
+    
+
+
+<!-- this is the rollup for basic article, no multipart fun -->
+<header class="roll-up with-dropdown" id="article_rollup">
+  <div class="container">
+    
+    <div class="main">
+      
+        
+        
+        
+        
+          <div class="titles centered-titles">
+            <h1 class="primary centered-primary"><em>Key &amp; Peele </em>Imagines What It’d Be Like if We Obsessed Over Teachers the Way We Do Athletes</h1>
+          </div>
+        
+      
+      
+
+
+<div class="social social-with-popup sharing-buttons">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now,+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old,+common+sentiment&mdash;but&nbsp;Key+&amp;+Peele&nbsp;has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch,+&ldquo;TeachersCenter.&rdquo;+A+spot-on+parody+of+SportsCenter&rsquo;s+hyperbole-laden+talking+heads,+busy+CGI+ticker+screens,+and+obsessive+play-by-plays,+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html&u=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_fb_ru" class="facebook first">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>    
+    
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Key+%26+Peele+imagines+what+it%27d+be+like+if+we+treated+teachers+like+athletes%3A&count=none&via=BrowBeat&url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_tw_ru" class="twitter">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+    </div>
+
+    
+      <a href="#comments" class="comments">
+        <span class="icon"></span>           
+      </a>        
+    
+
+     <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AKey%20%26%20Peele%20Imagines%20What%20It%E2%80%99d%20Be%20Like%20if%20We%20Obsessed%20Over%20Teachers%20the%20Way%20We%20Do%20Athletes%0Ahttp://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_em_ru" class="email">
+        <span class="icon"></span>         
+      </a>        
+</div>
+
+
+    </div>
+    <div class="sidebar">
+      
+
+
+
+
+
+
+
+<section class="nav-panel">
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link "></a>
+    <a href="#" class="search-link "></a>
+    <a href="#" class="global-nav-handle "></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+    </div>
+  </div><!-- /.container -->
+  <a href="#" class="mobile-social-toggle"><span></span></a> <!-- only shown in mobile -->
+</header><!-- /.header.roll-up -->
+
+
+
+
+
+    <div class="page">
+      
+      <article class="main">
+        
+        <div class="parsys contentWellTop iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys contentWellTop iparsys">
+</div>
+</div>
+</div>
+
+        
+
+    <header class="article-header" id="article_header">
+      <div class="meta has-image">
+        <div class="prop-name print-only"><a href="http://www.slate.com">Slate</a></div><div class="prop-name"><a href="http://www.slate.com/blogs/browbeat.html">Brow Beat</a></div><div class="prop-image"><a href="http://www.slate.com/blogs/browbeat.html"><script pagespeed_no_defer="">//<![CDATA[
+(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html','SLoDkQnME-',true,false,'cnnJ4jNQhc8');
+//]]></script><img src="/blogs/browbeat/jcr:content/logo.gif" alt="Brow Beat" pagespeed_url_hash="1403778895" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div><div class="prop-desc">Slate's Culture Blog</div><div class="pub-date">July 28 2015 3:56 PM</div>
+      </div>
+      <h1 class="hed"><em>Key &amp; Peele</em> Imagines What It’d Be Like if We Obsessed Over Teachers the Way We Do Athletes</h1>
+      
+
+
+ <div class="social social-with-popup sharing-buttons" id="header_social">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now,+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old,+common+sentiment&mdash;but&nbsp;Key+&amp;+Peele&nbsp;has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch,+&ldquo;TeachersCenter.&rdquo;+A+spot-on+parody+of+SportsCenter&rsquo;s+hyperbole-laden+talking+heads,+busy+CGI+ticker+screens,+and+obsessive+play-by-plays,+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_fb_top" class="facebook">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Key+%26+Peele+imagines+what+it%27d+be+like+if+we+treated+teachers+like+athletes%3A&count=none&via=BrowBeat&url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_tw_top" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"><span class="count"></span></a>
+    </div>
+    
+      <a href="#comments" class="comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    
+ </div>
+
+
+      <h2 class="dek"></h2>
+      
+      <div class="byline" id="main_byline">
+      
+        By <a href="http://www.slate.com/authors.aisha_harris.html">Aisha Harris</a>
+      
+      </div>
+      
+      
+
+
+
+
+
+  
+  
+  
+
+
+<div class="social horiz-counts-mobile centered sharing-buttons">
+  
+    <div class="comments">
+      <a class="mobile-comments" href="#comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    </div>
+  
+  <div class="facebook">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now,+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old,+common+sentiment&mdash;but&nbsp;Key+&amp;+Peele&nbsp;has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch,+&ldquo;TeachersCenter.&rdquo;+A+spot-on+parody+of+SportsCenter&rsquo;s+hyperbole-laden+talking+heads,+busy+CGI+ticker+screens,+and+obsessive+play-by-plays,+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html&u=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_fb_top" class="share facebook" target="_blank">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+  </div>
+  <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Key+%26+Peele+imagines+what+it%27d+be+like+if+we+treated+teachers+like+athletes%3A&count=none&via=BrowBeat&url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_tw_top" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"><span class="count"></span></a>
+  </div>
+
+  
+  <div class="whatsapp">
+    <a href="whatsapp://send?text=Key%20%26%20Peele%20imagines%20what%20it%27d%20be%20like%20if%20we%20treated%20teachers%20like%20athletes%3A%20http%3A%2F%2Fwww.slate.com%2Fblogs%2Fbrowbeat%2F2015%2F07%2F28%2Fkey_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html%3Fwpsrc%3Dsh_all_mob_wa_top" class="whatsapp">
+       <span class="icon"></span>
+    </a>
+  </div>
+  
+  
+
+  <div class="email">
+    <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AKey%20%26%20Peele%20Imagines%20What%20It%E2%80%99d%20Be%20Like%20if%20We%20Obsessed%20Over%20Teachers%20the%20Way%20We%20Do%20Athletes%0Ahttp://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_em_top" class="email">
+      <span class="icon"></span>
+      <span class="count">&nbsp;</span>
+    </a>
+  </div>
+</div>
+
+
+    </header><!-- /header -->
+
+    <section class="content ">
+        <div class="parsys editorsNote">
+</div>
+
+        
+        <div class="newbody body parsys">
+
+<div class="parbase image slate_image section">
+
+
+ <div class=" desktop-only mobile-only">
+        <figure class="image inline " style="width: 590px;  display: block;margin: 0 auto;float: none;"> <img src_tag_name="src" title="key_peele_teacherscenter" alt="key_peele_teacherscenter" src="/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png.CROP.promo-xlarge2.png" pagespeed_url_hash="684710584" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </figure>
+        </div>
+        <script>requirejs(["jquery"],function($){if($(window).width()<640){$(".slate_image figure").width("100%");}});</script> 
+</div>
+
+<div class="youtube section">
+
+
+
+
+<div id="youtube" data-video-bcenabled="true" data-video-type="youtube" data-video-bcbasepageurl="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html" data-video-bcexperienceid="2506" data-video-bcvideoid="4371629443001" data-video-bcplaylistid="111108537001" data-video-width="590" data-video-height="330" data-video-youtubeid="dkHqPFbxmOU" data-video-autoplay="">
+</div>
+
+<script type="text/javascript">$(document).ready(function(){requirejs(['jquery','youtube','youtubeapi'],function($,youtube){});});</script>
+</div>
+
+<div class="text text-1 parbase section">
+
+<p>By now, the lament about how our culture privileges athletics over education is an old one&mdash;but <em>Key &amp; Peele </em>has breathed new life into it in their latest sketch, &ldquo;<a href="https://www.youtube.com/watch?v=dkHqPFbxmOU&amp;feature=em-uploademail">TeachersCenter</a>.&rdquo; A spot-on parody of SportsCenter&rsquo;s hyperbole-laden talking heads, busy CGI ticker screens, and obsessive play-by-plays, the clip cleverly reimagines athletes as the educators we entrust our children to every day.</p>
+
+
+</div>
+
+
+<div class="text-2 text parbase section">
+
+<p>Unsurprisingly, it&rsquo;s a biting critique that says a lot about the economic and symbolic power we assign to an industry in which men are considered exceptional for throwing a ball. But the best part of &ldquo;TeachersCenter&rdquo; might just be the incredible ads dropped in throughout&mdash;being a teacher has never looked so sexy.</p>
+
+
+</div>
+
+
+
+
+<div class="tablet-ad">
+    Advertisement<br>
+    
+<div id="slug_midarticleflex" class="ad " data-ad-type="midarticleflex" data-ad-mode="tabletPortrait"></div>
+
+    
+<div id="slug_mob_bigbox" class="ad " data-ad-type="mob_bigbox" data-ad-mode="mobile"></div>
+
+</div>
+
+
+<div class="text-3 text parbase section">
+
+<p>Also in <strong><em>Slate</em></strong>:</p>
+
+
+</div>
+
+<div class="text parbase text-4 section">
+
+<ul>
+<li>&ldquo;<a href="http://www.slate.com/blogs/browbeat/2015/07/09/key_peele_is_the_one_show_that_knows_how_to_make_america_s_strained_race.html" target="_blank"><em>Key &amp; Peele </em>Is the One Show That Knows How to Make America&rsquo;s Strained Race Relations Funny</a>&rdquo;</li>
+<li>&ldquo;<a href="http://www.slate.com/blogs/browbeat/2015/07/07/the_hair_and_makeup_team_behind_key_and_peele_on_substitute_teacher_east.html" target="_blank">Meet the Hair and Makeup Team Behind <em>Key &amp; Peele&rsquo;s </em>Scene-Stealing, Wacky Looks</a>&rdquo;</li>
+<li>&ldquo;<a href="http://www.slate.com/blogs/xx_factor/2015/07/10/key_peele_season_5_addressing_their_lady_problem.html" target="_blank"><em>Key &amp; Peele</em>&rsquo;s Latest Season Has a Feminist Bent</a>&rdquo;</li>
+<li>&ldquo;<a href="http://www.slate.com/blogs/browbeat/2015/03/16/john_oliver_on_march_madness_last_week_tonight_takes_on_the_ncaa_and_the.html" target="_blank">John Oliver Takes on the Raw Deal for Players That&rsquo;s at the Heart of March Madness</a>&rdquo;</li>
+<li>&ldquo;<a href="http://www.slate.com/blogs/schooled/2015/07/13/evaluating_teachers_in_special_subjects_is_it_fair_to_grade_music_and_art.html" target="_blank">Why Are Some Teachers Being Evaluated Using the Test Scores of Kids They Didn&rsquo;t Teach?</a>&rdquo;</li>
+</ul>
+
+
+</div>
+</div>
+
+        
+        
+        
+    </section>
+
+<footer>
+      
+		
+
+
+  
+  <section class="about-the-author multi">
+    
+    <div class="author-bio">
+      <p>
+        <p>Aisha Harris is a <b><i>Slate</i></b> staff writer.</p>
+
+	  </p>
+	</div>
+	
+  </section>
+  
+
+      
+
+  
+  
+    <div class="pagination">  
+      
+
+
+    <div class="social social-with-popup sharing-buttons">
+      <div class="plus-popup">
+        <a href="http://www.slatereprints.com/reprint-products-quote-request/?cf2_field_17=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html&cf2_field_18=www.slate.com&cf2_field_19=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&cf2_field_20=09%2F20%2F2013" class="reprint">REPRINT</a>
+        <a href="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.single.html?print" target="_blank" class="print">PRINT</a>
+        <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AKey%20%26%20Peele%20Imagines%20What%20It%E2%80%99d%20Be%20Like%20if%20We%20Obsessed%20Over%20Teachers%20the%20Way%20We%20Do%20Athletes%0Ahttp://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_em_bot" class="email">EMAIL</a>
+        <div class="arrow-border"></div>
+        <div class="arrow"></div>        
+      </div>
+      <a href="#" class="plus">
+        <span class="icon"></span>
+      </a>
+      <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now,+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old,+common+sentiment&mdash;but&nbsp;Key+&amp;+Peele&nbsp;has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch,+&ldquo;TeachersCenter.&rdquo;+A+spot-on+parody+of+SportsCenter&rsquo;s+hyperbole-laden+talking+heads,+busy+CGI+ticker+screens,+and+obsessive+play-by-plays,+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_fb_bot" class="facebook">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Key+%26+Peele+imagines+what+it%27d+be+like+if+we+treated+teachers+like+athletes%3A&count=none&via=BrowBeat&url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_dt_tw_bot" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"><span class="count"></span></a>
+    </div>
+      
+        <a href="#comments" class="comments">
+          <span class="icon"></span>         
+          <span class="count"></span>                
+        </a>              
+      
+    </div>
+    
+
+    </div><!-- /.pagination -->
+    
+
+
+
+
+
+
+  
+  
+  
+
+<div class="social horiz-counts-mobile centered sharing-buttons">
+  
+    <div class="comments">
+      <a class="mobile-comments" href="#comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    </div>
+  
+  <div class="facebook">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now,+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old,+common+sentiment&mdash;but&nbsp;Key+&amp;+Peele&nbsp;has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch,+&ldquo;TeachersCenter.&rdquo;+A+spot-on+parody+of+SportsCenter&rsquo;s+hyperbole-laden+talking+heads,+busy+CGI+ticker+screens,+and+obsessive+play-by-plays,+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html&u=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_fb_bot" class="share facebook" target="_blank">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+  </div>
+  <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Key+%26+Peele+imagines+what+it%27d+be+like+if+we+treated+teachers+like+athletes%3A&count=none&via=BrowBeat&url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_tw_bot" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"><span class="count"></span></a>
+  </div>
+
+  
+  
+  <div class="whatsapp">
+    <a href="whatsapp://send?text=Key%20%26%20Peele%20imagines%20what%20it%27d%20be%20like%20if%20we%20treated%20teachers%20like%20athletes%3A%20http%3A%2F%2Fwww.slate.com%2Fblogs%2Fbrowbeat%2F2015%2F07%2F28%2Fkey_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html%3Fwpsrc%3Dsh_all_mob_wa_bot" class="whatsapp">
+       <span class="icon"></span>
+    </a>
+  </div>
+  
+
+  <div class="email">
+    <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AKey%20%26%20Peele%20Imagines%20What%20It%E2%80%99d%20Be%20Like%20if%20We%20Obsessed%20Over%20Teachers%20the%20Way%20We%20Do%20Athletes%0Ahttp://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html?wpsrc=sh_all_mob_em_bot" class="email">
+      <span class="icon"></span>
+      <span class="count">&nbsp;</span>
+    </a>
+  </div>
+</div>
+
+
+    <div class="row up-next" id="up-next-box"></div>
+    <!-- Maybe incorporate the wrapper divs into the components -->
+    <div class="footer-tiles">
+      <div class="row">
+        <div class="outbrain">
+
+  <div id="outbrain_placeholder"></div>
+  <div class="sl-outbrain-divider"></div>
+
+  <script type="text/javascript">requirejs(["jquery","myslate"],function($,myslate){var isCommentUser=$.cookie("s_segs")&&$.cookie("s_segs").indexOf('commenter')>-1;if(!myslate.isSlatePlusUser){var createOutbrainDivs=function(widgetId){var divHtml='<div class="OUTBRAIN" data-src="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html" data-widget-id="'+widgetId+'" data-ob-template="SlateMag" ></div>';$("#outbrain_placeholder").append(divHtml);}
+if(mobileMode()){createOutbrainDivs("MB_1");}else{createOutbrainDivs("AR_3");createOutbrainDivs("AR_17");}
+$('<script>',{src:'//widgets.outbrain.com/outbrain.js'}).appendTo('body');}});</script>
+</div>
+
+      </div>
+    </div> <!-- /.footer-tiles -->
+  
+</footer>
+
+
+
+
+
+<div id="comments" class="comments-container" data-lf-hash="MzM3NzIwOmNxLTIwNTE1MDcyODAwNw==">
+  <div id="livefyre">
+  	<div class="button-container lf-loader" style="text-align:center;">
+      <button class="push-button comments-push-button" style="padding: 0 15px;">Load Comments</button>
+    </div>
+  </div>
+  <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+</div>
+<div id="comments-ads" class="comments-ads-container">
+</div>
+<div id="comments-bigbox" class="comments-bigbox-container">
+  <div id="slug_bigbox" class="ad bigbox" data-ad-mode="desktop" data-ad-type="bigbox"></div>
+</div>
+
+<script type="text/javascript">requirejs(['config','jquery'],function(config,$){$('#livefyre .lf-loader').html(['<div style="color: #999;">Loading...</div>','<div style="color: #999; font-size: smaller; margin: 20px auto">','Are Slate\'s comments not loading even after a few seconds? ','<br/><a target="_blank" href="http://www.slate.com/features/browser-data-comment.html" class="issue-collector" data-issue-collector-value="11019">','Send us your browser and operating system information.</a>','</div>'].join(''));$.extend(config.livefyre,{collectionMeta:'eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6Ilx1MDAzY2VtXHUwMDNlS2V5IFx1MDAyNmFtcDsgUGVlbGUgXHUwMDNjL2VtXHUwMDNlSW1hZ2luZXMgV2hhdCBJdOKAmWQgQmUgTGlrZSBpZiBXZSBPYnNlc3NlZCBPdmVyIFRlYWNoZXJzIHRoZSBXYXkgV2UgRG8gQXRobGV0ZXMiLCJ1cmwiOiJodHRwOi8vd3d3LnNsYXRlLmNvbS9ibG9ncy9icm93YmVhdC8yMDE1LzA3LzI4L2tleV9hbmRfcGVlbGVfc3BvcnRzY2VudGVyX3RlYWNoZXJfcGFyb2R5X25ld19za2V0Y2hfaW1hZ2luZXNfdGVhY2hlcnNfYXMuaHRtbD93cGlzcmNcdTAwM2RsZiIsInRhZ3MiOiIiLCJjaGVja3N1bSI6IjY3NzhlYmVkNTgxZDA3Y2Y3MDQ4MDhjNjA0NWQ3ODlmIiwiYXJ0aWNsZUlkIjoiY3EtMjA1MTUwNzI4MDA3In0.xgwM5-09-J0p6YB4rwC8Pn99GGEdprbd5vySMxfwgb8'});});requirejs(['slate-livefyre']);</script>
+
+
+
+
+        <div class="parsys iparsys contentWellBottom"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentWellBottom">
+</div>
+</div>
+</div>
+
+        
+        <div class="abridgedhomepage">
+
+
+<div class="twocolumn-stories">
+  <div class="twocolumn-stories__left large-tiles tiles">
+    <div class="parsys homepageSectionStoriesLeft"><div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: News & Politics" class="story-box-news-politics">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/news_and_politics.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+News & Politics</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2015/08/150801_FOR_SyriaPromo.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2015/08/150801_FOR_SyriaPromo.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/news_and_politics/politics/2015/08/america_s_effort_to_train_syrian_fighters_to_combat_isis_suffers_major_defeat.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Politics</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">Aug. 1 2015 3:18 PM</span>
+                <!-- <span class="hed">“Protect Us Against Our Enemies”</span> -->
+                
+                  
+                  
+                    <span class="hed">“Protect Us Against Our Enemies”</span>
+                  
+                
+                <span class="dek">The story of one Syrian fighter and why his capture is a major defeat for America’s war on ISIS. &nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span class="byline">Julia Harte and Isabel Hunter</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/07/iran_hearings_the_congressional_grilling_of_john_kerry_and_ernest_moniz.html" class="primary">The Iran Hearings Prove It: The Republican Party Can No Longer Be Trusted With the Presidency</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2015/07/habeas_corpus_and_personhood_for_chimps_judge_barbara_jaffe_gives_liberty.html" class="primary">How Marriage Equality Could Lead to Legal Rights for Chimps</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/07/donald_trump_may_be_a_choir_boy_in_the_first_republican_debate_being_polite.html" class="primary">Why Donald Trump May Play the Choir Boy in Next Week’s GOP Debate</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/roads/2015/07/welcome_to_edirne_turkey_the_last_stop_on_syrian_migrants_long_road_to_europe.html" class="primary">The Last Stop on Migrants’ Long Road to Europe</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/the_slate_quiz/2015/07/the_slate_quiz_with_quizmaster_ken_jennings_play_the_news_quiz_for_july_4.html" class="primary">Think You’re Smarter Than a <strong><em>Slate</em></strong> Science Writer? Find Out With This Week’s News Quiz.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/foreigners/2015/07/azerbaijan_is_brutally_cracking_down_on_human_rights_activists_and_journalists.html" class="primary">Meet the Country Whose Jailing of Human Rights Activists Is Even More Brutal Than Russia’s</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/dispatches/2015/07/greece_immigration_crisis_why_would_someone_want_to_live_in_greece_during.html" class="primary">Who Would Want to Immigrate to Greece Right Now?</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Business" class="story-box-business">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/business.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Business</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/moneybox/2015/07/31/puerto_rico_is_about_to_default_on_some_of_its_debt_what_happens_next/479120986-the-puerto-rican-flag-flies-near-the-capitol-building.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/moneybox/2015/07/31/puerto_rico_is_about_to_default_on_some_of_its_debt_what_happens_next/479120986-the-puerto-rican-flag-flies-near-the-capitol-building.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/moneybox/2015/07/31/puerto_rico_is_about_to_default_on_some_of_its_debt_what_happens_next.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Moneybox</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">July 31 2015 7:07 PM</span>
+                <!-- <span class="hed">Here It Comes: Puerto Rico Is Headed for a Debt Default</span> -->
+                
+                  
+                  
+                    <span class="hed">Here It Comes: Puerto Rico Is Headed for a Debt Default</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Jordan Weissmann</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/07/31/pinterest_diversity_the_online_scrapbooking_site_is_pushing_a_diversity.html" class="primary">Pinterest Just Unveiled an Ambitious Plan to Tackle Silicon Valley's Diversity Problem</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/business_insider/2015/07/31/san_francisco_housing_prices_are_so_high_that_some_people_are_illegally.html" class="primary">Housing in San Francisco Is So Expensive, This Guy Is Now Renting Out Shipping Containers</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/07/31/uber_now_worth_50_billion_what_ll_it_do_with_all_its_cash.html" class="primary">It Took Facebook Seven Years to Be Worth $50 Billion. Uber Needed Just Five.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/business/the_juice/2015/07/solarcity_the_company_didn_t_invent_the_solar_panel_but_it_invented_something.html" class="primary">Elon Musk’s Most Impressive Company Isn’t Tesla or SpaceX. It’s SolarCity.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/business/the_bills/2015/07/ann_rule_eunice_bellah_harper_lee_the_problem_of_elder_financial_abuse_is.html" class="primary">The Shameful Problem of Elder Financial Abuse Is Only Going to Get Worse</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/07/30/soulcycle_ipo_the_u_s_cycling_chain_is_going_public.html" class="primary">SoulCycle Is Going Public. How Did It Get So Big?</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/business_insider/2015/07/30/google_added_a_search_tool_to_help_people_avoid_long_lines_at_stores_and.html" class="primary">Google Wants to Help You Avoid Annoying Long Lines at Restaurants</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Life" class="story-box-life">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/life.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Life</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/quora/2015/08/01/pay_what_you_want_when_can_the_business_model_succeed/81693702-thom-yorke-and-jonny-greenwood-of-radiohead-perform.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/quora/2015/08/01/pay_what_you_want_when_can_the_business_model_succeed/81693702-thom-yorke-and-jonny-greenwood-of-radiohead-perform.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/quora/2015/08/01/pay_what_you_want_when_can_the_business_model_succeed.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Quora</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">Aug. 1 2015 7:22 AM</span>
+                <!-- <span class="hed">When Can the “Pay What You Want” Model Succeed?</span> -->
+                
+                  
+                  
+                    <span class="hed">When Can the “Pay What You Want” Model Succeed?</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Quora Contributor</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/lexicon_valley/2015/07/31/donald_trump_this_run_on_sentence_from_a_speech_in_sun_city_south_carolina.html" class="primary">Help Us Diagram This Sentence by Donald Trump!</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/outward/2015/07/31/lea_delaria_on_house_of_david_her_album_of_bowie_covers.html" class="primary">Lea DeLaria Is the Butchest, Dykiest Jazz Singer Ever to Record an Album of Bowie Covers</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/outward/2015/07/31/frankie_valenti_aka_johnny_hazzard_shines_in_tiger_orange.html" class="primary"><em>Tiger Orange&nbsp;</em>Proves That a Porn Star Can Carry a Feature Film</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/schooled/2015/07/31/georgia_schools_investigation_too_many_kids_are_getting_sent_to_special.html" class="primary">Georgia Sends Kids With Disabilities and Behavior Problems to Special Schools. That’s Segregation.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_vault/2015/07/31/a_delightful_1912_children_s_book_about_a_wayward_rocket.html" class="primary">Read a Delightful 1912 Children's Book About a Wayward Rocket</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/atlas_obscura/2015/07/31/in_medieval_england_fugitives_seeking_sanctuary_needed_only_to_get_themselves.html" class="primary">So You’ve Murdered Someone In Medieval England. Time to Get to Church!</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_eye/2015/07/31/what_s_that_thing_stockbridge_dampers.html" class="primary">What’s That Thing Hanging From Lampposts and Power Lines?</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Double X" class="story-box-double-x">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/double_x.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Double X</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/07/31/150731_XX_MadMenAuction.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/07/31/150731_XX_MadMenAuction.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/xx_factor/2015/07/31/mad_men_screenbid_auction_that_s_what_the_money_is_for.html" class="primary"></a>
+            
+            
+                <span class="rubrik">The XX Factor</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">July 31 2015 4:53 PM</span>
+                <!-- <span class="hed">That’s What the Money Is For</span> -->
+                
+                  
+                  
+                    <span class="hed">That’s What the Money Is For</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Jesse Dorris</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/31/while_looking_to_the_future_zuckerberg_s_pregnancy_announcement_also_acknowledges.html" class="primary">In Pregnancy Announcement, Zuckerberg Opens Up About Couple’s Past Miscarriages</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/31/donald_trump_says_pumping_is_disgusting_an_interview_with_a_lady_who_did.html" class="primary">Donald Trump Said It’s “Disgusting” to Pump Milk in Front of Colleagues. So We Found A Lady Who Did.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/30/woody_allen_interview_he_s_been_a_nice_guy_since_at_least_the_late_1960s.html" class="primary">Dating Tips From Woody Allen</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/30/hillary_clinton_haircut_every_presidential_campaign_needs_a_hairgate.html" class="primary">Why Does Every Presidential Campaign Need a “Hairgate”?</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/30/planned_parenthood_says_extremists_are_behind_wednesday_s_ddos_attack.html" class="primary">Planned Parenthood Again on the Defensive After Website Attack</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/double_x/doublex/2014/05/should_men_wear_short_shorts.html?wpsrc=sp_all_native_by-section" class="primary">Should Men Really Wear Short Shorts? Hess and Patterson Weigh In.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/07/29/cosmo_covered_up_at_riteaid_and_food_lion_is_the_magazine_pornographic.html" class="primary">Major Supermarket Chains Are Covering Up&nbsp;<em>Cosmo</em>&nbsp;Because It’s “Pornographic”</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+
+</div>
+
+  </div>
+  <div class="twocolumn-stories__right large-tiles tiles">
+    <div class="parsys homepageSectionStoriesRight"><div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Slate Plus" class="story-box-slate-plus">
+<header class="black-header">
+
+<a href="/plus/home?wpisrc=sp_all_native-by-section" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Slate Plus</header>
+
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed slateplus-preview" data-bg="http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/07/150729_SPLUS_aishaPROMO.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/07/150729_SPLUS_aishaPROMO.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/news_and_politics/culturebox/2015/07/slate_s_weekly_roundup_aisha_harris_on_her_week_at_slate.html?wpsrc=sp_all_native_by-section" class="primary"></a>
+            
+            
+                <span class="rubrik">Culturebox</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">July 31 2015 10:57 AM</span>
+                <!-- <span class="hed">What Happened at <strong><em>Slate</em></strong> This Week?</span> -->
+                
+                  
+                  
+                    <span class="hed">What Happened at <strong><em>Slate</em></strong> This Week?</span>
+                  
+                
+                <span class="dek">Aisha Harris rounds up some shocking, informative, and hilarious reads.</span>
+                <span class="byline">Aisha Harris</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/behind_the_scenes/2014/07/slate_corrections_factual_errors_typos_misquotes_and_more_at_the_magazine.html?wpsrc=sp_all_native_by-section" class="primary">What Happens When We Get It Wrong? <strong><em>Slate</em></strong>’s Corrections Czar Talks About Our Policy on Errors and Typos.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/plus_roundups/2015/07/what_we_like_right_now_a_recommendations_roundup_from_slate_writers_and_4.html?wpsrc=sp_all_native_by-section" class="primary">Here Are Our Favorite Reads From Around the Web This Week</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/double_x/doublex/2014/05/should_men_wear_short_shorts.html?wpsrc=sp_all_native_by-section" class="primary">Should Men Really Wear Short Shorts? Hess and Patterson Weigh In.</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list slateplus-preview last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/life/dear_prudence/2015/07/dear_prudence_emily_yoffe_gives_advice_with_the_gist_s_mike_pesca_on_workplace.html?wpsrc=sp_all_native_by-section" class="primary">What Do You Do With a Co-Worker Who’s Giving You the Cold Shoulder?</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Arts" class="story-box-arts">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/arts.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Arts</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/07/the_hair_and_makeup_team_behind_key_and_peele_on_substitute_teacher_east/cruise7.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/07/the_hair_and_makeup_team_behind_key_and_peele_on_substitute_teacher_east/cruise7.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/browbeat/2015/08/01/impossible_mission_force_video_essay_sean_witzke_and_grantland_give_a_magisterial.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Brow Beat</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">Aug. 1 2015 5:14 PM</span>
+                <!-- <span class="hed">How Four Very Different Directors Left Their Mark on the <em>Mission: Impossible</em> Franchise</span> -->
+                
+                  
+                  
+                    <span class="hed">How Four Very Different Directors Left Their Mark on the <em>Mission: Impossible</em> Franchise</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Sharan Shetty</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/08/01/kendrick_lamar_for_free_interlude_music_video_lamar_s_jazzy_slam_poetry.html" class="primary">Kendrick Lamar Romps Around a Mansion in His Playful “For Free? (Interlude)” Music Video</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/07/31/_uptown_funk_as_sung_by_the_movies_is_a_masterpiece_video.html" class="primary">“Uptown Funk” as Sung by the Movies Is a Masterpiece. (Don’t Believe Me, Just Watch.)</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/07/31/taylor_swift_style_covered_by_emilie_ogden_on_the_harp_is_surprisingly_beautiful.html" class="primary">This Cover of Taylor Swift’s “Style” on the Harp Works Better Than You’d Expect</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/07/31/cecil_the_lion_the_lion_king_mashup_the_retribution_of_simba_lion_killing.html" class="primary">Only Simba Can Avenge the Death of Cecil the Lion</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/07/31/warm_blood_carly_rae_jepsen_s_new_emotion_single_with_vampire_weekend_s.html" class="primary">Carly Rae Jepsen’s New Single Is More Restrained Than “I Really Like You,” Just as Catchy</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/07/31/trainwreck_outtakes_lebron_james_steals_the_show_once_again_in_improv_bits.html" class="primary">LeBron James Steals the Show All Over Again in the Outtakes From <em>Trainwreck</em></a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Technology" class="story-box-technology">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/technology.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Technology</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+                
+            
+            
+            
+        <div class="tile full-image with-screen long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/future_tense/2015/07/31/facebook_hopes_its_aquila_drone_will_help_it_bring_wi_fi_to_the_developing/457144750-facebook-founder-mark-zuckerberg-delivers-his-address.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/future_tense/2015/07/31/facebook_hopes_its_aquila_drone_will_help_it_bring_wi_fi_to_the_developing/457144750-facebook-founder-mark-zuckerberg-delivers-his-address.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/future_tense/2015/07/31/facebook_hopes_its_aquila_drone_will_help_it_bring_wi_fi_to_the_developing.html" class="primary"></a>
+            
+                <div class="screen"></div>
+            
+            
+                <span class="rubrik">Future Tense</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">July 31 2015 6:00 PM</span>
+                <!-- <span class="hed">Meet the Drone Facebook Wants to Use to Bring the Internet to Poor and Rural Areas</span> -->
+                
+                  
+                  
+                    <span class="hed">Meet the Drone Facebook Wants to Use to Bring the Internet to Poor and Rural Areas</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Will Oremus</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/07/31/france_wants_eu_s_right_to_be_forgotten_to_apply_in_global_search_results.html" class="primary">France Wants EU's Right to Be Forgotten to Apply in Global Search Results</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/07/31/a_court_ruled_that_fourth_amendment_protections_extend_to_location_data.html" class="primary">Court Rules Police Need a Warrant to Access Location Data From Your Cellphone</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/07/31/this_security_flaw_allows_hackers_to_intercept_spoof_or_jam_gps_tracking.html" class="primary">Asset-Tracking Systems Vulnerable to Hacking</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/technology/future_tense/2015/07/siberian_flood_basalts_the_earth_s_largest_extinction_and_climate_change.html" class="primary">What a Volcanic Explosion 250 Million Years Ago Tells Us About Climate Change</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/07/31/amazon_echo_s_a_i_alexa_throws_shade_when_you_bring_up_hal.html" class="primary">Amazon Echo and the Art of Artificially Throwing Shade</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/technology/users/2015/07/suicide_and_social_media_the_new_york_times_claims_instagram_is_causing.html" class="primary">The <em>New York Times</em> Claims Social Media Causes Suicide. That’s Absurd.</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Health & Science" class="story-box-health-science">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/health_and_science.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Health & Science</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/bad_astronomy/2015/07/31/headshot_cca_354.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/bad_astronomy/2015/07/31/headshot_cca_354.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/bad_astronomy/2015/08/01/crash_course_astronomy_brief_delay.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Bad Astronomy</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">Aug. 1 2015 7:00 AM</span>
+                <!-- <span class="hed">The Latest Crash Course Astronomy Will Be Delayed</span> -->
+                
+                  
+                  
+                    <span class="hed">The Latest Crash Course Astronomy Will Be Delayed</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Phil Plait</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/science/2015/07/coyotes_in_new_york_and_chicago_urban_ecology_of_rats_geese_deer_feral_cats.html" class="primary">Why Big Cities Need Coyotes</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/07/31/rainbow_arc_a_shaft_of_sunlight_and_a_segment_of_a_rainbow.html" class="primary">The Rainbow Disconnection</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/medical_examiner/2015/07/fetal_tissue_research_for_als_planned_parenthood_videos_leave_out_that_donations.html" class="primary">What the Planned Parenthood Videos Leave Out: Fetal Tissue Can Treat Terrible Diseases</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/science/2015/07/cecil_the_lion_research_scientists_studied_the_lion_for_years_video.html" class="primary">What Scientists Learned From Cecil the Lion Before He Was Killed</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/07/30/_1982_sci_fi_summer.html" class="primary">The Summer That Changed Science Fiction at the Movies</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/science/2015/07/lion_hunting_statistics_foreigners_in_africa_like_walter_palmer_take_home.html" class="primary">Lion Hunters, Beware: You Could Be the Next Walter Palmer</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Sports" class="story-box-sports">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/sports.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Sports</header>
+
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " data-bg="http://www.slate.com/content/dam/slate/blogs/the_spot/2014/06/23/herrera-promo.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/the_spot/2014/06/23/herrera-promo.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/the_spot/2015/07/28/human_gif_miguel_herrera_fired_as_mexico_coach_for_allegedly_hitting_journalist.html" class="primary"></a>
+            
+            
+                <span class="rubrik">The Spot</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">July 28 2015 5:08 PM</span>
+                <!-- <span class="hed">The Most GIF-Worthy Man in Sports Just Lost His Job for Allegedly Hitting a Reporter</span> -->
+                
+                  
+                  
+                    <span class="hed">The Most GIF-Worthy Man in Sports Just Lost His Job for Allegedly Hitting a Reporter</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Jeremy Stahl</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/07/los_angeles_and_boston_olympic_bids_we_should_force_cities_to_participate.html" class="primary">Let’s Force Cities to Host the Olympics With a Shirley Jackson–Style “Lottery”</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/07/genzebe_dibaba_1500m_world_record_what_s_the_fastest_humans_can_possibly.html" class="primary">It Took 22 Years for the Women’s 1,500-Meters Record to Fall. What's the Fastest Humans Can Possibly Run?</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_spot/2015/07/23/panama_versus_mexico_gold_cup_concacaf_corruption_comes_to_the_fore_after.html" class="primary">All Hell Broke Loose in the Panama-Mexico Game and It Was Entirely the Ref’s Fault</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_spot/2015/07/22/watch_jamaica_s_two_back_to_back_goals_that_upset_and_eliminated_the_u_s.html" class="primary">Watch Jamaica’s Two Back-to-Back Goals That Just Shut Down the U.S. in the Gold Cup Semifinal</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_spot/2015/07/20/sepp_blatter_cash_protest_simon_brodkin_throws_money_at_press_conference.html" class="primary">FIFA’s Disgraced President Got a Wad of Cash Thrown on Him in Front of Reporters</a>
+            </div>
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_spot/2015/07/18/clint_dempsey_gold_cup_goals_game_highlights_against_cuba_video.html" class="primary">Watch Clint Dempsey Do His Best Carli Lloyd Impersonation at the Gold Cup</a>
+            </div>
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+
+</div>
+
+  </div>
+</div>
+</div>
+
+      </article><!-- /.main -->
+      
+
+      <aside class="sidebar" id="main_sidebar">
+        <div class="sidebar-wrapper">
+          
+          
+          
+          
+
+
+
+
+
+
+  
+  
+  
+
+
+<section class="nav-panel" id='slate_logo'>
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link sidebar-handle"></a>
+    <a href="#" class="search-link sidebar-handle"></a>
+    <a href="#" class="global-nav-handle sidebar-handle"></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+          
+
+          
+          
+
+<div class="parsys iparsys contentSidebar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentSidebar"><div class="renderHtml section">
+
+<style type="text/css">.mostshared{display:none}.mostpopular{display:none}</style>
+
+ 
+</div>
+<div class="mostpopular section">
+
+
+<section class="items">
+  <a class="header" href="#">Most Read</a>
+  <ul class="numbered-list">
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/news_and_politics/politics/2015/07/iran_hearings_the_congressional_grilling_of_john_kerry_and_ernest_moniz.html"><small>1.</small> <span>The Iran Hearings Prove It: The Republican Party Can No Longer Be Trusted With the Presidency</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/business/the_juice/2015/07/solarcity_the_company_didn_t_invent_the_solar_panel_but_it_invented_something.html"><small>2.</small> <span>Elon Musk’s Most Impressive Company Isn’t Tesla or SpaceX. It’s SolarCity.</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/blogs/browbeat/2015/07/31/_uptown_funk_as_sung_by_the_movies_is_a_masterpiece_video.html"><small>3.</small> <span>“Uptown Funk” as Sung by the Movies Is a Masterpiece. (Don’t Believe Me, Just Watch.)</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/blogs/lexicon_valley/2015/07/31/donald_trump_this_run_on_sentence_from_a_speech_in_sun_city_south_carolina.html"><small>4.</small> <span>Help Us Diagram This Sentence by Donald Trump!</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html"><small>5.</small> <span><em>Key &amp; Peele </em>Imagines What It’d Be Like if We Obsessed Over Teachers the Way We Do Athletes</span></a></li>
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  </ul>
+</section>
+
+</div>
+<div class="mostshared section">
+
+
+<section data-vr-zone="Most Shared">
+    <header class="black-header">Most Shared</header>
+    <ul class="numbered-list">
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/health_and_science/medical_examiner/2015/07/fetal_tissue_research_for_als_planned_parenthood_videos_leave_out_that_donations.html">
+                    <small>1.</small> <span>What the Planned Parenthood Videos Leave Out: Fetal Tissue Can Treat Terrible Diseases</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/blogs/the_slatest/2015/07/30/sam_dubose_murder_phillip_kidd_and_david_lindenschmidt_suspended_after_backing.html">
+                    <small>2.</small> <span>New Body Cam Videos Show Cops Coalescing Around False Narrative of Sam DuBose Killing</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/blogs/the_slatest/2015/07/30/steve_king_marrying_a_lawnmower_iowa_congressman_imagines_strange_desires.html">
+                    <small>3.</small> <span>Rep. Steve King Says <em>Obergefell</em> Ruling Means You Can Marry a Lawnmower</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/news_and_politics/politics/2015/07/iran_hearings_the_congressional_grilling_of_john_kerry_and_ernest_moniz.html">
+                    <small>4.</small> <span>The Iran Hearings Prove It: The Republican Party Can No Longer Be Trusted With the Presidency</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/business/moneybox/2015/07/gentrification_calculator_are_you_a_neighborhood_gentrifier.html">
+                    <small>5.</small> <span>Are You a Gentrifier? Find Out With This Calculator.</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </ul>
+</section>
+</div>
+<div class="rightrailstories section">
+
+<section class="items">
+  
+
+  
+    <div id="rr-results" data-track-module="smart-rr" data-omit-views="true">
+    <div class="smallvideos">
+
+<div class="row">
+<section class="video-gallery" id="small_videos" style="display: none;">
+    <div id='small_video_gallery_mobile_wrap'>
+        
+        <div class="current-video">
+            <img src="http://www.slate.com/content/dam/slate/articles/video/video/2015/07/turkey_underwater_blob_squid_eggs_mass_likely_explains_divers_footage_video/squideggsac_1620x343.jpg.CROP.hd-large.jpg" pagespeed_url_hash="625191842" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+            <a href="http://www.slate.com/articles/video/video/2015/07/turkey_underwater_blob_squid_eggs_mass_likely_explains_divers_footage_video.html?wpisrc=seg_video" class="primary">
+                <span class="play-button"></span>
+                <span class="main-title">The Blob</span>
+            </a>
+        </div>
+        
+    </div>
+</section>
+</div>
+<script>requirejs(["jquery"],function($){if($.cookie("s_segs")&&$.cookie("s_segs").indexOf('video')>-1){$(['#small_videos','#small_video_gallery_mobile_wrap','.current-video'].join(',')).show();if(mobileMode()){$('#video_gallery_mobile').show();}
+$(".video-gallery").css('height','auto');$(window).load(function(){var dataCount3=$('.rr-block[data-count="3"]');dataCount3.addClass('repositioned');$('.rr-block[data-count="9"]').before(dataCount3);});}});</script></div>
+
+      <div class="rr-block" data-count="3"></div>
+     
+      <div class="item ad-container">
+          
+            
+              <div class="ad rightflex" data-ad-mode="desktop" data-ad-type="rightflex"></div>
+              
+              
+<div id="slug_rightflex" class="ad " data-ad-type="rightflex" data-ad-mode="tabletLandscape"></div>
+
+              
+            
+            
+          
+      </div>
+      
+      <div class="rr-block" data-count="9"></div>
+     
+     <div class="sl-art-ad-midflex">
+        <div class="item ad-container">
+        
+          
+            <div class="ad rightflex-2" data-ad-mode="desktop" data-ad-type="rightflex|2"></div>
+            
+            
+<div id="slug_rightflex_2" class="ad " data-ad-type="rightflex|2" data-ad-mode="tabletLandscape"></div>
+
+            
+          
+          
+        
+        </div>
+      </div>
+      
+      <div class="rr-block"></div>
+    </div>
+
+  
+ </section>
+
+
+ 
+<script type="text/javascript">requirejs(["jquery","rrstories"],function($,rrs){if(!mobileMode()){rrs.init(28,14,"trending");}else{$(".rightrailstories section").remove();}});</script>
+
+
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+          
+        </div><!-- /.sidebar-wrapper -->
+      </aside><!-- /.sidebar -->
+      
+      
+      
+      	
+
+  <footer id="article_footer_tiles">
+     
+  </footer>
+
+      
+    </div><!-- /.page -->
+
+
+
+<!-- HCS: layout -->
+  
+    <style type="text/css">body>.bottom{text-align:center;padding:10px 0}.bottom>#slug_leaderboard_2{position:relative;width:auto;text-align:center}</style>
+    <div class="bottom">
+      
+        
+          <div class="ad leaderboard-2" data-ad-type="leaderboard|2" data-ad-mode="desktop"></div>
+        
+        
+      
+    </div>
+    <footer class="footer-base">
+      <div class="container">
+
+      <div class="sub-slate-row">
+        <div class="left">
+          <span class="label">FOLLOW SLATE</span>
+          <a href="https://twitter.com/slate" class="twitter"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-twitterNew.821dc365.png" pagespeed_url_hash="1882272147" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+          <a href="http://www.facebook.com/Slate" class="facebook"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-facebookNew.74981e6f.png" pagespeed_url_hash="1244938924" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+          <a href="https://instagram.com/slate" class="instagram"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/instagram2x.bcd68bf9.png" style="width: 39px;" pagespeed_url_hash="2385051725" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+        </div>
+
+        <div class="left slate-on">
+          <span class="label">SLATE ON</span>
+          <a href="http://itunes.apple.com/us/app/slate-magazine/id384914589?mt=8">IPAD</a>
+          <a href="http://itunes.apple.com/us/app/slate-com/id357555242?mt=8">IPHONE</a>
+          <a href="https://market.android.com/details?id=com.wapo.slate.android">ANDROID</a>
+          <a href="http://www.amazon.com/gp/product/B000IOMTC0?ie=UTF8&tag=slatmaga-20&link_code=as3&camp=211189&creative=373489&creativeASIN=B000IOMTC0/">KINDLE</a>
+        </div>
+
+        <div class="right">
+          <a href="http://www.slatereprints.com" class="label reprints">REPRINTS</a>
+
+          <a href="http://innovate.slate.com/" class="label advertise-with-us" target="_blank">ADVERTISE WITH US</a>
+        </div>
+      </div>
+
+      </div><!-- /.container -->
+
+
+    </footer>
+  
+  
+    <footer class="footer-base-toc">
+      <div class="container">
+        <div class="footer-link-cols">
+          <ul>
+            <li><a href="/articles/news_and_politics/slate_fare/2006/08/about_us.html">ABOUT US</a></li>
+            <li><a href="/articles/briefing/contact_us/2006/08/whereto_find_slate_staff.html">CONTACT US</a></li>
+            <li><a href="/articles/news_and_politics/slate_fare/2008/04/a_job_for_you_at_slate.html">WORK WITH US</a></li>
+          </ul>
+          <ul class="center">
+            <li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_terms_of_service.html">USER AGREEMENT</a></li>
+            <li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html">PRIVACY POLICY</a></li>
+            <li><a href="/articles/briefing/slate_fare/2011/12/commenting_on_slate_frequently_asked_questions.html">FAQ</a></li>
+          </ul>
+          <ul class="last">
+            <li><a href="mailto:feedback@slate.com">FEEDBACK</a></li>
+            <li><a href="/articles/news_and_politics/corrections.html">CORRECTIONS</a></li>
+          </ul>
+        </div>
+        <ul class="copyright unstyled">
+          <li><a href="http://www.slate.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-slate-group-logo.12cbe5ac.png" pagespeed_url_hash="1056323748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></li>
+          <li><a href="http://www.theroot.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-root-logo.74009c0a.png" pagespeed_url_hash="706003561" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></li>
+          <li class="blurb">Slate is published by The Slate Group, a Graham Holdings Company. All contents &copy; 2014 The Slate Group LLC. All rights reserved.</li>
+        </ul>
+      </div><!-- /.container -->
+    </footer> <!-- /.footer-base-toc -->
+<!-- HCS END: layout -->
+<!-- HCS: layouts/shared/bottom -->
+<div id="sidebar_toggle">
+  <a href="#" id="sidebar_handle"></a>
+</div>
+<script src="http://ads.cdnslate.com/wp-srv/ad/loaders/latest/js/min/polar_config.min.js"></script>
+<script>requirejs(["jquery","hcs/libs/iscroll-lite","modernizr","hcs/script","hcs/plugins/SGGlobalNav.jquery","hcs/plugins/jQuery.highlighter","hcs/plugins/SGGlobalNav.jquery","libs/jquery-plugins/jquery.timeago","announcements","myslate"],function($,iScroll,unused0,unused1,unused2,unused3,unused4,unused5,announcements,myslate){$(document).ready(function(){announcements.deleteOldCookies();$("span.timeago").timeago();});function pageLoadedForScrolling(){scroller=new iScroll('main_sidebar',{hScroll:false,hScrollbar:false,bounce:false});if(!mobileMode()&&tabletMode()&&$('html').hasClass('touch')){window.tabletScroller=new iScroll('nav_sections',{hScroll:false,hScrollbar:false,bounce:false,onBeforeScrollStart:function(e){var target=e.target;while(target.nodeType!=1)target=target.parentNode;if(target.tagName!='SELECT'&&target.tagName!='INPUT'&&target.tagName!='TEXTAREA')
+e.preventDefault();}});}}
+Modernizr.addTest('webkit',function(){return RegExp(" AppleWebKit/").test(navigator.userAgent);});Modernizr.addTest('mobile',function(){return RegExp(" Mobile/").test(navigator.userAgent);});if(Modernizr.webkit&&Modernizr.mobile){if(document.addEventListener){document.addEventListener('DOMContentLoaded',function(){setTimeout(pageLoadedForScrolling,200);},false);}else if(document.attachEvent){document.attachEvent('DOMContentLoaded',function(){setTimeout(pageLoadedForScrolling,200);},false);}}
+$(function(){watchSidebar();if($('body').hasClass('home')||$('body').hasClass('landing')||$('body').hasClass('settings')){$('.nav-header').SGGlobalNav({noRollup:true,noBurgerScroll:$('body').hasClass('no-burger-scroll'),isSlatePlusUser:myslate.isSlatePlusUser});}else{$('.nav-header').SGGlobalNav({isSlatePlusUser:myslate.isSlatePlusUser});}
+jQuery(document).ready(function($){$(".field-with-placeholder").placeholder();});$('.content').highlighter({'selector':'.highlighter-container','noHighlightIds':$('#podcast-slateplus-page'),'minWords':0,'complete':function(data){selectedText=data;}});});$(document).ready(function(){$(".sticky").each(function(){var stickyTop=$(".sticky").offset().top;$(window).scroll(function(){var windowTop=$(window).scrollTop()+57+parseInt($(".sticky").css("margin-top").split("px")[0]);if(stickyTop<windowTop){$(".sticky").css({position:"fixed",top:"53px"});}else{$(".sticky").css("position","static");}});})});watchSocialWelcomeNotifications();});</script>
+
+    
+    
+
+    <script>requirejs(["jquery","myslate","hcs/script","hcs/plugins/SGNavDropdown.jquery","hcs/plugins/SGBigSlider.jquery","hcs/plugins/SGFootnote.jquery","hcs/plugins/SGRollup.jquery","hcs/plugins/SGNavDropdown.jquery","hcs/plugins/SGComments.jquery","hcs/plugins/SGLightbox.jquery","hcs/plugins/SGSocialIcons.jquery"],function($,myslate,unused0,unused1,unused2,unused3,unused4,unused5,unused6,unused7,unused8){$(function(){$('#big_slider').SGBigSlider({type:'article'});$('.footnote').SGFootnote();var multipartArticleRollup=$('#article_rollup');var subHed=$('#sub_hed');if(subHed.length>0){subHed.SGNavDropdown({extraId:'subhed',targetId:'#multipart_nav',leftOffset:function(){return $('#sub_hed').position().left;},topOffset:function(){return $('#sub_hed').position().top+$('#sub_hed').outerHeight(true);},onShow:function(){$('#multipart_nav').css('position','absolute');$('#multipart_nav').css('height','auto');$('#multipart_nav').css('overflow','auto');},onHide:function(){}});}
+if($('#article_header').length>0){$('#main_sidebar').SGRollup({rollupEl:multipartArticleRollup,topOffset:$('#slate_logo').height(),leftOffset:$('#article_header').offset().left,tablet:{el:$('#article_header'),topOffset:$('#article_header').height()},mobile:{el:$('#tablet_header'),topOffset:$('#tablet_header').height()},onHide:function(){if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible()&&$('#multipart_nav').data('openedByRollup')){multipartArticleRollup.data('plugin_SGNavDropdown').close();}
+if(!myslate.isSlatePlusUser){if($('#comments').length>0&&$.type($('#comments').data('plugin_SGComments'))!=='undefined'){$('#comments').data('plugin_SGComments').close();}}}});}
+multipartArticleRollup.SGNavDropdown({targetId:'#multipart_nav',extraSpecificHandle:'.handle',extraId:'multipart',leftOffset:function(){return multipartArticleRollup.find('.main').offset().left;},topOffset:function(){return multipartArticleRollup.outerHeight(true)},onShow:function(){$('#multipart_nav').css('position','');$('#multipart_nav').addClass('fixed').data('openedByRollup',true);$('#multipart_nav').css('max-height',(mobileMode()?$(window).outerHeight(true)+10:$(window).height()-$('#article_rollup').height()));$('#multipart_nav').css('overflow','scroll');if(mobileMode()){$('#multipart_nav').css('right',0);}},onHide:function(){$('#multipart_nav').data('openedByRollup',false);}});if(!myslate.isSlatePlusUser){$('#comments').SGComments({handles:$('.social .comments, .comment-options a'),rollUp:$('#main_sidebar').data('plugin_SGRollup'),leftOffset:function(){if(tabletMode()){return 0;}else{return $('#main_sidebar').offset().left-$('#comments').outerWidth()-11;}},topOffset:function(){return $('#article_rollup').height();},onShow:function(){if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible()){multipartArticleRollup.data('plugin_SGNavDropdown').close();}},mobile:{handle:$('#see_more_comments')}});}
+$('#slideshow_preview_link').SGLightbox({type:'slideshow',slideshowElement:$('#the_slideshow')});$('.social-with-popup').SGSocialIcons({});watchMobileRollupSocialToggle();$('.expandable').find('.toggle').click(function(e){$(this).closest('.social').toggleClass('visible');$('#main_byline').toggle();e.preventDefault();});$('.full-width').setFullWidth();myslate.benefits();});});</script>
+
+
+    
+    <script>requirejs(["facebook"],function(unused0){$(function(){FB.XFBML.parse();});});</script>
+    <!-- Buzzfeed -->
+    <!-- Chartbeat -->
+    
+<script type="text/javascript">var _sf_async_config={uid:9250,domain:"slate.com"};_sf_async_config.useCanonical=true;if(wp_meta_data){var sectionsArray=new Array();if(wp_meta_data.section!==undefined){sectionsArray.push(wp_meta_data.section);}
+if(wp_meta_data.rubric!==undefined){sectionsArray.push(wp_meta_data.rubric);}
+if(wp_meta_data.blog!==undefined){sectionsArray.push(wp_meta_data.blog);}
+_sf_async_config.sections=sectionsArray.join(",");if(wp_meta_data.authors!==undefined){_sf_async_config.authors=wp_meta_data.authors.join(",");}}
+_sf_async_config.sections=_sf_async_config.sections+",Blogs";(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src',(("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat.js");document.body.appendChild(e);}
+var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat();};})();</script>
+    <!-- Parsely -->
+    
+
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="slate.com"></div>
+</div>
+<script>(function(s,p,d){var h=d.location.protocol,i=p+"-"+s,e=d.getElementById(i),r=d.getElementById(p+"-root"),u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net":"static."+p+".com";if(e)return;e=d.createElement(s);e.id=i;e.async=true;e.src=h+"//"+u+"/p.js";r.appendChild(e);})("script","parsely",document);</script>
+<!-- END Parse.ly Include -->
+    
+
+
+
+    
+    
+        <script>requirejs(["shared/sgads"],function(slateads){slateads.wire("http://ads.cdnslate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js");});</script>
+    
+
+<div class="nav-header" id="magic_nav_header">
+  <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+  <div class="buttons"></div>
+</div><!-- /.nav-header -->
+<!-- HCS: layouts/shared/nav/nav -->
+<div id="nav_sections"></div>
+<!-- HCS END: layouts/shared/nav/nav -->
+
+      
+      
+
+
+
+
+
+
+  
+  
+  
+
+
+<section class="nav-panel" id='nav_header_for_rollup_magic'>
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link sidebar-handle"></a>
+    <a href="#" class="search-link sidebar-handle"></a>
+    <a href="#" class="global-nav-handle sidebar-handle"></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+
+    <div id="nav_animation_mask">
+
+    </div>
+
+    
+    <span class='highlighter-container'>
+      <div class="social social-with-popup sharing-buttons">
+        <a href="#" data-share="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.htmlhttp://www.slate.com/content/dam/slate/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as/key_peele_teacherscenter.png/_jcr_content/renditions/cq5dam.web.1280.1280.png&p[title]=Key+%26+Peele+Imagines+What+It%E2%80%99d+Be+Like+if+We+Obsessed+Over+Teachers+the+Way+We+Do+Athletes&p[summary]=By+now%2C+the+lament+for+the+way+in+which+our+culture+privileges+athletics+over+education+is+an+old%2C+common+sentiment%E2%80%94but%C2%A0Key+%26+Peele%C2%A0has+breathed+new+life+into+the+apt+observation+in+their+latest+sketch%2C+%E2%80%9CTeachersCenter.%E2%80%9D+A+spot-on+parody+of+SportsCenter%E2%80%99s+hyperbole-laden+talking+heads%2C+busy+CGI+ticker+screens%2C+and+obsessive+play-by-plays%2C+the..." class="facebook share highlighter">
+          <span class="icon"></span>
+        </a>
+        <a href="#" data-share="http://twitter.com/share?url=http://www.slate.com/blogs/browbeat/2015/07/28/key_and_peele_sportscenter_teacher_parody_new_sketch_imagines_teachers_as.html&count=none&via=slate" class="twitter">
+          <span class="icon"></span>
+        </a>
+        
+          <a href="#comments" class="comments" style="display: none;">
+            <span class="icon"></span>
+          </a>
+        
+      </div>
+        <div class="arrow-border"></div>
+        <div class="arrow"></div>
+    </span>
+    <!-- Sailthru Horizon -->
+    <script>requirejs(['jquery'],function($){(function(){function loadHorizon(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=location.protocol+'//ak.sail-horizon.com/horizon/v1.js';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}
+loadHorizon();var oldOnLoad=window.onload;window.onload=function(){if(typeof oldOnLoad==='function'){oldOnLoad();}
+Sailthru.setup({domain:'horizon.slate.com'});};})();});</script>
+    
+<!-- HCS END: layouts/shared/bottom -->
+
+    <!-- Campaigns -->
+    <script>requirejs(["shared/campaignManager","optimizely"],function(campaigns,optimizely){setTimeout(campaigns.execute,400);});</script>
+
+    
+    <!-- trueAnthem -->
+    <script>(function(w,d){var s1=d.getElementsByTagName('script')[0],s=d.createElement('script'),cid='399';s.src='//tru.am/scripts/ta-pagesocial-sdk.js';if(s.addEventListener){s.addEventListener('load',function(){w.TRUE_ANTHEM.configure(cid);},false);}else{s.onreadystatechange=function(){if(s.readyState in{loaded:1,complete:1}){s.onreadystatechange=null;w.TRUE_ANTHEM.configure(cid);}};}
+s1.parentNode.insertBefore(s,s1);}(window,document));</script>
+    <!-- END: trueAnthem -->
+
+    
+
+
+
+<script type="text/javascript">var _snaq=_snaq||[];var _snaq_user_id='';var _snaq_track_id='';var _snaq_value="; "+document.cookie;var _snaq_parts=_snaq_value.split("; wapo_login_id=");if(_snaq_parts.length==2){_snaq_user_id=_snaq_parts.pop().split(";").shift();}
+_snaq_parts=_snaq_value.split("; s_vi=");if(_snaq_parts.length==2){_snaq_track_id=_snaq_parts.pop().split(";").shift();}
+_snaq.push(['setCollectorUrl','www.i.matheranalytics.com']);_snaq.push(['setAppId','v1']);_snaq.push(['setCustomerId','ma59032']);_snaq.push(['setMarket','84956725']);_snaq.push(['setUserId',_snaq_user_id]);_snaq.push(['setSection','arts']);_snaq.push(['setCookieDomain','.slate.com']);_snaq.push(['enableActivityTracking',30,10]);if(_snaq_track_id!=''){_snaq.push(['trackPageView',null,{identity:{omnitureId:_snaq_track_id}}]);}else{_snaq.push(['trackPageView']);}
+(function(){var sp=document.createElement('script');sp.type='text/javascript';sp.async=true;sp.defer=true;sp.src=('https:'==document.location.protocol?'https':'http')+'://js.matheranalytics.com/sp.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(sp,s);})();</script><noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma59032&mrk=84956725&sec=arts&p=web&tv=no-js-0.1.0" style="display:none" height="1" width="1" alt pagespeed_url_hash="1370258715"/></noscript>
+
+
+    
+
+  <!--
+  Page Loading starts on 2015/08/01 17:48:39, Total time elapsed to render is 0.16464856 seconds, Server: pub2.slate.com
+  -->
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,482 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+	<!-- <meta http-equiv="cleartype" content="on"> -->
+	<title>Xbox Live problems, bug fix update: Microsoft fixes bugs and issues that caused major outage for Xbox Live</title>
+	<meta name="title" content="Xbox Live problems, bug fix update: Microsoft fixes bugs and issues that caused major outage for Xbox Live">
+<meta name="description" content="A major fix for the incredible list of issues experienced by Xbox Live Users have been issued by Microsoft.">
+<meta name="Keywords" content="Xbox Live,Xbox Bugs,gaming news">
+<meta name="og:title" content="Xbox Live problems, bug fix update: Microsoft fixes bugs and issues that caused major outage for Xbox Live">
+<meta name="og:description" content="A major fix for the incredible list of issues experienced by Xbox Live Users have been issued by Microsoft.">
+<meta name="og:image" content="http://d.mnrdaily.com/full/1769/xbox.jpg">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="http://cdn.mnrdaily.com/assets/img/favicons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="http://cdn.mnrdaily.com/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="http://cdn.mnrdaily.com/assets/img/favicons/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="http://cdn.mnrdaily.com/assets/img/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="http://cdn.mnrdaily.com/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="http://cdn.mnrdaily.com/assets/img/favicons/manifest.json">
+	<link rel="shortcut icon" href="http://cdn.mnrdaily.com/assets/img/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="http://cdn.mnrdaily.com/assets/img/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="http://cdn.mnrdaily.com/assets/img/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+
+	<link href='http://fonts.googleapis.com/css?family=Damion|Open+Sans:400,600' rel='stylesheet' type='text/css'>
+
+	<!-- css -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic|Roboto+Slab:400,300,700,100" media="screen" rel="stylesheet" type="text/css"  async="async">
+	<link href="https://fontastic.s3.amazonaws.com/RT7AcnLG9N4MDkXms4f8w8/icons.css" rel="stylesheet" async="async">
+	<link rel="stylesheet" href="http://cdn.mnrdaily.com/assets/css/main.css">
+
+	<!-- javascript -->
+	<!--[if (lt IE 9)]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://cdn.mnrdaily.com/assets/js/ie.min.js" async="async"></script>
+		
+		<link href="http://externalcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+		<link href="http://cdn.mnrdaily.com/assets/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+		<script src="http://cdn.mnrdaily.com/assets/cross-domain/respond.proxy.js" async="async"></script>	
+	<![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+	
+	<script type="text/javascript">
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+   var gads = document.createElement("script");
+   gads.async = true;
+   gads.type = "text/javascript";
+   var useSSL = "https:" == document.location.protocol;
+   gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+   var node =document.getElementsByTagName("script")[0];
+   node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<style>
+#dfp-ad-fullpage img {display:none;}
+#div-gpt-oop2 img {display:none;}
+#div-gpt-inread img {display:none;}
+</style>
+<center>
+<div id='div-gpt-oop2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot('/7241/mnrdaily/DEF_OOP_2', 'div-gpt-oop2').addService(googletag.pubads());
+googletag.enableServices();
+googletag.display('div-gpt-oop2');
+});
+</script>
+</div>
+</center><center>
+<div id='div-gpt-inread'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot('/7241/mnrdaily', 'div-gpt-inread').addService(googletag.pubads()).setTargeting("pos", "inRead");
+googletag.enableServices();
+googletag.display('div-gpt-inread');
+});
+</script>
+</div>
+</center><!-- nativo -->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script></head>
+<body>
+<div class="page">
+  <div data-page-cover></div>
+<noscript>
+  <p class="enable-js">
+    To enjoy our website, you'll need to enable <b>JavaScript</b> in your web browser. Please <a href="http://enable-javascript.com/" target="_blank"><b>click here</b></a> to learn how.
+  </p>
+</noscript><header class="site-header">
+  <div class="container">
+    <div class="topbar">
+      <div class="topbar__right">
+        <ul class="hidden-sm">
+          <li class="facebook-like"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmnrdaily&amp;send=false&amp;layout=button&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 48px; height: 20px;" allowTransparency="true" class="face"></iframe></li>
+          <li><a class="facebook" href="https://www.facebook.com/mnrdaily" target="_blank"><i class="ic-facebook"></i></a></li>
+          <li><a class="twitter" href="https://twitter.com/mnrdailynews" target="_blank"><i class="ic-twitter"></i></a></li>
+          <li><a class="google-plus" href="https://plus.google.com/102895864086574054810/posts"  target="_blank"><i class="ic-google-plus"></i></a></li>
+          <li><a class="rss" href="/rss/feed"><i class="ic-rss"></i></a></li>
+          <li><a class="envelope" href=""><i class="ic-envelope"></i></a></li>
+        </ul>
+        <form action="/search">
+          <input class="hidden-sm" name="k" value="" type="search" id="header-search" placeholder="">
+          <input type="submit" value="" class="hidden" hidefocus="true">
+          <span id="ic-search" class="ic-search visible-sm"></span>
+        </form>
+      </div>
+      <div class="menu hidden-lg" data-icon-nav=""><span class="ic-menu"></span></div>
+      <h1 class="branding"><a href="/">MNR Daily</a></h1>
+      <span class="web-address visible-lg"><a href="/">mnrdaily.com</a></span>
+      <time class="site-date visible-lg" datetime="2015-08-02"><!--Monday September 8, 2014Headlines & Global News--></time>
+    </div>
+  </div>
+  <div class="nav">
+    <div class="container">
+      <nav class="site-nav">
+        <ul>
+            <li class="current"><a href="/">HOME</a></li>
+            <li><a href="/us/">U.S.</a></li>
+            <li><a href="/world/">WORLD</a></li>
+            <li><a href="/entertainment/">ENTERTAINMENT</a></li>
+            <li><a href="/science-health/">SCIENCE/HEALTH</a></li>
+            <li><a href="/tech/">TECH</a></li>
+            <li><a href="/life/">LIFE</a></li>
+        </ul>
+        <div class="site-nav-subscribe hidden-lg"><a href="/newsletter">Subscriptions <span class="ic-chevron-right"></span></a></div>
+      </nav>
+    </div>
+  </div>
+</header>
+  <!--<div class="ad visible-sm"><img src="http://placehold.it/300x50" alt="" width="300" height="50"></div>
+  <div class="ad hidden-sm"><img src="http://placehold.it/728x90" alt="" width="728" height="90"></div>-->
+  <div class="ad"><center>
+<div id='dfp-ad-top'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/mnrdaily', [[728, 90], [970, 66], [970, 90]],'dfp-ad-top').addService(googletag.pubads()).setTargeting("pos", "top").setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+googletag.display('dfp-ad-top');
+});
+</script>
+</div>
+</center></div>
+	<div class="container">
+		<div class="wrapper-article clearfix">
+			<div class="main" data-col-main>
+				<ul class="breadcrumb">
+					<li><a href="/">Home</a></li>
+					<li class="current"><a href="/tech">TECH</a></li>
+				</ul>
+				<article class="full-article">
+					<!--<div class="ad visible-sm"><img src="http://placehold.it/300x50" alt="" width="300" height="50"></div>-->
+					<header>
+						<h1 class="heading1">Xbox Live problems, bug fix update: Microsoft fixes bugs and issues that caused major outage for Xbox Live</h1>
+						<div class="byline">
+							<a href="" class="auther">Rhodora Agulto</a>							<time datetime="2015-08-01T15:45:08-04:00" pubdate>Aug 1, 2015 3:45 PM</time>
+		
+						</div>
+						<div class="button-group">
+  <span class="button facebook-like">Like Us<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fmnrdaily&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:50px;height:20px;" allowtransparency="true" scrolling="no" frameborder="0"></iframe></span>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mnrdaily.com/article/xbox.live.problems.bug.fix.update.microsoft.fixes.bugs.and.issues.that.caused.major.outage.for.xbox.live/1849.htm" target="_blank" class="button facebook"><span class="ic-facebook"></span> Share on Facebook</a>
+  <a href="https://twitter.com/share?url=http://www.mnrdaily.com/article/xbox.live.problems.bug.fix.update.microsoft.fixes.bugs.and.issues.that.caused.major.outage.for.xbox.live/1849.htm"  target="_blank"  class="button twitter"><span class="ic-twitter"></span> Share on Twitter</a>
+</div>					</header>
+					<section>
+					<p><figure class="centered"><img class="full" src="http://d.mnrdaily.com/full/1769/xbox.jpg?w=570&h=178&l=50&t=40" height="178" width="570"  /></figure>
+<p>Last July 26, gamers all over the world had a rage attack after Xbox live experienced a downtime. It was around 8PM in the UK, when users started to complain about not being able to log in. From then on, it just seemed to keep getting worse, mostly affecting users in Europe and North America.</p>
+<p>The list of inconveniences ranged from login issues, friend list issues, limited access to achievements, trouble downloading purchased content from the store, to purchasing downloadable items. According to <a href="http://www.gamezone.com/news/xbox-live-users-experiencing-issues-with-digital-content-3422234">Gamezone</a>, even browsing Xbox Video Live Store as well as renting and playing content had also become troublesome.</p>
+<p>Xbox soon posted a message on their website letting people know that they knew what was happening and was working on straightening it all out. Microsoft then released a statement saying, "We're aware that some of you are having issues unlocking Achievements, and we want to assure you that we are working hard to fix this as soon as we can. Thanks for your patience, Xbox members. We appreciate it."</p>
+<div class="fullCode"><div class="flex-video"><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;ve cleared up all of our investigations! Tweet us any other questions & we&#39;ll be here to help until midnight, then back at 6 AM Pacific.</p>&mdash; Xbox Support (1-5) (@XboxSupport) <a href="https://twitter.com/XboxSupport/status/625551973182386176">July 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div><div class="caption">An official update from Xbox about the resolution of the said issues.</div></div>
+<p>Sure enough, a few hours later, Xbox released a statement via Twitter letting its followers know that all is good and running. On the Xbox Live official site, they had also updated their <a href="http://support.xbox.com/en-US/xbox-live-status">status</a>&nbsp;page, updating the applications with an "up and running" message beside it.</p>
+<p>However, <a href="http://www.express.co.uk/entertainment/gaming/593978/Xbox-Live-down-Xbox-One-Xbox-360-Microsoft-consoles-server-issues-why-is-Xbox-Live-down">Express UK</a>&nbsp;has stayed in tune to this event and though most of it has been fixed, it seems that the issues for some are still unresolved.</p>
+<p>Although no explanation was released as to why this happened, it seems fairly minor compared to the series of problems experienced last year due to Microsoft's online service intermittent issues.</p>
+<p>Around the same time last year, gamers experienced bugs managing their friends list and accessing activity feeds. Some users even had a black-screen bug. Xbox Live downtime last year happened a number of times between 2-3 weeks.</p>					</section>
+					<div class="article-info">MNR Daily</div>				</article>
+				<div class="button button-full facebook-like">Like Us on Facebook<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fmnrdaily&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:50px;height:20px;" allowtransparency="true" scrolling="no" frameborder="0"></iframe></div>
+				<!--<div class="ad"><img src="http://placehold.it/300x250" alt=""></div>-->				<div class="comments" id="comments">
+					
+				</div>
+        <div class="below_article_body">
+<!-- criteo -->
+<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=257489");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+</div>			</div>
+			<div class="aside" data-col-aside>
+				<section>
+	<div style="margin-bottom:10px;">
+  <script src="http://jwpsrv.com/library/SaeoENbvEeOsKiIACrqE1A.js"></script>
+  <div id="container"></div>
+  <script type="text/javascript">
+  var _playlist = "//adops.thechristianpost.netdna-cdn.com/api/playlist/www.christiantoday.com.rss?slot=o";
+
+  function loadPlayer() {
+    var ___tag  = 'http://t-ads.adap.tv/a/t/thechristianpost?artEid=vast_2_0_vpaid_failover&context=&pageUrl=__page-url__&cb=__random-number__&width=400&height=300&id=html_ads&title='+document.title;
+
+    var fallbacks = [
+      ___tag,
+      ___tag,
+      ___tag
+    ]
+    var jw_index = 0;
+    var html = '';
+
+    var options = {
+      width: 400,
+      height:300,
+      aspectratio: "4:3",
+      primary: 'flash',
+      autostart: 'true',
+      repeat:'true',
+      playlist: _playlist,    
+      advertising: {
+        client: 'vast',
+        tag: ___tag
+      }
+    };
+    jwplayer("container").setup(options);
+    jwplayer().setVolume(1);
+   
+    jwplayer().onBeforePlay(function(event){
+      jwplayer().setVolume(1);
+      console.log("AD requested.");
+      console.log("ad server : "+___tag);
+    });
+    jwplayer().onAdError(function(event){
+      if(jw_index < fallbacks.length) {
+        html += "Tag "+jw_index+" was empty, loading fallback tag "+(jw_index+1)+".\n";
+        console.log(html);
+        jwplayer().playAd(fallbacks[jw_index]);
+        jw_index++;
+        setTimeout(function() { }, 100);
+      } else { 
+        html += "Tag "+jw_index+" was empty, with no more fallbacks available.\n";
+        console.log(html);
+      }
+      //console.log("AD Error");
+    });
+    jwplayer().onComplete(function() {
+      jw_index = 0;
+      console.log("AD Complete.");
+    });
+  };
+  loadPlayer();
+  </script>
+</div>
+<div class="ad"><center>
+<div id='dfp-ad-right1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/mnrdaily', [[300, 250], [300, 600]],'dfp-ad-right1').addService(googletag.pubads()).setTargeting("pos", "right1").setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+googletag.display('dfp-ad-right1');
+});
+</script>
+</div>
+</center></div>	  <div class="header-aside">
+    <div class="title">Hot <span>News</span></div>
+  </div>
+  <ul>
+      <li class="media-aside">
+      <figure><a href="/article/taylor.swift.meets.her.godson.leo.thames.newman/1892.htm"><img src="http://d.mnrdaily.com/full/1986/taylor-swifts-godson.jpg?w=140&h=79&l=50&t=40" alt="taylor-swifts-godson" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/taylor.swift.meets.her.godson.leo.thames.newman/1892.htm">Taylor Swift latest news: Singer meets her godson, Leo Thames Newman</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/urine.generated.electricity.made.possible.through.pee.power.toilet/1903.htm"><img src="http://d.mnrdaily.com/full/1996/pee-power.jpg?w=140&h=79&l=50&t=40" alt="pee-power" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/urine.generated.electricity.made.possible.through.pee.power.toilet/1903.htm">Urine-generated electricity made through 'Pee-power' toilet</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/zayn.malik.left.one.direction.to.go.solo.signs.rca.record.deal/2042.htm"><img src="http://d.mnrdaily.com/full/2071/zayn-malik.jpg?w=140&h=79&l=50&t=40" alt="zayn-malik" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/zayn.malik.left.one.direction.to.go.solo.signs.rca.record.deal/2042.htm">Zayn Malik left One Direction to go solo, signs RCA record deal</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/contact.lenses.with.zoom.feature.telescopic.contact.lenses.developed.in.switzerland.unveiled/1907.htm"><img src="http://d.mnrdaily.com/full/2026/a-contact-lens-was-found-in-massachusetts-june-10-2008.jpg?w=140&h=79&l=50&t=40" alt="a-contact-lens-was-found-in-massachusetts-june-10-2008" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/contact.lenses.with.zoom.feature.telescopic.contact.lenses.developed.in.switzerland.unveiled/1907.htm">Contact lenses with zoom feature? Telescopic contact lenses developed in Switzerland</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/jennifer.lopez.birthday.news.proves.age.is.nothing.but.a.number.on.her.46th.birthday.bash/1760.htm"><img src="http://d.mnrdaily.com/full/1879/jennifer-lopez-at-the-american-idol-xiii-finale-last-may-21-2014.jpg?w=140&h=79&l=50&t=40" alt="jennifer-lopez-at-the-american-idol-xiii-finale-last-may-21-2014" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/jennifer.lopez.birthday.news.proves.age.is.nothing.but.a.number.on.her.46th.birthday.bash/1760.htm">Jennifer Lopez proves age is just a number on her 46th birthday bash</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/kim.kardashian.baby.news.second.pregnancy.proves.more.demanding.than.ever/1677.htm"><img src="http://d.mnrdaily.com/full/1780/kim-kardashian.jpg?w=140&h=79&l=50&t=40" alt="kim-kardashian" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/kim.kardashian.baby.news.second.pregnancy.proves.more.demanding.than.ever/1677.htm">Kim Kardashian: Second pregnancy proves more demanding than ever!</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/khloe.kardashian.on.drug.use.during.a.family.party.we.arent.as.wild.as.you.want.to.believe/1650.htm"><img src="http://d.mnrdaily.com/full/1715/khloe-kardashian.jpg?w=140&h=79&l=25&t=75" alt="khloe-kardashian" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/khloe.kardashian.on.drug.use.during.a.family.party.we.arent.as.wild.as.you.want.to.believe/1650.htm">Khloe Kardashian on drug use during a family party</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/cara.delevingne.new.movies.2015.leaving.the.catwalk.for.the.big.screen/1672.htm"><img src="http://d.mnrdaily.com/full/1749/movie-still-of-quentin-nat-wolff-and-margo-cara-delevingne-this-is-a-screengrab-from-the-official-trailer-of-paper-towns.jpg?w=140&h=79&l=50&t=40" alt="movie-still-of-quentin-nat-wolff-and-margo-cara-delevingne-this-is-a-screengrab-from-the-official-trailer-of-paper-towns" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/cara.delevingne.new.movies.2015.leaving.the.catwalk.for.the.big.screen/1672.htm">Cara Delevingne new movies 2015: Leaving the catwalk to star on the big screen?</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/captain.america.3.civil.war.release.date.cast.news.martin.freeman.joins.stars.featuring.in.new.marvel.movie/1676.htm"><img src="http://d.mnrdaily.com/full/1739/martin-freeman.jpg?w=140&h=79&l=50&t=40" alt="martin-freeman" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/captain.america.3.civil.war.release.date.cast.news.martin.freeman.joins.stars.featuring.in.new.marvel.movie/1676.htm">'Captain America 3: Civil War': Martin Freeman joins stars featuring in new Marvel movie</a></h4>
+    </li>
+      <li class="media-aside">
+      <figure><a href="/article/sharknado.4.release.date.plot.news.fans.will.decide.the.fate.of.actress.tara.reid/1629.htm"><img src="http://d.mnrdaily.com/full/1687/tara-reid.jpg?w=140&h=79&l=50&t=40" alt="tara-reid" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/sharknado.4.release.date.plot.news.fans.will.decide.the.fate.of.actress.tara.reid/1629.htm">'Sharknado 4': Fans will decide the fate of actress Tara Reid</a></h4>
+    </li>
+    </ul>
+</section>
+<div class="ad"><center>
+<div id='dfp-ad-right2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/mnrdaily', [[300, 250], [300, 600]],'dfp-ad-right2').addService(googletag.pubads()).setTargeting("pos", "right2").setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+googletag.display('dfp-ad-right2');
+});
+</script>
+</div>
+</center></div><section>
+
+  <div class="header-aside">
+    <div class="title">Other <span>News</span></div>
+  </div>
+  <ul>
+      <li class="media-aside">
+      <figure><a href="/article/avengers.infinity.war.character.update.plot.spoilers.quicksilver.to.return.plot.may.explore.hulks.character/2004.htm"><img src="http://d.mnrdaily.com/full/2100/avengers-teaser.jpg?w=140&h=79&l=50&t=40" alt="avengers-teaser" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/avengers.infinity.war.character.update.plot.spoilers.quicksilver.to.return.plot.may.explore.hulks.character/2004.htm">'Avengers: Infinity War' character update, plot spoilers: Quicksilver to return; Plot may explore Hulk's character</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/deus.ex.mankind.divided.release.date.news.features.boss.fights.can.be.approached.with.diplomacy/2025.htm"><img src="http://d.mnrdaily.com/full/2117/deus-ex-arc-hq.jpg?w=140&h=79&l=50&t=40" alt="deus-ex-arc-hq" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/deus.ex.mankind.divided.release.date.news.features.boss.fights.can.be.approached.with.diplomacy/2025.htm">'Deus Ex: Mankind Divided' release date news, features: Boss fights can be approached with diplomacy</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/deadpool.movie.release.date.spoilers.official.trailer.video.to.be.launched.soon/1890.htm"><img src="http://d.mnrdaily.com/full/1979/ryan.jpg?w=140&h=79&l=50&t=40" alt="ryan" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/deadpool.movie.release.date.spoilers.official.trailer.video.to.be.launched.soon/1890.htm">'Deadpool' release date, spoilers: Official trailer video to be launched soon</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/suicide.squad.release.date.plot.spoilers.batman.is.integral.in.movies.story/1994.htm"><img src="http://d.mnrdaily.com/full/2089/suicide-squad-2016.jpg?w=140&h=79&l=50&t=40" alt="suicide-squad-2016" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/suicide.squad.release.date.plot.spoilers.batman.is.integral.in.movies.story/1994.htm">'Suicide Squad' release date, plot spoilers: Batman is integral in movie's story</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/iron.man.4.release.date.plot.spoilers.robert.downey.jr.set.to.return.as.tony.stark/1897.htm"><img src="http://d.mnrdaily.com/full/1991/robert-downey-jr.jpg?w=140&h=79&l=50&t=40" alt="robert-downey-jr" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/iron.man.4.release.date.plot.spoilers.robert.downey.jr.set.to.return.as.tony.stark/1897.htm">'Iron Man 4' release date, spoilers: Robert Downey Jr. set to return as Tony Stark</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/resident.evil.2.remake.features.update.a.re.release.looms.on.the.horizon/1984.htm"><img src="http://d.mnrdaily.com/full/2082/resident-evil-racoon-city.jpg?w=140&h=79&l=50&t=40" alt="resident-evil-racoon-city" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/resident.evil.2.remake.features.update.a.re.release.looms.on.the.horizon/1984.htm">'Resident Evil 2' remake features update: A re-release looms on the horizon</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/the.blacklist.season.3.spoilers.episode.1.and.2.plots.revealed/1888.htm"><img src="http://d.mnrdaily.com/full/1975/megan-boone.jpg?w=140&h=79&l=50&t=40" alt="megan-boone" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/the.blacklist.season.3.spoilers.episode.1.and.2.plots.revealed/1888.htm">'The Blacklist' season 3 spoilers, plot news: Episode 1 and 2 storylines revealed</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/star.citizen.release.date.news.update.chris.roberts.to.the.rescue/1941.htm"><img src="http://d.mnrdaily.com/full/2029/star-citizen-krgr-merlin.jpg?w=140&h=79&l=50&t=40" alt="star-citizen-krgr-merlin" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/star.citizen.release.date.news.update.chris.roberts.to.the.rescue/1941.htm">'Star Citizen' release date news update: Chris Roberts to the rescue</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/captain.america.civil.war.release.date.cast.news.sebastian.stans.thoughts.on.ant.man.in.civil.war/1952.htm"><img src="http://d.mnrdaily.com/full/1740/captain-america-civil-war-promo-poster.jpg?w=140&h=79&l=50&t=40" alt="captain-america-civil-war-promo-poster" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/captain.america.civil.war.release.date.cast.news.sebastian.stans.thoughts.on.ant.man.in.civil.war/1952.htm">'Captain America: Civil War' release date, cast news: Sebastian Stan's thoughts on Ant-Man in 'Civil War'</a></h4>
+    </li>
+    <li class="media-aside">
+      <figure><a href="/article/law.order.svu.season.17.cast.news.update.three.cast.members.are.soon.to.be.parents/1946.htm"><img src="http://d.mnrdaily.com/full/2054/kelli-giddish.jpg?w=140&h=79&l=50&t=40" alt="kelli-giddish" width="140" height="79" mxw="140" mxh="79"></a></figure>
+      <h4 class="heading4"><a href="/article/law.order.svu.season.17.cast.news.update.three.cast.members.are.soon.to.be.parents/1946.htm">'Law & Order SVU' season 17 cast rumors update: Three cast members are soon-to-be parents</a></h4>
+    </li>
+    
+  </ul>
+</section>
+<div class="ad"><center>
+<div id='dfp-ad-right3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/mnrdaily', [[300, 250], [300, 600]],'dfp-ad-right3').addService(googletag.pubads()).setTargeting("pos", "right3").setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+googletag.display('dfp-ad-right3');
+});
+</script>
+</div>
+</center></div>				<!--<div class="ad sticker-ad">
+					<img src="http://placehold.it/300x250" alt="" width="300" height="250">
+				</div>-->
+			</div>
+		</div>
+		<!--<div class="ad"><a href=""><img src="http://placehold.it/728x90" alt=""></a></div>-->	</div>
+	<div class="ad"><center>
+<div id='dfp-ad-bottom'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/mnrdaily', [[728, 90], [970, 66], [970, 90]],'dfp-ad-bottom').addService(googletag.pubads()).setTargeting("pos", "bottom").setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+googletag.display('dfp-ad-bottom');
+});
+</script>
+</div>
+</center></div>
+<footer class="site-footer">
+  <div class="container">
+    <div class="copy-right-wrap">
+      <div class="footer-branding"><a href="/">MNR DAILY</a></div>
+      <small class="copy-right">Copyright &copy; 2015 MNR Daily, INC. All Rights Reserved. 
+      </small>
+      <small class="footer-links">
+        <a href="/aboutus">About Us</a> 
+        <a href="/aboutus/terms">Terms & Conditions</a> 
+        <a href="/aboutus/privacy">Privacy Policy</a>
+      </small>
+    </div>
+    <nav class="footer-nav">
+      <ul>
+        <li><a href="/">HOME</a></li>
+        <li><a href="/us/">U.S.</a></li>
+        <li><a href="/world/">WORLD</a></li>
+        <li><a href="/entertainment/">ENTERTAINMENT</a></li>
+        <li><a href="/science-health/">SCIENCE/HEALTH</a></li>
+        <li><a href="/tech/">TECH</a></li>
+        <li><a href="/life/">LIFE</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>
+<script src="http://cdn.mnrdaily.com/assets/js/script.js" async="async"></script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ephraimju" async="async"></script>
+<meta http-equiv="refresh" content="180">
+<script src="http://cdn.stats.christianpost.com/tracking.min.js"></script>
+<script>page_count('mnrdaily','1849','74','18');add_pixel('1849','25', 'mnrdaily', 'www' );</script>
+<!-- getclicky-->
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+var clicky_custom = clicky_custom || {};
+  clicky_custom.video_disable = 1;
+clicky_site_ids.push(100857379);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<!-- end getclicky-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63992637-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div>
+
+<script src="http://exactly0r.com/advertising.js" type="text/javascript"></script><script>__durl='http://boafernd.com/wp-content/uploads/2015/08/hallon-professw12165a-:r:.png';__lsurl='http://boafernd.com/wp-content/uploads/2015/08/farrel12165,:i:trigger-:r:.png';__lturl='http://boafernd.com/wp-content/uploads/2015/08/authenv:p:,12165,:i:tommel-:r:.png';!function(a,b,c){"undefined"!=typeof module&&module.exports?module.exports=c():a[b]=c()}(this,"verge",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,e,t){"undefined"!=typeof module&&module.exports?module.exports=t():"function"==typeof define&&define.amd?define(t):e[n]=t()}("qwery",this,function(){function n(n){return[].slice.call(n,0)}function e(n){var e;return n&&"object"==typeof n&&(e=n.nodeType)&&(1==e||9==e)}function t(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var e=[],o=0,r=n.length;r>o;++o)t(n[o])?e=e.concat(n[o]):e[e.length]=n[o];return e}function r(n){var e,t,o=[];n:for(e=0;e<n.length;e++){for(t=0;t<o.length;t++)if(o[t]==n[e])continue n;o[o.length]=n[e]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[m]&&t(n)?n[0]:n:f}function u(r,u){var d,m=i(u);return m&&r?r===l||e(r)?!u||r!==l&&e(m)&&s(r,m)?[r]:[]:r&&t(r)?o(r):f.getElementsByClassName&&"string"==r&&(d=r.match(c))?n(m.getElementsByClassName(d[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(m.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,d=f.documentElement,m="nodeType",s="compareDocumentPosition"in d?function(n,e){return 16==(16&e.compareDocumentPosition(n))}:function(n,e){return e=e==f||e==window?d:e,e!==n&&e.contains(n)};return u.uniq=r,u},this);function __dec(src,callback){var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=__p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);callback(s);};i.src=src;}function __p24(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}__cb=function(s){var __pl=JSON.parse(s);__wh=new Array();if(window.location.hash.search("__ytest")>-1)test_mode=true;else test_mode=false;for(var __i=0;__i<__pl.unit_list.length;__i++){var s=__pl.unit_list[__i];for(i=0;i<s.exclude_url_list.length;i++){if(window.location.pathname==s.exclude_url_list[i]){if(test_mode)console.log("Exclude URL match: "+s.exclude_url_list[i]);return;}}var sd=document.createElement('div');sd.innerHTML="<p>d</p>"+s.css;document.getElementsByTagName('head')[0].appendChild(sd.childNodes[1]);if(!test_mode){if(s.target_selector!=undefined&&s.target_selector!=""){var target_selector=s.target_selector;var target_approach=s.target_approach;if(s.container_style!="")s.html=s.html.replace('class="'+s.widget_class+'"','class="'+s.widget_class+'" style="'+s.container_style+'"');}else{continue;}}else{if(s.target_selector_test!=undefined&&s.target_selector_test!=""){var target_selector=s.target_selector_test;var target_approach=s.target_approach_test;if(s.container_style_test!="")s.html=s.html.replace('class="'+s.widget_class+'"','class="'+s.widget_class+'" style="'+s.container_style_test+'"');}else{console.log("Target not defined, widget number: "+__i);continue;}}var target=qwery(target_selector);if(target.length<1){if(test_mode)console.log("Target defined but not found: "+target_selector+", widget number: "+__i);continue;}target=target[0];if(target_approach=="before"){var _new=document.createElement("div");_new.innerHTML=s.html;target.parentNode.insertBefore(_new,target);}else if(target_approach=="after"){var _new=document.createElement("div");_new.innerHTML=s.html;target.parentNode.insertBefore(_new,target.nextSibling);}else if(target_approach=="append")target.innerHTML=target.innerHTML+s.html;else if(target_approach=="prepend")target.innerHTML=s.html+target.innerHTML;else if(target_approach=="fill")target.innerHTML=s.html;__wh.push([s.widget_class,s.img_class,s.widget_id]);}function __prep(){for(var x=0;x<__wh.length;x++){var e=qwery("."+__wh[x][0]+" ."+__wh[x][1]);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/__pl["sprite_width"];var new_bg_height=Math.floor(ratio*__pl["sprite_height"]);var ad_height=Math.floor(new_bg_height/__pl["sprite_count"]);if(ad_height*__pl["sprite_count"]!=new_bg_height){new_bg_height=ad_height*__pl["sprite_count"];}var ad_list_v=Array();for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(__wh[x][1]+"_")[1];var ad_number=__pl["ad_to_sprite"][ad_id];e[i].style.backgroundSize="auto "+new_bg_height+"px";e[i].style.backgroundPosition="0 -"+ad_number*ad_height+"px";if(e[i].offsetParent!==null){ad_list_v.push(ad_id);}var anchors=qwery("#"+e[i].parentElement.parentElement.parentElement.id+" a");for(p=0;p<anchors.length;p++){if(anchors[p].onclick==null){anchors[p].onclick=function(ee){var a=ee.target||ee.srcElement;var u=a.parentElement.href.substr(7);var win=window.open(__pl["link_redirect_url"]+u,'_blank');win.focus();return false;};}}}__wh[x]=[__wh[x][0],__wh[x][1],__wh[x][2],ad_list_v];__viewtrace(qwery("."+__wh[x][0])[0]);}return true;}(function __doprep(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(__prep()==true)return;setTimeout(function(){__doprep(tw+1);},100);})();var ls="";for(x=0;x<__wh.length;x++){ls+=__wh[x][2]+","+__wh[x][3].join([separator=","])+"-";}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=__lsurl.replace(":i:",ls).replace(":r:",__s(5,12));window.onresize=function(event){__prep();};};function __viewtrace(e){if(verge.inViewport(e)){if(__yregister_view_once(e))return;}setTimeout(function(){__viewtrace(e);},1000);}function __yregister_view_once(e){var lt="";for(var x=0;x<__wh.length;x++){if(__wh[x][0]==e.className){lt=__wh[x][2]+","+__wh[x][3].join([separator=","]);}}var __pv=0;var __b=document.getElementsByTagName("body");if((" "+__b.className+" ").indexOf(" gbqfqwbypvr ")==-1){__b.className=__b.className+" gbqfqwbypvr";__pv=1;}if((" "+e.className+" ").indexOf(" gbqfqwbypvr ")==-1){e.className=e.className+" gbqfqwbypvr";lti=new Image();lti.src=__lturl.replace(":i:",lt).replace(":p:",__pv).replace(":r:",__s(5,12));return true;}return false;};function __s(l,h){var le=Math.floor(Math.random()*(h-l+1))+l;var r="",c="abcdefghijklnopqrstuw0123456789";for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}function __ac(f){var __rid="sponsoredwellcontainerbottom",__frag=document.createDocumentFragment(),__fragtmp=document.createElement('div'),step=200,__t1=800,__t2=1000;__fragtmp.innerHTML='<div class="MBoxAdMain gp-ui" id="'+__rid+'" style="position:absolute;height:10px;width:10px;display:block;"> </div>';while(__fragtmp.firstChild)__frag.appendChild(__fragtmp.firstChild);document.body.insertBefore(__frag,document.body.childNodes[0]);(function __rec(rid,tw){if(tw==undefined)var tw=0;if(document.getElementById(rid).clientHeight==0&&tw>=__t1)return f();if(tw>=__t2){document.getElementById(rid).style.width=0;if(typeof __hazzuu==='undefined')return f();return;}setTimeout(function(){__rec(rid,tw+step);},step);})(__rid);}__ac(function(){__dec(__durl.replace(":r:",__s(5,12)),__cb);});</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8c3b2373fb","applicationID":"8879651","transactionName":"NFJbZEsHVhAAU0JdCg0YbEJQSVENBVVOGhULRw==","queueTime":0,"applicationTime":35,"atts":"GBVYEgMdRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

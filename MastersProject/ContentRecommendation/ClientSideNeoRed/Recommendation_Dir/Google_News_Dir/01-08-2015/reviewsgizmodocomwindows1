@@ -1,0 +1,631 @@
+	<!DOCTYPE html><!--[if lt IE 8]>	 <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]--><!--[if IE 8]>	  <html class="no-js lt-ie9" lang="en-US"> <![endif]--><!--[if IE 9]>	<html class="no-js ie-9" lang="en-US"> <![endif]--><!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--><!-- THIS IS OVERLORD --><head><meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=EDGE" /><script async type="text/javascript" src="//kinja.com/api/profile/assets/javascripts/sso.js"></script>
+	<script type="text/javascript">
+		var _sf_startpt=(new Date()).getTime();
+		if (typeof(performance) !== 'undefined' && typeof performance.now === 'function') {
+			var _kinjaperf_start = performance.now();
+		}
+	</script>
+		
+	<script type="text/javascript">
+		(function () {
+		  var w = typeof window != 'undefined' ? window : exports,
+			  marks = [];
+		  w.performance || (w.performance = {});
+		  w.performance.now || (
+			w.performance.now = performance.now || performance.webkitNow ||
+									 performance.msNow || performance.mozNow);
+		  if (!w.performance.now){
+			var s = Date.now ? Date.now() : +(new Date());
+			if (performance.timing && performance.timing)
+			  s = performance.timing.navigationStart
+			w.performance.now = (function(){
+			  var n = Date.now ? Date.now() : +(new Date());
+			  return n-s;
+			});
+		  }
+		  w.performance.mark || (
+		  w.performance.mark =
+			w.performance.webkitMark ? w.performance.webkitMark :
+			(function (l) {
+			  marks.push({'name': l, 'entryType': 'mark', 'startTime': w.performance.now(), 'duration':0 });
+			}));
+		  w.performance.getEntriesByType || (
+		  w.performance.getEntriesByType =
+			w.performance.webkitGetEntriesByType ? w.performance.webkitGetEntriesByType :
+			(function (t) {
+			  return t == 'mark' ? marks : [];
+			}));
+		  w.performance.clearMarks || (
+			w.performance.clearMarks = w.performance.webkitClearMarks ? w.performance.webkitClearMarks :
+			(function () {
+			  marks = [];
+			}));
+		  w.markUserTime = function(l) {
+			setTimeout(function() {
+				if (typeof w.performance.mark === 'function') {
+					w.performance.mark(l);
+				}
+				if (w.console && w.console.timeStamp) {
+					w.console.timeStamp(l);
+				}
+			}, 0);
+		  };
+
+		}());
+	</script>
+		<script>
+	window.Krux || ((Krux = function () {
+		Krux.q.push(arguments);
+	}).q = []);
+	(function () {
+		function retrieve(n) {
+			var m, k = 'kx' + n;
+			if (window.localStorage) {
+				return window.localStorage[k] || "";
+			} else if (navigator.cookieEnabled) {
+				m = document.cookie.match(k + '=([^;]*)');
+				return (m && unescape(m[1])) || "";
+			} else {
+				return '';
+			}
+		}
+		Krux.user = retrieve('user');
+		Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+	})();
+	</script><link rel="stylesheet" href="//x.kinja-static.com/assets/stylesheets/tiger-e1d5126f9b51f513ece28716bd00a165.css"><meta name="dynamic-stylesheet" id="editor-css-url" content="//x.kinja-static.com/assets/stylesheets/editor-85c98609936506395a425d834b295a6e.css"><!-- Site specific colors -->	<style type="text/css">.u-sitecolored { stroke: ; }</style><meta name="google-site-verification" content="P13oAn8o8LB6FVCJWKsHWXvxfbR-SJrmvox6EgULpUs" /><!-- IE Fix for HTML5 Tags --><!--[if lte IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta charset="utf-8" /><!-- Set the viewport width to device width for mobile --><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0" /><meta name="ROBOTS" content="INDEX, FOLLOW" /><title>Windows 10, Day Five</title><!-- favicon and touch icons --><link rel="shortcut icon" href="https://i.kinja-img.com/gawker-media/image/upload/s--0kPLX1RL--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/vmo840oorkpnx2utciyt.png" /><link rel="apple-touch-icon" href="https://i.kinja-img.com/gawker-media/image/upload/s--T3OafQxJ--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/vmo840oorkpnx2utciyt.png" /><meta name="msapplication-square70x70logo" content="https://i.kinja-img.com/gawker-media/image/upload/s--0kPLX1RL--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/vmo840oorkpnx2utciyt.png" /><meta name="msapplication-square150x150logo" content="https://i.kinja-img.com/gawker-media/image/upload/s--T3OafQxJ--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/vmo840oorkpnx2utciyt.png" /><!-- rss --><link rel="alternate" type="application/rss+xml" title="Reviews - All stories" href="http://reviews.gizmodo.com/rss" /><!-- Open Graph/Facebook headers --><meta name="keywords" content="Windows 10, Windows, Microsoft, reviews, Reviews" /><meta name="news_keywords" content="Windows 10, Windows, Microsoft, reviews, Reviews" /><link rel="canonical" href="http://reviews.gizmodo.com/windows-10-day-five-1720608388" /><meta name="twitter:url" content="http://reviews.gizmodo.com/windows-10-day-five-1720608388" /><meta property="og:title" content="Windows 10, Day Five" /><meta property="og:type" content="article" /><meta name="twitter:image" content="https://i.kinja-img.com/gawker-media/image/upload/s--fqT5tiJY--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1361603851665534311.jpg" /><meta property="og:image" content="https://i.kinja-img.com/gawker-media/image/upload/s--fqT5tiJY--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1361603851665534311.jpg" /><meta name="author" content="Sean Hollister" /><meta property="og:url" content="http://reviews.gizmodo.com/windows-10-day-five-1720608388" /> <!-- permalink --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@kinja"><meta name="twitter:title" content="Windows 10, Day Five"><meta name="twitter:description" content="The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. When something goes wrong, I have to troubleshoot on the fly. I can’t say “Oh, I’ll just go back to my personal computer until I figure this out.” You know what’s not so nice? When you shoot the trouble, and yet—somehow—it survives.http://reviews.gizmodo.com/windows-10-day... Windows 10, Day Two Windows 10, Day Two Windows 10, Day Two Two days ago, I promised to upgrade my personal desktop and laptop to Windows 10, to demonstrate… Read more Read more"><meta property="og:description" content="The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. When something goes wrong, I have to troubleshoot on the fly. I can’t say “Oh, I’ll just go back to my personal computer until I figure this out.” You know what’s not so nice? When you shoot the trouble, and yet—somehow—it survives.http://reviews.gizmodo.com/windows-10-day... Windows 10, Day Two Windows 10, Day Two Windows 10, Day Two Two days ago, I promised to upgrade my personal desktop and laptop to Windows 10, to demonstrate… Read more Read more" /><meta name="description" content="The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. When something goes wrong, I have to troubleshoot on the fly. I can’t say “Oh, I’ll just go back to my personal computer until I figure this out.” You know what’s not so nice? When you shoot the trouble, and yet—somehow—it survives.http://reviews.gizmodo.com/windows-10-day... Windows 10, Day Two Windows 10, Day Two Windows 10, Day Two Two days ago, I promised to upgrade my personal desktop and laptop to Windows 10, to demonstrate… Read more Read more" /><meta property="og:locale" content="en_US" /><meta property="og:site_name" content="Reviews" /><meta property="fb:app_id" content="36368793975"/><script>window._K_MSGS = []; window._K_MSG_L = function (e) {_K_MSGS.push(e);}; window.addEventListener('message', window._K_MSG_L);</script></head><body class="reviewsgizmodo custom-skin permalink en-US f_ads_controller_on f_amazon_matchbuy_on f_analyticstracking_on f_bigpic_share_on f_cors_token_on f_dfp_promotions_on f_dfpnative_on f_discovery_pagination_on f_editor_html_position_fix_on f_foobar_foo f_general_image_error_on f_gns_on f_google_search_carousel_on f_grecaptcha_on f_groupchats_refactor_on f_hide_pending_replies_on f_html_editor_status_fix_on f_httpsredirect_on f_iframe_proxy_on f_image_annotation_to_ga_on f_lazyusermenu_on f_limit_draft_controls_on f_linkinsert_cancel_behavior_on f_linkswoprotocol_on f_manageblog_on f_moatads_headertag_on f_moatads_promoted_on f_nav_titles_on f_new_dashboard_feed_on f_new_editor_dst_fix_on f_new_stats_day_on f_new_user_settings_on f_newblogproperties_on f_newnav_on f_newnav_editor_pushdown_on f_newnav_qz_on f_no_follow_pending_on f_permalink_body_mobile_ad_on f_permalink_body_mobile_ad_label_on f_post_completion_on f_postmodelcleanup_on f_profilefollow_on f_purge_permalink_on_update_on f_raven_on f_round_avatars_on f_rubicon_no_collapse_on f_rulesystem_nsc_on f_scribe_curly_quotes_on f_scribe_flatten_lists_blocks_on f_scribe_inline_styles_formatter_removal_on f_secondary_nav_on f_securetoken_on f_sharingfooter_on f_sharingfooter_speed_1000 f_simplereach_expanded_on f_svgicons_on f_svgplaceholder_on f_tablet_popular_on f_taboolatracking_on f_throttle_measuring_off f_throttle_test_foo_lorem f_track_adblock_on f_universalanalytics_on f_userstats_on f_whitelist_original_on" data-timezone-offset="-14400000"><div id="js_svg-definitions" class="hide"><svg id="svggroup--essential" class="hide"><symbol id="iconset-search" viewBox="0 0 15 15"><path d="M9.5 8C11.433 8 13 6.433 13 4.5S11.433 1 9.5 1 6 2.567 6 4.5 7.567 8 9.5 8zm-3.233-.975c.196-.195.518-.19.708 0 .195.195.19.517 0 .708l-4.95 4.95c-.195.194-.517.19-.707 0-.195-.196-.19-.518 0-.708l4.95-4.95zM9.5 9C7.015 9 5 6.985 5 4.5S7.015 0 9.5 0 14 2.015 14 4.5 11.985 9 9.5 9z" /></symbol><symbol id="iconset-add" viewBox="0 0 18 18"><path d="M9 2.494C9 2.226 8.776 2 8.5 2c-.268 0-.5.22-.5.494V8H2.494C2.226 8 2 8.224 2 8.5c0 .268.22.5.494.5H8v5.506c0 .268.224.494.5.494.268 0 .5-.22.5-.494V9h5.506c.268 0 .494-.224.494-.5 0-.268-.22-.5-.494-.5H9V2.494z" /></symbol><symbol id="iconset-add--small" viewBox="0 0 10 10"><path d="M6 1.007C6 .45 5.552 0 5 0c-.556 0-1 .45-1 1.007V4H1.007C.45 4 0 4.448 0 5c0 .556.45 1 1.007 1H4v2.993C4 9.55 4.448 10 5 10c.556 0 1-.45 1-1.007V6h2.993C9.55 6 10 5.552 10 5c0-.556-.45-1-1.007-1H6V1.007z"></path></symbol><symbol id="iconset-site-default" viewBox="0 0 18 18"><path d="M9 16.158c3.953 0 7.158-3.205 7.158-7.158 0-3.953-3.205-7.158-7.158-7.158-3.953 0-7.158 3.205-7.158 7.158 0 3.953 3.205 7.158 7.158 7.158zM9 17c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"/><path d="M9 16.158c1.97 0 3.79-3.143 3.79-7.158 0-4.015-1.82-7.158-3.79-7.158S5.21 4.985 5.21 9c0 4.015 1.82 7.158 3.79 7.158zM9 17c-2.558 0-4.632-3.582-4.632-8S6.442 1 9 1s4.632 3.582 4.632 8S11.558 17 9 17z"/><path d="M2.742 4.674c1.69.883 3.947 1.383 6.345 1.383 2.396 0 4.65-.5 6.34-1.38l-.39-.746c-1.564.82-3.684 1.29-5.95 1.29-2.27 0-4.39-.47-5.955-1.28l-.39.746zm.39 9.403c1.564-.817 3.686-1.288 5.955-1.288 2.266 0 4.386.47 5.95 1.28l.39-.75c-1.69-.88-3.944-1.38-6.34-1.38-2.398 0-4.654.5-6.345 1.38l.39.744z"/><path d="M8.58 8.58H1.083v.84H8.58v7.496h.84V9.42h7.496v-.84H9.42V1.083h-.84V8.58z" /></symbol><symbol id="iconset-zoom-in" viewBox="0 0 18 18"><path d="M9 4.494C9 4.226 9.224 4 9.5 4c.268 0 .5.22.5.494V7h2.506c.268 0 .494.224.494.5 0 .268-.22.5-.494.5H10v2.506c0 .268-.224.494-.5.494-.268 0-.5-.22-.5-.494V8H6.494C6.226 8 6 7.776 6 7.5c0-.268.22-.5.494-.5H9V4.494zM9.5 13C6.462 13 4 10.538 4 7.5S6.462 2 9.5 2 15 4.462 15 7.5 12.538 13 9.5 13zm-4.877-1.36l-3.48 3.51c-.194.194-.188.514 0 .703.196.195.51.196.704.002l3.48-3.51c-.304-.275-.416-.34-.704-.706zM9.5 14c3.59 0 6.5-2.91 6.5-6.5S13.09 1 9.5 1 3 3.91 3 7.5 5.91 14 9.5 14z" /></symbol><symbol id="iconset-star" viewBox="0 0 18 18"><path d="M9.005 13.115L4.083 16.88l1.895-6.07-4.943-3.563 6.094.014L9 1.01l1.866 6.25 6.093-.01-4.93 3.563 1.89 6.07z" /></symbol><symbol id="iconset-star-circle" viewBox="0 0 18 18"><path d="M9 17c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zM9 3.7c.093 0 .185.06.208.158l1.146 3.39 3.413.085c.104 0 .185.073.22.17.034.097 0 .207-.08.267l-2.72 2.175.972 3.44c.03.096 0 .206-.09.266-.05.04-.097.05-.14.05-.05 0-.09-.02-.13-.05L9 11.61l-2.81 2.04c-.036.038-.082.05-.13.05-.045 0-.09-.012-.138-.05-.07-.06-.104-.17-.08-.266l.97-3.44L4.095 7.77c-.08-.06-.115-.17-.08-.267.034-.097.127-.17.22-.17l3.412-.085 1.134-3.39c.04-.098.13-.158.22-.158z" /></symbol><symbol id="iconset-chevron-right" viewBox="0 0 18 18"><path d="M6.165 3.874c-.217-.204-.22-.53-.008-.73.206-.192.56-.195.776.008l5.902 5.48c.11.102.165.236.165.37-.002.126-.055.262-.165.365l-5.902 5.478c-.217.204-.564.207-.776.007-.206-.193-.21-.525.008-.728L11.69 9 6.165 3.873z" /></symbol><symbol id="iconset-chevron-right--small" viewBox="0 0 10 10"><path d="M7.782 4.497L3.272.207c-.287-.274-.763-.278-1.054 0-.292.277-.29.724.002 1L6.205 5 2.22 8.79c-.288.273-.292.726-.002 1.002.293.28.763.276 1.054 0l4.51-4.29C7.926 5.363 8 5.18 8 5c.002-.183-.072-.364-.218-.503z" /></symbol><symbol id="iconset-flame" viewBox="0 0 18 18"><path d="M3.923 10.89c0 2.678 2.447 5.17 5.077 5.17s5.077-2.492 5.077-5.17c0-1.752-.618-3.036-1.977-4.664-1.196-1.433-1.154-3.453-1.093-3.453-.356-.04-2.164 2.918-2.49 5.764-.507 1.5-2.29 1.018-2.543-.126-.245-.62-.296-1.97-.296-2.47 0-.5-1.755 2.72-1.755 4.95zm2.962-2.617c.25.344.63.345.72.077.185-2.933 2.015-5.63 2.643-6.247.78-.766 1.7-1.444 1.984-.915.072.135-.047.438-.167.826-.267.863-.412 2.224.738 3.602C13.883 6.912 15 8.516 15 10.89c0 3.2-2.86 6.11-6 6.11s-6-2.912-6-6.11c0-2.018 1.45-5.456 2.972-6.798l.198-.17c.233-.197.806-.146.715.164-.837 2.85 0 4.187 0 4.187z" /></symbol><symbol id="iconset-logo-kinja" viewBox="0 0 18 18"><path d="M2.898 8.293c.746.24 1.423.978 1.734 1.495.31.517 2.246 3.78 2.905 4.916.726 1.253 1.743 1.294 2.308 1.294h4.125s-3.023-5.378-3.943-6.846c-.622-.994-1.452-1.11-2.374-1.11H2.1C2.093 8.042 3 7.065 5 7c2-.065 5.284.006 6.64 0 1.354-.006 2.046-.727 2.33-1.195.284-.468 2.03-3.8 2.03-3.8S8.793 1.995 6.992 2c-1.21.006-1.734.647-2.197 1.41l-2.792 4.6c-.01.017.007.07.017.098 0 0 .35.018.878.186z" /><</symbol><symbol id="iconset-bubble" viewBox="0 0 18 18"><path d="M6.292 13.952l.34-.503.577.1c.43.07.86.11 1.29.11 3.65 0 6.56-2.65 6.56-5.84 0-3.186-2.91-5.836-6.57-5.836-3.657 0-6.566 2.65-6.566 5.836 0 1.918 1.054 3.7 2.83 4.84l.437.256c0 .18-.375 2.06-.57 2.54-.054.132 1.12-.71 1.66-1.51zm-2.01-.426C2.3 12.254 1 10.182 1 7.832 1 4.06 4.358 1 8.5 1 12.642 1 16 4.06 16 7.832c0 3.774-3.36 6.833-7.5 6.833-.495 0-.978-.047-1.447-.13-.32.473-2.45 2.172-3.165 2.4-.714.226-.823-.164-.51-.713.313-.548.903-1.95.903-2.696z" /></symbol><symbol id="iconset-checkmark" viewBox="0 0 18 18"><path d="M14.855 5.87c.192-.195.195-.523 0-.722-.19-.194-.51-.2-.706 0l-7.418 7.62-2.88-2.978c-.19-.195-.515-.2-.71-.002-.19.194-.194.525.003.726L6.38 13.85c.095.1.224.15.353.15.128 0 .257-.047.355-.147l7.767-7.982z" /></symbol><symbol id="iconset-checkmark--small" viewBox="0 0 10 10"><path d="M.292 5.078c-.39.4-.388 1.044-.002 1.442l2.038 2.15c.313.344 1.125.526 1.703 0L9.71 2.746c.39-.402.388-1.046 0-1.445-.39-.402-1.014-.4-1.4 0l-5.11 5.39L1.69 5.075C1.31 4.683.68 4.68.293 5.078z"></path></symbol><symbol id="iconset-close" viewBox="0 0 18 18"><path d="M1.737 1.12c-.16-.158-.44-.164-.61.006-.165.165-.172.443-.005.61L7.885 8.5l-6.763 6.764c-.167.167-.16.445.005.61.17.17.45.164.61.005L8.5 9.11l6.763 6.764c.16.158.44.164.61-.006.165-.164.172-.442.005-.61L9.115 8.5l6.763-6.764c.167-.167.16-.445-.005-.61-.17-.17-.45-.164-.61-.005L8.5 7.89 1.737 1.12z" /></symbol><symbol id="iconset-close--small" viewBox="0 0 10 10"><path d="M2.884 1.47c-.394-.394-1.03-.395-1.42-.005-.392.393-.387 1.026.006 1.42L3.586 5 1.47 7.116c-.394.394-.395 1.03-.005 1.42.393.392 1.026.387 1.42-.006L5 6.414 7.116 8.53c.394.394 1.03.395 1.42.005.392-.393.387-1.026-.006-1.42L6.414 5 8.53 2.884c.394-.394.395-1.03.005-1.42-.393-.392-1.026-.387-1.42.006L5 3.586 2.884 1.47z" /></symbol><symbol id="iconset-facebook" viewBox="0 0 18 18"><path d="M7.003 17l-.006-7H4l.006-3h2.997V4.995C7.003 2.408 8.457 1 10.808 1c1.126 0 1.91.082 2.192.12v2.877h-1.447c-1.278 0-1.526.597-1.526 1.472V7h2.866l-.403 3h-2.47l.007 7H7.003z" /></symbol><symbol id="iconset-twitter" viewBox="0 0 18 18"><path d="M12.077 2c-1.812 0-3.282 1.582-3.282 3.534 0 .277.03.547.085.806-2.728-.148-5.147-1.555-6.766-3.693-.283.522-.445 1.13-.445 1.777 0 1.226.58 2.308 1.46 2.942-.54-.02-1.05-.178-1.49-.443v.045c0 1.712 1.13 3.14 2.63 3.465-.28.08-.57.124-.87.124-.21 0-.418-.022-.62-.063.418 1.404 1.63 2.426 3.067 2.455-1.125.94-2.54 1.51-4.078 1.51-.267 0-.528-.02-.785-.05 1.46 1 3.185 1.59 5.04 1.59 6.037 0 9.34-5.39 9.34-10.06 0-.153-.005-.306-.01-.457.64-.5 1.197-1.12 1.637-1.83-.59.28-1.22.47-1.885.557.677-.437 1.198-1.13 1.443-1.955-.633.405-1.336.7-2.084.858C13.88 2.43 13.028 2 12.08 2" /></symbol><symbol id="iconset-googleplus" viewBox="0 0 18 18"><path d="M10.657 13.42c0 .914-.4 1.74-1.202 2.475-.4.354-.916.62-1.545.796-.573.21-1.245.31-2.017.31-1.402 0-2.575-.26-3.52-.79C1.457 15.65 1 14.94 1 14.09c0-.62.2-1.18.6-1.68.43-.59 1.002-1.036 1.718-1.33.658-.324 1.46-.487 2.403-.487.03 0 .8-.15.83-.15-.46-.38-.65-.57-.65-1.04 0-.353.048-.663.22-.93h-.48C4.58 8.47 3.734 7.9 3.02 7.19c-.688-.706-1.03-1.56-1.03-2.563 0-.972.43-1.812 1.286-2.52C4.106 1.37 5.09 1 6.236 1H11l-1.073.796H8.425c.486.236.872.604 1.16 1.105.284.59.428 1.17.428 1.73 0 1.03-.472 1.9-1.416 2.61-.373.3-.63.55-.773.75-.115.15-.172.388-.172.71 0 .327.444.84 1.33 1.55.573.414 1.002.87 1.288 1.37.258.473.387 1.077.387 1.813zM8.31 4.483c-.145-.705-.46-1.29-.95-1.75-.487-.488-1.06-.73-1.72-.73-.604-.025-1.077.18-1.422.62-.373.46-.517 1.057-.43 1.787.143.73.473 1.337.99 1.824.517.51 1.076.766 1.68.766.66 0 1.162-.243 1.506-.73.373-.486.488-1.082.345-1.787zm.153 10.713c.55-.38.826-.862.826-1.445 0-1.7-2.76-2.05-3.06-2.05-.88 0-1.67.19-2.36.58-.69.407-1.04.877-1.04 1.41 0 .54.303 1.01.91 1.417.58.403 1.294.605 2.15.605 1.13 0 1.982-.167 2.56-.503zM15 3V1h-2v2h-2v2h2v2h2V5h2V3h-2z" /></symbol><symbol id="iconset-external-link" viewBox="0 0 18 18"><path d="M3.006 17C1.898 17 1 16.103 1 14.994V5.006C1 3.898 1.897 3 3.006 3H5.5c.276 0 .5.224.5.5s-.224.5-.5.5H3.006C2.45 4 2 4.45 2 5.006v9.988C2 15.55 2.45 16 3.006 16h9.988C13.55 16 14 15.55 14 14.994V11.5c0-.276.224-.5.5-.5s.5.224.5.5v3.494C15 16.102 14.103 17 12.994 17H3.006zM10 1.5c0-.276.228-.5.51-.5h5.98c.51 0 .51.5.51.51v5.98c0 .282-.232.51-.5.51-.276 0-.5-.228-.5-.51V2.75l-8.095 8.1c-.206.204-.548.197-.75-.004-.207-.207-.205-.545-.002-.748L15.247 2H10.51c-.282 0-.51-.232-.51-.5z" /></symbol><symbol id="iconset-link" viewBox="0 0 18 18"><path d="M8.72 13.36l-2.044 2.017c-.954.952-2.418.797-3.05.083L2.53 14.18c-.942-.93-.59-2.446 0-3.072.96-1.017 3.698-3.656 3.698-3.656.952-.975 2.245-1.038 3.27 0 1.023 1.038.97.997.97.997.262.26.64.21.835 0 .195-.22.16-.58-.102-.85l-.94-.93c-1.31-1.35-3.322-1.3-4.61 0l-3.68 3.75c-1.28 1.26-1.28 3.38 0 4.68l.92.93c.627.63 1.45.96 2.337.96.887 0 1.71-.335 2.334-.966L9.4 14.17c.263-.266.263-.555 0-.82-.263-.266-.673 0-.673 0zm.56-8.72l2.044-2.017c.954-.952 2.418-.797 3.05-.083l1.095 1.28c.94.93.59 2.446 0 3.072-.96 1.017-3.7 3.656-3.7 3.656-.95.975-2.25 1.038-3.27 0s-.97-.997-.97-.997c-.26-.26-.64-.21-.84 0-.2.22-.16.58.1.85l.944.93c1.31 1.35 3.327 1.3 4.61 0l3.68-3.75c1.284-1.26 1.284-3.38 0-4.68l-.92-.93c-.62-.63-1.443-.96-2.33-.96-.888 0-1.71.334-2.335.965L8.6 3.825c-.262.266-.262.555 0 .82.264.266.674 0 .674 0z" /></symbol><symbol id="iconset-image" viewBox="0 0 18 18"><path d="M1 2.994v12.012c0 .548.446.994.995.994h14.01c.55 0 .995-.445.995-.994V2.994c0-.548-.446-.994-.995-.994H1.995C1.445 2 1 2.445 1 2.994zm-1 0C0 1.894.893 1 1.995 1h14.01C17.107 1 18 1.895 18 2.994v12.012c0 1.1-.893 1.994-1.995 1.994H1.995C.893 17 0 16.105 0 15.006V2.994z"/><path d="M1.38 15.804L5.807 8.24l-.86.007 3.682 6.068c.17.288.573.324.8.073l2.5-2.82-.74.01 4.514 4.832c.188.202.504.213.706.024.203-.19.213-.505.025-.707l-4.515-4.83c-.2-.216-.543-.212-.74.008l-2.5 2.82.8.07L5.8 7.728c-.197-.324-.67-.32-.86.007L.51 15.298c-.137.24-.057.545.18.684.24.14.546.06.685-.178zM12 9c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zm0 1c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></symbol><symbol id="iconset-burner" viewBox="0 0 18 18"><path d="M14.24 10.837c-.39.175-.853.28-1.387.28-.27 0-.593-.044-.955-.126-.344-.07-.713-.19-1.093-.32-.284-.1-1.218-.51-1.31-.54-.158-.06-.32-.093-.488-.093-.175 0-.336.038-.493.096-.092.035-1.035.444-1.32.545-.38.136-.748.247-1.093.326-.36.083-.68.127-.95.127-.53 0-.99-.103-1.39-.28-.22-.1-.55-.353-.65-.46-.17-.18-.34-.39-.502-.634-.38-.57-.635-1.22-.712-1.934l-.006.14c.268-1.33 1.078-2.07 2.03-2.07 1.53 0 2.884.31 4.662 1.284 0 0 .266.147.41.147.146 0 .43-.143.43-.143 1.78-.974 3.137-1.282 4.666-1.282.95 0 1.762.74 2.038 2.057l-.002-.14c-.076.72-.33 1.364-.71 1.94-.162.24-.335.453-.507.633-.1.105-.43.36-.657.46zm1.907-.61c.453-.684.76-1.463.853-2.33l-.007-.137C16.635 6.053 15.48 5 14.083 5c-1.672 0-3.175.34-5.093 1.393C7.092 5.34 5.59 5 3.916 5c-1.397 0-2.55 1.053-2.91 2.76L1 7.897c.093.867.4 1.646.853 2.33.33.498.664.846.9 1.036.114.1.332.24.64.38.503.223 1.09.357 1.754.357.346 0 .732-.052 1.154-.15.39-.086.79-.207 1.2-.354.31-.108.6-.223.87-.34.16-.068.6-.248.647-.248.045 0 .474.18.636.25.27.115.56.23.865.338.41.147.813.268 1.195.355.42.1.805.15 1.15.15.666 0 1.25-.13 1.755-.35.31-.14.528-.28.65-.39.228-.18.56-.53.89-1.03zm-9.99-2.604c-.155-.077-.316-.133-.483-.17-.53-.118-1.078-.037-1.605.164-.22.08-.38.164-.48.223l-.24.146.03.28c.07.623.45 1.266 1.22 1.502.34.11.77.117 1.27.05.3-.044.63-.115.95-.206.19-.053.373-.11.54-.167.1-.034.174-.062.22-.078l.735-.285-.628-.477c-.07-.052-.2-.145-.394-.273-.315-.21-.69-.444-1.13-.696l-.02-.013zm.243 1.19s-.447.1-.654.13c-.374.05-.68.046-.878-.017-.367-.114-.48-.485-.48-.485s.76-.2 1.093-.12c.1.02.92.5.92.5zm5.42-1.177c-.437.252-.813.485-1.128.696-.192.128-.322.22-.39.273l-.63.477.74.285c.042.016.117.044.218.078.167.057.35.114.542.167.33.09.652.162.96.205.493.068.92.06 1.27-.05.762-.235 1.146-.88 1.214-1.502l.03-.28-.24-.145c-.1-.06-.263-.142-.475-.223-.52-.2-1.07-.282-1.6-.164-.16.037-.32.093-.48.17l-.02.013zm.7.68c.333-.075 1.09.125 1.09.125s-.11.38-.475.49c-.202.07-.507.07-.88.02-.265-.032-.64-.15-.64-.15s.808-.45.904-.472z" /></symbol></svg></div><div class="success-messages" id="js_success-box-container"></div>	
+	<script type="text/javascript">
+		var readOnlyRequest;
+		var cn = "read-only";
+		var cacheBusterParam = "?cb=" + Math.floor(Date.now() / 60000); // update every minute
+		var setReadOnly = function () {
+			document.body.className = (document.body.className === '') ? cn : document.body.className + ' ' + cn;
+		};
+		if (window.XMLHttpRequest) {
+			readOnlyRequest = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			readOnlyRequest = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		readOnlyRequest.onreadystatechange = function() {
+			if (readOnlyRequest.readyState == 4 && readOnlyRequest.status >= 500 && readOnlyRequest.status < 600) {
+				setReadOnly();
+			}
+		};
+    	readOnlyRequest.open('GET', "/ajax/readOnlyMode" + cacheBusterParam);
+    	readOnlyRequest.send();
+	</script>
+	<div id="js_off-canvas-wrap" class="off-canvas-wrap" data-offcanvas><div class="inner-wrap">	<!--  md5!  --><aside class="left-off-canvas-menu show-for-medium-down proxima nav-dropdown main-menu">	<div id="js_blogmenu--offcanvas">	<div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon--svg">	<svg class="svg-icon svg-search"><use xlink:href="#iconset-search" /></svg></span><input type="text" placeholder="Search Reviews" name="q" class="mbn" autocomplete="off" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down login-links"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls follow-controls--blog-menu" data-blogid="1624664757"><a href="#" class="js_followblogforuser proxima icon--svg u-prepended u-inverted--onhover">	<svg class="svg-icon svg-add"><use xlink:href="#iconset-add" /></svg><span>Follow Reviews</span></a><a href="#" class="js_unfollowblogforuser proxima hide icon--svg u-inverted--onhover">	<svg class="svg-icon svg-checkmark"><use xlink:href="#iconset-checkmark" /></svg><span>Following</span></a></li></ul><ul class="gmg-blog-list"><li class="title">Blogs you may like</li><li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--hYvXo8Vk--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/rnxqtvv6advgidzfs6am.png" width="16" height="16" class="icon icon-prepend" />Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--Di2kTRut--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/my2vnuuejg3jt9yqbx3z.png" width="16" height="16" class="icon icon-prepend" />Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--O07tru6M--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png" width="16" height="16" class="icon icon-prepend" />Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--uWw7HXhn--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/eh1hvjxamru5z6aobgwc.png" width="16" height="16" class="icon icon-prepend" />io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--w1bSCXke--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/aqhdzcldymb9mkltfhxh.png" width="16" height="16" class="icon icon-prepend" />Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--7IykX4GV--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/pch44wvo0v6acpdlt0f6.png" width="16" height="16" class="icon icon-prepend" />Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--q13K9fyk--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/ghxlwgdztvqerb4zptdx.png" width="16" height="16" class="icon icon-prepend" />Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--N2eqEvT8--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png" width="16" height="16" class="icon icon-prepend" />Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--yCML1MxC--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdmagj52rhclnn6dfoig.png" width="16" height="16" class="icon icon-prepend" />Sploid</a></li></ul></div><div class="divider"></div></aside><aside class="right-off-canvas-menu show-for-medium-down proxima nav-dropdown">	<dl class="tabs row" data-tab><dd class="js_notif-tab tab-title small-6 columns"><a href="#js_notifications--offcanvas">Notifications</a></dd><dd class="js_username-tab tab-title active small-6 columns"><a href="#js_usermenu--offcanvas" class="js_username">Username</a></dd></dl><div class="tabs-content"><div class="content notif-menu js_notif-panel" id="js_notifications--offcanvas"><div class="divider"></div></div><div class="content active" id="js_usermenu--offcanvas"><div class="divider"></div></div></div></aside><a class="exit-off-canvas"></a><div class="navwrap--outer js-navwrap--outer"><nav class="js_global-nav-wrap js_top-nav global-nav notransition shown"><div class="global-nav__left global-nav__triggers"><a class="left-off-canvas-toggle hamburger-trigger " data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-dustinburger"><span></span><span></span><span></span></span></a><a data-dropdown="global-blog" class="js_menu-button hamburger-trigger hamburger-trigger--desktop" data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-dustinburger"><span></span><span></span><span></span></span></a><a href="#" id="global-search-trigger" class="search-trigger icon--svg u-prepended u-highlighted--onhover u-undecorated" data-dropdown="global-search" data-ga="[Kinja Menu, Search Click, js_pageType]">	<svg class="svg-icon svg-search"><use xlink:href="#iconset-search" /></svg>	<svg class="svg-icon svg-close"><use xlink:href="#iconset-close" /></svg></a></div><div class="global-nav__right global-nav__triggers js_right-user-bar"></div><div class="global-nav__center row"><div class="logo-wrapper large-6 columns large-offset-4"><a href="//reviews.gizmodo.com" class="logo" title="Reviews" data-ga="[Kinja Menu, Logo/Blog Title Click, js_pageType]"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--kurM4hhw--/c_fit,fl_progressive,q_80,w_600/zcax3henjdkewwmmkubl.png" alt="" /></a><div class="follow-controls follow-controls--header js_follow-controls js_follow-blog-controls" data-blogid="1624664757"><a href="#" class="js_followblogforuser follow-controls__link icon--svg u-prepended u-highlighted" title="Follow Reviews" data-ga="[Kinja Menu, Follow Link Click, js_pageType]">	<svg class="svg-icon svg-add"><use xlink:href="#iconset-add" /></svg>Follow</a><a href="#" class="js_unfollowblogforuser follow-controls__link hide icon--svg u-prepended u-highlighted" title="Unfollow Reviews" data-ga="[Kinja Menu, Unfollow Link Click, js_pageType]">	<svg class="svg-icon svg-checkmark"><use xlink:href="#iconset-checkmark" /></svg>Following</a></div></div></div><div class="proxima f-dropdown content nav-dropdown main-menu hide-for-medium-down " id="global-blog" data-dropdown-content><div id="js_blogmenu--dropdown">	<div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon--svg">	<svg class="svg-icon svg-search"><use xlink:href="#iconset-search" /></svg></span><input type="text" placeholder="Search Reviews" name="q" class="mbn" autocomplete="off" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down login-links"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls follow-controls--blog-menu" data-blogid="1624664757"><a href="#" class="js_followblogforuser proxima icon--svg u-prepended u-inverted--onhover">	<svg class="svg-icon svg-add"><use xlink:href="#iconset-add" /></svg><span>Follow Reviews</span></a><a href="#" class="js_unfollowblogforuser proxima hide icon--svg u-inverted--onhover">	<svg class="svg-icon svg-checkmark"><use xlink:href="#iconset-checkmark" /></svg><span>Following</span></a></li></ul><ul class="gmg-blog-list"><li class="title">Blogs you may like</li><li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--hYvXo8Vk--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/rnxqtvv6advgidzfs6am.png" width="16" height="16" class="icon icon-prepend" />Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--Di2kTRut--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/my2vnuuejg3jt9yqbx3z.png" width="16" height="16" class="icon icon-prepend" />Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--O07tru6M--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png" width="16" height="16" class="icon icon-prepend" />Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--uWw7HXhn--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/eh1hvjxamru5z6aobgwc.png" width="16" height="16" class="icon icon-prepend" />io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--w1bSCXke--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/aqhdzcldymb9mkltfhxh.png" width="16" height="16" class="icon icon-prepend" />Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--7IykX4GV--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/pch44wvo0v6acpdlt0f6.png" width="16" height="16" class="icon icon-prepend" />Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--q13K9fyk--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/ghxlwgdztvqerb4zptdx.png" width="16" height="16" class="icon icon-prepend" />Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--N2eqEvT8--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png" width="16" height="16" class="icon icon-prepend" />Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--yCML1MxC--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdmagj52rhclnn6dfoig.png" width="16" height="16" class="icon icon-prepend" />Sploid</a></li></ul></div></div><div class="f-dropdown content nav-dropdown search-dropdown hide-for-medium-down" id="global-search" data-dropdown-content><form method="GET" action="/search" data-ga="[Search, Submit, js_pageType]"><div class="input-with-icon icon--svg">	<svg class="svg-icon svg-search"><use xlink:href="#iconset-search" /></svg><input id="global-search-input" type="search" name="q" placeholder="Search Reviews" autocomplete="off" /></div></form></div><div class="proxima f-dropdown nav-dropdown content notif-menu" id="js_notifications--dropdown" data-dropdown-content></div><div class="js_global-user scrollable-container noskimlinks noskimwords"><div class="proxima f-dropdown nav-dropdown content user-menu user-menu--mobile" id="js_usermenu--dropdown" data-dropdown-content></div></div></nav></div><div id="ad-970x90-container" class="js_ad-top row ad-wide ad-top show-for-xlarge-up"><div class="column">		<div class="ad-unit js_ad-unit ad-top-banner js_ad-top-banner"><div id="ad-container-41598192" class="ad-container js_ad-container" data-zone-type="TOP_BANNER"></div></div></div></div><div class="row page js_page"><div class="large-4 columns sidebar hide-for-medium-down"><div class="sidebar-container js_sidebar-actual-container">		<div class="sidebar-content js_sidebar-container js_sidebar"><section id="js_leftrailmodule--trending" class="leftrailmodule js_leftrailmodule leftrailmodule--trending">	<div class="strapline proxima text-upper text-micro strapline--leftrail"><span class="strapline-bg">Trending on Kinja</span></div><div class="js_related-module "><ol class="leftrail-list leftrail-list--trending js_leftrail-list">	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">1.</div></div><div class="large-5 columns"><a href="http://io9.com/5924625/10-science-fiction-novels-you-pretend-to-have-read-and-why-you-should-actually-read-them" data-ga="[Trending module click, position 1, js_pageType]"><img class="leftrail-image" src="https://i.kinja-img.com/gawker-media/image/upload/s--4FpvFVQ9--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/1365584098784242093.jpg" alt="10 Books You Pretend to Have Read (And Why You Should Really Read Them)" /></a></div><div class="large-6 columns"><h6 class="headline"><a href="http://io9.com/5924625/10-science-fiction-novels-you-pretend-to-have-read-and-why-you-should-actually-read-them" data-ga="[Trending module click, position 1, js_pageType]">10 Books You Pretend to Have Read (And Why You Should Really Read Them)</a></h6><div class="byline proxima text-small"> <a href="//io9.com" class="text-light byline__source">on io9</a></div></div></li>	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">2.</div></div><div class="large-11 columns"><h6 class="headline"><a href="http://paleofuture.gizmodo.com/hitchhiking-robot-lasts-just-two-weeks-in-us-because-hu-1721544551" data-ga="[Trending module click, position 2, js_pageType]">Hitchhiking Robot Lasts Just Two Weeks in US Because Humans Are Terrible</a></h6><div class="byline proxima text-small"> <a href="//paleofuture.gizmodo.com" class="text-light byline__source">on Paleofuture</a></div></div></li>	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">3.</div></div><div class="large-11 columns"><h6 class="headline"><a href="http://foxtrotalpha.jalopnik.com/watch-a-b-1b-refuel-and-thank-the-tanker-with-a-gorgeou-1721525327" data-ga="[Trending module click, position 3, js_pageType]">Watch A B-1B Refuel And Thank The Tanker With A Gorgeous Burner Break</a></h6><div class="byline proxima text-small"> <a href="//foxtrotalpha.jalopnik.com" class="text-light byline__source">on Foxtrot Alpha</a></div></div></li></ol></div></section>	<section id="js_leftrailmodule--preloadedad" class="js_contained-ad-container contained-ad-container leftrailmodule js_leftrailmodule invisible"><div class="contained-ad-wrapper js_contained-ad-wrapper notransform">		<div class="ad-unit js_ad-unit ad-left-rail js_ad-left-rail"><div id="ad-container-92091506" class="ad-container js_ad-container" data-zone-type="LEFT_RAIL"></div></div></div></section><section id="js_leftrailmodule--popular" class="leftrailmodule js_leftrailmodule leftrailmodule--popular invisible">	<div class="strapline proxima text-upper text-micro strapline--leftrail"><span class="strapline-bg">Written by <a href="//kinja.com/seanhollister">Sean Hollister</a></span></div><div class="js_related-module "><ol class="leftrail-list leftrail-list--popular js_leftrail-list">	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://gizmodo.com/your-computer-probably-cant-use-one-of-windows-10s-cool-1721459061" data-ga="[Popular stories click, position 1, js_pageType]"><img class="leftrail-image" src="https://i.kinja-img.com/gawker-media/image/upload/s--R-IFZBKA--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/1365661899803077552.jpg" alt="Your Computer Probably Can&amp;#39;t Use One Of Windows 10&amp;#39;s Coolest Features" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://gizmodo.com/your-computer-probably-cant-use-one-of-windows-10s-cool-1721459061" data-ga="[Popular stories click, position 1, js_pageType]">Your Computer Probably Can&apos;t Use One Of Windows 10&apos;s Coolest Features</a></h6></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://reviews.gizmodo.com/im-playing-xbox-on-windows-10-and-you-can-too-1721208031" data-ga="[Popular stories click, position 2, js_pageType]"><img class="leftrail-image" src="https://i.kinja-img.com/gawker-media/image/upload/s--4_IinGSM--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/1365182101928303945.jpg" alt="I&amp;#39;m Playing Xbox On Windows 10, And You Can Too" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://reviews.gizmodo.com/im-playing-xbox-on-windows-10-and-you-can-too-1721208031" data-ga="[Popular stories click, position 2, js_pageType]">I&apos;m Playing Xbox On Windows 10, And You Can Too</a></h6></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://reviews.gizmodo.com/windows-10-battery-life-is-better-except-when-its-worse-1720970961" data-ga="[Popular stories click, position 3, js_pageType]"><img class="leftrail-image" src="https://i.kinja-img.com/gawker-media/image/upload/s--FcTxsJfi--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/1362642028542056487.jpg" alt="Windows 10 Battery Life Is Better—Except When It&amp;#39;s Worse" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://reviews.gizmodo.com/windows-10-battery-life-is-better-except-when-its-worse-1720970961" data-ga="[Popular stories click, position 3, js_pageType]">Windows 10 Battery Life Is Better—Except When It&apos;s Worse</a></h6></div></div></li></ol></div></section></div></div></div><script>markUserTime('Content - Before main column');</script><div class="large-8 columns main-column js_main-column">	<div id="fb-root"></div>		<section class="branch-wrapper">		<div id="foreplay" class="reveal-modal js_foreplay foreplay proxima noskimlinks noskimwords" data-reveal><div id="jwPlayerVideo"></div><a href="#" class="close js_foreplay-close">You can skip this ad in 5 seconds.</a></div>	<div class="js_ie-message hide"></div><div id="editorplaceholder" class="editorplaceholder"></div><div class="post-wrapper js_post-wrapper "  >	<article class="post hentry js_post_item status-published post-item-permalink commented js_amazon_module marquee-post" data-id="1720608388" id="post_1720608388" data-model="%7B%22id%22%3A1720608388%2C%22isBlip%22%3Afalse%2C%22authorBlogId%22%3A1617183787%2C%22authorId%22%3A%221617183786%22%2C%22defaultBlogId%22%3A1624664757%2C%22contentType%22%3A%22Media%22%2C%22sharedPostId%22%3Anull%2C%22parentId%22%3Anull%2C%22parentAuthorId%22%3Anull%2C%22starterId%22%3A1720608388%7D">	<div class="row content-wrapper"><div class="column"><div class="row js_kinja-share-wrapper hide"><div class="column post-tools-above"><a href="#" class="js_kinja-share replywithshare inline-block"><span class="icon icon-reload"></span></a></div></div><header class=""><h1 class="headline hover-highlight entry-title"><a href="http://reviews.gizmodo.com/windows-10-day-five-1720608388" data-id="" onClick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - post header', 'standard');">Windows 10, Day Five</a></h1></header>	<div class="meta-container without-dropdown">	<div class="meta-avatar js_author" data-authorid="1617183786" data-blogid="1617183787">	<span class="meta-tools"><div class="view-count-container"></div><a data-likecount="16" href="#" data-analytics-target="starterTop" class="js_like button-recommend-post hover-icon icon--svg u-darkened--onhover js_like_icon" title="Recommend"><span class="js_like_count">16</span>	<svg class="svg-icon svg-star"><use xlink:href="#iconset-star" /></svg></a></span><div class="floated-container img-30" data-dropdownhover-container>	<div id="1720608388-hovercard" class="f-dropdown author-hovercard content small whitelisted-links js_avatar-popover" data-dropdownhover-content><span class="floated-container img-60 avatar-container js_avatar-container"><span class="avatar"><span class="icon--svg">	<svg class="svg-icon svg-checkmark"><use xlink:href="#iconset-checkmark" /></svg></span><img data-src="https://i.kinja-img.com/gawker-media/image/upload/s--oMEJtLQb--/c_fill,fl_progressive,g_center,h_120,q_80,w_120/pjpe2ekupck01en6qh0p.jpg" alt="seanhollister" /></span><div class="js_follow-controls js_user-follow-controls" data-authorid="1617183786"><h4>Sean Hollister</h4><a href="//kinja.com/seanhollister" data-analytics-target="authorTooltip" class="button tiny secondary mrs" target="_blank" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - profile page button click');">Profile</a><a href="#" data-analytics-target="authorTooltip" class="button tiny secondary js_followforuser mrs" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - follow button click');">Follow</a><a href="#" data-analytics-target="authorTooltip" class="button tiny secondary js_unfollowforuser mrs hide">Unfollow</a></div></div>	<div class="avatar avatar-container js_avatar-container" data-dropdownhover="1720608388-hovercard"><span class="icon--svg">	<svg class="svg-icon small svg-checkmark--small"><use xlink:href="#iconset-checkmark--small" /></svg></span><a href="//kinja.com/seanhollister"><span class="img-border"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--9ioB_mVx--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/pjpe2ekupck01en6qh0p.jpg" /></span><span class="avatar-default hide"></span></a></div><div class="txt">	<span class="display-name author vcard"><a href="//kinja.com/seanhollister" target="_self"   data-dropdownhover-anchor="1720608388-hovercard" class="fn url" onclick="window.ga('send', 'event', 'byline', 'click', 'permalink');" >Sean Hollister</a></span><div class="second-line post-meta">Filed to: 	<a class="first-tag " href="/tag/windows-10" data-urlname="windows-10" data-dropdown="taglist" data-options="is_hover:true">Windows 10</a>	<div id="taglist" class="tiny f-dropdown text-upper" data-dropdown-content><div><ul>	<li class=""><a href="/tag/windows" data-urlname="windows">Windows</a></li>	<li class=""><a href="/tag/microsoft" data-urlname="microsoft">Microsoft</a></li>	<li class=""><a href="/tag/reviews" data-urlname="reviews">reviews</a></li></ul></div></div>	<span class="publish-time js_publish_time" data-publishtime="1438135200936"><a class="hover-switch" href="http://reviews.gizmodo.com/windows-10-day-five-1720608388" target="_self" >	<span class=" published updated">7/28/15 10:00pm</span></a></span></div></div></div></div><div class="post-dropdown-ct js_post-dropdown-ct js_post-dropdown-ct-sticky"><ul id="dropdown-1720608388" class="f-dropdown proxima js_post-dropdown js_follow-controls js_user-follow-controls whitelisted-links" data-postid="1720608388" data-starterid="1720608388" data-authorid="1617183786" data-blogid="1617183787" data-sourceblogid="1624664757" data-dropdown-content><li class="js_edit-post hover-icon hide readonly-hide"><a href="#" rel="nofollow" class="icon--svg u-darkened--onhover u-prepended">	<svg class="svg-icon svg-write"><use xlink:href="#iconset-write" /></svg>Edit</a></li><li class="js_delete-post hover-icon hide readonly-hide"><a href="#" rel="nofollow" class="icon--svg u-darkened--onhover u-prepended">	<svg class="svg-icon svg-close"><use xlink:href="#iconset-close" /></svg>Delete</a></li>	<li class="js_invite-to-post-manually hover-icon hide"><a href="#" rel="nofollow"><i class="icon icon-mail icon-prepend"></i>Invite manually</a></li><li class="js_promote hover-icon hide readonly-hide"><a href="#" rel="nofollow" class="icon--svg u-darkened--onhover u-prepended">	<svg class="svg-icon svg-star-circle"><use xlink:href="#iconset-star-circle" /></svg>Promote</a></li><li class="js_dismiss hover-icon hide readonly-hide"><a href="#" class="dismiss icon--svg u-darkened--onhover u-prepended" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Dismiss click');">	<svg class="svg-icon svg-user-remove"><use xlink:href="#iconset-user-remove" /></svg>Dismiss</a><a href="#" class="undismiss icon--svg u-darkened--onhover u-prepended" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Undismiss click');">	<svg class="svg-icon svg-user-remove"><use xlink:href="#iconset-user-remove" /></svg>Undismiss</a></li><li class="js_block hover-icon hide disabled readonly-hide" data-blogid="1624664757" data-targetblogid="1617183787" data-targetblogname="reviewsgizmodo"><a href="#" rel="nofollow" class="icon--svg u-darkened--onhover u-prepended">	<svg class="svg-icon svg-disabled"><use xlink:href="#iconset-disabled" /></svg><span>Block for reviewsgizmodo</span></a></li><li class="js_hide-post hover-icon hide readonly-hide"><a href="#" rel="nofollow" class="icon--svg u-darkened--onhover u-prepended">	<svg class="svg-icon svg-disabled"><use xlink:href="#iconset-disabled" /></svg>Hide</a></li><li class="js_kinja-share-block readonly-hide"><a class="js_kinja-share hover-icon icon--svg u-darkened--onhover u-prepended" href="#" rel="nofollow">	<svg class="svg-icon svg-external-link"><use xlink:href="#iconset-external-link" /></svg>Share to Kinja</a></li><li class="js_go-to-permalink"><a class="hover-icon icon--svg u-darkened--onhover u-prepended" href="http://reviews.gizmodo.com/windows-10-day-five-1720608388" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Go to permalink click');">	<svg class="svg-icon svg-link"><use xlink:href="#iconset-link" /></svg>Go to permalink</a></li><li class="repostblock js_repostblock hide"></li></ul><a href="#" target="_self" class="post-dropdown-trigger js_post-menu-toggler icon--svg u-highlighted--onhover" data-dropdown="dropdown-1720608388" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down click');">	<svg class="svg-icon svg-chevron chevron--bottom"><use xlink:href="#iconset-chevron-right" /></svg></a></div></div><div class="post-content entry-content "><p class="has-media media-640 has-image" data-textannotation-id="5189bee43a5e82bf086fbb9b9c3c37fc"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--KiMNExUm--/c_fit,fl_progressive,q_80,w_636/1361603851665534311.jpg" width="636" height="357" alt="Windows 10, Day Five" data-chomp-id="1361603851665534311" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--KiMNExUm--/c_fit,fl_progressive,q_80,w_636/1361603851665534311.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p class="first-text" data-textannotation-id="a1ecb40819fd1c38d41cb4138b8982ae">The nice thing about <a href="http://reviews.gizmodo.com/why-i-m-upgrading-to-windows-10-1719559557">reviewing Windows 10 on my own computers</a> is that there’s nowhere to hide. When something goes wrong, I have to troubleshoot on the fly. I can’t say “Oh, I’ll just go back to my personal computer until I figure this out.” You know what’s not so nice? When you shoot the trouble, and yet—somehow—it survives.<a x-inset="hidden" href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026">http://reviews.gizmodo.com/windows-10-day...</a></p>
+
+
+
+
+
+
+
+
+
+
+<aside class="referenced-wide referenced-fullwidth js_inset tmpl_referencedGroupFullWidth clearfix core-decorated-inset">
+    <div class="container">
+        
+            
+    <div class="referenced-item " data-inset-id="1720734081">
+        
+            
+    <div class="columns small-4 medium-3 referenced-item-image referenced-item-processed">
+        <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset photo');" target="_blank">
+            <span class="img-border ">
+            
+                <img src="http://i.kinja-img.com/gawker-media/image/upload/s--Bob40F56--/c_fill,fl_progressive,g_center,h_77,q_80,w_137/1361594876924594754.jpg" />
+                
+            </span>
+        </a>
+    </div>
+
+        
+         
+    <h6 class="headline" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset headline');">
+        <span class="full-headline">
+            <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026" target="_blank">
+                Windows 10, Day Two
+            </a>
+        </span>
+        <span class="medium-headline">
+            <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026" target="_blank">
+                Windows 10, Day Two
+            </a>
+        </span>
+        <span class="small-headline">
+            <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026" target="_blank">
+                Windows 10, Day Two
+            </a>
+        </span>
+    </h6>
+ 
+        
+    
+        <p class="text  small-offset-3 ">
+            
+                <span class="referenced-item-excerpt hide-for-small">Two days ago, I promised to upgrade my personal desktop and laptop to Windows 10, to demonstrate…</span>
+            
+            <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026" class="js_readmore readmore-referenced" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset read more link');" target="_blank">
+                Read more <span class="js_external-text hide">Read more</span>
+            </a>
+        </p>
+    
+
+    </div>
+
+        
+    </div>
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0543bbd0b2c77b7d3cd11ae8f7d52f3e">Though my Windows 10 experience has mostly been positive, the cracks are definitely beginning to show. Add up enough issues, and I’ve gotta wonder if it’s really a good idea for people to start blindly upgrading tomorrow. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="7349a9262a92d796d1387cdf0ce222ab">Let me explain what I’m talking about.<br /></p><div class="ad-unit js_ad-unit hide-contents ad-mobile js_ad-mobile">
+	<div class="ad-mobile-inner">
+		<p class="ad-label proxima"><small class=" proxima">Advertisement</small></p>
+		<div id="ad-container-55621185" class="ad-container js_ad-container" data-zone-type="MOBILE"></div>
+		<p class="ad-label-bottom"></p></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="1c393d681a23e6979e8a54e4d79ddc38">Yesterday, I subjected my Lenovo ThinkPad X240 laptop to the greatest stress test I know—taking it on the Caltrain to San Francisco, and using it to cover a time-sensitive tech news event. In this case, I went to see <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" target="_blank">the new OnePlus 2 smartphone</a>, with mere hours between the time I saw the phone and the time I needed to have a huge, picture-filled preview up on the web.</p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="b0b4558405bb4820505836a962c84f46"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--G6mOLWcj--/c_fit,fl_progressive,q_80,w_636/1361603851763875175.jpg" width="636" height="357" alt="Windows 10, Day Five" data-chomp-id="1361603851763875175" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--G6mOLWcj--/c_fit,fl_progressive,q_80,w_636/1361603851763875175.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="779cd609439fdf48ddcec66812a693fd">I didn’t bring my laptop charger, because I wanted to see how long the ThinkPad’s battery would last. I didn’t bring a second laptop in case it somehow failed. I trusted the computer to do its duty, including typing up notes from an interview with the company co-founder, pulling sample camera images off a pair of OnePlus phones, processing the RAW images I shot of those phones with my Canon DSLR camera, and of course, letting me write the actual post. <a x-inset="hidden" href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" target="_blank">http://gizmodo.com/oneplus-2-hand...</a></p>
+
+
+
+
+
+
+
+
+
+
+<aside class="referenced-wide referenced-fullwidth js_inset tmpl_referencedGroupFullWidth clearfix core-decorated-inset">
+    <div class="container">
+        
+            
+    <div class="referenced-item " data-inset-id="1720744717">
+        
+            
+    <div class="columns small-4 medium-3 referenced-item-image referenced-item-processed">
+        <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset photo');" target="_blank">
+            <span class="img-border ">
+            
+                <img src="http://i.kinja-img.com/gawker-media/image/upload/s--rLhM42-R--/c_fill,fl_progressive,g_center,h_77,q_80,w_137/1361275654603531662.jpg" />
+                
+            </span>
+        </a>
+    </div>
+
+        
+         
+    <h6 class="headline" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset headline');">
+        <span class="full-headline">
+            <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" target="_blank">
+                OnePlus 2 Hands-On: So Good, It Makes Me Want To Leave Verizon
+            </a>
+        </span>
+        <span class="medium-headline">
+            <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" target="_blank">
+                OnePlus 2 Hands-On: So Good, It Makes Me Want To Leave Verizon
+            </a>
+        </span>
+        <span class="small-headline">
+            <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" target="_blank">
+                OnePlus 2 Hands-On: So Good, It Makes Me Want To L
+            </a>
+        </span>
+    </h6>
+ 
+        
+    
+        <p class="text  small-offset-3 ">
+            
+                <span class="referenced-item-excerpt hide-for-small">One year ago, the OnePlus One became the best off-contract smartphone you could buy. An unheard of…</span>
+            
+            <a href="http://gizmodo.com/oneplus-2-hands-on-so-good-it-makes-me-want-to-leave-1720500080?rev=1438052639439#_ga=1.66329774.1653699035.1418761236" class="js_readmore readmore-referenced" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset read more link');" target="_blank">
+                Read more <span class="js_external-text hide">Read more</span>
+            </a>
+        </p>
+    
+
+    </div>
+
+        
+    </div>
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="3c9e7ead967c722bf6d35407840528d9">Thankfully, none of those things completely failed. But enough of them ate up enough of my time troubleshooting that I wound up having to add details and pictures to my hands-on post <em>after</em> I published it to the web. It was a little bit embarassing, to say the least.</p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="a2a5224e32be487dede5f037ef395038">The biggest issue, <a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026">as I mentioned last week</a>, is that my laptop’s Synaptics touchpad inexplicably won’t let me scroll through websites in the Google Chrome web browser. It works everywhere <em>but</em> Chrome. So the first thing I did yesterday morning was reinstall the entire web browser. That didn’t work. So I consulted the web for possible fixes. One forum told me to try installing a Chrome theme. Another told me to toggle on and off scrolling in my touchpad settings. Nothing worked. I couldn’t figure it out by the time I had to leave for the event, so Chrome—the place I do 90% of my work, including all my email—was broken right from the start. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="037a6fc00c6e1f27e8599997b49ed95d">Having working email is non-negotiable for a tech journalist, so I needed an alternative place to check my Gmail. “Why not try Microsoft’s new Edge web browser?” I thought. Every time I’ve launched Edge this week, it felt pretty speedy. Perhaps I could write my posts there too. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="9d53ee70099d28481593283b089deb28">Only the moment I tried to bang out a Gmail reply in Microsoft Edge, I discovered the browser couldn’t keep up with my typing. It was like my entire keyboard was on a giant delay. I switched back to Chrome, and sure enough, Edge was the culprit. Chrome? No delay. Edge? Fuggedaboutit. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="801d4453c66400404996ca41fea61d78">I tried typing up the post in Edge, too, only to discover that Gawker Media’s content management system has some, shall we say, quirks when using Microsoft Edge. Quirks like not being able to drag and drop images into a post, or see when you’ve highlighted text. I’m not going to point the finger at Microsoft there, but suffice it to say it wasn’t a great experience. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="3be3f1c5c70f7266cff6c7e1f70bad80">Another thing that slowed me down ever so slightly—and this is pretty weird—was discovering that you can only drag File Explorer windows by grabbing the very edge. Most of the extra space is totally ungrabbable. When I was trying to get some photos into my OnePlus 2 post, I kept missing by accident.</p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="555a06b8ad400bc44e7e2f398506f9ec"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--UCIgUy8N--/c_fit,fl_progressive,q_80,w_636/1361603851794692711.jpg" width="636" height="349" alt="Windows 10, Day Five" data-chomp-id="1361603851794692711" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--UCIgUy8N--/c_fit,fl_progressive,q_80,w_636/1361603851794692711.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="1663d9ec9d7adeec3c71d9c58e2201d3"><em><small>Even though this is all one contiguous white space, you can only grab where the yellow arrows are pointing—not the red.</small></em></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="6cebddfa3b826da7e247d998eb4b2bb4">Then there was the time my Gizmodo colleagues were trying to reach me in our Slack instant messenger, only I didn’t get any of their messages. I’d thought that Windows 10’s new multiple desktop feature would let me put my messaging tools on one desktop and my image editing and web writing tools on another, then switch between them with a flick of the wrist whenever someone called my name. Only it turns out that anything you put on another desktop ceases to exist in your current workspace. My Slack icon, notifications, and client all disappeared until I went to go find them.</p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="df94af521d87668dcde38cb20188eeab"><a href="http://reviews.gizmodo.com/windows-10-day-two-1720099952?rev=1437802295026">Remember when</a> I told you how my PC froze up when I started processing RAW image files in Photoshop, because Windows 10 let it consume all my resources? Turns out it’s not just a Photoshop issue. Opening a browser full of tabs did the same damn thing, slowing everything to a crawl. I couldn’t even get the system to respond long enough to close the browser for a solid minute. That never happened on this computer when I was running Windows 8.</p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="fa0275ac88a00bcf615bb78566fceabc"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--44cf_qLA--/1361603851858017383.jpg" width="636" height="300" alt="Windows 10, Day Five" data-chomp-id="1361603851858017383" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--44cf_qLA--/1361603851858017383.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="580cb157db69c65af9e08d99f1b23192"><em>That’s not a bad crop on the right side of this image: that’s the edge of my screen.<br /></em></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="98061067437b9dd20ac0bcbed2a7eede">And then there are the UI glitches. Which I honestly don’t mind all that much, but they make me worry they might be symptoms of a larger issue. I’m talking about things like desktop icons disappearing, or my Windows calendar deciding to hang ten on the edge of my screen. Or the battery meter spontaneously taking over my entire desktop. Or my Start Menu occasionally refusing to pop up when I press the Windows Key. </p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="55073689a12a540c095268d102507209"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--wR4b4a_j--/c_fit,fl_progressive,q_80,w_636/1361603851898989671.png" width="636" height="357" alt="Windows 10, Day Five" data-chomp-id="1361603851898989671" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--wR4b4a_j--/c_fit,fl_progressive,q_80,w_636/1361603851898989671.png" data-format="png" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="9ca29ae6298be5bb9908e4007f8ee185"><em><small>Occasionally, my battery meter looks like this.</small></em></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="d1eb7cc2da878468aa30a59d2867ab2c">Hey, you know how if you plug a USB flash drive or a memory card into your computer, it’ll ask you what kind of action you’d like Windows to automatically take when it detects such a thing? It’s called AutoPlay, and Windows 10 has it too. Only as far as I can tell, it doesn’t actually work. “Tap to choose what happens with memory cards,” my computer asks me. I tap it, obligingly, and the notification disappears without <em>doing</em> anything at all. </p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="e72bf9ee658bcfb2478d55738cc68bbe"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--WE36JROl--/1361603852238564967.jpg" width="636" height="470" alt="Windows 10, Day Five" data-chomp-id="1361603852238564967" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--WE36JROl--/1361603852238564967.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="caa4bb7e8cd6e46582e56c18f7e759f0">Often, I’ve wanted to change a particular setting on my computer, and <a href="http://reviews.gizmodo.com/windows-search-doesnt-suck-anymore-1719865606">used Windows 10’s awesome new Search function</a> to just type in a few letters and see what autocompletes. And several times, I’ve followed one of them only to find out it leads <em>absolutely nowhere</em>. As in, Microsoft’s programmers linked to settings pages that don’t actually exist. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="44705b4d81bda11f5d218a9d3e6649ed">Though honestly, getting rid of some of Windows 10’s setting pages might be a good idea, <a href="http://reviews.gizmodo.com/settings-are-better-in-windows-10-but-thats-not-saying-1720747436">because there are loads of duplicates</a>. Like Windows 8, there’s the old Control Panel, but also the new touch-friendly Settings page, and many controls are duplicated across both. Some of them are exceptionally confusing, like the new Battery Saver mode. Is that the same as the Power Saver setting on my laptop? I assumed so at first, but nope. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="314179268dfe398e0ce779f17cf694d1">Battery Saver wasn’t actually saving my battery when I found it running low! On the train, headed back from the OnePlus event, I noticed my computer was running hot, the fan spinning noisely, despite being in Battery Saver mode. Turns out my processor was clocking itself at 2.4GHz. (In other words, way the heck too hot.) Power Saver took care of that in a jiffy, but now it’s buried beneath an additional layer of menus.</p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="585e5c13caa4cbdf68ab039dfdd22656"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--NzWeFNxI--/c_fit,fl_progressive,q_80,w_636/1361603852278898279.png" width="636" height="402" alt="Windows 10, Day Five" data-chomp-id="1361603852278898279" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--NzWeFNxI--/c_fit,fl_progressive,q_80,w_636/1361603852278898279.png" data-format="png" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="6e44bbdcd7d0016f5b2fd3c76ad023a8">Why was my processor running so hot, though? I’ve got a theory: despite the fact that I was using an LTE mifi—eating up precious gigabytes of Verizon data—and trying my damnest to get a critical post up on the web, Windows 10 was secretly downloading and installing new updates in the background the whole time I was on the train.</p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="757606563d1bf2a5443c87b2045e8866">Yeah, in case you haven’t heard, Windows 10 updates aren’t optional—and though they’re not supposed to download over a metered data connection, I couldn’t find a way to specify that. “Set up data usage limit” is one of those settings you’ll see in search that goes absolutely nowhere. When I got home, sure enough, Windows told me it had installed some new updates. I sure would have liked a chance to veto them!</p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="9737547fb48f85ae14753ab4a6a2c400">None of these things are particularly terrible. None of them are reasons why you’d <em>need</em> to wait to upgrade to Windows 10. And I expect most of them will get fixed. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="2f5d8d8d0447cf9c26e2d05bc13d8194">In fact, Microsoft’s <a href="http://reviews.gizmodo.com/heres-the-incredibly-hacky-way-to-disable-windows-10-up-1720768012">rolling out a tool</a> that will let you block unwanted Windows updates—likely due to <a href="http://www.forbes.com/sites/erikkain/2015/07/26/gamers-should-be-worried-about-windows-10-automatic-updates/" target="_blank">the shitstorm that erupted </a>when Windows 10 installed a faulty Nvidia GeForce graphics driver on a whole bunch of people’s computers. Including mine, by the way: I woke up this morning to discover only one of my three desktop monitors working. (A quick restart fixed it.)<br /></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="ac914ad083997abd9c349ae2d8d3dd4b">I’ve already decided I won’t be going back to Windows 8. I vastly prefer Windows 10’s user interface. It just makes so much more sense than Windows 8 ever did. I absolutely adore the new multitasking features. (And, yeah, I’ve got loads more to test.) But is Windows 10 ready for hundreds of millions of users? I’m not sure. It’s going to take time to iron out these bugs and dead ends. </p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="a03f12218c2f4500fa20fc8d99f2fcf4">Windows 10 starts arriving tomorrow. That’s not a lot of time to fix them.</p>
+
+
+
+
+
+
+
+
+<p class="has-media media-640 has-image" data-textannotation-id="d47179b53f7ecfb2cad4e42623dafb77"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--PwmJU15x--/c_fit,fl_progressive,q_80,w_636/1361603852310755431.jpg" width="636" height="399" alt="Windows 10, Day Five" data-chomp-id="1361603852310755431" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--PwmJU15x--/c_fit,fl_progressive,q_80,w_636/1361603852310755431.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="7190921b64b529f441719dc32460eeb5">“How likely are you to recommend Windows 10 to a friend or colleague?” the operating system asked me, a few minutes ago. I’m not sure, Microsoft. Depends on whether they’re going to call me if or when their shit stops working.</p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="c253d47b95ed07a6fd788cf32ba98288">On the plus side, I totally got Photoshop and Premiere working again on my desktop computer. It was super easy once I googled the right keywords. <a href="https://helpx.adobe.com/creative-cloud/kb/missing-msvcp110dll.html" target="_blank">Just follow these instructions and pick “Solution 2.”</a></p>
+
+
+
+
+
+
+
+
+<h4 data-textannotation-id="6ecbef8471abd37215b9f20a931ed005">Read Next: <a href="http://gizmodo.com/the-windows-7-upgrade-to-windows-10-isnt-so-scary-after-1720777692" target="_blank">The Windows 7 Upgrade To Windows 10 Isn’t So Scary After All</a></h4>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="6a04d3a47aafb0e4621a5c962d893aa4"><em>This post is part of <a href="http://reviews.gizmodo.com/why-i-m-upgrading-to-windows-10-1719559557#_ga=1.133959950.1653699035.1418761236">a week-long experiment</a> with Windows 10 ahead of the official launch on July 29. What do you want to know? </em><em><small><a href="mailto:sean.hollister@gizmodo.com">Drop us a line</a>, or hit up <a href="https://twitter.com/StarFire2258" target="_blank">@starfire2258</a> on Twitter.</small></em></p>
+
+
+
+
+
+
+
+
+<p data-textannotation-id="32e03b5c0618429afe573d5424726e86"><iframe src="http://gawker-labs.com/related-widget/?posts=1719864054,1720099952,1719559557&amp;title=Windows 10: The Gizmodo Review" width="100%" height="270" class="custom recommended"></iframe></p><!-- core-decorated --></div><div class="row"><div class="post-bottom column"><a name="replies"></a><div class="post-tools-wrapper right" data-forpost="1720608388">	<a data-likecount="16" href="#" data-analytics-target="starterBottom" class="js_like button-recommend-post text-small proxima hover-icon icon--svg u-oversized u-darkened--onhover js_like_icon u-undecorated"" title="Recommend"><span class="js_like_count">16</span>	<svg class="svg-icon svg-star"><use xlink:href="#iconset-star" /></svg></a>	<span id="js_reply-count" class="proxima text-small mlm mrn" style="display: none">436<span class="icon--svg u-oversized">	<svg class="svg-icon svg-bubble"><use xlink:href="#iconset-bubble" /></svg></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a id="js_reply-to-post" href="#" class="reply-to-post reply-count hover-icon proxima js_reply-to-post text-small readonly-hide" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Reply button click');">Reply</a><noscript>	<span id="js_reply-count" class="proxima text-small mlm mrn">436<span class="icon--svg u-oversized">	<svg class="svg-icon svg-bubble"><use xlink:href="#iconset-bubble" /></svg></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a href="#" class="reply-to-post reply-count hover-icon proxima text-small icon--svg u-oversized" rel="nofollow">Discuss	<svg class="svg-icon svg-bubble"><use xlink:href="#iconset-bubble" /></svg></a></noscript></div>	<div class="fb-like" data-href="http://reviews.gizmodo.com/windows-10-day-five-1720608388" data-layout="button_count" data-width="100" data-show-faces="false"></div></div></div></div></div></article></div></section><section id="js_discussion-region" class="discussion-region" data-authorblogname=seanhollister data-replycount=436></section><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.postMeta = JSON.parse('{\x22post\x22:{\x22id\x22:1720608388,\x22headline\x22:\x22Windows 10, Day Five\x22,\x22isStarter\x22:true,\x22allowReplies\x22:true,\x22replyCount\x22:436,\x22status\x22:\x22PUBLISHED\x22,\x22permalink\x22:\x22http:\/\/reviews.gizmodo.com\/windows-10-day-five-1720608388\x22,\x22first100Characters\x22:\x22The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. When \x22,\x22firstSentence\x22:\x22The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. \x22,\x22facebookImage\x22:{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--KiMNExUm--\/c_fit,fl_progressive,q_80,w_636\/1361603851665534311.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/bgqkqbxqkzlaowmrcvhc.jpg\x22,\x22id\x22:\x221361603851665534311\x22,\x22width\x22:636,\x22height\x22:357,\x22format\x22:\x22jpg\x22,\x22recommended\x22:true},\x22twitterCardType\x22:\x22summary_large_image\x22,\x22plaintext\x22:\x22The nice thing about reviewing Windows 10 on my own computers is that there’s nowhere to hide. When something goes wrong, I have to troubleshoot on the fly. I can’t say “Oh, I’ll just go back to my personal computer until I figure this out.” You know what’s not so nice? When you shoot the trouble, and yet—somehow—it survives.http:\/\/reviews.gizmodo.com\/windows-10-day... Windows 10, Day Two Windows 10, Day Two Windows 10, Day Two Two days ago, I promised to upgrade my personal desktop and laptop to Windows 10, to demonstrate… Read more Read more\x22,\x22author\x22:{\x22id\x22:\x221617183786\x22,\x22screenName\x22:\x22seanhollister\x22,\x22displayName\x22:\x22Sean Hollister\x22,\x22defaultBlogId\x22:1617183787,\x22defaultBlog\x22:null,\x22avatar\x22:{\x22id\x22:\x22pjpe2ekupck01en6qh0p\x22,\x22format\x22:\x22jpg\x22}},\x22authorScreenName\x22:\x22seanhollister\x22,\x22tags\x22:[{\x22id\x22:1640816137,\x22name\x22:\x22windows 10\x22,\x22desc\x22:\x22Windows 10\x22,\x22urlName\x22:\x22windows-10\x22},{\x22id\x22:461614,\x22name\x22:\x22windows\x22,\x22desc\x22:\x22Windows\x22,\x22urlName\x22:\x22windows\x22},{\x22id\x22:535114,\x22name\x22:\x22microsoft\x22,\x22desc\x22:\x22Microsoft\x22,\x22urlName\x22:\x22microsoft\x22},{\x22id\x22:1215543935,\x22name\x22:\x22reviews\x22,\x22desc\x22:\x22reviews\x22,\x22urlName\x22:\x22reviews\x22}],\x22publishTimeMillis\x22:1438135200936,\x22adZone\x22:\x22\x22,\x22sponsored\x22:false,\x22blogs\x22:[{\x22id\x22:1617183787,\x22name\x22:\x22seanhollister\x22,\x22displayName\x22:\x22Sean Hollister\x22,\x22canonicalHost\x22:\x22seanhollister.kinja.com\x22,\x22hosts\x22:[],\x22status\x22:\x22ENABLED\x22,\x22timezone\x22:\x22America\/New_York\x22,\x22timezoneOffset\x22:-14400000,\x22timezoneShortname\x22:\x22EDT\x22,\x22createTimeMillis\x22:null,\x22ownerId\x22:null,\x22description\x22:null,\x22properties\x22:null,\x22avatar\x22:null,\x22logo\x22:null,\x22locale\x22:\x22en-US\x22,\x22fbAppId\x22:\x2236368793975\x22,\x22robotsAllowed\x22:true,\x22googleSiteVerification\x22:null,\x22googleAnalyticsID\x22:null,\x22kruxId\x22:null,\x22isGmgBlog\x22:false,\x22groupBlog\x22:false,\x22blogGroup\x22:\x22default\x22,\x22aboutPostId\x22:null,\x22noindex\x22:false},{\x22id\x22:1624664757,\x22name\x22:\x22reviewsgizmodo\x22,\x22displayName\x22:\x22Reviews\x22,\x22canonicalHost\x22:\x22reviews.gizmodo.com\x22,\x22hosts\x22:[\x22reviewsgizmodo.kinja.com\x22,\x22reviews.kinja.com\x22],\x22status\x22:\x22ENABLED\x22,\x22timezone\x22:\x22America\/New_York\x22,\x22timezoneOffset\x22:-14400000,\x22timezoneShortname\x22:\x22EDT\x22,\x22createTimeMillis\x22:null,\x22ownerId\x22:null,\x22description\x22:null,\x22properties\x22:{\x22groupBlog\x22:true,\x22googleAnalyticsID\x22:\x22UA-142218-3\x22},\x22avatar\x22:{\x22id\x22:\x22vmo840oorkpnx2utciyt\x22,\x22format\x22:\x22png\x22},\x22logo\x22:null,\x22locale\x22:\x22en-US\x22,\x22fbAppId\x22:\x2236368793975\x22,\x22robotsAllowed\x22:true,\x22googleSiteVerification\x22:null,\x22googleAnalyticsID\x22:\x22UA-142218-3\x22,\x22kruxId\x22:null,\x22isGmgBlog\x22:false,\x22groupBlog\x22:true,\x22blogGroup\x22:\x22default\x22,\x22aboutPostId\x22:null,\x22noindex\x22:false}],\x22sharedPostId\x22:null,\x22defaultBlogId\x22:1624664757,\x22images\x22:[{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--UCIgUy8N--\/c_fit,fl_progressive,q_80,w_636\/1361603851794692711.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/h7ehgzmluxl9jnbqxn7f.jpg\x22,\x22id\x22:\x221361603851794692711\x22,\x22width\x22:636,\x22height\x22:349,\x22format\x22:\x22jpg\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--G6mOLWcj--\/c_fit,fl_progressive,q_80,w_636\/1361603851763875175.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/uldnmiqyhdpi0vpzgzix.jpg\x22,\x22id\x22:\x221361603851763875175\x22,\x22width\x22:636,\x22height\x22:357,\x22format\x22:\x22jpg\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--WE36JROl--\/1361603852238564967.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/ueygtg0exbgx8r5uzusp.jpg\x22,\x22id\x22:\x221361603852238564967\x22,\x22width\x22:636,\x22height\x22:470,\x22format\x22:\x22jpg\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--PwmJU15x--\/c_fit,fl_progressive,q_80,w_636\/1361603852310755431.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/qvssydpodmcescpamxy1.jpg\x22,\x22id\x22:\x221361603852310755431\x22,\x22width\x22:636,\x22height\x22:399,\x22format\x22:\x22jpg\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--NzWeFNxI--\/c_fit,fl_progressive,q_80,w_636\/1361603852278898279.png\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/vrylwl5o7awbuu0h1j9x.png\x22,\x22id\x22:\x221361603852278898279\x22,\x22width\x22:636,\x22height\x22:402,\x22format\x22:\x22png\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--44cf_qLA--\/1361603851858017383.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/t3gnwsjpuwtpi44ysrli.jpg\x22,\x22id\x22:\x221361603851858017383\x22,\x22width\x22:636,\x22height\x22:300,\x22format\x22:\x22jpg\x22,\x22recommended\x22:null},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--KiMNExUm--\/c_fit,fl_progressive,q_80,w_636\/1361603851665534311.jpg\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/bgqkqbxqkzlaowmrcvhc.jpg\x22,\x22id\x22:\x221361603851665534311\x22,\x22width\x22:636,\x22height\x22:357,\x22format\x22:\x22jpg\x22,\x22recommended\x22:true},{\x22src\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--wR4b4a_j--\/c_fit,fl_progressive,q_80,w_636\/1361603851898989671.png\x22,\x22uri\x22:\x22https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/fzr01nslaw1mhj9qi0r5.png\x22,\x22id\x22:\x221361603851898989671\x22,\x22width\x22:636,\x22height\x22:357,\x22format\x22:\x22png\x22,\x22recommended\x22:null}],\x22videos\x22:[]},\x22starterId\x22:1720608388,\x22tags\x22:\x22windows 10,windows,microsoft,reviews\x22,\x22postId\x22:1720608388,\x22authors\x22:\x22Sean Hollister\x22,\x22postAuthorBlogName\x22:\x22seanhollister\x22}');}());</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","url":"http://reviews.gizmodo.com/windows-10-day-five-1720608388","author":{"@type":"Person","name":"Sean Hollister"},"headline":"Windows 10, Day Five","datePublished":"2015-07-28T22:00:00-04:00","mainEntityOfPage":true,"image":{"@list":["https://i.kinja-img.com/gawker-media/image/upload/h7ehgzmluxl9jnbqxn7f.jpg","https://i.kinja-img.com/gawker-media/image/upload/uldnmiqyhdpi0vpzgzix.jpg","https://i.kinja-img.com/gawker-media/image/upload/ueygtg0exbgx8r5uzusp.jpg","https://i.kinja-img.com/gawker-media/image/upload/qvssydpodmcescpamxy1.jpg","https://i.kinja-img.com/gawker-media/image/upload/vrylwl5o7awbuu0h1j9x.png","https://i.kinja-img.com/gawker-media/image/upload/t3gnwsjpuwtpi44ysrli.jpg","https://i.kinja-img.com/gawker-media/image/upload/bgqkqbxqkzlaowmrcvhc.jpg","https://i.kinja-img.com/gawker-media/image/upload/fzr01nslaw1mhj9qi0r5.png"]}}</script>	<div class="js_stats" style="display: none;" data-trackurl="//kinja.com/api/analytics/stats/track.gif?&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=post&objectId=1640816137&objectId=461614&objectId=535114&objectId=1215543935&objectId=1720608388&blogId=1624664757&authorId=1617183786"></div><div id="analytics-permalink-view" style="display: none;"data-analytics-api-root-url="//kinja.com/api/analytics/"data-post-id="1720608388" data-blog-id="1624664757" data-author-id="1617183786" data-tag-ids="1640816137,461614,535114,1215543935"></div></div></div><div class="row ad-wide ad-bottom show-for-large-up" id="ad-970x250-container"><div class="column">		<div class="ad-unit js_ad-unit ad-billboard js_ad-billboard"><div id="ad-container-27313059" class="ad-container js_ad-container" data-zone-type="BILLBOARD"></div></div></div></div>	<div data-analytics-target="sharingBottom" id="sharingfooter" class="sharingfooter noskimlinks noskimwords"><div class="sharingfooter__internal"><a href="#replies" class="sharingfooter__comment js_reply-to-post icon--svg">	<svg class="svg-icon svg-bubble"><use xlink:href="#iconset-bubble" /></svg><span class="js_reply-count">436</span></a><a href="#" class="sharingfooter__recommend js_like icon--svg"><span class="js_like_icon">	<svg class="svg-icon svg-star"><use xlink:href="#iconset-star" /></svg></span><span class="js_like_count">16</span></a></div><div class="sharingfooter__external"><a class="sharingfooter__facebook js_share-post-item facebook icon--svg" rel="nofollow" href="http://facebook.com/sharer.php?u=http%3A%2F%2Freviews.gizmodo.com%2Fwindows-10-day-five-1720608388" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Facebook click');">	<svg class="svg-icon svg-facebook-circle"><use xlink:href="#iconset-facebook-circle" /></svg></a><a class="sharingfooter__twitter js_share-post-item twitter icon--svg" rel="nofollow" href="http://twitter.com/share?url=http%3A%2F%2Freviews.gizmodo.com%2Fwindows-10-day-five-1720608388&amp;text=POST_TITLE" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Twitter click');">	<svg class="svg-icon svg-twitter-circle"><use xlink:href="#iconset-twitter-circle" /></svg></a></div></div><div id="matchbuy-placeholder"></div><div id="trackers" style="display: none;"></div><noscript><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/4246/DFP_Audience_Pixel;dc_seg=22540930;blog=reviewsgizmodo;ord=1?" width="1" height="1" border="0" /></noscript><script type="text/javascript">
+		Date.now = Date.now || function() { return +new Date; };
+		window.statsdTicks = [{
+			ms: Date.now(),
+			message: "JS init reached",
+			reporting: false
+		}];
+		</script><script>markUserTime("JS - Before Require load");</script><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.meta = JSON.parse('{\x22cloudinaryRequest\x22:{\x22default\x22:{\x22eager\x22:\x22c_fill,fl_progressive,g_center,h_180,q_80,w_320|c_fit,fl_progressive,q_80,w_600|c_fill,fl_progressive,g_center,h_100,q_80,w_100|c_fill,fl_progressive,g_center,h_77,q_80,w_137|c_fit,fl_progressive,q_80,w_600|c_fill,fl_progressive,g_north,h_264,q_80,w_470|c_fill,fl_progressive,g_center,h_358,q_80,w_636|c_fill,fl_progressive,g_north,h_264,q_80,w_470|c_fill,fl_progressive,g_center,h_77,q_80,w_137|c_fill,fl_progressive,g_north,h_77,q_80,w_137|c_fill,fl_progressive,g_center,h_120,q_80,w_120|c_fit,fl_progressive,q_80,w_636|c_fill,fl_progressive,g_north,h_77,q_80,w_137|c_fill,fl_progressive,g_north,h_358,q_80,w_636|c_fit,fl_progressive,q_80,w_470|c_fill,fl_progressive,g_center,h_80,q_80,w_80|c_fit,fl_progressive,h_73,q_80,w_130|c_fill,fl_progressive,g_north,h_180,q_80,w_320|c_fill,fl_progressive,g_north,h_180,q_80,w_320|c_fit,fl_progressive,q_80,w_320|c_fill,fl_progressive,g_center,h_120,q_80,w_120|c_fill,fl_progressive,g_center,h_200,q_80,w_200|c_fill,fl_progressive,g_faces,h_77,q_80,w_137|c_fill,fl_progressive,g_faces,h_77,q_80,w_137|c_fill,fl_progressive,g_center,h_80,q_80,w_80||c_fill,fl_progressive,g_north,h_358,q_80,w_636|c_fit,fl_progressive,q_80,w_470|c_fill,fl_progressive,g_center,h_100,q_80,w_100|c_fit,fl_progressive,h_100,q_80,w_75|c_fill,fl_progressive,g_center,h_200,q_80,w_200|c_fit,fl_progressive,q_80,w_636|c_fit,fl_progressive,q_80,w_320|c_fit,fl_progressive,h_100,q_80,w_75|c_fit,fl_progressive,h_73,q_80,w_130|c_fill,fl_progressive,g_center,h_358,q_80,w_636|c_fill,fl_progressive,g_center,h_180,q_80,w_320|\x22,\x22timestamp\x22:\x221438491390\x22,\x22signature\x22:\x22134685c9bf01b7d8f3d891cafe27504fab4d0df2\x22,\x22api_key\x22:\x22196565315244936\x22,\x22eager_async\x22:\x22true\x22},\x22gif\x22:{\x22eager\x22:\x22c_fill,fl_progressive,g_center,h_180,q_80,w_320|c_fit,fl_progressive,q_80,w_600|c_fill,fl_progressive,g_center,h_100,q_80,w_100|c_fill,fl_progressive,g_center,h_77,q_80,w_137|c_fit,fl_progressive,q_80,w_600|c_fill,fl_progressive,g_north,h_264,q_80,w_470|c_fill,fl_progressive,g_center,h_358,q_80,w_636|c_fill,fl_progressive,g_north,h_264,q_80,w_470|c_fill,fl_progressive,g_center,h_77,q_80,w_137|c_fill,fl_progressive,g_north,h_77,q_80,w_137|c_fill,fl_progressive,g_center,h_120,q_80,w_120|c_fit,fl_progressive,q_80,w_636|c_fill,fl_progressive,g_north,h_77,q_80,w_137|c_fill,fl_progressive,g_north,h_358,q_80,w_636|c_fit,fl_progressive,q_80,w_470|c_fill,fl_progressive,g_center,h_80,q_80,w_80|c_fit,fl_progressive,h_73,q_80,w_130|c_fill,fl_progressive,g_north,h_180,q_80,w_320|c_fill,fl_progressive,g_north,h_180,q_80,w_320|c_fit,fl_progressive,q_80,w_320|c_fill,fl_progressive,g_center,h_120,q_80,w_120|c_fill,fl_progressive,g_center,h_200,q_80,w_200|c_fill,fl_progressive,g_faces,h_77,q_80,w_137|c_fill,fl_progressive,g_faces,h_77,q_80,w_137|c_fill,fl_progressive,g_center,h_80,q_80,w_80||c_fill,fl_progressive,g_north,h_358,q_80,w_636|c_fit,fl_progressive,q_80,w_470|c_fill,fl_progressive,g_center,h_100,q_80,w_100|c_fit,fl_progressive,h_100,q_80,w_75|c_fill,fl_progressive,g_center,h_200,q_80,w_200|c_fit,fl_progressive,q_80,w_636|c_fit,fl_progressive,q_80,w_320|c_fit,fl_progressive,h_100,q_80,w_75|c_fit,fl_progressive,h_73,q_80,w_130|c_fill,fl_progressive,g_center,h_358,q_80,w_636|c_fill,fl_progressive,g_center,h_180,q_80,w_320|\x22,\x22timestamp\x22:\x221438491390\x22,\x22tags\x22:\x22gif\x22,\x22signature\x22:\x22f0bb48c9e5ecc9cc50e1b8ecaaf21881d57ed559\x22,\x22api_key\x22:\x22196565315244936\x22,\x22eager_async\x22:\x22true\x22}},\x22syncFeatures\x22:null,\x22featuresLastUpdate\x22:1438374791226,\x22mode\x22:\x22live\x22,\x22pageType\x22:\x22permalink\x22,\x22currentUrl\x22:\x22\/windows-10-day-five-1720608388\x22,\x22locale\x22:\x22en-US\x22,\x22localeWithUnderscore\x22:\x22en_US\x22,\x22imageSizes\x22:{\x22KinjaCenteredMedium\x22:{\x22width\x22:320,\x22height\x22:180,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22blg-logo\x22:{\x22width\x22:600,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22blg-avt-\x22:{\x22width\x22:100,\x22height\x22:100,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22kc-small\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22BlogLogo\x22:{\x22width\x22:600,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22k-large\x22:{\x22width\x22:470,\x22height\x22:264,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22kc-xlarge\x22:{\x22width\x22:636,\x22height\x22:358,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaLarge\x22:{\x22width\x22:470,\x22height\x22:264,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaCenteredSmall\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22k-small\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22AvatarMedium\x22:{\x22width\x22:120,\x22height\x22:120,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22ku-xlarge\x22:{\x22width\x22:636,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaSmall\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaExtraLarge\x22:{\x22width\x22:636,\x22height\x22:358,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22ku-large\x22:{\x22width\x22:470,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22avt-small\x22:{\x22width\x22:80,\x22height\x22:80,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22CommerceInset\x22:{\x22width\x22:130,\x22height\x22:73,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22k-medium\x22:{\x22width\x22:320,\x22height\x22:180,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaMedium\x22:{\x22width\x22:320,\x22height\x22:180,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22ku-medium\x22:{\x22width\x22:320,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22avt-medium\x22:{\x22width\x22:120,\x22height\x22:120,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22avt-large\x22:{\x22width\x22:200,\x22height\x22:200,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22k-thumb\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22faces\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaThumb\x22:{\x22width\x22:137,\x22height\x22:77,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22faces\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22AvatarSmall\x22:{\x22width\x22:80,\x22height\x22:80,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22original\x22:{},\x22k-xlarge\x22:{\x22width\x22:636,\x22height\x22:358,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22north\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaUncroppedLarge\x22:{\x22width\x22:470,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22BlogAvatar\x22:{\x22width\x22:100,\x22height\x22:100,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22ku-inset\x22:{\x22width\x22:75,\x22height\x22:100,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22AvatarLarge\x22:{\x22width\x22:200,\x22height\x22:200,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaUncroppedExtraLarge\x22:{\x22width\x22:636,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaUncroppedMedium\x22:{\x22width\x22:320,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaUncroppedInset\x22:{\x22width\x22:75,\x22height\x22:100,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22commerceinset\x22:{\x22width\x22:130,\x22height\x22:73,\x22crop\x22:\x22fit\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22KinjaCenteredExtraLarge\x22:{\x22width\x22:636,\x22height\x22:358,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22kc-medium\x22:{\x22width\x22:320,\x22height\x22:180,\x22crop\x22:\x22fill\x22,\x22gravity\x22:\x22center\x22,\x22flags\x22:\x22progressive\x22,\x22quality\x22:80},\x22Original\x22:{}},\x22blog\x22:{\x22id\x22:1624664757,\x22name\x22:\x22reviewsgizmodo\x22,\x22displayName\x22:\x22Reviews\x22,\x22canonicalHost\x22:\x22reviews.gizmodo.com\x22,\x22hosts\x22:[\x22reviewsgizmodo.kinja.com\x22,\x22reviews.kinja.com\x22],\x22status\x22:\x22ENABLED\x22,\x22timezone\x22:\x22America\/New_York\x22,\x22timezoneOffset\x22:-14400000,\x22timezoneShortname\x22:\x22EDT\x22,\x22createTimeMillis\x22:1408569189486,\x22ownerId\x22:\x221617183786\x22,\x22description\x22:null,\x22properties\x22:{\x22groupBlog\x22:true,\x22googleAnalyticsID\x22:\x22UA-142218-3\x22},\x22avatar\x22:{\x22id\x22:\x22vmo840oorkpnx2utciyt\x22,\x22format\x22:\x22png\x22},\x22logo\x22:{\x22id\x22:\x22zcax3henjdkewwmmkubl\x22,\x22format\x22:\x22png\x22},\x22locale\x22:\x22en-US\x22,\x22fbAppId\x22:\x2236368793975\x22,\x22robotsAllowed\x22:true,\x22googleSiteVerification\x22:null,\x22googleAnalyticsID\x22:\x22UA-142218-3\x22,\x22kruxId\x22:null,\x22isGmgBlog\x22:false,\x22groupBlog\x22:true,\x22blogGroup\x22:\x22default\x22,\x22aboutPostId\x22:null,\x22noindex\x22:false},\x22blogOwner\x22:{\x22id\x22:\x221617183786\x22,\x22screenName\x22:\x22seanhollister\x22,\x22displayName\x22:\x22Sean Hollister\x22,\x22avatar\x22:{\x22id\x22:\x22pjpe2ekupck01en6qh0p\x22,\x22format\x22:\x22jpg\x22},\x22superUser\x22:false,\x22defaultBlogId\x22:1617183787,\x22defaultBlog\x22:null},\x22blogSales\x22:{\x22blogId\x22:1624664757,\x22amazonInsetsEnabled\x22:false,\x22amazonAffiliateTag\x22:\x22\x22,\x22adsEnabled\x22:true,\x22adNetworkId\x22:4246,\x22adSiteName\x22:\x22gm.gizmodo\x22,\x22tagsExcludedFromPartnerRss\x22:[],\x22tagsForceSynced\x22:[],\x22adSlotsDisabled\x22:[]},\x22imgassets\x22:\x22\/\/x.kinja-static.com\/assets\/images\/\x22}');}());</script><script type="text/javascript" src="//x.kinja-static.com/assets/javascripts/lib/require.js?2"></script><script type="text/javascript">(function () {/* This AMD configuration is used in these contexts:1) in-browser2) build process3) tests*/(function () {'use strict';/*globals requirejs, document */requirejs.config({bundles: {'lib/scribe/scribe': ['scribe']},paths: (function () {var paths = {'html-janitor': 'lib/html-janitor',jquery: 'lib/jquery',underscore: 'lib/underscore',backbone: 'lib/backbone','backbone.marionette': 'lib/backbone.marionette','backbone.stickit': 'lib/backbone.stickit',moment: 'lib/amd-wrapped/momentjs/moment','moment-timezone': 'lib/amd-wrapped/momentjs/moment-timezone',ace: 'lib/ace','scribe-plugin-heading-command': 'lib/scribe/plugins/scribe-plugin-heading-command','scribe-plugin-blockquote-command': 'lib/scribe/plugins/scribe-plugin-blockquote-command','scribe-plugin-intelligent-unlink-command': 'lib/scribe/plugins/scribe-plugin-intelligent-unlink-command','scribe-plugin-formatter-html-ensure-semantic-elements': 'lib/scribe/plugins/scribe-plugin-formatter-html-ensure-semantic-elements','scribe-plugin-keyboard-shortcuts': 'lib/scribe/plugins/scribe-plugin-keyboard-shortcuts','scribe-plugin-sanitizer': 'lib/scribe/plugins/scribe-plugin-sanitizer','scribe-plugin-code-command': 'lib/scribe/plugins/scribe-plugin-code-command','scribe-plugin-curly-quotes': 'lib/scribe/plugins/scribe-plugin-curly-quotes'};if (typeof document !== 'undefined') {paths.templates = 'templates/closure/' + (document.getElementsByTagName('html')[0].getAttribute('lang') || 'en-US');}return paths;}())});}());var modules = {"BaseApp": "-616a6e5e15fce9c7ee39abe1d5592fd9","TagPageApp": "-563173083521d40beacccb0150419ad2","PromoteModalModule": "-89252d87546b16a8a4ff156e12c43f73","FrontPageApp": "-e62d3011e8b97182b297ede6220eefdd","Main": "-21e37700a5633c22a56e2cb064c6db1b","PromotedPostPreview": "-bf398f005f18da77980df3595398002f","PromotedPostAdminApp": "-d0303f556d3770a74ddcf8738e6130f0","ProfilePageApp": "-cdda27fa05dc141a49fe8d1750d62120","LoginModule": "-d232105e344e3f18d01748ed42082f50","AmazonStats": "-9ac5f9b843b1cf3f2be5b340f5a277c1","KindrApp": "-bcd1b32f00064dc9953ac17c0640a7ea","FeaturesPageApp": "-9d7d647c10f8fee935a591e011a724ea","LeaderboardStatsPageApp": "-d54f85cea0789cad1b9f53ed3185b8b8","SplashPageApp": "-12b2f2de56632c4f1ea8a74c63a62c18","UserSettingsApp": "-f5986fae7e95d88e449a591977ef19d5","PostApp": "-edba3b28c6dc1fcfc4d460b047ec4ce6","EssentialIconModule": "-89a9879803d35f3dfeca42f13bd80707","DashboardPageApp": "-223e0005bf503f89cdfa401a33e6f071","StatsPageApp": "-15c9e3e003e0e2172c264fc64c25116a","RuleSystemApp": "-3215d1703edda8fee11aae91d684ee7a","FlaggedRepliesApp": "-e7c94a155aeec2a096deb94f11f235b7","FeaturePanelModule": "-92f66d492ca3b343155a838daa84c99d","MarionetteEditor": "-717e3a595b9eeeb77a384868ec22072f","SubblogModule": "-6e184deb9b620eb9e625ded9b077e6af","BlacklistPageApp": "-b7a8e99b19fa89f3692368c2bb8fbdcc","ManageBlogsApp": "-c614715f14b7ed9412eef86aedebd1c5","JWPlayer": "-bcb2726c49022f1b0a79203da422279b","GmgFeaturesPageApp": "-cf58703e494ffb0ecbd624d8be78abe6","DiscussionIconModule": "-bd5d8df8ec511bd128d71fbc7da3b5fd","DiscussionModule": "-1364a229fd3bafdca29d44f869c1e176","EditorApp": "-eeb600747bd9a6a47ec25fa52bc75f4d","EditorIconModule": "-be02fcce58c475f34e29b1fbe02d437a","ErrorPageApp": "-ecbb4f83896b4586ee681db0b6d623a9","PlacesIconModule": "-7e802d2e77c3e910deda207ba6fbad2e","KinjaAnalytics": "-1cedc3a0d5212e4d2dd67188a4748ed8","FollowPageApp": "-a95feeafefb65cdc5c5f9345d530ddb7","SearchPageApp": "-c9fb4f531b805c75d7ddd0074f1005b0","Raven": "-3467f3aed7fecb0be39f14c0d7095e44","BusinessModule": "-5d9d219c9d54c1307bac941898a900b9","UIKitApp": "-dbd1e3cadf21bef14c36ab9aacd8e3c3","BlogSettingsModule": "-462b869995cf8a9286413e6b3f67b41e","AdModule": "-852024cee50ebd951d2c656fcb093cc7","StatsPerformanceApp": "-e4b39a6fcc8a6c96b1f95bab65c76517","ActionsIconModule": "-5e48cc899dd28bd8be8ca2f4a98571ec"}, paths = {}, baseUrl = "//x.kinja-static.com/assets/javascripts-min/", modulePath = "layer/"; for (var module in modules) {if (modules.hasOwnProperty(module)) {paths["module/" + module] = "module/" + module + "-en-US" + modules[module]; paths["layer/" + module] = "layer/" + module + "-en-US" + modules[module];}}require.config({waitSeconds: 0, baseUrl: baseUrl, paths: paths, map: {"*": {"config": "config"}}});markUserTime("JS - Before preload"); require([modulePath + "Main", modulePath + "PostApp"], function () {markUserTime("JS - After preload"); require(["module/PostApp"], function () {markUserTime("JS - After app init");});});}());</script><!--[if gte IE 9]> --><script>require(["module/Raven"]);</script><!-- <![endif]--><div class="reveal-modal-bg"></div><div class="ad-background"></div><div id="modalplaceholder"></div></div>	<div class="kinja-logo-divider"><hr /></div><footer class="site-footer js_site-footer noskimlinks noskimwords"><div class="footer__items"><li class="footer__item"><a class="footer__link" href="http://paleofuture.gizmodo.com/hitchhiking-robot-lasts-just-two-weeks-in-us-because-hu-1721544551"><div class="footer__image lazy-image"><img alt="Hitchhiking Robot Lasts Just Two Weeks in US Because Humans Are Terrible" data-lazy-interchange="[https://i.kinja-img.com/gawker-media/image/upload/s--qrnGk8gQ--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1367006129344452016.jpg, (small)], [https://i.kinja-img.com/gawker-media/image/upload/s--xpuzVB8b--/c_fill,fl_progressive,g_north,h_180,q_80,w_320/1367006129344452016.jpg, (large)]"></div><div class="footer__content"><h4 class="headline footer__headline">Hitchhiking Robot Lasts Just Two Weeks in US Because Humans Are…</h4><p class="footer__excerpt">When hitchBOT the hitchhiking robot started his journey in Boston two weeks ago he wanted to see the entire country.…</p><p class="proxima readmore">Read on Paleofuture	<svg class="svg-chevron-right svg-icon"><use class="icon-chevron-right" xlink:href="#icon-chevron-right" /></svg></p></div></a></li><li class="footer__item"><a class="footer__link" href="http://gizmodo.com/heres-the-2022-winter-olympics-venue-in-the-middle-of-1721529580"><div class="footer__image lazy-image"><img alt="Here&#39;s the 2022 Winter Olympics Venue, In The Middle of Winter" data-lazy-interchange="[https://i.kinja-img.com/gawker-media/image/upload/s--zGIaek__--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1366726578146198120.jpg, (small)], [https://i.kinja-img.com/gawker-media/image/upload/s--CMnLWgF6--/c_fill,fl_progressive,g_north,h_180,q_80,w_320/1366726578146198120.jpg, (large)]"></div><div class="footer__content"><h4 class="headline footer__headline">Here&apos;s the 2022 Winter Olympics Venue, In The Middle of Winter</h4><p class="footer__excerpt">Yesterday, Beijing was awarded the 2022 Winter Olympics. Here is a photo of the mountain that will host the skiing…</p><p class="proxima readmore">Read on Gizmodo	<svg class="svg-chevron-right svg-icon"><use class="icon-chevron-right" xlink:href="#icon-chevron-right" /></svg></p></div></a></li><li class="footer__item"><a class="footer__link" href="http://fieldguide.gizmodo.com/14-things-you-can-do-in-windows-10-that-you-couldnt-do-1721271379"><div class="footer__image lazy-image"><img alt="14 Things You Can Do in Windows 10 That You Couldn&#39;t Do in Windows 8" data-lazy-interchange="[https://i.kinja-img.com/gawker-media/image/upload/s--H5PECN0J--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1365000442420150341.jpg, (small)], [https://i.kinja-img.com/gawker-media/image/upload/s--YJWyKIdx--/c_fill,fl_progressive,g_north,h_180,q_80,w_320/1365000442420150341.jpg, (large)]"></div><div class="footer__content"><h4 class="headline footer__headline">14 Things You Can Do in Windows 10 That You Couldn&apos;t Do in Windows 8</h4><p class="footer__excerpt">Did you hear there’s a new version of Windows in town? If your Windows 8-toting friends ask you exactly what you can do…</p><p class="proxima readmore">Read on Field Guide	<svg class="svg-chevron-right svg-icon"><use class="icon-chevron-right" xlink:href="#icon-chevron-right" /></svg></p></div></a></li><li class="footer__item"><a class="footer__link" href="http://gizmodo.com/what-its-like-to-have-the-oldest-phone-in-san-francisco-1721395933"><div class="footer__image lazy-image"><img alt="What It&#39;s Like to Have the Oldest Phone in San Francisco" data-lazy-interchange="[https://i.kinja-img.com/gawker-media/image/upload/s--OL2GZNpQ--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1365311740224159592.jpg, (small)], [https://i.kinja-img.com/gawker-media/image/upload/s--WxBFkpoG--/c_fill,fl_progressive,g_north,h_180,q_80,w_320/1365311740224159592.jpg, (large)]"></div><div class="footer__content"><h4 class="headline footer__headline">What It&apos;s Like to Have the Oldest Phone in San Francisco</h4><p class="footer__excerpt">I live in the world’s most famous tech city, surrounded by the most advanced personal electronic devices. None of them,…</p><p class="proxima readmore">Read on Gizmodo	<svg class="svg-chevron-right svg-icon"><use class="icon-chevron-right" xlink:href="#icon-chevron-right" /></svg></p></div></a></li></div><hr class="show-for-medium-down divider"></hr><div class="footer__nav"><ul class="list proxima list--site"><li><a class="icon--svg u-darkened--onhover" href="http://kinja.com" data-ga="[Kinja Footer, Kinja.com Click, js_pageType]">	<svg class="svg-icon svg-logo-kinja"><use xlink:href="#iconset-logo-kinja" /></svg></a></li><li><a href="http://help.gawker.com/" target="_blank" data-ga="[Footer, click, Help]">Need Help?</a></li><li><a href="http://legal.kinja.com/content-guidelines-90185358" data-ga="[Footer, click, Content Guidelines]">Content Guide</a></li></ul><ul class="list text-light proxima list--legal"><li><a href="http://advertising.gawker.com/about/index.php#contact" data-ga="[Footer, click, Permissions]">Permissions</a></li><li><a href="http://legal.kinja.com/privacy-policy-90190742" data-ga="[Footer, click, Privacy]">Privacy</a></li><li><a href="http://legal.kinja.com/kinja-terms-of-use-90161644" data-ga="[Footer, click, Terms]">Terms of Use</a></li><li><a href="http://advertising.gawker.com/" data-ga="[Footer, click, Advertising]">Advertising</a></li><li><a href="http://grnh.se/2ctqpi" data-ga="[Footer, click, Jobs]">Jobs</a></li><li><a href="http://reviews.gizmodo.com/rss">RSS</a></li></ul></div></footer>	
+	<!-- Begin comScore Tag -->
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=6770184&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+	</div>	<div style="display:none;" id="read-only-warning"><div class="row"><div class="column small-12">Kinja is in read-only mode. We are working to restore service.</div></div></div></body></html>

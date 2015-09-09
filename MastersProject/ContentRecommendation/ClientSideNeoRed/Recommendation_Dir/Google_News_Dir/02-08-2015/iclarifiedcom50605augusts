@@ -1,0 +1,774 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>iClarified - Apple News - August Smart Lock Now Works With Your Apple Watch</title>
+<meta name="KEYWORDS" content="apple, news, mac, support, tutorials, 
+rumors, macintosh, mac help, ipod, iphone, iphone help, appletv, appletv help, ipod touch, ipad, osx, jailbreak, unlock, ipsw, dfu" />
+<meta name="DESCRIPTION" content="The August Smart Lock app has been updated to support the Apple Watch, letting users operate the device and view its logs." />
+<meta name="AUTHOR" content="iClarified" />
+<meta name="verify-v1" content="fm2m+CZNQGmv74b5GglrmKseh/IGuAzY+1Io9azG/9Y=" /> 
+<meta property="og:title" content="August Smart Lock Now Works With Your Apple Watch" />
+<meta property="og:description" content="The August Smart Lock app has been updated to support the Apple Watch, letting users operate the device and view its logs." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch" />
+<meta property="og:image" content="http://www.iclarified.com/images/news/50605/50605/50605-640.jpg" />
+<meta property="og:site_name" content="iClarified" />
+<meta property="article:published_time" content="2015-08-02T03:23:38+0000" />
+<meta property="fb:app_id" content="104192199627868" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@iClarified">
+<meta name="twitter:creator" content="@iClarified">
+<meta name="twitter:title" content="August Smart Lock Now Works With Your Apple Watch">
+<meta name="twitter:description" content="The August Smart Lock app has been updated to support the Apple Watch, letting users operate the device and view its logs.">
+<meta name="twitter:image:src" content="http://www.iclarified.com/images/news/50605/50605/50605-640.jpg">
+
+
+<link href="/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/scripts/lightview-3.2.2/css/lightview/lightview.css" rel="stylesheet" type="text/css" />
+<link href="/rss/rss.xml" rel="alternate" type="application/rss+xml" title="iClarified" />
+<link href="/rss/news.xml" rel="alternate" type="application/rss+xml" title="iClarified (News Only)" />
+<link href="/rss/tutorials.xml" rel="alternate" type="application/rss+xml" title="iClarified (Tutorials Only)" />
+<link rel="image_src" href="http://www.iclarified.com/images/news/50605/50605/50605-640.jpg" />
+
+<script type="text/javascript" src="/scripts/jquery.js"></script>
+<script type="text/javascript" src="/scripts/lightview-3.2.2/js/spinners/spinners.min.js"></script>
+<script type="text/javascript" src="/scripts/lightview-3.2.2/js/lightview/lightview.js"></script>
+
+<script type="text/javascript" src="/scripts/googleanalytics.js" async></script> 
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js" async defer></script>
+
+<script type="text/javascript" language="javascript">
+
+var http_request = false;
+   
+function trim(str, chars) {
+    return ltrim(rtrim(str, chars), chars);
+}
+
+function ltrim(str, chars) {
+    chars = chars || "\\s";
+    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+}
+
+function rtrim(str, chars) {
+    chars = chars || "\\s";
+    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+}
+   
+   function makePOSTRequest(url, parameters, resultsFunc) {
+      http_request = false;
+      if (window.XMLHttpRequest) { // Mozilla, Safari,...
+         http_request = new XMLHttpRequest();
+         if (http_request.overrideMimeType) {
+         	// set type accordingly to anticipated content type
+            //http_request.overrideMimeType('text/xml');
+            http_request.overrideMimeType('text/html');
+         }
+      } else if (window.ActiveXObject) { // IE
+         try {
+            http_request = new ActiveXObject("Msxml2.XMLHTTP");
+         } catch (e) {
+            try {
+               http_request = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (e) {}
+         }
+      }
+      if (!http_request) {
+         alert('Cannot create XMLHTTP instance');
+         return false;
+      }
+      
+     // http_request.onreadystatechange = alertContents;
+	  
+	  http_request.onreadystatechange= function() { 
+        if (http_request.readyState==4)
+            if (http_request.status==200)
+                resultsFunc(http_request, url);
+      }
+	  
+      http_request.open('POST', url, true);
+      http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+      http_request.setRequestHeader("Content-length", parameters.length);
+      http_request.setRequestHeader("Connection", "close");
+      http_request.send(parameters);
+   }
+
+   function alertContents(http_request, url) {
+      if (http_request.readyState == 4) {
+         if (http_request.status == 200) {
+            //alert(http_request.responseText);
+            result = trim(http_request.responseText);
+			//alert(result);
+			if(result.substr(0, 5)=="error"){
+				document.getElementById('error').innerHTML = result.substr(6,100);     
+			}
+			else if(url=="/scripts/livesearch-entry.php"){
+				document.getElementById('searchresults').innerHTML = result;
+			}
+			else if(url=="/scripts/featured.php"){
+				document.getElementById('featured').innerHTML = result;
+			}
+			else if(url=="/scripts/popular.php"){
+				document.getElementById('popular').innerHTML = result;
+			}
+			else if(result.substr(0, 7)=="success"){
+				//location.href='addmedia.php';
+			}
+			else{
+            	//location.href='addmedia.php';
+				//alert(http_request.responseText);
+			}    
+			 
+         } else {
+            alert('There was a problem with the request.');
+         }
+      }
+   }
+
+function livesearch(event) {	
+
+	if (event.which == 13 || event.keyCode == 13) {
+            location.href="/search/results.php?terms=" + encodeURI( document.getElementById("searchfield").value );
+            return false;
+    }
+	
+	if(document.getElementById("searchfield").value!=''){
+		document.getElementById("searchclear").style.display='block';
+		document.getElementById("searchresults").style.display='block';
+	}
+	else{
+		document.getElementById("searchclear").style.display='none';
+		document.getElementById("searchresults").innerHTML='';
+		document.getElementById("searchresults").style.display='none';
+		return;
+	}
+	
+	var poststr = "q=" + encodeURI( document.getElementById("searchfield").value ) +
+                  "&laid=" + encodeURI( document.getElementById("laid").value )+
+                  "&depth=" + encodeURI('1');
+					
+    makePOSTRequest('/scripts/livesearch-entry.php', poststr, alertContents);
+	
+	
+}
+
+function featured(){
+	var poststr = '';
+	makePOSTRequest('/scripts/featured.php', poststr, alertContents);
+}
+
+function popular(){
+	var poststr = '';
+	makePOSTRequest('/scripts/popular.php', poststr, alertContents);
+}
+
+function reportspam(coid) {	
+
+	if(coid!=''){
+		var poststr = "coid=" + encodeURI( coid );	
+		var spam_coid = 'spam_' + coid;
+		document.getElementById(spam_coid).innerHTML="<font color='red'>Marked as Spam</font>";
+    	makePOSTRequest('/scripts/reportspam.php', poststr, alertContents);
+	}
+}
+
+
+function addcomment() {	
+	
+	if(document.getElementById("comment").value!=''){
+		document.getElementById("form_comment").submit();
+	}
+}
+
+function likecomment(coid) {	
+	
+	if(coid!=''){
+		var poststr = "coid=" + encodeURI( coid );	
+		var like_coid = 'like_' + coid;
+		var comment_coid_likes = 'comment_' + coid + '_likes';
+		var likes = document.getElementById(comment_coid_likes).innerHTML;
+		if(likes==''){ likes = 0; }
+		var likes = parseInt(likes) + 1;
+		document.getElementById(like_coid).innerHTML="<font color='green'>Liked</font>";
+		document.getElementById(like_coid).href="javascript:";
+		document.getElementById(comment_coid_likes).innerHTML=likes;
+    	makePOSTRequest('/scripts/likecomment.php', poststr, alertContents);
+	}
+}
+
+</script>
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.defineSlot('/1051941/Halfpage-General-ATF', [300, 600], 'div-gpt-ad-1346130686886-0').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Halfpage-General-BTF', [300, 600], 'div-gpt-ad-1346130686886-1').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Leaderboard-General-ATF', [728, 90], 'div-gpt-ad-1346130686886-2').addService(googletag.pubads());
+//googletag.defineSlot('/1051941/Leaderboard-General-BTF', [728, 90], 'div-gpt-ad-1346130686886-3').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Rectangle-General-ATF', [300, 250], 'div-gpt-ad-1346130686886-4').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Rectangle-General-BTF', [300, 250], 'div-gpt-ad-1346130686886-5').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Skyscraper-General-ATF', [160, 600], 'div-gpt-ad-1346130686886-6').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Skyscraper-General-BTF', [160, 600], 'div-gpt-ad-1346130686886-7').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+</head>
+
+<body style="background-color: #f6f6f6;">
+	
+    <div id="navbar" style="position: relative; width: 100%; height: 22px; ">
+    		<div id="navbar_container" style="position: relative; width: 1020px; margin: 0 auto;">
+        	<div id="navbar_news" style="position: absolute; left: 5px; top: 6px; font-family: sans-serif; font-style: italic; font-size: 11px; color: #666;"></div><div id="navbar_login" style="position: relative; float: right; top: 6px; font: 11px sans-serif; color: #666;"><a style=" color: #666; text-decoration: none;" href="/login.php?referrer=%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch">Login</a></div><div style="position: relative; float: right; top: 6px; margin-left: 5px; margin-right: 5px; height: 13px; width: 1px; background-color: #999;"></div><div id="navbar_login" style="position: relative; float: right; top: 6px; font: 11px sans-serif; color: #666;"><a style=" color: #666; text-decoration: none;" href="/register/index.php">Register</a></div>
+        </div>
+    </div>
+	<div style="position: relative; width: 1020px; height: 5px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="leaderboard" style="position: relative; width: 1020px; padding-top: 5px; margin: 0 auto;">
+       	<center>
+   		<!-- Leaderboard-General-ATF -->
+		<div id='div-gpt-ad-1346130686886-2' style='width:970px; text-align: center;'>
+		<script type='text/javascript'>
+		googletag.display('div-gpt-ad-1346130686886-2');
+		</script>
+		</div>
+		</center>        
+	</div> <!-- leaderboard -->
+        
+    <div style="position: relative; width: 1020px; height: 0px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="header_container" style="position: relative; left: 0px; height: 64px; width: 1020px; margin: 0 auto;">
+       	<div id="iclarified_logo" style="position: absolute; left: 0px; top: 12px;"><a href="/index.php" border="0" alt="iClarified"><img src="/images/index/iClarified-home-retina.png" border="0" width="200" alt="iClarified" title="iClarified" /></a>
+        </div> <!-- iclarified_logo -->
+
+	<div id="menu_container" style="position: relative; left: 0px; height: 64px; width: 1020px; margin: 0 auto;">
+       	<div id="iclarified_logo" style="position: absolute; left: 0px; top: 12px;">
+			<a href="/finder/index.php" border="0" alt="iClarified"><img src="/images/menu/iClarified-menu-retina.png" border="0" width="200" alt="iClarified" title="iClarified" /></a>
+        </div> <!-- iclarified_logo -->
+
+		<div id="menu" style="position: absolute; left: 357px; top: 10px; width: 305px; height: 64px;" >
+    		<div id="v1" style="display:none; position: absolute; left: 0px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+       		<div id="news" style="position: absolute; left: 20px; top: 7px;">
+       			<a href="/news/index.php" title="iClarified News"><img src="/images/menu/news-selected-64.png" border="0" width="32" alt="iClarified News" title="iClarified News" /></a>
+   			</div>
+       		<div id="newstext" style="position: absolute; left: 24px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><h2 class="menulink" style="font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666; font-weight: normal; padding: 0; margin: 0;"><a class="menulink" href="/news/index.php" title="iClarified News">News</a></h2></div>
+        	<div id="v2" style="display:none; position: absolute; left: 76px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+        	<div id="tutorials" style="position: absolute; left: 100px; top: 8px;">
+       			<a href="/tutorials/index.php" title="iClarified Tutorials"><img src="/images/menu/tutorials-64.png" border="0" width="32" alt="iClarified Tutorials" title="iClarified Tutorials" /></a>
+    		</div>
+       		<div id="tutorialstext" style="position: absolute; left: 94px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><h2 class="menulink" style="font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666; font-weight: normal; padding: 0; margin: 0;"><a class="menulink" href="/tutorials/index.php" title="iClarified Tutorials">Tutorials</a></h2></div>
+       		<div id="v3" style="display:none; position: absolute; left: 152px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+        	<div id="answers" style="position: absolute; left: 176px; top: 9px;">
+        		<a href="/answers/index.php" title="iClarified Answers"><img src="/images/menu/answers-64.png" border="0"  width="32" alt="iClarified Answers" title="iClarified Answers" /></a>
+    		</div>
+       		<div id="answerstext" style="position: absolute; left: 172px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><h2 class="menulink" style="font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666; font-weight: normal; padding: 0; margin: 0;"><a class="menulink" href="/answers/index.php" title="iClarified Answers">Answers</a></h2></div>
+        	<div id="v4" style="display:none; position: absolute; left: 228px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+       		<div id="wizards" style="position: absolute; left: 250px; top: 6px;">
+       			<a href="/wizards/index.php" title="iClarified Wizards"><img src="/images/menu/wizards-64.png" border="0" width="32" alt="iClarified Wizards" title="iClarified Wizards"/></a>
+    		</div>
+       		<div id="wizardstext" style="position: absolute; left: 247px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><h2 class="menulink" style="font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666; font-weight: normal; padding: 0; margin: 0;"><a class="menulink" href="/wizards/index.php" title="iClarified Wizards">Wizards</a></h2></div>
+       		<div id="v5" style="display:none; position: absolute; left: 304px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+    	</div><!-- menu -->
+        
+        <div id="searchborder" style="position: absolute; right: 0px; top: 39px; width: 200px; height: 24px; border: 1px solid; border-color: #bbb; border-radius: 13px; -webkit-border-radius: 13px; -moz-border-radius: 13px; -o-border-radius: 13px; -khtml-border-radius: 13px; background-color: #fff; -webkit-box-shadow: inset 0 1px 1px -1px #999; -moz-box-shadow: inset 0 1px 1px -1px #999k; box-shadow: inset 0 1px 1px -1px #999;">
+			<div id="searchicon" style="position: absolute; left: 8px; top: 5px;">
+        		<a href="/search/index.php"><img src="/images/index/search_icon.png" alt="Search iClarified" title="Search iClarified" border="0" width="14" /></a>
+        	</div> <!-- end of searchicon div -->
+            <div id="searchclear" style="display: none; position: absolute; top: 5px; right: 10px; width: 14px; height: 14px; cursor: pointer; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAeZJREFUeNrMVl2KwjAQTkMRH6TUdV3Xx3oRPcLuDewN7En0BnoDPYJeRB9cF1wX7IOIiMjmK0lMa5vGn8J+MJSYmC/zzUwyFsnBfL5w2afLrM2sw8xNLAmZTZnNmI1aLS/U7WflEPU52S0YMQuyiK0Msg/2GaZ4YwqQ+Yx0kpygKWTwavwAGeH/HfO9sj3kC3rkuRgwT4MrQi7jmBSDTyGvpSTI4kEZ82LqIZFEDPsFkomYRvG0uHfbtFWUUlIqleT4fD6T4/Eox7ZtRyZwOp0i06Bq6+oMBLXaiyTFeLn8ir5As/kuCUG0Wn3nedql/AbJxGbzG/MYBwAqlUrMu/X6Rx5Egzbl11UmIGEYXi4NEJXLZVKtXkKOeVVqDTrUJFm22/iGjcab9A6/Y940eajpSkgrJIO0IqaQ8hYYE8KTZAaC0CBu9xE6jhMrEVEWaixNCXMDkNx4v9/HDoIkMr1xKH88tajXX2XcDodDFDdVXlEqBphS/lJrpVQ9EBmpZiakNpR2RvkLnQpspJ4eUsJDYLfbxUrFdd2rGKd1A+K1GN7RStwK9Du+yNLAJHkefJ4CWRa84fELJPRFUyXrkL/IgwLIBmozZWU0Ub0nkgX/q01U5PV0JZPTCHtpZNrOu6hW/0+AAQADWtMDxdNKxQAAAABJRU5ErkJggg==); background-size: contain;" onclick="document.getElementById('searchfield').value=''; document.getElementById('searchresults').innerhtml=''; document.getElementById('searchresults').style.display='none'; this.style.display='none';"></div> <!-- end of searchclear -->
+        	<input id="searchfield" style="position: relative; left: 30px; top: 3px; width: 140px; height: 16px; font-family: sans-serif; color: #333; font-style: normal; font-size: 14px; border: 0;" value="" placeholder="Search" border="0" onkeyup="livesearch(event);" /> <input id="laid" name="laid" type="hidden" value="" />
+            
+    	</div> <!-- end searchborder div -->
+        
+	</div> <!-- menu_container-->    
+    <div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div class="content" style="position: relative; background-color: #fff; width: 1020px; margin: 0 auto; overflow: hidden;">
+    
+    	<div style="position: absolute; left: 679px; height: 100%; width: 1px; background-color: #ccc;"></div> <!-- vert column line -->
+        
+        <div style="position: absolute; left: 680px; height: 100%; width: 340px; background-color: #fcfcfc;"></div> <!-- right column background -->
+    
+    	<div id="left_column" style="position: relative; float: left; width: 680px;">
+        
+    		<div id="article_titlebar" style="position: relative; left: 0px; top: 0px; width: 650px; height: 100px;">
+        		<div id="article_icon" style="position: absolute; left: 20px; top: 20px; width: 64px; height: 64px; background: url('/images/news/50605/238229/238229-128.png') no-repeat center center transparent; background-size: contain;">
+            	</div><!-- article_icon -->
+            
+            	<div id="article_title" style="position: absolute; left: 104px; top: 18px; width: 560px; height: 64px; "><h1 style="font: 24px/26px 'Myriad Pro', sans-serif; color: #333; display:inline;">August Smart Lock Now Works With Your Apple Watch</h1>
+            	</div><!-- article_title -->
+            
+            	<div id="article_share" style="position: absolute; left: 104px; top: 73px; width: 560px; height: 24px;">
+            		<div style="float:left;">
+                		<iframe src="http://www.facebook.com/plugins/like.php?app_id=217555594943486&amp;href=http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:auto; width:90px; height:21px;" allowTransparency="true"></iframe>
+                	</div>
+                	<div style="float:left; padding-right: 10px;">
+              			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://iClarified.com/50605" data-counturl="http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch" data-text="August Smart Lock Now Works With Your Apple Watch" data-count="horizontal" data-via="iClarified">Tweet</a><script async>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+                    <div style="float: left; margin-left: -0px; padding-right: 35px; ">
+                    	<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch&media=http://www.iclarified.com/images/news/50605/50605/50605-640.jpg&description=August+Smart+Lock+Now+Works+With+Your+Apple+Watch - http://iClarified.com/50605 - The+August+Smart+Lock+app+has+been+updated+to+support+the+Apple+Watch%2C+letting+users+operate+the+device+and+view+its+logs." class="pin-it-button" count-layout="horizontal" rel="nofollow" target="_blank" always-show-count="1">Pin It</a>
+                    	<script type="text/javascript" async src="http://assets.pinterest.com/js/pinit.js"></script>
+
+                    </div>
+              
+              		<div style="float:left; padding-right: 11px;">
+              			<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right" data-url="http://iClarified.com/50605"></script>
+			  		</div>
+              
+              		<div style="float:left; width: 70px;">
+              			<g:plusone size="medium"></g:plusone>
+              		</div>
+              
+              		<div style="float:left; margin-right: 3px;"><a href="/entry/email.php?enid=50605" target="_blank"><img src="/images/icons/email-32.png" border="0" height="21" /></a>
+              		</div>
+              
+              		<div style="float:left; margin-right: 3px;"><a href="http://digg.com/submit?phase=2&url=http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch&title=August Smart Lock Now Works With Your Apple Watch&bodytext=The August Smart Lock app has been updated to support the Apple Watch, letting users operate the device and view its logs.&topic=apple" target="_blank"><img src="/images/icons/digg-32.png" border="0" height="21"/></a></div>
+              		<div style="float:left; margin-right: 3px;"><a href="http://www.reddit.com/submit?url=http://www.iClarified.com/50605&title=August Smart Lock Now Works With Your Apple Watch" target="_blank"><img src="/images/icons/reddit-32.png" border="0" height="21" /></a></div>
+               		<div style="float:left; margin-right: 3px;"><a href="http://www.stumbleupon.com/submit?url=http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch&title=August Smart Lock Now Works With Your Apple Watch" target="_blank"><img src="/images/icons/stumbleupon-32.png" border="0" height="21" /></a></div>
+                	<div style="float:left; margin-right: 3px;"><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/images/icons/delicious-32.png" border="0" height="21" /></a>
+                	</div>
+                    <div style="float: left;"><a href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fwww.iclarified.com%2Fimages%2Fnews%2F50605%2F50605%2F50605-640.jpg&caption=%3Ch2%3E%3Ca+target%3D%22_blank%22+href%3D%22http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch%22%3EAugust+Smart+Lock+Now+Works+With+Your+Apple+Watch%3C%2Fa%3E%3C%2Fh2%3E%3Cp%3EThe+August+Smart+Lock+app+has+been+updated+to+support+the+Apple+Watch%2C+letting+users+operate+the+device+and+view+its+logs.%3C%2Fp%3E%3Cp%3E%3Ca+target%3D%22_blank%22+href%3D%22http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch%22%3ERead+More%3C%2Fa%3E%3Cbr%3E%3C%2Fp%3E&clickthru=http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:20px; height:20px; background:url('https://platform.tumblr.com/v1/share_4.png') top left no-repeat transparent;">Share on Tumblr</a></div>
+                    <div style="clear: both;"></div>
+          		</div><!-- article_share -->
+            
+        	</div> <!-- article_titlebar -->
+        
+        	<div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+			</div> <!-- spacer -->
+        
+        	<div style="position: relative; width: 650px; left: 15px; background-color:#FFFFCC; font-family: sans-serif; font-size: 11px;  padding-left: 5px; padding-top: 5px; color: #999;">Posted 1 hour ago by <span id='document_author'>iClarified</span> | Please help us and submit a translation by clicking <a href="/translate/index.php?enid=50605"><strong>here</strong></a> | 1374 views</a>
+        	</div>
+            
+            <div style="position: relative; width: 650px; left: 15px;">
+            	            </div>
+		
+        	<div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+			</div> <!-- spacer -->
+    	
+        	<div id="article_body" style="position: relative; left: 20px; top: 0px; width: 640px; font: 13px/18px sans-serif; color: #333;">
+        	            
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>The <a href="http://www.iclarified.com/30601/august-unveils-iphone-controlled-smart-lock" target="_blank">August Smart Lock</a> app has been updated to support the Apple Watch, letting users operate the device and view its logs.<br><br><i>August retrofits to your existing deadbolt and installs in less than ten minutes. It relies on the same secure communications technology used by financial institutions for online banking, giving only desired individual's access to your property for set amounts of time. As the homeowner or a guest arrives at the door, August auto-unlocks and welcomes you into the home hands-free.</i><br><br>The August lock lets you send a virtual key to anyone you choose to have access to your home. More details on the device can be found <a href="http://www.iclarified.com/30601/august-unveils-iphone-controlled-smart-lock" target="_blank">here</a>.<br><br><a href="/entry/lightview.php?location=/images/news/50605/238262/238262.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238262/238262.jpg" width="640" data-span="" border="0" alt=""></a><br><br><b>What's New In This Version:</b><br>This release of the August iOS app includes support for the Apple Watch.  Using the Watch app, you can operate your August Smart Lock and view its logs.  In addition, this release includes improvements to connection speed and reliability, and general bug fixes.<br><br>You can download August Smart Lock from the App Store for free.<br><br><a href="https://itunes.apple.com/us/app/august-smart-lock/id648730592?mt=8&amp;at=11l655" target="_blank">Read More</a><br><br><br><a href="/entry/lightview.php?location=/images/news/50605/238247/238247.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238247/238247.jpg" width="200" data-span="" border="0" alt=""></a><span style="margin-left: 20px"></span><a href="/entry/lightview.php?location=/images/news/50605/238250/238250.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238250/238250.jpg" width="200" data-span="" border="0" alt=""></a><span style="margin-left: 20px"></span><a href="/entry/lightview.php?location=/images/news/50605/238253/238253.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238253/238253.jpg" width="200" data-span="" border="0" alt=""></a><br><br><a href="/entry/lightview.php?location=/images/news/50605/238256/238256.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238256/238256.jpg" width="200" data-span="" border="0" alt=""></a><span style="margin-left: 20px"></span><a href="/entry/lightview.php?location=/images/news/50605/238259/238259.jpg" data-lightview-group="iclarified" class="lightview" data-lightview-options="skin: 'mac'"><img src="/images/news/50605/238259/238259.jpg" width="200" data-span="" border="0" alt=""></a></p></body></html>
+            
+        	</div>
+            
+            <div id="amazon" style="position: relative; width: 680px; text-align: center; margin: 0 auto;">
+            	<div class="alignleft">  
+					<script type='text/javascript'>
+						 amzn_assoc_ad_type = 'banner';
+						 amzn_assoc_tracking_id = 'iclarified-20';
+						 amzn_assoc_marketplace = 'amazon';
+						 amzn_assoc_region = 'US';
+						 amzn_assoc_placement = 'assoc_banner_placement_default';
+						 amzn_assoc_linkid = 'OFL4TTZA2TK4TCQC';
+						 amzn_assoc_campaigns = 'countbf';
+						 amzn_assoc_banner_type = 'category';
+						 amzn_assoc_isresponsive = 'true';
+					</script>
+					<script src='http://z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1'>						</script>
+				</div>
+            </div>
+            
+            <div style="position: relative; width: 680px; height: 20px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div style="position: relative; width: 680px; height: 1px; background-color: #ccc;">
+            </div> <!-- horz line -->
+           
+           
+            
+            <div style="position: relative; width: 680px; height: 15px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+             <div id="share_bottom" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><strong>Share</strong>
+             	<div id="article_share_bottom" style="position: absolute; left: 85px; top: 3px; width: 560px; height: 24px;">
+            		<div style="float:left;">
+                		<iframe src="http://www.facebook.com/plugins/like.php?app_id=217555594943486&amp;href=http%3A%2F%2Fwww.iclarified.com%2F50605%2Faugust-smart-lock-now-works-with-your-apple-watch&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:auto; width:90px; height:21px;" allowTransparency="true"></iframe>
+                	</div>
+                	<div style="float:left;">
+              			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://iClarified.com/50605" data-counturl="http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch" data-text="August Smart Lock Now Works With Your Apple Watch" data-count="horizontal" data-via="iClarified">Tweet</a><script async>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+              
+              		<div style="float:left; padding-right: 11px;">
+              			<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right" data-url="http://iClarified.com/50605"></script>
+			  		</div>
+              
+              		<div style="float:left;">
+              			<g:plusone size="medium"></g:plusone>
+              		</div>
+              
+              		<div style="float:left; margin-right: 3px;"><a href="/entry/email.php?enid=50605" target="_blank"><img src="/images/icons/email-32.png" border="0" height="21" /></a>
+              		</div>
+              
+              		<div style="float:left; margin-right: 3px;"><a href="http://digg.com/submit?phase=2&url=http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch&title=August Smart Lock Now Works With Your Apple Watch&bodytext=The August Smart Lock app has been updated to support the Apple Watch, letting users operate the device and view its logs.&topic=apple" target="_blank"><img src="/images/icons/digg-32.png" border="0" height="21" /></a></div>
+              		<div style="float:left; margin-right: 3px;"><a href="http://www.reddit.com/submit?url=http://www.iClarified.com/50605&title=August Smart Lock Now Works With Your Apple Watch" target="_blank"><img src="/images/icons/reddit-32.png" border="0" height="21" /></a></div>
+               		<div style="float:left; margin-right: 3px;"><a href="http://www.stumbleupon.com/submit?url=http://www.iclarified.com/50605/august-smart-lock-now-works-with-your-apple-watch&title=August Smart Lock Now Works With Your Apple Watch" target="_blank"><img src="/images/icons/stumbleupon-32.png" border="0" height="21" /></a></div>
+                	<div style="float:left; margin-right: 3px;"><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/images/icons/delicious-32.png" border="0" height="21" /></a>
+                	</div>
+                    
+          		</div><!-- article_share_bottom -->
+             	
+             </div> <!-- share_bottom -->
+            
+            <div style="position: relative; width: 680px; height: 10px; margin: 0 auto;">
+			</div> <!-- spacer -->
+             
+            <div style="position: relative; width: 680px; height: 1px; background-color: #ccc;">
+            </div> <!-- horz line -->
+            
+            <div id="ad_comment" style="position: relative; height: 290px; width: 680px; ">
+            	<div id="ad_rect_c" style="position: absolute; left: 20px; top: 20px; width: 300px; height: 250px; overflow: hidden;">
+					<!-- Rectangle-General-BTF 
+					<div id='div-gpt-ad-1346130686886-5' style='position: absolute; left: 0px; top: 0px; width:300px; height:250px; overflow: hidden;'>
+					<script type='text/javascript'>
+					googletag.display('div-gpt-ad-1346130686886-5');
+					</script>
+                    </div>-->
+                    <!-- begin ad tag (tile=2) -->
+<script type="text/javascript">
+//<![CDATA[
+ord = window.ord || Math.floor(Math.random()*1E16);
+document.write('<script type="text/javascript" src="http://ad2.netshelter.net/adj/ns.iclarified/general;ppos=btf;kw=;tile=2;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+<noscript><a href="http://ad2.netshelter.net/jump/ns.iclarified/general;ppos=btf;kw=;tile=2;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad2.netshelter.net/ad/ns.iclarified/general;ppos=btf;kw=;tile=2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+					
+            	</div> <!--ad_rectc-->
+                
+                <div style="display: none; position: absolute; left: 340px; height: 290px; width: 1px; top: 0px; background-color: #ccc;">
+                </div> <!-- vert line-->
+                
+                <div id="addcomment_title" style="position: absolute; left: 340px; top: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><strong>Add Comment</strong>
+                </div>
+                <form id="form_comment" name="form_comment" method="post" action="/comments/addcomment.php">
+                <textarea id="comment" name="comment" style="position: absolute; left: 340px; top: 55px; width: 310px; height: 170px; font: 13px/15px sans-serif;"></textarea>
+                <input type="hidden" id="enid" name="enid" value="50605"/>
+                </form>
+                <div id="submit_container" style="position: absolute; left: 340px; top: 242px;">
+                	<a href="javascript: addcomment();" class="blue_button">Submit</a>
+                </div>
+                
+            </div> <!--ad_comment-->
+             
+            <div style="position: relative; width: 680px; height: 1px; background-color: #ccc;">
+            </div> <!-- horz line -->
+            
+            <div style="position: relative; width: 680px; height: 15px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div id="comments_title" style="display: none; position: relative; left: 20px; top: 0px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><a href="/50605/august-smart-lock-now-works-with-your-apple-watch/comments" title="August Smart Lock Now Works With Your Apple Watch - Comments" style="text-decoration: none; color: #333;"><strong>Comments</strong>&nbsp;<font style="color: #999;"></font></a>
+            </div> <!-- comments_title -->
+            
+            <div style="position: relative; width: 680px; height: 10px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div style="display: none; position: relative; height: 1px; width: 100%; background-color: #EEE; margin-top: 0px; margin-bottom: 10px;"></div>
+            
+                    
+        <div id="left_column_bottom" style="position: relative; width: 680px; height: 0px; margin: 0 auto;">
+		</div> <!-- spacer -->	
+            
+    	</div> <!-- left_column -->
+        
+        <div id="right_column" style="position: relative; float: left; width: 340px;">
+        
+        	<div id="searchresults" class="searchresults" style="display:none; position: absolute; left: 0px; top: 0px; width: 335px;
+    background-color: white; z-index:1001; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;"></div>
+           	
+        	<div style="position: relative; width: 340px; height: 20px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div id="follow_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;">		<strong>Follow</strong> iClarified</div>
+            	
+            <div style="position: relative; width: 340px; height: 5px; margin: 0 auto;">
+			</div> <!-- spacer -->
+			
+			<div id="follow_buttons" style="position: relative; left: 20px; height: 80px; width: 300px;">
+            	<div style="height: 28px; overflow: hidden;"><iframe src="http://www.facebook.com/plugins/like.php?app_id=160818093984092&amp;href=http%3A%2F%2Fwww.facebook.com%2FiClarified&amp;send=false&amp;layout=standard&amp;width=235&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:38px;" allowTransparency="true"></iframe>
+                </div>
+	          	<div style=""><a href="http://twitter.com/iClarified" class="twitter-follow-button">Follow @iClarified</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+<div style="float: left; width: 55px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="/rss/rss.xml" class="btn_rss" alt="RSS" title="RSS" target="_blank"><i></i><span class="label">RSS</span></a></div>
+<div style="float: left; width: 70px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="http://itunes.apple.com/us/app/iclarified/id388040325?mt=8" class="btn_app" alt="iClarified iPhone App Store" title="iClarified iPhone App Store" target="_blank"><i></i><span class="label">App Store</span></a></div>
+<div style="float: left; width: 52px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="http://www.youtube.com/iClarified" class="btn_youtube" alt="iClarified YouTube Channel" title="iClarified YouTube Channel" target="_blank"><i></i></a></div>
+<div style="float: left; width: 65px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="/register/index.php" class="btn_newsletter" alt="iClarified Newsletter" title="iClarified Newsletter" target="_blank"><span class="label">Newsletter</span></a></div>
+<div style="float: left; width: 20px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="https://www.google.com/+iclarified" target="_blank" alt="iClarified Google+" title="iClarified Google+"><img src="/images/icons/googleplus-64.png" height="20" border="0"/></a></div>
+				
+				</div> <!-- follow_buttons -->            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+        
+        		<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="sendusatip_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', Verdana, sans-serif; font-size: 22px; color: #333;"><a href="/tips/index.php" title="Send Us a Tip" style="color: #333; text-decoration: none;"><strong>Send Us a Tip</strong></a>
+                </div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="ad_rect1" style="position: relative; left: 20px; width: 300px; min-height: 250px;">
+            		<!-- Halfpage-General-ATF -->
+					<div id='div-gpt-ad-1346130686886-0' style='width:300px;'>
+					<script type='text/javascript'>
+					googletag.display('div-gpt-ad-1346130686886-0');
+					</script>
+					</div>
+            	</div> <!--ad_rect1-->
+            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 15px;">
+				</div> <!-- spacer -->
+                        
+        		<div id="trending_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><a href="/entries/index.php" title="Trending" style="color: #333; text-decoration: none;"><strong>Trending</strong></a>
+                </div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="trending" style="position: relative; left: 0px; width: 340px;">	
+				<div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50606/samsung-galaxy-s6-edge-plus-and-samsung-galaxy-note-5-leaked-photos" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]" title="Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]" src="/images/news/50606/238264/238264-128.png" border="0"/></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50606/samsung-galaxy-s6-edge-plus-and-samsung-galaxy-note-5-leaked-photos" class="trending">Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Photos of the Samsung Galaxy S6 Edge Plus and...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/50605/august-smart-lock-now-works-with-your-apple-watch" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="August Smart Lock Now Works With Your Apple Watch" title="August Smart Lock Now Works With Your Apple Watch" src="/images/news/50605/238229/238229-128.png" border="0"/></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50605/august-smart-lock-now-works-with-your-apple-watch" class="trending">August Smart Lock Now Works With Your Apple Watch</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">The August Smart Lock app has been updated to...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50603/first-photos-of-the-iphone-6s-force-touch-display-leaked" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="First Photos of the iPhone 6s Force Touch Display Leaked?" title="First Photos of the iPhone 6s Force Touch Display Leaked?" src="/images/news/50603/238226/238226-128.png" border="0"/></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50603/first-photos-of-the-iphone-6s-force-touch-display-leaked" class="trending">First Photos of the iPhone 6s Force Touch Display Leaked?</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">The first photos of the Force Touch display f...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/50602/apple-watch-fails-to-reach-supplier-breakeven-volume-of-2-million-per-month" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month" title="Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month" src="/images/news/50602/238211/238211-128.png" border="0"/></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50602/apple-watch-fails-to-reach-supplier-breakeven-volume-of-2-million-per-month" class="trending">Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Sales of the Apple Watch have reportedly fail...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50593/switching-from-chrome-to-safari-could-get-you-an-extra-hour-of-macbook-battery-life-chart" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Switching From Chrome to Safari Could Get You an Extra Hour of MacBook Battery Life [Chart]" title="Switching From Chrome to Safari Could Get You an Extra Hour of MacBook Battery Life [Chart]" src="/images/news/50593/238174/238174-128.png" border="0"/></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50593/switching-from-chrome-to-safari-could-get-you-an-extra-hour-of-macbook-battery-life-chart" class="trending">Switching From Chrome to Safari Could Get You an Extra Hour of MacBook Battery Life [Chart]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Switching from using Chrome as your browser t...</div></div></div>                	</div>
+            
+            	<div style="position: relative; width: 340px; height: 0px;">
+				</div> <!-- spacer -->
+            
+        		<div style="position: relative; width: 341px; height: 1px; background-color: #ccc;">
+                </div> <!-- horz line -->
+               
+               	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="ad_rect2" style="position: relative; left: 20px; width: 300px; min-height: 250px;">
+					<!-- Halfpage-General-BTF -->
+					<div id='div-gpt-ad-1346130686886-1' style='width:300px;'>
+					<script type='text/javascript'>
+					googletag.display('div-gpt-ad-1346130686886-1');
+					</script>
+					</div>
+            	</div> <!--ad_rect2-->
+            
+            	<div style="position: relative; left: 0px; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; left: 0px; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 15px;">
+				</div> <!-- spacer -->
+                        
+        		<div id="mostrecent_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><a href="/entries/index.php" title="Most Recent" style="color: #333; text-decoration: none;"><strong>Most Recent</strong></a>
+                </div> <!-- mostrecent_title -->
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+                
+                <div id="mostrecent" style="position: relative; left: 0px; width: 340px;">	
+				<div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50606/samsung-galaxy-s6-edge-plus-and-samsung-galaxy-note-5-leaked-photos" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]" title="Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]" src="/images/news/50606/238264/238264-128.png" border="0" /></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50606/samsung-galaxy-s6-edge-plus-and-samsung-galaxy-note-5-leaked-photos" class="mostrecent">Samsung Galaxy S6 Edge Plus and Samsung Galaxy Note 5 Leaked [Photos]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Photos of the Samsung Galaxy S6 Edge Plus and...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/50605/august-smart-lock-now-works-with-your-apple-watch" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="August Smart Lock Now Works With Your Apple Watch" title="August Smart Lock Now Works With Your Apple Watch" src="/images/news/50605/238229/238229-128.png" border="0" /></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50605/august-smart-lock-now-works-with-your-apple-watch" class="mostrecent">August Smart Lock Now Works With Your Apple Watch</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">The August Smart Lock app has been updated to...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50603/first-photos-of-the-iphone-6s-force-touch-display-leaked" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="First Photos of the iPhone 6s Force Touch Display Leaked?" title="First Photos of the iPhone 6s Force Touch Display Leaked?" src="/images/news/50603/238226/238226-128.png" border="0" /></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50603/first-photos-of-the-iphone-6s-force-touch-display-leaked" class="mostrecent">First Photos of the iPhone 6s Force Touch Display Leaked?</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">The first photos of the Force Touch display f...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/50602/apple-watch-fails-to-reach-supplier-breakeven-volume-of-2-million-per-month" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month" title="Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month" src="/images/news/50602/238211/238211-128.png" border="0" /></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50602/apple-watch-fails-to-reach-supplier-breakeven-volume-of-2-million-per-month" class="mostrecent">Apple Watch Fails to Reach Supplier 'Break-Even Volume' of 2 Million Per Month</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Sales of the Apple Watch have reportedly fail...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/50600/apple-broke-off-talks-with-bmw-to-explore-developing-a-passenger-car-on-its-own" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 20.562499999941px;  width: 46.875000000117px; height: 48.00000000012px;" alt="Apple Broke Off Talks With BMW to 'Explore Developing a Passenger Car on Its Own'" title="Apple Broke Off Talks With BMW to 'Explore Developing a Passenger Car on Its Own'" src="/images/news/50600/238210/238210-128.png" border="0" /></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/50600/apple-broke-off-talks-with-bmw-to-explore-developing-a-passenger-car-on-its-own" class="mostrecent">Apple Broke Off Talks With BMW to 'Explore Developing a Passenger Car on Its Own'</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Apple broke off talks with BMW after a visit ...</div></div></div>                	</div>
+                    
+                    <div style="position: relative; width: 341px; height: 1px; background-color: #ccc;">
+                	</div> <!-- horz line -->
+                        
+            
+            
+            <div id="ad_rect3" style="position: relative; left: 0px; width: 340px; height: 0px;">
+					<script type="text/javascript">
+						var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+						var ad_rect3_top = document.getElementById('ad_rect3').offsetTop;
+						var ad_rect3_bottom = ad_rect3_top+250+40;
+						//alert(ad_rect3_bottom + ' ' + left_column_bottom);
+						if(ad_rect3_bottom < left_column_bottom){
+							document.getElementById('ad_rect3').style.height='290px';
+							document.write('<div style="position: absolute; top: 290px; left: 0px; width: 340px; height: 1px; background-color: #ccc;"></div>');
+							document.write('<div style="position: absolute; left: 20px; top: 20px; width: 300px; height: 250px;">');
+							document.write('<div id="div-gpt-ad-1346130686886-5" style="width:300px; height:250px;">');
+							document.write('<script type="text/javascript">');
+							document.write('googletag.display("div-gpt-ad-1346130686886-5");');
+							document.write('</' + 'script>');
+							document.write('</div>');
+							document.write('</div>');
+						}
+					</script>	
+            </div> <!--ad_rect3-->
+            
+            <div id="featured" style="position: relative; left: 0px; width: 340px; height: 0px;">
+            	<script type="text/javascript">
+					var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+					var featured_top = document.getElementById('featured').offsetTop;
+					var featured_bottom = featured_top+375;
+					if(featured_bottom < left_column_bottom){
+						document.getElementById('featured').style.height='375px';
+						featured();
+					}
+				</script>
+            </div> <!--featured-->
+            
+            <div id="ad_sky1" style="position: relative; left: 0px; width: 340px; height: 0px;">
+					<script type="text/javascript">
+						var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+						var ad_sky1_top = document.getElementById('ad_sky1').offsetTop;
+						var ad_sky1_bottom = ad_sky1_top+600+40;
+						//alert(ad_sky1_bottom + ' ' + left_column_bottom);
+						if(ad_sky1_bottom < left_column_bottom){
+							document.getElementById('ad_sky1').style.height='640px';
+							document.write('<div style="position: absolute; top: 640px; left: 0px; width: 341px; height: 1px; background-color: #ccc;"></div>');
+							document.write('<div style="position: absolute; left: 20px; top: 20px; width: 300px; height: 600px;">');
+							document.write("<div id='div-gpt-ad-1346130686886-7' style='width:160px; height:600px;'>");
+							document.write("<script type='text/javascript'>");
+							document.write("googletag.display('div-gpt-ad-1346130686886-7');");
+							document.write("</" + "script>");
+							document.write("</div>");
+							document.write('</div>');
+							
+						}
+							</script>		
+            </div> <!--ad_sky1-->
+            
+            <div id="popular" style="position: relative; left: 0px; width: 340px; height: 0px;">
+            	<script type="text/javascript">
+					var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+					var popular_top = document.getElementById('popular').offsetTop;
+					var popular_bottom = popular_top+375;
+					if(popular_bottom < left_column_bottom){
+						document.getElementById('popular').style.height='375px';
+						popular();
+					}
+				</script>
+            </div> <!--popular-->
+            
+            <div id="ad_sky2" style="position: relative; left: 0px; width: 340px; height: 0px;">
+					<script type="text/javascript">
+						var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+						var ad_sky2_top = document.getElementById('ad_sky2').offsetTop;
+						var ad_sky2_bottom = ad_sky2_top+600+40;
+						//alert(ad_sky2_bottom + ' ' + left_column_bottom);
+						if(ad_sky2_bottom < left_column_bottom){
+							document.getElementById('ad_sky2').style.height='640px';
+							document.write('<div style="position: absolute; top: 640px; left: 0px; width: 341px; height: 1px; background-color: #ccc;"></div>');
+							document.write('<div style="position: absolute; left: 20px; top: 20px; width: 300px; height: 600px;">');
+							document.write("<div id='div-gpt-ad-1346130686886-7' style='width:160px; height:600px;'>");
+							document.write("<script type='text/javascript'>");
+							document.write("googletag.display('div-gpt-ad-1346130686886-7');");
+							document.write("</" + "script>");
+							document.write("</div>");
+							document.write('</div>');
+							
+						}
+					</script>		
+            </div> <!--ad_sky2-->
+            
+            <div id="ad_sky3" style="position: relative; left: 0px; width: 340px; height: 0px;">
+					<script type="text/javascript">
+						var left_column_bottom=document.getElementById('left_column_bottom').offsetTop;
+						var ad_sky3_top = document.getElementById('ad_sky3').offsetTop;
+						var ad_sky3_bottom = ad_sky3_top+600+40;
+						//alert(ad_sky3_bottom + ' ' + left_column_bottom);
+						if(ad_sky3_bottom < left_column_bottom){
+							document.getElementById('ad_sky3').style.height='640px';
+							document.write('<div style="position: absolute; top: 640px; left: 0px; width: 341px; height: 1px; background-color: #ccc;"></div>');
+							document.write('<div style="position: absolute; left: 20px; top: 20px; width: 300px; height: 600px;">');
+							document.write("<div id='div-gpt-ad-1346130686886-7' style='width:160px; height:600px;'>");
+							document.write("<script type='text/javascript'>");
+							document.write("googletag.display('div-gpt-ad-1346130686886-7');");
+							document.write("</" + "script>");
+							document.write("</div>");
+							document.write('</div>');
+							
+						}
+					</script>		
+            </div> <!--ad_sky3-->
+            
+            <div style="position: relative; width: 340px; height: 20px;">
+			</div> <!-- spacer -->
+            
+    	</div> <!-- right_column -->
+        
+        <div style="position: relative; clear: both; height: 1px; width: 1px; left: 1px; height: 1px;"></div> <!-- clear both -->
+        
+    </div> <!--content-->
+    
+    <div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="leaderboard2" style="position: relative; width: 1020px; margin: 0 auto;">
+       	<center>
+   		<!-- Leaderboard-General-BTF -->
+		<div id='div-gpt-ad-1346130686886-3' style='width:728px;'>
+		<script type='text/javascript'>
+		//googletag.display('div-gpt-ad-1346130686886-3');
+		</script>
+		</div>
+		</center>        
+	</div> <!-- leaderboard2 -->
+
+	<div style="position: relative; width: 1020px; height: 20px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+	<div id="footer" style="position: relative; width: 1020px; height: 32px; margin: 0 auto;">
+	<div style="position: absolute; left: 0px; top: 0px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/advertising/index.php">Advertise on iClarified</a> | <a href="/tips/index.php">Send Us a Tip</a> | <a href="/contactus/index.php">Contact</a></div>
+    <div style="position: absolute; right: 1px; top: 0px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/finder/index.php">Finder</a> | <a href="/news/index.php">News</a> | <a href="/tutorials/index.php">Tutorials</a> | <a href="/answers/index.php">Answers</a> | <a href="/wizards/index.php">Wizards</a> | <a href="/search/index.php">Search</a></div>
+    <div style="position: absolute; right: 1px; top: 24px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/comments/index.php">Comments</a> | <a href="/bookmarks/index.php">Bookmarks</a> | <a href="/calendar/index.php">Calendar</a> | <a href="/rss/index.php">RSS</a> | <a href="/newsletter/index.php">Newsletter</a> | <a href="/account/index.php">Account</a></div>
+    <div style="position: absolute; left: 0px; top: 16px; width: 1020px; height: 1px; background-color: #CCC;"></div>
+    <div style="position: absolute; left: 0px; top: 24px; font-family: sans-serif; font-size: 10px; color: #999;">Copyright © iClarified. All rights reserved. <a href="/about/privacy.php">Privacy</a>.</div>
+    <div style="position: absolute; right: 0px; top: 0px;"><img src="/images/spacer.gif" width="32" border="0"/></div>
+</div>      	
+    <div style="position: relative; width: 1020px; height: 40px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <script>
+var psid = "1438491360644638";
+var push_check = "0";
+document.body.onload = function() {
+    // Ensure that the user can receive Safari Push Notifications.
+	if( push_check == "1" ) {
+    if ('safari' in window && 'pushNotification' in window.safari) {
+        var permissionData = window.safari.pushNotification.permission('web.com.iclarified.iclarified');
+        checkRemotePermission(permissionData);
+    }
+	}
+};
+ 
+var checkRemotePermission = function (permissionData) {
+    if (permissionData.permission === 'default') {
+        // This is a new web service URL and its validity is unknown.
+        window.safari.pushNotification.requestPermission('https://www.iclarified.com/scripts/push_safari', 			'web.com.iclarified.iclarified', {"psid": psid}, checkRemotePermission);
+    }
+    else if (permissionData.permission === 'denied') {
+        // The user said no.
+    }
+    else if (permissionData.permission === 'granted') {
+        // The web service URL is a valid push provider, and the user said yes.
+        // permissionData.deviceToken is now available to use.
+		// here we could call a function that would check if the devicetoken is in the db
+    }
+};
+</script>
+
+</body>
+</html>

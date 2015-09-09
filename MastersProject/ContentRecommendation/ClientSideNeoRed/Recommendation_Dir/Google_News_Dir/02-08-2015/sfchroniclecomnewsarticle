@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+
+<!-- hearst/article/article_header.tpl -->
+<html>
+    <head><!-- eid:article.6419342 --><!--[if IE 8]>
+        <meta http-equiv="x-ua-compatible" content="IE=7">
+<![endif]-->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <!-- generated at 2015-08-01 22:40:18 on prodWCM4 running vr6.19.0.16 -->
+        <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, width = device-width">
+
+        <!-- Hotfix Top freeform -->
+        
+        
+<!-- noGen: item_header_hotfix_top -->
+
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_global.r6.19.0.16.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_local.r6.19.0.16.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/external/css/global.ie8.r6.19.0.16.css" media="all" />
+
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_print.r6.19.0.16.css" media="all" />
+
+        <script type="text/javascript" src="/js/jquery-1.8.1.min.js"></script>
+        <script type="text/javascript" src="/external/js/global.header.r6.19.0.16.js"></script>
+
+        <!-- hearst/common/omniture.tpl -->
+<script type="text/javascript">
+    // <![CDATA[
+    // document.domain = "hearstnp.com";
+    var requestTime = new Date(1438486818 * 1000);
+
+                                
+                    
+                    
+        
+        // bizobject variables
+        var omni_channelPath = "Local";
+                var omni_title = "Fiery wrong-way crash in Long Beach kills 1, injures 3";
+                var omni_bizObjectId = "6419342";
+        var omni_className = "article";
+        var omni_publicationDate = "2015-08-02 03:36:39";
+        var omni_sourceSite="ap";
+
+                    // article specific variables
+            var omni_authorName = "";
+            var omni_authorTitle = "";
+            var omni_pageNumber = "0";
+            var omni_breakingNewsFlag = "0";
+            var omni_localNewsFlag = "0";
+            var omni_premiumStatus = "free";
+            var omni_premiumEndDate = "";
+            var omni_originalSource = "AP";
+                    
+        var omni_paywallSite = "1";
+
+        // ]]>
+</script>
+<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<!-- e hearst/common/omniture.tpl -->
+        
+        <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
+
+
+
+    <!--[if lt IE 9]>
+        <script src="/js/respond.min.js"></script>
+    <![endif]-->
+
+		<!-- Bing Webmaster Tools verification -->
+		<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7" />
+		<meta property="fb:admins" content="100006394927810"/>
+
+        <title>Fiery wrong-way crash in Long Beach kills 1, injures 3 - San Francisco Chronicle</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico?v=2" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png"/>
+
+
+    <link rel="canonical" href="http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php" />
+
+    
+    
+    
+            <meta name="author.name" content="" />
+        <meta name="author.title" content="" />
+        <meta name="date.release" content="2015/01/08" />
+        <meta name="time.release" content="20:36" />
+        <meta name="publisher" content="Associated Press" />
+        <meta name="sections" content="News" />
+        <meta name="subject" content="" />
+        <meta name="news_keywords" content="" />
+                
+        <script type="text/javascript" src="/js/hdn/omniture/video.js"></script>
+        <!-- hearst/home/header_sailthru.tpl -->
+<meta property="sailthru.title" content="Fiery wrong-way crash in Long Beach kills 1, injures 3" />
+<meta name="sailthru.date" content="2015-08-01 20:36:00 -0700" />
+<meta name="sailthru.author" content="" />
+                        <meta name="sailthru.tags" content="section-news,subject-general-news,subject-accidents,subject-disability-sports,subject-accidents-and-disasters,subject-transportation,subject-sports,pubname-associated-press" />
+<meta name="sailthru.image.thumb" content="" />
+<!-- e hearst/home/header_sailthru.tpl -->
+        
+    <meta property="og:title" content="Fiery wrong-way crash in Long Beach kills 1, injures 3" />
+            <meta property="og:description" content="LONG BEACH, Calif. (AP) - Long Beach police say a car crashed through street barricades near a Special Olympics event site before being involved in a deadly bridge crash.
+Spokeswoman Marlene Arrona says the erratically-driven Mercedes struck barriers Saturday morning near the site of a half-marathon that was held later in the day.
+Nobody was hurt but police say shortly after 7 a.m., the car drove the wrong way onto the Gerald Desmond Bridge and hit a pickup truck and a Ford Fusion. The Mercedes and the truck caught fire.
+The pickup driver was killed.
+The wrong-way driver and a second man are hospitalized in critical condition. A police officer was slightly injured trying to help one man out of a car." />
+                        <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php" />
+    <meta property="og:image" content="http://www.sfchronicle.com/img/pages/article/opengraph_default.jpg" />
+    <meta property="og:site_name" content="San Francisco Chronicle" />
+                                                                                <meta property="og:country-name" content="United States"/>
+                <!-- Twitter card metadata  -->
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@sfchronicle" />
+    
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+
+
+                <meta property="fb:app_id" content="537896802938133"/>
+    
+<!-- e /business/templates/hearst/home/header_fbpage.tpl-->    <!-- templates/hearst/home/viafouraHeadMeta.tpl -->
+<meta property="vf:unique_id" content="premiumsfgate-article-6419342" />
+<meta property="vf:section" content="local">
+<!-- e templates/hearst/home/viafouraHeadMeta.tpl -->        <script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+        <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<!-- CSS/JS Hotfix freeform -->
+
+<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.14699 -->
+
+    </head>
+    <body id="home" class=" news">
+        <!-- ux/chron/tmpl/article_omniture.php -->
+<script type="text/javascript" src="/js/omniture/atm_sfchronicle.js"></script>
+<!-- e ux/chron/tmpl/article_omniture.php -->
+        <div id="container" class="article_page">
+			<!-- ux/premiumsfgate/templates/hearst/home/header_branding.tpl -->
+<div id="header"> 	<!-- ux/premiumsfgate/templates/hearst/common/admin_bar.tpl -->
+<div class="header-top">
+    <ul class="ht-links">
+      <li class="ht-link-item ht-branding"><a href="http://www.sfgate.com/" target="_blank"></a></li>
+      <li class="ht-link-item first"><a href="http://www.sfgate.com/cars/" target="_blank">Autos</a></li>
+      <li class="ht-link-item"><a href="http://www.sfgate.com/jobs/" target="_blank">Jobs</a></li>    
+      <li class="ht-link-item"><a href="http://www.sfgate.com/realestate/" target="_blank">Real Estate</a></li>
+      <li class="ht-weather">
+        <span>
+          <a class="weather-ico" href="http://weather.sfgate.com/US/CA/San_Francisco.html" target="_blank"></a>
+          <a class="ht-temp" href="http://weather.sfgate.com/US/CA/San_Francisco.html" target="_blank"></a>
+        </span>
+      </li>
+    </ul>
+
+
+    <!-- ux/premiumsfgate/templates/hearst/widgets/paywallLogin/main.tpl -->
+
+<ul class="ht-right-links signed-in" style="display:none">
+    <li class="ht-ed"><span><a href="/e-edition/">e-edition</a></span></li>
+    <li class="ht-user">
+        <a id="adminlink" class="ht-expand">Account</a>
+        <div class="hst-admin">
+            <div id="acctAdmin">
+                <ul class="form-list">
+                    <li><a href="https://myaccount.sfchronicle.com/Login.aspx" class="admin-profile" target="_blank">Edit Your Profile</a></li>
+                    <li><a href="https://myaccount.sfchronicle.com/Login.aspx" class="admin-sub" target="_blank">Manage Your Subscription</a></li>
+                </ul>
+                <input class="btn-submit" type="button" onclick="edbTokens.logout()" value="Sign Out">
+            </div>
+        </div><!-- /hst-admin -->
+    </li>
+</ul>
+<ul class="ht-right-links signed-out">
+    <li class="ht-ed"><span><a href="/e-edition/">e-edition</a></span></li>
+    <li class="ht-saved"><span><a href="https://myaccount.sfchronicle.com/dssSubscribe.aspx?pid=215&amp;return=http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php">Subscribe</a></span></li>
+    <li class="ht-user">
+        <span><a id="adminlink" class="ht-expand">Sign In</a></span>
+        <div class="hst-admin">
+            <div class="intro">
+                <form action="https://myaccount.sfchronicle.com/dssmatch.aspx" method="get" id="activate">
+                    <a onclick="document.getElementById('activate').submit();">
+                        <h3>First time signing in to SFChronicle.com?</h3>
+                        <input type="hidden" name="return" value="http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php"/>
+                        <p><span>Click here</span> to confirm your subscription &amp; sign in information.</p>
+                    </a>
+                    <input type="hidden"  name="commit" value="Activate Account" />
+                </form>
+            </div>
+            <div id="signIn">
+                <form action="https://edb.sfchronicle.com/WCMPaywall/GetTokensByEmail" method="post" name="aw-login">
+                    <fieldset>
+                        <ul class="form-list">
+                            <li><input class="form-input email-aw useremail" id="aw-email" name="EmailAddress" type="email" autocapitalize="off" onfocus="if(this.value == 'Email Address') { this.value = ''; }" onkeypress="javascript: if (window.event.keyCode === 35) { return false; }" value="" /></li>
+                            <li id="pw-li"><input class="form-input password-aw" id="password" name="Password" type="password" value="" /></li>
+                            <li>
+                                <div id="checkremem" class="checkbox-rm checked">
+                                    <input id="remember_me" name="RememberMe" checked="true" type="checkbox" value="1">
+                                    <label for="remember_me">Stay signed in</label>
+                                </div>
+                            </li>
+                        </ul>
+                    </fieldset>
+                    <input type="hidden" value="header" name="SignInError" />
+                    <input class="btn-submit" name="commit" type="submit" value="Sign In">
+                    <p class="forgot"><a href="https://myaccount.sfchronicle.com/ForgotPassword.aspx" target="_blank">Forgot Your Password?</a></p>
+                </form>
+                <div class="signin-dis">By logging in, you agree to the <a href="/terms_of_use/" target="_blank">Terms and Conditions</a> and <a href="/privacy_policy/" target="_blank">Privacy Policy</a>.</div>
+            </div>
+        </div><!-- /hst-admin -->
+    </li>
+</ul>
+<script>
+    $('.email-aw').watermark('Email Address');
+    $('.password-aw').watermark('Password');
+
+    $.ajax({
+        url: "/validateEdb/article-6419342/",
+        async: false
+    }).done(function(premiumAllowed) {
+        premiumAllowed = +premiumAllowed;
+        if (edbTokens.productToken == null || !premiumAllowed) {
+            $('ul.signed-in').remove();
+            $('ul.signed-out').show();
+            if ( edbTokens.errorMessage && edbTokens.signInError=='header' ){
+                $('#signIn').prepend('<div class="error-wrap error-back-light" style="display: block; "><span class="error-text error-text-light">'+
+                edbTokens.errorMessage+
+                '</span><img src="/img/utils/error_dark.png"/></div>');
+                if(edbTokens.emailForPrompt){
+                    $("input.useremail").val(edbTokens.emailForPrompt);
+                }
+            }
+        } else {
+            $('ul.signed-out').remove();
+            $('ul.signed-in').show();
+        }
+    });
+</script>
+
+<!-- e ux/premiumsfgate/templates/hearst/widgets/paywallLogin/main.tpl -->
+
+
+
+
+</div>
+<!-- e ux/premiumsfgate/templates/hearst/common/admin_bar.tpl -->
+									<div class="header-branding section">
+							<div class="menu-btn">
+								<a id="menuBtn" class="hdn-analytics"><span class="hdn-analytics-data">visit|hamburger-menu|hamburger-menu|0</span></a>
+							</div>
+            				<div class="wrap-center">
+								<a class="logo-link" href="/"></a>
+											<h1 class="section-title">
+																	<a class="color-link" href="/local/">
+										Local
+									</a>
+															</h1>
+										</div>			
+						</div>
+	<!-- END ux/premiumsfgate/templates/hearst/home/header_branding.tpl -->
+<!-- business/templates/hearst/home/HNavigation.tpl -->
+<!-- hearst/home/navigation.tpl -->
+
+	<!-- ux/premiumsfgate/templates/hearst/home/navigation_main.tpl -->
+
+<!-- e ux/premiumsfgate/templates/hearst/common/dynamic_nav.tpl -->
+
+    
+<div id="navMenu" class="nav-menu">
+    <div class="nav-search">
+        
+        <form class="search-form" action="/search/" method="get">
+                      <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="firstRequest" value="1" />
+            <input type="hidden" name="searchindex" value="gsa" />
+                    <fieldset>
+            <input class="form-input" id="search" name="query" type="text" value="" placeholder="Search">
+            <input class="search-btn" value="" name="search" type="submit" />
+          </fieldset>
+        </form>
+    </div>
+    <ul class="nav-menu-list">
+                                                                <li id="Ho-link" class="menu-item childless hdn-analytics">
+                    <div class="nav-label">
+                        <span class="hdn-analytics-data">visit|Home|navigation|1</span>
+                        <a href="/"  class="hdn-analytics">
+                            <span class="hdn-analytics-data">visit|Home|navigation|1</span>
+                            <span class="section-link">Home</span>
+                        </a>
+                    </div>
+                </li>
+                                                                                    <li id="Lo-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Local|navigation|2</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/local/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local|navigation|2</span>
+                                <span class="section-link">Local</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/local/columnists/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Columnists|navigation|1</span>
+                                <div class="nav-label">Columnists</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/sanfrancisco/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-San Francisco|navigation|2</span>
+                                <div class="nav-label">San Francisco</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/bayarea/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Bay Area|navigation|3</span>
+                                <div class="nav-label">Bay Area</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/crime/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Crime|navigation|4</span>
+                                <div class="nav-label">Crime</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/environment/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Environment|navigation|5</span>
+                                <div class="nav-label">Environment</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/politics-policy/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Politics & Policy|navigation|6</span>
+                                <div class="nav-label">Politics & Policy</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/health/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Health|navigation|7</span>
+                                <div class="nav-label">Health</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.legacy.com/obituaries/sfgate/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Obituaries|navigation|8</span>
+                                <div class="nav-label">Obituaries</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/drought/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-California Drought|navigation|9</span>
+                                <div class="nav-label">California Drought</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/oursf/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Our SF|navigation|10</span>
+                                <div class="nav-label">Our SF</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="US-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|US & World|navigation|3</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/us-world/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World|navigation|3</span>
+                                <span class="section-link">US & World</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/us-world/us/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-US|navigation|1</span>
+                                <div class="nav-label">US</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/world/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-World|navigation|2</span>
+                                <div class="nav-label">World</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/politics-policy/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Politics & Policy|navigation|3</span>
+                                <div class="nav-label">Politics & Policy</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/environment/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Environment|navigation|4</span>
+                                <div class="nav-label">Environment</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/science/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Science|navigation|5</span>
+                                <div class="nav-label">Science</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Sp-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Sports|navigation|4</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/sports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports|navigation|4</span>
+                                <span class="section-link">Sports</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/sports/49ers/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-49ers|navigation|1</span>
+                                <div class="nav-label">49ers</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/raiders/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Raiders|navigation|2</span>
+                                <div class="nav-label">Raiders</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/giants/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Giants|navigation|3</span>
+                                <div class="nav-label">Giants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/athletics/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-A's|navigation|4</span>
+                                <div class="nav-label">A's</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/warriors/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Warriors|navigation|5</span>
+                                <div class="nav-label">Warriors</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/college/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-College|navigation|6</span>
+                                <div class="nav-label">College</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/sharks/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Sharks|navigation|7</span>
+                                <div class="nav-label">Sharks</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/high-school/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-High School|navigation|8</span>
+                                <div class="nav-label">High School</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/other/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-More Sports|navigation|9</span>
+                                <div class="nav-label">More Sports</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Bi-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Biz & Tech|navigation|5</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/business/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Biz & Tech|navigation|5</span>
+                                <span class="section-link">Biz & Tech</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/business/technology/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Biz & Tech-Technology|navigation|1</span>
+                                <div class="nav-label">Technology</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/realestate/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Biz & Tech-Real Estate|navigation|2</span>
+                                <div class="nav-label">Real Estate</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/markets/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Biz & Tech-Markets|navigation|3</span>
+                                <div class="nav-label">Markets</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/airbnb-impact-san-francisco-2015/#1" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Biz & Tech-The Airbnb Effect|navigation|4</span>
+                                <div class="nav-label">The Airbnb Effect</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Op-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Opinion|navigation|6</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/opinion/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion|navigation|6</span>
+                                <span class="section-link">Opinion</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/opinion/editorials/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Editorials|navigation|1</span>
+                                <div class="nav-label">Editorials</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/letters-editor/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Letters to the editor|navigation|2</span>
+                                <div class="nav-label">Letters to the editor</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/op-ed-columns/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Op-ed columns|navigation|3</span>
+                                <div class="nav-label">Op-ed columns</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/insight/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Insight|navigation|4</span>
+                                <div class="nav-label">Insight</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="St-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Style|navigation|7</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/style/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Style|navigation|7</span>
+                                <span class="section-link">Style</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/style/scene/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Style-Scene|navigation|1</span>
+                                <div class="nav-label">Scene</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/style/fashion/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Style-Fashion|navigation|2</span>
+                                <div class="nav-label">Fashion</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/style/shopping/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Style-Shopping|navigation|3</span>
+                                <div class="nav-label">Shopping</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/style/weddings/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Style-Weddings|navigation|4</span>
+                                <div class="nav-label">Weddings</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Fo-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Food+Home|navigation|8</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/foodandhome/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home|navigation|8</span>
+                                <span class="section-link">Food+Home</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/foodandhome/restaurants/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Restaurants|navigation|1</span>
+                                <div class="nav-label">Restaurants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/foodandhome/wine/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Wine|navigation|2</span>
+                                <div class="nav-label">Wine</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/foodandhome/recipes/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Recipes|navigation|3</span>
+                                <div class="nav-label">Recipes</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/food/top-100-2015/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Top 100 Restaurants|navigation|4</span>
+                                <div class="nav-label">Top 100 Restaurants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/top100-wines-2014/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Top 100 Wines|navigation|5</span>
+                                <div class="nav-label">Top 100 Wines</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/foodandhome/home-design/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Home Design|navigation|6</span>
+                                <div class="nav-label">Home Design</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/foodandhome/gardening/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Food+Home-Gardening|navigation|7</span>
+                                <div class="nav-label">Gardening</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Ar-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|A&E|navigation|9</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/entertainment/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E|navigation|9</span>
+                                <span class="section-link">A&E</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/entertainment/movies-tv/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Movies & TV|navigation|1</span>
+                                <div class="nav-label">Movies & TV</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/arts-theater/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Arts & Theater|navigation|2</span>
+                                <div class="nav-label">Arts & Theater</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/music/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Music|navigation|3</span>
+                                <div class="nav-label">Music</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/books/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Books|navigation|4</span>
+                                <div class="nav-label">Books</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/badreporter/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Bad Reporter|navigation|5</span>
+                                <div class="nav-label">Bad Reporter</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfgate.com/horoscope/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Horoscopes|navigation|6</span>
+                                <div class="nav-label">Horoscopes</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/comics/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Comics|navigation|7</span>
+                                <div class="nav-label">Comics</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfgate.com/games" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Games|navigation|8</span>
+                                <div class="nav-label">Games</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfgate.com/cgi-bin/movies/listings/search" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Movie Listings|navigation|9</span>
+                                <div class="nav-label">Movie Listings</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/grateful-dead/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|A&E-Grateful Dead at 50|navigation|10</span>
+                                <div class="nav-label">Grateful Dead at 50</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Li-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Lifestyle|navigation|10</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/lifestyle/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle|navigation|10</span>
+                                <span class="section-link">Lifestyle</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="http://www.sfchronicle.com/style" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Style|navigation|1</span>
+                                <div class="nav-label">Style</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/health/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Health|navigation|2</span>
+                                <div class="nav-label">Health</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/outdoors/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Outdoors|navigation|3</span>
+                                <div class="nav-label">Outdoors</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/travel/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Travel|navigation|4</span>
+                                <div class="nav-label">Travel</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Th-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|The Take|navigation|11</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="http://www.sfchronicle.com/thetake/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take|navigation|11</span>
+                                <span class="section-link">The Take</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="http://www.sfchronicle.com/thetakefromthearchive/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take-From the Archive|navigation|1</span>
+                                <div class="nav-label">From the Archive</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/thetakepotw/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take-Photos of the Week|navigation|2</span>
+                                <div class="nav-label">Photos of the Week</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/infocus/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take-In Focus|navigation|3</span>
+                                <div class="nav-label">In Focus</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/takecityexposed/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take-City Exposed|navigation|4</span>
+                                <div class="nav-label">City Exposed</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/fieldofvision/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|The Take-Field of Vision|navigation|5</span>
+                                <div class="nav-label">Field of Vision</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="In-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|In-Depth|navigation|12</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/special-reports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth|navigation|12</span>
+                                <span class="section-link">In-Depth</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="http://www.sfchronicle.com/the-mission/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-A Changing Mission|navigation|1</span>
+                                <div class="nav-label">A Changing Mission</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/food/top-100-2015/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-Top 100 Restaurants|navigation|2</span>
+                                <div class="nav-label">Top 100 Restaurants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/airbnb-impact-san-francisco-2015/#1" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-The Airbnb Effect|navigation|3</span>
+                                <div class="nav-label">The Airbnb Effect</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/grateful-dead/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-Grateful Dead at 50|navigation|4</span>
+                                <div class="nav-label">Grateful Dead at 50</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/theliterarycity/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-The Literary City|navigation|5</span>
+                                <div class="nav-label">The Literary City</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/drought/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-California Drought|navigation|6</span>
+                                <div class="nav-label">California Drought</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/oursf/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-Our SF|navigation|7</span>
+                                <div class="nav-label">Our SF</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/schools-desegregation/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-School Diversity|navigation|8</span>
+                                <div class="nav-label">School Diversity</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/local/bayarea/item/India-surrogacy-Chapter-One-23858.php" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-Outsourcing a Life|navigation|9</span>
+                                <div class="nav-label">Outsourcing a Life</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/steinbeck-grapes-of-wrath/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-"Grapes of Wrath" at 75|navigation|10</span>
+                                <div class="nav-label">"Grapes of Wrath" at 75</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/local/bayarea/item/Even-Odds-Part-1-22785.php" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|In-Depth-Even Odds|navigation|11</span>
+                                <div class="nav-label">Even Odds</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Me-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Membership|navigation|13</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="http://www.sfchronicle.com/membership/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership|navigation|13</span>
+                                <span class="section-link">Membership</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/membership/faq/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership-About Membership|navigation|1</span>
+                                <div class="nav-label">About Membership</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/membership/#offers" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership-Exclusive offers|navigation|2</span>
+                                <div class="nav-label">Exclusive offers</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="https://myaccount.sfchronicle.com/dsssubscribe.aspx?pid=1249&z=00000" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership-Join Now|navigation|3</span>
+                                <div class="nav-label">Join Now</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="https://myaccount.sfchronicle.com/Login.aspx" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership-Manage my account|navigation|4</span>
+                                <div class="nav-label">Manage my account</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sfchronicle.com/archive/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Membership-Archive|navigation|5</span>
+                                <div class="nav-label">Archive</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                        </ul>
+</div>
+<!-- e ux/premiumsfgate/templates/hearst/common/dynamic_nav.tpl -->
+
+</div> 
+<!--e ux/premiumsfgate/templates/hearst/home/navigation_main.tpl -->
+<!-- e hearst/home/navigation.tpl -->
+<!-- e business/templates/hearst/home/HNavigation.tpl --><!-- end hearst/article/types/article_header.tpl -->
+
+
+
+    <!-- design/article/premium_story_page.tpl -->
+             
+    <div id="content">
+    <div class="article-wrap">
+        <!-- ux/premiumsfgate/templates/hearst/article/premium_share_alertbox.tpl -->
+
+
+<!-- e ux/premiumsfgate/templates/hearst/article/premium_share_alertbox.tpl -->
+        <div class="zone zone-1">
+            <div class="article-body">
+        <!-- article/types/premium_story_header.tpl -->
+<div class="article-head">
+    <h3 class="section-name">News</h3>
+    <h2 class="headline">Fiery wrong-way crash in Long Beach kills 1, injures 3</h2>
+        <!-- hearst/common/author_name.tpl -->
+
+<!-- e hearst/common/author_name.tpl -->
+    <span class="datestamp">
+        <span class="published">August 1, 2015</span>
+            <span class="updated updated">Updated: August 1, 2015 8:39pm</span>
+        </span>
+</div> <!-- /article-head -->
+
+<!-- end premium_story_header.tpl -->
+        <div class="article-share">
+        <!-- hearst/article/prem_article_share.tpl -->
+
+<div class="social-links " social-url="http%3A%2F%2Fwww.sfchronicle.com%2Fnews%2Farticle%2FFiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php%3Ft%3D4f4e9c4334%26cmpid%3D" social-hashId="" social-blurb="LONG%20BEACH%2C%20Calif.%20%28AP%29%20%E2%80%94%20Long%20Beach%20police%20say%20a%20car%20crashed%20through%20street%20barricades%20near%20a%20Special%20Olympics%20event%20site%20before%20being%20involved%20in%20a%20deadly%20bridge%20crash.%0ASpokeswoman%20Marlene%20Arrona%20says%20the%20erratically-driven%20Mercedes%20struck%20barriers%20Saturday%20morning%20near%20the%20site%20of%20a%20half-marathon%20that%20was%20held%20later%20in%20the%20day.%0ANobody%20was%20hurt%20but%20police%20say%20shortly%20after%207%20a.m.%2C%20the%20car%20drove%20the%20wrong%20way%20onto%20the%20Gerald%20Desmond%20Bridge%20and%20hit%20a%20pickup%20truck%20and%20a%20Ford%20Fusion.%20The%20Mercedes%20and%20the%20truck%20caught%20fire.%0AThe%20pickup%20driver%20was%20killed.%0AThe%20wrong-way%20driver%20and%20a%20second%20man%20are%20hospitalized%20in%20critical%20condition.%20A%20police%20officer%20was%20slightly%20injured%20trying%20to%20help%20one%20man%20out%20of%20a%20car." media-url="http%3A%2F%2Fwww.sfchronicle.com%2Fimg%2Fpages%2Farticle%2Fopengraph_default.jpg" social-title="Fiery%20wrong-way%20crash%20in%20Long%20Beach%20kills%201%2C%20injures%203">
+    <ul class="right">
+        <li class="socialIcon print">
+            <a class="hdn-analytics" href="javascript:hst_print();">
+                <span class="hdn-analytics-data">print_article|article-6419342|article-share-premium|7</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon comments">
+            <a class="hdn-analytics" href="#comments">
+                <span class="hdn-analytics-data">comments_jump|article-6419342|article-share-premium|1</span>
+                <span class="icon"></span>
+            </a>
+            <div class="viafoura">
+                <span class="vf-counter vf-widget" data-widget="counter"></span>
+            </div>
+        </li>
+    </ul>
+    <ul class="left">
+        <li class="socialIcon email" share-id="email">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">email_share|article-6419342|article-share-premium|1</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon facebook" share-id="facebook">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">facebook_share|article-6419342|article-share-premium|2</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon twitter" share-id="twitter">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">twitter_share|article-6419342|article-share-premium|3</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon pinterest" share-id="pinterest">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">pinterest_share|article-6419342|article-share-premium|4</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon reddit" share-id="reddit">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">reddit_share|article-6419342|article-share-premium|5</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon google" share-id="google">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">google_share|article-6419342|article-share-premium|6</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+            </ul>
+</div>
+<!-- e hearst/article/prem_article_share.tpl -->
+        </div>
+        <!-- article/types/premium_story.tpl -->
+        
+        
+    
+    <div class="article-text">
+        <!-- hearst/article/types/premium_story_body.tpl -->
+
+<p xmlns="http://www.w3.org/2005/Atom" xmlns:apcm="http://ap.org/schemas/03/2005/apcm" xmlns:apnm="http://ap.org/schemas/03/2005/apnm" xmlns:o="http://w3.org/ns/odrl/2/">LONG BEACH, Calif. (AP) — Long Beach police say a car crashed through street barricades near a Special Olympics event site before being involved in a deadly bridge crash.</p>
+
+<!-- e premium_hearst/article/types/premium_story_body.tpl -->
+    </div>
+            
+                    <!-- templates/hearst/common/premium_login.tpl -->
+
+
+<div class="pw-content signin_form_container">
+    <div class="subscrib_msg hello">
+        <p class="bold-italic">
+            To continue reading this story, you will need to be a digital subscriber to SFChronicle.com.
+        </p>
+    </div>
+    <div class="pw-blocks pw-block-3 pw-block-last">
+        <div id="article-signin" class="form-wrap">
+            <h2 id="signInHeader">SIGN IN</h2>
+
+            <form class="main_signin_form_submitter" action="https://edb.sfchronicle.com/WCMPaywall/GetTokensByEmail" method="post">
+                <ul class="form-list credential_section">
+                    <li class="input-wrap txt-input first">
+                        <input class="form-input email-pw useremail" id="email" name="EmailAddress" type="text" onfocus="if(this.value == 'Email Address') { this.value = ''; }" value="" />
+                    </li>
+                    <li class="input-wrap txt-input">
+                        <input class="form-input password-pw" id="password" name="Password" type="password" value="" />
+                    </li>
+                    <li class="input-wrap primary_signin_btn" >
+                        <input type="hidden" value="article" name="SignInError" />
+                        <input class="btn-dark log_sign_in_btn" name="commit" type="submit" value="Sign In">
+                    </li>
+                </ul>
+                <ul class="form-list secondary">
+                    <li class="input-wrap first">
+                        <div id="article-check" class="checkbox checked">
+                            <input id="article_remember_me" name="RememberMe" checked="true" type="checkbox" value="1" />
+                            <label for="remember_me">Stay signed in</label>
+                        </div>
+                    </li>
+                    <li class="input-wrap  primary_forgot_pass">
+                        <div class="forgotPass_wrap">
+                            <span><a class="forgotPass" href="https://myaccount.sfchronicle.com/ForgotPassword.aspx" target='_blank'>Forgot Your Password?</a></span>
+                        </div>
+                    </li>
+                </ul>
+                <div class="gray_line_wrapper">
+                    <div class="gray_line"></div>
+                </div>
+                <ul class="mobile_mode form-list secondary ">
+                    <li class="input-wrap mobile_mode_a">
+                        <input class="btn-dark" name="commit" type="submit" value="Sign In">
+                    </li>
+                    <li class="input-wrap mobile_mode_b">
+                        <div class="forgotPass_wrap">
+                            <span><a class="forgotPass" href="https://myaccount.sfchronicle.com/ForgotPassword.aspx" target='_blank'>Forgot Your Password?</a></span>
+                        </div>
+                    </li>
+                </ul>
+            </form>
+
+            <!-- Already a subscriber  -->
+
+            <div class="activate_account_section">
+                <form action="https://myaccount.sfchronicle.com/dssmatch.aspx" method="get">
+                    <ul class="activate_account_items">
+                        <li class="activate_item">
+
+                            SF Chronicle subscribers have FREE access to all premium digital products.
+
+                        </li>
+                        <li class="activate_item">
+                            <input type="hidden" name="return" value="http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php"/>
+                            <input class="btn-dark" name="commit" type="submit" value="Activate Account" />
+                        </li>
+                    </ul>
+                </form>
+            </div>
+            <!-- End of already a subscriber section -->
+            <p class="signin-dis signin_blurb ">By logging in, you agree to the <a href="/terms_of_use/">Terms and Conditions</a> and <a href="/privacy_policy/">Privacy Policy</a>.</p>
+            <script type="text/javascript">
+                $('.email-pw').watermark('Email Address');
+                $('.password-pw').watermark('Password');
+                if ( edbTokens.errorMessage && edbTokens.signInError=='article' ){
+                    window.location.hash = 'article-signin'; // set hashtag anchor to jump to article sign in
+                    $('#article-signin form.main_signin_form_submitter').prepend('<div class="error-wrap error-back-dark" style="display:block;"><ul><li class="form_err_text"><span class="error-text error-text-dark">'+
+                            edbTokens.errorMessage+
+                            '</span></li><li class="form_err_icon"><img src="/img/utils/error_dark.png"></li></ul></div>');
+                    if(edbTokens.emailForPrompt){
+                        $('input.useremail').val(edbTokens.emailForPrompt);
+                    }
+                }
+            </script>
+            
+        </div>
+    </div>
+    <div class="signin_item pw-block-2">
+        <div class="form-wrap">
+            <ul class="subscribe_banner_section" >
+                <li class="subscribe_item item_a">
+                    <div class="offer_blurb"><span class="blurb_highlight">Click here</span> to subscribe now to get the best Bay Area news!</div>
+                </li>
+                <li class="subscribe_item item_b">
+                    <div class="subscribe_btn_wrap">
+                        <div class="subscribe_btn">
+                        	                        	<a href="https://myaccount.sfchronicle.com/dssSubscribe.aspx?pid=186&amp;return=http://www.sfchronicle.com/news/article/Fiery-Long-Beach-crash-kills-1-injures-3-bridge-6419342.php">SUBSCRIBE</a>
+                        	                        </div>
+                        <div class="subscribe_btn_icon"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div><!-- /.pw-content signin_form_container -->
+<!-- e templates/hearst/common/premium_login.tpl -->
+                                            
+                <p class="usage pw-usage">AP: Copyright 2014 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</p>
+                            <div class="solo_single narrow-only" style="margin:0"></div>
+    <!-- e /hearst/article/types/premium_story.tpl -->
+                    </div>
+        </div>
+        <!-- END Article Body-->
+        <div class="zone zone-1" style="clear:both">
+                    </div>
+        <!-- /zone 1-->
+        <div class="zone zone-3">
+        </div>
+    </div>
+    <div class="zone zone-5">
+        <!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-20952-premium_article_featured_articles"><!-- collections/premium_article_featured_articles.tpl -->
+<!-- collection.premium_article_featured_articles.20952 -->
+<div class="collection article-sections">
+        <div class="column-outer-wrap">
+                                                                <div class="column-wrap ">
+                                                        <div class="column odd firstcolumn">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/local/">Local</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/bayarea/article/S-F-garbage-dumping-contract-ignites-legal-fight-6418592.php">
+    <img src="http://ww4.hdnux.com/photos/40/01/47/8395235/5/premium_article_featured_articles.jpg"
+        alt="A bulldozer and crane prepare to load garbage on a long-haul truck at the Recology transfer station in San Francisco." border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/bayarea/article/S-F-garbage-dumping-contract-ignites-legal-fight-6418592.php">S.F. garbage-dumping contract ignites legal fight</a></h2>
+                                </div>
+                                                                                                <div class="column even ">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/local/">Local</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/education/article/Unusual-pool-of-local-talent-trained-to-fill-gap-6418617.php">
+    <img src="http://ww3.hdnux.com/photos/40/01/50/8395266/3/premium_article_featured_articles.jpg"
+        alt="Eric Mason, a student at Year Up, was bagging groceries in Oakland when he learned about the program in San Francisco." border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/education/article/Unusual-pool-of-local-talent-trained-to-fill-gap-6418617.php">Pool of local talent trained to fill tech gap</a></h2>
+                                </div>
+                                                </div>
+                                                                                        <div class="column-wrap column-wrap-last">
+                                                        <div class="column odd ">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/local/">Local</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/bayarea/article/Gray-eyed-Man-of-Destiny-met-fate-in-Central-6418095.php">
+    <img src="http://ww2.hdnux.com/photos/37/77/61/8387657/14/premium_article_featured_articles.jpg"
+        alt="William Walker adventurer and one-time editor of the Bulletin
+
+executed in Honduras in 1860  
+
+Handout" border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/bayarea/article/Gray-eyed-Man-of-Destiny-met-fate-in-Central-6418095.php">This was S.F.'s most outrageous editor</a></h2>
+                                </div>
+                                                                                                <div class="column even lastcolumn">
+                                                                                        <div class="header">
+                                                        <h4 class="kicker-link"><a href="http://www.sfchronicle.com/food/top-100-2015/">Dining</a></h4>
+                                                </div>
+                                                                                <!-- common/display_image.tpl -->
+<a class="without_u hdnce-e hdnce-link-31047 "
+    href="http://www.sfchronicle.com/food/top-100-2015/region/">
+    <img src="http://ww3.hdnux.com/photos/35/66/37/7825358/7/premium_article_featured_articles.jpg"
+        alt="Duck confit hash with baked eggs at Cotogna in San Francisco." border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a class="hdnce-e hdnce-link-31047"  href="http://www.sfchronicle.com/food/top-100-2015/region/">Top 100 Restaurants 2015: Search the best</a></h2>
+                                </div>
+                                                </div>
+                                                </div>
+</div>
+<!-- end premium_article_featured_articles.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl -->    
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.36730 -->
+<div class="hst-freeform hdnce-e hdnce-item-36730">
+        <script>
+
+
+$("p.bold-italic").css("font-weight","bold").html("It is easy to get access to our premium content. If you are already a subscriber, sign in below. Or take advantage of one of our great offers and subscribe today.");
+
+$("li.activate_item:first-child").html("San Francisco Chronicle subscribers have FREE access to all premium digital products.");
+
+$(".offer_blurb").html("Subscribe today and get your first month for only 99&#162;");
+
+$("div.subscribe_btn a").attr("href","http://www.sfchronicle.com/digital-access/");
+
+$("div.subscribe_btn a").html("Start Now");
+</script>
+</div>
+                </div><!-- /zone-5 -->
+    <!-- END Section Highlights Collection -->
+
+</div>
+
+
+    <!-- e design/article/premium_story_page.tpl --><!-- src/business/templates/hearst/common/footer.tpl -->
+
+                      <!-- templates/hearst/home/viafouraFooterJS.tpl -->
+<script>
+        
+    
+    (function (v, s) {
+        v.type = 'text/javascript';
+        v.async = !0;
+        v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+        s.parentNode.insertBefore(v, s)
+    }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+
+    $(document).ready(function () {
+        if ($('#hdn-vf-comments').length) {HDN.authOnReady('premium',false)}
+        var vfDomains = {};
+        $('body').find('div.viafoura span.vf-counter[data-path^="http://"]').each(function () {
+            var matches = $(this).attr('data-path').match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+            var domain = matches && matches[1];
+            if (!!domain) {
+                vfDomains[domain.replace(/^m\./, 'www.')] = 1;
+            }
+        });
+        for (d in vfDomains) {
+            HDN.getVfCommentCount(undefined,d,1);
+        }
+    });
+    
+</script>
+<!-- e templates/hearst/home/viafouraFooterJS.tpl -->
+                            <!-- hearst/common/sailthruJS.tpl -->
+
+<script type="text/javascript" src="http://ak.sail-horizon.com/horizon/v1.js"></script>
+<script type="text/javascript">
+    $(function() {
+        // Sailthru Concierge
+        if (window.Sailthru) {
+            Sailthru.setup({
+                domain: 'horizon.sfgate.com'
+            });
+        }
+    });
+</script>
+
+<!-- e hearst/common/sailthruJS.tpl -->
+        
+
+<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.14555 -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<div class="hc_sitefooter">
+<div class="lock1200">
+   <div class="hcsf_header">
+    <a href="http://www.sfchronicle.com"><img src="/img/modules/sitefooter/footer_logo.png" /></a>
+    <div class="toplink"><a href="#container"><span class="topLinkText">Top</span></a></div>
+   </div>
+   <ul class="hcsf_links">
+    <li class="hcsf_about"> 
+     <h3>About</h3>
+     <ul class="hcsf_linklist">
+      <li><a href="http://www.hearst.com/newspapers/san-francisco-chronicle.php">Our Company</a></li>
+      <li><a class="ad-choice" href="http://www.aboutads.info/choices/"><span class="ad-link"></span> Ad Choices </a></li>
+      <li><a href="http://www.sfgate.com/chronicle/hr/">Careers</a></li> 
+      <li><a href="/terms_of_use/">Terms of Use</a></li>
+      <li><a href="http://extras.sfgate.com/chronicle/adsite/index.html">Advertising</a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/privacy_policy#your_rights">Your Privacy Rights</a></li>
+      <li><a href="/privacy_policy/#caprivacyrights">Your California Privacy Rights</a></li>
+     </ul>
+    </li>
+   </ul>
+   <ul class="hcsf_links">
+    <li class="hcsf_contact"> 
+     <h3>Contact</h3>
+     <ul class="hcsf_linklist">
+      <li><a href="/customer_service">Customer Service</a></li>
+      <li><a href="/faq">Frequently Asked Questions</a></li>
+      <li><a href="/newsroom_contacts">Newsroom Contacts</a></li>
+     </ul>
+    </li>
+   </ul>
+   <ul class="hcsf_links">
+    <li class="hcsf_connect desktop"> 
+     <h3>Connect</h3>
+     <ul class="hcsf_linklist">
+      <li><a class="fb-link" href="https://www.facebook.com/sanfranciscochronicle">Facebook</a></li>
+      <li><a class="twtr-link" href="https://twitter.com/sfchronicle">Twitter</a></li> 
+      <li><a class="li-link" href="https://www.linkedin.com/company/san-francisco-chronicle">LinkedIn</a></li>
+      <li><a class="gplus-link" href="https://plus.google.com/+sfgate/posts">Google+</a></li>
+     </ul>
+    </li>
+    <li class="hcsf_connect mobile"> 
+     <h3>Connect</h3>
+     <ul class="hcsf_linklist">
+      <li><a class="fb-link" href="https://www.facebook.com/sanfranciscochronicle"></a></li>
+      <li><a class="twtr-link" href="https://twitter.com/sfchronicle"></a></li> 
+      <li><a class="li-link" href="https://www.linkedin.com/company/san-francisco-chronicle"></a></li>
+      <li><a class="gplus-link" href="https://plus.google.com/+sfgate/posts"></a></li>
+     </ul>
+    </li>
+   </ul>
+   <div class="copyright-wrap">
+    <img src="/img/modules/sitefooter/hst_copy_logo.png" />
+<p class="copyright">&copy; <script>document.write(new Date().getFullYear());</script> Hearst Corporation</p>
+   </div>
+</div>
+  </div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpONkFfGVBeVlAcGhEMEQ==","queueTime":0,"applicationTime":11,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+<style type="text/css">
+.kicker,
+.breaking,
+.kicker.highlight,
+.header-branding h1.section-title,
+.hc-ft-columnists .ftc-item-head .ftc-name,
+.hc-ft-columnists .ftc-item-head .ftc-name a{
+ text-rendering:auto;
+}
+</style>
+
+</html>
+<!-- e src/business/templates/hearst/common/footer.tpl -->

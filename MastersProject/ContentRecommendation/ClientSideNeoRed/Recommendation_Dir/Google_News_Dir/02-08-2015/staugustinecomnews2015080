@@ -1,0 +1,1055 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=11" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIBV1NbGwAGUVNUBgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<title>Consumer sentiment dips in July in University of Michigan survey | StAugustine.com</title>
+<meta name="keywords" content="News" />
+<meta name="description" content="WASHINGTON — U.S. consumer sentiment slipped this month but remains at healthy levels, the University of Michigan said Friday.Michigan’s index of consumer sentiment fell to 93.1 in July from 96.1 the previous month.Richard Curtin, chief economist for the survey, blamed the drop on the “disappointing pace of economic growth.”On Thursday, the U.S. government reported that the economy rose at a steady but unspectacular annual rate of 2.3 percent from April to June." />
+<meta property="og:title" content="Consumer sentiment dips in July in University of Michigan survey"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://staugustine.com/news/2015-08-01/consumer-sentiment-dips-july-university-michigan-survey"/>
+<meta property="og:site_name" content="StAugustine.com"/>
+<meta property="og:description" content=" 
+WASHINGTON - U.S. consumer sentiment slipped this month but remains at healthy levels, the University of Michigan said Friday. 
+Michigan&#039;s index of consumer sentiment fell to 93.1 in July from 96.1 the previous month."/>
+<meta property="og:image" content="http://staugustine.com/sites/default/files/images/sms-default-facebook-share.png"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//sar-cdn.com" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Follow News" href="/taxonomy/term/1/2/feed" />
+<link rel="shortcut icon" href="http://sar-cdn.com/sites/default/files/fourteen_favicon_0.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//sar-cdn.com" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Follow News" href="/taxonomy/term/1/2/feed" />
+<link rel="shortcut icon" href="http://sar-cdn.com/sites/default/files/fourteen_favicon_0.ico" type="image/x-icon" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+     <script src='//www.googletagservices.com/tag/js/gpt.js'></script>
+	<script src='http://sar-cdn.com/cdn-static/nmt_data/nmt_data.js'></script>
+	<script src='http://sar-cdn.com/cdn-static/nmt_data/mbu/nmt_ads_sar.js'></script>
+<link type="text/css" rel="stylesheet" media="all" href="http://sar-cdn.com/sites/default/files/css/css_5e7ce71aa61f0e3115b3708fccdbd0fc.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://sar-cdn.com/sites/default/files/css/css_6da37d3c47c3c5f0a1125b877396a43e.css" />
+<script type="text/javascript" src="http://sar-cdn.com/sites/default/files/js/js_8f8478ac4cd9c72200e16f889d6c321a.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"Lightbox":{"fileLoadingImage":"\/sites\/all\/modules\/contrib\/jlightbox\/images\/loading.gif","fileBottomNavCloseImage":"\/sites\/all\/modules\/contrib\/jlightbox\/images\/closelabel.gif"},"msms_slideshows":{"apt:ad_north":"728x90_1","apt:ad_lrec":"300x250_1","apt:ad_inline":"300x250_1","apt:ad_comments":"","ga:company":"UA-6287136-1","ga:division":"UA-6365892-3","ga:mbu":"UA-6450631-12","ga:product":"UA-6302221-11"},"alert":{"transitionSpeed":"normal","transitionDuration":"8000"},"CToolsModal":{"closeText":"Close Window","closeImage":"\u003cimg src=\"http:\/\/sar-cdn.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\" alt=\"Close window\" title=\"Close window\" width=\"16\" height=\"16\" \/\u003e","throbber":"\u003cimg src=\"http:\/\/sar-cdn.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\" alt=\"Loading...\" title=\"Loading\" width=\"32\" height=\"32\" \/\u003e","backDropOpacity":".55","backDropColor":"#fff"},"follow-style":{"modalSize":{"type":"fixed","width":600,"height":550,"addWidth":3,"contentBottom":40},"modalOptions":{"opacity":0.3,"background-color":"#000"},"animation":"slideDown","closeText":"Close","closeImage":""},"fast_search_box":{"domain_name":["staugustine.com","staugustine.com"],"search_name":["search.staugustine.com","search.staugustine.com"]}});
+//--><!]]>
+</script>
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+<!-- provides stylesheet for css print funtion -->
+<link href="/sites/all/themes/whitelabel/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<!-- superfish menu -->
+</head>
+<body >
+<script type="text/javascript">
+  var utag_data={
+  nodeid: "111398",
+  author: "PAUL WISEMAN",
+  content_type: "editorial",
+  taxonomy: "News",
+  taxonomy_sections: "News"};
+  </script>
+  <script type="text/javascript">
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/mpg/staugustine.com/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<!--Begin Google Surveys-->
+<!--Google Surveys--> 
+<script type="text/javascript">
+if(document.cookie.indexOf('ppUser') == -1) {
+      (function() {
+        var ARTICLE_URL = window.location.href;
+        var CONTENT_ID = 'everything';
+        document.write(
+          '<scr'+'ipt '+
+          'src="//survey.g.doubleclick.net/survey?site=6030726835208192'+
+          '&amp;url='+encodeURIComponent(ARTICLE_URL)+
+          (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+
+          '&amp;random='+(new Date).getTime()+
+          '" type="text/javascript">'+'\x3C/scr'+'ipt>');
+      })();
+    }
+</script>
+<!--End Google Surveys-->
+<div id="wl-corner-peel-ad"> <div id="block-block-126" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<div id='div-gpt-ad-514228821436635671-oop' class='adslot' width='1'>
+<script type='text/javascript'>
+googletag.defineOutOfPageSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, 'div-gpt-ad-514228821436635671-oop')
+      .addService(googletag.pubads())
+      .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+      .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+      .setTargeting("ccc", NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();googletag.display('div-gpt-ad-514228821436635671-oop');
+</script>
+</div>			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+ </div>
+<!--
+<div id="very-top-menu">
+          <div class="header_wrapper">
+            <div class="left">
+              <ul class="very-top-menu">
+                <li><a href="http://staugustine.com" class="icon-text">&#9830;</a></li>
+                <li><a href="http://staugustine.com/allaccess"><span>All-Access</span></a></li>
+                <li><a href="http://staugustine.com/archive"><span>Archives</span></a></li>
+                <li><a href="http://staugustine.com/advertise"><span>Advertise</span></a></li>
+                <li><a href="http://staugustine.com/contact"><span>Contact Us</</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+-->
+<div id="wl-wrapper-container"> 
+  <!-- header -->
+  <div id="wl-wrapper-header">
+    <div class="wl-container">
+      <div class="wl-content"> 
+        <!-- weather header -->
+        <div class="weather-header">
+          <ul class="weather_list display_font">
+            <iframe scrolling="no" width="300px" height="80px" frameborder="0" src="http://multimedia.staugustine.com/weather_slider/EasyWeather/weather.html">Loading...</iframe>
+          </ul>
+        </div>
+        <!-- end weather header -->
+        <div class="wl-logoarea">
+                              <a href="/" title="StAugustine.com"><img src="http://sar-cdn.com/sites/default/files/path_logo/record_logo5.png" alt="StAugustine.com" title="StAugustine.com" width="318" height="114" class="wl-logo" /></a> </div>
+                <!-- /dashboard -->
+                <div id="wl-dashboard">
+          <div class="wl-content">
+                        <p class="comment-title">User/Comment Login</p>
+            <a href="/user/register" class="wl-dash" id="wl-dash-join" title="Register">Register</a> &nbsp;|&nbsp; <a href="/user/login?destination=node%2F111398" class="wl-dash" id="wl-dash-login" title="Login">Login</a> <br />
+            <a href="/user/password" class="wl-dash" id="wl-dash-password" title="Forgot Password?">Forgot Password?</a>                        <span class="wl-clear"></span> </div>
+          <!--<div id="wl-dash-subscibe">
+								<a href="http://216.116.253.23/cbwebstaugustine/TransactionType.asp" title="Subscribe To The Paper">Subscribe To The Paper</a>								<span class="wl-clear"></span>
+								<!-- | 							</div>
+								<div class="make-homepage">
+									<a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://staugustine.com');">Make StAugustine.com Your Homepage</a>
+								</div> -->
+          
+          <div class="all-access"><a style="color:#ffffff; border:solid 1px #FFFFFF;" class="all-access-link" href="/allaccess" title="All Access">ALL-ACCESS</a> <!--a style="color:#ffffff; border:solid 1px #FFFFFF;" class= "rewards-link" href="/subscription/rewards" title="Rewards">REWARDS</a--> <a style="color:#ffffff; border:solid 1px #FFFFFF;" class="join-link" href="/allaccess" title="Join">JOIN</a></div>
+        </div>
+        <!-- /end dashboard --> 
+
+
+<div id="google-custom-search">
+<form action="http://staugustine.com/search-results" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="018350439693521963140:iz1x2h4b-ic" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="querystring" size="31" id="q" />
+<input type="image" src="/sites/all/themes/whitelabel/images/search_box_icon.png" class="gsc-search-button gsc-search-button-v2" title="search" value="Search" name="sa">
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+						
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('search', '1');
+var autoCompletionOptions = {
+  'maxCompletions' : 6,
+  'styleOptions' : {
+	'xOffset' : 10
+}};
+	google.setOnLoadCallback(function() {
+	  google.search.CustomSearchControl.attachAutoCompletionWithOptions(
+	"018350439693521963140:iz1x2h4b-ic", document.getElementById('q'), 'cse-search-box',
+		autoCompletionOptions);
+	});
+	</script>
+	</div>
+
+ <span class="wl-clear"></span> </div>
+    </div>
+        <!-- Primary || Superfish -->
+    <div id="superfish">
+      <div id="superfish-inner">
+        <style type="text/css">
+#wl-wrapper-tier-4 {
+background-color: initial !important;
+height: 100px !important;
+}
+#wl-wrapper-footer {
+width: auto;
+background-color: #BF2A30;
+height: 3px !important;
+}
+</style><style type="text/css">
+H2.wl-label {
+color: #000000 !important;
+}
+</style><p><head></head></p>
+<link rel="stylesheet" type="text/css" href="premiumnav.css" />
+<style>
+#superfish #superfish-inner UL.menu LI A, #superfish #superfish-inner UL.menu LI A:visited {font-weight: 600 !important;}
+</style><p></p>
+<div id="premiumnav">
+<ul class="menu">
+<li class="active"><a href="http://staugustine.com/">Home</a></li>
+<li><a href="http://staugustine.com/news">News</a>
+<ul>
+<li><a href="http://staugustine.com/news/local-news">Local</a></li>
+<li><a href="http://staugustine.com/news/business">Business</a></li>
+<li><a href="http://staugustine.com/news/florida">Florida</a></li>
+<li><a href="http://staugustine.com/ap/national">National</a></li>
+<li><a href="http://www.legacy.com/obituaries/staugustine/">Obituaries</a></li>
+<li><a href="http://staugustine.com/obituary-submission-form">Submit Obituary</a></li>
+<li><a href="http://staugustine.com/ap/world">World</a></li>
+<li><a href="http://staugustine.com/jail-log">Jail Log</a></li>
+<li><a href="http://staugustine.com/opinions">Opinions</a></li>
+<li><a href="http://staugustine.com/police-report">Police Report</a></li>
+<li><a href="http://staugustine.com/politics">Politics</a></li>
+<li><a href="http://staugustine.com/news/school-news">Schools</a></li>
+<li><a href="http://staugustine.com/st-augustine-450th">St. Augustine 450th</a></li>
+<li><a href="http://staugustine.com/ap/technology">Technology</a></li>
+<li><a href="http://staugustine.com/visioning">City Visioning News</a></li>
+<li><a href="http://staugustine.com/weather">Weather</a></li>
+<li><a href="http://videos.staugustine.com">Videos</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/sports">Sports</a>
+<ul>
+<li><a href="http://staugustine.com/sports/local-sports">Local</a></li>
+<li><a href="http://staugustine.com/national-sports">National</a></li>
+<li><a href="http://staugustine.com/sports/high-school">High School</a></li>
+<li><a href="http://staugustine.com/sports/hsfootball">High School Football</a></li>
+<li><a href="http://staugustine.com/sports/hs-topics">High School Topics</a></li>
+<li><a href="http://staugustine.com/sports/outdoors">Outdoors</a></li>
+<li><a href="http://staugustine.com/sports/recreation">Recreation</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/entertainment">Entertainment</a>
+<ul>
+<li><a href="http://staugustine.com/entertainment/arts">Arts</a></li>
+<li><a href="http://staugustine.com/entertainment">Compass</a></li>
+<li><a href="http://events.staugustine.com/">Events Calendar</a></li>
+<li><a href="http://flalottery.com/">Florida Lottery</a></li>
+<li><a href="http://staugustine.com/entertainment/music">Music</a></li>
+<li><a href="http://staugustine.com/puzzles">Puzzles</a></li>
+<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=augustineack">TV Listings</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/living">Living</a>
+<ul>
+<li><a href="http://staugustine.com/living/celebrations-0">Celebrations</a>
+<ul>
+<li><a href="http://staugustine.com/living/celebrations-0">Read Celebrations</a></li>
+<li><a href="http://staugustine.com/engagement-announcement-form">Engagement Forms</a></li>
+<li><a href="http://staugustine.com/wedding-announcement-form-paid">Wedding Forms</a></li>
+<li><a href="http://staugustine.com/anniversary-announcement-form">Anniversary Forms</a></li>
+<li><a href="http://multimedia.staugustine.com/pdf/celebrations/birth_announcement_form.pdf">Birth Forms</a></li>
+<li><a href="http://staugustine.com/happy-first-birthday-announcement-form">First Birthday Forms</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/living/food">Food</a></li>
+<li><a href="http://staugustine.com/living/garden">Garden</a></li>
+<li><a href="http://staugustine.com/living/health">Health</a></li>
+<li><a href="http://staugustine.com/living/local-clubs">Local Clubs</a></li>
+<li><a href="http://staugustine.com/living/community">Community</a></li>
+<li><a href="http://staugustine.com/living/religion">Religion</a></li>
+<li><a href="http://staugustine.com/senior-life">Senior Life</a></li>
+<li><a href="http://staugustine.com/living/sunday-life">Sunday Life</a></li>
+<li><a href="http://staugustine.com/specialty-pubs">Community Publications</a></li>
+</ul>
+</li>
+<li><a href="http://visitstaug.com">Visitors</a>
+<ul>
+<li><a href="http://visitstaug.com/?cat=50">450th</a></li>
+<li><a href="http://visitstaug.com/?cat=105">Compass Go &amp; Do</a></li>
+<li><a href="http://www.visitstaug.com/?page_id=1512">Attractions</a></li>
+<li><a href="http://www.visitstaug.com/?page_id=1553">Recreation</a></li>
+<li><a href="http://www.visitstaug.com/?page_id=1519">Lodging</a></li>
+<li><a href="http://www.visitstaug.com/?page_id=1502">Dining</a></li>
+<li><a href="http://www.visitstaug.com/?page_id=1517">Shopping</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/classifieds/">Classifieds</a>
+<ul>
+<li><a href="http://staugustine.com/classifieds/design1/place_ad.html">Place An Ad</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=6249">Garage Sales</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=6120">Lost &amp; Found</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=6200">Merchandise</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=6300">Pets</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=1400Legals">Legal Advertising</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=7500">Business</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=7400">Commercial Real Estate</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=8000">Services</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=7406">Announcements</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;&region=2149&amp;catid=7000">Rentals</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;region=2149&amp;catid=7800">Autos</a></li>
+<li><a href="http://secure.adpay.com/searchresults.aspx?p=2149&amp;region=2149&amp;catid=7800">Recreation</a></li>
+<li><a href="http://multimedia.staugustine.com/Fictitous-Name-Form-4-15.pdf">Fictitious Name Form</a></li>
+</ul>
+</li>
+<li><a href="http://staugustine.com/contact">Resources</a>
+<ul>
+<li><a href="http://staugustine.com/resources/about/st-augustine.com">About Us</a></li>
+<li><a href="https://subscriberservices.morris.com/cbwebstaugustine/TransactionType.asp">Subscriber Services</a></li>
+<li><a href="http://staugustine.com/advertise">Advertise</a></li>
+<li><a href="http://staugustine.com/archive">Archive</a></li>
+<li><a href="http://local.staugustine.com/search/en-US/">Business Directory</a></li>
+<li><a href="http://staugustine.com/business-directory">Local Business Bio</a></li>
+<li><a href="http://staugustine.com/contact">Contact Us</a></li>
+<li><a href="http://staugustine.com/corrections">Corrections</a></li>
+<li><a href="http://staugustine.com/correction-request">Correction Request</a></li>
+<li><a href="http://multimedia.staugustine.com/Fictitous-Name-Form-4-15.pdf">Fictitious Name Form</a></li>
+<li><a href="http://staugustine.com/sex-predator-map-2015">Sex Predator Map</a></li>
+<li><a href="http://staugustine.com/hurricaneguide">Hurricane Guide</a></li>
+<li><a href="http://staugustine.com/resources/databases/lowest-gas-prices">Lowest Gas Prices</a></li>
+<li><a href="http://staugustine.com/interact">Interact</a></li>
+<li><a href="http://staugustine.com/newsroomstaff">Staff Directory</a></li>
+<li><a href="http://staugustine.com/obituary-submission-form">Submit Obituary</a></li>
+<li><a href="https://accounts.mypressplus.com/login.html">Press+ Account Info</a></li>
+</ul>
+</li>
+<li><a href="http://job-search.staugustine.com/?utm_source=staugustine.com&amp;utm_medium=NavBar&amp;utm_campaign=StAugustineJobfinder">Jobs</a><br />
+      <!--
+<ul> 
+
+<li><a href="#">Post Job Online</a></li>
+<p>
+
+<li><a href="#">Post Job Print</a></li>
+</p><p>
+
+<li><a href="#">Job Search</a></li>
+</p><p>
+
+<li><a href="#">Record Employment</a></li>
+</p><p>
+</p></ul>
+<p> -->
+    </p></li>
+<li><a href="http://homes.staugustine.com">Homes</a></li>
+<li><a href="http://eedition.staugustine.com">E-Edition</a></li>
+</ul>
+</div>
+      </div>
+      <!-- / inner --> 
+    </div>
+    <!-- /primary || superfish -->
+      </div>
+  <!-- advertising area -->
+  <div id="wl-wrapper-leaderboard">
+    <div class="wl-container">
+      <div class="wl-corners-top"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+      <div class="wl-content">
+                <div class="wl-pencil">
+	<div align="center" id='950x30_1' class='adslot' width='950'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[950,30]],'950x30_1')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['950x30_1'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('950x30_1');
+</script>
+</div><br /> 
+	<span class="wl-clear"></span>
+</div>
+
+<div class="wl-pencil">
+	<p></p>
+ 
+	<span class="wl-clear"></span>
+</div>
+
+                <span class="wl-clear"></span> <div class="wl-ad">
+	<div id='728x90_1' class='adslot' style=" position: relative;z-index: 50000;">
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[728,90]],'728x90_1')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['728x90_1'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('728x90_1');
+</script>
+</div></div>
+
+         <div class="weather-ad"> <div id="block-block-174" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<p><iframe scrolling="no" width="235px" height="95px" frameborder="0" id="wl-weather-frame" src="http://multimedia.staugustine.com/sponsors14/sar_230_slider_14.html" style="margin: 0px 0px 0px 10px; overflow:hidden;">Loading...</iframe></p>
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+ </div>
+        <span class="wl-clear"></span> </div>
+      <div class="wl-corners-bottom"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <!-- this clear is needed for IE7 -->
+    <!-- tier 1 -->
+  <div id="wl-wrapper-tier-1">
+    <div class="wl-container">
+      <div class="wl-corners-top"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+                  <div id="wl-page-utility">
+        <div class="wl-breadcrumb"><a href="/taxonomy/term/1">News</a></div><ul class="feeds"><li><a href="/taxonomy/term/1/2/feed" class="feed-icon"><img src="http://sar-cdn.com/misc/feed.png" alt="Syndicate content" title="RSS - Follow News" width="16" height="16" /></a></li></ul>  
+      </div>
+                  <div id="wl-col-1">
+        <div class="wl-content node-editorial">
+                                                                                          <div class="wl-story-header"><div class="wl-header-commands"><div class="wl-story-commands">
+	<ul class="wl-story-commands">
+	    <li class="wl-utility-item-0"><a href="/user/login?destination=node%2F111398"><input type="submit" name="Submit" value="Post a Comment" class="wl-postcomment"></a></li>
+  	<!-- AddThis API-->
+    <li class="wl-utility-item-3"><a class="addthis_button_email"></a></li>
+    <li class="wl-utility-item-4"><a class="addthis_button_twitter"></a></li>
+    <li class="wl-utility-item-4"><a class="addthis_counter addthis_pill_style"></a></li>
+	<li class="wl-utility-item-4"><a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a></li>
+	<li class="wl-utility-item-4"><a class="addthis_button_google_plusone"></a></li>
+	<script type="text/javascript">var addthis_config = {"data_track_clickback":true,"data_track_addressbar":true};
+			</script>
+    <!-- End of AddThis API-->
+	</ul>
+      <div class="follow-button"><a href="/node/111398/nojs/follow" class="ctools-use-modal ctools-modal-follow-style not-following" title="Get future updates about this article and related topics sent to your email."><span class="follow-label">Follow This Article</span><div class="follow-icon"></div></a></div>  	<span class="wl-clear"></span>
+</div>
+</div><span class="wl-clear"></span><div class="wl-title-block"><div class="wl-title"><h1>Consumer sentiment dips in July in University of Michigan survey</h1></div><div class="wl-subheadline"></div><div class="wl-dates"><span class="wl-startdate"><strong>Posted:</strong>&nbsp;August 1, 2015 - 10:44pm</span></div></div><span class="wl-clear"></span></div><span class="wl-clear"></span>                                        
+
+		<!-- Begin full page node view -->
+	<div id="wl-story">
+				        
+	<div class="p402_hide"><!--google surveys hide-->
+		
+        <div class="wl-midcolumn">
+			
+      <!--Begin Map Integration-->
+            <!--End Map Integration-->
+
+			<!-- Included Content -->
+							<div class="wl-content-include">
+									</div>
+						<!-- /Included Content -->
+
+			<!-- Begin Packaging Field-->
+						<!-- End Packaging Field-->
+
+
+		<!-- Related Links -->
+				<!--/Related Links-->
+
+						
+						<!-- output in-story ad block -->
+			<div class="wl-instory-ad">
+			<div id="block-block-131" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<div align="center" id='300x250_2' class='adslot'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300,250]],'300x250_2')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['300x250_2'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('300x250_2');
+</script>
+</div>
+<br>			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+			</div>
+			<!-- /end in-story ad block -->
+			
+
+
+
+			<!-- RSS Feeds -->
+						<!--/RSS Feeds-->
+		</div>
+</div><!--end google surveys hide-->
+		<div class="wl-body">
+			<div class="wl-byline">
+				By <a href="/authors/paul-wiseman">PAUL WISEMAN</a>			</div>
+						 <div class="wl-byline">
+				  ASSOCIATED PRESS			 </div>
+						<div class="p402_premium"><!--Google Surveys-->
+			
+<div class="hnews hentry item">
+	<div class="entry-content">
+<p />
+</p><p>WASHINGTON — U.S. consumer sentiment slipped this month but remains at healthy levels, the University of Michigan said Friday.</p>
+<p>Michigan’s index of consumer sentiment fell to 93.1 in July from 96.1 the previous month.</p>
+<p>Richard Curtin, chief economist for the survey, blamed the drop on the “disappointing pace of economic growth.”</p>
+<p>On Thursday, the U.S. government reported that the economy rose at a steady but unspectacular annual rate of 2.3 percent from April to June.</p>
+<p>Still, Curtin said the sentiment index has averaged 94.5 since December, the highest eight-month average since 2004. He attributed the healthy level of consumer optimism to “modestly positive news on jobs and wages.”</p>
+<p>The index was at 81.8 a year ago.</p>
+<p>Employers added a solid 223,000 jobs last month, and unemployment has dropped to a seven-year low 5.3 percent.</p>
+<p>“Gains in home prices and jobs have helped stabilize household wealth,” economists Maninder Sibia and Steven Wood of the Economic Advisory Service wrote in a research note. “But recent headlines about financial volatility in Greece and China may have left consumers with a less positive outlook after moderate increase last month.”</p>
+<p>On Tuesday, the Conference Board, a business research group, said its consumer confidence index dropped to the lowest level since September, attributing the plunge to worries about the outlook for jobs, the ongoing debt crisis in Greece and a stock-market freefall in China.</p>
+<p>The U.S. economy got off to a bad start this year, growing at an annual rate of just 0.6 percent from January through March, before gaining some momentum in the second quarter. </p>
+<p>Economists say the outlook is likely strong enough for the Federal Reserve to raise short-term interest rates later this year. The Fed has kept short-term rates near zero since December 2008.</p>
+<p />
+</p>
+	</div>
+</div>
+            </div><!--Google Surveys-->
+            <script type="text/javascript"> 
+          try { _402_Show(); } catch(e) {} 
+        </script>
+		</div>
+		
+		
+				
+		
+		<div class="wl-footer-story-commands">
+			<ul class="wl-story-commands">
+				<li class="wl-utility-item-0"><a href="/user/login?destination=node%2F111398"><input type="submit" name="Submit" value="Post a Comment" class="wl-postcomment"></a></li>
+	
+  			<!-- AddThis API-->
+			<li class="wl-utility-item-3"><a class="addthis_button_email"></a></li>
+			<li class="wl-utility-item-4"><a class="addthis_button_twitter"></a></li>
+			<li class="wl-utility-item-4"><a class="addthis_counter addthis_pill_style"></a></li>
+			<li class="wl-utility-item-4"><a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a></li>
+			<li class="wl-utility-item-4"><a class="addthis_button_google_plusone"></a></li>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true,"data_track_addressbar":true};</script>
+			<!-- End of AddThis API-->
+			</ul>
+      <div class="follow-button"><a href="/node/111398/nojs/follow" class="ctools-use-modal ctools-modal-follow-style not-following" title="Get future updates about this article and related topics sent to your email."><span class="follow-label">Follow This Article</span><div class="follow-icon"></div></a></div>  			<span class="wl-clear"></span>
+		</div>
+        
+	</div>
+	<!--/ End full page node view-->
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+ <div class="description"><div class="fivestar-summary fivestar-summary-user"><span class="user-rating">Your rating: <span>None</span></span></div></div>
+</div>
+</div>
+		
+	
+		<!--- code for next pre links -->
+    <div class="previous-next-links"><div id="arrow-left-shadow"></div><nav style="display:none;" class="key-nav" title="You can also use keyboard left arrow" id="page-navigation-pre" ><div class="arrow arrow-left">
+				<span class="visually-hidden">Go to the previous story</span>
+				<div class="arrow-conceal"></div>
+				</div><a href="/sports/college/2015-08-01">Bobby Hurley promises to bring passion to Arizon...</a></nav><div id="arrow-right-shadow"></div><nav style="display:none;" class="key-nav" title="You can also use keyboard right arrow" id="page-navigation-next" ><div class="arrow arrow-right">
+				<span class="visually-hidden">Go to the previous story</span>
+				<div class="arrow-conceal"></div>
+				</div><a href="/news/2015-08-01/devices-using-voice-recognition-technology-microphones-bring-more-privacy-concerns">Devices using voice-recognition technology, micr...</a></nav></div>      
+  
+      
+  <!--- end code for next pre links -->
+  
+  <script type="text/javascript">
+$(document).ready(function () {
+	   
+
+	var ht = $(document).height();	
+	$(document).scroll(function () {
+		
+		var y = $(this).scrollTop();
+		if (y > 200 && y < (ht-1000))
+		{
+			
+			$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').fadeIn();
+			$('.dpSocialBar_container').hide();
+		} 
+		else
+		{
+			
+			$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').fadeOut();
+			$('.dpSocialBar_container').show();
+		}
+	}); 
+ 
+    $(document).keydown(function(e) {
+        var url = false;
+        if (e.which == 37) {  // Left arrow key code
+
+
+            url = $('#page-navigation-pre a').attr('href');
+      
+        }
+        else if (e.which == 39) {  // Right arrow key code
+
+
+            url = $('#page-navigation-next a').attr('href');
+          
+        }
+        if (url) {
+           window.location = url;
+        }      
+               
+    });
+    
+    $('.key-nav').click(function(){
+		  
+		  window.location = $(this).find('a').attr('href');
+		  
+		  });
+		  
+   
+ 
+});
+</script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                    <div id="block-block-123" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<div align="center" id="yca-block"></div>
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+                  </div>
+      </div>
+            <div id="wl-col-2">
+        <div class="wl-content"> <div id="block-block-130" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<br>
+<div align="center" id='300x250_1' class='adslot'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300,250]],'300x250_1')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['300x250_1'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('300x250_1');
+</script>
+</div><br>			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-sms_block-1" class="wl-block block-sms_block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					  <h2 class="wl-title">
+      		    <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-cap" />		          		          Most Viewed 		       </h2>
+						<div class="wl-inside">
+	 		
+<div class="sms-block">
+<ul>
+<li>
+<a href="/sports/local-sports/2015-07-31/jaguars-notebook-clemons-arrives-doesnt-participate">Jaguars notebook: Clemons arrives, but doesn&#039;t participate</a>&nbsp;<b>12:20am</b>
+</li>
+<li>
+<a href="/sports/2015-07-30/phillies-agree-trade-cole-hamels-rangers">Phillies agree to trade Cole Hamels to Rangers</a>&nbsp;<b></b>
+</li>
+<li>
+<a href="/opinions/2015-08-01/kathleen-parker-three-stooges-presidential-hopefuls">Kathleen Parker: Three stooges of presidential hopefuls </a>&nbsp;<b>12:05am</b>
+</li>
+<li>
+<a href="/news/national-news/2015-07-31/andrew-young-speaks-fellows-program-launched-obama">Andrew Young speaks to fellows of program launched by Obama </a>&nbsp;<b></b>
+</li>
+</ul>
+</div>
+
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-sms_block-3" class="wl-block block-sms_block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					  <h2 class="wl-title">
+      		    <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-cap" />		          		          Recent Comments		       </h2>
+						<div class="wl-inside">
+	 		
+
+<div class="sms-block">
+<ul>
+<li>
+<a href="/opinions/2015-08-01/letter-sanctuary-lost#comment-135775">Part of this has been said before...</a></li>
+<li>
+<a href="/opinions/2015-08-01/carl-hiaasen-we-sit-and-wait-next-massacre#comment-135774">Thugs and islamoterrorists </a></li>
+<li>
+<a href="/opinions/2015-08-01/carl-hiaasen-we-sit-and-wait-next-massacre#comment-135773">John,</a></li>
+</ul>
+</div>
+
+
+
+
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-sms_block-2" class="wl-block block-sms_block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					  <h2 class="wl-title">
+      		    <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-cap" />		          		          Most Commented		       </h2>
+						<div class="wl-inside">
+	 		
+<div class="sms-block">
+<ul>
+<li>
+<a href="/opinions/2015-08-01/carl-hiaasen-we-sit-and-wait-next-massacre">Carl Hiaasen: We sit and wait for the next massacre</a>&nbsp;<b></b>
+</li>
+<li>
+<a href="/news/local-news/2015-07-30/st-johns-county-man-makes-amends-after-posing-us-navy-veteran">St. Johns County man pleads no contest after posing as a U.S. Navy veteran</a>&nbsp;<b></b>
+</li>
+<li>
+<a href="/opinions/2015-08-01/letter-sanctuary-lost">Letter: Sanctuary lost?</a>&nbsp;<b></b>
+</li>
+</ul>
+</div>
+
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-sms_block-4" class="wl-block block-sms_block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					  <h2 class="wl-title">
+      		    <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-cap" />		          		          Highest Rated		       </h2>
+						<div class="wl-inside">
+	 		
+<div class="sms-block">
+<ul>
+<li>
+<a href="/news/local-news/2015-07-30/st-johns-county-man-makes-amends-after-posing-us-navy-veteran">St. Johns County man pleads no contest after posing as a U.S. Navy veteran</a>&nbsp;<b></b>
+</li>
+<li>
+<a href="/opinions/2015-08-01/letter-sanctuary-lost">Letter: Sanctuary lost?</a>&nbsp;<b></b>
+</li>
+<li>
+<a href="/opinions/2015-08-01/carl-hiaasen-we-sit-and-wait-next-massacre">Carl Hiaasen: We sit and wait for the next massacre</a>&nbsp;<b></b>
+</li>
+</ul>
+</div>
+
+			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-block-136" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<div align="center" id='300x600_2' class='adslot'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300, 600], [160, 600]], '300x600_2')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['300x600_2'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('300x600_2');
+</script>
+</div>			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+<div id="block-block-177" class="wl-block block-block">
+	  <div class="wl-container">
+		<div class="wl-corners-top">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	 	<div class="wl-content">
+	 					<div class="wl-inside">
+	 		<div align="center">
+<div id='300x250_adsense' class='adslot footer_ad_300_left_rail'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300,250]],'300x250_adsense')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['300x250_adsense'])
+    .setTargeting('google_page_url','http://' + location.hostname)
+    .setTargeting("g", utag_data.gender)
+    .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+    .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('300x250_adsense');
+</script>
+</div>
+</div>			</div>
+      	 	</div>
+		<div class="wl-corners-bottom">
+			<img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" />			<span class="wl-clear"></span>
+		</div>
+	</div> 
+	<span class="wl-clear"></span>
+</div> 
+ </div>
+      </div>
+            <span class="wl-clear"></span>
+      <div class="wl-corners-bottom"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+    </div>
+  </div>
+  <!-- /teir 1 -->
+    <span class="wl-clear"></span> </div>
+<!-- ad footer -->
+<div id="wl-wrapper-tier-4">
+  <div class="wl-container">
+    <div class="wl-corners-top"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+    <div class="wl-content"> <div class="wl-ad">
+	<div align="center" id='728x90_2' class='adslot'>
+<script type='text/javascript'>
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[728,90]],'728x90_2')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['728x90_2'])
+    .setTargeting("g", utag_data.gender) .setTargeting("age", NMTdata.data.yearToAge(utag_data.birthdate))
+     .setTargeting("Taxonomy", utag_data.taxonomy).setTargeting('pplogin', $.cookie('ppUser')? 'y': 'n')
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('728x90_2');
+</script>
+</div>	<span class="wl-clear"></span>
+</div>
+
+<div class="wl-ad">
+	<script type="text/javascript">
+$(document).ready(function(){
+
+
+$('#edit-subject,#edit-comment').focus(function(){
+	  
+	  $(document).unbind('keydown');
+	  
+	  });
+	  
+	  $('#edit-subject,#edit-comment').blur(function(){
+	  
+	      $(document).keydown(function(e) {
+				var url = false;
+				if (e.which == 37) {  // Left arrow key code
+
+
+					url = $('#page-navigation-pre a').attr('href');
+			  
+				}
+				else if (e.which == 39) {  // Right arrow key code
+
+
+					url = $('#page-navigation-next a').attr('href');
+				  
+				}
+				if (url) {
+				   window.location = url;
+				}      
+               
+			});
+	  
+	  }); 
+	$(window).resize(function(){  
+					$(document).unbind('scroll');
+                              var ht = $(document).height();	
+
+			  var screen_size = $(window).width();
+				var y = $(this).scrollTop();
+		if (y > 200 && y < (ht-1500) && screen_size > 1150)
+				{
+					$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').fadeIn();
+				} 
+				else
+				{
+					
+					$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').hide();
+				}
+	$(document).scroll(function () {
+		
+		var y = $(this).scrollTop();
+		if (y > 200 && y < (ht-1000) && screen_size > 1150)
+		{
+			
+			$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').fadeIn();
+			$('.dpSocialBar_container').hide();
+		} 
+		else
+		{
+			
+			$(' .key-nav, #arrow-left-shadow, #arrow-right-shadow ').hide();
+			$('.dpSocialBar_container').show();
+		}
+
+	       }); 
+         });
+   });
+</script>	<span class="wl-clear"></span>
+</div>
+
+ </div>
+    <div class="wl-corners-bottom"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+  </div>
+</div>
+<!-- /ad footer -->
+<!-- footer -->
+<div id="wl-wrapper-footer">
+  <div class="wl-container">
+    <div class="wl-corners-top"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+    <div class="wl-content"> 
+      <div id="wrapper"> 
+        <!-- This property triggers jquery cookie slider -->
+        <div id="panel"> 
+          <!-- This property triggers jquery cookie slider --> 
+           <div id="reqs" align="center"></div>
+<div><br></div><style type="text/css">
+#wl-wrapper-header #wl-dashboard #wl-dash-subscibe a { font-weight:normal; line-height:1; }
+html body a > .sf-sub-indicator, html body a:focus > .sf-sub-indicator, html body a:hover > .sf-sub-indicator, html body a:active > .sf-sub-indicator, html body li.sfHover > a > .sf-sub-indicator { background-position:-210px -585px; right:15px; top:7px;}
+/* #superfish #superfish-inner ul.menu li.expanded { color:#ED8D03; margin-right:0.3em; } */
+#superfish #superfish-inner ul.menu li { color:#ED8D03; margin-right:1.5em; }
+#wl-wrapper-header #wl-dashboard { float:left; left:730px; position:absolute; text-align:center; top:27px; width:235px; }
+#wl-corner-peel-ad .wl-container { margin: 0 auto; }
+#wl-corner-peel-ad img.wl-corner-right { height: 0; }
+#wl-corner-peel-ad .wl-container .wl-corners-top, #wl-corner-peel-ad .wl-container .wl-corners-bottom  { height: 0; }
+#comments h1 { font-size: 32px; float: left; }
+.disclosure-for-comments { clear: both; padding-bottom: 1em; }
+.horizontal-swap-image, .horizontal-contents { float: left; }
+.horizontal-swap-image { padding-right: 12px; }
+#wl-wrapper-leaderboard .wl-ad label { display: none; }
+</style> </div>
+      </div>
+      <!-- END #wrapper --> 
+    </div>
+    <div class="wl-corners-bottom"> <img src="http://sar-cdn.com/sites/all/themes/fourteen/images/blank.gif" alt="" title="" width="1" height="1" class="wl-corner-right" /> <span class="wl-clear"></span> </div>
+  </div>
+  <div id="wl-legal">
+    <p>St. Augustine Record &copy;2015.  All Rights Reserved.</p>
+    <ul class="menu"><li class="leaf first"><a href="/" title="Home">Home</a></li>
+<li class="leaf"><a href="/resources/privacy">Privacy Policy</a></li>
+<li class="leaf"><a href="/contact">Contact Us</a></li>
+<li class="leaf"><a href="/resources/posting-rules">Posting Rules</a></li>
+<li class="leaf"><a href="http://m.jobs.staugustine.com/jobs/search?skipDeviceDetection=true">Find St. Augustine Jobs</a></li>
+<li class="leaf"><a href="http://clicks.skem1.com/signup/?c=kelPN">Newsletter</a></li>
+<li class="leaf"><a href="http://multimedia.staugustine.com/mobile-apps/index.html">Mobile Apps</a></li>
+<li class="leaf"><a href="https://subscriberservices.morris.com/cbwebstaugustine/TransactionType.asp">Subscriber Services</a></li>
+<li class="leaf last"><a href="http://staugustine.com/allaccess">All-Access Support Line: 1-866-471-4909</a></li>
+</ul> <span class="wl-clear"></span> </div>
+</div>
+<!-- /footer --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.min.js?3":true,"\/misc\/drupal.js?3":true,"\/sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js?3":true,"\/sites\/all\/modules\/contrib\/jlightbox\/js\/jlightbox.uncompressed.js?3":true,"\/sites\/all\/modules\/features\/msms_slideshows\/lib\/ultimateslider\/bin\/ultimateslider.min.js?3":true,"\/sites\/all\/modules\/features\/msms_slideshows\/js\/app.min.js?3":true,"\/sites\/all\/modules\/morris\/alert\/alert.fade.js?3":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js?3":true,"\/misc\/jquery.form.js?3":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/dimensions.js?3":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/mc.js?3":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js?3":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/modal.js?3":true,"\/sites\/all\/modules\/morris\/notifications_subscribe\/js\/ajax-commands.js?3":true,"\/sites\/all\/themes\/whitelabel\/sf\/js\/jquery.inview.js?3":true},"css":{"\/sites\/all\/modules\/morris\/breakouts\/breakouts.css?3":true,"\/modules\/aggregator\/aggregator.css?3":true,"\/modules\/node\/node.css?3":true,"\/modules\/poll\/poll.css?3":true,"\/modules\/system\/defaults.css?3":true,"\/modules\/system\/system.css?3":true,"\/modules\/system\/system-menus.css?3":true,"\/modules\/user\/user.css?3":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css?3":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css?3":true,"\/sites\/all\/modules\/contrib\/date\/date.css?3":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.css?3":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/timeentry.css?3":true,"\/sites\/all\/modules\/contrib\/domain\/domain_nav\/domain_nav.css?3":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css?3":true,"\/sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css?3":true,"\/sites\/default\/files\/fivestar\/outline\/outline.css?3":true,"\/misc\/farbtastic\/farbtastic.css?3":true,"\/sites\/all\/modules\/contrib\/calendar\/calendar.css?3":true,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css?3":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css?3":true,"\/sites\/all\/modules\/contrib\/views\/css\/views.css?3":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/modal.css?3":true,"\/sites\/all\/modules\/morris\/notifications_subscribe\/css\/subscribe_modal.css?3":true,"\/modules\/comment\/comment.css?3":true,"\/sites\/all\/themes\/whitelabel\/css\/whitelabel.css?3":true,"\/sites\/all\/themes\/fourteen\/css\/style.css?3":true,"\/sites\/all\/themes\/whitelabel\/sf\/css\/superfish.css?3":true,"\/sites\/all\/themes\/fourteen\/css\/st_augustine.css?3":true,"\/sites\/all\/themes\/fourteen\/css\/editorial_styles.css?3":true,"\/sites\/all\/themes\/fourteen\/css\/dpSocialBar.css?3":true,"\/sites\/all\/themes\/fourteen\/css\/premiumnav.css?3":true,"\/sites\/all\/modules\/features\/msms_slideshows\/lib\/ultimateslider\/bin\/ultimateslider.min.css?3":true,"\/sites\/all\/modules\/contrib\/jlightbox\/css\/jlightbox.css?3":true}}});
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"a8b68eb780","applicationID":"3652615","transactionName":"NFdWZUdSChEEVUReVg0ddVJBWgsMSltDWko8QVhYUVYXCgpBQ2hLDEdAVEdsCg0BU29HWARXa0dcVhM=","queueTime":0,"applicationTime":726,"ttGuid":"","agentToken":"","atts":"GBBVEw9IGR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+<!-- Social Side Bar --->
+<script type="text/javascript"> 
+ 		$(document).ready(function(){
+			$.dpSocialBar({
+				items: {
+					twitter: { url: 'http://twitter.com/staugrecord', text: 'Follow on <strong>twitter</strong>' },
+					facebook: { url: 'http://www.facebook.com/StAugustineRecord', text: 'Follow on <strong>facebook</strong>' },
+					contact: { url: 'http://staugustine.com/contact', text: '<strong>Contact</strong> Us' },
+					youtube: { url: 'http://www.youtube.com/user/StAugustineRecord', text: 'Visit our <strong>YouTube</strong> Channel' },
+					pinterest: { url: 'http://www.pinterest.com/staugrecord/', text: 'Follow on <strong>pinterest</strong>' },
+					instagram: { url: 'http://instagram.com/staugustinerecord', text: 'Follow on <strong>Instagram</strong>' },
+				},
+				show: 6,
+				move: 2,
+				position: "left",
+				skin: "clear"
+			});
+			
+		});
+	</script>
+</html>

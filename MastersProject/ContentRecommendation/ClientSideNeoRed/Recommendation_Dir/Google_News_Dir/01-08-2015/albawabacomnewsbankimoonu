@@ -1,0 +1,850 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+<script>window.mrf={host:"bc.marfeel.com",dt:3},function(e,t,o,i,a,n,r){function d(){x&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var x=!/marfeelgarda=no|fromt=yes/i.test(n+";"+a);if((/(ipad.*?OS )(?!1_|2_|3_|4_0|4_1|4_2|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(i)&&2&r.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_0|4_1|4_2|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(i)&&1&r.dt||/marfeelgarda=off/i.test(n))&&t===t.top){x&&e.write('<plaintext style="display:none">');var l="script",m=setTimeout(d,1e4),c=e.createElement(l),f=e.getElementsByTagName(l)[0];c.src="//"+r.host+"/statics/marfeel/gardac.js",c.onerror=d,c.onload=function(){clearTimeout(m)},f.parentNode.insertBefore(c,f)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="UN Secretary-General Ban Ki-moon expressed concern Monday about the recently heightened tensions between Turkey and the PKK group.&quot;[Ban] calls on all concerned to refrain from returning to a deadly conflict which has in the past brought so much suffering and grief to the people of Turkey&quot;, according to a statement from his spokesperson&#039;s offic" />
+<script type='text/javascript' src='/sites/default/files/addthis/addthis_widget.js#async=1'></script>
+<meta property="og:title" content="Ban Ki-moon urges restraint amid Turkey-PKK tensions"/>
+<meta property="og:site_name" content="Al Bawaba"/>
+
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//albawabacdn.albawabamiddleea.netdna-cdn.com" />
+<link rel="shortcut icon" href="http://www.albawaba.com/sites/default/files/ab_favicon.ico" type="image/x-icon" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.albawaba.com/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908" />
+<meta property="fb:app_id" content="238670832892630" />
+<meta property="og:description" content="Ban Ki-moon urges restraint amid Turkey-PKK tensions" />
+      	<meta name="REVISIT-AFTER" content="1 DAYS" />
+		<meta name="RATING" content="GENERAL" />
+				<meta name="Headline" content="Ban Ki-moon urges restraint amid Turkey-PKK tensions | Al Bawaba" />
+		       <!-- <meta name="google-site-verification" content="Yqsn6sCBOHGrHOfLMJm1MTrjVs3quV6EI0mKvRD17YM" />-->
+        <meta name="google-site-verification" content="3l4afL0tuCF_71T5Ac8vnqHbxYc_4tgEHpPykYsKlCQ" />
+<meta name="p:domain_verify" content="3c18596daf4e4e885381d145ed04f28d"/>
+		<meta property="og:image" content="http://www.albawaba.com/sites/default/files/im/807344-secretaire-general-onu-ban-ki.jpg" />
+	<meta property="fb:page_id" content="145270758819050">
+	        <link rel="image_src" href="http://www.albawaba.com/sites/default/files/im/807344-secretaire-general-onu-ban-ki.jpg" />
+<meta property="article:published_time" content="2015-07-28T07:00:00+01:00" />      <title>Ban Ki-moon urges restraint amid Turkey-PKK tensions | Al Bawaba</title>
+      <!-- CSS aggregated by CDN module. -->
+<link type="text/css" rel="stylesheet" media="all" href="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/css/cdn_css_http_3b5c228f527c1ae5876a2f098aa225dd_views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/css/cdn_css_3b5c228f527c1ae5876a2f098aa225dd.css" />
+<!-- CSS aggregated by CDN module. -->
+      
+<!--[if lt IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+      <script type="text/javascript" src="http://www.albawaba.com/sites/default/files/js/js_1a550def1979aba888c9dc7d8fe8c789.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","comments_module_path":"\/sites\/all\/modules\/ab_comments","max_length":500,"max_levels":2,"no_comments":"No Comments yet for this article","share_comment":"Share Comment","current_lang":"en","base_path":"\/","arg":["node","723908"],"countries":{"json_url":"sites\/all\/modules\/ab_weather\/countries_list.txt"},"current_language":"en","weather_module_path":"\/sites\/all\/modules\/ab_weather","addthis":{"config_default":{"services_toolbox":"share_compact","services_compact":"facebook, twitter, reddit, google, linkedin","services_expanded":"","ui_cobrand":"","ui_header_color":"#000000","ui_header_background":"#FFFFFF","ui_click":true,"ui_delay":"0","ui_use_addressbook":0,"pubid":"xa-4e2cfd1147868c4e","data_track_clickback":0,"data_track_addressbar":0,"data_ga_tracker":0,"ui_use_css":true,"data_use_cookies":true,"ui_language":"en","data_use_flash":true},"share_default":{"templates":{"twitter":"{{title}} {{url}} via @Albawaba"}}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":5,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"737373","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":1,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Video !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":1,"slideshow_automatic_exit":1,"show_play_pause":1,"pause_on_next_click":0,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"nice_menus_options":{"delay":"800","speed":"slow"},"swflang":"en","jcarousel":{".editors-jcarousel #editors-jcarousel":{"vertical":false,"scroll":4,"horizontalDirection":"ltr","itemFirstInCallback":"latesteditorcarousel_itemFirstInCallback","itemLastInCallback":"latesteditorcarousel_itemLastInCallback","skin":"tango"},".also-jcarousel #also-jcarousel":{"vertical":false,"scroll":5,"horizontalDirection":"ltr","itemFirstInCallback":"alsocarousel_itemFirstInCallback","itemLastInCallback":"alsocarousel_itemLastInCallback","skin":"tango"}},"quicktabs":{"qt_accordion":{"tabs":[{"bid":"views_delta_most_popular-block_2","hide_title":1,"title":"Most Popular","weight":"-100","type":"block"},{"bid":"views_delta_most_discussed-block_2","hide_title":1,"title":"Most Discussed","weight":"-99","type":"block"},{"bid":"contact_form_blocks_delta_1","hide_title":1,"title":"Contact the Editor","weight":"-98","type":"block"}]}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+addthis_config = Drupal.settings.addthis.config_default; addthis_share = Drupal.settings.addthis.share_default;
+//--><!]]>
+</script>
+  <script type="text/javascript">
+              window._taboola = window._taboola || [];
+              _taboola.push({article:'auto'});
+              !function (e, f, u) {
+                  e.async = 1;
+                  e.src = u;
+                  f.parentNode.insertBefore(e, f);
+              }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/albawaba/loader.js');
+          </script>
+            <script>
+  (function (w, d) {
+    var s1 = d.getElementsByTagName('script')[0],
+        s = d.createElement('script');
+        s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+        cid = '302';
+    if (s.addEventListener) {
+      s.addEventListener('load', function () {
+          w.TRUE_ANTHEM.configure(cid);
+      }, false);
+    } else {
+      s.onreadystatechange = function () {
+        if (s.readyState in {loaded: 1, complete: 1}) {
+          s.onreadystatechange = null;
+          w.TRUE_ANTHEM.configure(cid);
+        }
+      };
+    }
+    s1.parentNode.insertBefore(s, s1);
+  }(window, document));
+</script>
+
+</head>
+  <body  class="page-node page-article page-node-view anonymous-user          right news-article" id="page-node-723908">
+  	<script type="text/javascript">
+    	var _em_direct_mode=1;
+	</script>
+  <script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+
+<noscript>
+<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+    <div id="wrapper">
+            <div class="top-menu">
+          <div class="top-menu-wrapper" >
+              <div class="top-menu-width">
+                  <div id="above-header-left"><div id="block-block-16" class="block block-block block-even region-odd clearfix rss-class ">
+    <div class="content">
+    <div class="feed-icon clearfix">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=567119573393880&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!--<h3><a href="/en/rss">RSS</a></h3>-->
+<div style="float:left;width: 85px; height: 20px;"><div class="fb-like" data-href="https://www.facebook.com/AlBawabaNews" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div>
+<a href="https://twitter.com/AlBawabaEnglish" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="true">Follow</a>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>   
+<div class="follow-us">
+<a href="https://www.facebook.com/AlBawabaNews?v=wall" target="_blank"><span class="face_icon"></span></a>
+
+<a href="http://twitter.com/#!/AlBawabaEnglish" target="_blank"><span class="twitter_icon"></span></a>
+<a href="https://plus.google.com/u/0/116289158315079107971/posts" target="_blank"><span class="google_icon"></span></a>
+<a href="/en/rss"><span class="rss-icon"></span></a>
+</div>
+<!--<a class="icon-text" href="https://www.facebook.com/AlBawabaNews?v=wall" target="_blank">Join us</a>-->
+
+
+<!--<a class="icon-text" href="http://twitter.com/#!/AlBawabaEnglish" target="_blank">Follow us</a>-->
+
+
+</div>   </div>
+</div>
+<!-- /block.tpl.php --></div>
+                  <div id="above-header-right"><div id="block-search-0" class="block block-search block-odd region-odd clearfix  ">
+    <div class="content">
+    <form action="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item form-item-textfield" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-QnsKAQm8lJMUkqb3U6KwoWLILf1CYsJufxu8JOp3CuE" value="form-QnsKAQm8lJMUkqb3U6KwoWLILf1CYsJufxu8JOp3CuE"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-nice-menus-3" class="block block-nice-menus block-even region-even clearfix top-right-menu ">
+    <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-3"><li class="menu-2423 menu-path-albawabacom-ar first  odd "><a href="http://www.albawaba.com/ar" title="">بالعربيه</a></li>
+<li class="menu-17578 menu-path-user-login even  last "><a href="#" onclick="social_login_check(); return false;" title="">Log In</a></li>
+</ul>
+  </div>
+</div>
+<!-- /block.tpl.php --></div>
+              </div>
+          </div>
+      </div>
+          <div id="header" class="layout-region">
+      <div id="header-inner">
+                        <!--	    <a href="" title="" id="logo"><img style="margin-top: 3px;" src="" alt="" /></a> -->
+	                      <div class="channel-name">
+                <a href="/en" title="Al Bawaba" id="logo"><img src="/sites/all/themes/sky/new_logo1.gif" alt="Al Bawaba" /></a>
+                <div id="block-block-15" class="block block-block block-odd region-odd clearfix  ">
+    <div class="content">
+    <img src="/sites/all/themes/sky/images/channel.14.gif" title="NEWS" alt="NEWS" />  </div>
+</div>
+<!-- /block.tpl.php -->            </div>
+                                            <div class="google-search-bloack"><div id="block-block-9" class="block block-block block-odd region-odd clearfix adzone-content ">
+    <div class="content">
+    <!-- BEGIN ADVERTPRO ADVANCED CODE BLOCK -->
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ads.albawaba.com/advertpro/servlet/view/banner/javascript/zone?zid=257&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script>
+<!-- END ADVERTPRO ADVANCED CODE BLOCK -->  </div>
+</div>
+<!-- /block.tpl.php --></div>
+              </div>
+    </div>
+        
+          <div id="navigation"><div id="block-nice-menus-1" class="block block-nice-menus block-odd region-odd clearfix country-down-menu ">
+    <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-9393 menuparent menu-path-taxonomy-term-36 first  odd  last "><span>Country Specific News</span><ul><li class="menu-2274 menu-path-taxonomy-term-18 first  odd "><a href="/algeria" title="">Algeria</a></li>
+<li class="menu-2277 menu-path-taxonomy-term-21 even "><a href="/bahrain" title="">Bahrain</a></li>
+<li class="menu-2278 menu-path-taxonomy-term-27 odd "><a href="/egypt" title="">Egypt</a></li>
+<li class="menu-2280 menu-path-taxonomy-term-32 even "><a href="/iran" title="">Iran</a></li>
+<li class="menu-2295 menu-path-taxonomy-term-33 odd "><a href="/iraq" title="">Iraq</a></li>
+<li class="menu-2281 menu-path-taxonomy-term-36 even "><a href="/jordan" title="">Jordan</a></li>
+<li class="menu-2288 menu-path-taxonomy-term-50 odd "><a href="/saudi" title="">KSA</a></li>
+<li class="menu-2282 menu-path-taxonomy-term-37 even "><a href="/kuwait" title="">Kuwait</a></li>
+<li class="menu-2283 menu-path-taxonomy-term-38 odd "><a href="/lebanon" title="">Lebanon</a></li>
+<li class="menu-2296 menu-path-taxonomy-term-40 even "><a href="/libya" title="">Libya</a></li>
+<li class="menu-2284 menu-path-taxonomy-term-43 odd "><a href="/morocco" title="">Morocco</a></li>
+<li class="menu-2285 menu-path-taxonomy-term-46 even "><a href="/oman" title="">Oman</a></li>
+<li class="menu-2286 menu-path-taxonomy-term-47 odd "><a href="/palestine" title="">Palestine</a></li>
+<li class="menu-2287 menu-path-taxonomy-term-48 even "><a href="/qatar" title="">Qatar</a></li>
+<li class="menu-2289 menu-path-taxonomy-term-54 odd "><a href="/sudan" title="">Sudan</a></li>
+<li class="menu-2290 menu-path-taxonomy-term-56 even "><a href="/syria" title="">Syria</a></li>
+<li class="menu-2291 menu-path-taxonomy-term-57 odd "><a href="/tunisia" title="">Tunisia</a></li>
+<li class="menu-2293 menu-path-taxonomy-term-59 even "><a href="/uae" title="">UAE</a></li>
+<li class="menu-2294 menu-path-taxonomy-term-62 odd  last "><a href="/yemen" title="">Yemen</a></li>
+</ul>
+</li>
+</ul>
+  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-menu-menu-en-channel-menu" class="block block-menu block-even region-even clearfix style-menu  ">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">HOME</a></li>
+<li class="leaf"><a href="/news" title="">NEWS</a></li>
+<li class="leaf"><a href="/business" title="">BUSINESS</a></li>
+<li class="leaf"><a href="/entertainment" title="">ENTERTAINMENT</a></li>
+<li class="leaf"><a href="/sport" title="">SPORTS</a></li>
+<li class="leaf"><a href="/weather" title="">WEATHER</a></li>
+<li class="leaf"><a href="/editors-choice" title="">EDITOR'S CHOICE</a></li>
+<li class="leaf"><a href="/the-loop" title="">THE LOOP</a></li>
+<li class="leaf"><a href="/mena-voices" title="">MENA VOICES</a></li>
+<li class="leaf"><a href="http://www.sharekna.com" title="">SHAREKNA</a></li>
+<li class="leaf last"><a href="http://blogs.albawaba.com/en/" title="Al Bawaba Blogs">BLOGS</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php --> </div>
+    
+      
+
+          <div class="breadcrumb clearfix"><div id="breadcrumbs" class="clearfix"><a Href="/en">Home</a> &raquo; <a Href='/news' Class='active'>News</a> &raquo; <a Href='/news/main-headlines' Class='active'>Main Headlines</a> &raquo; Ban Ki-moon Urges Restraint Amid Turkey-pkk Tensions</div></div>
+    
+                          <div id="contentarticletop"><div id="block-main-headlines-carousel-19" class="block block-main-headlines-carousel block-odd region-odd clearfix also-channel ">
+      <h3 class="title">ALSO IN <a href="/news">News</a></h3>
+    <div class="content">
+    <div class="also-number"><span class="first-also">1</span> - <span class="last-also">5</span><span> OF 15</span></div><div class="pane-content-container also-jcarousel"><ul class="article-images" id="also-jcarousel"><li><a href="/news/un-1332-die-iraq-violence-july-725572" title="The death toll includes 844 civilians and 488 Iraqi security forces. Image used for illustrative purposes. (Al Bawaba/File)" alt="The death toll includes 844 civilians and 488 Iraqi security forces. Image used for illustrative purposes. (Al Bawaba/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/car_bomb_iraq_afp.jpg" class="" alt="The death toll includes 844 civilians and 488 Iraqi security forces. Image used for illustrative purposes. (Al Bawaba/File)" /></a><div class="also-title-slider"><a href="/news/un-1332-die-iraq-violence-july-725572">UN: 1332 die in Iraq violence in July</a></div></li><li><a href="/news/daesh-commander-killed-egyptian-forces-sinai-725570" title="Egyptian soldiers stand guard in Sinai. (Al Bawaba/File)" alt="Egyptian soldiers stand guard in Sinai. (Al Bawaba/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/Syria/egyptian_army_sinai_afp.jpg" class="" alt="Egyptian soldiers stand guard in Sinai. (Al Bawaba/File)" /></a><div class="also-title-slider"><a href="/news/daesh-commander-killed-egyptian-forces-sinai-725570">Daesh commander killed by Egyptian forces in Sinai</a></div></li><li><a href="/news/yemen-pm-khaled-bahah-returns-aden-exile-725552" title="Yemeni Prime Minister Khaled Bahah was in exile in Saudi Arabia for four months. (Al Bawaba/File)" alt="Yemeni Prime Minister Khaled Bahah was in exile in Saudi Arabia for four months. (Al Bawaba/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/khaled_bahah_yemen_afp.jpg" class="" alt="Yemeni Prime Minister Khaled Bahah was in exile in Saudi Arabia for four months. (Al Bawaba/File)" /></a><div class="also-title-slider"><a href="/news/yemen-pm-khaled-bahah-returns-aden-exile-725552">Yemen PM Khaled Bahah returns to Aden from exile</a></div></li><li><a href="/news/israel-forces-shoot-dead-palestinian-teenager-amid-clashes-over-arson-attack-725508" title="Israeli forces throw tear gas canisters towards Palestinians protesting an arson attack that killed a toddler in the West Bank on July 31, 2015. (AFP/Abbas Momani)" alt="Israeli forces throw tear gas canisters towards Palestinians protesting an arson attack that killed a toddler in the West Bank on July 31, 2015. (AFP/Abbas Momani)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/ramallah_arson_clashes_july_31.jpg" class="" alt="Israeli forces throw tear gas canisters towards Palestinians protesting an arson attack that killed a toddler in the West Bank on July 31, 2015. (AFP/Abbas Momani)" /></a><div class="also-title-slider"><a href="/news/israel-forces-shoot-dead-palestinian-teenager-amid-clashes-over-arson-attack-725508">Israel forces shoot dead Palestinian teenager amid clashes over arson attack</a></div></li><li><a href="/news/un-condemns-arson-attack-israeli-settlers-725472" title="Security forces inspect the West Bank house destroyed in an arson attack on July 31, 2015. (AFP/Jaafar Ashtiyeh)" alt="Security forces inspect the West Bank house destroyed in an arson attack on July 31, 2015. (AFP/Jaafar Ashtiyeh)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/arson_aftermath_palestine.jpg" class="" alt="Security forces inspect the West Bank house destroyed in an arson attack on July 31, 2015. (AFP/Jaafar Ashtiyeh)" /></a><div class="also-title-slider"><a href="/news/un-condemns-arson-attack-israeli-settlers-725472">UN condemns arson attack by Israeli settlers</a></div></li><li><a href="/news/roughly-260-pkk-members-killed-turkish-air-strikes-725470" title="The Kurdistan Workers&#039; Party (PKK) flag. (Al Bawaba/File)" alt="The Kurdistan Workers&#039; Party (PKK) flag. (Al Bawaba/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/pkk-kurdish-workers-party-flag-afp.jpg" class="" alt="The Kurdistan Workers' Party (PKK) flag. (Al Bawaba/File)" /></a><div class="also-title-slider"><a href="/news/roughly-260-pkk-members-killed-turkish-air-strikes-725470">Roughly 260 PKK members killed in Turkish air strikes</a></div></li><li><a href="/news/five-libyan-troops-killed-daesh-725428" title="A soldier stands guard in Benghazi. (AFP/File)" alt="A soldier stands guard in Benghazi. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/libyan_soldier_benghazi.jpg" class="" alt="A soldier stands guard in Benghazi. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/five-libyan-troops-killed-daesh-725428">Five Libyan troops killed by Daesh</a></div></li><li><a href="/news/houthi-rocket-saudi-military-base-kills-three-soldiers-725426" title="Saudi soldiers shell Yemen from a post in southwestern Saudi Arabia. (AFP/File)" alt="Saudi soldiers shell Yemen from a post in southwestern Saudi Arabia. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/saudi_soldiers.jpg" class="" alt="Saudi soldiers shell Yemen from a post in southwestern Saudi Arabia. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/houthi-rocket-saudi-military-base-kills-three-soldiers-725426">Houthi rocket on Saudi military base kills three soldiers</a></div></li><li><a href="/news/abbas-demands-icc-probe-attack-killed-palestinian-infant-725330" title="Palestinians attend the funeral of 18-month-old Palestinian toddler Ali Saad Dawabsha, who died after his house was set on fire by Jewish settlers, on July 31, 2015, in the West Bank village of Duma. (AFP/Thomas Coex)" alt="Palestinians attend the funeral of 18-month-old Palestinian toddler Ali Saad Dawabsha, who died after his house was set on fire by Jewish settlers, on July 31, 2015, in the West Bank village of Duma. (AFP/Thomas Coex)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/000_Nic6473156.jpg" class="" alt="Palestinians attend the funeral of 18-month-old Palestinian toddler Ali Saad Dawabsha, who died after his house was set on fire by Jewish settlers, on July 31, 2015, in the West Bank village of Duma. (AFP/Thomas Coex)" /></a><div class="also-title-slider"><a href="/news/abbas-demands-icc-probe-attack-killed-palestinian-infant-725330">Abbas demands ICC probe into attack that killed a Palestinian infant</a></div></li><li><a href="/news/two-hezbollah-fighters-killed-zabadani-725328" title="Hezbollah members and supporters carry the coffin of Jihad Mughniyeh during his funeral in Beirut&#039;s suburbs, January 19, 2015. (AFP/File)" alt="Hezbollah members and supporters carry the coffin of Jihad Mughniyeh during his funeral in Beirut&#039;s suburbs, January 19, 2015. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/408799465.jpg" class="" alt="Hezbollah members and supporters carry the coffin of Jihad Mughniyeh during his funeral in Beirut's suburbs, January 19, 2015. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/two-hezbollah-fighters-killed-zabadani-725328">Two Hezbollah fighters killed in Zabadani</a></div></li><li><a href="/news/palestinians-mourn-death-infant-killed-israeli-settlers-725292" title="Relatives carry the body of Palestinian toddler Ali Saad Dawabsha, through the streets of the West Bank village of Duma during his funeral on July 31, 2015. (AFP/Thomas Coex)" alt="Relatives carry the body of Palestinian toddler Ali Saad Dawabsha, through the streets of the West Bank village of Duma during his funeral on July 31, 2015. (AFP/Thomas Coex)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/infant-killed-settlers-funeral-afp.jpg" class="" alt="Relatives carry the body of Palestinian toddler Ali Saad Dawabsha, through the streets of the West Bank village of Duma during his funeral on July 31, 2015. (AFP/Thomas Coex)" /></a><div class="also-title-slider"><a href="/news/palestinians-mourn-death-infant-killed-israeli-settlers-725292">Palestinians mourn death of infant killed by Israeli settlers</a></div></li><li><a href="/news/us-gives-jordan-213-million-support-syrian-refugees-following-wfp-cuts-725290" title="A Syrian refugee man selling beans at the Zaatari refugee camp home to more than 55,000 Syrians, located close to the Jordanian city of Mafraq, near the border with Syria. (AFP/File)" alt="A Syrian refugee man selling beans at the Zaatari refugee camp home to more than 55,000 Syrians, located close to the Jordanian city of Mafraq, near the border with Syria. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/syrian-man-selling-fruit-in-jordan-afp.jpg" class="" alt="A Syrian refugee man selling beans at the Zaatari refugee camp home to more than 55,000 Syrians, located close to the Jordanian city of Mafraq, near the border with Syria. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/us-gives-jordan-213-million-support-syrian-refugees-following-wfp-cuts-725290">US gives Jordan $21.3 million to support Syrian refugees following WFP cuts</a></div></li><li><a href="/news/tunisia-extends-state-emergency-two-more-months-725288" title="President Beji Caid Essebsi’s office issued a statement on Friday extending the state of emergency until August 3rd. (AFP/File)" alt="President Beji Caid Essebsi’s office issued a statement on Friday extending the state of emergency until August 3rd. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/Essebsi-afp.jpg" class="" alt="President Beji Caid Essebsi’s office issued a statement on Friday extending the state of emergency until August 3rd. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/tunisia-extends-state-emergency-two-more-months-725288">Tunisia extends state of emergency for two more months</a></div></li><li><a href="/news/israel-closes-al-aqsa-mosque-following-brutal-death-palestinian-infant-officials-725284" title="Israeli security forces block a road leading to the annexed east Jerusalem&#039;s Al-Aqsa mosque compound after Israeli police and authorities limited access to one of Islam&#039;s holiest sites on July 26, 2015. (AFP/Ahmad Gharabli)" alt="Israeli security forces block a road leading to the annexed east Jerusalem&#039;s Al-Aqsa mosque compound after Israeli police and authorities limited access to one of Islam&#039;s holiest sites on July 26, 2015. (AFP/Ahmad Gharabli)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/000_Nic6471604.jpg" class="" alt="Israeli security forces block a road leading to the annexed east Jerusalem's Al-Aqsa mosque compound after Israeli police and authorities limited access to one of Islam's holiest sites on July 26, 2015. (AFP/Ahmad Gharabli)" /></a><div class="also-title-slider"><a href="/news/israel-closes-al-aqsa-mosque-following-brutal-death-palestinian-infant-officials-725284">Israel closes al-Aqsa mosque following brutal death of Palestinian infant: officials</a></div></li><li><a href="/news/shots-fired-israeli-vehicle-driver-retaliates-725272" title="Israeli forensic police inspect a car belonging to Israeli victims of a gun attack by a Palestinian man near the Dolev settlement, in the Israeli-occupied West Bank, June 19, 2015. (AFP/File)" alt="Israeli forensic police inspect a car belonging to Israeli victims of a gun attack by a Palestinian man near the Dolev settlement, in the Israeli-occupied West Bank, June 19, 2015. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/also_in//sites/default/files/im/israeli-car-afp.jpg" class="" alt="Israeli forensic police inspect a car belonging to Israeli victims of a gun attack by a Palestinian man near the Dolev settlement, in the Israeli-occupied West Bank, June 19, 2015. (AFP/File)" /></a><div class="also-title-slider"><a href="/news/shots-fired-israeli-vehicle-driver-retaliates-725272">Shots fired at Israeli vehicle, driver retaliates</a></div></li></ul></div>  </div>
+</div>
+<!-- /block.tpl.php --></div>
+                <div id="container" class="layout-region">
+            <div id="main">
+
+        <div class="main-inner">
+
+                                                    <h1 class="title ">Ban Ki-moon urges restraint amid Turkey-PKK tensions</h1>
+                                        <div id="content" class="clearfix">
+            <div id="article-wrapper" class="page-article">
+<!-- Review Rating Schema.org-->
+<div itemscope itemtype='http://schema.org/Product' style='display:none'>
+  <span itemprop='name'>Ban Ki-moon urges restraint amid Turkey-PKK tensions</span>
+  <div itemprop='aggregateRating' itemscope itemtype='http://schema.org/AggregateRating'>        
+  <span itemprop='ratingValue'>2.5</span>
+  <span itemprop='reviewCount'>5</span>
+  </div>
+  </div><div id="node-723908" class="node clearfix node-article node-full published promoted not-sticky without-photo ">
+    <div class="meta">
+                                      <p>Published July 28th, 2015 - 07:00 GMT via <a href="http://www.syndigate.info" target="_blank">SyndiGate.info</a><div class="clear-both"></div></p>
+          </div>
+        <div id="share-article">
+        <script type="text/javascript">
+            var addthis_share = {
+                templates: {
+                    twitter: '{{title}} {{url}}  @Albawaba'
+                },
+                url_transforms: {
+                    remove: ['__utma', '__utmb', '__utmc', '__utmx', '__utmz', '__utmv', '__utmk'],
+                    shorten: {
+                        twitter: 'bitly',
+                        facebook: "bitly",
+                        stumbleupon: "bitly",
+                        digg:'bitly'
+                    }
+                },
+                shorteners: {
+                    bitly: {
+                        login: 'albawabanews',
+                        apiKey: 'R_8855e86c528fe39d2e040b6ead8b9ec0'
+                    }
+                }
+            }
+			/*
+            var addthis_config = {
+                data_track_clickback: true,
+                "data_track_addressbar":true
+            }
+			*/
+        </script>
+
+	<script>
+            (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+        <div id="block-fivestar-0" class="block block-fivestar block-odd region-odd clearfix  ">
+      <h3 class="title">Rate Article:</h3>
+    <div class="content">
+    <form action="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  accept-charset="UTF-8" method="post" id="fivestar-form-node-723908" class="fivestar-widget">
+<div><div class="fivestar-form-vote-723908 clear-block"><input type="hidden" name="content_type" id="edit-content-type" value="node"  />
+<input type="hidden" name="content_id" id="edit-content-id" value="723908"  />
+<div class="fivestar-form-item  fivestar-average-stars fivestar-labels-hover"><div class="form-item form-item-fivestar" id="edit-vote-wrapper">
+ <input type="hidden" name="vote_count" id="edit-vote-count" value="0"  />
+<input type="hidden" name="vote_average" id="edit-vote-average" value="50"  />
+<input type="hidden" name="auto_submit_path" id="edit-auto-submit-path" value="/fivestar/vote/node/723908/vote"  class="fivestar-path" />
+<select name="vote" class="form-select" id="edit-vote-1" ><option value="-">Select rating</option><option value="20">Poor</option><option value="40">Okay</option><option value="60" selected="selected">Good</option><option value="80">Great</option><option value="100">Awesome</option></select><input type="hidden" name="auto_submit_token" id="edit-auto-submit-token" value="b5fd266c460c5d184bbfdf47c883ffa4"  class="fivestar-token" />
+
+ <div class="description"><div class="fivestar-summary fivestar-feedback-enabled">&nbsp;</div></div>
+</div>
+</div><input type="hidden" name="destination" id="edit-destination" value="node/723908"  />
+<input type="submit" name="op" id="edit-fivestar-submit" value="Rate"  class="form-submit fivestar-submit" />
+<input type="hidden" name="form_build_id" id="form-PjTd-wRAs2bOtpgeHkwmpUu1m1nl9FUjeWg1wqXSu4g" value="form-PjTd-wRAs2bOtpgeHkwmpUu1m1nl9FUjeWg1wqXSu4g"  />
+<input type="hidden" name="form_id" id="edit-fivestar-form-node-723908" value="fivestar_form_node_723908"  />
+</div>
+</div></form>
+  </div>
+</div>
+<!-- /block.tpl.php -->        <div class="block block-block block-even region-even clearfix" id="block-block-3">
+            <div class="content">
+
+                <div id="fb-root"></div>
+
+
+                <div class="addthis_toolbox">
+
+                    <a rel="nofollow" onclick="window.open(this.href); return false" class="print-page" title="Display a printer-friendly version of this page." href="/print/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"><img width="16" height="12" class="print-icon print-icon-margin" title="PRINT" alt="PRINT" src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/all/themes/sky/images/print_icon.gif"></a>
+                    <a href="/printmail/723908" class="send-mail print-page"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/all/themes/sky/images/addthisemail.png" width="16" height="12" alt="Send Mail" /></a>
+                    <div class="addthis_toolbox addthis_default_style">
+                       <iframe src="//www.facebook.com/plugins/like.php?href=http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908&amp;width&amp;layout=button_count&amp;action=recommend&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=603643492994719" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;width: 127px;" allowTransparency="true"></iframe>
+<!--                         <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a> -->
+                        <!-- <div class="fb-like" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false" data-font="tahoma"></div> -->
+                        <a href="https://twitter.com/share" data-url="http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  url="http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908" class="twitter-share-button" data-lang="en">Tweet</a>
+                        <!-- Place this tag where you want the +1 button to render. -->
+                        <div class="g-plusone" data-size="medium"></div>
+
+                        <!-- Place this tag after the last +1 button tag. -->
+                        <script type="text/javascript">
+                          window.___gcfg = {lang: 'en'};
+
+                          (function() {
+                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                            po.src = 'https://apis.google.com/js/plusone.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                          })();
+                        </script>
+                        <!-- <a class="addthis_button_google_plusone" g:plusone:size="Medium" ></a> -->
+                    </div>
+
+                </div>
+				
+				
+                <div class="comment-article-count"><a href="#comment-form-title" title="Add Comment">comment (0)</a></div>            </div>
+        </div>
+        <div class="addthis_toolbox addthis_toolbox2">
+            <div class="custom_images">
+                <span class="share-label" >Share:</span>
+                <div class="addthis-element">
+                    <a class="addthis_button_facebook">Facebook</a>
+                    <a class="addthis_button_twitter">Twitter</a>
+
+                    <a class="addthis_button_google_plusone_share">Google+</a>
+                    <a class="addthis_button_linkedin">Linkedin</a>
+                    <a class="addthis_button_pinterest_share">Pinterest</a>
+
+                    <a class="addthis_button_delicious">Delicious</a>
+                    <a class="addthis_button_stumbleupon">Stumbleupon</a>
+                    <a class="addthis_button_digg">Digg</a>
+                    <a class="addthis_button_reddit">Reddit</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+      <div class="content clearfix">
+                <div class="image-container"><div class="article-image-block"><div class="article-image"><img class="image-count-1 image-article" src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/807344-secretaire-general-onu-ban-ki.jpg" title="Ban Ki-moon said he was concerned a deadly conflict would occur between Turkey and the PKK. (AFP/File)" alt="Ban Ki-moon said he was concerned a deadly conflict would occur between Turkey and the PKK. (AFP/File)" /></div><div class="article-image-description">Ban Ki-moon said he was concerned a deadly conflict would occur between Turkey and the PKK. (AFP/File)</div></div></div>              	<div id="underimagecontainer">
+	    <div id="block-ab-follow-0" class="block block-ab-follow block-even region-odd clearfix  ">
+    <div class="content">
+    <div style="display: none;" id = "node-723908"></div>More > <div class='inline-tag '> <span id='follow-status' class='follow-tag' language='en'  nid='723908' tid='97439' name='Ban Ki' style='display:none;'>Create alert for Ban Ki</span><a href='/search/apachesolr_search/Ban Ki'>Ban Ki</a></div>,  <div class='inline-tag '> <span id='follow-status' class='follow-tag' language='en'  nid='723908' tid='227266' name='Ban Ki-moon' style='display:none;'>Create alert for Ban Ki-moon</span><a href='/search/apachesolr_search/Ban Ki-moon'>Ban Ki-moon</a></div>  </div>
+</div>
+<!-- /block.tpl.php -->	</div>
+                             <p><a href="http://www.aa.com.tr/en/world/563453--un-chief-concerned-about-pkk-tension" target="_blank">UN Secretary-General Ban Ki-moon</a> expressed concern Monday about the recently heightened tensions between Turkey and the PKK group.</p><p>"[Ban]&nbsp;calls on all concerned to refrain from returning to a deadly conflict which has in the past brought so much suffering and grief to the people of Turkey", according to a statement from his spokesperson's office.</p><p>Tensions have risen <a href="http://www.albawaba.com/news/iraqi-kurdish-leader-calls-peace-between-turkey-and-pkk-723726" target="_blank">between Turkey&nbsp;and the&nbsp;Kurdistan Workers' Party (PKK)</a>&nbsp;in the past week, with the latter stepping up attacks on police and troops while Turkish warplanes target the group’s camps and police round up suspected supporters.</p><p>The separatist group&nbsp;is listed by Turkey, the US and EU as a terrorist organization.</p><p>"[Ban] expresses the hope that there will be an immediate return to constructive dialogue in order to continue to find a peaceful solution to the challenge at hand", the UN statement said.</p><p>The Turkish operations came after a major escalation in tensions in Turkey's southern border region, <a href="http://www.albawaba.com/news/turkey-identifies-suspected-suicide-bomber-suruc-attack-721848" target="_blank">including a July 20 suicide bomb</a> attack allegedly carried out by Daesh that&nbsp;killed 32 victims.</p>
+
+        </div>
+    <h2 class="AddIframe">Advertisement</h2>
+ <div id="AddIframe">
+	  <script src="http://www.googletagservices.com/tag/js/gpt.js">
+googletag.pubads().definePassback('/9829872/IPG-014-E', [600, 180]).setClickUrl("%%CLICK_URL_UNESC%%").display();
+</script>	</div>
+        <div class="synd-logo-copy"><div><a href="http://www.aa.com.tr/" title="Anadolu Agency (AA)" target="_blank"><img src="http://logo.albawaba.com/logos/small/400.png" title="Anadolu Agency (AA)" border="0" /></a><span> © Copyright Andolu Ajansi</span></div></div>
+          <div id="share-article" class="share-article-title">
+        <div id="block-fivestar-0" class="block block-fivestar block-odd region-even clearfix  ">
+      <h3 class="title">Rate Article:</h3>
+    <div class="content">
+    <form action="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  accept-charset="UTF-8" method="post" id="fivestar-form-node-723908" class="fivestar-widget">
+<div><div class="fivestar-form-vote-723908 clear-block"><input type="hidden" name="content_type" id="edit-content-type" value="node"  />
+<input type="hidden" name="content_id" id="edit-content-id" value="723908"  />
+<div class="fivestar-form-item  fivestar-average-stars fivestar-labels-hover"><div class="form-item form-item-fivestar" id="edit-vote-wrapper">
+ <input type="hidden" name="vote_count" id="edit-vote-count" value="0"  />
+<input type="hidden" name="vote_average" id="edit-vote-average" value="50"  />
+<input type="hidden" name="auto_submit_path" id="edit-auto-submit-path" value="/fivestar/vote/node/723908/vote"  class="fivestar-path" />
+<select name="vote" class="form-select" id="edit-vote-1" ><option value="-">Select rating</option><option value="20">Poor</option><option value="40">Okay</option><option value="60" selected="selected">Good</option><option value="80">Great</option><option value="100">Awesome</option></select><input type="hidden" name="auto_submit_token" id="edit-auto-submit-token" value="b5fd266c460c5d184bbfdf47c883ffa4"  class="fivestar-token" />
+
+ <div class="description"><div class="fivestar-summary fivestar-feedback-enabled">&nbsp;</div></div>
+</div>
+</div><input type="hidden" name="destination" id="edit-destination" value="node/723908"  />
+<input type="submit" name="op" id="edit-fivestar-submit" value="Rate"  class="form-submit fivestar-submit" />
+<input type="hidden" name="form_build_id" id="form-PjTd-wRAs2bOtpgeHkwmpUu1m1nl9FUjeWg1wqXSu4g" value="form-PjTd-wRAs2bOtpgeHkwmpUu1m1nl9FUjeWg1wqXSu4g"  />
+<input type="hidden" name="form_id" id="edit-fivestar-form-node-723908" value="fivestar_form_node_723908"  />
+</div>
+</div></form>
+  </div>
+</div>
+<!-- /block.tpl.php -->        <div class="block block-block block-even region-even clearfix" id="block-block-3">
+            <div class="content">
+
+                <div id="fb-root"></div>
+
+
+                <div class="addthis_toolbox">
+
+                    <a rel="nofollow" onclick="window.open(this.href); return false" class="print-page" title="Display a printer-friendly version of this page." href="/print/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"><img width="16" height="12" class="print-icon print-icon-margin" title="PRINT" alt="PRINT" src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/all/themes/sky/images/print_icon.gif"></a>
+                    <a href="/printmail/723908" class="send-mail print-page"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/all/themes/sky/images/addthisemail.png" width="16" height="12" alt="Send Mail" /></a>
+                    <div class="addthis_toolbox addthis_default_style">
+                    <iframe src="//www.facebook.com/plugins/like.php?href=http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908&amp;width&amp;layout=button_count&amp;action=recommend&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=603643492994719" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;width: 127px;" allowTransparency="true"></iframe>
+<!--                         <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a> -->
+                        <!-- <div class="fb-like" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false" data-font="tahoma"></div> -->
+                        <a href="https://twitter.com/share" data-url="http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  url="http://www.albawaba.com//news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908" class="twitter-share-button" data-lang="en">Tweet</a>
+                        <div class="g-plusone" data-size="medium"></div>
+                    </div>
+
+                </div>
+
+
+                <div class="comment-article-count"><a href="#comment-form-title" title="Add Comment">comment (0)</a></div>            </div>
+        </div>
+        <div class="addthis_toolbox addthis_toolbox2">
+            <div class="custom_images">
+                <span class="share-label" >Share:</span>
+                <div class="addthis-element">
+                    <a class="addthis_button_facebook">Facebook</a>
+                    <a class="addthis_button_twitter">Twitter</a>
+
+                    <a class="addthis_button_google_plusone_share">Google+</a>
+                    <a class="addthis_button_linkedin">Linkedin</a>
+                    <a class="addthis_button_pinterest_share">Pinterest</a>
+
+                    <a class="addthis_button_delicious">Delicious</a>
+                    <a class="addthis_button_stumbleupon">Stumbleupon</a>
+                    <a class="addthis_button_digg">Digg</a>
+                    <a class="addthis_button_reddit">Reddit</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+          <div id="contentarticlebottom">
+        <div id="block-main-headlines-carousel-20" class="block block-main-headlines-carousel block-even region-odd clearfix editors-jcarousel ">
+      <h3 class="title"><a href="//eneditors-choice">EDITOR’S CHOICE</a></h3>
+    <div class="content">
+    <div class="also-number"><span class="first-latest-editor">1</span> - <span class="last-latest-editor">4</span><span> OF 12</span></div><div class="pane-content-container editors-jcarousel"><ul class="article-images" id="editors-jcarousel"><li><a href="/editorchoice/what-does-163-%C2%B0f-feel-iranians-now-know-extremely-hot-temperatures-approach-world-recor" title="A &#039;heat dome&#039; over the Middle East brought scorching temperatures to Iran and Iraq. (Courtesy of Twitter/@RyanMaue" alt="A &#039;heat dome&#039; over the Middle East brought scorching temperatures to Iran and Iraq. (Courtesy of Twitter/@RyanMaue"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/iran-iraq-heat-DEE_3394697b.jpg" class="" alt="A 'heat dome' over the Middle East brought scorching temperatures to Iran and Iraq. (Courtesy of Twitter/@RyanMaue" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/what-does-163-%C2%B0f-feel-iranians-now-know-extremely-hot-temperatures-approach-world-recor">What does 163 °F feel like? Iranians now know as extremely hot temperatures approach world record</a></div></li><li><a href="/editorchoice/four-african-countries-say-no-niqab-islamic-leader-says-no-problem-725540" title="“These people who harm, who dress in black to carry out attacks, destroy the property of others in the name of Islam, what they do has nothing to do with Islam. That is why I want to ban the niqab,” said Guinean President Alpha Conde. Image used for illustrative purposes. (AFP/File)" alt="“These people who harm, who dress in black to carry out attacks, destroy the property of others in the name of Islam, what they do has nothing to do with Islam. That is why I want to ban the niqab,” said Guinean President Alpha Conde. Image used for illustrative purposes. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/niqab.jpg" class="" alt="“These people who harm, who dress in black to carry out attacks, destroy the property of others in the name of Islam, what they do has nothing to do with Islam. That is why I want to ban the niqab,” said Guinean President Alpha Conde. Image used for illustrative purposes. (AFP/File)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/four-african-countries-say-no-niqab-islamic-leader-says-no-problem-725540">Four African countries say no to niqab, Islamic leader says no problem</a></div></li><li><a href="/editorchoice/discrimination-its-worst-disabled-children-denied-entrance-two-play-parks-saudi-arabia-" title="The group was sponsored by a foundation aiming to build harmony between disabled and non-disabled children. (Photo: Pixabay)" alt="The group was sponsored by a foundation aiming to build harmony between disabled and non-disabled children. (Photo: Pixabay)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/portrayal-89189_1280.jpg" class="" alt="The group was sponsored by a foundation aiming to build harmony between disabled and non-disabled children. (Photo: Pixabay)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/discrimination-its-worst-disabled-children-denied-entrance-two-play-parks-saudi-arabia-">Discrimination at its worst! Disabled children denied entrance to TWO play parks in Saudi Arabia</a></div></li><li><a href="/editorchoice/now-thats-big-tip-dubai-residents-leave-behind-112000-worth-valuables-taxis-january-725" title="Your taxi ride may cost more than you think if you&#039;re leaving valuables behind! (Image: Pixabay)" alt="Your taxi ride may cost more than you think if you&#039;re leaving valuables behind! (Image: Pixabay)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/taxi-491450_1280.jpg" class="" alt="Your taxi ride may cost more than you think if you're leaving valuables behind! (Image: Pixabay)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/now-thats-big-tip-dubai-residents-leave-behind-112000-worth-valuables-taxis-january-725">Now that&#039;s a big tip! Dubai residents leave behind $112,000 worth of valuables in taxis since January</a></div></li><li><a href="/editorchoice/chechan-girls-arrested-dangerous-con-targeting-daesh-recruiters-725198" title="The girls would solicit recruiters online claiming to want to join the group, and then disappear after money had been transferred. (Twitter)" alt="The girls would solicit recruiters online claiming to want to join the group, and then disappear after money had been transferred. (Twitter)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/Daesh_mum_escapes_to_Turkey.jpg" class="" alt="The girls would solicit recruiters online claiming to want to join the group, and then disappear after money had been transferred. (Twitter)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/chechan-girls-arrested-dangerous-con-targeting-daesh-recruiters-725198">Chechen girls arrested for dangerous con targeting Daesh recruiters</a></div></li><li><a href="/editorchoice/elderly-man-charged-molesting-seven-year-old-girl-saudi-arabia-724944" title="The man threatened to murder the girl if she told anyone of the incident. (Photo: wireltern.ch)" alt="The man threatened to murder the girl if she told anyone of the incident. (Photo: wireltern.ch)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/old-man-hands-on-younggirl.jpg" class="" alt="The man threatened to murder the girl if she told anyone of the incident. (Photo: wireltern.ch)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/elderly-man-charged-molesting-seven-year-old-girl-saudi-arabia-724944">Elderly man charged with molesting seven-year-old girl in Saudi Arabia</a></div></li><li><a href="/editorchoice/iraq-redefines-%E2%80%98summer-camp%E2%80%99-popular-mobilization-forces-train-child-soldiers-against-d" title="Reports said &quot;summer camps&quot; in Baghdad are training children for Iraq&#039;s fight against Daesh. (AFP/File)" alt="Reports said &quot;summer camps&quot; in Baghdad are training children for Iraq&#039;s fight against Daesh. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/syria-child-soldiers-boy-gun-afp.jpg" class="" alt="Reports said "summer camps" in Baghdad are training children for Iraq's fight against Daesh. (AFP/File)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/iraq-redefines-%E2%80%98summer-camp%E2%80%99-popular-mobilization-forces-train-child-soldiers-against-d">Iraq redefines ‘summer camp’: Popular Mobilization Forces train child soldiers against Daesh</a></div></li><li><a href="/editorchoice/buff-bahraini-babe-breaks-gulf-state-stereotypes-barbells-724928" title="Bahraini female bodybuilder and personal trainer Haifa al-Musawi has several certificates from international fitness and bodybuilding associations. (AFP/Marwan Naamani)" alt="Bahraini female bodybuilder and personal trainer Haifa al-Musawi has several certificates from international fitness and bodybuilding associations. (AFP/Marwan Naamani)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/Buff_Bahraini_babe_breaks_Gulf_State_stereotypes_with_barbells.jpg" class="" alt="Bahraini female bodybuilder and personal trainer Haifa al-Musawi has several certificates from international fitness and bodybuilding associations. (AFP/Marwan Naamani)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/buff-bahraini-babe-breaks-gulf-state-stereotypes-barbells-724928">Buff Bahraini babe breaks Gulf State stereotypes with barbells</a></div></li><li><a href="/editorchoice/wrong-turn-car-saudi-plates-spotted-israel-stirs-social-media-storm-724802" title="The vehicle in question was owned by an American national, who was blissfully unaware of the commotion he had caused. (Twitter)" alt="The vehicle in question was owned by an American national, who was blissfully unaware of the commotion he had caused. (Twitter)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/saudi-car-israel-twitter.JPG" class="" alt="The vehicle in question was owned by an American national, who was blissfully unaware of the commotion he had caused. (Twitter)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/wrong-turn-car-saudi-plates-spotted-israel-stirs-social-media-storm-724802">Wrong turn: Car with Saudi plates spotted in Israel stirs social media storm</a></div></li><li><a href="/editorchoice/charities-help-gazans-get-hitched-despite-israeli-blockade-724482" title="Young couples struggle to tie the knot in Gaza due to the Israeli blockade and lack of opportunities. (AFP/File)" alt="Young couples struggle to tie the knot in Gaza due to the Israeli blockade and lack of opportunities. (AFP/File)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/afp-829ddf77ae0b1452ea07e8917e286c6f8a9f44b3.jpg" class="" alt="Young couples struggle to tie the knot in Gaza due to the Israeli blockade and lack of opportunities. (AFP/File)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/charities-help-gazans-get-hitched-despite-israeli-blockade-724482">Charities help Gazans get hitched despite the Israeli blockade</a></div></li><li><a href="/editorchoice/french-girl-beaten-up-bikini-islam-724344" title="French social media users began blaming Islam and posting photos of themselves in bikinis following the attack. (Twitter)" alt="French social media users began blaming Islam and posting photos of themselves in bikinis following the attack. (Twitter)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/safdadfasfdawe.jpg" class="" alt="French social media users began blaming Islam and posting photos of themselves in bikinis following the attack. (Twitter)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/french-girl-beaten-up-bikini-islam-724344">Blaming Muslims? Islam had nothing to do with French girl being beaten for wearing &#039;immoral&#039; bikini</a></div></li><li><a href="/editorchoice/huffpost-speaking-your-language-news-site-launches-arabic-platform-724336" title="HuffPost Arabi launched on Tuesday. (Screenshot)" alt="HuffPost Arabi launched on Tuesday. (Screenshot)"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/imagecache/slideshow_thumb//sites/default/files/im/huffpost-arabi-screenshot.JPG" class="" alt="HuffPost Arabi launched on Tuesday. (Screenshot)" width="163" height="110" /></a><div class="also-title-slider"><a href="/editorchoice/huffpost-speaking-your-language-news-site-launches-arabic-platform-724336">HuffPost is speaking your language: News site launches Arabic platform</a></div></li></ul></div>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-block-62" class="block block-block block-odd region-even clearfix  ">
+    <div class="content">
+              <script type="text/javascript">
+
+              window._taboola = window._taboola || [];
+
+              _taboola.push({article:'auto'});
+
+              !function (e, f, u) {
+
+                  e.async = 1;
+
+                  e.src = u;
+
+                  f.parentNode.insertBefore(e, f);
+
+              }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/albawaba/loader.js');
+
+          </script>
+ <div id='taboola-text-2-columns-mix'></div>
+
+          <script type="text/javascript">
+
+              window._taboola = window._taboola || [];
+
+              _taboola.push({mode:'text-links-2c', container:'taboola-text-2-columns-mix', placement:'text-2-columns', target_type:'mix'});
+
+          </script>  </div>
+</div>
+<!-- /block.tpl.php -->    </div>
+      
+ 
+
+    		<div id="middle-content">
+                    <div id="middle-content-left">
+                        <div id="block-views-most-popular-block-4" class="block block-views block-even region-odd clearfix  ">
+      <h3 class="title">Top Headlines</h3>
+    <div class="content">
+    <div class="view view-most-popular view-id-most-popular view-display-id-block-4 view- view-dom-id-1  ">
+              <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mena_voices/shine-you-crazy-diamond-british-ambassadors-farewell-lebanon-725626">&#039;Shine on, you crazy diamond&#039; - a British ambassador&#039;s farewell to Lebanon</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/editorchoice/what-does-163-%C2%B0f-feel-iranians-now-know-extremely-hot-temperatures-approach-world-recor">What does 163 °F feel like? Iranians now know as extremely hot temperatures approach world record</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/un-1332-die-iraq-violence-july-725572">UN: 1332 die in Iraq violence in July</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/loop/twitter-giving-us-potent-reminder-what-happened-west-bank-settler-attacks-last-week-725592">Twitter is giving us a potent reminder of the West Bank settler attacks</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/daesh-commander-killed-egyptian-forces-sinai-725570">Daesh commander killed by Egyptian forces in Sinai</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+            </div>   </div>
+</div>
+<!-- /block.tpl.php --><div id="block-main-headlines-carousel-32" class="block block-main-headlines-carousel block-odd region-even clearfix  ">
+    <div class="content">
+    
+      <h3 class="title">RECENT ARTICLES</h3>
+    <div class="content">
+    <div class="recent_articles">
+              <div class="view-content">
+      <div class="item-list">
+    <ul><li class="views-row views-row-1">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/un-1332-die-iraq-violence-july-725572">UN: 1332 die in Iraq violence in July</a></span>
+	  </div>
+	</li><li class="views-row views-row-2">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/daesh-commander-killed-egyptian-forces-sinai-725570">Daesh commander killed by Egyptian forces in Sinai</a></span>
+	  </div>
+	</li><li class="views-row views-row-3">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/yemen-pm-khaled-bahah-returns-aden-exile-725552">Yemen PM Khaled Bahah returns to Aden from exile</a></span>
+	  </div>
+	</li><li class="views-row views-row-4">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/israel-forces-shoot-dead-palestinian-teenager-amid-clashes-over-arson-attack-725508">Israel forces shoot dead Palestinian teenager amid clashes over arson attack</a></span>
+	  </div>
+	</li><li class="views-row views-row-5">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/un-condemns-arson-attack-israeli-settlers-725472">UN condemns arson attack by Israeli settlers</a></span>
+	  </div>
+	</li></ul>
+  </div>    </div>
+	</div>   
+  </div>  </div>
+</div>
+<!-- /block.tpl.php -->                    </div>
+                                        <div id="middle-content-right">
+                        <div id="block-ab-similar-0" class="block block-ab-similar block-even region-odd clearfix  ">
+    <div class="content">
+    <div class="title">RELATED ARTICLES</div><div class="item-list"><ul><li class="views-row-first"><a href="/news/ban-ki-moon-makes-appeal-egyptians-512676" title="Ban Ki-moon makes appeal to Egyptians">Ban Ki-moon makes appeal to Egyptians</a></li><li class="views-row"><a href="/news/lebanon-israel-shooting-541080" title="U.N. emphasizes that Lebanese soldier &quot;acted alone&quot; in Israeli shooting case ">U.N. emphasizes that Lebanese soldier &quot;acted alone&quot; in Israeli shooting case </a></li></ul></div>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-main-headlines-carousel-31" class="block block-main-headlines-carousel block-odd region-even clearfix  ">
+    <div class="content">
+    
+      <h3 class="title">MOST POPULAR</h3>
+    <div class="content">
+    <div class="most_popular_article">
+              <div class="view-content">
+      <div class="item-list">
+    <ul><li class="views-row views-row-1">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/jihadi-john-reportedly-flees-daesh-723198">"Jihadi John" reportedly flees Daesh</a></span>
+	  </div>
+	</li><li class="views-row views-row-2">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/bombers-hit-crowded-swimming-pool-iraq-13-killed-723158">Bombers hit crowded swimming pool in Iraq, 13 killed</a></span>
+	  </div>
+	</li><li class="views-row views-row-3">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/iraqi-pm-condemns-“despicable”-suicide-bombing-diyala-720740">Iraqi PM condemns “despicable” suicide bombing in Diyala</a></span>
+	  </div>
+	</li><li class="views-row views-row-4">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/abbas-demands-icc-probe-attack-killed-palestinian-infant-725330">Abbas demands ICC probe into attack that killed a Palestinian infant</a></span>
+	  </div>
+	</li><li class="views-row views-row-5">  
+	  <div class="views-field-title">
+			<span class="field-content"><a href="/en/news/tunisian-politicians-visit-british-families-beach-attack-victims-721020">Tunisian politicians to visit British families of beach attack victims</a></span>
+	  </div>
+	</li></ul>
+  </div>    </div>
+	</div>   
+  </div>  </div>
+</div>
+<!-- /block.tpl.php -->                    </div>
+                                    </div>
+	</div>
+</div>
+          </div>
+          <!-- END CONTENT -->
+                                <div id="content-bottom"><div id="block-ab-comments-0" class="block block-ab-comments block-odd region-odd clearfix  ">
+      <h3 class="title">Add a new comment</h3>
+    <div class="content">
+    <div id='comment-form-title'></div><div id='ab_comments'><div id='ab_comments_form_wrapper'><form action="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908"  accept-charset="UTF-8" method="post" id="ab-comments-add-form" class="ab-comments-add-form ab-comments-add-form-0" rel="0">
+<div><div class="ab_comments_message" id="ab_comments_message_0"></div><input type="hidden" name="parent_id" id="edit-parent-id" value="0"  />
+<input type="hidden" name="node_id" id="edit-node-id" value="723908"  />
+<input type="hidden" name="is_ajax" id="edit-is-ajax" value="1"  />
+<div class="comment_reply_to hidden">Reply to <span class="reply_to">-<span></div><div class="comment_close_wrapper hidden"><a href="#" class="comment_close_reply">X</a></div><div class="clear-both"></div><div class="form_avatar"><img src="http://albawabacdn.albawabamiddleea.netdna-cdn.com/sites/default/files/user_pictures/default_user.gif" alt=" avatar" title=" avatar"  width="38" /></div><div class="form-item form-item-textarea form-item-required" id="edit-comment-wrapper">
+ <textarea cols="60" rows="5" name="comment" id="edit-comment"  maxlength="3000" autocomplete="off" class="form-textarea required default_text">Write your comment...</textarea>
+</div>
+<div class="clear-both"></div><input type="hidden" name="form_build_id" id="form-vMkeTJTzai9SC4mLnm8ZZcklgrMa78_qL8D5v9di1fY" value="form-vMkeTJTzai9SC4mLnm8ZZcklgrMa78_qL8D5v9di1fY"  />
+<input type="hidden" name="form_id" id="edit-ab-comments-add-form" value="ab_comments_add_form"  />
+<input type="submit" name="op" id="edit-submit" value="Post"  onclick="add_comment(); return false;" class="form-submit comment_post" />
+<div class="anonymous_captcha"><div class="form-item form-item-checkbox" id="edit-is-anonymous-wrapper">
+ <label class="option" for="edit-is-anonymous"><input type="checkbox" name="is_anonymous" id="edit-is-anonymous" value="1"   onclick="toggle_comment_captcha(); return false;" autocomplete="off" class="form-checkbox is_anonymous_checkbox" /> Post as anonymous</label>
+</div>
+<div class="form-item form-item-textfield" id="edit-captcha-text-wrapper">
+ <input type="text" maxlength="128" name="captcha_text" id="edit-captcha-text" size="60" value="" class="form-text comment_captcha_text hidden" autocomplete="off" />
+</div>
+<div class="comment_captcha_image hidden"></div></div><div class="clear-both"></div>
+</div></form>
+</div><div id='comments_listing'></div></div>  </div>
+</div>
+<!-- /block.tpl.php --></div>
+                  </div>
+        <!-- END MAIN INNER -->
+      </div>
+      <!-- END MAIN -->
+                    <div id="sidebar-right" class="sidebar">
+          <div class="inner">
+                    <div id="block-block-13" class="block block-block block-odd region-odd clearfix killer-right-block ">
+    <div class="content">
+    <!-- BEGIN ADVERTPRO ADVANCED CODE BLOCK -->
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ads.albawaba.com/advertpro/servlet/view/banner/javascript/zone?zid=335&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script>
+<!-- END ADVERTPRO ADVANCED CODE BLOCK -->  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-ab-video-0" class="block block-ab-video block-even region-even clearfix  ">
+      <h3 class="title">Related Videos</h3>
+    <div class="content">
+    <div class="related-articles"><div class="videos"><a href="/video/RDPodDJceUw" title="Nile basin countries discuss joint river projects - 28 Jul 09"><img src="http://img.youtube.com/vi/RDPodDJceUw/0.jpg" alt="See video" title="See video" width="134" height="90" /></a><a href="/video/RDPodDJceUw" title="Nile basin countries discuss joint river projects - 28 Jul 09">Nile basin countries discuss joint river projects - 28 Jul 09</a></div><div class="videos"><a href="/video/Yq5W_l-8KbE" title="Children suffer in Yemen attacks"><img src="http://img.youtube.com/vi/Yq5W_l-8KbE/0.jpg" alt="See video" title="See video" width="134" height="90" /></a><a href="/video/Yq5W_l-8KbE" title="Children suffer in Yemen attacks">Children suffer in Yemen attacks</a></div><div class="videos"><a href="/video/xjg_NVuqRBk" title="Jordan Nuclear Hopes"><img src="http://img.youtube.com/vi/xjg_NVuqRBk/0.jpg" alt="See video" title="See video" width="134" height="90" /></a><a href="/video/xjg_NVuqRBk" title="Jordan Nuclear Hopes">Jordan Nuclear Hopes</a></div></div>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-quicktabs-accordion" class="block block-quicktabs block-odd region-odd clearfix  ">
+    <div class="content">
+    <div id="quicktabs-accordion" class="quicktabs_wrapper quicktabs-style-sky"><ul class="quicktabs_tabs quicktabs-style-sky"><li class="qtab-0 active first"><a href="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908?quicktabs_accordion=0#quicktabs-accordion" id="quicktabs-tab-accordion-0" class="qt_ajax_tab active">Most Popular</a></li><li class="qtab-1"><a href="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908?quicktabs_accordion=1#quicktabs-accordion" id="quicktabs-tab-accordion-1" class="qt_ajax_tab active">Most Discussed</a></li><li class="qtab-2 last"><a href="/news/ban-ki-moon-urges-restraint-amid-turkey-pkk-tensions-723908?quicktabs_accordion=2#quicktabs-accordion" id="quicktabs-tab-accordion-2" class="qt_ajax_tab active">Contact the Editor</a></li></ul><div id="quicktabs_container_accordion" class="quicktabs_main quicktabs-style-sky"><div id="quicktabs_tabpage_accordion_0" class="quicktabs_tabpage"><div id="block-views-most-popular-block-2" class="block block-views block-even region-odd clearfix  ">
+    <div class="content">
+    <div class="view view-most-popular view-id-most-popular view-display-id-block-2 view-accordion-block view-dom-id-2  ">
+              <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/jihadi-john-reportedly-flees-daesh-723198">&quot;Jihadi John&quot; reportedly flees Daesh</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/bombers-hit-crowded-swimming-pool-iraq-13-killed-723158">Bombers hit crowded swimming pool in Iraq, 13 killed</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/iraqi-pm-condemns-%E2%80%9Cdespicable%E2%80%9D-suicide-bombing-diyala-720740">Iraqi PM condemns “despicable” suicide bombing in Diyala</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/abbas-demands-icc-probe-attack-killed-palestinian-infant-725330">Abbas demands ICC probe into attack that killed a Palestinian infant</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/tunisian-politicians-visit-british-families-beach-attack-victims-721020">Tunisian politicians to visit British families of beach attack victims</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+            
+<div class="more-link">
+  <span class="icon">&nbsp;</span>
+  <a href="/most-popular">
+    More Stories »  </a>
+</div>
+      </div>   </div>
+</div>
+<!-- /block.tpl.php --></div></div></div>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-block-60" class="block block-block block-even region-even clearfix  ">
+      <h3 class="title">From Around The Web</h3>
+    <div class="content">
+    <div id='taboola-right-rail'></div>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({mode:'thumbs-2r-rr', container:'taboola-right-rail', placement:'right-rail'});
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush:true});
+</script>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-block-63" class="block block-block block-odd region-odd clearfix  ">
+    <div class="content">
+       <!-- BEGIN ADVERTPRO ADVANCED CODE BLOCK -->
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ads.albawaba.com/advertpro/servlet/view/banner/javascript/zone?zid=386&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script>
+<!-- END ADVERTPRO ADVANCED CODE BLOCK -->  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-hybridauth-hybridauth" class="block block-hybridauth block-even region-even clearfix block-hidden ">
+      <h3 class="title">User login</h3>
+    <div class="content">
+    
+<!-- Custom block theme -->
+<div class="social_login_logo">
+	<img src="/sites/all/themes/sky/new_logo1.gif">
+</div>
+
+<div class="social_login_separator">
+	<span>Log In</span>
+</div>
+
+<div class="item-list social_login">
+	<h3 class="lightbox_header">
+		Log in to Al Bawaba in order to manage your various website activities	</h3>
+	<ul class='hybridauth-widget'>
+							<li class="facebook_item">
+				<a href="/hybridauth/window/Facebook?destination=node%2F723908" title="Facebook" class="hybridauth-widget-provider" rel="nofollow" data-hybridauth-provider="Facebook" data-hybridauth-url="/hybridauth/window/Facebook?destination=node%2F723908" data-ajax="false" onclick="popup_window = window.open(jQuery(this).attr(&#039;data-hybridauth-url&#039;), &#039;hybridauth&#039;, &#039;location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500&#039;); popup_window.focus(); return false;"><span class="hybridauth-icon hybridauth-facebook" title="Facebook"></span></a>				<a data-ajax="false" class="hybridauth-widget-provider provider_link" data-hybridauth-url="/hybridauth/window/Facebook?destination=node%2F723908" data-hybridauth-provider="Facebook" rel="nofollow" href="/hybridauth/window/Facebook?destination=node%2F723908" onclick="popup_window = window.open(jQuery(this).attr('data-hybridauth-url'), 'hybridauth', 'location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500'); popup_window.focus(); return false;">
+					<span title="Facebook">Login with Facebook</span> 
+				</a>
+			</li>
+							<li class="linkedin_item">
+				<a href="/hybridauth/window/LinkedIn?destination=node%2F723908" title="LinkedIn" class="hybridauth-widget-provider" rel="nofollow" data-hybridauth-provider="LinkedIn" data-hybridauth-url="/hybridauth/window/LinkedIn?destination=node%2F723908" data-ajax="false" onclick="popup_window = window.open(jQuery(this).attr(&#039;data-hybridauth-url&#039;), &#039;hybridauth&#039;, &#039;location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500&#039;); popup_window.focus(); return false;"><span class="hybridauth-icon hybridauth-linkedin" title="LinkedIn"></span></a>				<a data-ajax="false" class="hybridauth-widget-provider provider_link" data-hybridauth-url="/hybridauth/window/LinkedIn?destination=node%2F723908" data-hybridauth-provider="LinkedIn" rel="nofollow" href="/hybridauth/window/LinkedIn?destination=node%2F723908" onclick="popup_window = window.open(jQuery(this).attr('data-hybridauth-url'), 'hybridauth', 'location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500'); popup_window.focus(); return false;">
+					<span title="LinkedIn">Login with LinkedIn</span> 
+				</a>
+			</li>
+							<li class="google_item">
+				<a href="/hybridauth/window/Google?destination=node%2F723908" title="Google" class="hybridauth-widget-provider" rel="nofollow" data-hybridauth-provider="Google" data-hybridauth-url="/hybridauth/window/Google?destination=node%2F723908" data-ajax="false" onclick="popup_window = window.open(jQuery(this).attr(&#039;data-hybridauth-url&#039;), &#039;hybridauth&#039;, &#039;location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500&#039;); popup_window.focus(); return false;"><span class="hybridauth-icon hybridauth-google" title="Google"></span></a>				<a data-ajax="false" class="hybridauth-widget-provider provider_link" data-hybridauth-url="/hybridauth/window/Google?destination=node%2F723908" data-hybridauth-provider="Google" rel="nofollow" href="/hybridauth/window/Google?destination=node%2F723908" onclick="popup_window = window.open(jQuery(this).attr('data-hybridauth-url'), 'hybridauth', 'location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500'); popup_window.focus(); return false;">
+					<span title="Google">Login with Google</span> 
+				</a>
+			</li>
+							<li class="live_item">
+				<a href="/hybridauth/window/Live?destination=node%2F723908" title="Windows Live" class="hybridauth-widget-provider" rel="nofollow" data-hybridauth-provider="Live" data-hybridauth-url="/hybridauth/window/Live?destination=node%2F723908" data-ajax="false" onclick="popup_window = window.open(jQuery(this).attr(&#039;data-hybridauth-url&#039;), &#039;hybridauth&#039;, &#039;location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500&#039;); popup_window.focus(); return false;"><span class="hybridauth-icon hybridauth-live" title="Windows Live"></span></a>				<a data-ajax="false" class="hybridauth-widget-provider provider_link" data-hybridauth-url="/hybridauth/window/Live?destination=node%2F723908" data-hybridauth-provider="Live" rel="nofollow" href="/hybridauth/window/Live?destination=node%2F723908" onclick="popup_window = window.open(jQuery(this).attr('data-hybridauth-url'), 'hybridauth', 'location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500'); popup_window.focus(); return false;">
+					<span title="Live">Login with Live</span> 
+				</a>
+			</li>
+		</ul>
+	<div class="clear-both"><br/></div>
+</div>  </div>
+</div>
+<!-- /block.tpl.php -->                                        </div>
+        </div>
+      <!-- END SIDEBAR RIGHT -->
+          </div>
+
+
+    <!-- END CONTAINER -->
+    <div class="push">&nbsp;</div>
+
+  <div id="footer" class="layout-region">
+    <div id="footer-inner">
+      <div id="block-block-11" class="block block-block block-even region-odd clearfix  ">
+    <div class="content">
+    <span dir="ltr">© 2000 - 2015 Al Bawaba (<a href="http://www.albawaba.com">www.albawaba.com</a>)</span>
+<script type="text/javascript">
+function setCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+</script>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-menu-menu-footer-links" class="block block-menu block-odd region-even clearfix style-menu  ">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/corporate" title="">About Us</a></li>
+<li class="leaf"><a href="/advertising" title="">Advertising</a></li>
+<li class="leaf"><a href="/content" title="">Content</a></li>
+<li class="leaf"><a href="/corporate-contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="http://www.albawaba.com/en/node/355857" title="">PR Services</a></li>
+<li class="leaf"><a href="/rss" title="Al Bawaba RSS Feeds">RSS</a></li>
+<li class="leaf last"><a href="/abstatic/terms-use-509516" title="">Terms of Use</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php -->              
+    </div>
+  </div>
+
+  </div>
+  <!-- END WRAPPER -->
+  <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "238670832892630",
+         status: true, 
+         cookie: true,
+         xfbml: true});
+       
+         jQuery.event.trigger('fb:init');    
+     };
+     (function() {
+       var e = document.createElement('script'); 
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (typeof addthis != "undefined") {addthis.init();}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (Drupal && Drupal.quicktabs) {
+  Drupal.quicktabs.scripts = {"\/misc\/jquery.js?1":"\/misc\/jquery.js?1","\/misc\/drupal.js?1":"\/misc\/drupal.js?1","\/misc\/progress.js?1":"\/misc\/progress.js?1","\/sites\/all\/modules\/ab_channel_series\/ab_channel_series.js?1":"\/sites\/all\/modules\/ab_channel_series\/ab_channel_series.js?1","\/sites\/all\/modules\/ab_comments\/ab_comments.js?1":"\/sites\/all\/modules\/ab_comments\/ab_comments.js?1","\/sites\/all\/modules\/ab_prayer\/ab_prayer.js?1":"\/sites\/all\/modules\/ab_prayer\/ab_prayer.js?1","\/sites\/all\/modules\/ab_prayer\/ab_prayer_script.js?1":"\/sites\/all\/modules\/ab_prayer\/ab_prayer_script.js?1","\/sites\/all\/modules\/ab_syndigate\/ab_syndigate.js?1":"\/sites\/all\/modules\/ab_syndigate\/ab_syndigate.js?1","\/sites\/all\/modules\/ab_util\/ab_util.js?1":"\/sites\/all\/modules\/ab_util\/ab_util.js?1","\/sites\/all\/modules\/ab_weather\/jquery-autocomplete\/jquery.autocomplete.js?1":"\/sites\/all\/modules\/ab_weather\/jquery-autocomplete\/jquery.autocomplete.js?1","\/sites\/all\/modules\/ab_weather\/ab_weather.js?1":"\/sites\/all\/modules\/ab_weather\/ab_weather.js?1","\/misc\/jquery.form.js?1":"\/misc\/jquery.form.js?1","\/sites\/all\/modules\/ajax_poll\/ajax_poll.js?1":"\/sites\/all\/modules\/ajax_poll\/ajax_poll.js?1","\/sites\/all\/modules\/fivestar\/js\/fivestar.js?1":"\/sites\/all\/modules\/fivestar\/js\/fivestar.js?1","\/sites\/all\/modules\/lightbox2\/js\/lightbox.js?1":"\/sites\/all\/modules\/lightbox2\/js\/lightbox.js?1","\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js?1":"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js?1","\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.accordion.min.js?1":"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.accordion.min.js?1","\/sites\/all\/modules\/msdropdown\/msdropdown\/js\/jquery.dd.js?1":"\/sites\/all\/modules\/msdropdown\/msdropdown\/js\/jquery.dd.js?1","\/sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js?1":"\/sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js?1","\/sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js?1":"\/sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js?1","\/sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js?1":"\/sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js?1","\/sites\/all\/modules\/nice_menus\/nice_menus.js?1":"\/sites\/all\/modules\/nice_menus\/nice_menus.js?1","\/sites\/all\/modules\/panels\/js\/panels.js?1":"\/sites\/all\/modules\/panels\/js\/panels.js?1","\/sites\/all\/modules\/video\/js\/admin.js?1":"\/sites\/all\/modules\/video\/js\/admin.js?1","\/sites\/all\/modules\/main_headlines_carousel\/main_headlines_carousel.js?1":"\/sites\/all\/modules\/main_headlines_carousel\/main_headlines_carousel.js?1","\/sites\/all\/modules\/ab_follow\/ab_follow.js?1":"\/sites\/all\/modules\/ab_follow\/ab_follow.js?1","\/sites\/all\/modules\/jcarousel\/jcarousel\/lib\/jquery.jcarousel.jsmin.js?1":"\/sites\/all\/modules\/jcarousel\/jcarousel\/lib\/jquery.jcarousel.jsmin.js?1","\/sites\/all\/modules\/jcarousel\/jcarousel.js?1":"\/sites\/all\/modules\/jcarousel\/jcarousel.js?1","\/sites\/all\/modules\/quicktabs\/js\/quicktabs.js?1":"\/sites\/all\/modules\/quicktabs\/js\/quicktabs.js?1","\/sites\/all\/modules\/views\/js\/base.js?1":"\/sites\/all\/modules\/views\/js\/base.js?1","\/sites\/all\/modules\/views\/js\/ajax_view.js?1":"\/sites\/all\/modules\/views\/js\/ajax_view.js?1","\/sites\/all\/modules\/hybridauth\/js\/hybridauth.js?1":"\/sites\/all\/modules\/hybridauth\/js\/hybridauth.js?1","\/sites\/all\/themes\/sky\/scripts\/hoverIntent.js?1":"\/sites\/all\/themes\/sky\/scripts\/hoverIntent.js?1","\/sites\/all\/themes\/sky\/scripts\/superfish.js?1":"\/sites\/all\/themes\/sky\/scripts\/superfish.js?1","\/sites\/all\/themes\/sky\/scripts\/sky.js?1":"\/sites\/all\/themes\/sky\/scripts\/sky.js?1"};
+  Drupal.quicktabs.css = {"\/modules\/node\/node.css?1":"\/modules\/node\/node.css?1","\/modules\/system\/defaults.css?1":"\/modules\/system\/defaults.css?1","\/modules\/system\/system.css?1":"\/modules\/system\/system.css?1","\/modules\/user\/user.css?1":"\/modules\/user\/user.css?1","\/sites\/all\/modules\/ab_util\/ab_util.css?1":"\/sites\/all\/modules\/ab_util\/ab_util.css?1","\/sites\/all\/modules\/ab_weather\/jquery-autocomplete\/jquery.autocomplete.css?1":"\/sites\/all\/modules\/ab_weather\/jquery-autocomplete\/jquery.autocomplete.css?1","\/sites\/all\/modules\/cck\/theme\/content-module.css?1":"\/sites\/all\/modules\/cck\/theme\/content-module.css?1","\/sites\/all\/modules\/ctools\/css\/ctools.css?1":"\/sites\/all\/modules\/ctools\/css\/ctools.css?1","\/sites\/all\/modules\/date\/date.css?1":"\/sites\/all\/modules\/date\/date.css?1","\/sites\/all\/modules\/date\/date_popup\/themes\/datepicker.css?1":"\/sites\/all\/modules\/date\/date_popup\/themes\/datepicker.css?1","\/sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css?1":"\/sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css?1","\/sites\/all\/modules\/filefield\/filefield.css?1":"\/sites\/all\/modules\/filefield\/filefield.css?1","\/sites\/all\/modules\/fivestar\/css\/fivestar.css?1":"\/sites\/all\/modules\/fivestar\/css\/fivestar.css?1","\/sites\/default\/files\/fivestar\/oxygen\/oxygen.css?1":"\/sites\/default\/files\/fivestar\/oxygen\/oxygen.css?1","\/sites\/all\/modules\/lightbox2\/css\/lightbox.css?1":"\/sites\/all\/modules\/lightbox2\/css\/lightbox.css?1","\/sites\/all\/modules\/msdropdown\/msdropdown\/dd.css?1":"\/sites\/all\/modules\/msdropdown\/msdropdown\/dd.css?1","\/sites\/all\/modules\/nice_menus\/nice_menus.css?1":"\/sites\/all\/modules\/nice_menus\/nice_menus.css?1","\/sites\/all\/modules\/nice_menus\/nice_menus_default.css?1":"\/sites\/all\/modules\/nice_menus\/nice_menus_default.css?1","\/sites\/all\/modules\/panels\/css\/panels.css?1":"\/sites\/all\/modules\/panels\/css\/panels.css?1","\/sites\/all\/modules\/poll\/poll.css?1":"\/sites\/all\/modules\/poll\/poll.css?1","\/sites\/all\/modules\/rate\/rate.css?1":"\/sites\/all\/modules\/rate\/rate.css?1","\/sites\/all\/modules\/video\/css\/video.css?1":"\/sites\/all\/modules\/video\/css\/video.css?1","\/sites\/all\/modules\/cck\/modules\/fieldgroup\/fieldgroup.css?1":"\/sites\/all\/modules\/cck\/modules\/fieldgroup\/fieldgroup.css?1","\/sites\/all\/modules\/views\/css\/views.css?1":"\/sites\/all\/modules\/views\/css\/views.css?1","\/sites\/all\/modules\/main_headlines_carousel\/skin.css?1":"\/sites\/all\/modules\/main_headlines_carousel\/skin.css?1","\/sites\/all\/modules\/jcarousel\/jcarousel\/lib\/jquery.jcarousel.css?1":"\/sites\/all\/modules\/jcarousel\/jcarousel\/lib\/jquery.jcarousel.css?1","\/sites\/all\/modules\/jcarousel\/jcarousel.css?1":"\/sites\/all\/modules\/jcarousel\/jcarousel.css?1","\/sites\/all\/modules\/jcarousel\/jcarousel\/skins\/tango\/skin.css?1":"\/sites\/all\/modules\/jcarousel\/jcarousel\/skins\/tango\/skin.css?1","\/sites\/all\/modules\/quicktabs\/css\/quicktabs.css?1":"\/sites\/all\/modules\/quicktabs\/css\/quicktabs.css?1","\/sites\/all\/modules\/quicktabs\/tabstyles\/sky\/sky.css?1":"\/sites\/all\/modules\/quicktabs\/tabstyles\/sky\/sky.css?1","\/sites\/all\/modules\/hybridauth\/plugins\/icon_pack\/hybridauth_32\/hybridauth_32.css?1":"\/sites\/all\/modules\/hybridauth\/plugins\/icon_pack\/hybridauth_32\/hybridauth_32.css?1","\/sites\/all\/modules\/hybridauth\/css\/hybridauth.css?1":"\/sites\/all\/modules\/hybridauth\/css\/hybridauth.css?1","\/sites\/all\/modules\/ab_comments\/ab_comments.css?1":"\/sites\/all\/modules\/ab_comments\/ab_comments.css?1","\/sites\/all\/themes\/sky\/css\/layout.css?1":"\/sites\/all\/themes\/sky\/css\/layout.css?1","\/sites\/all\/themes\/sky\/style.css?1":"\/sites\/all\/themes\/sky\/style.css?1","\/sites\/all\/themes\/sky\/channel-style.css?1":"\/sites\/all\/themes\/sky\/channel-style.css?1"};
+}
+//--><!]]>
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9239682-4', 'albawaba.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+                var addthis_config = {
+        data_ga_property: 'UA-9239682-4',
+        data_track_clickback: true
+                };
+        </script>
+<script src="http://interyield.td553.com/InterYield/bindevent.do?e=click&affiliate=albawaba&subid=nosubid&ecpm=0&debug=false&snoozeMinutes=3&adCountIntervalHours=24&maxAdCountsPerInterval=1&pop=under&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td553.com" type="text/javascript"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"39df5e8ddd","applicationID":"5915511","transactionName":"YAMDYkFYD0JQU00KCVlJIFVHUA5fHl5WBwNoFgBRVmYXWFRH","queueTime":0,"applicationTime":2590,"atts":"TEQAFAlCHEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>

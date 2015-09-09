@@ -1,0 +1,719 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="keywords" content="AJW,Asahi Shimbun,Japan,news,analysis,Earthquake,Fukushima,nuclear crisis,Osaka University,laser,technology"><meta name="description" content="OSAKA--Osaka University scientists said they fired the world&#039;s most powerful laser beam.">
+
+<meta property="og:title" content="World&#039;s most powerful laser beam blasts out from Osaka - AJW by The Asahi Shimbun" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" />
+<meta property="og:image" content="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/28/AJ201507280057/AJ201507280058M.jpg" />
+<meta property="og:site_name" content="AJW by The Asahi Shimbun" />
+<meta property="fb:app_id" content="225172280833257" />
+<title>World&#039;s most powerful laser beam blasts out from Osaka - AJW by The Asahi Shimbun</title>
+<link rel="stylesheet" href="/media/css/styles.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/media/css/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="/media/img/favicon.ico" />
+<link rel="canonical" href="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" />
+<link rel="alternate" type="application/rss+xml" title="AJW by The Asahi Shimbun RSS Feed" href="http://ajw.asahi.com/feed/" />
+<link href="//fonts.googleapis.com/css?family=Ruda:400,700" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="/media/js/ajw/nmd/ajw.js"></script>
+<script src="/media/js/ajw/unmd/frc.js"></script>
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="/media/css/disable.css" type="text/css" />
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="/media/js/wja/jquery.pseudo.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+var interval_id;
+var languages = {
+	"en": {
+		"y": "0",
+		"title_link": "#FFF",
+		"menu_bg": "#333",
+		"menu_link": "#FFF"
+	}
+	,
+	"cn": {
+		"y": "-40",
+		"title_link": "#003a87",
+		"menu_bg": "#f3f1e2",
+		"menu_link": "#003a87"
+	}
+	,
+	"ja": {
+		"y": "-80",
+		"title_link": "#00345C",
+		"menu_bg": "#EBEBEB",
+		"menu_link": "#00345C"
+	}
+	,
+	"kr": {
+		"y": "-120",
+		"title_link": "#FFF",
+		"menu_bg": "#E6E6E6",
+		"menu_link": "#2E2E66"
+	}
+};
+
+$(function(){
+	$("#footer_languages ul li a").hover(
+		function(){
+			clearReset();
+			setColour(this.id.slice(-2));
+		}, 
+		function(){
+			startReset();
+		}
+	);
+});
+
+function setColour(country) {
+	$("#footer #footer_titles").stop().animate({
+		top: languages[country].y + "px" 
+	}, 200 );
+
+	$("#footer_languages a").css({
+		color: languages[country].title_link
+	});
+
+	$("#footer .footer_menu").css({
+		backgroundColor: languages[country].menu_bg
+	});
+
+	$("#footer .footer_menu ul li a").css({
+		color: languages[country].menu_link
+	});
+}
+
+function Reset() {
+	setColour("en");
+	clearReset();
+}
+
+function startReset() {
+	interval_id = setInterval(function() {
+		Reset();
+	}, 2000);
+}
+
+function clearReset() {
+	clearInterval(interval_id);
+}
+</script>
+
+
+<script src="/media/js/ajw/nmd/display_manager.js" type="text/javascript" charset="UTF-8"></script>
+	<script src="/media/js/ajw/nmd/query_editor.js" type="text/javascript" charset="UTF-8"></script>
+	<script src="/media/js/ajw/unmd/article.printout.js" type="text/javascript" charset="UTF-8"></script>
+	<script src="https://maps.google.com/maps/api/js?sensor=false&language=en" type="text/javascript" charset="UTF-8"></script>
+	<script src="/media/js/ajw/unmd/article.map.js" type="text/javascript" charset="UTF-8"></script><script src="/media/js/wja/colorbox/jquery.colorbox-min.js"></script>
+<link rel="stylesheet" href="/media/js/wja/colorbox/colorbox.css" type="text/css" />
+</head>
+<body >
+<div id="container_wrap">
+	<div id="container">
+		<div id="header_wrap">
+<script type="text/javascript" charset="UTF-8">
+
+$(function(){
+	$("#btn_select_lang").toggle(
+		function(){
+			$("#languages").stop().animate({
+				height: "128px" 
+			}, 100 );
+		}, 
+		function(){
+			$("#languages").stop().animate({
+				height: "0px" 
+			}, 100 );
+		}
+	);
+});
+
+
+</script>
+			<div id="languages" class="">
+				<a class="lang_item" id="lang_ja" href="http://www.asahi.com/" target="_blank">
+					<span class="inner">
+						<span class="title">朝日新聞デジタル</span>
+						<span class="country">Japanese</span>
+					</span>
+				</a>
+				<a class="lang_item" id="lang_cn" href="http://asahichinese.com/" target="_blank">
+					<span class="inner">
+						<span class="title">朝日新聞中文网</span>
+						<span class="country">Chinese</span>
+					</span>
+				</a>
+				<a class="lang_item" id="lang_kr" href="http://asahikorean.com/" target="_blank">
+					<span class="inner">
+						<span class="title">Asahi Asia Antenna - 독자와 함께</span>
+						<span class="country">Korean</span>
+					</span>
+				</a>
+			</div>
+			<div id="header">
+				<div id="title_main" class="default">
+					<div class="header_inner">
+						<strong><a href="http://ajw.asahi.com/">The Asahi Shimbun | AJW Asia and Japan Watch</a></strong>
+						<div id="select_language"><a id="btn_select_lang" href="#"><span>language</span></a></div>
+						<div id="header_tools">
+
+<div id="user_menu">
+	<ul class="public">
+		<li id="register"><a href="/register">Register</a></li>
+		<li id="login"><a href="/login">Log In</a></li>
+	</ul>
+</div>
+							<ul class="services">
+								<li id="service_rss"><a href="/feed/" target="_blank">RSS</a></li>
+								<li id="service_fb"><a href="http://www.facebook.com/AJW.Asahi" target="_blank">AJW.Asahi</a></li>
+								<li id="service_tw"><a href="http://twitter.com/#!/ajwasahi" target="_blank">ajwasahi</a></li>
+							</ul>
+							<div class="search_box">
+								<form action="/search/" method="get" id="searchform" name="searchform">
+									<input type="text" value="" id="keywords" name="q" />
+									<input type="submit" value="" id="searchBtn" />
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+	<div class="all_categories clearfix">
+		<div class="main_categories">
+			<div class="inner">
+										<div class="category category_behind_news">
+					<div class="parent"><a href="http://ajw.asahi.com/category/behind_news/">Behind the News</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/behind_news/politics/">Politics</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/behind_news/social_affairs/">Social Affairs</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/behind_news/people/">People</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/behind_news/sports/">Sports</a></div>
+												</div>
+													<div class="category category_0311disaster">
+					<div class="parent"><a href="http://ajw.asahi.com/category/0311disaster/">3/11 Disaster</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/0311disaster/fukushima/">Fukushima nuclear crisis</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/0311disaster/life_and_death/">Life and Death</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/0311disaster/quake_tsunami/">Quake and Tsunami</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/0311disaster/recovery/">Recovery</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/0311disaster/analysis_opinion/">Analysis and Opinion</a></div>
+												</div>
+													<div class="category category_cool_japan">
+					<div class="parent"><a href="http://ajw.asahi.com/category/cool_japan/">Cool Japan</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/cool_japan/style/">Style</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/cool_japan/fun_spots/">Fun Spots</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/cool_japan/anime_news/">Anime News</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/cool_japan/movies/">Movies</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/cool_japan/cooking/">Cooking</a></div>
+												</div>
+													<div class="category category_asia">
+					<div class="parent"><a href="http://ajw.asahi.com/category/asia/">Asia</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/asia/china/">China</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/asia/korean_peninsula/">Korean Peninsula</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/asia/around_asia/">Around Asia</a></div>
+												</div>
+													<div class="category category_sci_tech">
+					<div class="parent"><a href="http://ajw.asahi.com/category/sci_tech/">Sci &amp; Tech</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/sci_tech/science/">Science</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/sci_tech/technology/">Technology</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/sci_tech/medical/">Medical</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/sci_tech/environment/">Environment</a></div>
+												</div>
+													<div class="category category_business">
+					<div class="parent"><a href="http://ajw.asahi.com/category/business/">Business</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/business/">Business</a></div>
+								</div>
+													<div class="category category_views">
+					<div class="parent"><a href="http://ajw.asahi.com/category/views/">Views</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/views/opinion/">Opinion</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/views/editorial/">Editorial</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/views/vox/">Vox Populi, Vox Dei</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/views/column/">The Column</a></div>
+												</div>
+																																	</div>
+		</div>
+		<div class="special_categories">
+			<div class="inner">
+																																																				<div class="category">
+					<div class="parent"><a href="http://ajw.asahi.com/category/globe/">GLOBE</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/globe/feature/">Feature</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/globe/people/">People</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/globe/economy/">Economy</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/globe/backstage/">Backstage</a></div>
+												</div>
+													<div class="category">
+					<div class="parent"><a href="http://ajw.asahi.com/category/special/">Special</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/special/">Special</a></div>
+								</div>
+													<div class="category forum">
+					<div class="parent"><a href="http://ajw.asahi.com/category/forum/">Forum</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/forum/security_and_territorial_issues/">Security and Territorial Issues</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/forum/politics_and_economy/">Politics and Economy</a></div>
+												</div>
+													<div class="category">
+					<div class="parent"><a href="http://ajw.asahi.com/category/travel/">Travel</a></div>
+													<div class="child"><a href="http://ajw.asahi.com/category/travel/destination/">Destination</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/travel/sightseeing/">Sightseeing</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/travel/shopping/">Shopping</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/travel/food/">Food</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/travel/drink/">Drink</a></div>
+									<div class="child"><a href="http://ajw.asahi.com/category/travel/accommodation/">Accommodation</a></div>
+												</div>
+										<div class="category">
+					<div class="whatsnew"><a href="http://ajw.asahi.com/whatsnew">What's New</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="btn_close_wrap">
+			<div class="btn_close">
+				<a href="javascript:void(0);" id="close_button">Close</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="categories">
+		<ul id="top_category">
+			<li id="header_topcategory_behind_news"><a href="http://ajw.asahi.com/category/behind_news/">Behind the News</a></li>
+			<li id="header_topcategory_0311disaster"><a href="http://ajw.asahi.com/category/0311disaster/">3/11 Disaster</a></li>
+			<li id="header_topcategory_cool_japan"><a href="http://ajw.asahi.com/category/cool_japan/">Cool Japan</a></li>
+			<li id="header_topcategory_asia"><a href="http://ajw.asahi.com/category/asia/">Asia</a></li>
+			<li id="header_topcategory_sci_tech"><a href="http://ajw.asahi.com/category/sci_tech/">Sci &amp; Tech</a></li>
+			<li id="header_topcategory_business"><a href="http://ajw.asahi.com/category/business/">Business</a></li>
+			<li id="header_topcategory_views"><a href="http://ajw.asahi.com/category/views/">Views</a></li>
+			<li id="header_topcategory_globe"><a href="http://ajw.asahi.com/category/globe/">GLOBE</a></li>
+			<li id="header_topcategory_special"><a href="http://ajw.asahi.com/category/special/">Special</a></li>
+			<li id="header_topcategory_forum"><a href="http://ajw.asahi.com/category/forum/">Forum</a></li>
+			<li id="header_topcategory_travel"><a href="http://ajw.asahi.com/category/travel/">Travel</a></li>
+			<li id="header_topcategory_whatsnew"><a href="http://ajw.asahi.com/whatsnew"><span class="date">What's New</span></a></li>
+		</ul>
+<!--
+<div class="btn_open_wrap">
+	<div class="btn_open">
+		<a href="javascript:void(0);" id="open_button">Open</a>
+	</div>
+</div>
+-->
+	</div>
+
+
+
+
+	<div class="categories">
+		<ul>
+						<li id="header_subcategory_science"><a href="http://ajw.asahi.com/category/sci_tech/science/">Science</a></li>
+						<li id="header_subcategory_technology"><a href="http://ajw.asahi.com/category/sci_tech/technology/">Technology</a></li>
+						<li id="header_subcategory_medical"><a href="http://ajw.asahi.com/category/sci_tech/medical/">Medical</a></li>
+						<li id="header_subcategory_environment"><a href="http://ajw.asahi.com/category/sci_tech/environment/">Environment</a></li>
+					</ul>
+	</div>
+
+
+
+
+<script type="text/javascript">
+
+$(function(){
+	var
+	 class_name_top = class_name_2nd = class_name_3rd = "current"
+	,parts = location.pathname.split("/")
+	;
+
+	var btn_open = '<div class="btn_open_wrap"><div class="btn_open"><a href="javascript:void(0);" id="open_button">Open</a></div></div>'
+	$(".categories:last").append(btn_open);
+
+	$(".btn_open a").on({
+		"click": menukHandler
+	});
+
+	$(".btn_close a").on({
+		"click": menukHandler
+	});
+
+	if (parts[1] == '') {
+		$("#header_topcategory_whatsnew").hide();
+	}
+
+	if (parts[1] != 'article' && parts[1] != 'category') {
+		return true;
+	}
+
+	// 1st
+	if (parts[2] != undefined) {
+		$("#header_topcategory_" + parts[2]).addClass( class_name_top );
+	}
+
+	// 2nd
+	if (parts[3] != undefined) {
+		$("#header_subcategory_" + parts[3]).addClass( class_name_2nd );
+	}
+
+	// 3rd
+	if (parts[4] != undefined) {
+		$("#header_thirdcategory_" + parts[4]).addClass( class_name_3rd );
+	}
+
+	// drop down
+	var   btn_dropdown = $("#dropdown_categories  .btn_dropdown")
+		, dropdown_list = $("#dropdown_categories > ul.dropdown ul")
+
+	$("body").bind("click", function(){
+		dropdown_list.hide();
+		btn_dropdown.removeClass("current");
+		btn_dropdown.attr("current", "");
+	});
+
+	btn_dropdown.bind("click", function(e){
+		dropdown_list.hide();
+		btn_dropdown.removeClass("current");
+		if ( $(this).attr("current") == 1 ) {
+			$(this).attr("current", "");
+			$(this).removeClass("current");
+			$(this).nextAll("ul").hide();
+		}
+		else {
+			btn_dropdown.attr("current", "");
+			$(this).attr("current", 1);
+			$(this).addClass("current");
+			$(this).nextAll("ul").show();
+		}
+		
+		e.stopPropagation();
+	});
+
+});
+
+function menukHandler(e){
+	if ($(this).attr("id") == "open_button") {
+		$(".all_categories").fadeIn("fast");
+	}
+	else if ($(this).attr("id") == "close_button") {
+		$(".all_categories").hide();
+	}
+
+}
+
+</script>
+			</div>
+		</div>
+	
+	
+<div class="ad_wide">
+
+	<!-- Ad BGN -->
+
+	<!-- impact AJW_ENGLISH_BANNER BGN -->
+	<script type="text/javascript" language="JavaScript">
+	<!-- 
+	impAserver = "http://imp.asahi.com";
+	impAtarget = "/SITE=AJW.ENGLISH/AREA=BANNER/AAMSZ=728X90/OENCJP=UTF8";
+	impArnd = Math.round(Math.random() * 100000000);
+	if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+	document.write('<scr');
+	document.write('ipt src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+	document.write('</scr');
+	document.write('ipt>');
+	//-->
+	</script>
+	<!-- impact AJW_ENGLISH_BANNER END -->
+
+	<!-- Ad END -->
+
+</div>
+
+
+
+
+<script type="text/javascript">
+$(function(){
+	/* ------------------------------------------------------------------- */
+	var objDisplayManager = AJW.displayManager( 'img55b728a7bb08d', [{"type":"photo","caption":"The high-output laser \"LFEX\" at Osaka University's Institute of Laser Engineering (Asahi Shimbun file photo)","credit":"","reference":{"src":"AJ201507280058.jpg","name":"AJ201507280058","width":"374","height":"537"},"group_id":"img55b728a7bb08d"}], [{"type":"photo_middle","caption":"The high-output laser \"LFEX\" at Osaka University's Institute of Laser Engineering (Asahi Shimbun file photo)","credit":"","reference":{"src":"AJ201507280058M.jpg","name":"AJ201507280058M","width":"261","height":"375","large_size_img":"AJ201507280058.jpg"},"group_id":"img55b728a7bb08d"}] );
+	/* ------------------------------------------------------------------- */
+	$(".paging > ul > li > a").bind("click", function(){
+		var href = AJW.queryEditor( this.href, "imgIX", objDisplayManager.selectedSumbnailIndex());
+		this.href = href;
+		return true;
+	});
+});
+</script>
+
+		<div id="content">
+			<div id="article_head_wrap">
+				<div id="article_head">
+					<h1>World&#039;s most powerful laser beam blasts out from Osaka</h1>
+				</div>
+			</div>
+			<div id="photo_large_wrap"><div id="photo_large"></div></div>			<div id="article_wrap">
+				<div id="article">
+					<div class="meta">
+						<span class="date">July 28, 2015</span>
+						<div id="btn_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" data-text="World's most powerful laser beam blasts out from Osaka" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+						<div id="btn_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fsci_tech%2Ftechnology%2FAJ201507280057&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+						<div id="btn_go"><g:plusone href="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+					</div>
+					<p class="author">By TATSUYUKI KOBORI/ Staff Writer</p>					<div class="body">
+													<div class="text">
+																<p>OSAKA--Osaka University scientists said they fired the world's most powerful laser beam.</p>
+        <p>It instantaneously concentrated energy equivalent to 1,000 times the world's electricity consumption and entered the record books as the most powerful laser beam ever emitted, the researchers said on July 27.</p>
+        <p>Although the energy of the laser beam itself was only powerful enough to run a microwave for about two seconds, the team was able to attain the massive output by concentrating the power to 1 pico-second, or one-trillionth of a second.</p>
+        <p>The team at the university's Institute of Laser Engineering emitted a 2-petawatt, or 2 quadrillion-watt, laser beam using the huge "LFEX" (Laser for Fast Ignition Experiments).</p>
+        <p>The LFEX is about 100 meters long, including the observation apparatus. The four set of devices to amplify the laser beam were completed at the end of last year.</p>
+        <p>In the experiment, energy was applied to special glass using devices that were basically lamps resembling ordinary fluorescent tubes, repeatedly amplifying the power of the beam.</p>
+        <p>The team held experiments continuously and confirmed this month that a record has been achieved.</p>
+        <p>"With heated competition in the world to improve the performance of lasers, our goal now is to increase our output to 10 petawatts," said the institute's Junji Kawanaka, an associate professor of electrical engineering at the university.</p>
+							</div>
+							<div class="author">
+																										<span>By TATSUYUKI KOBORI/ Staff Writer</span>
+															</div>											</div>					<div class="tags">
+						<ul>
+													<li><a href="/tag/Osaka University">Osaka University</a></li>
+													<li><a href="/tag/laser">laser</a></li>
+													<li><a href="/tag/technology">technology</a></li>
+												</ul>
+					</div>
+					 						<div class="paging"><ul><li class="prev disabled"><span>&laquo; Prev</span></li><li class="current"><strong><span>1</span></strong></li><li class="next disabled"><span>Next &raquo;</span></li></ul></div>
+										<div class="bookmark">
+						<div class="socials">
+							<div class="socials_inner">
+								<div class="tool_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" data-text="World's most powerful laser beam blasts out from Osaka" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tool_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fsci_tech%2Ftechnology%2FAJ201507280057&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+							</div>
+							<div class="socials_inner">
+								<div class="tool_go"><g:plusone href="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+								<div class="tool_dg"><script type="text/javascript">
+	  (function() {
+	  var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
+	  s.type = 'text/javascript';
+	  s.async = true;
+	  s.src = 'http://widgets.digg.com/buttons.js';
+	  s1.parentNode.insertBefore(s, s1);
+	  })();
+	  </script>
+	 <a class="DiggThisButton DiggIcon"></a></div>
+								<div class="tool_li"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057"></script></div>
+								<div class="tool_rd"><a href="http://www.reddit.com/submit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(window.location)); return false" ><img src="http://www.reddit.com/static/spreddit5.gif" alt="submit to reddit" border="0" /></a></div>
+								<div class="tool_su"><script src="http://www.stumbleupon.com/hostedbadge.php?s=4&r=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fsci_tech%2Ftechnology%2FAJ201507280057"></script></div>
+							</div>
+						</div>
+						<div class="functions">														<a id="btn_mail" href="mailto:?body=%0D%0AWorld%27s%20most%20powerful%20laser%20beam%20blasts%20out%20from%20Osaka%0D%0Ahttp%3A%2F%2Fajw.asahi.com%2Farticle%2Fsci_tech%2Ftechnology%2FAJ201507280057">Mail</a>
+							<a id="printout" href="javascript:void(0)" target_cat="/sci_tech/technology/" target_aid="AJ201507280057">Print</a>
+						</div>
+					</div>
+					<div class="fb_wall">
+			<script>
+				(function(){
+					var html = document.getElementsByTagName("html")[0];
+					html.setAttribute("xmlns:fb", "http://ogp.me/ns/fb#");
+
+					if(! document.getElementById("fb-root") ){
+						var  fb_div = document.createElement("div")
+							,body = document.getElementsByTagName("body")[0]
+							,firstchild = body.firstChild
+							;
+						fb_div.id = "fb-root";
+						body.insertBefore(fb_div, firstchild);
+					}
+				}())
+			</script>
+			
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=225172280833257";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<fb:comments href="http://ajw.asahi.com/article/sci_tech/technology/AJ201507280057" num_posts="2" width="462"></fb:comments></div>
+				</div>				<div id="aside">
+
+								<div class="ad_rectangle">
+
+	<div class="ad_inner">
+
+	<!-- Ad BGN -->
+
+	<!-- impact AJW_ENGLISH_RECT BGN -->
+	<script type="text/javascript" language="JavaScript">
+	<!-- 
+	impAserver = "http://imp.asahi.com";
+	impAtarget = "/SITE=AJW.ENGLISH/AREA=RECT/AAMSZ=300X250/OENCJP=UTF8";
+	impArnd = Math.round(Math.random() * 100000000);
+	if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+	document.write('<scr');
+	document.write('ipt src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+	document.write('</scr');
+	document.write('ipt>');
+	//-->
+	</script>
+	<!-- impact AJW_ENGLISH_RECT END -->
+
+<!-- Ad END -->
+	</div>
+
+</div>
+
+
+
+					<div id="separate"></div>
+									<div class="aside_section" id="photo_small">
+						<div id="photo">
+																					<div class="item">
+								<div class="photo_img"><img id="main_photo_img" src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/28/AJ201507280057/AJ201507280058M.jpg" alt="The high-output laser &quot;LFEX&quot; at Osaka University&#039;s Institute of Laser Engineering (Asahi Shimbun file photo) " /> </div>
+								<div class="photo_info">
+									<p id="main_photo_caption">The high-output laser &quot;LFEX&quot; at Osaka University&#039;s Institute of Laser Engineering (Asahi Shimbun file photo)</p>
+									<p id="main_photo_credit"></p>
+								</div>
+								
+								<a href="javascript:void(0);" id="btn_toggle">Toggle</a>
+							</div>
+																																<div id="photo_list">
+					<ul>
+						<li class="thumb current" id="img55b728a7bb08d_li"><a href="javascript:void(0);" id="img55b728a7bb08d_a"><img id="img55b728a7bb08d_s" class="thumbnail" src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/28/AJ201507280057/AJ201507280058S.jpg" alt="The high-output laser &quot;LFEX&quot; at Osaka University&#039;s Institute of Laser Engineering (Asahi Shimbun file photo)" width="99" height="99" title="The high-output laser &quot;LFEX&quot; at Osaka University&#039;s Institute of Laser Engineering (Asahi Shimbun file photo)" /></a></li>
+					</ul>
+				</div>																				</div>					</div>				
+																									<div class="aside_section" id="map_block">
+						<div id="map"></div>
+						<div id="anchors" class="clearfix">
+																													<a href="javascript:void(0);" class="point" id="loc_0" lat="34.822014" lng="135.524467">Osaka University, Osaka</a>
+																																	</div>
+					</div>
+															<div class="aside_section">
+						<div id="ajw_forum_banner">
+							<a href="/category/forum/">AJW Forum Welcome to our new community of thoughtful contributors on the state of East Asian affairs.</a>
+						</div>
+					</div>					<div class="aside_section">
+						<div id="more_ajw">
+							<h3>More AJW</h3>
+							<ul>
+								<li id="service_fb"><a href="http://www.facebook.com/AJW.Asahi" target="_blank">Facebook</a></li>
+								<li id="service_tw"><a href="http://twitter.com/#!/ajwasahi" target="_blank">Twitter</a></li>
+							</ul>
+						</div>
+					</div>  					<div class="aside_section">
+						<div id="subscribe_now">
+							<a href="/register">Subscribe now to The Asahi Shimbun AJW. A special commemorative rate is available</a>
+						</div>
+					</div>
+									<div class="aside_section" id="related_block">
+						<h3>Related Articles</h3>
+												<div class="related_item">
+														<div class="thumbnail"><a href="/article/sci_tech/technology/AJ201507170053"><img src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/17/AJ201507170053/AJ201507170054S.jpg" alt="A drone takes off from a launch pad in a laboratory in Uji, Kyoto Prefecture, in an experiment July 16. (Tatsuyuki Kobori)" width="99" height="99" /></a></div>
+														<p class="headline"><a href="/article/sci_tech/technology/AJ201507170053">Drones locating sensors on ground could aid work in disaster areas</a></p>
+							<span class="date">July 17, 2015</span>
+							<p class="summary">UJI, Kyoto Prefecture--An airborne drone activated sensors at ground level using wireless power transfer technology that could help locate people stranded or lost during a disaster.</p>
+							<div class="tools">
+									<div class="tools_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/sci_tech/technology/AJ201507170053" data-text="Drones locating sensors on ground could aid work in disaster areas" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tools_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fsci_tech%2Ftechnology%2FAJ201507170053&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+								<div class="tools_go"><g:plusone href="http://ajw.asahi.com/article/sci_tech/technology/AJ201507170053" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+							</div>
+						</div>
+												<div class="related_item">
+														<div class="thumbnail"><a href="/article/sci_tech/technology/AJ201507060053"><img src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/06/AJ201507060053/AJ201507060054S.jpg" alt="An electronic signboard that uses Japan Display Inc.&#039;s latest reflective-type color LCD technology in Tokyo in June (Shinya Takagi)" width="99" height="99" /></a></div>
+														<p class="headline"><a href="/article/sci_tech/technology/AJ201507060053">Japan Display touts reflective display that needs just 1% of electricity of current LCDs</a></p>
+							<span class="date">July 06, 2015</span>
+							<p class="summary">Liquid crystal display manufacturer Japan Display Inc. unveiled an improved reflective-type color LCD that it says is 100 times more efficient than conventional models.</p>
+							<div class="tools">
+									<div class="tools_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/business/AJ201507060053" data-text="Japan Display touts reflective display that needs just 1% of electricity of current LCDs" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tools_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fbusiness%2FAJ201507060053&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+								<div class="tools_go"><g:plusone href="http://ajw.asahi.com/article/business/AJ201507060053" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+							</div>
+						</div>
+												<div class="related_item">
+														<div class="thumbnail"><a href="/article/sci_tech/technology/AJ201507030054"><img src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/07/03/AJ201507030054/AJ201507030055S.jpg" alt="Sharp Corp.&#039;s new transparent liquid crystal display in Osaka on June 30 (Akihiro Nishiyama)" width="99" height="99" /></a></div>
+														<p class="headline"><a href="/article/sci_tech/technology/AJ201507030054">Sharp to market see-through LCDs in 2017</a></p>
+							<span class="date">July 03, 2015</span>
+							<p class="summary">OSAKA--Sharp Corp. plans to mass-produce highly transparent liquid crystal displays that can show color images, the struggling Osaka-based electronics company said.</p>
+							<div class="tools">
+									<div class="tools_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/business/AJ201507030054" data-text="Sharp to market see-through LCDs in 2017" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tools_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fbusiness%2FAJ201507030054&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+								<div class="tools_go"><g:plusone href="http://ajw.asahi.com/article/business/AJ201507030054" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+							</div>
+						</div>
+												<div class="related_item">
+														<div class="thumbnail"><a href="/article/sci_tech/technology/AJ201505270064"><img src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/05/27/AJ201505270064/AJ201505270065S.jpg" alt="Teijin Ltd. shows how its PaperBeacon can be used to pay a bill in a demonstration given in a simulated restaurant scenario in Tokyo on May 25. (Naoko Murai)" width="99" height="99" /></a></div>
+														<p class="headline"><a href="/article/sci_tech/technology/AJ201505270064">Teijin&#039;s to market smartphone authentication beacon for use in group settings</a></p>
+							<span class="date">May 27, 2015</span>
+							<p class="summary">Teijin Ltd. said it will begin sales June 1 of the PaperBeacon, the world’s first surface-based authentication sheet that allows the sharing of information to specified users with smartphones or tablets in a group setting.</p>
+							<div class="tools">
+									<div class="tools_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/business/AJ201505270064" data-text="Teijin's to market smartphone authentication beacon for use in group settings" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tools_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fbusiness%2FAJ201505270064&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+								<div class="tools_go"><g:plusone href="http://ajw.asahi.com/article/business/AJ201505270064" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+							</div>
+						</div>
+												<div class="related_item">
+														<div class="thumbnail"><a href="/article/sci_tech/technology/AJ201502190060"><img src="//d13uygpm1enfng.cloudfront.net/article-imgs/en/2015/02/19/AJ201502190060/AJ201502190061S.jpg" alt="The electron microscope developed by Hitachi Ltd. boasts the world&#039;s highest  resolution. (Provided by Hitachi Ltd.)" width="99" height="99" /></a></div>
+														<p class="headline"><a href="/article/sci_tech/technology/AJ201502190060">Hitachi develops world&#039;s most powerful electron microscope</a></p>
+							<span class="date">February 19, 2015</span>
+							<p class="summary">Electronics giant Hitachi Ltd. said it developed a massive transmission electron microscope with record-breaking resolution powers that allow scientists to peer even deeper into the world at the atomic level.</p>
+							<div class="tools">
+									<div class="tools_tw"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ajw.asahi.com/article/business/AJ201502190060" data-text="Hitachi develops world's most powerful electron microscope" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+								<div class="tools_fb"><iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http%3A%2F%2Fajw.asahi.com%2Farticle%2Fbusiness%2FAJ201502190060&amp;send=false&amp;layout=button_count&amp;width=131&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;appId=225172280833257" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:131px;height:20px" allowTransparency="true"></iframe></div>
+								<div class="tools_go"><g:plusone href="http://ajw.asahi.com/article/business/AJ201502190060" size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div>
+							</div>
+						</div>
+											</div>
+												</div>			</div>		</div>
+
+		<div id="footer">
+			<div class="footer_title">
+				<div id="footer_titles_wrap">
+					<div id="footer_titles">
+						<div class="title_item" id="lang_title_en"><p>AJW by The Asahi Shimbun</p></div>
+						<div class="title_item" id="lang_title_cn"><p>朝日新聞中文网</p></div>
+						<div class="title_item" id="lang_title_ja"><p>朝日新聞デジタル</p></div>
+						<div class="title_item" id="lang_title_kr"><p>Asahi Asia Antenna</p></div>
+					</div>
+				</div>
+				<div id="footer_languages">
+					<ul>
+						<li><a href="http://ajw.asahi.com/" target="_blank" id="btn_en">English</a></li>
+						<li><a href="http://asahichinese.com/" target="_blank" id="btn_cn">Chinese</a></li>
+						<li><a href="http://www.asahi.com/" target="_blank" id="btn_ja">Japanese</a></li>
+						<li><a href="http://asahikorean.com/" target="_blank" id="btn_kr">Korean</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer_menu">
+				<div class="footer_inner">
+					<ul>
+						<li><a href="/information/about_us/">About Us</a></li>
+						<li><a href="/information/terms_of_use/">Terms of Use</a></li>
+						<li><a href="/information/privacy_policy/">Privacy policy</a></li>
+						<li><a href="/information/copyright/">Copyright</a></li>
+						<li><a href="/information/faq/">FAQ</a></li>
+						<li><a href="https://se01.asahi.com/english/ajw_inquiry.html" target="_blank">Inquiry</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer_copyright">
+				<div class="footer_inner">
+					<p>Copyright The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.</p>
+				</div>
+			</div>
+		</div>
+	</div></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23453184-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" data-view-uid="0"><head>
+<base href='http://www.bloomberg.com/politics/'>
+    <meta charset="utf-8">
+    <title>Koch Calls for End to "Corporate Welfare" for Wall Street - Bloomberg Politics</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="shortcut icon" type="image/x-icon" href="//assets.bwbx.io/politics/public/images/icons/favicon.b838bae2.ico">
+
+    <link rel="apple-touch-icon" href="//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//assets.bwbx.io/politics/public/images/icons/ios76x76.45d85933.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//assets.bwbx.io/politics/public/images/icons/ios120x120.6e6ddc22.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//assets.bwbx.io/politics/public/images/icons/ios152x152.549a1dd0.png">
+
+    <script type="text/javascript">
+      // Starting time for chartbeat measurements
+      var _sf_startpt = (new Date()).getTime();
+    </script>
+
+    <link href="//assets.bwbx.io/politics/public/stylesheets/application.2e558c5d.css" media="all" rel="stylesheet" type="text/css">
+
+      <link rel="stylesheet" media="all" type="text/css" href="//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css">
+
+    <meta property="og:site_name" content="Bloomberg.com/politics">
+    <meta property="og:type" content="website">
+
+
+    <script type="text/javascript">
+      (function(global) {
+        "use strict";
+        global.bbloader = {
+          queue: {},
+          loaded: {},
+          enqueue: function(namespace, fn) {
+            if (global.bbloader.loaded[namespace]) {
+              return fn();
+            }
+            global.bbloader.queue[namespace] = global.bbloader.queue[namespace] || [];
+            global.bbloader.queue[namespace].push(fn);
+          },
+          load: function(namespace, options) {
+            global.bbloader.onload(function() {
+              var s = document.createElement("script");
+              s.type = options.type;
+              s.async = options.async;
+              s.src = options.src;
+              function loaded(e) {
+                var queue = global.bbloader.queue[namespace] || [];
+                for (var i = 0, len = queue.length; i < len; ++i) {
+                  queue.pop()();
+                }
+                global.bbloader.loaded[namespace] = true;
+                s.removeEventListener("load", loaded, false);
+              }
+              s.addEventListener("load", loaded);
+              global.document.body.appendChild(s);
+            });
+          },
+          onload: function(fn) {
+            if (global.addEventListener) {
+              global.addEventListener("load", fn, false);
+              return;
+            }
+            if (global.attachEvent) {
+              global.attachEvent("onLoad", fn);
+              return;
+            }
+            var onload = global.onload;
+            if (typeof onload !== "function") {
+              return window.onload = fn;
+            }
+            window.onload = function() {
+              onload();
+              fn();
+            };
+          },
+        };
+      })(window);
+    </script>
+    <script type="text/javascript">
+        var doesNotSupportMediaQueries = !window.CSSMediaRule && !window.matchMedia && !window.msMatchMedia;
+
+        if (doesNotSupportMediaQueries) {
+            var htmlElement = document.getElementsByTagName("html")[0];
+            htmlElement.className += " no-media-queries";
+        }
+    </script>
+
+  <meta name="description" content="Billionaire brothers&nbsp;Charles&nbsp;and David Koch are hosting five Republican presidential candidates at an&nbsp;event for major donors this weekend." data-ephemeral="true"><meta name="twitter:card" content="summary" data-ephemeral="true"><meta name="twitter:site" content="@bpolitics" data-ephemeral="true"><meta name="twitter:description" content="Billionaire brothers&nbsp;Charles&nbsp;and David Koch are hosting five Republican presidential candidates at an&nbsp;event for major donors this weekend." data-ephemeral="true"><meta name="twitter:title" content="Koch Calls for End to " corporate="" welfare"="" for="" wall="" street"="" data-ephemeral="true"><meta name="twitter:url" content="http://www.bloomberg.com/politics/articles/2015-08-02/koch-calls-for-end-to-corporate-welfare-for-wall-street" data-ephemeral="true"><meta name="twitter:image" content="http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg" data-ephemeral="true"><meta name="parsely-title" content="Koch Calls for End to " corporate="" welfare"="" for="" wall="" street"="" data-ephemeral="true"><meta name="parsely-link" content="http://www.bloomberg.com/politics/articles/2015-08-02/koch-calls-for-end-to-corporate-welfare-for-wall-street" data-ephemeral="true"><meta name="parsely-type" content="post" data-ephemeral="true"><meta name="parsely-image-url" content="http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg" data-ephemeral="true"><meta name="parsely-pub-date" content="2015-08-02T02:39:08.107Z" data-ephemeral="true"><meta name="parsely-section" content="politics" data-ephemeral="true"><meta name="parsely-author" content="Zachary Mider" data-ephemeral="true"><meta name="parsely-tags" content="Vermont,Democrats,Liberal,Federal Reserve,Elections,Conservative,California,Wall Street,The Money Race" data-ephemeral="true"><meta name="parsely-post-id" content="NSFOP86JTSE801" data-ephemeral="true"><meta property="og:title" content="Koch Calls for End to " corporate="" welfare"="" for="" wall="" street"="" data-ephemeral="true"><meta property="og:image" content="http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg" data-ephemeral="true"><meta property="og:url" content="http://www.bloomberg.com/politics/articles/2015-08-02/koch-calls-for-end-to-corporate-welfare-for-wall-street" data-ephemeral="true"><meta property="og:description" content="Billionaire brothers&nbsp;Charles&nbsp;and David Koch are hosting five Republican presidential candidates at an&nbsp;event for major donors this weekend." data-ephemeral="true"><meta name="keywords" content="Vermont,Democrats,Liberal,Federal Reserve,Elections,Conservative,California,Wall Street,The Money Race" data-ephemeral="true"><meta name="sailthru.author" content="Zachary Mider" data-ephemeral="true"><meta name="date" content="2015-08-02T02:39:08.107Z" data-ephemeral="true"></head>
+
+  <body class="default_layout"><div data-view-uid="0_4"><div class="snippet-view business-snippet default-layout section-front" data-view-uid="tophatView"><div data-view-uid="tophatView_1"><div class="tophat"> <section class="tophat-menu"> <h2 class="tophat-menu__link-toggle">Bloomberg the Company &amp; Products</h2> <a href="https://bba.bloomberg.net/?utm_source=bloomberg-menu" class="tophat-menu__link-bba">Bloomberg Anywhere Login</a> </section> <div class="tophat__sitemap"> <div class="tophat__categories"> <div class="tophat__close-sitemap-button"></div> <section class="tophat-category"> <h2 class="tophat-category__title">Bloomberg</h2> <div class="tophat-category__content"> <p class="tophat-category__text"> Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. </p> </div> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Company</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/company/careers/?utm_source=bloomberg-menu" class="tophat-category__link">Careers</a></li> <li><a href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu" class="tophat-category__link">Diversity &amp; Inclusion</a></li> <li><a href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu" class="tophat-category__link">Philanthropy &amp; Engagement</a></li> <li><a href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu" class="tophat-category__link">Sustainability</a></li> <li><a href="http://www.bloomberg.com/company/technology/?utm_source=bloomberg-menu" class="tophat-category__link">Technology</a></li> <li><a href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu" class="tophat-category__link">History &amp; Facts</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Financial Products</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-12-CORE-bbgmenu" class="tophat-category__link">Bloomberg Professional</a></li> <li><a href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu" class="tophat-category__link">Bloomberg Tradebook</a></li> <li><a href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Briefs</a></li> <li><a href="http://www.bloombergindexes.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-05-13-INDEXES-bbgmenu" class="tophat-category__link">Bloomberg Indexes</a></li> <li><a href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu" class="tophat-category__link">Bloomberg SEF</a></li> <li><a href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Institute</a></li> <li><a href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu" class="tophat-category__link">Service Center</a></li> <li><a href="http://www.bloomberg.com/professional/systems-support/downloads/?utm_source=bloomberg-menu" class="tophat-category__link">Downloads</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Enterprise Products</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-bbgmenu" class="tophat-category__link">Enterprise Solutions</a></li> <li><a href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-TS-bbgmenu" class="tophat-category__link">Trading Solutions</a></li> <li><a href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu" class="tophat-category__link">Bloomberg Vault</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Media</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Business</a></li> <li><a href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Politics</a></li> <li><a href="http://www.bloombergview.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg View</a></li> <li><a href="http://www.bloomberg.com/live?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Television</a></li> <li><a href="http://www.bloomberg.com/radio/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Radio</a></li> <li><a href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Mobile Apps</a></li> <li><a href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu" class="tophat-category__link">News Bureaus</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Customer Support</h2> <ul class="tophat-category__content"> <li class="tophat-category__item"> <p class="tophat-category__text">Americas</p> <p class="tophat-category__text">+1 212 318 2000</p> </li> <li class="tophat-category__item"> <p class="tophat-category__text">Europe, Middle East, &amp; Africa</p> <p class="tophat-category__text">+44 20 7330 7500</p> </li> <li class="tophat-category__item"> <p class="tophat-category__text">Asia Pacific</p> <p class="tophat-category__text">+65 6212 1000</p> </li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Communications</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu" class="tophat-category__link">Press Announcements</a></li> <li><a href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu" class="tophat-category__link">Press Contacts</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Industry Products</h2> <ul class="tophat-category__content"> <li><a href="http://about.bgov.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Government</a></li> <li><a href="http://www.bna.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Law/BNA</a></li> <li><a href="https://bol.bna.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Big Law</a></li> <li><a href="http://about.bnef.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg New Energy Finance</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Media Services</h2> <ul class="tophat-category__content"> <li><a href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu" class="tophat-category__link">Advertising</a></li> <li><a href="http://www.bloomberg.com/content-service/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Content Service</a></li> <li><a href="http://www.bloomberglive.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Live Conferences</a></li> </ul> </section> <section class="tophat-category"> <h2 class="tophat-category__title">Follow Us</h2> <ul class="tophat-category__content"> <li><a href="http://www.facebook.com/Bloomberglp" class="tophat-category__social-link facebook" data-network="facebook" target="_blank"> Facebook </a></li> <li><a href="https://twitter.com/bloomberg" class="tophat-category__social-link twitter" data-network="twitter" target="_blank"> Twitter </a></li> <li><a href="https://www.linkedin.com/company/2494" class="tophat-category__social-link linkedin" data-network="linkedin" target="_blank"> LinkedIn </a></li> <li><a href="https://instagram.com/bloomberg" class="tophat-category__social-link instagram" data-network="instagram" target="_blank"> Instagram </a></li> </ul> </section> </div> </div> </div></div></div></div>
+
+  
+    <noscript>
+      <link href="//assets.bwbx.io/politics/public/stylesheets/noscript.133744c3.css" media="all" rel="stylesheet" type="text/css">
+    </noscript>
+
+    <div class="layout">
+      <div data-view-uid="0_2"><section class="off-canvas">
+    <div class="off-canvas__menu">
+
+        <div data-view-uid="0_2_3"><div class="video-tout">
+    <img src="//assets.bwbx.io/politics/public/images/logos/WADR-yellow.e676805a.png" class="video-tout__wadr-logo" alt="With All Due Respect">
+
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-" class="video-tout__image-link">
+        <img class="" src="http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg" alt="">
+
+    </a>
+
+    <h1 class="video-tout__title">
+        <a href="http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-" class="video-tout__title-link">Monday-Thursday, 5 PM ET</a>
+    </h1>
+
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-" class="video-tout__subtitle-link">Hosted by Mark Halperin and John Heilemann</a>
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-" class="video-tout__call-to-action-link">Watch latest episode</a>
+</div>
+</div>
+
+        <div class="off-canvas__lists-container"> 
+
+            <div data-view-uid="0_2_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/debate-derby" class="curiosity-index__link">
+                    Debate Derby
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-07-02/how-freelance-diplomacy-bankrolled-by-rockefellers-has-paved-the-way-for-an-iran-deal" class="curiosity-index__link">
+                    Iran
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+            <div class="off-canvas__topics">
+            </div>
+
+            <div data-view-uid="0_2_2"><section class="off-canvas-links">
+    <ol class="off-canvas-links__items">
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/tv/channel-finder" class="off-canvas-links__link">
+                    Find Bloomberg TV
+                </a>
+            </li>
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/privacy" class="off-canvas-links__link">
+                    Privacy Policy
+                </a>
+            </li>
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/tos" class="off-canvas-links__link">
+                    Terms and Conditions
+                </a>
+            </li>
+    </ol>
+</section>
+</div>
+
+        </div>
+    </div>
+</section>
+</div>
+
+      <div data-view-uid="0_3"><div class="persistent-header__placeholder">
+    <div class="persistent-header">
+        <div class="persistent-header__container">
+            <div class="persistent-header__off-canvas-button"></div>
+
+            <div class="persistent-header__just-so-logo-link-isnt-full-width">
+                <a href="" class="persistent-header__logo-link make-svg-clickable" title="Bloomberg Politics">
+                    <object class="persistent-header__logo-image" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg" title="Bloomberg Politics Logo">
+                    </object>
+                </a>
+            </div>
+
+            <section class="persistent-header__curiosity-index">
+
+                <div data-view-uid="0_3_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/debate-derby" class="curiosity-index__link">
+                    Debate Derby
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-07-02/how-freelance-diplomacy-bankrolled-by-rockefellers-has-paved-the-way-for-an-iran-deal" class="curiosity-index__link">
+                    Iran
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+            </section>
+            <div class="persistent-header__headline">
+                <span class="now-reading">Now Reading: </span>
+                <span class="headline__text"></span>
+            </div>
+            <div class="persistent-header__social">
+                <div class="social-links">
+                    <div class="social-links__visible"></div>
+                    <div class="social-links__additional"></div>
+                    <div class="social-links__more"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+
+      <div class="container">
+
+        <div data-view-uid="0_1"><div class="header__container">
+
+    <header class="header">
+        <div class="header__off-canvas-button click-to-open-off-canvas"></div>
+
+        <div class="header__just-so-logo-link-isnt-full-width">
+            <a href="" class="header__logo-link make-svg-clickable" title="Bloomberg Politics">
+                <object class="header__logo-image vertical" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-V.87cc53a5.svg" title="Bloomberg Politics Logo">
+                </object>
+
+                <object class="header__logo-image horizontal" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg" title="Bloomberg Politics Logo">
+                </object>
+            </a>
+        </div>
+
+        <section class="header__curiosity-index">
+
+            <div data-view-uid="0_1_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/debate-derby" class="curiosity-index__link">
+                    Debate Derby
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-07-02/how-freelance-diplomacy-bankrolled-by-rockefellers-has-paved-the-way-for-an-iran-deal" class="curiosity-index__link">
+                    Iran
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+        </section>
+
+        <section class="header__tout-and-social">
+
+            <div data-view-uid="0_1_2"><section class="show-tout">
+
+    <img class="show-tout__promo" src="http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x-1.jpg" alt="">
+
+
+    <div class="show-tout__info">
+
+        <span class="show-tout__title">
+            <a href="http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-" class="show-tout__title-link" data-resource-type="" data-resource-id="">
+                Watch Latest Episode Here
+            </a>
+        </span>
+        <span class="show-tout__subtitle">
+            Halperin &amp; Heilemann
+        </span>
+        <span class="show-tout__airdate">
+            Weekdays, 5 PM ET
+        </span>
+
+    </div>
+
+</section>
+</div>
+
+            <div class="social-properties">
+                <span class="social-properties__command">Follow us:</span>
+                <a href="https://www.facebook.com/BloombergPolitics" class="social-icon facebook" data-network="facebook" target="_blank">
+                    Facebook
+                </a>
+
+                <a href="https://twitter.com/bpolitics" class="social-icon twitter" data-network="twitter" target="_blank">
+                    Twitter
+                </a>
+
+                <a href="http://instagram.com/bpolitics" class="social-icon instagram" data-network="instagram" target="_blank">
+                    Instagram
+                </a>
+
+                <a href="https://www.youtube.com/playlist?list=PLqq4LnWs3olWvBelRnbPsgGJOtnksj3uL" class="social-icon youtube" data-network="youtube" target="_blank">
+                    Youtube
+                </a>
+
+                <a href="http://www.bloomberg.com/politics/feeds/site.xml" class="social-icon rss" data-network="rss" target="_blank">
+                    RSS
+                </a>
+
+            </div>
+
+        </section>
+
+    </header>
+
+</div>
+
+<section class="breaking-news-banner__below-the-header">
+</section>
+</div>
+
+        <div class="headband-placeholder">
+        <div data-view-uid="0_5"><section class="headband module">
+    <div class="headband__arrows-container">
+        <span class="headband__right-arrow live-arrow">3</span>
+        <span class="headband__left-arrow">2</span>
+    </div>
+    <div class="headband__items-container">
+    <ol class="headband__items">
+                <li class="headband__item">
+                    <a href="articles/2015-08-01/christie-runs-down-debate-clock-in-iowa" class="headband__item-link" data-resource-type="article" data-resource-id="NSFDXS6JTSE801">
+                        Christie Runs Down Debate Clock in Iowa
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-08-01/joe-biden-not-ruling-out-a-challenge-to-hillary-clinton" class="headband__item-link" data-resource-type="article" data-resource-id="NSFCSF6S972801">
+                        Joe Biden Not Ruling Out A Challenge To Hillary Clinton
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-08-01/congress-looks-underground-for-cash" class="headband__item-link" data-resource-type="article" data-resource-id="NSEPK36JTSEA01">
+                        Congress Looks Underground for Cash
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-08-01/million-dollar-donations-fuel-super-pacs-new-dominance" class="headband__item-link" data-resource-type="article" data-resource-id="NSE3HT6JTSE901">
+                        Million-Dollar Donations Fuel Super-PACs' New Dominance
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/is-a-super-pac-tagged-for-ted-cruz-flirting-with-carly-fiorina-" class="headband__item-link" data-resource-type="article" data-resource-id="NSDIW06JTSE801">
+                        Super-PAC Tagged for Ted Cruz Flirts With&nbsp;Carly Fiorina
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/hillary-and-bill-clinton-paid-43-million-in-federal-taxes" class="headband__item-link" data-resource-type="article" data-resource-id="NSDECP6KLVRC01">
+                        Hillary and Bill Clinton Made $139 Million in Eight Years
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/no-really-what-s-the-difference-between-a-democrat-and-a-socialist-" class="headband__item-link" data-resource-type="article" data-resource-id="NSDD2I6S972801">
+                        No Really—What’s the Difference Between a Democrat and a Socialist?
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/wisconsin-roofing-billionaire-is-top-donor-to-walker-super-pac" class="headband__item-link" data-resource-type="article" data-resource-id="NSDAN56KLVRC01">
+                        Wisconsin Roofing Billionaire is Top Donor to Walker Super-PAC
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/hillary-clinton-s-doctor-describes-her-as-fit-to-serve-as-president-" class="headband__item-link" data-resource-type="article" data-resource-id="NSD6026JTSEF01">
+                        Hillary Clinton's Doctor Says She Is&nbsp;'Fit to Serve as President'
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/kasich-super-pac-unleashes-new-ad-focusing-on-national-security" class="headband__item-link" data-resource-type="article" data-resource-id="NSD52B6KLVRA01">
+                        Kasich Super-PAC Unleashes New Ad Focusing on National Security
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-31/hillary-clinton-lobs-bush-rubio-attacks-in-their-own-backyard" class="headband__item-link" data-resource-type="article" data-resource-id="NSD45E6S972B01">
+                        Hillary Clinton Lobs Bush, Rubio Attacks in Their Own Backyard
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="data/2015-07-31/the-rules-of-campaign-cash" class="headband__item-link" data-resource-type="data_article" data-resource-id="NSD1O86KLVR801">
+                        The Rules of Campaign Cash
+                    </a>
+                </li>
+        </ol>
+    </div>
+
+</section>
+</div></div>
+
+        <main id="content" class="content"><div class="transporter animation-disabled at-bottom" data-view-uid="1|0_5"><div class="transporter__item" data-transporter-id="0" data-view-uid="1|0_5_1"><article class="article normal content-type" itemscope="" itemtype="http://schema.org/Article">
+    <div data-view-uid="1|0_5_1_1"><div class="lede violated">
+
+    <div data-view-uid="1|0_5_1_1_1">
+    <div class="lede-image"><div class="lede_image lede_background_image">
+    <meta content="http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg" itemprop="image">
+
+    <div class="background-image " style="background-image: url(http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg);"></div>
+
+        <div class="credit">Photographer: Bo Rader/Wichita Eagle/MCT via Getty Images</div>
+</div>
+</div>
+</div>
+
+    <div class="lede-content ">
+
+
+            <a href="topics/the-money-race" class="topic_link" itemprop="articleSection">The Money Race</a>
+        
+        <h1 class="lede-content__headline" itemprop="name headline">
+            Koch Calls for End to "Corporate Welfare" for Wall Street
+        </h1>
+
+        <div class="published_at time_based hide_time_based">
+            <time datetime="2015-08-02T02:39:08.107Z" itemprop="datePublished">
+                Aug 1, 2015 10:39 PM EDT
+            </time>
+        </div>
+
+        <div class="lede-content__dek-and-social">
+                <div class="lede-content__dek" itemprop="description">
+                    Billionaire brothers&nbsp;Charles&nbsp;and David Koch are hosting five Republican presidential candidates at an&nbsp;event for major donors this weekend.
+               </div>
+
+            <div data-view-uid="1|0_5_1_1_2"><div class="social-links"><div class="bb-social-links" data-view-uid="1|0_5_1_1_2_1"><a data-view-uid="1|0_5_1_1_2_1_1" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbloom.bg%2F1M4pmGX" class="bb-social-link bb-social-link--facebook" rel="nofollow" data-social-network="facebook" target="_blank">Share on Facebook</a><a data-view-uid="1|0_5_1_1_2_1_2" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fbloom.bg%2F1M4pmGX&amp;text=What%20do%20%40BernieSanders%20and%20the%20Koch%20brothers%20agree%20on%3F&amp;via=bpolitics" class="bb-social-link bb-social-link--twitter" rel="nofollow" data-social-network="twitter" target="_blank">Share on Twitter</a></div>
+  <div class="social-links__more"></div>
+  <div class="social-links__additional"><div class="bb-social-links" data-view-uid="1|0_5_1_1_2_2"><a data-view-uid="1|0_5_1_1_2_2_1" href="http://www.linkedin.com/shareArticle?title=Koch%20Calls%20for%20End%20to%20%22Corporate%20Welfare%22%20for%20Wall%20Street&amp;url=http%3A%2F%2Fbloom.bg%2F1M4pmGX" class="bb-social-link bb-social-link--linkedin" rel="nofollow" data-social-network="linkedin" target="_blank">Share on LinkedIn</a><a data-view-uid="1|0_5_1_1_2_2_2" href="http://reddit.com/submit?title=Koch%20Calls%20for%20End%20to%20%22Corporate%20Welfare%22%20for%20Wall%20Street&amp;url=http%3A%2F%2Fbloom.bg%2F1M4pmGX" class="bb-social-link bb-social-link--reddit" rel="nofollow" data-social-network="reddit" target="_blank">Share on Reddit</a><a data-view-uid="1|0_5_1_1_2_2_3" href="https://plus.google.com/share?url=http%3A%2F%2Fbloom.bg%2F1M4pmGX" class="bb-social-link bb-social-link--google" rel="nofollow" data-social-network="google" target="_blank">Share on Google+</a><a data-view-uid="1|0_5_1_1_2_2_4" href="mailto:?body=Koch%20Calls%20for%20End%20to%20%22Corporate%20Welfare%22%20for%20Wall%20Street%0ABy%20Zachary%20Mider%0Ahttp%3A%2F%2Fbloom.bg%2F1M4pmGX%0ABloomberg%20Politics&amp;subject=Koch%20Calls%20for%20End%20to%20%22Corporate%20Welfare%22%20for%20Wall%20Street" class="bb-social-link bb-social-link--email" rel="nofollow" data-social-network="email">E-mail</a></div></div>
+</div>
+</div>
+        </div>
+
+    </div>
+
+</div>
+</div>
+
+    <div class="article-content pushed-up-content">
+        <div class="authors" data-view-uid="1|0_5_1_5">    <div class="author-collection  author-collection--with-photo">
+    <div data-view-uid="1|0_5_1_5_1"><div class="author-byline">
+
+        <a href="authors/AOXIO417-Zo/zachary-mider" class="author-byline__link">
+            <img src="http://www.bloomberg.com/image/iN6Vdd9z9nMM.png" class="author-byline__photo" alt="Zachary Mider">
+        </a>
+
+    <div class="author-byline__content">
+
+        <a href="authors/AOXIO417-Zo/zachary-mider" class="author-byline__link">
+            <span class="author-byline__content__name">
+                Zachary Mider
+            </span>
+        </a>
+
+            <a href="http://twitter.com/@zachmider" class="author-byline__content__twitter" target="_blank">
+                <span class="author-byline__content__twitter__icon">t</span>
+                @zachmider
+            </a>
+
+    </div>
+</div>
+</div></div>
+</div>
+
+        <div class="article-content__right-rail">
+
+            <div class="advert" data-view-uid="1|0_5_1_2"><div id="1__0_5_1_2" class="ad" data-ad-code="politics/story" data-position="right2"></div>
+</div>
+
+
+        </div>
+
+        <div class="article-content__related-content">
+        </div>
+
+
+        <div class="article-body content-type-body" itemprop="articleBody">
+            <p>Charles Koch, the billionaire leader of a conservative network that has pledged to spend hundreds of millions of dollars influencing next year's elections, called for an end to what he called "corporate welfare" for the biggest U.S. banks.</p><p>Koch singled out the financial industry as a target Saturday as he welcomed about 450 wealthy donors to a semi-annual retreat at a luxury hotel in California. The group, known as Freedom Partners, supports the free-market ideas Koch has long championed, and includes many of the country's biggest Republican contributors.</p><figure class="inline_image inline-media left">
+
+        <div class="inline-media__unlinked-image">
+            <img src="http://assets.bwbx.io/images/ib12iO7sMTY0/v1/-1x-1.jpg" alt="" itemprop="image" data-attachment-key="229800196">
+
+        </div>
+
+        <figcaption>
+                <div class="credit">Zachary Mider</div>
+
+                <div class="caption">Protesters stand outside the Koch's event in Dana Point, California, on Saturday.</div>
+        </figcaption>
+</figure>
+<div class="mobile-ad" data-view-uid="1|0_5_1_3"><div id="1__0_5_1_3" class="ad" data-ad-code="politics/story" data-position="right2"></div>
+</div><p>Big banks, Koch said, "are among the greatest proponents of corporate welfare," having received bailouts during the financial crisis and access to unlimited lending from the Federal Reserve. Meanwhile, the burden of financial regulations imposed in the crisis's wake fell hardest on small, community banks, many of which were forced out of business, he added. Big banks' political contributions help preserve their advantages, he said.</p><p>"The destructive cycle goes on and on," he said.</p><p>While Koch's remarks are consistent with the small-government mantra he has espoused for decades, they serve as a reminder of the threat the country's biggest banks face from the right as well as the left. Liberal Democrats such as Senator Elizabeth Warren of Massachusetts, and Bernie Sanders, a Vermont senator who is seeking the Democratic presidential nomination, have called for a breakup of the biggest U.S. lenders.</p><p>The network overseen by Koch and his brother, David, has pledged to spend $889 million on its agenda during the 2016 election cycle.&nbsp;That network includes Freedom Partners, the organization that hosted the conference, and Americans for Prosperity.&nbsp;</p><p>For politicians, the Koch events are a chance to rub elbows with some of the most important conservative patrons. Two candidates for the Republican presidential nomination, Carly Fiorina and Scott Walker, spoke earlier Saturday, and Sunday's schedule includes planned appearances by Jeb Bush, Marco Rubio, and Ted Cruz.</p><p>The Kochs jointly own most of Koch Industries, the Wichita-based oil and chemicals company that is the second largest closely held company in the world. The Bloomberg Billionaires Index estimates their wealth at $51 billion each.</p><p>The Kochs' heavy spending on elections have made them bete noirs of the left. This summer's event is taking place behind heavy security at a luxury hotel in Dana Point, California. On the street outside the resort, a handful of protesters, some wearing Sanders T-shirts, waved hand-made signs saying "America Has a Koch Problem" and "Get Money out of Politics."</p><p>Back inside the gates, the crowd of silver-haired donors, many of them entrepreneurs and business executives, sipped white wine and watched the sun creep lower over the Pacific. Koch told them that obtrusive government policies are to blame not just for problems in the banking industry but, more broadly, economic inequality and lack of opportunity.</p><p>"Misguided policies are creating a permanent underclass, crippling our economy and corrupting the business community," he said. "Present company excepted, of course."&nbsp;</p>
+        </div>
+    </div>
+
+    <div class="below-the-body">
+            <div class="content-type__topic-list">
+                <ul class="content-type__topic-list__topics">
+                        <li class="content-type__topic-list__topic"><a href="topics/the-money-race" class="content-type__topic-list__topic-link">The Money Race</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/wall-street" class="content-type__topic-list__topic-link">Wall Street</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/california" class="content-type__topic-list__topic-link">California</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/conservative" class="content-type__topic-list__topic-link">Conservative</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/elections" class="content-type__topic-list__topic-link">Elections</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/federal-reserve" class="content-type__topic-list__topic-link">Federal Reserve</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/liberal" class="content-type__topic-list__topic-link">Liberal</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/democrats" class="content-type__topic-list__topic-link">Democrats</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/vermont" class="content-type__topic-list__topic-link">Vermont</a></li>
+                </ul>
+            </div>
+            </div>
+
+    <div class="article__recirc-videos">
+    </div>
+
+    <div class="leaderboard" data-view-uid="1|0_5_1_4"><div id="1__0_5_1_4" class="ad" data-ad-code="politics/story" data-position="leaderboard1"></div>
+</div>
+
+    <ol class="footnotes">
+    </ol>
+</article>
+</div></div></main>
+
+        <footer id="footer" class="footer">
+          <ul class="footer__links">
+            <li class="footer__link"><a href="http://www.bloomberg.com/trademarks">Trademarks</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/tos">Terms of Service</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/privacy">Privacy Policy</a></li>
+            <li class="footer__link"><a href="http://jobs.bloomberg.com/">Careers</a></li>
+            <li class="footer__link"><a href="http://nytm.org/made-in-nyc">Made in NYC</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/tv/channel-finder/">Find Bloomberg TV</a></li>
+            <li class="footer__link"><a href="mailto:politics@bloomberg.net">Contact</a></li>
+            <li class="footer__link add_choices" rel="nofollow external"><a href="http://www.bloomberg.com/privacy#advertisements">Ad Choices <img src="//assets.bwbx.io/politics/public/images/icons/ad_choices_icon.49173bcd.png"></a></li>
+          </ul>
+          <p class="footer__copyright">©2015 Bloomberg L.P. All Rights Reserved</p>
+        </footer>
+
+      </div>
+    </div>
+
+    <script type="text/javascript">
+        // TODO: different file for different environments
+        window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);
+        ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"0452f9120e",applicationID:"3950336",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}
+    </script>
+
+    <script type="text/javascript">
+      // Ending time for chartbeat measurements
+      window._sf_endpt = (new Date()).getTime();
+    </script>
+
+    <div class="unsupported-browser">
+
+        <div class="unsupported-browser__mask"></div>
+
+        <div class="unsupported-browser__message">
+
+            <h2 class="unsupported-browser__headline">Please upgrade your Browser</h2>
+
+            <p class="unsupported-browser__copy">Your browser is out-of-date. Please download one of these excellent browsers:<br><br>
+
+                <a href="http://www.google.com/chrome?hl=en" class="unsupported-browser__copy-link">Chrome</a>,
+                <a href="http://www.mozilla.com/firefox/" class="unsupported-browser__copy-link">Firefox</a>,
+                <a href="https://itunes.apple.com//app/os-x-mavericks/id675248567?mt=12&amp;uo=4" class="unsupported-browser__copy-link">Safari</a>,
+                <a href="http://www.opera.com/browser/" class="unsupported-browser__copy-link">Opera</a> or
+                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="unsupported-browser__copy-link">Internet Explorer</a>.
+            </p>
+
+        </div>
+
+    </div>
+
+        <!-- START Parse.ly Include: Standard -->
+        <div id="parsely-root" style="display: none">
+          <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+        </div>
+        <script>
+            var parselyPreload = {eventQueue: [], loaded: false};
+
+            PARSELY = {
+                autotrack: false,
+                onload: function() {
+                    parselyPreload.loaded = true;
+                    for (var i = 0; i < parselyPreload.eventQueue.length; i++) {
+                        PARSELY.beacon.trackPageView(parselyPreload.eventQueue[i]);
+                    }
+                }
+            };
+        </script>
+        <script>
+        (function(s, p, d) {
+          var h=d.location.protocol, i=p+"-"+s,
+              e=d.getElementById(i), r=d.getElementById(p+"-root"),
+              u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+              :"static."+p+".com";
+          if (e) return;
+          e = d.createElement(s); e.id = i; e.async = true;
+          e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+        </script>
+        <!-- END Parse.ly Include -->
+        <script type="text/javascript">
+            (function(global) {
+                "use strict";
+
+                global.bbloader.enqueue("Sailthru", function() {
+                    Sailthru.setup({
+                        domain: "horizon.mail.bloombergpolitics.com"
+                    });
+                });
+
+                global.bbloader.load("Sailthru", {
+                    async: true,
+                    src: location.protocol + '//ak.sail-horizon.com/horizon/v1.js',
+                    type: "text/javascript"
+                });
+            })(window);
+        </script>
+
+    <script src="//cdn.gotraffic.net/projector/latest/bplayer.js" data-exclude="true" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var adTesting = require("app/ThirdpartyScriptVariables").adTesting();
+    </script>
+
+    <script src="http://cdn.mediavoice.com/nativeads/script/bloomberg/bloomberg_politics_plugin.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+"use strict";(function(d) {
+var s = d.createElement("script");
+s.setAttribute("src", "//assets.bwbx.io/politics/public/javascripts/application.1f6220cd.js");
+s.async = true;
+function loaded(e) {
+var ClientApp = require('app/ClientApp');
+var clientApp = new ClientApp();
+clientApp.start({
+environmentConfig: {"appRoot":"/politics","assetManifest":{"public/images/biden_404_error.gif":"//assets.bwbx.io/politics/public/images/biden_404_error.212fd347.gif","public/images/cain500.gif":"//assets.bwbx.io/politics/public/images/cain500.c7dcbc00.gif","public/images/fallback.jpg":"//assets.bwbx.io/politics/public/images/fallback.2896a8ad.jpg","public/images/icons/ad_choices_icon.png":"//assets.bwbx.io/politics/public/images/icons/ad_choices_icon.49173bcd.png","public/images/icons/favicon.ico":"//assets.bwbx.io/politics/public/images/icons/favicon.b838bae2.ico","public/images/icons/ios120x120.png":"//assets.bwbx.io/politics/public/images/icons/ios120x120.6e6ddc22.png","public/images/icons/ios152x152.png":"//assets.bwbx.io/politics/public/images/icons/ios152x152.549a1dd0.png","public/images/icons/ios60x60.png":"//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png","public/images/icons/ios76x76.png":"//assets.bwbx.io/politics/public/images/icons/ios76x76.45d85933.png","public/images/logos/BP-Logo-H.svg":"//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg","public/images/logos/BP-Logo-V.svg":"//assets.bwbx.io/politics/public/images/logos/BP-Logo-V.87cc53a5.svg","public/images/logos/BloombergPolitics.png":"//assets.bwbx.io/politics/public/images/logos/BloombergPolitics.007c45aa.png","public/images/logos/FB-Sharing.png":"//assets.bwbx.io/politics/public/images/logos/FB-Sharing.73b07052.png","public/images/logos/WADR-yellow.png":"//assets.bwbx.io/politics/public/images/logos/WADR-yellow.e676805a.png","public/images/logos/WADR.svg":"//assets.bwbx.io/politics/public/images/logos/WADR.588a7d70.svg","public/images/newsletter-loader.gif":"//assets.bwbx.io/politics/public/images/newsletter-loader.47c1a967.gif","public/javascripts/application.js":"//assets.bwbx.io/politics/public/javascripts/application.1f6220cd.js","public/stylesheets/application.css":"//assets.bwbx.io/politics/public/stylesheets/application.2e558c5d.css","public/stylesheets/noscript.css":"//assets.bwbx.io/politics/public/stylesheets/noscript.133744c3.css"},"bplayerJs":"//cdn.gotraffic.net/projector/latest/bplayer.js","clientApp":"app/ClientApp","clientAppUrl":"//assets.bwbx.io/politics/public/javascripts/application.1f6220cd.js","startClientAppAsync":true,"newRelicAppId":"3950336","surveyMonkeyEnabled":false,"recommendation":{"site":"bpol","url":"http://personalization.bloomberg.com"},"WSSNewsletterService":{"bridgeEndpoint":"/politics/newsletter"},"tracking":{"chartbeat":{"domain":"bloombergpolitics.com","uid":"15087"},"comscore":{"clientId":"3005059","site":"bloomberg","siteIdentifier":"004"},"googleAnalytics":{"gaAccount":"UA-11413116-58"},"personalization":{"site":"bpol","trackingUrl":"http://tracking.bloomberg.com/images/tracking-pixel.gif"},"timeouts":{"iframe":2000,"message":3000,"request":3000},"urls":{"locationService":"http://location.bloomberg.com/query/jsonp","tracking":"http://tracking.bloomberg.com/images/tracking-pixel.gif","userProxy":"http://www.bloomberg.com/bcom/iframe/user-proxy"}},"brisket:wantsCookies":false},
+bootstrappedData: {"/politics/api/curations/global":{"items":[{"id":"curiosity_index","items":[{"curatedAt":"2014-09-22T13:24:28-04:00","title":"Super-PACs","type":"interactive","url":"http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-"},{"curatedAt":"2014-10-09T14:22:27-04:00","title":"Debate Derby","type":"interactive","url":"http://www.bloomberg.com/politics/topics/debate-derby"},{"curatedAt":"2014-09-22T13:08:51-04:00","title":"Health care","type":"interactive","url":"http://www.bloomberg.com/politics/topics/health-care"},{"curatedAt":"2014-09-30T14:40:57-04:00","title":"Iran","type":"interactive","url":"http://www.bloomberg.com/politics/articles/2015-07-02/how-freelance-diplomacy-bankrolled-by-rockefellers-has-paved-the-way-for-an-iran-deal"},{"curatedAt":"2014-09-22T13:08:51-04:00","title":"2016","type":"interactive","url":"http://www.bloomberg.com/politics/topics/2016"},{"curatedAt":"2014-10-01T20:59:22-04:00","title":"Donald Trump","type":"interactive","url":"http://www.bloomberg.com/politics/topics/donald-trump"}],"updatedAt":"2015-08-01T10:41:40-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"curiosityIndex","title":"The Index"},{"id":"show_tout","items":[],"updatedAt":"2015-08-01T10:41:40-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"showTout","title":"Watch Latest Episode Here","subtitle":"Halperin & Heilemann","image":{"publishedAt":1411416780,"baseUrl":"http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x-1.jpg","title":"","description":"","origHeight":90,"origWidth":160,"images":{"400x225":{"id":"213798780","height":"225","width":"400","sizeType":"18","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/400x225.jpg"]},"488x-1":{"id":"dynamic","height":"-1","width":"488","sizeType":"57","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/488x-1.jpg"]},"380x252":{"id":"213796002","height":"252","width":"380","sizeType":"38","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/380x252.jpg"]},"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x-1.jpg"]},"60x80":{"id":"213799900","height":"80","width":"60","sizeType":"40","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/60x80.jpg"]},"300x169":{"id":"213801540","height":"169","width":"300","sizeType":"27","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/300x169.jpg"]},"300x400":{"id":"213799328","height":"400","width":"300","sizeType":"17","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/300x400.jpg"]},"630x420":{"id":"213800452","height":"420","width":"630","sizeType":"66","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/630x420.jpg"]},"405x270":{"id":"213801614","height":"270","width":"405","sizeType":"67","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/405x270.jpg"]},"380x220":{"id":"213801988","height":"220","width":"380","sizeType":"53","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/380x220.jpg"]},"140x-1":{"id":"dynamic","height":"-1","width":"140","sizeType":"23","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/140x-1.jpg"]},"750x-1":{"id":"dynamic","height":"-1","width":"750","sizeType":"30","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/750x-1.jpg"]},"200x-1":{"id":"dynamic","height":"-1","width":"200","sizeType":"10","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/200x-1.jpg"]},"360x240":{"id":"213801084","height":"240","width":"360","sizeType":"68","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/360x240.jpg"]},"765x430":{"id":"213798554","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/765x430.jpg"]},"620x349":{"id":"213799814","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/620x349.jpg"]},"140x199":{"id":"213801274","height":"199","width":"140","sizeType":"61","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/140x199.jpg"]},"628x-1":{"id":"dynamic","height":"-1","width":"628","sizeType":"8","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/628x-1.jpg"]},"135x-1":{"id":"dynamic","height":"-1","width":"135","sizeType":"11","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/135x-1.jpg"]},"180x240":{"id":"213798064","height":"240","width":"180","sizeType":"41","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/180x240.jpg"]},"100x133":{"id":"213801808","height":"133","width":"100","sizeType":"16","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/100x133.jpg"]},"620x357":{"id":"213798444","height":"357","width":"620","sizeType":"25","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/620x357.jpg"]},"80x80":{"id":"213802040","height":"80","width":"80","sizeType":"13","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/80x80.jpg"]},"70x70":{"id":"213802012","height":"70","width":"70","sizeType":"22","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/70x70.jpg"]},"1200x-1":{"id":"dynamic","height":"-1","width":"1200","sizeType":"31","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/1200x-1.jpg"]},"140x80":{"id":"213800818","height":"80","width":"140","sizeType":"20","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/140x80.jpg"]},"140x140":{"id":"213799242","height":"140","width":"140","sizeType":"54","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/140x140.jpg"]},"620x413":{"id":"213801654","height":"413","width":"620","sizeType":"35","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/620x413.jpg"]},"840x473":{"id":"213800838","height":"473","width":"840","sizeType":"64","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/840x473.jpg"]},"-1x399":{"id":"dynamic","height":"399","width":"-1","sizeType":"37","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x399.jpg"]},"120x80":{"id":"213801526","height":"80","width":"120","sizeType":"14","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/120x80.jpg"]},"512x288":{"id":"213801014","height":"288","width":"512","sizeType":"65","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/512x288.jpg"]},"190x127":{"id":"213801838","height":"127","width":"190","sizeType":"69","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/190x127.jpg"]},"220x220":{"id":"213801842","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/220x220.jpg"]},"640x-1":{"id":"dynamic","height":"-1","width":"640","sizeType":"24","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/640x-1.jpg"]},"-1x500":{"id":"dynamic","height":"500","width":"-1","sizeType":"9","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x500.jpg"]},"100x60":{"id":"213798830","height":"60","width":"100","sizeType":"58","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/100x60.jpg"]},"300x172":{"id":"213800830","height":"172","width":"300","sizeType":"55","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/300x172.jpg"]},"620x226":{"id":"213801254","height":"226","width":"620","sizeType":"15","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/620x226.jpg"]},"630x354":{"id":"213795734","height":"354","width":"630","sizeType":"70","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/630x354.jpg"]},"368x-1":{"id":"dynamic","height":"-1","width":"368","sizeType":"56","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/368x-1.jpg"]},"40x40":{"id":"213802020","height":"40","width":"40","sizeType":"28","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/40x40.jpg"]},"460x260":{"id":"213800146","height":"260","width":"460","sizeType":"21","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/460x260.jpg"]},"215x233":{"id":"213793162","height":"233","width":"215","sizeType":"52","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/215x233.jpg"]},"120x120":{"id":"213801824","height":"120","width":"120","sizeType":"12","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/120x120.jpg"]},"190x-1":{"id":"dynamic","height":"-1","width":"190","sizeType":"33","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/190x-1.jpg"]},"220x126":{"id":"213801602","height":"126","width":"220","sizeType":"26","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/220x126.jpg"]},"116x68":{"id":"213801904","height":"68","width":"116","sizeType":"19","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/116x68.jpg"]},"-1x240":{"id":"dynamic","height":"240","width":"-1","sizeType":"59","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v1/-1x240.jpg"]}},"id":"202150569","_links":{"self":{"href":"/images/202150569?idType=AVMM"}}},"airDate":"Weekdays, 5 PM ET","link":"http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-"},{"id":"off_canvas_links","items":[{"curatedAt":"2014-09-28T18:42:03-04:00","title":"Find Bloomberg TV","type":"interactive","url":"http://www.bloomberg.com/tv/channel-finder"},{"curatedAt":"2014-09-25T11:51:14-04:00","title":"Privacy Policy","type":"interactive","url":"http://www.bloomberg.com/privacy"},{"curatedAt":"2014-09-25T11:51:14-04:00","title":"Terms and Conditions","type":"interactive","url":"http://www.bloomberg.com/tos"}],"updatedAt":"2015-08-01T10:41:40-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"offCanvasLinks"},{"id":"video_tout","items":[],"updatedAt":"2015-08-01T10:41:40-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"videoTout","callToAction":"Watch latest episode","title":"Monday-Thursday, 5 PM ET","subtitle":"Hosted by Mark Halperin and John Heilemann","image":{"publishedAt":1412469600,"baseUrl":"http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg","title":"","description":"","origHeight":225,"origWidth":400,"images":{"400x225":{"id":"202738474","height":"225","width":"400","sizeType":"0","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/400x225.jpg"]},"488x-1":{"id":"dynamic","height":"-1","width":"488","sizeType":"57","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/488x-1.jpg"]},"380x252":{"id":"213793652","height":"252","width":"380","sizeType":"38","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/380x252.jpg"]},"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg"]},"60x80":{"id":"213801544","height":"80","width":"60","sizeType":"40","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/60x80.jpg"]},"300x169":{"id":"213801742","height":"169","width":"300","sizeType":"27","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x169.jpg"]},"300x400":{"id":"213801728","height":"400","width":"300","sizeType":"17","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x400.jpg"]},"630x420":{"id":"213802032","height":"420","width":"630","sizeType":"66","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/630x420.jpg"]},"405x270":{"id":"213792994","height":"270","width":"405","sizeType":"67","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/405x270.jpg"]},"380x220":{"id":"213800660","height":"220","width":"380","sizeType":"53","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/380x220.jpg"]},"140x-1":{"id":"dynamic","height":"-1","width":"140","sizeType":"23","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x-1.jpg"]},"750x-1":{"id":"dynamic","height":"-1","width":"750","sizeType":"30","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/750x-1.jpg"]},"200x-1":{"id":"dynamic","height":"-1","width":"200","sizeType":"10","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/200x-1.jpg"]},"360x240":{"id":"213801628","height":"240","width":"360","sizeType":"68","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/360x240.jpg"]},"765x430":{"id":"213801216","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/765x430.jpg"]},"620x349":{"id":"213799802","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x349.jpg"]},"140x199":{"id":"213801048","height":"199","width":"140","sizeType":"61","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x199.jpg"]},"628x-1":{"id":"dynamic","height":"-1","width":"628","sizeType":"8","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/628x-1.jpg"]},"135x-1":{"id":"dynamic","height":"-1","width":"135","sizeType":"11","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/135x-1.jpg"]},"180x240":{"id":"213799986","height":"240","width":"180","sizeType":"41","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/180x240.jpg"]},"100x133":{"id":"213801584","height":"133","width":"100","sizeType":"16","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/100x133.jpg"]},"620x357":{"id":"213801156","height":"357","width":"620","sizeType":"25","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x357.jpg"]},"80x80":{"id":"213800078","height":"80","width":"80","sizeType":"13","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/80x80.jpg"]},"70x70":{"id":"213801402","height":"70","width":"70","sizeType":"22","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/70x70.jpg"]},"1200x-1":{"id":"dynamic","height":"-1","width":"1200","sizeType":"31","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/1200x-1.jpg"]},"140x80":{"id":"213801766","height":"80","width":"140","sizeType":"20","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x80.jpg"]},"140x140":{"id":"213801794","height":"140","width":"140","sizeType":"54","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x140.jpg"]},"620x413":{"id":"213802078","height":"413","width":"620","sizeType":"35","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x413.jpg"]},"840x473":{"id":"213798738","height":"473","width":"840","sizeType":"64","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/840x473.jpg"]},"-1x399":{"id":"dynamic","height":"399","width":"-1","sizeType":"37","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x399.jpg"]},"120x80":{"id":"213796908","height":"80","width":"120","sizeType":"14","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/120x80.jpg"]},"512x288":{"id":"213801954","height":"288","width":"512","sizeType":"65","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/512x288.jpg"]},"190x127":{"id":"213801480","height":"127","width":"190","sizeType":"69","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/190x127.jpg"]},"220x220":{"id":"213801924","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/220x220.jpg"]},"640x-1":{"id":"dynamic","height":"-1","width":"640","sizeType":"24","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/640x-1.jpg"]},"-1x500":{"id":"dynamic","height":"500","width":"-1","sizeType":"9","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x500.jpg"]},"100x60":{"id":"213778540","height":"60","width":"100","sizeType":"58","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/100x60.jpg"]},"300x172":{"id":"213795432","height":"172","width":"300","sizeType":"55","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x172.jpg"]},"620x226":{"id":"213801934","height":"226","width":"620","sizeType":"15","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x226.jpg"]},"630x354":{"id":"213801510","height":"354","width":"630","sizeType":"70","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/630x354.jpg"]},"368x-1":{"id":"dynamic","height":"-1","width":"368","sizeType":"56","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/368x-1.jpg"]},"40x40":{"id":"213788164","height":"40","width":"40","sizeType":"28","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/40x40.jpg"]},"460x260":{"id":"213797754","height":"260","width":"460","sizeType":"21","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/460x260.jpg"]},"215x233":{"id":"213796892","height":"233","width":"215","sizeType":"52","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/215x233.jpg"]},"120x120":{"id":"213787254","height":"120","width":"120","sizeType":"12","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/120x120.jpg"]},"190x-1":{"id":"dynamic","height":"-1","width":"190","sizeType":"33","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/190x-1.jpg"]},"220x126":{"id":"213802074","height":"126","width":"220","sizeType":"26","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/220x126.jpg"]},"116x68":{"id":"213801818","height":"68","width":"116","sizeType":"19","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/116x68.jpg"]},"-1x240":{"id":"dynamic","height":"240","width":"-1","sizeType":"59","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x240.jpg"]}},"id":"202738470","_links":{"self":{"href":"/images/202738470?idType=AVMM"}}},"url":"http://www.bloomberg.com/politics/videos/2015-07-31/with-all-due-respect-07-31-15-"}],"_expanded":true},"/politics/api/snippet/tophat":{"tophat":"<div class=\"snippet-view business-snippet default-layout section-front\" data-view-uid=\"tophatView\"><div data-view-uid=\"tophatView_1\"><div class=\"tophat\"> <section class=\"tophat-menu\"> <h2 class=\"tophat-menu__link-toggle\">Bloomberg the Company &amp; Products</h2> <a href=\"https://bba.bloomberg.net/?utm_source=bloomberg-menu\" class=\"tophat-menu__link-bba\">Bloomberg Anywhere Login</a> </section> <div class=\"tophat__sitemap\"> <div class=\"tophat__categories\"> <div class=\"tophat__close-sitemap-button\"></div> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Bloomberg</h2> <div class=\"tophat-category__content\"> <p class=\"tophat-category__text\"> Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. </p> </div> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Company</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/company/careers/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Careers</a></li> <li><a href=\"http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Diversity &amp; Inclusion</a></li> <li><a href=\"http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Philanthropy &amp; Engagement</a></li> <li><a href=\"http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Sustainability</a></li> <li><a href=\"http://www.bloomberg.com/company/technology/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Technology</a></li> <li><a href=\"http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">History &amp; Facts</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Financial Products</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-12-CORE-bbgmenu\" class=\"tophat-category__link\">Bloomberg Professional</a></li> <li><a href=\"http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu\" class=\"tophat-category__link\">Bloomberg Tradebook</a></li> <li><a href=\"http://www.bloombergbriefs.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Briefs</a></li> <li><a href=\"http://www.bloombergindexes.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-05-13-INDEXES-bbgmenu\" class=\"tophat-category__link\">Bloomberg Indexes</a></li> <li><a href=\"http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu\" class=\"tophat-category__link\">Bloomberg SEF</a></li> <li><a href=\"http://about.bloomberginstitute.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Institute</a></li> <li><a href=\"http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Service Center</a></li> <li><a href=\"http://www.bloomberg.com/professional/systems-support/downloads/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Downloads</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Enterprise Products</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-bbgmenu\" class=\"tophat-category__link\">Enterprise Solutions</a></li> <li><a href=\"http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-TS-bbgmenu\" class=\"tophat-category__link\">Trading Solutions</a></li> <li><a href=\"http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu\" class=\"tophat-category__link\">Bloomberg Vault</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Media</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Business</a></li> <li><a href=\"http://www.bloomberg.com/politics/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Politics</a></li> <li><a href=\"http://www.bloombergview.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg View</a></li> <li><a href=\"http://www.bloomberg.com/live?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Television</a></li> <li><a href=\"http://www.bloomberg.com/radio/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Radio</a></li> <li><a href=\"http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Mobile Apps</a></li> <li><a href=\"http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">News Bureaus</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Customer Support</h2> <ul class=\"tophat-category__content\"> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Americas</p> <p class=\"tophat-category__text\">+1 212 318 2000</p> </li> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Europe, Middle East, &amp; Africa</p> <p class=\"tophat-category__text\">+44 20 7330 7500</p> </li> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Asia Pacific</p> <p class=\"tophat-category__text\">+65 6212 1000</p> </li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Communications</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Press Announcements</a></li> <li><a href=\"http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Press Contacts</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Industry Products</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://about.bgov.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Government</a></li> <li><a href=\"http://www.bna.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Law/BNA</a></li> <li><a href=\"https://bol.bna.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Big Law</a></li> <li><a href=\"http://about.bnef.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg New Energy Finance</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Media Services</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloombergmedia.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Advertising</a></li> <li><a href=\"http://www.bloomberg.com/content-service/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Content Service</a></li> <li><a href=\"http://www.bloomberglive.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Live Conferences</a></li> </ul> </section> <section class=\"tophat-category\"> <h2 class=\"tophat-category__title\">Follow Us</h2> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.facebook.com/Bloomberglp\" class=\"tophat-category__social-link facebook\" data-network=\"facebook\" target=\"_blank\"> Facebook </a></li> <li><a href=\"https://twitter.com/bloomberg\" class=\"tophat-category__social-link twitter\" data-network=\"twitter\" target=\"_blank\"> Twitter </a></li> <li><a href=\"https://www.linkedin.com/company/2494\" class=\"tophat-category__social-link linkedin\" data-network=\"linkedin\" target=\"_blank\"> LinkedIn </a></li> <li><a href=\"https://instagram.com/bloomberg\" class=\"tophat-category__social-link instagram\" data-network=\"instagram\" target=\"_blank\"> Instagram </a></li> </ul> </section> </div> </div> </div></div></div>","assets":{"stylesheets":["//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css"],"javascripts":["//assets.bwbx.io/business/public/javascripts/tophat_snippet.61d64066.js"]},"init":"<script type=\"text/javascript\">\nvar SnippetApp = require('app/SnippetApp');\nvar snippetApp = new SnippetApp({\"appRoot\":\"\",\"assetManifest\":{\"public/images/500error.gif\":\"//assets.bwbx.io/business/public/images/500error.96cb50c5.gif\",\"public/images/bbiz404.gif\":\"//assets.bwbx.io/business/public/images/bbiz404.3020e8d7.gif\",\"public/images/fallback.jpg\":\"//assets.bwbx.io/business/public/images/fallback.269a48ad.jpg\",\"public/images/favicons/apple-touch-icon-114x114.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-114x114.4aeb3b13.png\",\"public/images/favicons/apple-touch-icon-120x120.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-120x120.616b256f.png\",\"public/images/favicons/apple-touch-icon-144x144.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-144x144.166dda65.png\",\"public/images/favicons/apple-touch-icon-152x152.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-152x152.c9951ac7.png\",\"public/images/favicons/apple-touch-icon-180x180.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-180x180.dc9ca3d6.png\",\"public/images/favicons/apple-touch-icon-57x57.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-57x57.bd486901.png\",\"public/images/favicons/apple-touch-icon-60x60.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-60x60.f457f1df.png\",\"public/images/favicons/apple-touch-icon-72x72.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-72x72.7d226513.png\",\"public/images/favicons/apple-touch-icon-76x76.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-76x76.4fb8818e.png\",\"public/images/favicons/apple-touch-icon-precomposed.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-precomposed.c3e3dfeb.png\",\"public/images/favicons/apple-touch-icon.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon.dc9ca3d6.png\",\"public/images/favicons/favicon-160x160.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-160x160.9b14619b.png\",\"public/images/favicons/favicon-16x16.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-16x16.8cab4be4.png\",\"public/images/favicons/favicon-192x192.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-192x192.03482356.png\",\"public/images/favicons/favicon-32x32.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-32x32.fa02118e.png\",\"public/images/favicons/favicon-96x96.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-96x96.6dbd1316.png\",\"public/images/favicons/favicon.ico\":\"//assets.bwbx.io/business/public/images/favicons/favicon.9628b26e.ico\",\"public/images/favicons/mstile-144x144.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-144x144.539def7a.png\",\"public/images/favicons/mstile-150x150.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-150x150.05f21a40.png\",\"public/images/favicons/mstile-310x150.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-310x150.07f7515d.png\",\"public/images/favicons/mstile-310x310.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-310x310.b5b6727a.png\",\"public/images/favicons/mstile-70x70.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-70x70.1b6952cd.png\",\"public/images/feature_article/feature-arrow.svg\":\"//assets.bwbx.io/business/public/images/feature_article/feature-arrow.159d059a.svg\",\"public/images/icons/ad_choices_icon.png\":\"//assets.bwbx.io/business/public/images/icons/ad_choices_icon.49173bcd.png\",\"public/images/logos/BB-Logo-H-HP-TOP.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H-HP-TOP.3d81db4e.svg\",\"public/images/logos/BB-Logo-H-SFF.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H-SFF.cfc95f5f.svg\",\"public/images/logos/BB-Logo-H.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H.37109099.svg\",\"public/images/logos/BB-Logo-H1.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H1.c318357b.svg\",\"public/images/logos/BB-Logo-V-HP-TOP.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V-HP-TOP.a8517901.svg\",\"public/images/logos/BB-Logo-V-SFF.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V-SFF.84957dfc.svg\",\"public/images/logos/BB-Logo-V.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V.313783e5.svg\",\"public/images/logos/BB-Politics.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Politics.8ba9ea31.svg\",\"public/images/logos/BB-View.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-View.465688fb.svg\",\"public/images/logos/bloombergGraphics.svg\":\"//assets.bwbx.io/business/public/images/logos/bloombergGraphics.59cde388.svg\",\"public/images/logos/businessweek.svg\":\"//assets.bwbx.io/business/public/images/logos/businessweek.5ab1d0e1.svg\",\"public/images/masks/0.svg\":\"//assets.bwbx.io/business/public/images/masks/0.6673ff57.svg\",\"public/images/masks/1.svg\":\"//assets.bwbx.io/business/public/images/masks/1.878a21c9.svg\",\"public/images/masks/2.svg\":\"//assets.bwbx.io/business/public/images/masks/2.f0f70f59.svg\",\"public/images/masks/3.svg\":\"//assets.bwbx.io/business/public/images/masks/3.cd142ccc.svg\",\"public/images/masks/4.svg\":\"//assets.bwbx.io/business/public/images/masks/4.fac7b759.svg\",\"public/images/masks/5.svg\":\"//assets.bwbx.io/business/public/images/masks/5.487be3a1.svg\",\"public/images/masks/6.svg\":\"//assets.bwbx.io/business/public/images/masks/6.831d863f.svg\",\"public/images/masks/7.svg\":\"//assets.bwbx.io/business/public/images/masks/7.257607a5.svg\",\"public/images/masks/8.svg\":\"//assets.bwbx.io/business/public/images/masks/8.d7942ba7.svg\",\"public/images/masks/9.svg\":\"//assets.bwbx.io/business/public/images/masks/9.4984fa8e.svg\",\"public/images/masks/the_brief/1.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/1.320956b0.svg\",\"public/images/masks/the_brief/10.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/10.e663fed1.svg\",\"public/images/masks/the_brief/11.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/11.2059376b.svg\",\"public/images/masks/the_brief/12.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/12.ed23d773.svg\",\"public/images/masks/the_brief/13.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/13.ee7a5804.svg\",\"public/images/masks/the_brief/14.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/14.ccf4047c.svg\",\"public/images/masks/the_brief/15.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/15.14ec87a2.svg\",\"public/images/masks/the_brief/16.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/16.c71241f4.svg\",\"public/images/masks/the_brief/17.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/17.203c46e2.svg\",\"public/images/masks/the_brief/18.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/18.bdf198b8.svg\",\"public/images/masks/the_brief/19.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/19.a5f0a5d8.svg\",\"public/images/masks/the_brief/2.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/2.b150f74f.svg\",\"public/images/masks/the_brief/20.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/20.2e211202.svg\",\"public/images/masks/the_brief/3.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/3.ba120ffe.svg\",\"public/images/masks/the_brief/4.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/4.97d322bf.svg\",\"public/images/masks/the_brief/5.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/5.427b4e45.svg\",\"public/images/masks/the_brief/6.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/6.394d2c05.svg\",\"public/images/masks/the_brief/7.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/7.f60dd6e3.svg\",\"public/images/masks/the_brief/8.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/8.0fa2f2be.svg\",\"public/images/masks/the_brief/9.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/9.b7123eb5.svg\",\"public/images/newsletter-loader.gif\":\"//assets.bwbx.io/business/public/images/newsletter-loader.47c1a967.gif\",\"public/images/no-image-header-BREAKING.jpeg\":\"//assets.bwbx.io/business/public/images/no-image-header-BREAKING.475e12b5.jpeg\",\"public/images/top-noimage-ph.jpeg\":\"//assets.bwbx.io/business/public/images/top-noimage-ph.5d911b62.jpeg\",\"public/javascripts/application.js\":\"//assets.bwbx.io/business/public/javascripts/application.5db8d467.js\",\"public/javascripts/bbloader2.js\":\"//assets.bwbx.io/business/public/javascripts/bbloader2.1b71e895.js\",\"public/javascripts/critical.js\":\"//assets.bwbx.io/business/public/javascripts/critical.c5e05d06.js\",\"public/javascripts/experienceRedirect.js\":\"//assets.bwbx.io/business/public/javascripts/experienceRedirect.83a17d33.js\",\"public/javascripts/previewModules.js\":\"//assets.bwbx.io/business/public/javascripts/previewModules.eda4815e.js\",\"public/javascripts/tophat_snippet.js\":\"//assets.bwbx.io/business/public/javascripts/tophat_snippet.61d64066.js\",\"public/stylesheets/application.css\":\"//assets.bwbx.io/business/public/stylesheets/application.d59444fd.css\",\"public/stylesheets/noscript.css\":\"//assets.bwbx.io/business/public/stylesheets/noscript.78e39895.css\",\"public/stylesheets/snippet_application.css\":\"//assets.bwbx.io/business/public/stylesheets/snippet_application.edfe4cab.css\",\"public/stylesheets/split/application-ie-blessed1.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie-blessed1.5556fb89.css\",\"public/stylesheets/split/application-ie-blessed2.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie-blessed2.6b8e1096.css\",\"public/stylesheets/split/application-ie.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie.f16cca06.css\",\"public/stylesheets/tophat_snippet.css\":\"//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css\"},\"bplayerJs\":\"//cdn.gotraffic.net/projector/latest/bplayer.js\",\"videoPlayerConfig\":{\"shareOverlay\":\"true\"},\"searchHost\":\"http://search.bloomberg.com\",\"clientApp\":\"app/ClientApp\",\"clientAppUrl\":\"//assets.bwbx.io/business/public/javascripts/application.5db8d467.js\",\"startClientAppAsync\":true,\"snippetApp\":\"app/SnippetApp\",\"snippetHost\":\"http://www.bloomberg.com\",\"featureFlags\":{\"experiencesEnabled\":true,\"marketsV2\":false,\"inlineSlideshow\":true,\"transporterABTest\":true},\"recommendation\":{\"site\":\"bbiz\",\"url\":\"http://personalization.bloomberg.com\"},\"newRelicLicenseKey\":\"32a39e099b\",\"newRelicAppId\":\"4892087\",\"disqusShortname\":\"bloomberg\",\"twitterUser\":\"business\",\"twitterSite\":\"@business\",\"WSSNewsletterService\":{\"bridgeEndpoint\":\"/newsletter\"},\"tracking\":{\"chartbeat\":{\"domain\":\"bloomberg.com\",\"uid\":\"15087\"},\"comscore\":{\"clientId\":\"3005059\",\"site\":\"bloomberg\",\"siteIdentifier\":\"004\"},\"googleAnalytics\":{\"gaAccount\":\"UA-11413116-1\"},\"personalization\":{\"site\":\"bbiz\",\"trackingUrl\":\"http://tracking.bloomberg.com/images/tracking-pixel.gif\"},\"timeouts\":{\"iframe\":2000,\"message\":3000,\"request\":3000},\"urls\":{\"tracking\":\"http://tracking.bloomberg.com/images/tracking-pixel.gif\"}},\"brisket:wantsCookies\":true});\nsnippetApp.start({\"host\":\"http://www.bloomberg.com\",\"viewFunctionNames\":[\"tophatView\"]});\n<\/script>"},"/politics/api/articles/slug/2015-08-02%2Fkoch-calls-for-end-to-corporate-welfare-for-wall-street":{"attachments":{"all":[{"id":"211079172","type":"image","placement":["thumbnail","lede"]},{"id":"229800196","type":"image","placement":["inline"]}],"image":{"211079172":{"baseUrl":"http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg","title":"","description":"","origWidth":2200,"images":{"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/-1x-1.jpg"]},"765x430":{"id":"218930878","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/765x430.jpg"]},"620x349":{"id":"218930882","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/620x349.jpg"]},"400x225":{"id":"218917330","height":"225","width":"400","sizeType":"18","url":["http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/400x225.jpg"]},"220x220":{"id":"218917276","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/imq7pPK2pEQ8/v2/220x220.jpg"]}}},"229800196":{"baseUrl":"http://assets.bwbx.io/images/ib12iO7sMTY0/v1/-1x-1.jpg","title":"","description":"","caption":"Protesters stand outside the Koch&apos;s event in Dana Point, California, on Saturday.","credit":"Zachary Mider","origWidth":2307,"images":{"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/ib12iO7sMTY0/v1/-1x-1.jpg"]},"765x430":{"id":"dynamic","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/ib12iO7sMTY0/v1/765x430.jpg"]},"620x349":{"id":"dynamic","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/ib12iO7sMTY0/v1/620x349.jpg"]},"400x225":{"id":"dynamic","height":"225","width":"400","sizeType":"18","url":["http://assets.bwbx.io/images/ib12iO7sMTY0/v1/400x225.jpg"]},"220x220":{"id":"dynamic","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/ib12iO7sMTY0/v1/220x220.jpg"]}}},"_expanded":true},"video":{}},"body":"<p>Charles Koch, the billionaire leader of a conservative network that has pledged to spend hundreds of millions of dollars influencing next year&apos;s elections, called for an end to what he called &quot;corporate welfare&quot; for the biggest U.S. banks.</p><p>Koch singled out the financial industry as a target Saturday as he welcomed about 450 wealthy donors to a semi-annual retreat at a luxury hotel in California. The group, known as Freedom Partners, supports the free-market ideas Koch has long championed, and includes many of the country&apos;s biggest Republican contributors.</p><figure data-type=\"image\" data-id=\"229800196\" data-thumbnail=\"http://assets.bwbx.io/images/ib12iO7sMTY0/v1/460x260.jpg\" align=\"left\" data-align=\"left\"><img class=\"alignleft\" src=\"http://resource.bloomberg.com/images/229800196\" alt=\"Protesters stand outside the Koch&apos;s event in Dana Point, California, on Saturday.\"><figcaption><div class=\"news-figure-credit\">Zachary Mider</div><div class=\"news-figure-caption-text\"><p>Protesters stand outside the Koch&apos;s event in Dana Point, California, on Saturday.</p></div></figcaption></figure><p>Big banks, Koch said, &quot;are among the greatest proponents of corporate welfare,&quot; having received bailouts during the financial crisis and access to unlimited lending from the Federal Reserve. Meanwhile, the burden of financial regulations imposed in the crisis&apos;s wake fell hardest on small, community banks, many of which were forced out of business, he added. Big banks&apos; political contributions help preserve their advantages, he said.</p><p>&quot;The destructive cycle goes on and on,&quot; he said.</p><p>While Koch&apos;s remarks are consistent with the small-government mantra he has espoused for decades, they serve as a reminder of the threat the country&apos;s biggest banks face from the right as well as the left. Liberal Democrats such as Senator Elizabeth Warren of Massachusetts, and Bernie Sanders, a Vermont senator who is seeking the Democratic presidential nomination, have called for a breakup of the biggest U.S. lenders.</p><p>The network overseen by Koch and his brother, David, has pledged to spend $889 million on its agenda during the 2016 election cycle.&#xA0;That network includes Freedom Partners, the organization that hosted the conference, and Americans for Prosperity.&#xA0;</p><p>For politicians, the Koch events are a chance to rub elbows with some of the most important conservative patrons. Two candidates for the Republican presidential nomination, Carly Fiorina and Scott Walker, spoke earlier Saturday, and Sunday&apos;s schedule includes planned appearances by Jeb Bush, Marco Rubio, and Ted Cruz.</p><p>The Kochs jointly own most of Koch Industries, the Wichita-based oil and chemicals company that is the second largest closely held company in the world. The Bloomberg Billionaires Index estimates their wealth at $51 billion each.</p><p>The Kochs&apos; heavy spending on elections have made them bete noirs of the left. This summer&apos;s event is taking place behind heavy security at a luxury hotel in Dana Point, California. On the street outside the resort, a handful of protesters, some wearing Sanders T-shirts, waved hand-made signs saying &quot;America Has a Koch Problem&quot; and &quot;Get Money out of Politics.&quot;</p><p>Back inside the gates, the crowd of silver-haired donors, many of them entrepreneurs and business executives, sipped white wine and watched the sun creep lower over the Pacific. Koch told them that obtrusive government policies are to blame not just for problems in the banking industry but, more broadly, economic inequality and lack of opportunity.</p><p>&quot;Misguided policies are creating a permanent underclass, crippling our economy and corrupting the business community,&quot; he said. &quot;Present company excepted, of course.&quot;&#xA0;</p>","credits":{"author":[{"fullName":"Zachary Mider","id":"15059003","slug":"AOXIO417-Zo/zachary-mider","image":{"images":{"220x220":{"id":"228624238","height":"220","width":"220","sizeType":"100","url":["http://www.bloomberg.com/image/iN6Vdd9z9nMM.png"]}}},"socialFeeds":{"Twitter":"@zachmider"}}]},"embeds":{"iframe":{},"slideshow":{}},"headline":"Koch Calls for End to \"Corporate Welfare\" for Wall Street","headlines":{"web":"Koch Calls for End to \"Corporate Welfare\" for Wall Street"},"id":"NSFOP86JTSE801","metadata":{"flowcmsId":201196,"thumbnail":"211079172","background":"white","seo":{"headline":""},"googleStandout":false,"social":{"twitterText":"What do @BernieSanders and the Koch brothers agree on?","headline":"","description":"","image":0},"ledeTreatment":"","lede":{"type":"image","id":211079172,"overlay":"","caption":"<p>Charles Koch photographed in 2007.</p>\n","credit":"Photographer: Bo Rader/Wichita Eagle/MCT via Getty Images"},"adCode":"","disableAds":false,"adKeywords":["pol_goldman_q2"]},"publishedAt":"2015-08-02T02:39:08.107Z","quote":{"text":"","credit":"","hideOnSingle":false},"slug":"2015-08-02/koch-calls-for-end-to-corporate-welfare-for-wall-street","shortUrl":"http://bloom.bg/1M4pmGX","summary":"Billionaire brothers Charles and David Koch are hosting five Republican presidential candidates at an event for major donors this weekend.","tags":{"topics":[{"id":"the-money-race","name":"The Money Race","primary":true,"score":3.9824561403509},{"id":"wall-street","name":"Wall Street","primary":false,"score":2.9824561403509},{"id":"california","name":"California","primary":false,"score":1.9046439628483},{"id":"conservative","name":"Conservative","primary":false,"score":1.3996904024768},{"id":"elections","name":"Elections","primary":false,"score":1.2176470588235},{"id":"federal-reserve","name":"Federal Reserve","primary":false,"score":0.74365325077399},{"id":"liberal","name":"Liberal","primary":false,"score":0.58421052631579},{"id":"democrats","name":"Democrats","primary":false,"score":0.58173374613003},{"id":"vermont","name":"Vermont","primary":false,"score":0.55603715170279}]},"type":"article","updatedAt":"2015-08-02T03:31:31.444Z","url":"http://www.bloomberg.com/politics/articles/2015-08-02/koch-calls-for-end-to-corporate-welfare-for-wall-street","webOriginal":true,"primarySite":"bpol","footnotes":{}},"/politics/api/modules/headband%7B%22exclude%22%3A%222015-08-02%2Fkoch-calls-for-end-to-corporate-welfare-for-wall-street%22%7D":{"items":[{"headline":"Christie Runs Down Debate Clock in Iowa","id":"NSFDXS6JTSE801","slug":"2015-08-01/christie-runs-down-debate-clock-in-iowa","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-08-01/christie-runs-down-debate-clock-in-iowa","primarySite":"bpol"},{"headline":"Joe Biden Not Ruling Out A Challenge To Hillary Clinton","id":"NSFCSF6S972801","slug":"2015-08-01/joe-biden-not-ruling-out-a-challenge-to-hillary-clinton","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-08-01/joe-biden-not-ruling-out-a-challenge-to-hillary-clinton","primarySite":"bpol"},{"headline":"Congress Looks Underground for Cash","id":"NSEPK36JTSEA01","slug":"2015-08-01/congress-looks-underground-for-cash","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-08-01/congress-looks-underground-for-cash","primarySite":"bpol"},{"headline":"Million-Dollar Donations Fuel Super-PACs' New Dominance","id":"NSE3HT6JTSE901","slug":"2015-08-01/million-dollar-donations-fuel-super-pacs-new-dominance","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-08-01/million-dollar-donations-fuel-super-pacs-new-dominance","primarySite":"bpol"},{"headline":"Super-PAC Tagged for Ted Cruz Flirts With Carly Fiorina","id":"NSDIW06JTSE801","slug":"2015-07-31/is-a-super-pac-tagged-for-ted-cruz-flirting-with-carly-fiorina-","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/is-a-super-pac-tagged-for-ted-cruz-flirting-with-carly-fiorina-","primarySite":"bpol"},{"headline":"Hillary and Bill Clinton Made $139 Million in Eight Years","id":"NSDECP6KLVRC01","slug":"2015-07-31/hillary-and-bill-clinton-paid-43-million-in-federal-taxes","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/hillary-and-bill-clinton-paid-43-million-in-federal-taxes","primarySite":"bpol"},{"headline":"No Really—What’s the Difference Between a Democrat and a Socialist?","id":"NSDD2I6S972801","slug":"2015-07-31/no-really-what-s-the-difference-between-a-democrat-and-a-socialist-","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/no-really-what-s-the-difference-between-a-democrat-and-a-socialist-","primarySite":"bpol"},{"headline":"Wisconsin Roofing Billionaire is Top Donor to Walker Super-PAC","id":"NSDAN56KLVRC01","slug":"2015-07-31/wisconsin-roofing-billionaire-is-top-donor-to-walker-super-pac","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/wisconsin-roofing-billionaire-is-top-donor-to-walker-super-pac","primarySite":"bpol"},{"headline":"Hillary Clinton's Doctor Says She Is 'Fit to Serve as President'","id":"NSD6026JTSEF01","slug":"2015-07-31/hillary-clinton-s-doctor-describes-her-as-fit-to-serve-as-president-","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/hillary-clinton-s-doctor-describes-her-as-fit-to-serve-as-president-","primarySite":"bpol"},{"headline":"Kasich Super-PAC Unleashes New Ad Focusing on National Security","id":"NSD52B6KLVRA01","slug":"2015-07-31/kasich-super-pac-unleashes-new-ad-focusing-on-national-security","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/kasich-super-pac-unleashes-new-ad-focusing-on-national-security","primarySite":"bpol"},{"headline":"Hillary Clinton Lobs Bush, Rubio Attacks in Their Own Backyard","id":"NSD45E6S972B01","slug":"2015-07-31/hillary-clinton-lobs-bush-rubio-attacks-in-their-own-backyard","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-31/hillary-clinton-lobs-bush-rubio-attacks-in-their-own-backyard","primarySite":"bpol"},{"headline":"The Rules of Campaign Cash","id":"NSD1O86KLVR801","slug":"2015-07-31/the-rules-of-campaign-cash","type":"data_article","url":"http://www.bloomberg.com/politics/data/2015-07-31/the-rules-of-campaign-cash","primarySite":"bpol"}],"_expanded":true}}
+});
+s.removeEventListener("load", loaded, false);
+}
+s.addEventListener("load", loaded);
+setTimeout(function() { (d.body || d.head).appendChild(s); }, 0);
+})(document);
+</script></body></html>

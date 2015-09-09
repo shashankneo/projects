@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html><head data-ad='{"gpt":{"targeting":{"collection":"music","device":"desktop","ptype":"image_gallery","cid":"scenes-from-lollapalooza-2015","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentTop":{"sizes":[[381,211]],"position":"top"},"sponsorContentSmallTop":{"sizes":[[301,151]],"position":"top"},"sponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top"},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileBanner1":{"sizes":[[320,50]],"position":1},"mobileBanner2":{"sizes":[[320,50]],"position":2},"mobileBanner3":{"sizes":[[320,50]],"position":3},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"mobileIncrementalBanner1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner2":{"sizes":[[300,250]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner5":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner6":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner8":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner9":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner11":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner12":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner13":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner14":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner15":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner16":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner17":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner18":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner19":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner20":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","mpu_middle","marquee300_middle","button_middle","mpu_bottom","leader_bottom","button_bottom"]},"containerId":"55bd91e97fab4","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"entertainment","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-top-55bd91e97fab4","mpu-bottom-55bd91e97fab4","leader-bottom-55bd91e97fab4","intromercial-55bd91e97fab4","leader-top-55bd91e97fab4"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"useFirstPageTargeting":true}'><!-- Fly Version: prod-1.11 88e9000a93e0a1ce03e38bf907b508edfc1c2d97 (cbsnews prod_alt) --><title>MisterWives - Scenes from Lollapalooza 2015 - Pictures - CBS News</title><meta charset="UTF-8"><meta name="robots" content="index, follow"><meta name="description" content="Returning to Chicago's waterfront for the 11th year, Lollapalooza, the three-day music festival, runs July 31-August 2, and features more than 140 acts, including Sir Paul McCartney, Metallica, Sam Smith, Florence and the Machine, and..."><meta name="keywords" content="music festivals, Paul McCartney, Alabama Shakes, chicago, Lollapalooza,  ,pictures, photos, cbs news photos, cbs news, cbsnews.com"><link rel="next" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/2/"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="twitter:creator" content="CBS News"><meta name="twitter:title" content="Scenes from Lollapalooza 2015"><meta name="twitter:description" content="The three-day music festival, featuring more than 140 acts, returns to Chicago's Grant Park for the 11th year"><meta name="twitter:image" content="http://cbsnews1.cbsistatic.com/hub/i/2015/08/01/60678791-29e0-4756-92c7-4ff1c10f38f6/lollapalooza-2015-paul-mccartney-alabama-shakes-getty-482632622594screen.jpg"><meta property="og:image" content="http://cbsnews1.cbsistatic.com/hub/i/2015/08/01/60678791-29e0-4756-92c7-4ff1c10f38f6/lollapalooza-2015-paul-mccartney-alabama-shakes-getty-482632622594screen.jpg"><meta property="og:title" content="Scenes from Lollapalooza 2015"><meta property="og:description" content="The three-day music festival, featuring more than 140 acts, returns to Chicago's Grant Park for the 11th year"><meta property="article:author" content=""><meta property="article:publisher" content="https://www.facebook.com/CBSNewsEntertainment"><link rel="alternate" href="android-app://com.treemolabs.apps.cbsnews/http/www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/"><meta property="vr:canonical" content="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/"><link rel="canonical" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/"><link rel="shortcut icon" type="image/x-icon" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/favicon.ico"><link rel="apple-touch-icon" sizes="144x144" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon-precomposed" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><script src="//fonts.cbsnews.com/hzk1prl.js" async defer id="typekitScript"></script><script>
+		if (typeof Typekit !== 'undefined') {
+			Typekit.load();
+		} else {
+			(function(d) {
+				var html = d.documentElement,
+					timeout = setTimeout(function(){
+							html.className = html.className.replace(/\bwf-loading\b/g,"") + " wf-inactive";
+						}, 3000),
+					tk = d.getElementById('typekitScript'),
+					hasLoaded = false, lastKnownState;
+				html.className += " wf-loading";
+				tk.onload = tk.onreadystatechange=function(){
+					lastKnownState = this.readyState;
+
+					if (hasLoaded || lastKnownState && lastKnownState != "complete" && lastKnownState != "loaded") {
+						return;
+					}
+
+					hasLoaded = true;
+					clearTimeout(timeout);
+					try{
+						Typekit.load()
+					}catch(e){}
+				};
+		  })(document);
+		}
+	</script><link rel="stylesheet" href="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/main.desktop.css"><!--[if IE 8]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/desktop/ie8.css" />
+    <![endif]--><!--[if IE]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/desktop/ie.css" />
+    <![endif]--><!--[if lt IE 9]>
+    <script src="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/js/libs/html5shiv-printshiv.js"></script>
+    <![endif]--><script>
+	var require = {"baseUrl":"http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/js-build","config":{"version":{"fly/libs/easy-xdm":"2.4.19.3","fly/libs/jquery.widget":"1.9.2","fly/libs/jquery.cookie":"1.2","fly/libs/jquery.throttle-debounce":"1.1","fly/libs/omniture.s-code":"1.0","fly/libs/urs":"1.0","fly/utils/data-prefix":"1.0","fly/utils/data-selector":"1.0","fly/utils/function-natives":"1.0","fly/utils/guid":"1.0","fly/utils/log":"1.0","fly/utils/object-helper":"1.0","fly/utils/string-helper":"1.0","fly/utils/string-vars":"1.0","fly/utils/url-helper":"1.0","fly/managers/components":"1.0","fly/managers/cookie":"1.0","fly/managers/debug":"1.0","fly/managers/ad":"2.0","fly/managers/gpt":"4.1","fly/managers/geo":"1.0","fly/managers/image-resolution":"1.0","fly/managers/social-authentication":"1.0","fly/managers/tracking":"1.0","fly/managers/user":"1.0","fly/components/accordion":"1.0","fly/components/alert":"1.0","fly/components/base":"1.0","fly/components/carousel":"1.0","fly/components/credspark":"1.0","fly/components/dependent-field":"1.0","fly/components/dropdown":"1.0","fly/components/form-validate":"1.0","fly/components/iframe-messenger":"1.0","fly/components/image-gallery":"1.0","fly/components/livefyre-conversation":"1.0","fly/components/livefyre-commentcount":"1.0","fly/components/loading":"1.0","fly/components/load-more":"1.0","fly/components/nrelate":"1.0","fly/components/modal":"1.0","fly/components/modal-async":"1.0","fly/components/modal-iframe":"1.0","fly/components/social-button":"1.0","fly/components/social-counts":"1.0","fly/components/social-links":"1.0","fly/components/tabs":"1.0","fly/managers/clicktale":"1.0","fly/components/poll":"1.0","fly/managers/history":"1.0","fly/components/scrollbar":"1.0","fly/components/fixate":"1.0","fly/components/image-gallery-thumb":"1.0"}},"shim":{"tealium":["jquery"]},"map":{"*":{"gpt":"//www.googletagservices.com/tag/js/gpt.js","typekit":"//fonts.cbsnews.com/hzk1prl.js","livefyre":"//zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js","livefyre-commentcount":"//zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js","nrelate":"//c7.static.nrcdn.com/common_js/0.52.1/nr_loader.min.js","urs":"//urs.cbsnews.com/sdk/urs.js","recirc":"//ddlmj2furo6f2.cloudfront.net/addontrain/recommendations/53f6c74c1344a01ee2000139.js","tealium":"//tags.tiqcdn.com/utag/cbsi/cbsnewssite/prod/utag.js","credspark":"//www.credspark.com/embed.js","yad":"https://s.yimg.com/uq/syndication/yad.js","newsgator":"//nmp.newsgator.com/ngbuzz/load.ashx/buzz"}}};
+</script><script src="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/flyjs/js/libs/require-2.1.2.js" data-main="main.desktop" async defer></script><script>
+        // Source: https://gist.github.com/jcxplorer/823878/
+        // Licence: Public Domain
+        function UUIDv4 (){var b="",a,c;for(a=0;32>a;a++){c=16*Math.random()|0;if(8==a||12==a||16==a||20==a)b+="-";b+=(12==a?4:16==a?c&3|8:c).toString(16)}return b};
+
+        var __tealium_data_guid = UUIDv4(),
+                utag_data = {"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articlePubDate":"2015-08-01 18:13:49","articleType":"content_gallery","collectionId":["d3411834-8ba2-11e2-9400-029118418759"],"collectionName":["music"],"deviceType":"desktop","isDev":"2","pageType":"image_gallery","photoGalleryId":"65557f3f-54f1-4a01-ad65-8ac9552eee0f","photoGalleryTitle":"scenes from lollapalooza 2015","siteHier":["entertainment"],"siteSection":"entertainment","siteType":"responsive web","topicId":"42929b6c-758d-11e2-9d12-0018fe8a00b0","topicName":"entertainment","bkSiteId":3330,"limit":4,"siteName":"cbsnews","tealium":{"profile":"cbsnewssite","env":"prod"}};
+        utag_data.pageViewGuid = __tealium_data_guid;
+    </script><script>
+var _vrq = _vrq || [];
+_vrq.push(['automate', 'false' ]);
+</script></head><body data-tracking='{"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articlePubDate":"2015-08-01 18:13:49","articleType":"content_gallery","collectionId":["d3411834-8ba2-11e2-9400-029118418759"],"collectionName":["music"],"deviceType":"desktop","isDev":"2","pageType":"image_gallery","photoGalleryId":"65557f3f-54f1-4a01-ad65-8ac9552eee0f","photoGalleryTitle":"scenes from lollapalooza 2015","siteHier":["entertainment"],"siteSection":"entertainment","siteType":"responsive web","topicId":"42929b6c-758d-11e2-9d12-0018fe8a00b0","topicName":"entertainment","bkSiteId":3330,"limit":4,"siteName":"cbsnews","tealium":{"profile":"cbsnewssite","env":"prod"}}' data-ad='{"gpt":{"targeting":{"collection":"music","device":"desktop","ptype":"image_gallery","cid":"scenes-from-lollapalooza-2015","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentTop":{"sizes":[[381,211]],"position":"top"},"sponsorContentSmallTop":{"sizes":[[301,151]],"position":"top"},"sponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top"},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileBanner1":{"sizes":[[320,50]],"position":1},"mobileBanner2":{"sizes":[[320,50]],"position":2},"mobileBanner3":{"sizes":[[320,50]],"position":3},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"mobileIncrementalBanner1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner2":{"sizes":[[300,250]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner5":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner6":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner8":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner9":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner11":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner12":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner13":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner14":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner15":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner16":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner17":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner18":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner19":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner20":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","mpu_middle","marquee300_middle","button_middle","mpu_bottom","leader_bottom","button_bottom"]},"containerId":"55bd91e97fab4","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"entertainment","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-top-55bd91e97fab4","mpu-bottom-55bd91e97fab4","leader-bottom-55bd91e97fab4","intromercial-55bd91e97fab4","leader-top-55bd91e97fab4"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"useFirstPageTargeting":true}' data-img-res='{"breakpoint":620,"cookieName":"fly_img","breakpointOptions":null,"pixelRatio":1,"pixelRatioOptions":[1]}' data-component="livefyreCommentcount" data-user='{"environment":"LIVE","secureHost":"secure-fly.cbsnews.com","appId":1501}' data-cms-edit='{"url":"http:\/\/hub-cms.cbsnews.com\/content\/gallery\/scenes-from-lollapalooza-2015"}' class="desktop
+ gallery">
+        
+    <!-- src/CbsNews/CoreBundle/Resources/views/Layout/default.desktop.html.twig -->
+
+                <!-- comscorekw=entertainment -->
+    
+
+    
+    <div id="fb-root"></div>
+                    <div id="intromercial-55bd91e97fab4" class="ad-intromercial" data-ad="intromercial" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing intromercial-55bd91e97fab4 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("intromercial-55bd91e97fab4");
+    </script></div>
+
+    	<div class="body-container">
+
+                    <img src="http://dw.cbsi.com/levt/ria/e.gif?event=log&amp;siteid=162&amp;mapp=hi-pagetracker&amp;comptyp=pagetype&amp;comp=image_gallery_single&amp;riaevent=view&amp;s6=top&amp;s7=desktop" border="0" height="1" width="1" alt="" class="tracking-gif"><!-- src/CbsNews/CoreBundle/Resources/views/Core/header.html.twig --><header class="site-header "><div id="breakingNewsBanner" data-component="ticker">
+        <include src="http://oaktree.cbsnews.com/feedfiles/breakingnews.desktop.html" onerror="continue"></include></div>
+    
+
+        
+    <div class="supplemental">
+    <div class="container">
+        <div class="col-9">
+            
+        <nav class="site-shows"><ul class="items"><li><a class="selected module-click-tracking" href="/" data-tracking="site header-show-nav|CBS News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|CBS News"}'>CBS News</a></li>
+                                <li><a class="module-click-tracking" href="/evening-news/" data-tracking="site header-show-nav|CBS Evening News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|CBS Evening News"}'>CBS Evening News</a></li>
+                                <li><a class="module-click-tracking" href="/cbs-this-morning/" data-tracking="site header-show-nav|CBS This Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|CBS This Morning"}'>CBS This Morning</a></li>
+                                <li><a class="module-click-tracking" href="/48-hours/" data-tracking="site header-show-nav|48 Hours" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|48 Hours"}'>48 Hours</a></li>
+                                <li><a class="module-click-tracking" href="/60-minutes/" data-tracking="site header-show-nav|60 Minutes" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|60 Minutes"}'>60 Minutes</a></li>
+                                <li><a class="module-click-tracking" href="/sunday-morning/" data-tracking="site header-show-nav|Sunday Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|Sunday Morning"}'>Sunday Morning</a></li>
+                                <li><a class="module-click-tracking" href="/face-the-nation/" data-tracking="site header-show-nav|Face The Nation" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|Face The Nation"}'>Face The Nation</a></li>
+                                <li><a class="module-click-tracking" href="http://www.cbsnews.com/live/?ftag=CNMdaef904" data-tracking="site header-show-nav|CBSN" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/pictures/scenes-from-lollapalooza-2015/ Show-nav|CBSN"}'>CBSN</a></li>
+            </ul></nav></div>
+        
+        <div class="col-3">
+            <form class="site-search" method="get" action="/search/">
+    <div class="search-wrapper" data-component="placeholder">
+        <input class="query" type="search" name="q" maxlength="255" placeholder="Search"></div>
+    <button class="submit core-search-header" type="submit">GO</button>
+</form>
+<ul class="login-wrapper logged-in"><li>
+        <!--<li class="site-section-tab"><a href="https://secure-fly.cbsnews.com/user/registration/" data-user-show="register"><span>Join</span></a></li>-->
+                     <a class="site-login" href="#" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Channel Button"}'><span class="text">Log In</span></a>
+                <div class="menu-wrapper sign-in">
+            <span class="hover-padding"></span>
+            <span class="arrow"></span>
+            <ul class="login"><li><a data-user-show="login" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Login"}'>Log In</a></li>
+                    <li><a data-user-show="register" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Join CBSNews"}'>Join CBSNews.com</a></li>
+                    <li class="social-icons">
+                        <span class="sign-in-with">Sign in with</span>
+                                                    <span class="social-site facebook" data-user-social="facebook" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  facebook"}'>&nbsp;</span>
+                                                    <span class="social-site googleplus" data-user-social="googleplus" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  googleplus"}'>&nbsp;</span>
+                                                    <span class="social-site yahoo" data-user-social="yahoo" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  yahoo"}'>&nbsp;</span>
+                                                    <span class="social-site twitter" data-user-social="twitter" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  twitter"}'>&nbsp;</span>
+                                            </li>
+                            </ul></div>
+    </li>
+</ul></div>
+    </div>
+</div>
+    <div class="primary content-inverse">
+        <div class="container">
+                         <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|Branding"}'>CBSNews.com - Breaking News</a></div>
+                        <nav class="site-sections"><ul class="items"><li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/video\/section"}'><a href="/videos/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Video"}'><span>Video</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/us\/section"}'><a href="/us/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|US"}'><span>US</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/world\/section"}'><a href="/world/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|World"}'><span>World</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/politics\/section"}'><a href="/politics/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Politics"}'><span>Politics</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/entertainment\/section"}'><a href="/entertainment/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Entertainment"}'><span>Entertainment</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/health\/section"}'><a href="/health/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Health"}'><span>Health</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/moneywatch\/section"}'><a href="/moneywatch/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|MoneyWatch"}'><span>MoneyWatch</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/tech\/section"}'><a href="/tech/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|SciTech"}'><span>SciTech</span></a>
+                                                    </li>
+                                                                                                                                                                                                <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/crime\/section"}'><a href="/crimesider/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Crime"}' data-vanity-rewritten="true"><span>Crime</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  "><a href="http://www.cbssports.com/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Sports"}'><span>Sports</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/pictures\/section"}'><a href="/pictures/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|Photos"}'><span>Photos</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  dropdown" data-component="moreDropdown" data-more-dropdown-options='{"event":"hover"}'><a href="#" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More"}'><span>More</span></a>
+                                                            <div class="dropdown-content dropdown-menu">
+                                    <div class="listing-basic">
+                                        <ul class="items col-3"><li class="label"><h4 class="label">Blogs</h4></li>
+                                                                                                                                                <li><a href="/politics/battleground/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Blogs-Battleground" }' class="title"><span>Battleground</span></a></li>
+                                                                                                                                                                                                <li><a href="/politics/white-house/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Blogs-The WH" }' class="title"><span>The WH</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul><ul class="items col-3"><li class="label"><h4 class="label">Web Shows</h4></li>
+                                                                                                                                                                                                                                                                                                                                        <li><a href="/60-minutes/overtime/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Web Shows-60 Overtime" }' class="title"><span>60 Overtime</span></a></li>
+                                                                                                                                                                                                <li><a href="/face-the-nation/face-to-face/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Web Shows-Face to Face" }' class="title"><span>Face to Face</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul><ul class="items col-3"><li class="label"><h4 class="label">Resources</h4></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/mobile/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Resources-Mobile" }' class="title"><span>Mobile</span></a></li>
+                                                                                                                                                                                                <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Resources-Radio" }' class="title"><span>Radio</span></a></li>
+                                                                                                                                                                                                <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Resources-Local" }' class="title"><span>Local</span></a></li>
+                                                                                                                                                                                                <li><a href="/in-depth/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/pictures/scenes-from-lollapalooza-2015/ Flyout-nav|More-Resources-In Depth" }' class="title"><span>In Depth</span></a></li>
+                                                                                                                                    </ul></div>
+                                </div>
+                                                    </li>
+                                    </ul></nav></div>
+    </div>
+    
+        </header><div id="mantle_skin" class="content-primary content-primary-inverse pictures-page">
+                                    <div id="leader-top-55bd91e97fab4" class="ad-leader-top" data-ad="leader-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-top-55bd91e97fab4 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-top-55bd91e97fab4");
+    </script></div>
+
+                <div class="container">
+    <div class="row">
+                    <div class="row">
+        <div class="col-12">
+                                                    
+                                                        
+                                            
+                    
+
+                        <div class="image-gallery content-primary-inverse" data-component="imageGallery" data-image-gallery-options='{"count":20,"index":1,"gridSize":24,"countTemplate":"&lt;span class=\u0022index\u0022&gt;{index}&lt;\/span&gt;&lt;span class=\u0022slash no-padding\u0022&gt;\/&lt;\/span&gt;&lt;span class=\u0022count\u0022&gt;{count}&lt;\/span&gt;"}'>
+                                    <header class="row"><div class="col-8 title-container">
+                            <h1 class="title">Scenes from Lollapalooza 2015</h1>
+                            
+
+
+<div data-component="sharebar" class="social sharebar_condensed
+            theme-dark
+    
+    ">
+    <div class="social-icons social-button-group">
+    
+        <ul><li class="icon">
+                <a data-button="popup" href="https://www.facebook.com/sharer/sharer.php?app_id=79439656165&amp;u=http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015&amp;display=popup&amp;ref=plugin&amp;src=share_button" title="Share on Facebook" target="_blank">
+                    <span class="facebook">Facebook</span>
+                </a>
+            </li>
+            <li class="icon">
+                <a data-button="popup" data-height="450" href="https://twitter.com/intent/tweet?text=Scenes%20from%20Lollapalooza%202015&amp;url=http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015&amp;via=cbsnews&amp;related=cnet%2Czdnet" title="Share on Twitter" target="_blank">
+                    <span class="twitter">Twitter</span>
+                </a>
+            </li>
+        </ul></div>
+
+</div>
+
+                        </div>
+                        <div class="col-4 tools">
+                                                            <div class="count pagination" data-item="image-count"><span class="index">1</span><span class="slash ">/</span><span class="count">21</span></div>                                                                                        <div class="thumb-control">
+                                    <div class="thumb-icon-wrapper"><div class="thumb-icon" data-to="thumbs"></div></div>
+                                    <div class="controls">
+                                                                                    <a class="prev disabled" data-to-nav="previous" data-omniture-track="trackView">Back</a>
+                                                                                <a class="next" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/2/" data-to-nav="next" data-omniture-track="trackView">Next</a>
+                                    </div>
+                                                                            <div class="thumbs" data-item="thumb-viewport">
+    <ul class="thumb-grid" data-item="thumb-grid" data-grid-index="1"><li>
+            <a class="selected" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="MisterWives" data-to-image="1" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-1"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/a2c5706e-c0f2-4700-a95d-303be4a5fc5e/thumbnail/60x60/5ce90d9b5856a5286cc9b43a192d8fad/lollapalooza-2015-getty-482641174594screen.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/2/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="The Stage Is Set" data-to-image="2" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-2"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/d17781f8-eb7e-4245-9edd-2ec2f6c275a2/thumbnail/60x60/4a5ac980cbae7cf84573efd7b55d5a78/lollapalooza-2015-img3524.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/3/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Crowd Scene" data-to-image="3" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-3"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/f81550ee-c312-44a1-9d97-4990b7fd819d/thumbnail/60x60/9731f1a6cd6c041a69384e0c95ceb410/lollapalooza-2015-imgl0316.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/4/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Cait Jenner" data-to-image="4" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-4"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/444e2fb4-acbd-46a6-a169-b29bbeb3ca2e/thumbnail/60x60/d3b7214416cf205fe7df5cb212b46ae3/lollapalooza-2015-img3598.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/5/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Grant Park" data-to-image="5" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-5"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/fef7edb8-354c-482f-aa8a-c5f9b1848feb/thumbnail/60x60/23a7fc1b849268e8727800087435260a/lollapalooza-2015-the-view-from-backstage.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/6/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="MS MR" data-to-image="6" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-6"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/32db1d4c-cc2f-43df-adc8-b8b800a11429/thumbnail/60x60/28fcb0ea774089cc7bf7b8c8e7050c27/ms-mr-lollapalooza-ap517358045544.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/7/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="7" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-7"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/98f6677c-1320-471b-919d-6da67c729433/thumbnail/60x60/65fc5c799b7eeb7fa037f1f132f6d833/lollapalooza-2015-img3539.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/8/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="8" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-8"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/29c17abb-c641-474e-8f6d-1b3b75670266/thumbnail/60x60/751577e50c643914f2b7f4dea73136bb/lollapalooza-2015-img3697.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/9/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="9" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-9"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/ccb15288-70af-4d0b-8346-d7568334a6cb/thumbnail/60x60/87e2696fa7d599a37d376227e4a27e07/lollapalooza-2015-img3685.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/10/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="A Good Head On His Shoulders" data-to-image="10" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-10"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/4854cee6-a52e-4ec4-b1a3-2f99b6066ca2/thumbnail/60x60/eefd5ee4fc39ead4568bf46091b8a8c9/lollapalooza-2015-img3570.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/11/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="11" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-11"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/84bbf6eb-bf3e-43e5-b1e8-5d429062cab5/thumbnail/60x60/fcfc99f0503a712768f8acebd889157e/lollapalooza-2015-img3985.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/12/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="12" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-12"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/8c9635c1-50f1-4343-b1eb-bea9972f36fe/thumbnail/60x60/6fd332db13f43b6e9d75dec9968c12de/lollapalooza-2015-img3877.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/13/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Crowd" data-to-image="13" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-13"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/fc582b3f-bf72-4b05-8eb5-1a37d471978b/thumbnail/60x60/6f763e38c6b0f0d31f257a3bada23bf9/lollapalooza-2015-img3746.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/14/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Kaskade" data-to-image="14" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-14"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/904d8e5f-0e7d-4fe0-82e2-70d6d59ecca6/thumbnail/60x60/ff1c713d77dd6e353c03f35615857fe0/lollapalooza-2015-img3910.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/15/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Cold War Kids" data-to-image="15" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-15"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/d4dfa921-227c-4c18-9f7e-e9fcdf0af389/thumbnail/60x60/9ee95b5454312c521b72a1ead75a9d0f/lollapalooza-willett-maust.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/16/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Fans" data-to-image="16" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-16"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/03fd674f-22a1-41fd-ae3b-686a97bed725/thumbnail/60x60/3aba9dbfff689522294523a24d320e13/lollapalooza-2015-img3614.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/17/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Ping Pong" data-to-image="17" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-17"}'>
+            <span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/a3674e78-0840-42cf-8cf4-07e2aab3edac/thumbnail/60x60/06e1c10b00517762cf57da20ad25720e/lollapalooza-2015-backstage-ping-pong.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/18/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Grant Park" data-to-image="18" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-18"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/b884cdad-bfee-49ea-89f4-bcdeb376a08d/thumbnail/60x60/bce5a94e4fbce66f7b2108d3265c5b16/lollapalooza-2015-img3581.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/19/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Brittany Howard &amp; Paul McCartney" data-to-image="19" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-19"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/60678791-29e0-4756-92c7-4ff1c10f38f6/thumbnail/60x60/cd0742196301e2b161cdc6bdae486541/lollapalooza-2015-paul-mccartney-alabama-shakes-getty-482632622594screen.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    <li>
+            <a class="" href="http://www.cbsnews.com/pictures/scenes-from-lollapalooza-2015/20/" data-gallery-title="Scenes from Lollapalooza 2015" data-image-title="Grant Park" data-to-image="20" data-omniture-track="trackView" data-omniture-track-data='{"moduleInfo": "Gallery-Gallery Area|Top Slide Nav-Thumbnail Grid-Thumbnail-20"}'>
+            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/f48bb7e6-be54-4f6b-be53-a5533be26497/thumbnail/60x60/cf04c0ce5accd78ba6698b3d77a83746/lollapalooza-2015-imgl0334.jpg" alt="" height="60" width="60"></span>
+        </a>
+        
+    </li>
+    
+			    
+            </ul><div class="controls" data-item="grid-control">
+        <span class="prev disabled" data-to-grid="previous">Back</span>
+
+        <ul class="dots" data-item="thumb-grid-dots"></ul><span class="next" data-to-grid="next">Next</span>
+    </div>
+</div>
+
+                                                                    </div>
+                                                    </div>
+                    </header><div class="row viewport">
+                        <div class="col-8">
+                            
+
+<ul class="images"><li class="image selected" data-item="image" data-image-index="1">
+                                            <span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/a2c5706e-c0f2-4700-a95d-303be4a5fc5e/resize/620x465/04ab7807d0f2d8e4c525fd21522b959b/lollapalooza-2015-getty-482641174594screen.jpg" alt=""></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="2">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/d17781f8-eb7e-4245-9edd-2ec2f6c275a2/resize/620x465/9ae0c6961cbd6b59baae397673d87d7f/lollapalooza-2015-img3524.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="3">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/f81550ee-c312-44a1-9d97-4990b7fd819d/resize/620x465/8bf6017511b53e7a7537fcc5057df441/lollapalooza-2015-imgl0316.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="4">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/444e2fb4-acbd-46a6-a169-b29bbeb3ca2e/resize/620x465/2a6040ca5bb6be8fd2516a322184054c/lollapalooza-2015-img3598.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="5">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/fef7edb8-354c-482f-aa8a-c5f9b1848feb/resize/620x465/cc63568c9339d42f52fef5f33960d20e/lollapalooza-2015-the-view-from-backstage.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="6">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/32db1d4c-cc2f-43df-adc8-b8b800a11429/resize/620x465/fef9b698087e0f31a3bdc9a001fd9651/ms-mr-lollapalooza-ap517358045544.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="7">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/98f6677c-1320-471b-919d-6da67c729433/resize/620x465/077f1b2371ae48a818d961662ed310b3/lollapalooza-2015-img3539.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="8">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/29c17abb-c641-474e-8f6d-1b3b75670266/resize/620x465/1f445cd667822d7e1f17f5fd044d305a/lollapalooza-2015-img3697.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="9">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/ccb15288-70af-4d0b-8346-d7568334a6cb/resize/620x465/280f782d8e608984222632277bc134d2/lollapalooza-2015-img3685.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="10">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/4854cee6-a52e-4ec4-b1a3-2f99b6066ca2/resize/620x465/20efb48ca7112db4a1a3b72d48ffba30/lollapalooza-2015-img3570.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="11">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/84bbf6eb-bf3e-43e5-b1e8-5d429062cab5/resize/620x465/d3a427ba94f29327167740b77394fdd1/lollapalooza-2015-img3985.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="12">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/8c9635c1-50f1-4343-b1eb-bea9972f36fe/resize/620x465/11e091f092b46fc47cf25db4aa9619dc/lollapalooza-2015-img3877.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="13">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/fc582b3f-bf72-4b05-8eb5-1a37d471978b/resize/620x465/e037641849da89bee5c9f742410ba18a/lollapalooza-2015-img3746.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="14">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/904d8e5f-0e7d-4fe0-82e2-70d6d59ecca6/resize/620x465/1d308fd5f462d8ade0a1a38f53465a64/lollapalooza-2015-img3910.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="15">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/d4dfa921-227c-4c18-9f7e-e9fcdf0af389/resize/620x465/2dfad7a4499e19d047d574d488159ef6/lollapalooza-willett-maust.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="16">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/03fd674f-22a1-41fd-ae3b-686a97bed725/resize/620x465/6ff77234ee3ddcd49b052a10bb770580/lollapalooza-2015-img3614.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="17">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/a3674e78-0840-42cf-8cf4-07e2aab3edac/resize/620x465/087b0a7e357c18fdedf64175208134d9/lollapalooza-2015-backstage-ping-pong.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="18">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/b884cdad-bfee-49ea-89f4-bcdeb376a08d/resize/620x465/b6876a20aee7eacc42ba207d7ed98f07/lollapalooza-2015-img3581.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="19">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/60678791-29e0-4756-92c7-4ff1c10f38f6/resize/620x465/78efff14e8f0eab15d9e3cdad4a4dc93/lollapalooza-2015-paul-mccartney-alabama-shakes-getty-482632622594screen.jpg"></span>
+                                    </li>
+            <li class="image" data-item="image" data-image-index="20">
+                                            <span class="img "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/f48bb7e6-be54-4f6b-be53-a5533be26497/resize/620x465/6b974011c440dd991464c6e575e47d5d/lollapalooza-2015-imgl0334.jpg"></span>
+                                    </li>
+    </ul><div class="controls">
+                                <a class="prev" data-to-nav="previous" data-omniture-track="trackView">
+                                    <div class="arrow">
+                                        <div>Back</div>
+                                    </div>
+                                </a>
+                                <a class="next" data-to-nav="next" data-omniture-track="trackView">
+                                    <div class="arrow">
+                                        <div>Next</div>
+                                    </div>
+                                </a>
+                            </div>
+                                                        
+                            <div class="row popular-recommended">
+                                <div data-item="recirc" data-yad="1838f664-c8e3-3181-87e1-11d3cb25de14" class="YAD-1838f664-c8e3-3181-87e1-11d3cb25de14"></div>
+								                                <div data-item="recirc" data-yad="e6b73707-6bda-36d3-ac81-858128c2c8a4" data-yad-refresh="no" class="YAD-e6b73707-6bda-36d3-ac81-858128c2c8a4"></div>
+								                            </div>
+                        </div>
+                        <div class="col-4 right-rail-modal">
+                            
+<ul class="image-meta"><li class="meta selected" data-item="meta" data-image-index="1" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="MisterWives" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">MisterWives</h1>                <div class="caption"><p>Returning to Chicago's waterfront for the 11th year, Lollapalooza, the three-day music festival, runs July 31-August 2, and features more than 140 acts, including Sir Paul McCartney, Metallica, Sam Smith, Florence and the Machine, and Alabama Shakes.</p><p>Left: Mandy Lee of MisterWives performs during Lollapalooza 2015, at Grant Park in Chicago, July 31, 2015.</p></div>                <p class="credits"><span class="label">Credit:</span> Tim Mosenfelder/Getty Images</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="2" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="The Stage Is Set" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">The Stage Is Set</h1>                <div class="caption"><p>Hundreds of thousands of attendees are expected for the three-day event, with acts spread across eight stages throughout the 35-acre Grant Park.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="3" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Crowd Scene" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Crowd Scene</h1>                <div class="caption"><p>Enthusiasm is in abundance at Grant Park during Lollapalooza 2015 on Friday, July 31, 2015.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="4" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Cait Jenner" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Cait Jenner</h1>                <div class="caption"><p>Cait Jenner also put in appearance at Grant Park.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="5" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Grant Park" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Grant Park</h1>                <div class="caption"><p>Bob O'Neill, president of the Grant Park Conservancy, told CBS Station WBBM that Lollapalooza is a model for what other music festivals should be.</p><p>"It's the biggest music festival in a downtown park, it's wildly successful, and it's very important to Chicago's economy," he said. "Last year, it brought in $140 million to the economy." </p><p>It's also become a fundraiser for green space; last year's festival brought in $3.8 million for Chicago parks, said O'Neill.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="6" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="MS MR" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">MS MR</h1>                <div class="caption"><p>Lizzy Plapinger and Max Hershenow of the group MS MR perform at Lollapalooza 2015 in Grant Park on Friday, July 31, 2015, in Chicago.</p></div>                <p class="credits"><span class="label">Credit:</span> Steve C. Mitchell, Steve C. Mitchell/Invision/AP</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="7" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>DJ and producer Ryan Raddon, a.k.a. Kaskade, backstage before his set at Lollapalooza 2015. The Chicago native has been nominated for four Grammys.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="8" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>The DJ Kaskade's set list included a new single, "Disarm You," and "Atmosphere."</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="9" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>The DJ Kaskade performs at Lollapalooza.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="10" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="A Good Head On His Shoulders" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">A Good Head On His Shoulders</h1>                <div class="caption"><p>Kaskade was also in the crowd during his Lollapalooza set.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="11" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>A light show at DJ Kaskade's show.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="12" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>A light show at DJ Kaskade's show.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="13" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Crowd" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Crowd</h1>                <div class="caption"><p>Fans enjoy the sights and sounds at Lollapalooza 2015.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="14" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Kaskade" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Kaskade</h1>                <div class="caption"><p>DJ Kaskade's show heats up.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="15" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Cold War Kids" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Cold War Kids</h1>                <div class="caption"><p>Left: Nathan Willett and Matt Maust of Cold War Kids. The band made its fifth appearance at Lollapalooza, performing "Drive Desperate" and "Hot Coals."</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="16" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Fans" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Fans</h1>                <div class="caption"><p>A young fan takes in the scene at Lollapalooza.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="17" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Ping Pong" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Ping Pong</h1>                <div class="caption"><p>A backstage ping pong table, to be signed by the weekend's artists and auctioned off at the end of the festival.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="18" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Grant Park" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Grant Park</h1>                <div class="caption"><p>Festival-goers partake of refreshments at Lollapalooza 2015.</p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="19" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Brittany Howard &amp; Paul McCartney" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Brittany Howard &amp; Paul McCartney</h1>                <div class="caption"><p>In addition to performing more than two dozen Beatles and Wings songs, headliner Paul McCartney was joined on stage by Brittany Howard, of Alabama Shakes, to sing "Get Back."</p><p>Alabama Shakes had performed earlier in the day, including their songs "Future People," "Miss You" and "Gimme All Your Love."</p></div>                <p class="credits"><span class="label">Credit:</span> Josh Brasted/Getty Images</p>                    </li>
+            <li class="meta" data-item="meta" data-image-index="20" data-image-location="/pictures/scenes-from-lollapalooza-2015/" data-image-title="Grant Park" data-gallery-title="Scenes from Lollapalooza 2015">
+            	            <h1 class="hed">Grant Park</h1>                <div class="caption"><p><strong>For more info: </strong></p><p><a href="http://www.lollapalooza.com/" target="_blank">Lollapalooza 2015</a>, Grant Park, Chicago (July 31-Aug. 2) | <a href="http://lollapalooza.redbull.tv/?embed=true&amp;layout=lolla&amp;guid=rbtv-acl-widget" target="_blank">Watch Livestream</a></p><p><a href="http://www.coldwarkids.com/" target="_blank">coldwarkids.com</a></p><p><a href="http://www.kaskademusic.com/#/home" target="_blank">kaskademusic.com</a></p><p><a href="http://www.misterwives.com/" target="_blank">misterwives.com</a></p><p><a href="http://www.alabamashakes.com/" target="_blank">alabamashakes.com</a></p><p><a href="http://www.paulmccartney.com/intro/" target="_blank">paulmccartney.com</a></p></div>                <p class="credits"><span class="label">Credit:</span> Jake Barlow/CBS News</p>                    </li>
+    </ul><div class="ad-unit">
+                                <div id="mpu-top-55bd91e97fab4" class="ad-mpu-top" data-ad="mpu-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-top-55bd91e97fab4 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-top-55bd91e97fab4");
+    </script></div>
+
+                            </div>
+                            <div data-item="recirc" data-yad="52c92b1b-9b3c-3573-8c30-87258621f027" class="ad-recirc YAD-52c92b1b-9b3c-3573-8c30-87258621f027"></div>
+                            <div class="ad-unit">
+                                <div id="mpu-bottom-55bd91e97fab4" class="ad-mpu-bottom" data-ad="mpu-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-bottom-55bd91e97fab4 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-bottom-55bd91e97fab4");
+    </script></div>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="ad-unit"><div id="leader-bottom-55bd91e97fab4" class="ad-leader-bottom" data-ad="leader-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-bottom-55bd91e97fab4 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-bottom-55bd91e97fab4");
+    </script></div>
+</div>
+                            </div>
+            
+
+                                                                    </div>
+            </div>
+                <div class="row">
+        <div class="col-12">
+                                            <div class="row">
+                                    <div class="col-8">
+                                        </div>
+            <div class="col-4">
+                                        </div>
+                                </div>
+                        </div>
+            </div>
+        </div>
+</div>
+
+
+    </div>
+
+    
+            <img src="http://dw.cbsi.com/levt/ria/e.gif?event=log&amp;siteid=162&amp;mapp=hi-pagetracker&amp;comptyp=pagetype&amp;comp=image_gallery_single&amp;riaevent=view&amp;s6=bottom&amp;s7=desktop" border="0" height="1" width="1" alt="" class="tracking-gif"><footer class="site-footer content-inverse"><div class="container">
+                        <div class="row">
+            <div class="col-2 link-block">
+                <h5 class="title">CBSNews.com</h5>
+
+                <ul class="items"><li><a href="/sitemap/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Site Map"}'>Site Map</a></li>
+                    <li><a href="https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cbsnews.com" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Help"}'>Help</a></li>
+                                        <li><a href="http://audienceservices.cbs.com/feedback/feedback.htm" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Contact Us"}'>Contact Us</a></li>
+
+                    <li><a href="/team/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|CBS Bios"}' data-vanity-rewritten="true">CBS Bios</a></li>
+                    <li><a href="https://cbs.avature.net/cbsnewscareers" data-omniture-track-data='{"clickProperty": "Site Footer|Careers"}'>Careers</a></li>
+                    <li><a href="/news/cbs-news-internship-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Internships"}'>Internships</a></li>
+                    <li><a href="/news/cbs-news-associates-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Development Programs"}'>Development Programs</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">CBS Interactive</h5>
+
+                <ul class="items"><li><a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Privacy Policy"}'>Privacy Policy</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Ad Choice"}'>Ad Choice</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Terms of Use"}'>Terms of Use</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/eula" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Mobile User Agreement"}'>Mobile User Agreement</a></li>
+                    <li><a href="http://www.cbscorporation.com/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|About CBS"}'>About CBS</a></li>
+                    <li><a href="http://www.cbsinteractive.com/advertise/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Advertise"}'>Advertise</a></li>
+                    <li><a href="http://cbsimedia.cbs.com/captioning/info.html" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Closed Captioning"}'>Closed Captioning</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">Follow Us</h5>
+
+                <ul class="items"><li><a href="https://www.facebook.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Facebook"}'>Facebook</a></li>
+                    <li><a href="http://twitter.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Twitter"}'>Twitter</a></li>
+                    <li><a href="http://www.cbsnews.com/rss/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|RSS"}'>RSS</a></li>
+                    <li><a href="/newsletters/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Email Newsletters"}'>Email Newsletters</a></li>
+                    <li><a href="http://www.youtube.com/user/CBSNewsOnline" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|YouTube"}'>YouTube</a></li>
+                    <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Radio News"}'>CBS Radio News</a></li>
+                    <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Local"}'>CBS Local</a></li>
+                </ul></div>
+
+            <div class="col-4 push-2">
+                <div class="site-brand">
+                    <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer-Branding"}'>CBS News</a></div>
+
+                    <p class="copyright">Copyright &copy; 2015 CBS Interactive Inc.<br>All rights reserved.</p>
+                </div>
+
+                <form class="site-search" action="/search/" method="get" data-component="search" data-search-options='{"path":"\/search\/","param":"q"}'>
+                    <input type="search" class="query" maxlength="255" name="q" placeholder="Search..."><button type="submit" class="submit core-search-footer">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</footer></div> 
+	<div id="get-app-banner" data-component="getAppBanner">
+	<a id="get-app-banner--text-container" class="get-app-banner--anchor" target="_blank">
+		<span id="get-app-banner--subheader" class="get-app-banner--span">The all&nbsp;new</span>
+        <br><span id="get-app-banner--header" class="get-app-banner--span">CBS News App
+            <span id="get-app-banner--android" class="get-app-banner--device">for Android<sup>&reg;</sup></span>
+            <span id="get-app-banner--ipad" class="get-app-banner--device">for iPad<sup>&reg;</sup></span>
+            <span id="get-app-banner--iphone" class="get-app-banner--device">for iPhone<sup>&reg;</sup></span>
+        </span>
+        <br><span id="get-app-banner--description" class="get-app-banner--span">Fully redesigned. Featuring CBSN, 24/7&nbsp;live&nbsp;news.</span>
+		<span id="get-app-banner--cta" class="get-app-banner--span">Get the App</span>
+	</a>
+	<a id="get-app-banner--close" class="get-app-banner--anchor">&#9587;</a>
+</div>
+
+            </body></html>

@@ -1,0 +1,3531 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta name="twitter:site" content="@indyvoices">
+<meta property="article:publisher" content="13312631635" />
+<!--<script type="text/javascript" src="http://www.silence-ads.com/assets/noindex/js/silence-2.js"></script>-->
+<!--<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/overwrite_redesign.css" />-->
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/overwrite_redesign_taboolatest.css" />
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/newsletter/ebooks/css/ebooks_mods.css?ver=1a" />
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/gallery.css"/>
+<!--Last update/pull on 19/03/2014-->
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/config.css"/>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/widget_cont.css?ver=1"/>
+<!-- Disable debug option for Galleria so that no errors or warnings are thrown on frontend -->
+<script type="text/javascript">
+if( typeof Galleria === "function" ) {
+Galleria.configure({
+debug: false // debug is now off for deployment
+});
+}
+</script>
+<!-- Require JS for JavaScript file and module loader -->
+<script src="http://www.independent.co.uk/independent.co.uk/assets/js/require.min.js" data-main="http://www.independent.co.uk/independent.co.uk/assets/js/main"></script>
+<!--<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
+'mode':"meter",
+'debug':0
+}</script>-->
+<!--<script src="http://s.ppjol.net/lightbox/pp4.js"></script>
+<script>
+var pp = {
+client: {
+config: {
+'zone': "CWVOsisQmB8loR1Clmlomu",
+'mode': "universal",
+'cookieDomain': 'independent.co.uk',
+'debug': 0,
+'precheck': function () {
+return 1;
+}
+}
+}
+};
+</script>-->
+<!-- twitter -->
+<meta property="twitter:account_id" content="16973333" />
+<!--<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>-->
+<!-- Criterio -->
+<!--<script type='text/javascript'> function crtg_getCookie(a){var b,c,d,e=document.cookie.split(";");for(b=0;b<e.length;b++){c=e[b].substr(0,e[b].indexOf("="));d=e[b].substr(e[b].indexOf("=")+1);c=c.replace(/^\s+|\s+$/g,"");if(c==a){return unescape(d)}}return""}var crtg_nid="1680";var crtg_cookiename="cto2_independent";var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url="http://rtax.criteo.com/delivery/rta/rta.js?netid="+escape(crtg_nid);crtg_url+="&cookieName="+escape(crtg_cookiename);crtg_url+="&rnd="+crtg_rnd;crtg_url+="&varName=crtg_content";var crtg_script=document.createElement("script");crtg_script.type="text/javascript";crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script) </script>-->
+<!-- Sub2 -->
+<script type="text/javascript">
+var _sub2_JSCODE = document.createElement('script');
+_sub2_JSCODE.type = 'text/javascript';
+_sub2_JSCODE.async = true;
+_sub2_JSCODE.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'webservices.sub2tech.com/independent/sub2.js'
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(_sub2_JSCODE,s);
+function _SUB2_Code() {
+S2Tech_2Prompt(); }
+if( _sub2_JSCODE.readyState ) {
+_sub2_JSCODE.onreadystatechange = function() {
+if ( _sub2_JSCODE.readyState == 'complete' || _sub2_JSCODE.readyState == 'loaded' ) {
+try {
+_SUB2_Code(); }
+catch (e) {}
+}
+};
+}
+else {
+_sub2_JSCODE.onload = function() {
+try {
+_SUB2_Code();
+}
+catch (e) {}
+};
+}
+</script>
+<!-- Amazon Publisher Tags -->
+<!-- Start of Amazon Publisher Studio Loader --> <script> window.amznpubstudioTag = "independen057-21"; </script> <!-- Do not modify the following code ! --> <script async="true" type="text/javascript" src="http://ps-eu.amazon-adsystem.com/domains/independen057-21_bb5bfa3b-762d-443e-ad11-7acda12bf1b3.js" charset="UTF-8"></script> <!-- End of Amazon Publisher Studio Loader --> <!-- KRUX -->
+<!-- BEGIN Krux Control Tag for "Independent" -->
+<!-- Source: /snippet/controltag?confid=I8gY_o93&site=Independent&edit=1 -->
+<script class="kxct" data-id="I8gY_o93" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=I8gY_o93"
+;
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]); (function(){
+function retrieve(n){
+var m, k='kx'+n;
+if (window.localStorage) {
+return window.localStorage[k] || ""; } else if (navigator.cookieEnabled) {
+m = document.cookie.match(k+'=([^;]*)');
+return (m && unescape(m[1])) || ""; } else {
+return ''; }
+}
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!--- Rubicon -->
+<script language='JavaScript' type='text/javascript'>
+/*function rp_resize(id, sz)
+{
+var el, w, h;
+w = sz.substring(0, sz.indexOf('x'));
+h = sz.substring(sz.indexOf('x') + 1, sz.length);
+d = document.getElementById(id);
+if (!d.width) {
+d.setAttribute('width', parseInt(w));
+} else {
+d.width = parseInt(w);
+}
+if (d.style.width) {
+d.style.width = parseInt(w)+'px';
+}
+if (!d.height) {
+d.setAttribute('height', parseInt(h));
+} else {
+d.height = parseInt(h);
+}
+if (d.style.height) {
+d.style.height = parseInt(h)+'px';
+}
+if (document.getElementById('mpu') && document.getElementById('mpu').className === 'skyscraper') {
+document.getElementById('mpu').style.height = parseInt(h)+'px';
+}
+}*/
+function rp_anim(e,s,u,f,t,tm) // graceful expansion/collapse function
+{
+if (!e) return;
+g = (f > t) ? 'c' : 'e';
+var st = new Date().getTime(),
+tmr = setInterval( function() {
+var stp = Math.min( 1, ( new Date().getTime() - st ) / tm );
+if (g === 'e') {
+if (!e.s) { e.setAttribute(s, f + stp * (t - f)) } else { e[s] = f + stp * (t - f) }
+if (e.style[s]) e.style[s] = (f + stp * (t - f)) + u;
+} else {
+if (!e.s) { e.setAttribute(s, f - stp * (f - t)) } else { e[s] = f - stp * (f - t) }
+if (e.style[s]) e.style[s] = (f - stp * (f - t)) + u;
+}
+if ( stp === 1 ) clearInterval( tmr );
+}, 25 );
+if (!e.s) { e.setAttribute(s, f) } else { e[s] = f }
+if (e.style[s]) { e.style[s] = ( f + u ) } else { e.style[s] = f + u }
+}
+rp_resize = function(sz,id)
+{
+var d, w, sh, h;
+w = sz.substring(0, sz.indexOf('x'));
+h = sz.substring(sz.indexOf('x') + 1, sz.length);
+d = document.getElementById(id);
+if (d.getBoundingClientRect().height) {
+sh = d.getBoundingClientRect().height; // for modern browsers
+} else {
+sh = d.offsetHeight; // for oldIE
+}
+if (!d.width) { d.setAttribute('width', parseInt(w)) } else { d.width = parseInt(w) }
+if (d.style.width) d.style.width = parseInt(w)+'px';
+rp_anim(d, 'height', 'px', sh, h, 500);
+}
+</script>
+<!-- Sailthru Horizon -->
+<script type="text/javascript">
+(function() {
+function loadHorizon() {
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+}
+loadHorizon();
+var oldOnLoad = window.onload;
+window.onload = function() {
+if (typeof oldOnLoad === 'function') {
+oldOnLoad();
+}
+Sailthru.setup({
+domain: 'horizon.e.independent.co.uk'
+});
+};
+})();
+</script>
+<!-- Taboola Newsroom -->
+<script>
+( function () {
+var thisPage = location.pathname;
+if(thisPage === "/") {
+window._newsroom = window._newsroom || [];
+window._newsroom.push({pageTemplate: 'home'});
+window._newsroom.push({pageDashboard: 'home'});
+window._newsroom.push('auditClicks');
+window._newsroom.push('trackPage');
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/eslmedia-theindependent/newsroom.js');
+console.log('hpdb');
+}
+else {
+window._newsroom = window._newsroom || [];
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/eslmedia-theindependent/newsroom.js');
+console.log('sub');
+}
+})();
+</script>
+<!-- taboola loader -->
+<script type="text/javascript">
+( function () {
+var thisPage = location.pathname;
+if(thisPage === "/") {
+window._taboola = window._taboola || [];
+_taboola.push({home:'auto'});
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'http://cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js');
+console.log('home');
+}
+else if(thisPage.indexOf("/ebooks/") > -1) {
+window._taboola = window._taboola || [];
+_taboola.push({category:'auto'});
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'http://cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js');
+console.log('ebooks');
+}
+else if(thisPage.indexOf(".html") > -1) {
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'http://cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js');
+console.log('article');
+}
+else {
+window._taboola = window._taboola || [];
+_taboola.push({category:'auto'});
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'http://cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js');
+console.log('section');
+}
+})();
+</script>
+<!-- FAST THINKING SMART TAG -->
+<!--<script type="text/javascript"> var FTcv = {}; FTcv.AdvID = '1114'; FTcv.UserID = ''; FTcv.SiteID = '';FTcv.OrderID = ''; FTcv.OrderTotal = ''; FTcv.ProductID = ''; FTcv.Custom1 = ''; FTcv.Custom2 = ''; FTcv.Custom3 = '';
+(function() { var FTcontainer = document.createElement("script"); FTcontainer.type = "text/javascript"; FTcontainer.async = true;
+FTcontainer.src = ("https:" == document.location.protocol ? "https://" : "http://") + "tag.fast-thinking.co.uk/con" + "?adv=" + FTcv.AdvID + "&var=" + JSON.stringify(FTcv);
+var FTc = document.getElementsByTagName("script")[0]; FTc.parentNode.insertBefore(FTcontainer, FTc);})();
+</script>-->
+<!-- FAST THINKING SMART TAG -->
+<!-- AdYouLike -->
+<script type="text/javascript" async="async" defer="defer" crossorigin="anonymous" src="//adyoulike.omnitagjs.com"></script>
+<!-- MOAT content tags -->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/independentco769PpgI70/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+ordValue1 = Math.floor(Math.random() * 10000000);
+</script>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/jquery-ui-1.8.6.custom.css">
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/escenic-widgets.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/defaults.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/layout.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/main.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/colors.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/print.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ind-gigya.css" />
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/voices/css/voices.css" />
+<link rel="shortcut icon" type="image/x-icon" href="http://www.independent.co.uk/favicon.ico"/>
+<link rel="canonical" href="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html"/>
+<script type="text/javascript">var ieVersion = false;</script>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie.css"/><script type="text/javascript">var ieVersion = "true";</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie8.css"/><script type="text/javascript">var ieVersion = "8";</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie7.css"/><script type="text/javascript">var ieVersion = "7";</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie6.css"/><script type="text/javascript">var ieVersion = "6";</script><![endif]-->
+<link rel="pingback" href="http://www.independent.co.uk/xmlrpc"/>
+<script src="http://www.independent.co.uk/js/jquery-1.4.4.min.js"></script>
+<script src="http://www.independent.co.uk/js/jquery-ui-1.8.6.custom.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/swfobject.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.charcounter.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tools-1.2.5.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.pagination.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script src="http://www.independent.co.uk/resources/js/date.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jqDnR.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.bgiframe.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.jqpopup.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.form.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.validate.min.js"></script> <script src="http://www.independent.co.uk/resources/js/captify.js"></script>
+<script src='http://www.independent.co.uk/resources/js/flowplayer-3.1.4.min.js'></script>
+<script src="http://www.independent.co.uk/resources/js/widget-framework-util.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria-1.2.7.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria.classic.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tagcloud.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var ind = {
+article: {},
+pubUrl: "http://www.independent.co.uk/",
+skinName: "ind",
+mainColumnClassId: "newlayout"
+};
+ind.gigya = {};
+ind.gigya.comments = {};
+ind.gigya.commentChunkSize	= 3;
+var commentCountApiArray = new Array();
+var commentCountDataArray = new Array();
+//]]> </script>
+<!-- AUDIENCESCIENCE AD TAG CODE --> <script language="text/javascript"> <!-- var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } //--> </script> <!-- END AUDIENCESCIENCE AD TAG CODE -->
+<script src="http://www.independent.co.uk/skins/ind/js/custom.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4">
+{
+bypassCookiePolicy: 'always'
+}
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/es-gs-functions.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/voicesCarousel.js"></script>
+<!--[if IE]><script type="text/javascript" src="http://www.independent.co.uk/skins/ind/js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/init.js"></script>
+<!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
+<script type="text/javascript" language="Javascript"> //<![CDATA[
+var gs_channels="DEFAULT"; //]]>
+</script>
+<!-- close Initialisation -->
+<meta property="og:title" content="Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://www.independent.co.uk/incoming/article10432545.ece/binary/original/31-US-AirForce-AFP.jpg"/>
+<meta property="og:description" content="The deal between the US and Turkey which will allow American bombers to use Incirlik airbase while Turkey takes action against Islamic State (Isis) looks stranger and stranger. When first announced over a week ago, US officials spoke triumphantly of the agreement being “a game-changer” in the war against Isis. In fact, the war waged by Turkey in the days since this great American diplomatic success has been almost entirely against the Kurds, at home and abroad." />
+<meta name="description" content="The deal between the US and Turkey which will allow American bombers to use Incirlik airbase while Turkey takes action against Islamic State (Isis) looks stranger and stranger. When first announced over a week ago, US officials spoke triumphantly of the agreement being “a game-changer” in the war against Isis. In fact, the war waged by Turkey in the days since this great American diplomatic success has been almost entirely against the Kurds, at home and abroad." />
+<meta property="article:author" content="http://www.independent.co.uk/biography/patrick-cockburn" />
+<meta property="article:published_time" content="2015-08-01" />
+<meta property="article:section" content="Voices"/>
+<meta property="og:url" content="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html" />
+<meta name="sailthru.tags" content="voices" />
+<meta property="fb:app_id" content="235586169789578" />
+<meta property="fb:admins" content="36903991,100001802971061,500243253"/>
+<meta property="og:site_name" content="The Independent" />
+<meta property="og:locale" content="en_GB" />
+<title>
+Turkey-Kurdish conflict: Obama&#039;s deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis - Voices - The Independent
+</title>
+<!-- Release 1.0.75 -->
+</head>
+<body>
+<script type="text/javascript" src="/js/voicesCommentCount.js"></script>
+<!-- Start Omniture Tracking Code -->
+<script type="text/javascript" src="http://www.independent.co.uk/independent.co.uk/assets/js/omniture/catalyst.js"></script>
+<script type="text/javascript"><!--
+s.pageName="voices/article10432524";
+s.server="www.independent.co.uk";
+s.channel="voices";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.hier1="voices";
+s.pageType="";
+s.prop11="Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis";
+s.prop12="turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html";
+s.prop13="Patrick Cockburn";
+s.prop14="";
+s.prop16="Saturday, 1 August 2015";
+s.events="event7";
+s.prop22="D=User-Agent";
+s.prop18="www"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&cdp=3&[AQE]&pageName=http://www.independent.co.uk/voices/Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis"
+height="1" width="1" border="0" alt="" /></a></noscript>
+<!-- End Omniture Tracking Code -->
+<div id="viewport">
+<div id="page" class="article ">
+<div id="header">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartPartnerZoneName = 'indy_indyopinion_partners';
+var dartAdSize = '300x150,300x250';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '10432524';
+var ordValue = '284144021';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-8453904" >
+</div>
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartZoneName = '(Core)_The_Independent_UK';
+var dartHomepageZoneName = 'indy_indynews_opinion_hp';
+var articleId = '10432524';
+var dartAdSize = '';
+var dartTile = '';
+var dartOptValue = '';
+var ordValue = '284144021';
+</script>
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8453901" >
+<script type="text/javascript" src="http://mtrx.go.sonobi.com/morpheus.independent.js"></script>
+<script type="text/javascript">
+sbi_morpheus.register('skyscrapper', '677bd8580c3a7792f1e7');
+sbi_morpheus.register('mpu', 'fe35b2f31f734569e712');
+sbi_morpheus.register('leaderboard', '372446d9690d5b1e9516');
+sbi_morpheus.register('bellyband', '50baae28c64a66399627');
+sbi_morpheus.register('bellyband-leaderboard', '65b580e53d80e278a11b');
+</script>
+<script type='text/javascript'>
+/* Load Utility module */
+require(['modules/utility'], function(utility){
+window.ChannelName = utility.getPageKeywords();
+});
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.cmd.push(function() {
+googletag.pubads().setTargeting("ksg", Krux.segments);
+googletag.pubads().setTargeting("kuid", Krux.user);
+googletag.pubads().setTargeting("khost", encodeURIComponent(location.hostname));
+// var crtg_split = crtg_content.split(';');
+// for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (crtg_split[i-1].split('='))[0] + "", "" + (crtg_split[i-1].split('='))[1] + "");};
+var unitName = '/' + dartSiteName + '/' + dartZoneName + '/' + dartHomepageZoneName,
+unitNamePartner = '/' + dartSiteName + '/' + dartZoneName + '/' + dartPartnerZoneName;
+// OutOfPageSlot ad
+googletag.defineOutOfPageSlot(unitName, "outOfPageSlot").addService(googletag.pubads());
+// Leaderboard banner ad
+googletag.defineSlot(unitName, [[468,60],[728, 90],[1,1]], "leaderboard").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "leaderboard");
+// 1920x1241 wallpaper ad googletag.defineSlot(unitName, [[1920, 1241],[1,1]], "wallpaper").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "wallpaper");
+// Bellyband ad
+googletag.defineSlot(unitName, [[900, 250],[940,230],[970,250],[900,40],[1,1]], "bellyband").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "bellyband");
+// Bellyband or Leaderboard ad
+googletag.defineSlot(unitName, [[900, 250],[970,250],[900,40],[940,230],[468,60],[728, 90],[1,1]], "bellyband-leaderboard").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "bellyband-leaderboard");
+// ATF mpu ad - config.article.gallery.refresh has its own specific mpu call which excludes 300x600 ads, this is within a separate widget, ID9022770
+googletag.defineSlot(unitName, [[300, 250], [300, 600],[300, 1050],[1,1]], "mpu").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "mpu");
+// Second MPU
+googletag.defineSlot(unitName, [[300, 251],[1,1]], "secondmpu").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "secondmpu");
+// Skyscrapper ad
+googletag.defineSlot(unitName, [[120, 600], [160, 600],[1,1]], "skyscrapper").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "skyscraper");
+// Gutter Left ad
+// googletag.defineSlot(unitName, [[150, 600],[1,1]], "gutterleft").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "gutterleft");
+// Gutter Right ad
+// googletag.defineSlot(unitName, [[150, 600],[1,1]], "gutterright").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "gutterright");
+// 5x5 Teads ad
+googletag.defineSlot(unitName, [5, 5], "teads").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "teads");
+// 4x4 GumGum ad
+googletag.defineSlot(unitName, [4, 4], "gumgum").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "gumgum");
+// 300x255 perform
+googletag.defineSlot(unitName, [300, 255], "perform").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "perform");
+// 622x42_strip
+googletag.defineSlot(unitNamePartner, [622, 42], "622x42_strip").addService(googletag.pubads()).setTargeting("article", articleId);
+// InSkin 8x8 ad
+var fn_pageskin = "no";
+if (screen.width >= 1280) { fn_pageskin = "yes"; }
+googletag.defineSlot(unitName, [8, 8], "inskin8x8").addService(googletag.pubads()).setTargeting("inskin", fn_pageskin).setTargeting("article", articleId);
+// Partner 300x150 ad
+googletag.defineSlot(unitNamePartner, [300, 150], "partnersmall").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_1 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_1").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_2 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_2").addService(googletag.pubads()).setTargeting("target", "psmpu2").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+//googletag.pubads().enableSingleRequest();
+//googletag.pubads().refresh();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+var INDYES = INDYES || {};
+INDYES.injectWallpaperCSS = function (ctrId, inlineCSS) {
+$('#' + ctrId).append(inlineCSS);
+};
+</script>
+<!--
+<script type="text/javascript">
+sbi_morpheus.callOperator();
+</script>
+-->
+</div>
+<!--Google Analytics -->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+//var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+var s = document.getElementsByTagName('head')[0]; s.appendChild(ga); })(); </script>
+<!--Visual Revenue Reader Response Tracking Script (v142) -->
+<!--<script type="text/javascript">
+var _vrq = _vrq || [];
+_vrq.push(['id', 142]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>-->
+<!-- End of VR RR Tracking Script - All rights reserved -->
+<!-- GeoRiot code -->
+<script type="text/javascript">
+$(document).ready(function () {
+// READ THIS!!
+// START OF REQUIRED CHANGES
+// you MUST change this value to one for your georiot account TSIDs
+var tsid = 3658;
+// END OF REQUIRED CHANGES
+// DO NOT MODIFY BELOW THIS LINE
+convertToGeoRiotLinks(tsid);
+// convertToGeoRiotLinks(3658) is also called in the galleries: loadMPU
+});
+function convertToGeoRiotLinks(tsid) {
+var numberOfLinks = document.links.length;
+var currentLinkIndex = 0;
+for (currentLinkIndex = 0; currentLinkIndex < numberOfLinks; currentLinkIndex++) {
+var currentLink = document.links[currentLinkIndex];
+var linkType = getLinkType(currentLink.href);
+if (linkType == "apple" || linkType == "amazon") {
+currentLink.href = "http://target.georiot.com/Proxy.ashx?TSID=" + tsid + "&GR_URL=" + encodeURIComponent(currentLink.href);
+} else if (linkType == "linkshare" || linkType == "tradedoubler" || linkType == "dgmperf") {
+var itunesUrl = extractItunesLinkFromAffiliateUrl(currentLink, linkType);
+if (itunesUrl != "") {
+currentLink.href = "http://target.georiot.com/Proxy.ashx?TSID=" + tsid + "&GR_URL=" + itunesUrl;
+}
+} else continue;
+}
+}
+function extractItunesLinkFromAffiliateUrl(currentLink, linkType) {
+if (currentLink.href.indexOf("?") > 0) {
+var arrParams = currentLink.href.split("?");
+var arrURLParams = arrParams[1].split("&");
+var arrParamNames = new Array(arrURLParams.length);
+var arrParamValues = new Array(arrURLParams.length);
+var i = 0;
+for (i = 0; i < arrURLParams.length; i++) {
+var sParam = arrURLParams[i].split("=");
+arrParamNames[i] = sParam[0];
+if (sParam[1] != "") {
+arrParamValues[i] = sParam[1];
+if (linkType == "tradedoubler" && arrParamNames[i] == "url") {
+return arrParamValues[i];
+} else if (linkType == "linkshare" && arrParamNames[i] == "RD_PARM1") {
+return arrParamValues[i];
+} else if (linkType == "dgmperf" && arrParamNames[i] == "u") {
+return arrParamValues[i];
+}
+} else arrParamValues[i] = "";
+}
+}
+return "";
+}
+/* Returns link type: unknown, amazon, apple, linkshare, dgm, tradedoubler
+*/
+function getLinkType(currentLinkHref) {
+var appleRegex = /itunes.apple.com\/\S+id[0-9]+/i;
+var tradeDoublerRegex = /clk[uk]*\.tradedoubler\.com\S*\?\S*url=[https%3A%2F%2F|http%3A%2F%2F]*\itunes\.apple\.com/i;
+var linkshareRegex = /click\.linksynergy\.com\S*?\S*RD_PARM1=[https%3A%2F%2F|https%253A%252F%252F|http%253A%252F%252F|http%3A%2F%2F]*\itunes\.apple\.com/i;
+var dgmPerfRegex = /t.dgm-au.c\S+\?+\S*u=[https%3A%2F%2F|http%3A%2F%2F|https%253A%252F%252F|http%253A%252F%252F]*\itunes\.apple\.com/i;
+var amazonRegex = /\.amazon\./;
+var amazonLocalRegex = /local\.amazon\./;
+if (currentLinkHref.indexOf("target.georiot.com") > 0 || currentLinkHref.indexOf("geni.us") > 0) {
+return "unknown";
+}
+if (appleRegex.test(currentLinkHref)) return "apple";
+else if (tradeDoublerRegex.test(currentLinkHref)) return "tradedoubler";
+else if (linkshareRegex.test(currentLinkHref)) return "linkshare";
+else if (dgmPerfRegex.test(currentLinkHref)) return "dgmperf";
+else if (amazonRegex.test(currentLinkHref) && !amazonLocalRegex.test(currentLinkHref)) return "amazon";
+else return "unknown";
+};
+$(".esi-gallery-rightarrow").click(function() {
+console.log('runnit')
+});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-61334515-1', 'auto');
+ga('send', 'pageview');
+</script>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8180676" >
+<script type="text/javascript">
+$(document).ready(function() {
+$("#singleCommentHeader .commentsLogo").wrap("<a href='http://www.independent.co.uk/voices/'></a>");
+});
+</script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453966" >
+<div id="outOfPageSlot">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("outOfPageSlot");
+});
+</script>
+</div>
+</div>
+<div class="x940 bellyBand"
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453970" >
+<div id="bellyband">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("bellyband"); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="x940 linksDateWeather"
+>
+<div class="column-1">
+<div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime" >
+<ul>
+<li class="current first">
+Sunday 02 August 2015
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8117921 topExternalLinks" >
+<div id="gigyaLoginBar"><ul></ul></div>
+<script>
+var gigyaLogout = function (data) {
+// reload if logout was successful
+if (data.errorCode == 0) { location.reload();
+} else {
+alert('Error :' + response.errorMessage);
+}
+};
+// comments fix start
+$(document).ready(function() {
+// bind short registration to comments login button
+$('#singleCommentHeader .singleCommentLogin').live('click',function() {
+gigya.accounts.showScreenSet({screenSet:'Short-login-web2',lastLoginIndication:'none',onAfterScreenLoad:bindTooltips,onBeforeSubmit:checkForRobot});
+function bindTooltips() {
+// mobile fix start
+$('.gigya-screen-dialog-mobile').attr('class','gigya-screen-dialog');
+var oldDialog = '<div class="gigya-screen-dialog-top"><div class="gigya-screen-dialog-caption">Sign in</div><div class="gigya-screen-dialog-close"></div></div>';
+$('.gigya-screen-caption').replaceWith(oldDialog);
+$('.gigya-screen-dialog-close').click(function() {
+$(this).parents('.gigya-screen-dialog').remove();
+});
+// mobile fix end
+$('.gigya-screen-dialog .gigya-input-text, .gigya-screen-dialog select').live('focus', function() {
+$(this).siblings('.tooltip').css('display','block');
+}).live('blur', function() {
+$(this).siblings('.tooltip').fadeOut(); });
+}
+});
+// hide submit button on user logged out
+$('body').mousemove(function() {
+if (!$('body').hasClass('gigyaLoggedIn')) {
+$('#singleCommentSubmit').hide();
+} else {
+$('#singleCommentSubmit').show();
+}
+$('.comment-formatting-btns').hide();
+});
+// setup flag functionality on comments
+$('#singleCommentHeader .comments .flag').live('mousedown',function(e) {
+if ($('body').hasClass('gigyaLoggedIn')) {
+e.preventDefault();
+var iCommentID = $(this).parents('.commentBlock').first().attr('id');
+var flagParams = {
+commentID: iCommentID,
+categoryID: params.categoryID, streamID: params.streamID
+};
+gigya.comments.flagComment(flagParams);
+alert('This comment has now been flagged');
+}
+});
+// setup reply functionality on comments
+$('.reply').live('click',function() { if ($('body').hasClass('gigyaLoggedIn')) {
+$('.replyFormClone').remove();
+$(this).parents('.commentBlock').first().find('> .replies').append('<form class="replyFormClone"><textarea></textarea><input type="submit" value="Post" /></form>');
+$('.replyFormClone').submit(function(e) {
+e.preventDefault();
+var valCommentText = $('.replyFormClone textarea').val().replace(/\n/g, "<br />");
+var valParentID = $(this).parents('.commentBlock').first().attr('id');
+var event = {
+commentText: valCommentText,
+side: '',
+parentID: valParentID,
+errorContainerClass : "errorReply"
+};
+//ind.gigya.comments.eventHandlers.submit(event, params);
+gigya.comments.postComment({
+categoryID: params.categoryID,
+streamID: params.streamID,
+commentText: event.commentText,
+parentID: event.parentID,
+callback: function(response) {
+if(response.errorCode == 0) {
+$('.replyFormClone').html('<p class="successMsg">Your comment has been successfully submitted</p>');
+} else {
+}
+}
+});
+return false;
+});
+} else {
+gigya.accounts.showScreenSet({screenSet:'Short-login-web2'});
+}
+});
+// comments fix end
+});
+// sub2 code start
+$('#gigya-complete-registiration-screen .gigya-profile-form').live('submit',function(){
+var strEmail = $('#gigya-complete-registiration-screen [name="email"]').val();
+var strFirstName = $('#gigya-complete-registiration-screen [name="profile.firstName"]').val();
+var strLastName = $('#gigya-complete-registiration-screen [name="profile.lastName"]').val();
+S2Tech_StoreRegistrationData(strEmail, strFirstName, strLastName);
+});
+function sub2Login(data) {
+if (data.user.UID!='') {
+S2Tech_StoreRegistrationData(data.user.firstName, data.user.lastName, data.user.email);
+}
+}
+gigya.socialize.addEventHandlers({onLogin:sub2Login});
+// sub2 code end
+</script>
+<!-- gigya includes start -->
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/independent.co.uk/assets/gigya/styles.css"/>
+<script src="http://www.independent.co.uk/independent.co.uk/assets/gigya/script.js?v=1.2.1"></script>
+<!-- gigya includes end -->
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/marketing/apps/" >
+<span>Apps </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/ebooks/" >
+<span>eBooks </span>
+</a>
+</li>
+<li>
+<a href="http://ijobs.independent.co.uk/" >
+<span>i Jobs </span>
+</a>
+</li>
+<li>
+<a href="http://dating.independent.co.uk/?utm_source=navbar&utm_campaign=dating&utm_term=independent" >
+<span>Dating </span>
+</a>
+</li>
+<li>
+<a href="http://www.independentoffers.co.uk/" >
+<span>Shop </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="x940 promoAndLeaderboard"
+id="stacked" >
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8927185" >
+<div id="mini-masthead-lboard"><a href="http://www.independent.co.uk">
+<img src="/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png" title="The Independent" alt="The Independent" width="90" height="90" id="independent-mini-logo"/>
+</a>
+</div>
+<style type="text/css">
+<!--
+/* bolds indy title on dateline */
+.topDateTime ul li:before {font-weight:bold;}
+-->
+</style>
+<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 28px;">
+<a href="http://i100.independent.co.uk/?utm_source=indy&utm_medium=rad&utm_campaign=i100" target="_blank" style="display: block;padding: 0px 10px 0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/i100-radx2.jpg" width="70px" style="margin-top: -10px;padding-bottom: 9px;"></a>
+</div>
+<!--<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 34px;"><a href="http://www.independent.co.uk/i/" target="_blank" style="display: block;padding: 0px 35px 0; margin-top: -15px;"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/ipaper_lrg_masthead.png" height="56px" style="
+margin-top: -10px;
+padding-bottom: 15px;
+"></a></div>-->
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453964 ad" >
+<div id="leaderboard" style="width: 728px; height: 90px">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("leaderboard"); });
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="navigation">
+<div class="x940 voices"
+>
+<div class="column-1">
+<div class="widget menu vertical widget-editable viziwyg-section-507 inpage-widget-8098934 navPrimary voices"
+>
+<ul class="main-level">
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/" >
+News </a>
+</li>
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/video/" >
+Video </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/people/" >
+People </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-voices-nav active">
+<a href="http://www.independent.co.uk/voices/" class="voicesLogoAnchor">
+Voices </a>
+<ul class="submenu">
+<li class="Find by writer parent">
+<a href="#1" class="active " >
+<span>Find by writer </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Yasmin Alibhai-Brown">
+<a href="http://www.independent.co.uk/biography/yasmin-alibhai-brown" class="active " >
+<span>Yasmin Alibhai-Brown </span>
+</a>
+</li>
+<li class="Rebecca Armstrong">
+<a href="http://www.independent.co.uk/biography/rebecca-armstrong-8135065.html" class="active " >
+<span>Rebecca Armstrong </span>
+</a>
+</li>
+<li class="Memphis Barker">
+<a href="http://www.independent.co.uk/biography/memphis-barker" class="active " >
+<span>Memphis Barker </span>
+</a>
+</li>
+<li class="Max Benwell">
+<a href="http://www.independent.co.uk/biography/max-benwell" class="active " >
+<span>Max Benwell </span>
+</a>
+</li>
+<li class="Chris Blackhurst">
+<a href="http://www.independent.co.uk/biography/chris-blackhurst-8118282.html" class="active " >
+<span>Chris Blackhurst </span>
+</a>
+</li>
+<li class="Ian Burrell">
+<a href="http://www.independent.co.uk/biography/ian-burrell" class="active " >
+<span>Ian Burrell </span>
+</a>
+</li>
+<li class="Andrew Buncombe">
+<a href="http://www.independent.co.uk/biography/andrew-buncombe" class="active " >
+<span>Andrew Buncombe </span>
+</a>
+</li>
+<li class="Ben Chu">
+<a href="http://www.independent.co.uk/biography/ben-chu" class="active " >
+<span>Ben Chu </span>
+</a>
+</li>
+<li class="Patrick Cockburn">
+<a href="http://www.independent.co.uk/biography/patrick-cockburn" class="active " >
+<span>Patrick Cockburn </span>
+</a>
+</li>
+</ul>
+<ul class="column2">
+<li class="Mary Dejevsky">
+<a href="http://www.independent.co.uk/biography/mary-dejevsky" class="active " >
+<span>Mary Dejevsky </span>
+</a>
+</li>
+<li class="Grace Dent">
+<a href="http://www.independent.co.uk/biography/grace-dent" class="active " >
+<span>Grace Dent </span>
+</a>
+</li>
+<li class="Robert Fisk">
+<a href="http://www.independent.co.uk/biography/robert-fisk" class="active " >
+<span>Robert Fisk </span>
+</a>
+</li>
+<li class="Andrew Grice">
+<a href="http://www.independent.co.uk/biography/andrew-grice" class="active " >
+<span>Andrew Grice </span>
+</a>
+</li>
+<li class="Stefano Hatfield">
+<a href="http://www.independent.co.uk/biography/stefano-hatfield" class="active " >
+<span>Stefano Hatfield </span>
+</a>
+</li>
+<li class="Lucy Hunter Johnston">
+<a href="http://www.independent.co.uk/biography/lucy-hunter-johnston-9297332.html" class="active " >
+<span>Lucy Hunter Johnston </span>
+</a>
+</li>
+<li class="Howard Jacobson">
+<a href="http://www.independent.co.uk/biography/howard-jacobson" class="active " >
+<span>Howard Jacobson </span>
+</a>
+</li>
+<li class="Alice Jones">
+<a href="http://www.independent.co.uk/biography/alice-jones" class="active " >
+<span>Alice Jones </span>
+</a>
+</li>
+<li class="Ellen E Jones">
+<a href="http://www.independent.co.uk/biography/ellen-e-jones" class="active " >
+<span>Ellen E Jones </span>
+</a>
+</li>
+</ul>
+<ul class="column3">
+<li class="Simon Kelner">
+<a href="http://www.independent.co.uk/biography/simon-kelner" class="active " >
+<span>Simon Kelner </span>
+</a>
+</li>
+<li class="Lisa Markwell">
+<a href="http://www.independent.co.uk/biography/lisa-markwell" class="active " >
+<span>Lisa Markwell </span>
+</a>
+</li>
+<li class="Michael McCarthy">
+<a href="http://www.independent.co.uk/biography/michael-mccarthy" class="active " >
+<span>Michael McCarthy </span>
+</a>
+</li>
+<li class="Hamish McRae">
+<a href="http://www.independent.co.uk/biography/hamish-mcrae" class="active " >
+<span>Hamish McRae </span>
+</a>
+</li>
+<li class="Jane Merrick">
+<a href="http://www.independent.co.uk/biography/jane-merrick" class="active " >
+<span>Jane Merrick </span>
+</a>
+</li>
+<li class="James Moore">
+<a href="http://www.independent.co.uk/biography/james-moore" class="active " >
+<span>James Moore </span>
+</a>
+</li>
+<li class="Matthew Norman">
+<a href="http://www.independent.co.uk/biography/matthew-norman" class="active " >
+<span>Matthew Norman </span>
+</a>
+</li>
+<li class="Dom Joly">
+<a href="http://www.independent.co.uk/biography/dom-joly" class="active " >
+<span>Dom Joly </span>
+</a>
+</li>
+<li class="Amol Rajan">
+<a href="http://www.independent.co.uk/biography/amol-rajan" class="active " >
+<span>Amol Rajan </span>
+</a>
+</li>
+</ul>
+<ul class="column4 last">
+<li class="John Rentoul">
+<a href="http://www.independent.co.uk/biography/john-rentoul" class="active " >
+<span>John Rentoul </span>
+</a>
+</li>
+<li class="Steve Richards">
+<a href="http://www.independent.co.uk/biography/steve-richards" class="active " >
+<span>Steve Richards </span>
+</a>
+</li>
+<li class="Deborah Ross">
+<a href="http://www.independent.co.uk/biography/deborah-ross" class="active " >
+<span>Deborah Ross </span>
+</a>
+</li>
+<li class="Kim Sengupta">
+<a href="http://www.independent.co.uk/biography/kim-sengupta" class="active " >
+<span>Kim Sengupta </span>
+</a>
+</li>
+<li class="Joan Smith">
+<a href="http://www.independent.co.uk/biography/joan-smith" class="active " >
+<span>Joan Smith </span>
+</a>
+</li>
+<li class="Mark Steel">
+<a href="http://www.independent.co.uk/biography/mark-steel" class="active " >
+<span>Mark Steel </span>
+</a>
+</li>
+<li class="Janet Street-Porter">
+<a href="http://www.independent.co.uk/biography/janet-street-porter" class="active " >
+<span>Janet Street-Porter </span>
+</a>
+</li>
+<li class="John Walsh">
+<a href="http://www.independent.co.uk/biography/john-walsh" class="active " >
+<span>John Walsh </span>
+</a>
+</li>
+<li class="Andreas Whittam Smith">
+<a href="http://www.independent.co.uk/biography/andreas-whittam-smith" class="active " >
+<span>Andreas Whittam Smith </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Comment">
+<a href="http://www.independent.co.uk/voices/comment/" class="active " >
+<span>Comment </span>
+</a>
+</li>
+<li class="Editorials">
+<a href="http://www.independent.co.uk/voices/editorials/" class="active " >
+<span>Editorials </span>
+</a>
+</li>
+<li class="Letters">
+<a href="http://www.independent.co.uk/voices/letters/" class="active " >
+<span>Letters </span>
+</a>
+</li>
+<li class="Happy List">
+<a href="http://www.independent.co.uk/happylist/" class="active " >
+<span>Happy List </span>
+</a>
+</li>
+<li class="Campaigns parent">
+<a href="http://www.independent.co.uk/voices/" class="active " >
+<span>Campaigns </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Homeless Veterans">
+<a href="http://www.independent.co.uk/voices/campaigns/homeless-veterans/" class="active " >
+<span>Homeless Veterans </span>
+</a>
+</li>
+<li class="Save the tiger">
+<a href="http://www.independent.co.uk/voices/campaigns/save-the-tiger/" class="active " >
+<span>Save the tiger </span>
+</a>
+</li>
+<li class="Elephant Campaign">
+<a href="http://www.independent.co.uk/voices/campaigns/elephant-campaign/" class="active " >
+<span>Elephant Campaign </span>
+</a>
+</li>
+<li class="Equal Partners">
+<a href="http://www.independent.co.uk/voices/campaigns/equal_partners/" class="active " >
+<span>Equal Partners </span>
+</a>
+</li>
+<li class="Delayed Diagnosis">
+<a href="http://www.independent.co.uk/voices/campaigns/delayed-diagnosis/" class="active " >
+<span>Delayed Diagnosis </span>
+</a>
+</li>
+<li class="We are Malala">
+<a href="http://www.independent.co.uk/voices/campaigns/we_are_malala/" class="active " >
+<span>We are Malala </span>
+</a>
+</li>
+<li class="Child Soldiers">
+<a href="http://www.independent.co.uk/voices/campaigns/child-soldiers/" class="active " >
+<span>Child Soldiers </span>
+</a>
+</li>
+<li class="Voices in Danger">
+<a href="http://www.independent.co.uk/voices/campaigns/voicesindanger/" class="active " >
+<span>Voices in Danger </span>
+</a>
+</li>
+<li class="The New Suffragettes">
+<a href="http://www.independent.co.uk/voices/campaigns/newsuffragettes/" class="active " >
+<span>The New Suffragettes </span>
+</a>
+</li>
+</ul>
+<ul class="column2 last">
+<li class="Rory Peck Awards">
+<a href="http://www.independent.co.uk/voices/campaigns/rorypeck/" class="active " >
+<span>Rory Peck Awards </span>
+</a>
+</li>
+<li class="British Citizen Awards">
+<a href="http://www.independent.co.uk/voices/campaigns/britishcitizenawards/" class="active " >
+<span>British Citizen Awards </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Archive">
+<a href="http://www.independent.co.uk/voices/archive/" class="active " >
+<span>Archive </span>
+</a>
+</li>
+<li class="Our Voices parent">
+<a href="http://www.independent.co.uk/voices/our-voices/" class="active " >
+<span>Our Voices </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Rentoul">
+<a href="http://www.independent.co.uk/voices/our-voices/rentoul/" class="active " >
+<span>Rentoul </span>
+</a>
+</li>
+<li class="The Editors">
+<a href="http://www.independent.co.uk/voices/our-voices/the-editors/" class="active " >
+<span>The Editors </span>
+</a>
+</li>
+<li class="The Foreign Desk">
+<a href="http://www.independent.co.uk/voices/our-voices/the-foreign-desk/" class="active " >
+<span>The Foreign Desk </span>
+</a>
+</li>
+<li class="Battle of Ideas">
+<a href="http://www.independent.co.uk/voices/our-voices/battle-of-ideas/" class="active " >
+<span>Battle of Ideas </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Commentators parent">
+<a href="http://www.independent.co.uk/voices/commentators/" class="active " >
+<span>Commentators </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Yasmin Alibhai-Brown">
+<a href="http://www.independent.co.uk/voices/commentators/yasmin-alibhai-brown/" class="active " >
+<span>Yasmin Alibhai-Brown </span>
+</a>
+</li>
+<li class="Terence Blacker">
+<a href="http://www.independent.co.uk/voices/commentators/terence-blacker/" class="active " >
+<span>Terence Blacker </span>
+</a>
+</li>
+<li class="Simon Carr">
+<a href="http://www.independent.co.uk/voices/commentators/simon-carr/" class="active " >
+<span>Simon Carr </span>
+</a>
+</li>
+<li class="Rupert Cornwell">
+<a href="http://www.independent.co.uk/voices/commentators/rupert-cornwell/" class="active " >
+<span>Rupert Cornwell </span>
+</a>
+</li>
+<li class="Sloane Crosley">
+<a href="http://www.independent.co.uk/voices/commentators/sloane-crosley/" class="active " >
+<span>Sloane Crosley </span>
+</a>
+</li>
+<li class="Mary Dejevsky">
+<a href="http://www.independent.co.uk/voices/commentators/mary-dejevsky/" class="active " >
+<span>Mary Dejevsky </span>
+</a>
+</li>
+<li class="Robert Fisk">
+<a href="http://www.independent.co.uk/voices/commentators/fisk/" class="active " >
+<span>Robert Fisk </span>
+</a>
+</li>
+<li class="Andrew Grice">
+<a href="http://www.independent.co.uk/voices/commentators/andrew-grice/" class="active " >
+<span>Andrew Grice </span>
+</a>
+</li>
+<li class="Adrian Hamilton">
+<a href="http://www.independent.co.uk/voices/commentators/adrian-hamilton/" class="active " >
+<span>Adrian Hamilton </span>
+</a>
+</li>
+</ul>
+<ul class="column2">
+<li class="Philip Hensher">
+<a href="http://www.independent.co.uk/voices/commentators/philip-hensher/" class="active " >
+<span>Philip Hensher </span>
+</a>
+</li>
+<li class="Howard Jacobson">
+<a href="http://www.independent.co.uk/voices/commentators/howard-jacobson/" class="active " >
+<span>Howard Jacobson </span>
+</a>
+</li>
+<li class="Dominic Lawson">
+<a href="http://www.independent.co.uk/voices/commentators/dominic-lawson/" class="active " >
+<span>Dominic Lawson </span>
+</a>
+</li>
+<li class="John Lichfield">
+<a href="http://www.independent.co.uk/voices/commentators/john-lichfield/" class="active " >
+<span>John Lichfield </span>
+</a>
+</li>
+<li class="Campaigns">
+<a href="#2" class="active " >
+<span>Campaigns </span>
+</a>
+</li>
+<li class="Hamish McRae">
+<a href="http://www.independent.co.uk/voices/commentators/hamish-mcrae/" class="active " >
+<span>Hamish McRae </span>
+</a>
+</li>
+<li class="Matthew Norman">
+<a href="http://www.independent.co.uk/voices/commentators/matthew-norman/" class="active " >
+<span>Matthew Norman </span>
+</a>
+</li>
+<li class="Christina Patterson">
+<a href="http://www.independent.co.uk/voices/commentators/christina-patterson/" class="active " >
+<span>Christina Patterson </span>
+</a>
+</li>
+<li class="John Rentoul">
+<a href="http://www.independent.co.uk/voices/commentators/john-rentoul/" class="active " >
+<span>John Rentoul </span>
+</a>
+</li>
+</ul>
+<ul class="column3 last">
+<li class="Steve Richards">
+<a href="http://www.independent.co.uk/voices/commentators/steve-richards/" class="active " >
+<span>Steve Richards </span>
+</a>
+</li>
+<li class="Sarah Sands">
+<a href="http://www.independent.co.uk/voices/commentators/sarah-sands/" class="active " >
+<span>Sarah Sands </span>
+</a>
+</li>
+<li class="Mary Ann Sieghart">
+<a href="http://www.independent.co.uk/voices/commentators/mary-ann-sieghart/" class="active " >
+<span>Mary Ann Sieghart </span>
+</a>
+</li>
+<li class="Joan Smith">
+<a href="http://www.independent.co.uk/voices/commentators/joan-smith/" class="active " >
+<span>Joan Smith </span>
+</a>
+</li>
+<li class="Mark Steel">
+<a href="http://www.independent.co.uk/voices/commentators/mark-steel/" class="active " >
+<span>Mark Steel </span>
+</a>
+</li>
+<li class="Campaigns">
+<a href="http://www.independent.co.uk/voices/campaigns/elephant-campaign/" class="active " >
+<span>Campaigns </span>
+</a>
+</li>
+<li class="Janet Street-Porter">
+<a href="http://www.independent.co.uk/voices/columnists/janet-street-porter/" class="active " >
+<span>Janet Street-Porter </span>
+</a>
+</li>
+<li class="Andreas Whittam Smith">
+<a href="http://www.independent.co.uk/voices/commentators/andreas-whittam-smith/" class="active " >
+<span>Andreas Whittam Smith </span>
+</a>
+</li>
+<li class="Voices">
+<a href="http://www.independent.co.uk/voices/" class="active " >
+<span>Voices </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Columnists parent">
+<a href="http://www.independent.co.uk/voices/columnists/" class="active " >
+<span>Columnists </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Dom Joly">
+<a href="http://www.independent.co.uk/voices/columnists/dom-joly/" class="active " >
+<span>Dom Joly </span>
+</a>
+</li>
+<li class="David Lister">
+<a href="http://www.independent.co.uk/voices/columnists/david-lister/" class="active " >
+<span>David Lister </span>
+</a>
+</li>
+<li class="Thomas Sutcliffe">
+<a href="http://www.independent.co.uk/voices/columnists/thomas-sutcliffe/" class="active " >
+<span>Thomas Sutcliffe </span>
+</a>
+</li>
+<li class="John Walsh">
+<a href="http://www.independent.co.uk/voices/columnists/john-walsh/" class="active " >
+<span>John Walsh </span>
+</a>
+</li>
+<li class="Janet Street-Porter">
+<a href="http://www.independent.co.uk/voices/columnists/janet-street-porter/" class="active " >
+<span>Janet Street-Porter </span>
+</a>
+</li>
+<li class="Chris Bryant">
+<a href="http://www.independent.co.uk/voices/columnists/chris-bryant/" class="active " >
+<span>Chris Bryant </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Democracy 2015">
+<a href="http://www.independent.co.uk/voices/democracy2015/" class="active " >
+<span>Democracy 2015 </span>
+</a>
+</li>
+<li class="IV Drip Archive">
+<a href="http://www.independent.co.uk/voices/iv-drip/ivdrip-archive/" class="active " >
+<span>IV Drip Archive </span>
+</a>
+</li>
+<li class="Blogs">
+<a href="http://blogs.independent.co.uk/" class="active " >
+<span>Blogs </span>
+</a>
+</li>
+<li class="If I were PM">
+<a href="http://www.independent.co.uk/voices/ifiwerepm/" class="active " >
+<span>If I were PM </span>
+</a>
+</li>
+<li class="Scottish independence">
+<a href="http://www.independent.co.uk/voices/scottish-independence/" class="active " >
+<span>Scottish independence </span>
+</a>
+</li>
+<li class="Save the tiger">
+<a href="http://www.independent.co.uk/voices/campaigns/save-the-tiger/" class="active " >
+<span>Save the tiger </span>
+</a>
+</li>
+<li class="The state of the NHS">
+<a href="http://www.independent.co.uk/voices/nhs/" class="active " >
+<span>The state of the NHS </span>
+</a>
+</li>
+</ul>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="green-nav ">
+<a href="http://www.independent.co.uk/sport/" >
+Sport </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/" >
+Tech </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/" >
+Life </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/property/" >
+Property </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-grey-nav ">
+<a href="http://www.independent.co.uk/arts-entertainment/" >
+<span class="ArtsText">Arts</span> <span class="+Text">+</span> <span class="EntsText">Ents</span> </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-nav ">
+<a href="http://www.independent.co.uk/travel/" >
+Travel </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="turqoise-nav ">
+<a href="http://www.independent.co.uk/money/" >
+Money </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-blue-nav ">
+<a href="http://www.independent.co.uk/extras/indybest/" >
+IndyBest </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="eggplant-nav ">
+<a href="http://www.independent.co.uk/student/" >
+Student </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/competitions" target="_blank" >
+Offers </a>
+</li>
+</ul>
+</div>
+<div class="menuGroup x940 hotTopics voices">
+<div class="tagLabel color">Hot Topics</div>
+<div class="tagNames">
+<a href="http://www.independent.co.uk/voices/comment/every-club-should-be-like-labour--you-cant-join-as-a-new-member-unless-youre-already-a-member-10428421.html" target="_self">Jeremy Corbyn</a>
+<a href="http://www.independent.co.uk/voices/comment/while-we-fixate-on-calais-the-government-is-quietly-deporting-dozens-of-migrants-on-ghost-flights-10427181.html" target="_self">Ghost Flights</a>
+<a href="http://www.independent.co.uk/voices/comment/walter-palmer-killed-cecil-the-lion-with-a-bow-to-show-off--and-now-hes-discovering-what-its-like-to-be-hunted-10424613.html" target="_self">Cecil the Lion</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="top">
+<div class="x940 "
+>
+<div class="column-1">
+</div>
+</div>
+<div class="x940 "
+>
+<div class="column-1">
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099099 TopArticleWidget" >
+<script type="text/javascript">
+commentCountApiArray[commentCountApiArray.length] = {
+articleId:'10432524', catId:'ArticleComments', strId:'10432524', commentCountHolder:'commentCount-storyContent-cusotm-8099099-10432524', commentCountWrapper:'commentWrapper-storyContent-custom-8099099-10432524'
+};
+</script>
+<div class="commentsCount" id="commentWrapper-storyContent-custom-8099099-10432524">
+<a href="#commentReference"><span class="commentsNumber" id="commentCount-storyContent-cusotm-8099099-10432524"></span></a>
+</div>
+</div>
+<div class="widget AuthorWidget authorDetails widget-editable viziwyg-section-507 inpage-widget-8099102 TopArticleWidget">
+<a class="TopArticleImage" href="http://www.independent.co.uk/biography/patrick-cockburn">
+<img src="http://www.independent.co.uk/incoming/article9633269.ece/alternates/w140/Patrick-Cockburn.jpg" alt="" title="Patrick-Cockburn.jpg" width="140" height="140"/>
+</a>
+<div class="articleByline"> <div class="author">
+<a href="http://www.independent.co.uk/biography/patrick-cockburn">Patrick Cockburn</a>
+</div>
+</div>
+<div class="twitter">
+<a href="http://www.twitter.com/indyworld" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">
+Follow
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099107 TopArticleWidget" >
+<p class="dateline">
+Saturday 1 August 2015
+</p>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099115 TopArticleWidget" >
+<h1 class="title">
+Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis
+</h1>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099118 TopArticleWidget" >
+<h3 class="subtitle">
+<p>World View: Since the accord, the Turks have only waged war on Kurds while no US bomber has used Incirlik airbase</p>
+</h3>
+</div>
+</div>
+</div>
+<div class="x940 topArticleDivider"
+>
+<div class="column-1">
+</div>
+</div>
+</div>
+<div id="content">
+<div id="areas">
+<div id="main-container">
+<div id="main">
+<div class="x620 "
+>
+<div class="column-1">
+<script type="text/javascript">
+//<![CDATA[
+ind.article.largeItem = 'false';
+ind.article.videoPriority = 'false';
+ind.article.fullSlideshow = 1;
+//]]>
+</script>
+<style>
+div.slideshow img {
+display: none;
+}
+</style>
+<div class="widget slideshow default widget-editable viziwyg-section-507 inpage-widget-8099134"
+>
+<div id="galleriaLoadId-8099134" class="indLoading">
+<img src='http://www.independent.co.uk/incoming/article10432545.ece/alternates/w620/31-US-AirForce-AFP.jpg' height="465" class="FirstImage" style="display:block; margin: 10px 0 100px 0;">
+<div id="slideshow-8099134">
+<a href='http://www.independent.co.uk/incoming/article10432545.ece/alternates/w620/31-US-AirForce-AFP.jpg'>
+<img src='http://www.independent.co.uk/incoming/article10432545.ece/alternates/w80/31-US-AirForce-AFP.jpg'
+data-title='The big stick: An F-16 fighter at Incirlik last month, but when will they attack IS?' data-big="http://www.independent.co.uk/incoming/article10432545.ece/binary/original/31-US-AirForce-AFP.jpg"
+data-description='AFP'>
+</a>
+</div> </div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+$(function() {
+Galleria.loadTheme('http://www.independent.co.uk/resources/js/galleria.classic.min.js');
+Galleria.ready(function() {
+this.bind('image', function(e) {
+$('#galleriaLoadId-8099134 img.FirstImage').hide();
+});
+});
+// Initialize Galleria
+$('#slideshow-8099134').galleria({height:465,
+width:620,
+autoplay: false,
+lightbox: true,
+thumbnails: false}
+);
+});
+// ]]>
+</script>
+<style type="text/css">
+.galleria-image-nav {
+display: none;
+}
+div.slideshow .galleria-stage {
+top: 0px;
+}
+div.slideshow .galleria-info {
+top: 10px;
+}
+div.slideshow .galleria-counter {
+display: none !important;
+}
+div#galleriaLoadId-8099134 {
+height:465px !important;
+background-color:#fff;
+}
+.FirstImage{margin-top:0 !important;}
+</style>
+<style type="text/css">
+div.slideshow #slideshow-8099134 .galleria-thumbnails-container {
+height: 70px;
+bottom: 0;
+position: absolute;
+left: 10px;
+right: 10px;
+z-index: 2;
+}
+div.slideshow #slideshow-8099134 .galleria-container .galleria-stage {
+height: 565px;
+}
+div.slideshow #slideshow-8099134 .galleria-thumbnails .galleria-image {
+height: 60px;
+width: 60px;
+background: #000;
+margin: 0 5px 0 0;
+border: 1px solid #000;;
+float: left;
+cursor: pointer;
+}
+div.slideshow #slideshow-8099134 .galleria-counter {
+bottom: 83px !important;
+}
+.galleria-lightbox-image img { border-width:0; }
+div#galleriaLoadId-8099134 {
+display: block; height:565px;width:620px; background-color: #DDDDDD;
+z-index: 10000; overflow: hidden;
+position: relative; top: 0px; left: 0px;
+}
+</style>
+</div>
+</div>
+<div class="x300x300 "
+>
+<div class="column-1">
+<div class="widget storyComments debatecomments widget-editable viziwyg-section-507 inpage-widget-8099172" >
+</div>
+</div>
+<div class="column-2">
+<div class="widget storyComments debatecomments widget-editable viziwyg-section-507 inpage-widget-8099174" >
+</div>
+</div>
+</div>
+<div class="x620 "
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8687248 voicesLeftFloatingStyle clear socialShare" >
+<div class="orange" id="socialShare">
+<div class="socialShareHeading"><span>Share</span></div>
+<div class="socialShareBody vertical" id="componentdiv-voices">
+</div>
+</div>
+<script type="text/javascript">
+var act_gigya = new gigya.socialize.UserAction();
+// Configure sharebar using the Open Graph meta
+act_gigya.setTitle($("meta[property='og:title']").attr("content"));
+act_gigya.setDescription($("meta[property='og:description']").attr("content"));
+act_gigya.addMediaItem({ type: 'image', src: $("meta[property='og:image']").attr("content"), href: act_gigya.permalink });
+var showShareBarUI_params=
+{ userAction: act_gigya,
+layout: 'vertical',
+shortURLs: 'never',
+showTooltips: true,
+containerID: 'componentdiv-voices',
+showCounts: 'top',
+iconsOnly: true,
+shareButtons: [
+{
+provider:'facebook',
+tooltip:'Share on Facebook',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/facebook.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/facebookRoll.png'
+},
+{ provider:'twitter',
+tooltip:'Share on Twitter',
+via: 'Independent',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/twitter.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/twitterRoll.png'
+},	{
+provider:'googleplus',
+tooltip:'Share on Google+',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/google.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/googleRoll.png'	},
+{
+provider:'LinkedIn',
+tooltip:'Share on LinkedIn',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/linkedin.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/linkedinRoll.png'	},
+{
+provider:'reddit',
+tooltip:'Share on Reddit',
+enableCount:'false',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/reddit.png?ver=1a',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/redditRoll.png?ver=1a'	},
+{
+provider:'share',
+tooltip:'Share',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/share.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/shareRoll.png'
+}
+]
+}
+gigya.socialize.showShareBarUI(showShareBarUI_params);
+</script>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099193 articleContent voicesArticleLayout" >
+<span class="storyTop ">
+<p>The deal between the US and Turkey which will allow American bombers to use Incirlik airbase while Turkey takes action against Islamic State (Isis) looks stranger and stranger. When first announced over a week ago, US officials spoke triumphantly of the agreement being “a game-changer” in the war against Isis. In fact, the war waged by Turkey in the days since this great American diplomatic success has been almost entirely against the Kurds, at home and abroad.</p>
+</span>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-507 inpage-widget-8099200 articleContent voicesArticleLayout" >
+<div class="body ">
+<p>Turkish jets are pounding sites occupied by the PKK (Kurdistan Workers Party) guerrillas in the Qandil Mountains and other parts of northern Iraq. Inside Turkey, the majority of those detained by the security forces turn out to be Kurdish or left-wing activists and not suspected Isis sympathisers. Prosecutions are threatened against MPs of the largely Kurdish Peoples’ Democratic Party (HDP) which has tirelessly advocated peace between the PKK and the Turkish government. Evidently, the HDP’s offence was to win 13 per cent of the votes in Turkey’s general election on 7 June, thereby depriving President Recep Tayyip Erdogan’s ruling AKP of its parliamentary majority for the first time since 2002.</p><p>It is now becoming clear that two crucial parts of the accord were not agreed at the time of the historic announcement. The US Air Force was desperate to get the use of Incirlik, 60 miles from the Syrian border, in order to intensify its bombardment of Isis. American planes currently have to fly long distances from Bahrain, Jordan and an aircraft carrier in the Gulf. The failure of the US air campaign to prevent Isis fighters capturing Ramadi and Palmyra in May intensified the sense of urgency.</p><p>
+<span class="inline-image w460 leftAligned">
+<img src="http://www.independent.co.uk/incoming/article10432544.ece/alternates/w460/31-Incirlik-Airbase-AP.jpg"
+width="460"
+height="345"
+alt="US aircraft have yet to start using Incirlik airbase, and the reason is that Turkey does not want US aircraft using it to launch air strikes (AP)"
+title="US aircraft have yet to start using Incirlik airbase, and the reason is that Turkey does not want US aircraft using it to launch air strikes (AP)"
+/>
+<span class="inLineImageCaption">US aircraft have yet to start using Incirlik airbase, and the reason is that Turkey does not want US aircraft using it to launch air strikes (AP)</span>
+</span>
+</p><p>At the time of writing, US aircraft have not started using Incirlik and the reason is that Turkey does not want US aircraft using it to launch air strikes in support of the Syrian Kurds who have hitherto been America’s most effective military allies against Isis in Syria. The Syrian Kurdish ruling Democratic Union Party (PYD) and its determined and well-disciplined militia, the People’s Protection Units (YPG), successfully defended the city of Kobani (with US air support) during a 134-day siege by Isis. Since then, the PYD has linked up two of its enclaves just south of the Turkish frontier by capturing the Isis-held border crossing of Tal Abyad. Again the YPG was helped by frequent US air strikes. I was just east of Tal Abyad with the YPG in May, and there was scarcely a moment when I could not hear the sound of US aircraft overhead.</p><p>Turkey is now demanding that US planes based at Incirlik not be used in support of the PYD/YPG because they are the Syrian branch of the PKK which Turkey is busy trying to destroy with its own air campaign. But US bombing in Syria has mostly been in support of the YPG in the north-east of the country and against Isis-held oil and gas fields in other provinces. Possibly the US could continue to support the Syrian Kurds with aircraft that don’t operate from Incirlik, but using Turkish bases  would be a great advantage. And even the US’s ability to do this is in doubt if, as is intended, its single aircraft carrier in the Gulf, the USS Theodore Roosevelt, pulls out this autumn and is not replaced for several months.</p><h5>Read more: <a href="http://www.independent.co.uk/news/world/middle-east/turkeykurdish-conflict-president-erdogans-doubleedged-war-against-the-pkk-and-isis-brings-accusations-of-electioneering-10422726.html">Turkey's war on two fronts leads to electioneering claims</a><br><a href="http://www.independent.co.uk/news/world/middle-east/turkish-airstrikes-against-pkk-in-iraq-throw-twoyear-ceasefire-with-kurds-into-jeopardy-10416213.html">Turkish airstrikes against PKK throw two-year ceasefire into jeopardy</a><br><a href="http://www.independent.co.uk/news/world/middle-east/kurds-commit-to-turkish-peace-process-as-pkk-leader-announces-definitive-end-to-40yearlong-armed-struggle-with-the-state-10125301.html">PKK leader announces definitive end to '40-year-long struggle'</a></h5><p>Even if this dispute is ultimately resolved, it highlights the contradiction at the heart of US policy: Washington is teaming up with a Turkish government whose prime objective in Syria is to prevent the further expansion of PYD/YPG territory which already extends along 250 miles of the 550-mile-long Syrian-Turkish border. In brief, Ankara’s objective is the precise opposite of Washington’s and little different from that of Isis, which has been battling on the ground to hold back the PYD/YPG advance.</p><p>
+<div id="gallery-9783290" class="esi-gallery" data-galleryId="9783290"><a href="http://www.independent.co.uk/news/world/middle-east/in-pictures-fighting-between-kurds-and-isis-intensifies-in-kobani-9783290.html">In pictures: Fighting between Kurds and Isis intensifies in Kobani</a></div>
+ </p><p>A second point of difference  between the US and Turkey is over a plan to establish an Isis-free zone in an area between the Turkish border and Aleppo. This would close off Isis from Turkey, but who is to do it? Turkey says it is not going to commit ground troops. Public opinion in the US would likewise veto American involvement on the ground so its military pressure on Isis must entirely depend on its air power. The Turks and their allies in Saudi Arabia and Qatar would like to rebrand the Jabhat al-Nusra and Ahrar al-Sham, movements, whose beliefs and actions differ little from Isis, as born-again moderates. Jabhat al-Nusra, founded by Isis leader Abu Baqr al-Baghdadi in 2012 before splitting away, has decided attempts to start a “moderate” Syrian opposition military movement, in competition with itself, are best strangled at birth.</p><p>This sometimes happens even before birth, as was shown last week when al-Nusra abducted Nadeem Hassan, the leader of a small faction trained by the US after careful vetting. And last year, al-Nusra wiped out two groups, the Syrian Revolutionary Front and Harakat Hazm, who were being trained and supplied by the CIA as “a third force” opposed to both Assad and the extreme jihadis.</p><p>So far, Isis has not done too badly out of Turkey’s “game-changing” turn against it. Because of disagreement over aid to the Syrian Kurds, American warplanes have not yet started using Incirlik and, if and when they do, Isis will have had more than a week to change the disposition of its forces in preparation for a heavier air assault. If US aircraft based at Incirlik are forbidden to attack Isis fighters when they are battling either the Syrian Kurds or the Syrian army, the militants’ two main opponents on the ground, then they will be no worse off militarily than they were before. This may explain why Isis has responded so little to the US-Turkish agreement that is supposed to deal it a crippling blow. Close observers of the Syrian armed opposition in northern Syria say that it welcomes the Turkish attack on the PKK.</p><p>
+<span class="inline-image w460 leftAligned">
+<img src="http://www.independent.co.uk/incoming/article10432543.ece/alternates/w460/31-KPP-Fighters-Reuters.jpg"
+width="460"
+height="345"
+alt="Turkish jets are pounding sites occupied by the PKK (Kurdistan Workers Party) guerrillas in the Qandil Mountains and other parts of northern Iraq (Reuters)"
+title="Turkish jets are pounding sites occupied by the PKK (Kurdistan Workers Party) guerrillas in the Qandil Mountains and other parts of northern Iraq (Reuters)"
+/>
+<span class="inLineImageCaption">Turkish jets are pounding sites occupied by the PKK (Kurdistan Workers Party) guerrillas in the Qandil Mountains and other parts of northern Iraq (Reuters)</span>
+</span>
+</p><p>Were world leaders just a bit simple-minded or ill-informed when they congratulated Turkey on finally turning against Isis? Probably there is as much cynicism as naivety at work here since their intelligence services will have told them that Turkey has long been giving covert support to Isis and al-Nusra, the most important element of which was not closing the border. The main concern of European countries is the actions of their citizens who have joined Isis or al-Nusra and may return home to commit atrocities. Given this preoccupation, governments may calculate that whatever Turkey does or does not do, the Turkish-Syrian border will be more closely guarded in future.</p><p>But in terms of the stability of the region President Barack Obama may turn out to have made a poor deal with Turkey. It will not be a killer blow to Isis and may not even weaken it, but it will hit the Kurds who have been IS’s most resolute opponents. It will spread the violence stemming from the civil wars in Iraq and Syria into Turkey. And it will rekindle a Kurdish-Turkish civil war that had long been on the wane.</p><p>The game may have changed but peace is even further away. <span class="orangeFullstop"></span> </p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="x620 "
+>
+<div class="column-1">
+<div class="widget customGigya reaction widget-editable viziwyg-section-507 inpage-widget-8118035 voicesReaction reactionArticlePage voicesArticleLayout">
+<div class="header"><h3>React Now</h3></div>
+<script type="text/javascript">
+var reactionArray=[
+{ text: 'Strongly Agree',
+ID: 'stronglyagree',
+tooltip: 'Strongly Agree',
+feedMessage: 'Strongly Agree!',
+headerText: 'You strongly agree',
+openGraphAction: 'strongly_agree',
+gameMechanicsAction: 'strongly_agree'
+},
+{ text: 'Agree',
+ID: 'agree',
+tooltip: 'Agree',
+feedMessage: 'Agree!',
+headerText: 'You agree',
+openGraphAction: 'agree',
+gameMechanicsAction: 'agree'
+},
+{ text: 'Don\'t care',
+ID: 'dontcare',
+tooltip: 'Don\'t Care',
+feedMessage: 'Don\'t Care!',
+headerText: 'You don\'t care',
+openGraphAction: 'dont_care',
+gameMechanicsAction: 'dont_care'
+},
+{ text: 'Disagree',
+ID: 'disagree',
+tooltip: 'Disagree',
+feedMessage: 'Disagree!',
+headerText: 'You disagree',
+openGraphAction: 'disagree',
+gameMechanicsAction: 'disagree'
+},
+{ text: 'Strongly Disagree',
+ID: 'stronglydisagree',
+tooltip: 'Strongly Disagree',
+feedMessage: 'Strongly Disagree!',
+headerText: 'You strongly disagree',
+openGraphAction: 'strongly_disagree',
+gameMechanicsAction: 'strongly_disagree'
+}
+];
+</script>
+<div class="reaction-container">
+<div class="reaction-box">
+<div id="reactionBar-609-10432524-taglib"></div>
+</div>
+<div id="openGraphStatus-609-10432524-taglib"></div>
+<script type="text/javascript">
+var action_customGigya_609_10432524_taglib = new gigya.socialize.UserAction(); action_customGigya_609_10432524_taglib.setLinkBack("http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html");
+action_customGigya_609_10432524_taglib.setTitle("Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis");
+var context_action_customGigya_609_10432524_taglib = {
+articleUrl:'http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html',
+fbAppNameSpace:'the-independent',
+openGraphStatusMessage : 'openGraphStatus-609-10432524-taglib'
+};
+var showReactionsBarUI_params_609_10432524_taglib=
+{ barID: 'barID_reactionBar-609-10432524-taglib',
+showCounts: 'top',
+containerID: 'reactionBar-609-10432524-taglib',
+reactions: reactionArray,
+userAction: action_customGigya_609_10432524_taglib,
+promptShare: false,
+showSuccessMessage: true,
+noButtonBorders: false,
+multipleReactions : false,
+onReactionClicked : EVS.reactionClickEventResponse,
+context : context_action_customGigya_609_10432524_taglib
+};
+gigya.socialize.showReactionsBarUI(showReactionsBarUI_params_609_10432524_taglib);
+</script>
+</div>
+<div class="socialShareButtons-container">
+<div class="social-box">
+<div class="facebook-container socialwidget">
+<!--[if !IE 7]><!-->
+<fb:send class="fbsend" href="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html" font="" send="true"></fb:send>
+<!--<![endif]-->
+<!--[if IE 7]>
+<style>
+.fb_share{
+float:left;
+margin-right:10px;
+}
+</style>
+<a name="fb_share" class="fb_share"></a>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"
+type="text/javascript">
+</script>
+<![endif]-->
+<fb:like class="fblike" layout="button_count" href="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html" action="recommend"></fb:like>
+</div>
+<div class="tweeter-container socialwidget">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis" data-url="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html" data-via="IndyVoices"/>Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="inshare-container socialwidget">
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+<script type="IN/share" data-url="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html" data-source="Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis" data-counter="right"></script>
+</div>	<div class="googleplus-container socialwidget">
+<div class="g-plusone" data-size="medium" data-action="share" data-href="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html"></div>
+</div>	</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8687249 voicesReaction reactionArticlePage voicesArticleLayout componentdiv2-voices-ctr" >
+<div id="componentdiv2-voices" class="gigya-share-btns article-end"></div>
+<script type="text/javascript">
+var act_gigya2 = new gigya.socialize.UserAction();
+// Configure sharebar using the Open Graph meta
+act_gigya2.setTitle($("meta[property='og:title']").attr("content"));
+act_gigya2.setDescription($("meta[property='og:description']").attr("content"));
+act_gigya2.addMediaItem({ type: 'image', src: $("meta[property='og:image']").attr("content"), href: act_gigya2.permalink });
+var showShareBarUI_params=
+{ userAction: act_gigya2,
+shortURLs: 'never',
+containerID: 'componentdiv2-voices',
+showTooltips: true,
+showCounts: 'none',
+iconsOnly: true,
+shareButtons: [
+{
+provider:'facebook',
+tooltip:'Share on Facebook',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/facebook.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/facebookRoll.png'
+},
+{ provider:'twitter',
+tooltip:'Share on Twitter',
+via: 'Independent',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/twitter.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/twitterRoll.png'
+},	{
+provider:'googleplus',
+tooltip:'Share on Google+',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/google.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/googleRoll.png'	},
+{
+provider:'LinkedIn',
+tooltip:'Share on LinkedIn',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/linkedin.png',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/linkedinRoll.png'	},
+{
+provider:'reddit',
+tooltip:'Share on Reddit',
+enableCount:'false',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/reddit.png?ver=1a',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/redditRoll.png?ver=1a'	},
+{
+provider:'share',
+tooltip:'Share',
+iconImgUp: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/share2.png?ver=1a',
+iconImgOver: 'http://www.independent.co.uk/independent.co.uk/assets/images/share-btns/share2Roll.png?ver=1a'
+}
+]
+}
+gigya.socialize.showShareBarUI(showShareBarUI_params);
+</script>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8829493 OutbrainBorder" id="outbrain-below-article">
+<!--<div class="OUTBRAIN" data-src="" data-widget-id="AR_4" data-ob-template="TheIndependent" ></div>
+<script type="text/javascript">
+var indepOBPermalink = location.protocol + '//' + 'www.independent.co.uk' + location.pathname ;
+OB_elements = [
+{
+containerId : "ob_theIndependent1",
+permalink : indepOBPermalink,
+widgetId : "AR_4"
+}
+]; (function() {
+var ob = document.createElement("script");ob.type = "text/javascript"; ob.async = true;
+ob.src = "http://widgets.outbrain.com/outbrain.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ob, s);
+})();
+require(['modules/outbrain.functions'], function(obFunc) {
+obFunc.hideInArticleGoogleAds('.googleadInpage', '.articleContent .body', '#outbrain-below-article', 180);
+});
+</script>-->
+<!--<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-a',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails',
+target_type: 'mix'
+});
+</script>-->
+<style>
+#taboola-below-article-thumbnails, #taboola-below-article-thumbnails-2nd {
+max-width: 480px;
+float: right;
+clear:both;
+}
+</style>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-b',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails - Voices',
+target_type: 'mix'
+});
+</script>
+</div>
+<div class="x620 voicesArticleLayout ads"
+>
+<div class="column-1">
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8594170 OutbrainBorder" >
+<!--<div id="ob_theIndependent1" data-ob-template="TheIndependent" class="OBR"></div>
+<div id="ob_theIndependent2" data-ob-template="TheIndependent" class="OBR"></div>
+<div id="ob_theIndependent3" data-ob-template="TheIndependent" class="OBR"></div>
+<script type="text/javascript">
+var indepOBPermalink = location.protocol + '//' + location.hostname + location.pathname ;
+OB_elements = [
+{
+containerId : "ob_theIndependent1",
+permalink : indepOBPermalink,
+widgetId : "AR_1"
+},{
+containerId : "ob_theIndependent2",
+permalink :indepOBPermalink,
+widgetId : "AR_2"
+},{
+containerId : "ob_theIndependent3",
+permalink : indepOBPermalink,
+widgetId : "AR_3"
+},{
+containerId : "ob_theIndependent4",
+permalink : indepOBPermalink,
+widgetId : "SB_1"
+}
+]; (function() {
+var ob = document.createElement("script");ob.type = "text/javascript"; ob.async = true;
+ob.src = "http://widgets.outbrain.com/outbrain.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ob, s);
+})();
+</script>-->
+<!--<div id="taboola-below-article-thumbnails-2nd"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'organic-thumbnails-a',
+container: 'taboola-below-article-thumbnails-2nd',
+placement: 'Below Article Thumbnails 2nd',
+target_type: 'text'
+});
+</script>-->
+<div id="taboola-below-article-thumbnails-2nd"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'organic-thumbnails-a',
+container: 'taboola-below-article-thumbnails-2nd',
+placement: 'Below Article Thumbnails - Voices 2nd',
+target_type: 'mix'
+});
+</script>
+</div>
+<div class="x620 "
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9254699" >
+<script>
+var gigyaDebatesLogin = function(data) {
+if (data.user.UID=='') {
+$('#debateCommentStream .postComment').live('click',function() {
+if (!$('body').hasClass('loggedInGigya')) {
+gigya.accounts.showScreenSet({screenSet:'Short-login-web',onAfterSubmit:redirectGigyaDebate});
+$('.gigya-screen input[name="username"]').focus();
+}
+});
+}
+};
+var redirectGigyaDebate = function(e) {
+$('body').addClass('loggedInGigya');
+};
+$('#debateCommentStream_postCommentFor,#debateCommentStream_postCommentAgainst').live('click',function() { $(this).css('background','white'); });
+gigya.socialize.getUserInfo({callback:gigyaDebatesLogin});
+</script>
+<script>
+$(document).ready(function() {
+$('#gigyacomment_thread-loginDropdown').live('click',function() {
+gigya.accounts.showScreenSet({screenSet:'Short-Login-web'});
+});
+$('#gigya-complete-registiration-screen form.gigya-profile-form').live('submit',function(e) {
+console.log('form submittion - sub2');
+var valFirstname = $('#gigya-complete-registiration-screen input[name="profile.firstName"]').val();
+var valLastname = $('#gigya-complete-registiration-screen input[name="profile.lastName"]').val();
+var valEmail = $('#gigya-complete-registiration-screen input[name="email"]').val();
+if (valFirstname != '' && valLastname != '' && valEmail != '') {
+S2Tech_StoreRegistrationData(valFirstname, valLastname, valEmail);
+}
+});
+});
+</script>
+</div>
+<script type="text/javascript">
+ind.gigya = {};
+ind.gigya.comments = {};
+ind.gigya.commentChunkSize = 150;
+ind.gigya.commentReplyLimit = 2; ind.gigya.indyVoicesTwitterAccount = 'IndyVoices';
+//IND-ES1024 (Sorting Comments) added the global javascript variable for setting the default sort order set through CMS
+ind.gigya.commentSortOrder = "dateDesc";
+//IND-ES1040 - Notifying users of replies to their comments as per their selection. For existing ones check their user options and accordingly set the value in the newsletter preferences.
+// Constructing a UserAction Object
+ind.gigya.comments.userActionObj = new gigya.socialize.UserAction();
+ind.gigya.comments.userActionObj.setTitle("Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis"); // Setting the Title
+ind.gigya.comments.userActionObj.setLinkBack("http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html"); // Setting the Link Back
+</script>
+<div class="comment-formatting-btn-link" id="anchor-href-comment">
+<label for="anchor-href">Enter URL:</label>
+<input type="text" name="anchor-href" value="http://" placeholder="Enter URL:" />
+</div>
+<div class="comment-formatting-btn-link" id="anchor-href-reply">
+<label for="anchor-href">Enter URL:</label>
+<input type="text" name="anchor-href" value="http://" placeholder="Enter URL:" />
+</div>
+<script type="text/javascript" src="http://www.independent.co.uk/js/jquery.selection.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/comments-util.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/singleCommentStreamTemplates.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/single-comments.js"></script>
+<div id="commentReference" class="widget customGigya comments widget-editable viziwyg-section-507 inpage-widget-8118033 voicesSingleComment">
+<script type="text/javascript">
+function onSiteLoginHandlerForSingleCommentUI(event) { $('#login-link').trigger('click');
+EVS.gigyaLoginFormCaller = 'commentLogin';
+};
+var params = { categoryID: 'ArticleComments', enabledProviders: 'facebook,twitter,linkedin,yahoo,messenger', streamID: '10432524', containerID: 'singleCommentHeader', useSiteLogin: true, onSiteLoginClicked: onSiteLoginHandlerForSingleCommentUI, cid:''
+}
+ind.gigya.comments.showSingleCommentsUI(params);
+</script>
+<div id="singleCommentHeader" ></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="side">
+<div class="x300 searchRow"
+>
+<div class="column-1">
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox"
+>
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get"
+onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input type="hidden" name="destinationSectionUniqueName" value="search" />
+<input type="hidden" name="publicationName" value="ind" />
+<input type="hidden" name="sortString" value="publishdate" />
+<input type="hidden" name="sortOrder" value="desc" />
+<input type="hidden" name="sectionId" value="506" />
+<input type="hidden" name="articleTypes" value="news" />
+<input type="hidden" name="pageNumber" value="1" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="1" />
+<input type="hidden" name="startYear" value="2010" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="useHideArticle" value="true" />
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input type="text" name="searchString" value="" class="field" />
+<input type="submit" value="Go" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+$(function() {
+$("#simpleSearch-5054704 .field").autocomplete({
+source: ajaxCall ,
+delay: 2000.00,
+close: function(event, ui) {
+$("#simpleSearch-5054704 .field").autocomplete("option", "delay", 500.00);
+},
+select: function(event, ui) {
+var articleId = ui.item.id;
+openLink('http://www.independent.co.uk/eceRedirect?articleId=' + articleId, '_self');
+}
+});
+});
+function ajaxCall(request, response) {
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?~_";
+var term = $.trim(request.term.toLowerCase());
+var wordCount = term.split(" ").length;
+if (term.length > 0 && iChars.indexOf(term.charAt(0)) == -1) {
+var param = "(" + term + "*) publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+else{
+$("#simpleSearch-5054704 .field").autocomplete("close");
+}
+if (wordCount > 1 && responseCount == 0) {
+param = "(" + term + ") publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+}
+})
+}
+}
+})
+}
+else if (term.length > 0 && iChars.indexOf(term.charAt(0)) != -1) {
+$("#simpleSearch-5054704 .field").autocomplete("close");
+alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
+}
+}
+</script>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/" >
+<span>Advanced search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/" >
+<span>Article archive </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topics/" >
+<span>Topics </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9585175" >
+<script>
+$(document).ready(function () {
+$.ajax({
+dataType: "json",
+url: "http://i100.independent.co.uk/feed/",
+error: function (e) {
+console.log('i100');
+console.log(e);
+},
+success: function (e) {
+$.each(e['articles'], function (e, t) {
+var imageUrl = '';
+for (var i=0;i<t.images.length;i++) {
+if (t.images[i].type == 'thumbnail') {
+imageUrl = t.images[i].url;
+break;
+}
+}
+$("#i100-list").append("<div class='i100-item card-" + t.category + "'><div class='i100-img'><a href='"+t.displayURL+"?utm_source=indy&utm_medium=top5&utm_campaign=i100' target='_blank'><img src='"+ imageUrl +"' width='70px'/></a></div><div class='i100-txt'><div class='i100-byline'><a href='"+t.displayURL +"?utm_source=indy&utm_medium=top5&utm_campaign=i100' target='_blank'><span class='i100-count'>"+(e+1)+"</span><a href='"+t.displayURL +"?utm_source=indy&utm_medium=top5&utm_campaign=i100' target='_blank'><span class='i100-headline'>"+ t.headline +"</span></a></div>");
+});
+}
+});
+});
+</script>
+<style>
+/*@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);*/
+.i100-img {
+position: relative;
+float: left;
+width: 70px;
+padding: 5px;
+margin-bottom: 4px;
+max-height: 60px;
+overflow: hidden;
+}
+#i100-wrap {position:relative;width:299px;border:1px solid #ccc;background:#d0d2d5;}
+#i100-list {position:relative;width:300px;margin-top:4px;padding-bottom:4px;}
+.i100-item {position:relative;width:270px;border:1px solid #ccc;margin:0 auto 5px;padding:4px;border-left:3px solid #b80000;-webkit-box-shadow: 0 2px 3px 0 #aaa;
+box-shadow: 0 2px 3px 0 #aaa;background:#fff;}
+.i100-item:hover {background:#e9e9e9;}
+.i100-item:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.i100-item.card-discover {border-left:3px solid #ed1b2f;}
+.i100-item.card-news {border-left:3px solid #e67e22;}
+.i100-item.card-people {border-left:3px solid #f1c40f;}
+.i100-item.card-videos {border-left:3px solid #57d68d;}
+.i100-item.card-sport {border-left:3px solid #40a9ef;}
+.i100-item.card-tech {border-left:3px solid #3f57ec;}
+.i100-item.card-offbeat {border-left:3px solid #9b2fc7;}
+.i100-item.card-ents {border-left:3px solid #d43998;}
+.i100-img {position:relative;float:left;width:60px;padding:5px;}
+.i100-txt {position:relative;float:right;width:180px;padding:0 3px 5px 7px;font-family:Georgia,"Times New Roman",Serif;text-align:left;}
+.i100-txt a {color:#000;text-decoration:none;}
+.i100-count {color:#ec1b2e;font-size:19px;padding-right:4px;line-height: 27px;font-family: 'Roboto Slab', serif;}
+.i100-headline {font-family: 'Roboto Slab', serif; font-size:12px;}
+</style>
+<div id="i100-wrap">
+<a href="http://i100.independent.co.uk/?utm_source=indy&utm_medium=top5logo&utm_campaign=i100" target="_blank"><img src="http://www.independent.co.uk/independent.co.uk/editorial/images/i100-header3.png" alt="Latest stories from i100"></a>
+<div id="i100-list"></div>
+</div>
+</div>
+<div class="x300 "
+>
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643779" >
+<div id="mpu">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("mpu"); });
+</script>
+</div>
+</div>
+<div class="tabbingGroup voices"
+id="voices.mmm"
+>
+<div id="tabs-1" class="defaultTab">
+<ul class="tabs">
+<li id="tabs-1-1">
+<a href="#tabs-1-1" class="tabMenuItem" >
+<span>New</span></a>
+</li>
+<li id="tabs-1-2">
+<a href="#tabs-1-2" class="tabMenuItem" >
+<span>Hot</span></a>
+</li>
+<li id="tabs-1-3">
+<a href="#tabs-1-3" class="tabMenuItem" >
+<span>Commented</span></a>
+</li>
+</ul>
+<div class="tabPanes">
+<div class="tabPane">
+<div class="widget stories custom widget-editable viziwyg-section-507 inpage-widget-8118055 noPrint voicesNewClass1 " >
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w80 -->
+<div class="article news Voices-home first default " >
+<span class="puff-header">Voices</span>
+<div class="text text-top ">
+<h3>
+<a href="http://www.independent.co.uk/voices/comment/number-of-urban-seagulls-in-britain-nearly-quadruples-hide-food-and-avoid-chicks-to-stay-in-gulls-good-books-10431904.html" class=" title">
+Number of urban seagulls in Britain nearly quadruples: Hide food and avoid chicks to stay in gulls’ good books
+</a>
+</h3>
+</div>
+<a class="author">
+</a>
+</div>
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w80 -->
+<div class="article news Voices-home default " >
+<span class="puff-header">Voices</span>
+<div class="text text-top ">
+<h3>
+<a href="http://www.independent.co.uk/voices/comment/blairites-be-warned-this-could-be-the-moment-labour-turns-into-syriza-10431095.html" class=" title">
+Blairites be warned, this could be the moment Labour turns into Syriza
+</a>
+</h3>
+</div>
+<a class="author">
+</a>
+</div>
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w80 -->
+<div class="article news Voices-home default " >
+<span class="puff-header">Voices</span>
+<div class="text text-top ">
+<h3>
+<a href="http://www.independent.co.uk/voices/comment/weekend-optout-is-stumbling-block-as-bma-and-nhs-negotiate-new-consultant-and-junior-doctor-contracts-10431852.html" class=" title">
+Weekend opt-out is stumbling block as BMA and NHS negotiate new consultant and junior doctor contracts
+</a>
+</h3>
+</div>
+<a class="author">
+</a>
+</div>
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w80 -->
+<div class="article news Voices-home default " >
+<span class="puff-header">Voices</span>
+<div class="text text-top ">
+<h3>
+<a href="http://www.independent.co.uk/voices/comment/rupert-murdochs-private-meeting-with-george-osborne-the-mogul-always-likes-to-back-a-winner-10431838.html" class=" title">
+Rupert Murdoch&#039;s private meeting with George Osborne: The mogul always likes to back a winner
+</a>
+</h3>
+</div>
+<a class="author">
+</a>
+</div>
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w80 -->
+<div class="article news Voices-home default " >
+<span class="puff-header">Voices</span>
+<div class="text text-top ">
+<h3>
+<a href="http://www.independent.co.uk/voices/comment/who-are-the-radical-rabbis-inspiring-israels-most-violent-jewish-settlers-10431658.html" class=" title">
+Who are the radical rabbis inspiring Israel’s most violent Jewish settlers?
+</a>
+</h3>
+</div>
+<a class="author">
+</a>
+</div>
+</div>
+</div>
+<div class="tabPane">
+</div>
+<div class="tabPane">
+<div class="widget webAnalytics gigya widget-editable viziwyg-section-507 inpage-widget-8118058 voicesCommented" id="VoicesCommentedId">
+<ul id="mostCommentedListId">
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$("#tabs-1 > ul.tabs").tabs("#tabs-1 > div.tabPanes > div.tabPane", {
+current: 'current',
+effect: 'default',
+event: 'click',
+initialIndex : 0
+});
+});
+//]]>
+</script>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643724" >
+<div id="partnersmall">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("partnersmall"); });
+</script>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643780" >
+<div id="skyscrapper">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("skyscrapper"); });
+</script>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-10072028 border-bottom" >
+<!--<div id="ob_theIndependent4" data-ob-template="TheIndependent" class="OBR"></div>-->
+<!--<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-rr',
+container: 'taboola-right-rail-thumbnails',
+placement: 'Right Rail Thumbnails',
+target_type: 'mix'
+});
+</script>-->
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-c',
+container: 'taboola-right-rail-thumbnails',
+placement: 'Right Rail Thumbnails - Voices',
+target_type: 'mix'
+});
+</script>
+<style>
+.inpage-widget-10072028 {padding-bottom:7px;}
+</style>
+</div>
+<div class="widget promo default widget-editable viziwyg-section-507 inpage-widget-8938796 ivPromo w380" id="picGal">
+<div class="ivPromo-title">
+<a href="http://www.independent.co.uk/voices/">
+<span class="ivPromo-title-logo"></span>
+</a>
+<div class="ivPromo-title-text"><p><a href="http://www.independent.co.uk/news/pictures/">independent images</a></p></div>
+</div>
+<div class="ivPromo-container">
+<div class="ivPromo-miniCarousel">
+<div class="mini-carouselConrtainer" id="mini-carouselConrtainer8938796">
+<div class="carousel1 fullWidth voicescarousel" >
+<a href="http://www.independent.co.uk/news/pictures/calais-crisis-intensifies--in-pictures-10427195.html"><img width="300" height="199" title="French gendarmes try to separate migrants on the Eurotunnel site near the boarding docks in Coquelles near Calais" alt="French gendarmes try to separate migrants on the Eurotunnel site near the boarding docks in Coquelles near Calais" src="http://www.independent.co.uk/incoming/article10427182.ece/alternates/w300/FrenchGendarmes.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/calais-crisis-intensifies--in-pictures-10427195.html">Calais Border crisis</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel2 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/incoming/bristol-upfest-2015--in-pictures-10422240.html"><img width="300" height="225" title="Bristol Upfest 2015" alt="" src="http://www.independent.co.uk/incoming/article10422305.ece/alternates/w300/Bristol%207.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/incoming/bristol-upfest-2015--in-pictures-10422240.html">Bristol Upfest 2015</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel3 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/life-style/fashion/features/the-gay-beards-a-duo-decorates-beards-with-flowers-glitter-and-food-10410335.html"><img width="300" height="225" title="The Gay Beards" alt="" src="http://www.independent.co.uk/incoming/article10409912.ece/alternates/w300/beards8.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/life-style/fashion/features/the-gay-beards-a-duo-decorates-beards-with-flowers-glitter-and-food-10410335.html">The Gay Beards</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel4 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/arts-entertainment/photography/beautiful-landscape-photographs-you-wish-youd-taken-go-on-show-at-londons-mall-galleries-10410911.html"><img width="300" height="206" title="Light and Land Photography Exhibition  " alt="" src="http://www.independent.co.uk/incoming/article10407354.ece/alternates/w300/light-land-2.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/arts-entertainment/photography/beautiful-landscape-photographs-you-wish-youd-taken-go-on-show-at-londons-mall-galleries-10410911.html">Light and Land photography</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel5 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/suruc-suicide-attack--in-pictures-10404512.html"><img width="300" height="240" title="People search for survivors of the bomb blast in Suruc, Turkey" alt="" src="http://www.independent.co.uk/incoming/article10402135.ece/alternates/w300/AN75802469People%20search%20for.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/suruc-suicide-attack--in-pictures-10404512.html">Suruc suicide attack</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel6 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/riots-in-greece--in-pictures-10393241.html"><img width="300" height="225" title="Riot policemen try to avoid an exploding petrol bomb during clashes" alt="Riot policemen try to avoid an exploding petrol bomb during clashes" src="http://www.independent.co.uk/incoming/article10392408.ece/alternates/w300/greece-riots-14.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/riots-in-greece--in-pictures-10393241.html">Riots in Greece</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel7 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/news-in-pictures-8926832.html"><img width="300" height="225" title="31 July 2015: Striking employees of the My Ferry Link company block the access to the harbour after setting tyres on fire in Calais, following the failure of negotiations with French government concerning job cuts" alt="31 July 2015: Striking employees of the My Ferry Link company block the access to the harbour after setting tyres on fire in Calais, following the failure of negotiations with French government concerning job cuts" src="http://www.independent.co.uk/incoming/article10430126.ece/alternates/w300/calais-7.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/news-in-pictures-8926832.html">World news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel8 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/uk-news-in-pictures-8926843.html"><img width="300" height="225" title="31 July 2015: Hot air balloons fly above Bristol city centre in the run-up to the Bristol International Balloon Fiesta, which will see hundreds of balloonists congregate over the Bristol and Somerset skies for four days of balloon festivities and flying" alt="31 July 2015: Hot air balloons fly above Bristol city centre in the run-up to the Bristol International Balloon Fiesta, which will see hundreds of balloonists congregate over the Bristol and Somerset skies for four days of balloon festivities and flying" src="http://www.independent.co.uk/incoming/article10431156.ece/alternates/w300/britain-in-pic-1.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/uk-news-in-pictures-8926843.html">UK news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel9 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/arts--ents-news-in-pictures-9106970.html"><img width="300" height="225" title="31 July 2015: Black suited and top hat wearing teenagers from Newington College peer through telescopes as they form the human installation The Search for Happiness on Coogee Beach in Sydney, Australia. Surrealist artist, Andrew Baines collaborated with Newington College for his latest surreal event" alt="31 July 2015: Black suited and top hat wearing teenagers from Newington College peer through telescopes as they form the human installation The Search for Happiness on Coogee Beach in Sydney, Australia. Surrealist artist, Andrew Baines collaborated with Newington College for his latest surreal event" src="http://www.independent.co.uk/incoming/article10430729.ece/alternates/w300/art.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/arts--ents-news-in-pictures-9106970.html">Arts + Ents news in pictures </a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel10 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/sport/sport-in-pictures-8940102.html"><img width="300" height="225" title="31 July 2015: People celebrate following the announcement that Beijing will host the 2022 Winter Olympics at a gathering outside the Beijing Olympic Stadium, also known as the Birds Nest. Beijing was selected to host the 2022 Winter Olympics, becoming the first city awarded both the winter and summer games" alt="31 July 2015: People celebrate following the announcement that Beijing will host the 2022 Winter Olympics at a gathering outside the Beijing Olympic Stadium, also known as the Birds Nest. Beijing was selected to host the 2022 Winter Olympics, becoming the first city awarded both the winter and summer games" src="http://www.independent.co.uk/incoming/article10431264.ece/alternates/w300/sport-1.jpg" /></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/sport/sport-in-pictures-8940102.html">Sport news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carouselNav">
+<ul>
+<li class="prev pointer carouselHidden">&lt; Previous</li>
+<li class="disable carouselNavList_1">1</li>
+<li class="disable carouselNavList_2">2</li>
+<li class="disable carouselNavList_3">3</li>
+<li class="disable carouselNavList_4">4</li>
+<li class="disable carouselNavList_5">5</li>
+<li class="disable carouselNavList_6">6</li>
+<li class="disable carouselNavList_7">7</li>
+<li class="disable carouselNavList_8">8</li>
+<li class="disable carouselNavList_9">9</li>
+<li class="disable carouselNavList_10">10</li>
+<li class="next pointer">Next &gt;</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+var carousel8938796 = new VoicesCarousel("mini-carouselConrtainer8938796", true, 4000);
+carousel8938796.miniCarousel();
+});
+</script>
+</div>
+</div>
+<a href="http://www.independent.co.uk/marketing/apps/?icn=ipad-top-side"><img style="padding-bottom:10px!important;" src="http://www.independent.co.uk/independent.co.uk/assets/images/Independent_apps_puff600x220.gif?v4" width="300" border="0" alt="Have you tried new the Independent Digital Edition apps?" title="The Independent Digital Edition apps"></a>
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643727" >
+<div id="partner300x250_1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("partner300x250_1"); });
+</script>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9366209" >
+<style type="text/css">
+.spons-features .commercial-title {
+font-family: arial, sans-serif;
+margin-top: 10px;
+margin-bottom: 5px;
+font-size: 11px;
+}
+</style>
+<div class="spons-features">
+<div id="commercial-header">
+<h6 class="commercial-title">SPONSORED FEATURES</h6>
+</div>
+<div class="cc-items">
+<div class="cc-item">
+<a href="http://www.standard.co.uk/goingout/summercycling/santanders-summer-of-cycling-kicks-off-with-private-bike-tours-at-the-science-museum-10424580.html">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/sciencemuseum.jpg" /></a>
+</div>
+<div class="cc-item">
+<a href="http://www.standard.co.uk/goingout/summercycling/have-a-right-royal-tour-of-londons-parks-10392452.html">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/Royal%20tour.jpg"></a>
+</div>
+<div class="cc-item">
+<a href="http://www.independent.co.uk/student/shu/the-research-students-improving-our-world-while-gaining-a-qualification-10426592.html">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/postgradstudents.jpg?wefihe" /></a>
+</div>
+<div class="cc-item">
+<a href="http://www.standard.co.uk/goingout/summercycling/the-wheelie-fun-way-to-see-london-10408084.html">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/TFLwheelie%20fun.jpg" /></a>
+</div>
+<div class="cc-item">
+<a href="http://www.independent.co.uk/life-style/food-and-drink/solthinking/its-the-wood-that-makes-all-the-difference-10393360.html">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/Jimguitar.jpg?efsdg" /></a>
+</div>
+<div class="cc-item">
+<a href="http://www.standard.co.uk/shopping/shoplondon/video-ben-hanlin-on-carnaby-street-style-and-selfies-with-kim-kardashian-10323663.html?icn_specsavers_benhanlin_sf&icn=INDsponFeatures">
+<img src="http://www.independent.co.uk/independent.co.uk/commercial/sponsoredfeatures/specsavers_benhanlin.jpg" /></a>
+</div>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8657875 border-bottom" >
+<style>/*This will add border bottoms on widgets that is difficult to apply the css */</style>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643730 partnerAd, border-bottom" >
+<div id="partner300x250_2">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("partner300x250_2"); });
+</script>
+</div>
+</div>
+<div class="widget stories fulllist widget-editable viziwyg-section-507 inpage-widget-8118193 voicesFullList " >
+<span>More From</span><h5>Patrick Cockburn</h5>
+<ul>
+<li class="first">
+<p>
+<a href="http://www.independent.co.uk/voices/commentators/only-iraqs-clerics-can-win-against-isis-10399024.html">
+Only Iraq&#039;s clerics can win against Isis
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/news/world/middle-east/isis-the-power-in-iraq-speaks--and-tells-iraqs-neighbours-to-close-borders-to-foreign-fighters-10397945.html">
+Isis: The real power in Iraq tells its neighbours to close borders to foreign fighters
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/news/world/middle-east/on-the-front-line-of-the-war-against-isis-joint-action-by-us-and-iran-has-never-felt-closer-10391625.html">
+On front line of the war against Isis, joint action by US and Iran has never felt closer
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/news/world/middle-east/isis-in-iraq-thousands-of-shia-militiamen-to-join-decisive-battle-to-take-back-fallujah--but-lack-of-experience-risks-heavy-casualties-10386501.html">
+Isis in Iraq: Thousands of Shia militiamen to join decisive battle to take back Fallujah – but lack of experience risks heavy casualties
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/voices/comment/we-can-all-get-by-quite-well-without-banks--ireland-managed-to-survive-without-them-10382975.html">
+We can all get by quite well without banks - Ireland managed to survive without them
+</a>
+</p>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+var googleChannelId = '6546546544';
+var googleClientId = 'ca-pub-5964551156905038';
+var googleOutput = 'js';
+var googleAdType = 'text';
+var googleAdsenseUrl = 'http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js';
+var googleShowAdsUrl = 'http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js';
+var googleMaxNumAds = '4';
+var ordValue = '284144021';
+</script>
+<div class="widget ad google widget-editable viziwyg-section-1024 inpage-widget-6278879 googlead" id="fullwidth">
+<script type="text/javascript">
+if (typeof hidePageAds == 'undefined') {
+google_ad_channel = googleChannelId+'+5258566634';
+google_ad_client = googleClientId;
+google_ad_output = googleOutput;
+google_max_num_ads = googleMaxNumAds;
+google_ad_type = googleAdType;
+document.write('<'+'sc'+'ript type= "text/javascript" src='+googleAdsenseUrl+'><\/'+'sc'+'ript>');
+document.write('<'+'sc'+'ript type= "text/javascript" src='+googleShowAdsUrl+'><\/'+'sc'+'ript>');
+}
+</script>
+</div>
+</div>
+</div>
+<div class="x300 iJobs-ctr greyRulerBottom"
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7998974" >
+<div class="iJobs-head">
+<a href="http://ijobs.independent.co.uk/" target="_blank"><img src="http://www.independent.co.uk/independent.co.uk/images/logo-jobsSm.gif" alt="iJobs Job Widget"></a>
+</div>
+</div>
+<div class="widget feed rssFull widget-editable viziwyg-section-507 inpage-widget-7999062 iJobs" >
+<div class="header">
+<h5>iJobs General</h5>
+</div>
+<div class="content">
+<div class="article first">
+<h3><a href="http://ijobs.independent.co.uk/job/90805/project-assistant-/?TrackID=7" onclick="return openLink(this.href,'_blank')">Recruitment Genius: Project Assistant </a></h3>
+<p class="feedSummary">
+£17000 per annum:
+Recruitment Genius:
+They are a leading company in the field ...</p>
+</div>
+<div class="article ">
+<h3><a href="http://ijobs.independent.co.uk/job/90804/dba-developer-sql-server/?TrackID=7" onclick="return openLink(this.href,'_blank')">Recruitment Genius: DBA Developer - SQL Server</a></h3>
+<p class="feedSummary">
+£30000 - £35000 per annum:
+Recruitment Genius:
+This is an exciting opportunity...</p>
+</div>
+<div class="article ">
+<h3><a href="http://ijobs.independent.co.uk/job/90802/office-manager/?TrackID=7" onclick="return openLink(this.href,'_blank')">Recruitment Genius: Office Manager</a></h3>
+<p class="feedSummary">
+£26041 - £34876 per annum:
+Recruitment Genius:
+There has never been a more exc...</p>
+</div>
+<div class="article last">
+<h3><a href="http://ijobs.independent.co.uk/job/90799/travel-customer-service-and-experience-manager/?TrackID=7" onclick="return openLink(this.href,'_blank')">Recruitment Genius: Travel Customer Service and Experience Manager</a></h3>
+<p class="feedSummary">
+£14000 - £17000 per annum:
+Recruitment Genius:
+The fastest growing travel comp...</p>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7999051 iJobs-ftr" >
+<div class="iJobsLinks">
+<a href="http://j.mp/INYp5e" target="_blank">View the latest from iJobs</a>
+</div>
+<script type="text/javascript">
+$(function() {
+$('.iJobs-ctr .iJobs .content ul li a').bind('click', function () {
+var s=s_gi(s_account),
+ctrObj = $(this);
+s.linkTrackVars='prop41,prop42,prop43,events'; s.linkTrackEvents='event41';
+s.prop41=location.href;
+s.prop42=ctrObj.attr('href');
+s.prop43='General - iJobs';
+s.events='event41';
+s.tl(this,'o','iJobs - ' + location.hostname);
+});
+});
+</script>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1044 inpage-widget-6138615 dayInaPage" >
+<h2>Day In a Page</h2>
+</div>
+<div class="widget menu menuItem widget-editable viziwyg-section-1023 inpage-widget-6138569" >
+</div>
+<div class="widget archive form widget-editable viziwyg-section-1023 inpage-widget-6138560 arcForm" >
+<ul>
+<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=2&month=8&year=2015" title="Sun">Sun</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=27&month=7&year=2015" title="Mon">Mon</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=28&month=7&year=2015" title="Tue">Tue</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=29&month=7&year=2015" title="Wed">Wed</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=30&month=7&year=2015" title="Thu">Thu</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=31&month=7&year=2015" title="Fri">Fri</a></li>
+<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=1&month=8&year=2015" title="Sat">Sat</a></li>
+</ul>
+<div class="form">
+<form method="GET" action="http://www.independent.co.uk/dayinapage/">
+<fieldset>
+<select name="day" id="f_day">
+<option value="1" >1</option>
+<option value="2" selected="selected">2</option>
+<option value="3" >3</option>
+<option value="4" >4</option>
+<option value="5" >5</option>
+<option value="6" >6</option>
+<option value="7" >7</option>
+<option value="8" >8</option>
+<option value="9" >9</option>
+<option value="10" >10</option>
+<option value="11" >11</option>
+<option value="12" >12</option>
+<option value="13" >13</option>
+<option value="14" >14</option>
+<option value="15" >15</option>
+<option value="16" >16</option>
+<option value="17" >17</option>
+<option value="18" >18</option>
+<option value="19" >19</option>
+<option value="20" >20</option>
+<option value="21" >21</option>
+<option value="22" >22</option>
+<option value="23" >23</option>
+<option value="24" >24</option>
+<option value="25" >25</option>
+<option value="26" >26</option>
+<option value="27" >27</option>
+<option value="28" >28</option>
+<option value="29" >29</option>
+<option value="30" >30</option>
+<option value="31" >31</option>
+</select>
+<select name="month" id="f_month">
+<option value="1" >January</option>
+<option value="2" >February</option>
+<option value="3" >March</option>
+<option value="4" >April</option>
+<option value="5" >May</option>
+<option value="6" >June</option>
+<option value="7" >July</option>
+<option value="8" selected="selected">August</option>
+<option value="9" >September</option>
+<option value="10" >October</option>
+<option value="11" >November</option>
+<option value="12" >December</option>
+</select>
+<select name="year" id="f_year">
+<option value="1992" >1992</option>
+<option value="1993" >1993</option>
+<option value="1994" >1994</option>
+<option value="1995" >1995</option>
+<option value="1996" >1996</option>
+<option value="1997" >1997</option>
+<option value="1998" >1998</option>
+<option value="1999" >1999</option>
+<option value="2000" >2000</option>
+<option value="2001" >2001</option>
+<option value="2002" >2002</option>
+<option value="2003" >2003</option>
+<option value="2004" >2004</option>
+<option value="2005" >2005</option>
+<option value="2006" >2006</option>
+<option value="2007" >2007</option>
+<option value="2008" >2008</option>
+<option value="2009" >2009</option>
+<option value="2010" >2010</option>
+<option value="2011" >2011</option>
+<option value="2012" >2012</option>
+<option value="2013" >2013</option>
+<option value="2014" >2014</option>
+<option value="2015" selected="selected">2015</option>
+</select>
+<button type="submit">Go</button>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8687180" >
+<div id="onscrollmpu"></div>
+<script type="text/javascript">
+require(["onscroll"]);
+</script>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<div id="bottom">
+<div class="x940 "
+>
+<div class="column-1">
+</div>
+</div>
+<div class="x940 "
+>
+<div class="column-1">
+<div class="widget stories readNext widget-editable viziwyg-section-507 inpage-widget-8117926 " >
+<div class="readNextWidget" >
+<div class="readNextHeading">Read Next</div>
+<div class="readNextStories">
+<div class="content">
+<img class="readNextStoriesImage" src="http://www.independent.co.uk/incoming/article10431871.ece/alternates/w140/Seagulls-Getty.jpg" alt="A pack of seagulls squabble over discarded food left on the beach at St Ives on July 28, 2015" title="A pack of seagulls squabble over discarded food left on the beach at St Ives on July 28, 2015" width="140" height="105" />
+ 
+<p><a href="http://www.independent.co.uk/voices/comment/number-of-urban-seagulls-in-britain-nearly-quadruples-hide-food-and-avoid-chicks-to-stay-in-gulls-good-books-10431904.html">Number of urban seagulls in Britain nearly quadruples: Hide food and avoid chicks to stay in gulls’ good books</a></p>
+<span class="author">
+<img src="" alt="" title="" width="" height="" />
+<span class="name">Tom Bawden</span>
+</span>
+<script type="text/javascript">
+commentCountApiArray[commentCountApiArray.length] = {
+articleId:'10431904',
+catId:'ArticleComments',
+strId:'10431904',
+commentCountHolder:'commentCount-storiesWidget-readnext-8117926-10431904',
+commentCountWrapper:'commentWrapper-storiesWidget-readnext-8117926-10431904'
+};
+</script>
+<div class="commentsCount" id="commentWrapper-storiesWidget-readnext-8117926-10431904">
+<a href="http://www.independent.co.uk/voices/comment/number-of-urban-seagulls-in-britain-nearly-quadruples-hide-food-and-avoid-chicks-to-stay-in-gulls-good-books-10431904.html#commentReference">
+<span class="commentsNumber" id="commentCount-storiesWidget-readnext-8117926-10431904"></span>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="readNextWidget" >
+<div class="readNextStories">
+<div class="content">
+<img class="readNextStoriesImage" src="http://www.independent.co.uk/incoming/article10429022.ece/alternates/w140/GettyImages-480265324.jpg" alt="" title="" width="140" height="93" />
+ 
+<p><a href="http://www.independent.co.uk/voices/comment/blairites-be-warned-this-could-be-the-moment-labour-turns-into-syriza-10431095.html">Blairites be warned, this could be the moment Labour turns into Syriza </a></p>
+<span class="author">
+<img src="" alt="" title="" width="" height="" />
+<span class="name">Andrew Grice</span>
+</span>
+<script type="text/javascript">
+commentCountApiArray[commentCountApiArray.length] = {
+articleId:'10431095',
+catId:'ArticleComments',
+strId:'10431095',
+commentCountHolder:'commentCount-storiesWidget-readnext-8117926-10431095',
+commentCountWrapper:'commentWrapper-storiesWidget-readnext-8117926-10431095'
+};
+</script>
+<div class="commentsCount" id="commentWrapper-storiesWidget-readnext-8117926-10431095">
+<a href="http://www.independent.co.uk/voices/comment/blairites-be-warned-this-could-be-the-moment-labour-turns-into-syriza-10431095.html#commentReference">
+<span class="commentsNumber" id="commentCount-storiesWidget-readnext-8117926-10431095"></span>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="x940 "
+>
+<div class="column-1">
+<div class="widget filmstrip imagetext widget-editable viziwyg-section-1023 inpage-widget-5054673 greyRulerBottom greyRuler "
+>
+<a class="prev browse left"></a>
+<div id="filmstrip-5054673" class="scrollable h148"
+style="margin-left: 22.5px; margin-right: 22.5px; width: 815.0px;">
+<div class="items">
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/turkeykurdish-conflict-obamas-deal-with-ankara-is-a-betrayal-of-syrian-kurds-and-may-not-even-weaken-isis-10432524.html">
+<img alt="Turkey-Kurdish conflict: Obama's deal with Ankara is a betrayal of Syrian Kurds and may not even weaken Isis" src="http://www.independent.co.uk/incoming/article10432545.ece/alternates/w148/31-US-AirForce-AFP.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432545-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-1"/>
+</a>
+<div class="" id="div-caption-1">
+<h2 class="fs_title">US betrayal of old ally brings limited reward</h2> <div class="fs_body">Since the accord, the Turks have only waged war on Kurds while no US bomber has used Incirlik airbase, says Patrick Cockburn</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/africa/vips-gather-for-opening-of-secondsuez-canal--but-doubts-linger-over-security-10432675.html">
+<img alt="VIPs gather for opening of second Suez Canal - but doubts linger over security" src="http://www.independent.co.uk/incoming/article10432726.ece/alternates/w148/35-Cargo-Ship-Reuters.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432726-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-2"/>
+</a>
+<div class="" id="div-caption-2">
+<h2 class="fs_title">&#039;A gift from Egypt to the rest of the world&#039;</h2> <div class="fs_body">VIPs gather for opening of second Suez Canal - but is it really needed?</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/fashion/news/jeremy-corbyn-dresses-abysmally-thats-a-great-thing-because-its-genuine-10432737.html">
+<img alt="Jeremy Corbyn dresses abysmally. That's a great thing because it's genuine" src="http://www.independent.co.uk/incoming/article10432756.ece/alternates/w148/1-Corbyn-Rex.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432756-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-3"/>
+</a>
+<div class="" id="div-caption-3">
+<h2 class="fs_title">Jeremy Corbyn dresses abysmally. That&#039;s a great thing because it&#039;s genuine</h2> <div class="fs_body">Fashion editor, Alexander Fury, applauds a man who clearly has more important things on his mind</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/the-male-menopause-and-intimations-of-mortality-10432706.html">
+<img alt="The male menopause and intimations of mortality" src="http://www.independent.co.uk/incoming/article10425732.ece/alternates/w148/pg-32-male-menopause-RF-corbis.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10425732-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-4"/>
+</a>
+<div class="" id="div-caption-4">
+<h2 class="fs_title">Aches, pains and an inkling of mortality</h2> <div class="fs_body">So the male menopause is real, they say, but what would the Victorians, &#039;old&#039; at 30, think of that, asks DJ Taylor</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/books/features/man-booker-prize-2015-anna-smaill--how-can-i-possibly-be-on-the-list-with-these-writers-i-have-idolised-10432520.html">
+<img alt="Man Booker Prize 2015: Anna Smaill - How can I possibly be on the list with these writers I have idolised?" src="http://www.independent.co.uk/incoming/article10432551.ece/alternates/w148/24-Anna-Smaill-CFB.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432551-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-5"/>
+</a>
+<div class="" id="div-caption-5">
+<h2 class="fs_title">&#039;How can I possibly be on the list with these writers I have idolised?&#039;</h2> <div class="fs_body">Man Booker Prize nominee Anna Smaill on the rise of Kiwi lit</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/people/profiles/bettany-hughes-interview-the-historian-on-how-socrates-would-have-solved-greeces-problems-10428393.html">
+<img alt="Bettany Hughes interview: The historian on how Socrates would have solved Greece's problems" src="http://www.independent.co.uk/incoming/article10429101.ece/alternates/w148/BettanyHughes-Rex.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10429101-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-6"/>
+</a>
+<div class="" id="div-caption-6">
+<h2 class="fs_title">Bettany Hughes interview</h2> <div class="fs_body">The historian on how Socrates would have solved Greece&#039;s problems</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/art/news/pyongyang-propaganda-posters-to-be-exhibited-in-china-10432688.html">
+<img alt="Art of the state: Pyongyang propaganda posters to be exhibited in China" src="http://www.independent.co.uk/incoming/article10432628.ece/alternates/w148/32-Poster1.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432628-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-7"/>
+</a>
+<div class="" id="div-caption-7">
+<h2 class="fs_title">Art of the state</h2> <div class="fs_body">Pyongyang propaganda posters to be exhibited in China</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/books/features/the-haunting-of-shirley-jackson-was-the-gothic-authors-life-really-as-bleak-as-her-fiction-10428397.html">
+<img alt="The haunting of Shirley Jackson: Was the gothic author's life really as bleak as her fiction?" src="http://www.independent.co.uk/incoming/article10430711.ece/alternates/w148/5855638.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10430711-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-8"/>
+</a>
+<div class="" id="div-caption-8">
+<h2 class="fs_title">The haunting of Shirley Jackson</h2> <div class="fs_body"> Was the gothic author&#039;s life really as bleak as her fiction?</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/food-and-drink/features/bill-granger-recipes-heading-off-on-holiday-try-out-our-chefs-seasideinspired-dishes-10428395.html">
+<img alt="Bill Granger recipes: Heading off on holiday? Try out our chef's seaside-inspired dishes..." src="http://www.independent.co.uk/incoming/article10429141.ece/alternates/w148/v2BillGranger-PetrinaTinslay.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10429141-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-9"/>
+</a>
+<div class="" id="div-caption-9">
+<h2 class="fs_title">Bill Granger&#039;s seaside-inspired recipes</h2> <div class="fs_body">These dishes are so easy to make, our chef is almost embarrassed to call them recipes</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/cricket/ashes-2015-tourists-are-limp-leaderless-and-distinctly-unaustralian-10432878.html">
+<img alt="Ashes 2015: Tourists are limp, leaderless and distinctly UnAustralian" src="http://www.independent.co.uk/incoming/article10432829.ece/alternates/w148/4-Warner-Clarke-PA.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10432829-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-10"/>
+</a>
+<div class="" id="div-caption-10">
+<h2 class="fs_title">Tourists are limp, leaderless and distinctly UnAustralian</h2> <div class="fs_body">A woefully out-of-form Michael Clarke embodies his team&#039;s fragile Ashes campaign, says Michael Calvin</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/comment/blairites-be-warned-this-could-be-the-moment-labour-turns-into-syriza-10431095.html">
+<img alt="Blairites be warned, this could be the moment Labour turns into Syriza" src="http://www.independent.co.uk/incoming/article10429022.ece/alternates/w148/GettyImages-480265324.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10429022-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-11"/>
+</a>
+<div class="" id="div-caption-11">
+<h2 class="fs_title">Andrew Grice: Inside Westminster</h2> <div class="fs_body">Blairites be warned, this could be the moment Labour turns into Syriza </div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/uk/home-news/hms-victory-the-mystery-of-britains-worst-naval-disaster-is-finally-solved--271-years-later-10431814.html">
+<img alt="HMS Victory: The mystery of Britain's worst naval disaster is finally solved - 271 years later" src="http://www.independent.co.uk/incoming/article10431866.ece/alternates/w148/v2-Victory-sinking-(2).jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10431866-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-12"/>
+</a>
+<div class="" id="div-caption-12">
+<h2 class="fs_title">The mystery of Britain&#039;s worst naval disaster is finally solved - 271 years later</h2> <div class="fs_body">Exclusive: David Keys reveals the research that finally explains why HMS Victory went down with the loss of 1,100 lives</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/asia/survivors-of-the-nagasaki-atomic-bomb-attack-japan-must-not-abandon-its-postwar-pacifism-10431717.html">
+<img alt="Survivors of the Nagasaki atomic bomb attack: Japan must not abandon its post-war pacifism" src="http://www.independent.co.uk/incoming/article10431799.ece/alternates/w148/Nagasaki-1.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10431799-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-13"/>
+</a>
+<div class="" id="div-caption-13">
+<h2 class="fs_title">&#039;I saw people so injured you couldn&#039;t tell if they were dead or alive&#039;</h2> <div class="fs_body">Nagasaki survivors on why Japan must not abandon its post-war pacifism</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/americas/jon-stewart-the-voice-of-democrats-who-felt-obama-had-failed-to-deliver-on-his-yes-we-can-slogan-and-the-voter-he-tried-hardest-to-keep-onside-10431473.html">
+<img alt="Jon Stewart: The voice of Democrats who felt Obama had failed to deliver on his 'Yes We Can' slogan, and the voter he tried hardest to keep onside" src="http://www.independent.co.uk/incoming/article10431488.ece/alternates/w148/Stewart-AP.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10431488-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-14"/>
+</a>
+<div class="" id="div-caption-14">
+<h2 class="fs_title">The voter Obama tried hardest to keep onside</h2> <div class="fs_body">Outgoing The Daily Show host, Jon Stewart, became the voice of Democrats who felt the President had failed to deliver on his ‘Yes We Can’ slogan. Tim Walker charts the ups and downs of their 10-year relationship on screen</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/people/profiles/rupaul-interview-the-drag-star-on-being-inspired-by-bowie-never-fitting-in-and-saying-the-first-thing-that-comes-into-your-head-10424990.html">
+<img alt="RuPaul interview: The drag star on being inspired by Bowie, never fitting in, and saying the first thing that comes into your head" src="http://www.independent.co.uk/incoming/article10428277.ece/alternates/w148/RuPaul-Getty.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10428277-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-15"/>
+</a>
+<div class="" id="div-caption-15">
+<h2 class="fs_title">RuPaul interview</h2> <div class="fs_body">The drag star on being inspired by Bowie, never fitting in, and saying the first thing that comes into your head</div> </div>
+</div>
+</div>
+</div>
+</div>
+<a class="next browse right"></a>
+<br class="c"/>
+<script type="text/javascript">
+$(document).ready(function() {
+// initialize scrollable together with the navigator plugin
+$("#filmstrip-5054673").scrollable().navigator();
+$("#filmstrip-5054673 .page img").captify();
+});
+</script>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8192092" >
+<script type="text/javascript">
+$(function() {
+$('.tabPane .title').bind('click', function (e) {
+var s=s_gi(s_account), tabId, tab,
+type = $('meta[property=og:type]').attr('content') , ctrObj = $(this).closest('.tabPane');
+if( typeof type === 'undefined' ) {
+type = 'homepage';
+}
+tabId = "tabs-1-" + (ctrObj.index() + 1);
+tab = $('#' + tabId).find('span').html();
+s.linkTrackVars='prop30,prop31,events'; s.linkTrackEvents='event38';
+s.prop30=tab + ' - ' + s.channel + ' ' + type + ' - position ' + ($(this).closest('.article').index() + 1);
+s.prop31=tab + ' - ' + s.channel + ' ' + type + ' - ' + $(this).html().replace(/'/g, "\\'");
+s.events='event38';
+s.tl(this,'o', tab + ' Tab - ' + location.hostname);
+s.prop30 = s.prop31 = s.events = '';
+});
+});
+</script>
+</div>
+</div>
+<div id="footer">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-9325946" >
+<div id="teads">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("teads"); });
+</script>
+</div>
+<script type="text/javascript" src="/independent.co.uk/assets/js/trackingArticleCol2StoriesWidgets.js"></script>
+<script type="text/javascript" src="//content.pollonize.com/get-content/in-feed/dynamic/547f20aa8e490f866ca87fbc"></script>
+<script type="text/javascript">
+function KruxUserMatch(res) {
+kruxBaseUrl = 'http://beacon.krxd.net/usermatch.gif?';
+partnerId = 'gigya';
+var src = kruxBaseUrl + 'partner=' + partnerId + '&partner_uid=' + res.UID;
+var img = document.createElement("img");
+img.src = src;
+document.body.appendChild(img);
+var data = {};
+var parms = {
+"data": {
+internalKruxIdSyncResponseCode: 'true'
+}
+};
+gigya.accounts.setAccountInfo(parms);
+};
+$(document).ready(function() {
+gigya.accounts.addEventHandlers({
+onLogin: KruxUserMatch
+});
+});
+</script>
+</div>
+<div class="x170x515x255 redesign-footer"
+>
+<div class="column-1">
+</div>
+<div class="column-2">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054706"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html" >
+<span class="TermsText">Terms</span> <span class="&Text">&amp;</span> <span class="PoliciesText">Policies</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/privacy-policy-759574.html" >
+<span class="PrivacyText">Privacy</span> <span class="PolicyText">Policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/cookie-policy-7785164.html " >
+<span class="CookieText">Cookie</span> <span class="policyText">policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html" >
+<span class="CodeText">Code</span> <span class="ofText">of</span> <span class="ConductText">Conduct</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html" >
+<span class="ComplaintText">Complaint</span> <span class="formText">form</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/newsLetterPreferences/" >
+<span class="EmailText">Email</span> <span class="newslettersText">newsletters</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/list-of-rss-feeds-775086.html" >
+RSS </a>
+</li>
+<li class="-nav ">
+<a href="http://live.independent.co.uk/#AllEvents" >
+<span class="LiveText">Live</span> <span class="BlogsText">Blogs</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/incoming/about-i100couk-9438671.html" >
+<span class="AboutText">About</span> <span class="i100Text">i100</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054705"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/contact-us-759589.html" >
+<span class="ContactText">Contact</span> <span class="UsText">Us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/subscriptions/" >
+Subscriptions </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/marketing/apps/" target="_blank" >
+Apps </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/work-for-inm-759587.html" >
+<span class="WorkText">Work</span> <span class="forText">for</span> <span class="usText">us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/" target="_blank" >
+<span class="EveningText">Evening</span> <span class="StandardText">Standard</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.homesandproperty.co.uk/" target="_blank" >
+<span class="HomesText">Homes</span> <span class="&Text">&amp;</span> <span class="PropertyText">Property</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://ijobs.independent.co.uk/" target="_blank" >
+iJobs </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/" target="_blank" >
+<span class="NewsText">News</span> <span class="videoText">video</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/sports/" target="_blank" >
+<span class="SportText">Sport</span> <span class="videoText">video</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054710"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/advertising-guide/" >
+<span class="AdvertisingText">Advertising</span> <span class="GuideText">Guide</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/independent-syndication-915183.html" >
+Syndication </a>
+</li>
+<li class="-nav ">
+<a href="http://en.novayagazeta.ru/" target="_blank" >
+<span class="NovayaText">Novaya</span> <span class="GazetaText">Gazeta</span> <span class="(English)Text">(English)</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/businessconnections" target="_blank" >
+<span class="ESText">ES</span> <span class="BusinessText">Business</span> <span class="ConnectionsText">Connections</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/lifestyle/esrentals/" target="_blank" >
+<span class="ESText">ES</span> <span class="RentalsText">Rentals</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.londonlive.co.uk" target="_blank" >
+<span class="LondonText">London</span> <span class="LiveText">Live</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright" >
+<strong>&copy; independent.co.uk</strong>
+</div>
+</div>
+<div class="column-3">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8925767 footer-eagle" >
+<a href="/" title="The Independent">
+<img src="/independent.co.uk/assets/images/redesign/masthead/black-eagle-square.png" alt="The Independent" title="The Independent" width="80px" />
+</a>
+<script>
+/*
+* Partner Plugin: Gigya v3 (BEGIN)
+*/
+var gigya_omniture_conf={linkName:"Gigya Action",eventMap:[{gigEvent:"login",omtrEvents:["event9"],mapVars:["eVar47=user.loginProvider","eVar16=getAge()","eVar16=getGender()","eVar48=getiRank()"]},{gigEvent:"sendDone",omtrEvents:["event10"],mapVars:["eVar49=providers","products"]},{gigEvent:"commentSubmitted",omtrEvents:["event12"],mapVars:["eVar49=getCommentProviders()","products"]},{gigEvent:"reactionClicked",omtrEvents:["event11"],mapVars:["eVar50=reaction.ID","products"]}],getCommentProviders:function(e){var t=e["providerPostIDs"];if(t&&typeof t=="object"){var n="",r;for(r in t)n+=(n?",":"")+r;return n}return""},getAge:function(e){var t=e.user["age"];if(typeof t=="number"&&t>0){return t}return"?"},getGender:function(e){var t=e.user["gender"];if(typeof t=="string"&&t.length>0){return t}return"?"},getiRank:function(e){if(typeof e.user["iRank"]=="string"){var t=parseFloat(e.user["iRank"]).toFixed(0);if(t>=1e-4)return t}return"?"}}
+/*
+* Partner Plugin: Gigya v3 (END)
+*/
+</script>
+<script>
+$(function() {
+$('#page #navigation .navPrimary a').bind('click', function(e) {
+var s = s_gi(s_account),
+navtrackurl = ($(this).attr('href'));
+s.linkTrackVars = 'prop6';
+s.prop6 = navtrackurl;
+s.tl(this, 'o', navtrackurl);
+s.prop6 = '';
+});
+});
+</script>
+</div>
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox"
+>
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get"
+onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input type="hidden" name="destinationSectionUniqueName" value="search" />
+<input type="hidden" name="publicationName" value="ind" />
+<input type="hidden" name="sortString" value="publishdate" />
+<input type="hidden" name="sortOrder" value="desc" />
+<input type="hidden" name="sectionId" value="506" />
+<input type="hidden" name="articleTypes" value="news" />
+<input type="hidden" name="pageNumber" value="1" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="1" />
+<input type="hidden" name="startYear" value="2010" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="useHideArticle" value="true" />
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input type="text" name="searchString" value="" class="field" />
+<input type="submit" value="Go" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+$(function() {
+$("#simpleSearch-5054704 .field").autocomplete({
+source: ajaxCall ,
+delay: 2000.00,
+close: function(event, ui) {
+$("#simpleSearch-5054704 .field").autocomplete("option", "delay", 500.00);
+},
+select: function(event, ui) {
+var articleId = ui.item.id;
+openLink('http://www.independent.co.uk/eceRedirect?articleId=' + articleId, '_self');
+}
+});
+});
+function ajaxCall(request, response) {
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?~_";
+var term = $.trim(request.term.toLowerCase());
+var wordCount = term.split(" ").length;
+if (term.length > 0 && iChars.indexOf(term.charAt(0)) == -1) {
+var param = "(" + term + "*) publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+else{
+$("#simpleSearch-5054704 .field").autocomplete("close");
+}
+if (wordCount > 1 && responseCount == 0) {
+param = "(" + term + ") publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+}
+})
+}
+}
+})
+}
+else if (term.length > 0 && iChars.indexOf(term.charAt(0)) != -1) {
+$("#simpleSearch-5054704 .field").autocomplete("close");
+alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
+}
+}
+</script>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/" >
+<span>Advanced search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/" >
+<span>Article archive </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topics/" >
+<span>Topics </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+require(["skimlinks"], function() {
+$(document).ready(function() {
+$(".article #main .storyContent.articleContent a:contains('View'), .esi-gallery a:contains('View')").filter(function() {
+var t = $(this);
+if(t.text() === 'View') {
+t.addClass('skimlinks-btn');
+}
+});
+});
+});
+</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2011 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8976968" >
+<div id="inskin8x8">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("inskin8x8"); });
+</script>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8755159" >
+<script type="text/javascript">
+if( $(".esi-gallery").length > 0 ) {
+require(["/independent.co.uk/assets/js/modules/esi.gallery.v1.js"], function(ESIGallery) {
+var galleryObj = new ESIGallery();
+galleryObj.load();
+});
+}
+if( $(".second-gallery").length > 0 ) {
+require(["/independent.co.uk/assets/js/modules/second.gallery.v1.js"], function(SECONDGallery) {
+var galleryObj = new SECONDGallery();
+galleryObj.load();
+});
+}
+$('.second-gallery').click(function(e) {
+if ($(e.target).hasClass('second-gallery-rightarrow')) {
+s_account="indepdev";
+var s=s_gi(s_account);
+s.linkTrackVars='prop28';
+s.prop28='secondGallery '+location.href.substr(location.href.lastIndexOf('/') + 1);
+console.log('secondGallery '+location.href.substr(location.href.lastIndexOf('/') + 1));
+}
+});
+</script>
+<script>
+$( document ).ready(function() {
+setTimeout(
+function() {
+$('.senderName, .commentImage a').click(function(e) {
+e.preventDefault();
+console.log('prevented')
+});
+}, 5000);
+});
+</script>
+<div id="gumgum">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("gumgum"); });
+</script>
+</div>
+<script type="text/javascript">
+googletag.cmd.push(function(){sbi_morpheus.callOperator();});
+</script>
+<script>
+// email newsletter and competition user journey
+function indes_gyJourney() {
+// define vars
+var indes_SourceURL = window.location.href,
+id;
+// create session storage items with passed variables
+function indes_Storage(indes_Type) {
+sessionStorage.setItem('indes_SourceURL', indes_SourceURL);
+sessionStorage.setItem('indes_Type', indes_Type);
+}
+// clear storage
+function indes_ClearStorage() {
+sessionStorage.removeItem('indes_SourceURL');
+sessionStorage.removeItem('indes_Type');
+return false;
+}
+// set item to store using the ID of the link, // this then drives the conditional behaviour on // the journey pages.
+$('.indes_store').click(function() {
+var id = document.querySelector('.indes_store').dataset.id;
+indes_Storage(id);
+})
+$('.competition_btn').click(function() {
+var id = 'indes_competition_entry';
+indes_Storage(id);
+})
+};
+indes_gyJourney();
+</script>
+<!-- sponsored features ICN tag placement -->
+<script>
+var querystring = 'icn=INDsponFeatures';
+$('.inpage-widget-6279238 a').each(function()
+{
+var href = $(this).attr('href');
+if(href) {
+href += (href.match(/\?/) ? '&' : '?') + querystring;
+$(this).attr('href', href);
+}
+});
+</script>
+<!--Adblock Check--> <script type="text/javascript" src="http://standard.co.uk/standard.co.uk/assets/js/ads.js?323"></script> <script type="text/javascript"> jQuery(document).ready(checkAds()); function checkAds(){if (document.getElementById('adsense')!=undefined){document.write("<script>_gaq.push(['_trackEvent', 'Adblock', 'Unblocked', 'false']);</sc" + "ript>");}else{document.write("<script>_gaq.push(['_trackEvent', 'Adblock', 'Blocked', 'true']);</sc" + "ript>");}} </script> <!--End Adblock Check-->
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

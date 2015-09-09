@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang=en-US>
+<!--<![endif]-->
+<head>
+<meta charset=UTF-8><link rel=stylesheet type="text/css" href="//cloud.typography.com/7314112/800766/css/fonts.css"/><style>img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style><link rel=stylesheet href='http://www1.vocativ.com/content/A.mu-plugins,,_vocativ-environment,,_css,,_video-articles-front.css+mu-plugins,,_vocativ-videos,,_assets,,_flowplayer,,_skin,,_minimalist.css+mu-plugins,,_vocativ-videos,,_css,,_flowplayer-skin.css+themes,,_vocativ,,_css,,_build,,_fonticons.css+themes,,_vocativ,,_css,,_build,,_main.css+mu-plugins,,_vocativ-raw-blog,,_assets,,_css,,_genericons.css,Mcc.fphtD4FBNg.css.pagespeed.cf.AknaNFyN73.css' type='text/css' media=all /><link rel=stylesheet href='//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css' type='text/css' media=all /><link rel=stylesheet href='http://www1.vocativ.com/content/mu-plugins,_vocativ-raw-blog,_css,_rawblog-lib.css+themes,_vocativ,_css,_build,_fonts.css+themes,_vocativ,_css,_build,_vendor,_fancybox,_jquery.fancybox.css+themes,_vocativ,_css,_build,_annotate.css+themes,_vocativ,_css,_build,_animate.min.css.pagespeed.cc.VPCYPka_7d.css' type='text/css' media=all /><script>window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name=viewport content="width=device-width">
+<title>ISIS Calls On Taliban Fighters to Join Its Ranks - Vocativ</title>
+<!--[if lt IE 9]>
+	<script src="//www.vocativ.com/content/mu-plugins/vocativ-raw-blog/assets/js/html5.js"></script>
+	<script src="//www.vocativ.com/content/mu-plugins/vocativ-raw-blog/assets/css/ie.css"></script>
+	<![endif]-->
+<meta property=og:title content="ISIS Calls On Taliban Members to Join Its Ranks">
+<meta property=og:url content="http://www.vocativ.com/news/216731/isis-calls-on-taliban-members-to-join-its-ranks/">
+<meta property=og:type content=article>
+<meta property=og:image content="http://media.vocativ.com/photos/2015/07/ISIS_Ramadan_Vid1649904656.png">
+<meta property=og:image:secure_url content="https://media.vocativ.com/photos/2015/07/ISIS_Ramadan_Vid1649904656.png">
+<meta property=og:image:width content=560>
+<meta property=og:image:height content=292>
+<meta property=og:description content="The terror group sees Mullah Omar&#039;s death as an opportunity">
+<meta property=outbrain:image content="http://media.vocativ.com/photos/2015/07/ISIS_Ramadan_Vid846842920.png">
+<meta name=twitter:card content=summary_large_image>
+<meta name=twitter:site content="@vocativ">
+<meta name=twitter:title content="ISIS calls on Taliban fighters to join its ranks">
+<meta name=twitter:image:src content="https://media.vocativ.com/photos/2015/07/ISIS_Ramadan_Vid1649904656.png">
+<meta name=twitter:description content="ISIS Calls On Taliban Members to Join Its Ranks">
+<meta name=twitter:creator content="@sarahbethlynch">
+<meta name=news_keywords content="ISIS, Mullah Omar, Taliban, Afghanistan, fighters, Islamic State"/>
+<link rel=original-source href="http://www.vocativ.com/news/216731/isis-calls-on-taliban-members-to-join-its-ranks/"/>
+<meta name=description content="ISIS is taking advantage of Taliban leader Mullah Omar&#039;s death, seizing it as an opportunity to bolster the terror group&#039;s ranks and recruit new members."/>
+<link rel=canonical href="http://www.vocativ.com/news/216731/isis-calls-on-taliban-members-to-join-its-ranks/"/>
+<link rel=prev href="http://www.vocativ.com/news/216735/french-journalist-facebook/"/>
+<link rel=next href="http://www.vocativ.com/news/216733/gardener-discovers-damaged-suitcase-near-plane-debris/"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.vocativ.com\/","name":"Vocativ"}</script>
+<link rel=dns-prefetch href="//connect.facebook.net"/>
+<link rel=alternate type="application/rss+xml" title="Vocativ &raquo; Feed" href="http://www.vocativ.com/feed/"/>
+<link rel=alternate type="application/rss+xml" title="Vocativ &raquo; Comments Feed" href="http://www.vocativ.com/comments/feed/"/>
+<script>window._wpemojiSettings={"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.vocativ.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<script src="http://www1.vocativ.com/wordpress/wp-includes/js/jquery,_jquery.js+underscore.min.js+backbone.min.js.pagespeed.jc.T5Wk3HvRlV.js"></script><script>eval(mod_pagespeed_Ic2iEDZqBY);</script>
+<script>eval(mod_pagespeed_XzaVDynlcw);</script>
+<script>eval(mod_pagespeed_5_RPnZj7Kt);</script>
+<script>var WP_API_Settings={"root":"http:\/\/www.vocativ.com\/wp-json","nonce":"d295d0d05f"};</script>
+<script src='http://wp-api.github.io/client-js/build/js/wp-api.js'></script>
+<script>var _wpUtilSettings={"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
+<script src="http://www2.vocativ.com/wordpress/wp-includes/js/wp-util.min.js+wp-backbone.min.js.pagespeed.jc.LtniI95K9c.js"></script><script>eval(mod_pagespeed_ete6fcrlG8);</script>
+<script>eval(mod_pagespeed_mh4X7Le2j0);</script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/pym/0.4.3/pym.min.js'></script>
+<script src='//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js'></script>
+<script>var VocativRawBlogVars={"home_url":"http:\/\/www.vocativ.com\/news\/","ajaxurl":"https:\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","nonce":"269db67280","post_types":["post","vocativ-video","vocativ-gallery","vocativ-data","vocativ-short-form","vocativ-rawblog","vocativ-rawblog"],"ga_account":"UA-31006619-3","ga_domain":"www.vocativ.com","edit_post":"Edit Raw Blog Post","ads_active":"","outbrain_active":"1","comscore_client_id":"19985064","comscore_dummy_uri":"\/\/media.vocativ.com\/interactives\/tracking\/comscore\/pageview_candidate.txt"};</script>
+<script src="http://www2.vocativ.com/content/mu-plugins,_vocativ-raw-blog,_js,_rawblog-lib.js+themes,_vocativ,_js,_vocativ-templates.js.pagespeed.jc.x_eMSa50Qx.js"></script><script>eval(mod_pagespeed_BnfFFoMR_Y);</script>
+<script>eval(mod_pagespeed_0OperMJzCE);</script>
+<link rel=EditURI type="application/rsd+xml" title=RSD href="http://www.vocativ.com/wordpress/xmlrpc.php?rsd"/>
+<link rel=wlwmanifest type="application/wlwmanifest+xml" href="http://www.vocativ.com/wordpress/wp-includes/wlwmanifest.xml"/>
+<link rel=shortlink href='http://voc.tv/1LZhXbI'/>
+<script>var _gaq=_gaq||[];if(_gaq.globalDisabled!==true){_gaq.push(['_setAccount','UA-31006619-3']);_gaq.push(['_setDomainName','www.vocativ.com']);_gaq.push(['_setCustomVar',2,'Author',"Sarah Lynch",3]);_gaq.push(['_setCustomVar',3,'Editor',"none",3]);_gaq.push(['_setCustomVar',4,'Analyst',"Amit Weiss",3]);_gaq.push(['_setPageGroup',1,'Blog']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_addIgnoredRef','www.vocativ.com']);_gaq.push(['_trackPageview']);}(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://':'http://')+'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<link rel='https://github.com/WP-API/WP-API' href='http://www.vocativ.com/wp-json'/>
+<meta name=wp-parsely_version id=wp-parsely_version content=1.7 />
+<script type="application/ld+json">
+   {"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"ISIS Calls On Taliban Fighters to Join Its Ranks","url":"http:\/\/www.vocativ.com\/news\/216731\/isis-calls-on-taliban-members-to-join-its-ranks\/","thumbnailUrl":"","articleId":"216731","dateCreated":"2015-07-30T11:33:45Z","articleSection":"NEWS","creator":["Sarah Lynch","Amit Weiss"],"keywords":["newsjustice","contains deepweb","rawblog","afghanistan"]}   </script>
+<meta property=outbrain:title content="ISIS Calls On Taliban Members to Join Its Ranks"><link rel=author href="https://plus.google.com/+Vocativ"/>
+<link rel=publisher href="https://plus.google.com/+Vocativ"/>
+<script>(function(){var _fbq=window._fbq||(window._fbq=[]);if(!_fbq.loaded){var fbds=document.createElement('script');fbds.async=true;fbds.src='//connect.facebook.net/en_US/fbds.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds,s);_fbq.loaded=true;}_fbq.push('addPixelId','394441244080616');})();window._fbq=window._fbq||[];window._fbq.push('track','PixelInitialized',{});</script>
+<noscript><img height=1 width=1 alt="" style=display:none src="https://www.facebook.com/tr?id=394441244080616&ev=PixelInitialized"/></noscript>
+<meta property=fb:app_id content=685756558116580 /><script src="//s.mb4a.com/jp/5-35828958_10-4_tq3"></script>
+<script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"19985064"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19985064&cv=2.0&cj=1"/>
+</noscript>
+</head>
+<body class="single single-vocativ-rawblog postid-216731 full-width masthead-fixed raw-blog group-blog">
+<div class=overlay></div>
+<div class=container>
+<div class=primary-header-wrap>
+<header class=primary-header>
+<a href="#" class=mobile-menu-toggle id=mobile-nav-toggle>
+<i class="fa fa-bars" class=mobile-bars></i>
+</a>
+<a class=logo href="/">
+<img src="http://www2.vocativ.com/content/themes/vocativ/images/xvocativ-logo-color,402x.png.pagespeed.ic.sRnUteIz8i.png" alt=Vocativ width=180 height=40>
+</a>
+<nav class="secondary-navigation right">
+<ul>
+<li class=secondary-navigation-search>
+<a class="search icon" href="#">
+<svg version=1.1 id=Layer_1 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x=0px y=0px viewbox="0 0 34 34" enable-background="new 0 0 34 34" xml:space=preserve>
+<path d="M29.6,28.5l-8.1-8.1c1.6-1.8,2.5-4.1,2.5-6.6c0-5.5-4.5-10-10-10S4,8.2,4,13.8s4.5,10,10,10c2.1,0,4-0.6,5.6-1.7l8.2,8.2
+							L29.6,28.5z M5.1,13.8c0-4.9,4-8.9,8.9-8.9c4.9,0,8.9,4,8.9,8.9s-4,8.9-8.9,8.9C9.1,22.6,5.1,18.6,5.1,13.8z"/>
+</svg>
+</a>
+<div class="menu-sub menu-sub-search">
+<div class=wrap>
+<form role=search class=search-form action="/">
+<label>
+<span class=screen-reader-text>Search for:</span>
+<input type=input class=search-field autocomplete=off placeholder="Search&hellip;" value="" name=s title="Search for:"/>
+</label>
+<button class=search-submit><i class="fa fa-search"></i></button>
+</form>	</div>
+</div>
+</li>
+<li> </li>
+</ul>
+</nav>
+<nav class=social-taskbar>
+<div class=follow>FOLLOW US</div>
+<div class=fb-like data-href="https://www.facebook.com/Vocativ" data-layout=button data-action=like data-show-faces=false data-share=false></div>
+<div class=tw-follow>
+<a href="https://twitter.com/vocativ" class=twitter-follow-button data-show-count=false data-show-screen-name=false>Follow @vocativ</a>
+</div>
+</nav>
+<nav class=primary-navigation>
+<ul id=menu-primary-nav-primary-menu class=menu><li id=menu-item-60204 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60204"><a href="/video/">VIDEO</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-60208 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60208"><a href="/video/popular/">POPULAR</a></li>
+<li id=menu-item-60206 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60206"><a href="/video/picks/">EDITOR&#8217;S PICK</a></li>
+<li id=menu-item-60209 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60209"><a href="/video/latest/">LATEST</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/video/culture/science/take-a-ride-in-audis-autonomous-car/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/SM570-Audi-Self-Driving-Car-Poster2991081605.jpg"/>
+</span>
+<span class=article-title>
+Take A Ride In Audi’s Autonomous Car	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/video/culture/sport/watch-this-pro-surfer-fend-off-a-shark-attack/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/SM573-Shark-Attack-South-Africa-Poster871498868.jpeg"/>
+</span>
+<span class=article-title>
+Watch This Pro Surfer Fend Off A Shark Attack	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/video/underworld/crime/chattanooga-shooter-displays-his-mma-chops-in-video/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/SM569-Chattanooga-MMA-Fight-Poster-112587952.jpeg"/>
+</span>
+<span class=article-title>
+Chattanooga Shooter Displays His MMA Chops In Video	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/video/usa/guns/watch-a-gun-shooting-drone-in-action/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/SM567-Gun-Drone-Poster-13012606624.jpg"/>
+</span>
+<span class=article-title>
+Watch A Gun-Shooting Drone In Action	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-186882 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186882"><a href="http://vocativ.com/news">NEWS</a></li>
+<li id=menu-item-60155 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-has-children menu-item-60155"><a href="/usa/">USA</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-60160 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60160"><a href="/usa/us-politics/">US POLITICS</a></li>
+<li id=menu-item-60165 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60165"><a href="/usa/nat-sec/">NAT SEC</a></li>
+<li id=menu-item-60175 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60175"><a href="/usa/guns/">GUNS</a></li>
+<li id=menu-item-60164 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60164"><a href="/usa/justice-usa/">JUSTICE</a></li>
+<li id=menu-item-67193 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-67193"><a href="/usa/immigration-usa/">IMMIGRATION</a></li>
+<li id=menu-item-139387 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-139387"><a href="/usa/ferguson-usa/">FERGUSON</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/news/217149/what-will-happen-if-teenagers-are-allowed-to-drive-big-rigs/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/freight-truck3247082730.jpg"/>
+</span>
+<span class=article-title>
+What Will Happen If Teenagers Are Allowed To Drive Big Rigs	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217103/video-shows-officer-who-appears-to-be-ray-tensing-in-another-tense-traffic-stop/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/Tensing2867012625.jpg"/>
+</span>
+<span class=article-title>
+Is This Ray Tensing On Video In Another Tense Traffic Stop?	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216988/sam-dubose-isnt-the-first-person-killed-by-the-university-of-cincinnati-police/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/GD-Officer-Ray-Tensing-Samuel-Dubose-482283388940931573.jpg"/>
+</span>
+<span class=article-title>
+Sam DuBose Isn&#039;t The First Person Killed By Univ. Of Cincinnati Police	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216800/adam-goodes-might-quit-over-racist-heckling/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/adam-goodes-Racism-4804830542444855065.jpg"/>
+</span>
+<span class=article-title>
+Australian Star Athlete Adam Goodes May Quit Over Racist Heckling	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-60156 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-has-children menu-item-60156"><a href="/world/">World</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-97770 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-97770"><a href="/world/israel-world/">ISRAEL</a></li>
+<li id=menu-item-60173 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60173"><a href="/world/ukraine-world/">UKRAINE</a></li>
+<li id=menu-item-110680 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-110680"><a href="/world/isis-2/">ISIS</a></li>
+<li id=menu-item-60179 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60179"><a href="/world/mexico-world/">MEXICO</a></li>
+<li id=menu-item-60177 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60177"><a href="/world/china/">CHINA</a></li>
+<li id=menu-item-60166 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60166"><a href="/world/russia/">RUSSIA</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/news/217397/the-weirdest-things-humans-have-sent-to-space-besides-whiskey/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/space-whiskey3953821127.jpg"/>
+</span>
+<span class=article-title>
+The Weirdest Things Humans Have Sent To Space (Besides Whiskey)	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217244/palestinians-and-israelis-on-edge-after-deadly-west-bank-arson/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/RTX1MJ9H1443442829.jpg"/>
+</span>
+<span class=article-title>
+Palestinians And Israelis On Edge After Arson Attack Kills Toddler	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216814/iran-nuclear-deal-debate-hollywood-politicians/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/iran_deal_debate_port802268587.png"/>
+</span>
+<span class=article-title>
+Backed By Millions, Iran Deal Fuels Epic War Of Rhetoric	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216735/french-journalist-facebook/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/french-journalist2068324753.jpg"/>
+</span>
+<span class=article-title>
+Was A French Journalist Locked Out Of His Facebook Account?	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-60159 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-has-children menu-item-60159"><a href="/underworld/">Underworld</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-60182 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60182"><a href="/underworld/crime/">CRIME</a></li>
+<li id=menu-item-60184 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60184"><a href="/underworld/drugs/">DRUGS</a></li>
+<li id=menu-item-60172 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60172"><a href="/underworld/sex/">SEX</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/news/217434/crowdfunding-efforts-by-ray-tensings-supporters-have-been-shut-down/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/Officer-Ray-Tensing-Samuel-Dubose-4822833881076554907.jpg"/>
+</span>
+<span class=article-title>
+Crowdfunding Efforts By Ray Tensing&#039;s Supporters To Be Shut Down	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217225/a-gay-porn-movie-starring-women/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/wanted-siouxsie_012761126283.jpg"/>
+</span>
+<span class=article-title>
+A Gay Porn Movie Starring… Women?	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216957/men-and-women-surveyed-say-theyre-capable-of-platonic-friendships/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/Friends-Male-Female-Releationships-A5R08N1727531962.jpg"/>
+</span>
+<span class=article-title>
+Men And Women Surveyed Say They&#039;re Capable Of Platonic Relationships	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/216791/pro-hunters-stand-up-against-cecil-backlash/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/palmer_3390818b627419854.jpg"/>
+</span>
+<span class=article-title>
+Hunters And Pro-Lifers Stand Up For Cecil&#039;s Killer	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-60154 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-has-children menu-item-60154"><a href="/tech/">Tech</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-60186 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60186"><a href="/tech/bitcoin/">BITCOIN</a></li>
+<li id=menu-item-60300 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60300"><a href="/tech/internet/">INTERNET</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/news/217397/the-weirdest-things-humans-have-sent-to-space-besides-whiskey/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/space-whiskey3953821127.jpg"/>
+</span>
+<span class=article-title>
+The Weirdest Things Humans Have Sent To Space (Besides Whiskey)	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217183/what-new-twitter-homepage/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/World-Cup-Fact-Generator-472038825727.jpg"/>
+</span>
+<span class=article-title>
+The New Twitter Homepage Goes Completely Unnoticed	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217175/obamas-supercomputer-could-power-an-apple-watch-for-every-american/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/dreamstime_xxl_51995791607825206.jpg"/>
+</span>
+<span class=article-title>
+Obama&#039;s Supercomputer Could Power An Apple Watch For Every American	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217136/this-massive-green-fireball-just-flew-over-south-america/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/CLNDj_DWUAAq5IP1191855100.jpg"/>
+</span>
+<span class=article-title>
+This Massive Green Fireball Just Flew Over South America	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-60153 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-has-children menu-item-60153"><a href="/money/">Money</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-60161 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60161"><a href="/money/the1/">THE1%</a></li>
+<li id=menu-item-60189 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60189"><a href="/money/business/">BUSINESS</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/video/money/business/this-3d-printer-can-print-electronics/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/Screen-Shot-2015-07-24-at-6.05.22-PM421421435.png"/>
+</span>
+<span class=article-title>
+This 3D Printer Can Print Electronics	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/214516/fast-food-workers-will-soon-earn-more-than-these-other-professionals/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/RTX1LF3V3224215654.jpg"/>
+</span>
+<span class=article-title>
+Fast Food Workers Will Soon Earn More Than These Other Professionals	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/214024/sorry-google-twitter-is-better-at-stock-market-predictions/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/World-Cup-Fact-Generator-472038825727.jpg"/>
+</span>
+<span class=article-title>
+Sorry, Google: Twitter Is Better At Stock Market Predictions	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/213843/watch-iphone-sales-in-real-time/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/iPhone_sales_RTR46X8M4230435881.jpg"/>
+</span>
+<span class=article-title>
+This Is How Fast iPhones Sold In The Last Quarter	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-60152 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic current-vocativ-rawblog-ancestor current-menu-parent current-vocativ-rawblog-parent menu-item-has-children menu-item-60152"><a href="/culture/">Culture</a><div class=sub-container><div class=sub-menu-container><h4>Topics</h4>
+<ul class=sub-menu>
+<li id=menu-item-186216 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-186216"><a href="/culture/science/">SCIENCE</a></li>
+<li id=menu-item-204746 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-204746"><a href="/culture/junk-science/">Junk Science</a></li>
+<li id=menu-item-98010 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-98010"><a href="/culture/health-culture/">HEALTH</a></li>
+<li id=menu-item-60168 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60168"><a href="/culture/lgbt/">LGBT</a></li>
+<li id=menu-item-98009 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-98009"><a href="/culture/media/">MEDIA</a></li>
+<li id=menu-item-60169 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-60169"><a href="/culture/religion/">RELIGION</a></li>
+</ul>
+</div><div class=header-recirculator-items><div class=header-recirculator-items-inner><div class=header-recirculator-item>
+<a href="/news/217333/why-mark-zuckerbergs-miscarriage-announcement-matters/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/mark-zuckerberg-RTR4WVEM95590844.jpg"/>
+</span>
+<span class=article-title>
+Why Mark Zuckerberg&#039;s Miscarriage Announcement Matters	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217330/tom-cruise-mission-impossible-lead-actresses/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/RTX1M1P1490113423.jpg"/>
+</span>
+<span class=article-title>
+Tom Cruise Is Getting Older, But His Leading Ladies Are Not	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217249/mlb-trade-deadline-a-snapshot-of-this-weeks-frenzy/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/RTX1E9QE1062636244.jpg"/>
+</span>
+<span class=article-title>
+A Snapshot Of This Week&#039;s Trading Frenzy In Major League Baseball	</span>
+</a>
+</div>
+<div class=header-recirculator-item>
+<a href="/news/217300/beijing-gets-less-snow-than-any-other-winter-olympic-city/">
+<span class=article-image>
+<img src="//media.vocativ.com/photos/2015/07/GettyImages-4825010343315944985.jpg"/>
+</span>
+<span class=article-title>
+Beijing Gets Less Snow Than Any Other Winter Olympic City	</span>
+</a>
+</div>
+</div></div></div></li>
+<li id=menu-item-63664 class="menu-item menu-item-type-taxonomy menu-item-object-vocativ-topic menu-item-63664"><a href="/culture/photos/">PHOTOS</a></li>
+</ul>
+</nav>
+<div class=clear></div>
+<div id=vocativ-user-profile-mobile class="user-profile user-profile-mobile"></div>
+<div id=notifications>
+<div class="privacy-policy hide">
+<div class=message>
+<div class="ss-gizmo ss-delete"></div>
+<p>
+We have made changes to our privacy policy. You may click <a class=privacy-link target=_blank href="/privacy-policy/">here</a>
+to read the full policy.</p>
+</div>
+</div>
+</div>
+</header>
+</div>
+<nav class="mobile-navigation mobile-sub-nav">
+<ul>
+<li>
+<a href="/">
+<i class="fa fa-home"></i>
+<span>Home</span>
+</a>
+</li>
+<li class=divider>
+<h2>Sections</h2>
+</li>
+<li>
+<div class=menu-primary-nav-container></div>
+</li>
+<li class=divider>
+<h2>Social</h2>
+</li>
+<li class="follow follow-facebook" data-network=facebook>
+<a target=_BLANK href="https://www.facebook.com/Vocativ">Facebook</a>
+</li>
+<li class="follow follow-twitter" data-network=twitter>
+<a target=_BLANK href="https://twitter.com/vocativ">Twitter</a>
+</li>
+<li class="follow follow-tumblr" data-network=tumblr>
+<a target=_BLANK href="http://vocativ.tumblr.com/">Tumblr</a>
+</li>
+<li class=vocativ-copyright>&copy; Vocativ 2015. All Rights Reserved</li>
+</ul>
+</nav>
+<div class=info-over></div>
+<div id=page class="hfeed site">
+<div class="container main">
+<div id=main class=site-main>
+<aside id=secondary>
+<div id=widgets-wrapper>
+<div class="raw-feed-widget hide-mobile">
+<ul>
+<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>	<li class=sidebar-filler>
+<div class=sb-filler-img></div>
+<div class=sb-filler-content>
+<div class=ninety></div>
+<div class=seventy></div>
+<div class=thirty></div>
+</div>
+</li>
+</ul>
+</div> <div id=about-raw class=about style=display:none>
+<h2>ABOUT</h2>
+<div id=intro-text>
+</div>
+</div>
+</div>
+<div class="scroll-for-more hide">
+<span>SCROLL FOR MORE POSTS</span><i class="fa fa-angle-down"></i>
+</div>
+</aside>
+</div>
+<section id=main-content class="main-content content">
+<div id=primary class=content-area>
+<div id=content class=site-content role=main>
+<noscript>
+<article>
+<header class=headlines>
+<h1>ISIS Calls On Taliban Fighters to Join Its Ranks</h1>
+<h2></h2>
+</header>
+<time>2015-07-30 07:33:45</time>
+<address class=author>Sarah Lynch</address>
+<div class=article-content>
+<p>The Islamic State is taking advantage of Taliban leader Mullah Omar&#8217;s death, seizing it as an opportunity to bolster the terror group&#8217;s ranks and recruit new members.</p>
+<p>In a statement circulating on ISIS forums, the governor of the Islamic State&#8217;s Khorasan province in Afghanistan, Hafiz Saeed Khan, called on Taliban fighters to shift their loyalty in the wake of the Taliban leader&#8217;s death and pledge allegiance to ISIS.</p>
+<p>ISIS&#8217; official media wing in Khorasan first distributed Saeed Khan&#8217;s appeal&#8212;given as an audio address then translated to Arabic in text&#8212;just over two weeks ago. That means the ISIS governor was aware of Mullah Omar&#8217;s passing well before <a href="/news/216344/confusion-surrounds-mullah-omars-alleged-death/" target=_blank target=_blank>Afghan officials announced this week that he had died two years ago</a>. Starting on Wednesday, the message was making the rounds again in online forums.</p>
+<p>The address offered insight as to how the Taliban could have fractured after Mullah Omar died in 2013. According to Saeed Khan, some Taliban fighters have left the group and vowed loyalty to ISIS. Others &#8220;stayed sitting in their homes&#8221; after his death, while still others continued to fight the Islamic State&#8212;traditionally Taliban&#8217;s rival.</p>
+<p>Afghan officials have said Saeed Khan himself was killed in a U.S. drone strike in mid-July. But his audio message, and the text, surfaced after the claims, either indicating that the ISIS governor is still alive or that the message was recorded prior to his passing.</p>
+<script>var VAdata=[];</script><script>var VAshortlink="http:\/\/voc.tv\/1LZhXbI";</script>	</div>
+</article>
+</noscript>	<div class=pc-container>
+<div class=filler-article>
+<div class=filler-title>
+<div class=full-width></div>
+<div class=half-width></div>
+<div class=third></div>
+</div>
+<div class=filler-byline style=margin-bottom:30px>
+<div class=fifth></div>
+</div>
+<div class=filler-content style=margin-bottom:15px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-content style=margin-bottom:30px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-picture>
+<div></div>
+</div>
+</div>
+</div>	<div class=pc-container>
+<div class=filler-article>
+<div class=filler-title>
+<div class=full-width></div>
+<div class=half-width></div>
+<div class=third></div>
+</div>
+<div class=filler-byline style=margin-bottom:30px>
+<div class=fifth></div>
+</div>
+<div class=filler-content style=margin-bottom:15px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-content style=margin-bottom:30px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-picture>
+<div></div>
+</div>
+</div>
+</div>	<div class=pc-container>
+<div class=filler-article>
+<div class=filler-title>
+<div class=full-width></div>
+<div class=half-width></div>
+<div class=third></div>
+</div>
+<div class=filler-byline style=margin-bottom:30px>
+<div class=fifth></div>
+</div>
+<div class=filler-content style=margin-bottom:15px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-content style=margin-bottom:30px>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=full-width></div>
+<div class=half-width></div>
+</div>
+<div class=filler-picture>
+<div></div>
+</div>
+</div>
+</div>	</div>
+</div>
+</section>
+</div>
+<footer id=colophon class=site-footer role=contentinfo>
+<div class=site-info>
+<p class=copyright>Copyright &copy; Vocativ 2015</p>
+</div>
+</footer>
+</div>
+<div id=parsely-root style=display:none>
+<div id=parsely-cfg data-parsely-site=vocativ.com></div>
+</div>
+<script>(function(s,p,d){var h=d.location.protocol,i=p+"-"+s,e=d.getElementById(i),r=d.getElementById(p+"-root"),u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net":"static."+p+".com";if(e)return;e=d.createElement(s);e.id=i;e.async=true;e.src=h+"//"+u+"/p.js";r.appendChild(e);})("script","parsely",document);</script>
+<div class="modal newsletter-modal" id=newsletter-modal>
+<h3>Join Vocativ</h3>
+<p class=welcome-message>Sign up to receive the best of Vocativ in your&nbsp;mailbox.</p>
+<p class=message style=display:none></p>
+<form>
+<div class="form-row single-and-submit">
+<input type=text name=EMAIL placeholder="Email Address"/>
+<input type=submit value=Subscribe />
+<span class=loading-indicator style=display:none>Loading</span>
+</div>
+</form>
+</div>
+<div class="modal follow-modal" id=follow-modal>
+<p class=message style=display:none></p>
+<h4>Connect with Vocativ!</h4>
+<div class=social-share>
+<ul class="social-accounts-list share-icon-list">
+<li class=fb-like>
+<div class=fb-like data-href="https://www.facebook.com/Vocativ" data-layout=button_count data-action=like data-show-faces=false data-share=false></div>
+</li>
+<li data-share-type=twitter title="" class=twitter>
+<a href="https://twitter.com/vocativ" class=twitter-follow-button>Follow @vocativ</a>
+</li>
+<li data-share-type=youtube class=youtube>
+<div class=g-ytsubscribe data-channel=VocativVideo data-layout=default data-count=default></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal newsletter-modal" id=newsletter-thanks-modal>
+<span id=title_thanks_newsletter class=h3>Thanks!</span>
+<div class=content>Vocativ: News From The Deep Web.</div>
+</div>
+<script type="text/template" id=va-tooltip>
+
+		<div class="va-tooltip animated fadeInUp ">
+
+			<div class="va-tooltip-header">
+				<span class="va-tooltip-how">HOW WE KNOW</span>
+				<button class="va-tooltip-close va-tooltip-toggle">
+					<i class="fa fa-times"></i>
+				</button>
+			</div>
+
+			<div class="va-tooltip-body">
+				<div class="va-tooltip-body-inner">
+				</div>
+			</div>
+
+			<div class="va-tooltip-footer">
+				<div class="va-tooltip-share">
+					<button data-type="facebook" class="va-tooltip-share-facebook">Share on facebook</button>
+					<button data-type="twitter" class="va-tooltip-share-twitter">Share on twitter</button>
+					<button data-type="tumblr" class="va-tooltip-share-tumblr">Share on tumblr</button>
+				</div>
+			</div>
+
+		</div>
+
+	</script>
+<script type="text/template" id=va-tooltip-single>
+		<div class="va-single-inner">
+			<h2 class="va-tooltip-title"><%= title %></h2>
+			<div class="va-tooltip-content"><%= content %></div>
+		</div>
+	</script>
+<script>var VocativImagePostItemsGallery={"images":[]};</script>
+<script>var google_conversion_id="996597567";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script>
+<script src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style=display:inline>
+<img height=1 width=1 style=border-style:none alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996597567/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/html" id=tmpl-vocativ-rawblog-banner-ad>
+		<div>
+		</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-content>
+<div id="content" class="site-content" role="main">
+</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-content-ad>
+		<div>
+		</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-desktop-share>
+	<div class="share-article-social after-article">
+		<ul class="share-icon-list cf" {{{data.get('share_data_attributes')}}}>
+			<li data-share-type="facebook" title="Share on Facebook" class="facebook">
+				<div class="share-icon">
+					<i class="fa fa-facebook"></i>
+					<span>Share</span>
+				</div>
+			</li>
+
+			<li data-share-type="twitter" title="Share on Twitter" class="twitter">
+				<div class="share-icon">
+					<i class="fa fa-twitter"></i>
+					<span>Tweet</span>
+				</div>
+			</li>
+
+			<li data-share-type="email" title="Share by Email" class="email">
+				<div class="share-icon">
+					<i class="fa fa-envelope"></i>
+					<span>Send</span>
+				</div>
+			</li>
+
+			<li class="link">
+				<div class="share-icon">
+					<i class="fa fa-link"></i>
+					<span>Link</span>
+				</div>
+			</li>
+			<li data-share-type="bitly" class="shortURL">
+				<input name="shortURL" type="text" spellcheck="false" readonly="" value="{{data.get('shortlink')}}">
+			</li>
+					</ul>
+	</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-mobile-share>
+	<ul class="share-icon-list cf" {{{data.get('share_data_attributes')}}}>
+				<li data-share-type="facebook" title="Share on Facebook" class="facebook">
+					<div class="share-icon">
+						<i class="fa fa-facebook"></i>
+					</div>
+				</li>
+
+				<li data-share-type="twitter" title="Share on Twitter" class="twitter">
+					<div class="share-icon">
+						<i class="fa fa-twitter"></i>
+					</div>
+				</li>
+
+				<li data-share-type="whatsapp" title="Whats App" class="whatsapp">
+					<div class="share-icon">
+						<i class="fa fa-whatsapp"></i>
+					</div>
+				</li>
+			</ul>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-outbrain>
+	<div class="sponsored-links">
+		<div class="OUTBRAIN" data-src="{{ window.location.protocol }}//www.vocativ.com{{ data.relative_path }}" data-widget-id="AR_1" data-ob-template="Vocativ"></div>	
+	</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-page>
+<div class="container main" id="raw-blog-container">
+	<div id="main" class="site-main">
+		<aside id="secondary">
+			<div class="social vocativ-social-sidebar cf">
+				<h3>Follow Vocativ</h3>
+				<div class="vocativ-social-sidebar-link-container">
+					<a class="vocativ-social-sidebar-facebook-link follow-link fbk" href="https://www.facebook.com/Vocativ" target="_blank" data-share-type="facebook">
+						<div>
+							<i class="fa fa-facebook fa-lg"></i>
+							<span class="vocativ-social-sidebar-text"></span>
+						</div>
+					</a>
+					<a class="vocativ-social-sidebar-twitter-link follow-link twt" href="https://twitter.com/vocativ" target="_blank" data-share-type="twitter">
+						<div>
+							<i class="fa fa-twitter fa-lg"></i>
+							<span class="vocativ-social-sidebar-text"></span>
+						</div>
+					</a>
+				</div>
+			</div>
+			<section id="main-content" class="main-content content">
+				<div id="primary" class="content-area">
+
+				</div>
+			</section>
+			<div class="raw-feed-widget hide-mobile">
+				<div class="header-strip">
+					<a href="/raw/" class="extLink"><em>DATA FEED</em></a>
+				</div>
+				<div class="raw-feed-container">
+
+				</div>
+			</div>
+		</aside>
+	</div>
+</div>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-post>
+	<li><a href="#post-{{ data.post.get('id') }}" data-permalink="{{ data.post.get('url') }} " class="raw-blog-link">{{ data.post.get('title') }}</a></li>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-postcontent>
+	<article id="post-{{data.post.ID}}" class="post-{{data.post.ID}} vocativ-raw-blog type-{{data.post.post_type}} {{data.post.post_status}} post">
+	<div class="pc-container">
+	<header class="headlines">
+		<h1 class="article-headline">{{data.post.post_title}}</h1>
+		<# if ( "" !== data.post.sub_headline ) { #>
+			<h2 class="article-deck">{{data.post.sub_headline}}</h2>
+		<# } #>
+	</header>
+		<div class="top-article-share news hide-mobile">
+			<div class="share-inner share-icon-list" {{{data.post.share_data_attributes}}}>
+				<div data-share-type="facebook" data-share-pos="headline" class="fb-share">
+					<i class="fa fa-facebook"></i>
+					<span>Share this</span>
+				</div>
+				<div data-share-type="twitter" data-share-pos="headline" class="twitter-share">
+					<i class="fa fa-twitter"></i>
+					<span>Tweet this</span>
+				</div>
+			</div>
+			<!-- .share-inner -->
+		</div>
+		<!-- .top-share -->
+		<# if ( 'vocativ-video' == data.post.post_type && data.post.video_post_item ) { #>
+			<div class="video-content">
+				{{{ data.post.video_post_item }}}
+			</div>
+		<# } #>
+		<div class="author-meta author-top">
+			<span>
+
+				<# var authortypes = data.post.author_types #>
+				<# var index = 0; #>
+				<#for(var i in authortypes){ #>
+					<# if(authortypes[i].length){ #>
+						<# var authors = authortypes[i] #>
+						<#for (var j in authors ) { #>
+							<# var author = authors[j]; #>
+							<#if ( index == 0 ) { #>
+								<span>By</span>
+							<# } #>
+							<#if( ( index > 0 || j > 0) && index < 2 ) {#>
+								<span>and</span>
+							<# } #>
+							<#if( index < 2 ) {#>
+								<span><a class="writer" href="{{window.location.origin}}/author/{{author.user_nicename}}/" title="Posts by {{author.display_name}}" rel="author">{{author.display_name}}</a></span>
+								<# index = index+1; #>
+							<# } #>
+
+						<# } #>
+					<# } #>
+
+				 <# } #>
+				 <span>on</span>
+				 <span>{{data.post.posted_date_byline}}</span>
+			 </span>
+		</div>
+
+		<# if ( data.post.headline_image && data.post.headline_image_src ) { #>
+			<div class="article-image">
+				<img src="{{data.post.headline_image_src}}">
+				<#if ( data.post.headline_image['options']['caption'] || data.post.headline_image['options']['credit'] ) { #>
+					<span class="article-image-caption">
+						<span class="">{{{data.post.headline_image['options']['caption']}}}</span>
+						<span class="article-image-credit">{{{data.post.headline_image['options']['credit']}}}</span>
+					</span>
+				<# } #>
+			</div>
+		<# } #>
+
+			<!-- .entry-meta -->
+		<div class="article-content">
+			{{{data.post.post_content}}}
+		</div><!-- .entry-content -->
+
+		
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				
+				
+			</div>
+			<!-- .entry-meta -->
+		</footer>
+		<!-- .entry-header -->
+		</div>
+
+	</div><!-- .pc-container -->
+
+	<!-- pageview_candidate -->
+	</article><!-- #post-## -->
+
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-postsidebar>
+	<a href="{{document.location.origin}}/news/{{data.post.ID}}/{{data.post.post_name}}" data-id="{{data.post.ID}}" data-news-path="{{data.post.ID}}/{{data.post.post_name}}" data-permalink="{{data.post.permalink}}" data-relative-path="{{data.post.relative_path}}" data-edit-link="{{data.post.edit_link}}" class="raw-blog-link">
+		<# if ( data.post.thumb ) { #>
+			<div class="thumb-wrapper">{{{data.post.thumb}}}</div>
+		<# } #>
+		<div class="post-wrapper">
+			<span class="post-title">{{data.post.post_title}}</span>
+			<div class="post-detail">
+				<# var authortypes = data.post.author_types #>
+				<# var index = 0; #>
+				<#for(var i in authortypes){ #>
+					<# if(authortypes[i].length){ #>
+						<# var authors = authortypes[i] #>
+						<#for (var j in authors ) { #>
+							<# var author = authors[j]; #>
+							<#if( index < 1 ) {#>
+								<span class="author-name">{{author.display_name}}</span>
+								<span> - </span>
+								<# index = index+1; #>
+							<# } #>
+
+						<# } #>
+					<# } #>
+				 <# } #>
+				 <# var oneminago = new Date().getTime() - (1 * 60 * 1000); #>
+				 <# var twodaysago = new Date().getTime() - (2 * 24 * 60 * 60 * 1000); #>
+				 <# var today = new Date(data.post.post_date); #>
+				 <# if( today > oneminago ){ #>
+				    <span class="post-date">Just now</span>
+				 <# } else if( today < twodaysago ){ #>
+				    <span class="post-date">{{data.post.posted_date_word}}</span>
+				 <# } else { #>
+				    <span class="post-date">{{moment(data.post.posted_date_parsed).fromNow()}}</span>
+				 <# } #>
+			</div>
+		</div>
+	</a>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-sidebar>
+	<ul class="raw-feed-items">
+	</ul>
+</script>
+<script type="text/html" id=tmpl-vocativ-rawblog-sidebar-ad>
+		<div>
+		</div>
+</script><script src='http://www1.vocativ.com/content/mu-plugins/vocativ-videos/assets/flowplayer/flowplayer.min.js.pagespeed.jm.lP5yrwmVN8.js'></script>
+<script>var VocativVideoStrings={"toggle_captions":"Toggle Video Captions","file_not_found_error":"Video Encoding: Playback not yet available."};var VocativVideoStrings={"toggle_captions":"Toggle Video Captions","file_not_found_error":"Video Encoding: Playback not yet available."};</script>
+<script src="http://www2.vocativ.com/content,_mu-plugins,_vocativ-videos,_js,_vocativ-video.js+wordpress,_wp-includes,_js,_jquery,_ui,_widget.min.js+content,_mu-plugins,_vocativ-videos,_js,_vocativ-youtube-video-player.js+content,_themes,_vocativ,_js,_jquery.fancybox.pack.js.pagespeed.jc.mUXXrTKfbh.js"></script><script>eval(mod_pagespeed_RgeZkfmuKh);</script>
+<script>eval(mod_pagespeed_hOBuhxUTxr);</script>
+<script>eval(mod_pagespeed_Y2tIaDVH$j);</script>
+<script>eval(mod_pagespeed_0WbVtmnM78);</script>
+<script>var vocativNewsletterModalData={"ajaxURL":"https:\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","userLoggedIn":"","popupExperimentEnabled":"","popupDelayInSeconds":"15"};</script>
+<script src="http://www2.vocativ.com/content,_mu-plugins,_vocativ-newsletter-modal,_js,_vocativ-newsletter-modal.js+content,_mu-plugins,_vocativ-ninja-popups,_js,_vocativ_ninja_popups_fb_theme.js+wordpress,_wp-includes,_js,_jquery,_jquery-migrate.js+content,_themes,_vocativ,_js,_keyboard-image-navigation.js.pagespeed.jc.ZlrZSnd6XN.js"></script><script>eval(mod_pagespeed_88WmmDb$by);</script>
+<script>eval(mod_pagespeed_U1pGyUAlbE);</script>
+<script>eval(mod_pagespeed_UtQD_qeeo6);</script>
+<script>eval(mod_pagespeed_pPISkk4dBX);</script>
+<script>var VocativGalleryL10n={"more_photos":"More Photos","replay":"Replay","share":"Share","prev":"Prev","next":"Next"};</script>
+<script src="http://www2.vocativ.com/content/themes/vocativ/js/gallery.js+FlexSlider,_jquery.flexslider.js+vocativ-annotations.js+post-items.js.pagespeed.jc.QJIHWenPp3.js"></script><script>eval(mod_pagespeed__LgWeW$RTO);</script>
+<script>eval(mod_pagespeed_9AcZwOU3JB);</script>
+<script>eval(mod_pagespeed_7akTnzgdAE);</script>
+<script>eval(mod_pagespeed_Bt3DxRAzgD);</script>
+<script>var VocativTrackingConfig={"megalyticId":"1446","googleAnalyticsAccount":"UA-31006619-3"};</script>
+<script src="http://www2.vocativ.com/content/themes/vocativ/js/vocativ-tracking.js+fastclick.js+modernizr.min.js+picturefill.js+touchSwipe.min.js+jquery.fitvids.js.pagespeed.jc.dCl8FTsQJl.js"></script><script>eval(mod_pagespeed_hS21dVPnBS);</script>
+<script>eval(mod_pagespeed_1Uf0dZB8P6);</script>
+<script>eval(mod_pagespeed_lx28keA9uC);</script>
+<script>eval(mod_pagespeed_Ho70l039DD);</script>
+<script>eval(mod_pagespeed_meuS0n2HNO);</script>
+<script>eval(mod_pagespeed_FGUs13yruX);</script>
+<script>var VocativTheme={"home_url":"http:\/\/www.vocativ.com","track_facebook_share_nonce":"36f816b52d","hp_lazy_load_nonce":"f3903e3bd9","ajax_url":"\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","cdn_ajax_url":"\/\/www1.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","cdn_url":"\/\/www1.vocativ.com","l10n":{"pleaseWait":"Please Wait ...","success":"Success","error":"Error","emailShareMsg":"I thought you might be interested in this article"},"facebook_app_id":"685756558116580"};</script>
+<script src='http://www1.vocativ.com/content/themes/vocativ/js/scripts.js.pagespeed.jm.o25t3lXFXq.js'></script>
+<script>var VocativAccounts={"ajaxurl":"https:\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","uploadurl":"https:\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-ajax.php","secureMessageOrigin":"https:\/\/www.vocativ.com","userModelData":"","facebookUrl":"https:\/\/www.facebook.com\/Vocativ","twitterUrl":"https:\/\/twitter.com\/vocativ","youtubeUrl":"http:\/\/www.youtube.com\/user\/VocativVideo","newsletters":{"5":{"id":"88da2e50cc","name":"Vocativ Newsletter"}},"l10n":{"uploadSuccess":"Your photo has changed.","signIntoVocativ":"Sign in","getMoreFromVocativ":"Get more from Vocativ","login":"Sign in","signup":"Sign Up","needAccount":"need an account?","alreadyHaveAccount":"already have an account?","signInViaMail":"or sign in via email","signUpViaMail":"or sign up via email","loginWithTwitter":"Sign in with Twitter","loginWithFacebook":"Sign in with Facebook","loginWithGoogle":"Login with Google+","email":"Email Address","emailoruser":"Email Address or Username","password":"Password","forgotPassword":"Forgot password?","rememberPassword":"Remember your password?","signupWithTwitter":"Sign up with Twitter","signupWithFacebook":"Sign up with Facebook","signupWithGoogle":"Sign up with Google+","displayName":"Display Name","getNewPassword":"Get New Password","clickToChangeImage":"Click to change image","changePassword":"Change Password","logoutUrl":"https:\/\/www.vocativ.com\/wordpress\/wp-login.php?action=logout&amp;redirect_to=%2F&amp;_wpnonce=5f8bf64aad","signout":"Signout","currentPassword":"Current Password","newPassword":"New Password","confirmPassword":"Confirm Password","saveChanges":"Save Changes","socialAccounts":"Social Accounts","disconnectFromTwitter":"Disconnect from Twitter","connectToTwitter":"Connect to Twitter","disconnectFromFacebook":"Disconnect from Facebook","connectToFacebook":"Connect to Facebook","connect":"Connect","more":"More","disconnectFromGoogle":"Disconnect from Google+","connectToGoogle":"Connect to Google+","disconnectFromReddit":"Disconnect from Reddit","connectToReddit":"Connect to Reddit","disconnectFromTumblr":"Disconnect from Tumblr","connectToTumblr":"Connect to Tumblr","less":"Less","newsletter":"Newsletter","youAreSubscribedTo":"You are subscribed to","enterYourEmail":"Enter your email to receive our newsletter.","editEmail":"Edit Email","followVocativ":"Follow Vocativ","makeVocativComeToYou":"Make Vocativ Come To You","shortNewsLetterSignUp":"Sign up for our email newsletter.","subscribe":"Subscribe","facebook":"Facebook","twitter":"Twitter","youtube":"YouTube","signInUnavailable":"We're sorry, but user profiles are currently unavailable. Please try again in a few minutes.","recommendedBy":"Recommended by"},"readOnlyMode":""};</script>
+<script src='http://www2.vocativ.com/content/themes/vocativ/js/accounts.js.pagespeed.jm.2nyw32eXil.js'></script>
+<script>var VocativComments={"scripts":["http:\/\/www1.vocativ.com\/content\/themes\/vocativ\/js\/tinymce\/tinymce.min.js"],"twitter_url_length":"22","twitter_threshold":"117","please_wait":"Please Wait...","loading":"Loading...","uploading":"Uploading...","image_upload_url":"\/\/www.vocativ.com\/wordpress\/wp-admin\/admin-post.php","css_editor_url":"http:\/\/www1.vocativ.com\/content\/themes\/vocativ\/css\/build\/comment-wysiwyg-styles.css","images_in_comments_enabled":"1","image_upload_nonce":"c3a693ccc5","drop_image_text":"Drop image to add to comment","drag_drop_help":"Attach images by dragging & dropping or","drag_drop_help_button":"selecting them","no_drag_drop_help_button":"Upload Image","max_file_size_text":"(max file size 5MB)","connect_to_share":"Connect to Share","continue":"Continue","connect_now":"Connect Now!","please_fix_errors":"Please fix errors before continuing","please_enter_a_comment":"Please enter a comment"};</script>
+<script src="http://www2.vocativ.com/content/themes/vocativ/js/comment-form.js+jquery.autoellipsis-1.0.10.min.js+footer.js+spin.min.js+rangy-core.js+rangy-selectionsaverestore.js+jquery.annotate.js+modals.js+header-nav.js+navigation.js+google-analytics.js+google-ads.js+skip-link-focus-fix.js.pagespeed.jc.zbbfpah-1b.js"></script><script>eval(mod_pagespeed_tcZkXt7_EE);</script>
+<script>eval(mod_pagespeed_eNsVlk$yJ4);</script>
+<script src='/content/themes/vocativ/js/tinymce/plugins/vocativimage/plupload/plupload.full.min.js'></script>
+<script>eval(mod_pagespeed__uN9Y25SkU);</script>
+<script>eval(mod_pagespeed_0Qce$6tsGu);</script>
+<script>eval(mod_pagespeed_lNraB5K1jc);</script>
+<script>eval(mod_pagespeed_pfJBgVGXik);</script>
+<script>eval(mod_pagespeed_K6c9k43ggn);</script>
+<script>eval(mod_pagespeed_vOT2ZQM8KV);</script>
+<script>eval(mod_pagespeed_kHWK0njoEn);</script>
+<script>eval(mod_pagespeed_yO6svD_urL);</script>
+<script>eval(mod_pagespeed__0g0v06RuA);</script>
+<script>eval(mod_pagespeed_xE3LEMPgbZ);</script>
+<script>eval(mod_pagespeed_vXTvLrtKPm);</script>
+<script>var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"ajax":true,"version":"v2.3","cookie":true,"appId":"685756558116580"});fbApiInit=true;if(FB_WP&&FB_WP.queue&&FB_WP.queue.flush){FB_WP.queue.flush()}}</script>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script src="//widgets.outbrain.com/outbrain.js"></script>
+<div id=fb-root></div>
+<script>window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.async=true;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}});}(document,"script","twitter-wjs"));</script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"664d57f0c1","applicationID":"7244691","transactionName":"YwRbbEtVXEpQBU0LX1pObEpQG1tXVQNBTEBcEQ==","queueTime":0,"applicationTime":13,"atts":"T0NYGgNPT0Q=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>

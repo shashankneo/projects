@@ -1,0 +1,2020 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/" >
+<head>
+    <link rel="SHORTCUT ICON" href="http://sports.cbsimg.net/favicon.ico">
+
+    <title>Report: 'Several Angels teammates' skeptical of C.J. Wilson's elbow injury - CBSSports.com </title>
+
+    <script type="text/javascript">
+//load typekit JS.  Code is as-is from TypeKit
+  (function() {
+    var config = {kitId: 'zpz8rmb', scriptTimeout: 3000};
+    var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//fonts.cbsi.com/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+  })();
+</script>
+            <link href="http://fonts.googleapis.com/css?family=Orbitron:400,500,700" rel="stylesheet" type="text/css">
+            <!--[if lte IE 8]>
+            <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Orbitron:400" /> 
+            <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Orbitron:500" /> 
+            <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Orbitron:700" /> 
+            <![endif]-->
+            
+            <link href="http://sports.cbsimg.net/css/phase3-min-v460.css" rel="stylesheet" type="text/css" />
+            <!--[if IE]>
+            <link href="http://sports.cbsimg.net/css/phase2-ie-min-v058.css" rel="stylesheet" type="text/css" />
+            <![endif]-->
+            <!-- no arena css -->
+<link href="http://sports.cbsimg.net/css/jquery/ui-tools-min-v030.css" rel="stylesheet" type="text/css"/>
+
+    <!--[if lt IE 9]><script>var e = ("abbr,article,aside,audio,canvas,datalist,details,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video").split(',');for (var i = 0; i < e.length; i++) {document.createElement(e[i]);}</script><![endif]-->
+<script type="text/javascript">
+if(typeof CBSi=="undefined"||!CBSi){var CBSi={}}CBSi.namespace=function(){var b=arguments,g=null,e,c,f;for(e=0;e<b.length;e=e+1){f=b[e].split(".");g=CBSi;for(c=(f[0]=="CBSi")?1:0;c<f.length;c=c+1){g[f[c]]=g[f[c]]||{};g=g[f[c]]}}return g};CBSi.extend=function(d,e,c){if(!e||!d){throw new Error("extend failed, please check that all dependencies are included.")}var b=function(){};b.prototype=e.prototype;d.prototype=new b();d.prototype.constructor=d;d.superclass=e.prototype;if(e.prototype.constructor==Object.prototype.constructor){e.prototype.constructor=e}if(c){for(var a in c){if(c.hasOwnProperty(a)){d.prototype[a]=c[a]}}}};CBSi.panel={overlayManager:undefined,create:function(c,b){if(!this.overlayManager){this.overlayManager=new YAHOO.widget.OverlayManager()}if(!b.strings){b.strings={}}if(!b.strings.close){b.strings.close=""}var a=new YAHOO.widget.Panel(c,b);this.overlayManager.register(a);return a}};CBSi.fireEvent=function(b,c){if(document.createEvent){var a=document.createEvent("HTMLEvents");a.initEvent(c,true,true);return !b.dispatchEvent(a)}else{var a=document.createEventObject();return b.fireEvent("on"+c,a)}};CBSi.log=function(){};if(window.console&&window.console.log){CBSi.log=function(){if(CBSi.debugmode===""){return}var a=[];for(var b=0;b<arguments.length;b++){a.push(arguments[b])}console.log(a)}}else{if(window&&window.console){window.console.log=function(){}}else{window.console={};window.console.log=function(){}}if(console){console.log=function(){}}else{console={};console.log=function(){}}}CBSi.jsRenvInit=function(a){for(var b in a){CBSi[b]=a[b]}return};
+if (!CBSi.debugmode) CBSi.debugmode = ''; // For normandy--manually set if js only
+</script>
+<script id="jsRenv_script" type="text/javascript">CBSi.jsRenvInit({"takeoverIsBlank":0,"httpHost":"http://www.cbssports.com","project":"media","mediaHttpServer":"http://www.cbssports.com","pref":{"timezoneOffset":"4","timezoneAbbrev":"ET"},"league_abbr":"mlb","arena":"mlb","imageServer":"http://sports.cbsimg.net","requestUri":"/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury"});</script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/yui/latest/yahoo-dom-event-connection-datasource-get-imageloader-animation-json-min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/jquery/jquery.1.8.2.min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/jquery/ui/jquery.1.9.2.custom.min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/global-min-v0085.js'></script>
+
+<script>
+//Dumping cookies that have been made browser/host only
+(function($){
+    //return;//Comment out to run code
+    //List of domains to check and see if the cookie has with it
+    var domains = ['.cbssports.com','.www.cbssports.com','www.cbssports.com','*.cbssports.com','cbssports.com', '.cbssports.com'];
+    //List of the names of cookies to match
+    var matches = ['CirclePoll','2013NCAAB','2013NFL','2013NCAAF'];
+    //Loop throught the cookies and find the matches
+    $.each(document.cookie.split(/; */), function()  {
+        var splitCookie = this.split('=');
+        for(m in matches){
+            if(splitCookie[0].match(RegExp(matches[m]))){
+                for(d in domains){
+                    console.log(splitCookie[0], 'cookie removed');
+                    //Try to delete the cookie with a domain and path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;domain=" + domains[d] + ";path=/";
+                    //Try to delete the cookie without a domain and path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;";
+                    //Try to delete the cookie without a path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;domain=" + domains[d] + ";";
+                    //Try to delete the cookie without a domain
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;path=/";
+                }
+            }
+        }
+
+    });
+})($);
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+var surround=new Object();
+surround.cat = ['a','b','c','d','e','f'];
+surround.cookie = readCookie('surround');
+
+if (surround.cookie == false || surround.cookie == undefined) {
+    surround.pick = Math.floor(Math.random() * surround.cat.length);
+    surround.subsession = Math.floor(Math.random() * 4) + 1; /*subsessions 1-4*/
+    document.cookie=("surround="+surround.cat[surround.pick]+"|"+surround.subsession+";domain=.cbssports.com;path=/" );
+    surround.cookie = readCookie('surround');
+}
+if (surround.cookie) {surround.sessions=surround.cookie.split("|");}
+surround.vguid = v1();
+</script>
+
+<script type="text/javascript">
+var isSharethroughBlank = 'untested'; //declare window global
+var storeExtraCover;
+
+function adCallBack(obj) {
+    if (obj.slot == XFP_sharethrough_top && isSharethroughBlank == 'untested') {
+        if (obj.isEmpty) { // ad is blank
+            isSharethroughBlank = 'blank'; // reset to false for next time ad is refreshed
+            CBSi.log('[ShareThrough] adCallback - isEmpty', isSharethroughBlank);
+            showHiddenCover();
+
+        } else {
+            isSharethroughBlank = 'filled';
+            CBSi.log('[ShareThrough] adCallback: ',isSharethroughBlank);
+            // ad is not blank
+            // video component
+            if ('home' == 'blogs_eye_entry') {
+                var length = $('#vidComponent table').length;
+                $('#vidComponent table').eq(length - 1).hide();
+            }
+
+            // 3, 6, or 9 pack
+            var ecLength = $('.featureComponent .coverItem').length;
+            
+            CBSi.log('[ShareThrough] ecLength: ', ecLength);
+            
+            storeExtraCover = $('.featureComponent .coverItem').eq(ecLength-2).html();
+            $('.featureComponent .coverItem').eq(ecLength-2).replaceWith($("#sharethrough_top"));
+            $("#sharethrough_top").addClass('coverItem');
+            $('#sharethrough_top').show();
+        }
+    }
+}
+ 
+function blankAdCallback(width, height, pos) {
+    if (width == 11 && height == 11 && pos == 'top' && (isSharethroughBlank == 'filled' || isSharethroughBlank == 'untested') ) {
+        isSharethroughBlank = 'scheduled'; // set global
+        CBSi.log('[ShareThrough] blankAdCallback: ', width, height, pos, isSharethroughBlank);
+        showHiddenCover();
+    }
+}
+
+function showHiddenCover() {
+    CBSi.log('[ShareThrough] showHiddenCover: start');
+    var ecLength = $('.featureComponent .coverItem').length;    
+    if (typeof storeExtraCover != 'undefined' && storeExtraCover != '') {
+        CBSi.log('[ShareThrough] showHiddenCover: ', storeExtraCover);        
+        $('.featureComponent .coverItem').eq(ecLength-2).html(storeExtraCover)
+    };
+    $('.featureComponent .coverItem').eq(ecLength-2).show();
+
+    if ('home' == 'blogs_eye_entry') {
+        var length = $('#vidComponent table').length;
+        $('#vidComponent table').eq(length - 1).show();
+    }
+}
+
+</script>
+    <script>window.logged_in = "no";</script><script src="//cdn.optimizely.com/js/2788500260.js"></script>
+<script type="text/javascript">
+var cbsiadGlobal = { };
+var dwTag = "&PGUID="+surround.vguid +"&cookiesOn=" +cbsiadGlobal.cookiesOn;
+</script>
+<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+<script type="text/javascript">
+if (!random) {var abc=Math.random() + ""; var random=abc.substring(2,abc.length);}
+var switchXFP="on";
+var adLookup="media/spln/mlb/reg/free/blogs_eye_entry";
+var adNetwork="8264";
+var xfpObj='vguid='+surround.vguid+'~cid=25256944~exclude=mlb~user=anon~env=prod~arena=mlb';
+</script>
+    
+      <script type="text/javascript">
+      xfpDomain='.cbssports.com';
+      xfpSlot='/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry';
+      // tracks if this is the first page the user has visited in this session
+      function xfpFirstPageCookie() {
+         if (xfpFirstPage) {return xfpFirstPage;}           // only run once per page, if already set, just return value
+         var xfpFirstPage = readCookie('XFP_FIRSTPAGE');    // get firstPage cookie
+         if (!xfpFirstPage) {                               // if cookie doesn't exist, this is the first page, so firstPage = 1
+            xfpFirstPage = 1;
+         } else if (xfpFirstPage == 1) {                    // else, this is the second page, set firstPage = 0
+            xfpFirstPage = 0;
+         }
+         var exp = new Date();
+         exp.setTime(exp.getTime() + xfpGetTimeToExpiration(.75)); // get number of milliseconds until 12:45am ET
+         document.cookie=('XFP_FIRSTPAGE ='+xfpFirstPage+";expires="+exp.toUTCString()+";domain="+xfpDomain+";path=/;");      
+         return xfpFirstPage;                                // set and return the parameter DVAR_FIRSTPAGE = firstPage
+      }
+      // given the expiration hour in ET, return the number of milliseconds to
+      //   expiration from the given Date Object (defaults to current date)
+      function xfpGetTimeToExpiration(etExpireHour,dt) {
+         dt = dt || new Date();
+         var etUtcOffset = 5; // hours
+         if (isEDT(dt)) etUtcOffset = 4; // if in daylight savings time
+         var utcExpire = (etExpireHour+etUtcOffset)%24; // UTC expire time in hours
+         var utcTime = 60*dt.getUTCHours() + dt.getUTCMinutes(); // UTC time in mins
+         var minsToExpiration = 60*utcExpire - utcTime; // time to expiration
+         if (minsToExpiration < 0) minsToExpiration = 24*60 + minsToExpiration;
+         return 60000*minsToExpiration; // in milliseconds
+      }
+      // determine if Daylight Savings Time is being observed in the ET timezone
+      //   at the date/time of the given Date Object (defaults to current time)
+      function isEDT(dt) {
+         dt = dt || new Date(); // default to current date
+         var month = dt.getUTCMonth(); // get month in UTC
+         if (month > 2 && month < 10) return true; // in EDT if Apr to Oct
+         if (month < 2 || month > 10) return false; // not in EDT if Jan,Feb,Dec
+         var date = dt.getUTCDate(); // get day of month in UTC
+         var day = dt.getUTCDay(); // get day of week in UTC
+         if (month == 10) {  // November
+             if (date > 7) return false;  // after first week, not in EDT
+             if (day == 0) {  // Sunday of first week, check time
+               if (dt.getUTCHours() < 6) return true; //before 6am UTC, in EDT
+               return false;  // 6am UTC or later, not in EDT
+            }
+            if (date > day) return false; // Sunday has passed, not in EDT
+            return true;  // Sunday has not passed, in EDT
+         }
+         // March
+         if (date < 8) return false; // still first week, not in EDT
+         if (date > 14) return true; // after second week, in EDT
+         if (day == 0) { // Sunday of second week, check time
+             if (dt.getUTCHours() > 6) return true; // 7am UTC or later, in EDT
+             return false; // before 7am UTC, not in EDT
+         }
+         if (date - day > 7) return true;  // Sunday has passed, in EDT
+         return false; // Sunday has not passed, not in EDT
+      }
+      //sharethrough
+     
+
+      var xfpFirstPage =  xfpFirstPageCookie();
+      var xfpSession    = (surround.cookie) ? surround.sessions[0] : 'off';
+      var xfpSubsession = (surround.cookie) ? surround.sessions[1] : 'off';
+
+      function xfpGetArgs(){
+         var args = new Object();
+         var query = location.search.substring(1); // get query string
+         var pairs = query.split("&");
+         for (var i=0; i < pairs.length; i++) {
+            var pos = pairs[i].indexOf('=');                         // Look for name "name=value"
+            if (pos == -1) continue;                                 // If not found, skip
+            var argname = pairs[i].substring(0,pos);                 // Extract the name
+            var value   = pairs[i].substring(pos+1);                 // Extract the value
+            value = decodeURIComponent(value);                       // Decode it, if needed
+            var adTarg = argname.match(/adTargeting_/);              // Do we have a match on adTargeting_<key>
+
+            // Set Targeting for spec'd out query parms
+            if (argname == 'env' || argname == 'session' || argname == 'subses' || argname == 'adRegion' || argname == 'ftag' || argname == 'ttag' || (adTarg)) {
+               // args[argname] = value;
+               if (adTarg) {argname = argname.substring(12);} // strip off adTargeting_ from the name if present
+               googletag.pubads().setTargeting(argname, value);      // Set Targeting
+               if (argname == 'ftag' || argname == 'ttag') {
+                  document.cookie=("xfpFtag="+value+";domain="+xfpDomain+";path=/" );
+                  newFtag = 1;
+               }
+               xfpObj += '~' +argname +'=' +value;
+            }
+         }
+
+         var xfpFtagVal = readCookie("xfpFtag");                  // check if we have an ftag cookie
+         var newFtag = 0;
+         if ((newFtag==0) && xfpFtagVal) {                        // If no new setting for ftag but we had an old one then
+            googletag.pubads().setTargeting('ftag', xfpFtagVal);  // Set Targeting
+            xfpObj += '~ftag=' +xfpFtagVal;
+         }
+      }
+
+      </script>
+      <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+      })();
+      </script>      
+      <script type="text/javascript">
+      googletag.cmd.push(function() {
+
+         XFP_leader_top = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [[728,90],[970,66],[970,90]], "leader_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         XFP_skin_ad_call = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [1600,1000], "skin_ad_call").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         XFP_mpu_plus_top = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [[300,250],[300,600]], "mpu_plus_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         XFP_sharethrough_top = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [11,11], "sharethrough_top").addService(googletag.pubads()).setTargeting("pos", "top").setTargeting("strnativekey", "3f6d9a06"); 
+         googletag.pubads().addEventListener("slotRenderEnded", adCallBack); 
+         XFP_marketing_over_top = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [791,30], "marketing_over_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         XFP_mpu_bottom = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [300,250], "mpu_bottom").addService(googletag.pubads()).setTargeting("pos", "bottom"); 
+         XFP_leader_plus2_bottom = googletag.defineSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry", [[728,90],[970,66]], "leader_plus2_bottom").addService(googletag.pubads()).setTargeting("pos", "bottom"); 
+         googletag.defineOutOfPageSlot("/8264/aw-cbssports/mlb/media/blogs/blogs_eye_entry","interstitial").addService(googletag.pubads());
+         googletag.pubads().setTargeting("ptype", "stories");
+         googletag.pubads().setTargeting("firstpg", ""+xfpFirstPage);
+         googletag.pubads().setTargeting("session", xfpSession);
+         googletag.pubads().setTargeting("subses", ""+xfpSubsession);
+         googletag.pubads().setTargeting("vguid", surround.vguid); 
+         googletag.pubads().setTargeting("cid", "25256944"); 
+         googletag.pubads().setTargeting("exclude", "mlb"); 
+         googletag.pubads().setTargeting("user", "anon"); 
+         googletag.pubads().setTargeting("env", "prod"); 
+
+         xfpGetArgs(); // to set/override targeting for env, session, subses, adRegion, ftag, ttag, and adTargeting_<key> if set by query string
+         googletag.pubads().enableAsyncRendering();
+         googletag.pubads().enableSingleRequest();
+         googletag.pubads().collapseEmptyDivs();
+         googletag.enableServices();
+      });
+      var PR_UACT=0;
+      xfpObj += '~ptype=stories~firstpg=' +xfpFirstPage +'~session='+xfpSession +'~subses='+xfpSubsession+'';
+      function getVideoAdSessionValues(videoId){return  "session="+xfpSession+";subses="+xfpSubsession+"";}
+      </script>
+   
+    
+<script type='text/javascript'>
+	DY = {scsec : 8765636 ,API: function(){(DY.API.actions = DY.API.actions || []).push(arguments)}};
+		(function() {
+		var s = document.createElement('script'),
+		t = document.getElementsByTagName('script')[0];
+		s.async = true;
+		s.src=('https:'==document.location.protocol?'http://st.dynamicyield.com'.replace('http:','https:') : 'http://st.dynamicyield.com' ) + '/ast?head=true&sec='+DY.scsec;
+		t.parentNode.insertBefore(s, t);
+	})();
+</script>
+<script type='text/javascript' src='//ddrn6tjst80qg.cloudfront.net/api/8765636/api_dynamic.js'></script>
+<script type='text/javascript' src='//ddrn6tjst80qg.cloudfront.net/api/8765636/api_static.js'></script>
+
+    <!-- no ClickTale -->
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /><meta name="description" content="Doubters want him to pitch through injury that probably will require surgery. Wilson has been on his own seeking a diagnoses and treatment." />
+<meta property="og:title" content="Report: &#39;Several Angels teammates&#39; skeptical of C.J. Wilson&#39;s elbow injury" /><meta property="og:type" content="article"/><meta property="og:description" content="Doubters want him to pitch through injury that probably will require surgery. Wilson has been on his own seeking a diagnoses and treatment."/><meta property="og:image" content="http://sports.cbsimg.net/images/visual/whatshot/432CJWilsonelbow.jpg"/><meta property="og:url" content="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury"/><meta property="og:site_name" content="CBSSports.com"/><meta property="fb:app_id" content="297742330311988"/><meta itemprop="name" content="Report: &#39;Several Angels teammates&#39; skeptical of C.J. Wilson&#39;s elbow injury"/><meta itemprop="description" content="Doubters want him to pitch through injury that probably will require surgery. Wilson has been on his own seeking a diagnoses and treatment."/><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@cbssports" /><meta name="twitter:creator" content="@EyeOnBaseball" /><meta name="twitter:url" content="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" /><meta name="twitter:title" content="Report: &#39;Several Angels teammates&#39; skeptical of C.J. Wilson&#39;s elbow injury" /><meta name="twitter:description" content="Doubters want him to pitch through injury that probably will require surgery. Wilson has been on his own seeking a diagnoses and treatment." /><meta name="twitter:image" content="http://sports.cbsimg.net/images/visual/whatshot/432CJWilsonelbow.jpg" /><meta name="keywords" content="MLB baseball news stats standings player transactions, MLB trade rumors, fantasy baseball player rankings, professional pro Major League Baseball teams news, world series, MLB tickets, CBSSports.com">
+<meta name="googlebot" content="NOODP">
+
+<link rel="canonical" href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury">
+<link rel="alternate" title="CBSSports.com: MLB Headlines" href="http://www.cbssports.com/partners/feeds/rss/mlb_news" type="application/rss+xml">
+    <link rel="apple-touch-icon" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-ipad-retina.png">
+</head><body id="standardBody">
+<div id="tooltip" name="tooltip"></div> 
+
+<script type="text/javascript">if(top.location != self.location && (document.referrer.indexOf("cbssports.com") == -1)) {window.open(location.href, '_top');}</script>
+<div id="interstitial" style="position:absolute;top:-5000px;left:-5000px;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display("interstitial");});</script></div>
+<!--googleoff: snippet-->
+<header id="headerRow">
+	
+		<div class="actionBar">
+			<a href="http://www.cbssports.com" om-nope="MediaHeader|Logo"><img src="http://sports.cbsimg.net/images/cbss/ui6/cbs_sports_logo_2x.png" alt="CBSSports.com" class="cbsSportsLogo" /></a>
+    
+			<div class="actionMenu">
+                <table role="presentation" callspacing="0" cellpadding="0"><tbody><tr>
+            <td nowrap="nowrap"><ul><li><a href="https://auth.cbssports.com/login?master_product=150&xurl=http%3A%2F%2Fwww.cbssports.com%2Fmlb%2Feye-on-baseball%2F25256944%2Freport-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury&tag=header;login" om-nope="MediaHeader|Sign In" class="userMenu">Sign In</a><div style="float: left; line-height: 24px; font-size: 15px;">|</div><a href="https://auth.cbssports.com/registration?end=http%3A%2F%2Fwww.cbssports.com%2Fmlb%2Feye-on-baseball%2F25256944%2Freport-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury&master_product=150&tag=header;login" om-nope="MediaHeader|Register" class="userMenu">Register</a></li></ul></td><td><a href="javascript: void window.open('http://www.cbssports.com/help?referurl=/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury','h_link','width=1000,height=900,scrollbars=yes')" om-nope="MediaHeader|Help">Help</a></td><td><a href="http://www.cbssports.com/redir?url=4899" om-nope="MediaHeader|Shop">Shop</a></td><td><a href="http://www.cbssports.com/cbssports" om-nope="MediaHeader|TV">TV</a></td><td><a href="http://radio.cbssports.com" om-nope="MediaHeader|Radio">Radio</a></td><td><a href="http://www.cbssports.com/mobile" om-nope="MediaHeader|Mobile">Mobile</a></td><td><a href="http://www.cbssports.com/info/search" om-nope="MediaHeader|Search"><img src="http://sports.cbsimg.net/images/cbss/ui6/magnifying_glass.png" class="globalSearchIcon" width="14" height="13" alt="Search CBSSports.com"></a></td></tr></tbody></table>
+			</div>
+			<div class="networkPromoBox"><div id="headerTvRotator"><a href="http://www.cbssports.com/nfl/superbowl" id="sb50promo"><img src="/images/cbss/ui6/home_sb50_2x.png" width="122" height="36" border="0"></a></div></div>
+            
+			<div id='siteDebug'></div>
+            <div style="position:relative;z-index:5000001">
+                
+            </div>
+		</div>
+	
+	<style type="text/css">
+#menu_soccer {
+    left:457px;
+}
+</style>
+<div class="globalNavContainer">
+    <nav class="globalNav">
+        <ul class="globalMain">
+        <li id="nav_nfl" menu="menu_nfl"><a href="http://www.cbssports.com/nfl" class="globalMainCategory" om-nope="GlobalNav|NFL|MenuItem">NFL</a></li><li id="nav_nba" menu="menu_nba"><a href="http://www.cbssports.com/nba" class="globalMainCategory" om-nope="GlobalNav|NBA|MenuItem">NBA</a></li><li id="nav_mlb" menu="menu_mlb"><a href="http://www.cbssports.com/mlb" class="globalMainCategory active" om-nope="GlobalNav|MLB|MenuItem">MLB</a></li><li id="nav_nhl" menu="menu_nhl"><a href="http://www.cbssports.com/nhl" class="globalMainCategory" om-nope="GlobalNav|NHL|MenuItem">NHL</a></li><li id="nav_collegefootball" menu="menu_collegefootball"><a href="http://www.cbssports.com/collegefootball" class="globalMainCategory" om-nope="GlobalNav|CollegeFootball|MenuItem">NCAA&nbsp;FB</a></li><li id="nav_collegebasketball" menu="menu_collegebasketball"><a href="http://www.cbssports.com/collegebasketball" class="globalMainCategory" om-nope="GlobalNav|CollegeBasketball|MenuItem">NCAA&nbsp;BB</a></li><li id="nav_golf" menu="menu_golf"><a href="http://www.cbssports.com/golf" class="globalMainCategory" om-nope="GlobalNav|Golf|MenuItem">Golf</a></li><li id="nav_highschool" menu="menu_highschool"><a href="http://www.maxpreps.com/national/national.htm" class="globalMainCategory" om-nope="GlobalNav|HighSchool|MenuItem">High School</a></li><li id="nav_local" menu="menu_local"><a href="#" class="globalMainCategory" om-nope="GlobalNav|Local|MenuItem">Local</a></li><li id="nav_video" menu="menu_video"><a href="http://www.cbssports.com/video" class="globalMainCategory" om-nope="GlobalNav|Video|MenuItem">Video</a></li><li id="nav_more" menu="menu_more"><a href="http://www.cbssports.com/info/siteindex" class="globalMainCategory" om-nope="GlobalNav|More|MenuItem">More</a></li><li class="globalMainFantasy" menu="menu_fantasy"><a href="http://www.cbssports.com/fantasy" class="globalMainCategory globalFantasy" om-nope="GlobalNav|Fantasy|MenuItem"><img src="http://sports.cbsimg.net/images/cbss/ui6/fantasy_games_button_2015.png" width="92" height="30" alt="CBSSports.com Fantasy and Games" /></a></li>
+        </ul>
+    </nav><!-- END globalNav -->
+</div><!-- END globalNavContainer-->
+<div id="globaNavMenuContainer">
+        <div id="menu_fantasy" class="globalNavMenu">
+            <div class="fantasyMenuSub">
+                <div>
+                <a href="http://fantasynews.cbssports.com/fantasyfootball/" class="fantasyCategory" om-nope="GlobalNav|Fantasy|FastFacts|Football Home">Fantasy Football News</a><br>
+                <a href="http://fantasynews.cbssports.com/fantasyfootball/playernews"  om-nope="GlobalNav|Fantasy|FastFacts|Football Player News">Player News</a>,
+                <a href="http://fantasynews.cbssports.com/fantasyfootball/rankings" om-nope="GlobalNav|Fantasy|FastFacts|Football Rankings">Rankings</a>,
+                <a href="http://fantasynews.cbssports.com/fantasyfootball/stats/weeklyprojections/QB/season" om-nope="GlobalNav|Fantasy|FastFacts|Football Projections">Projections</a>
+                </div>
+                <div>
+                <a href="http://fantasynews.cbssports.com/fantasybaseball/" om-nope="GlobalNav|Fantasy|FastFacts|Baseball Home" class="fantasyCategory">Fantasy Baseball News</a><br>
+                <a href="http://fantasynews.cbssports.com/fantasybaseball/playernews" om-nope="GlobalNav|Fantasy|FastFacts|Baseball Player News">Player News</a>,
+                <a href="http://fantasynews.cbssports.com/fantasybaseball/rankings" om-nope="GlobalNav|Fantasy|FastFacts|Baseball Rankings">Rankings</a>,
+                <a href="http://fantasynews.cbssports.com/fantasybaseball/stats/sortable/cbs/1B/season/standard/projections" om-nope="GlobalNav|Fantasy|FastFacts|Baseball Projections">Projections</a>
+                </div>
+                <div>
+                <a href="http://fantasynews.cbssports.com/fantasybasketball/"  om-nope="GlobalNav|Fantasy|FastFacts|Basketball Home" class="fantasyCategory">Fantasy Basketball News</a><br>
+                <a href="http://fantasynews.cbssports.com/fantasybasketball/playernews" om-nope="GlobalNav|Fantasy|FastFacts|Basketball Player News">Player News</a>,
+                <a href="http://fantasynews.cbssports.com/fantasybasketball/rankings" om-nope="GlobalNav|Fantasy|FastFacts|Basketball Rankings">Rankings</a>,
+                <a href="http://fantasynews.cbssports.com/fantasybasketball/stats/sortable/points/C/standard/projections" om-nope="GlobalNav|Fantasy|FastFacts|Basketball Projections">Projections</a>
+                </div>
+                <div>
+                <a href="http://fantasynews.cbssports.com/fantasyhockey/" class="fantasyCategory" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Home">Fantasy Hockey News</a><br>
+                <a href="http://fantasynews.cbssports.com/fantasyhockey/playernews" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Player News">Player News</a>,
+                <a href="http://fantasynews.cbssports.com/fantasyhockey/rankings" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Rankings">Rankings</a>,
+                <a href="http://fantasynews.cbssports.com/fantasyhockey/stats/sortable/points/C/standard/projections" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Projections">Projections</a>
+                </div>
+            </div>        
+            <div class="navMenuContent">
+                <div class="topStory" id="cover_fantasy"></div>
+                <div class="fantasyMyTeams">
+    <div class="productPromo"><!-- spln/data/media/fantasy/navigation/logged-out.html -->
+<!-- specify // as protocol instead of http:// so works on https -->
+<table class="fantasyLoggedOut" cellspacing="0" cellpadding="0" border="0" width="445">
+<thead><tr><th width="120"></th><th width="230"></th><th width="95"></th></tr></thead>
+<tbody><tr valign="top">
+    <td><a href="http://www.cbssports.com/fantasy/football/games/commissioner?ttag=FFBC15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Commissioner'});"><img src="http://sports.cbsimg.net/images/fantasy/spoe/logos/football-commissioner.png" border="0" width="110" height="55"></a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/commissioner?ttag=FFBC15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Commissioner'});">Play the ultimate Fantasy Football Game featuring exclusive Player Rewards and Benefits.</a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/commissioner?ttag=FFBC15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Commissioner'});" class="button fantasy">PLAY<br>NOW</a></td>
+</tr><tr valign="top">
+    <td><a href="http://www.cbssports.com/fantasy/football/games/prize-leagues?ttag=FFBP15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Prize Leagues'});"><img src="http://sports.cbsimg.net/images/fantasy/spoe/logos/football-prizeleagues.gif" border="0" width="110" height="55"></a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/prize-leagues?ttag=FFBP15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Prize Leagues'});">Join the competition and play for up to $5,000 in cash prizes.</a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/prize-leagues?ttag=FFBP15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Prize Leagues'});" class="button fantasy">PLAY<br>NOW</a></td>
+</tr><tr valign="top" class="last">
+    <td><a href="http://www.cbssports.com/fantasy/football/games/free?ttag=FFBF15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Free'});"><img src="http://sports.cbsimg.net/images/fantasy/spoe/logos/football-free.png" border="0" width="110" height="55"></a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/free?ttag=FFBF15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Free'});">Get into the Fantasy Football action by creating or joining a Free league.</a></td>
+    <td><a href="http://www.cbssports.com/fantasy/football/games/free?ttag=FFBF15_glbnav" onclick="om.trackClick({'item':'GlobalNav|Fantasy|LoggedOut|Football Free'});" class="button fantasy">PLAY<br>NOW</a></td>
+</tr></tbody></table>
+
+</div><div class="clearBoth spacer10"></div><div id="manageLinks" class="products alignCenter"></div></div>
+        </div>
+        <div class="navMenuBottomLinks">
+            <ul id="extras_fantasy">
+                <li><a href="http://fantasynews.cbssports.com" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Projections" om-nope="GlobalNav|Fantasy|Seasonal|Fantasy News and Analysis">Fantasy News and Analysis</a></li><li><a href="http://www.cbssports.com/fantasy" om-nope="GlobalNav|Fantasy|FastFacts|Hockey Projections" om-nope="GlobalNav|Fantasy|Seasonal|All CBS Sports Fantasy Games">All CBS Sports Fantasy Games</a></li><li></li>
+            </ul>
+        </div>  
+    </div>
+            <div id="menu_nfl" class="globalNavMenu">
+                <!-- include file generated Tue Jul 07 12:05:29 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/nfl/" title="NFL News">NFL Home</a></li><li><a href="http://www.cbssports.com/nfl/eye-on-football/25233967/2015-nfl-training-camp-schedule-dates-locations-for-all-32-teams" title="Training Camps">Training Camps</a></li><li><a href="http://www.cbssports.com/nfl/scoreboard" title="NFL Scores">Scores</a></li><li><a href="/nfl/schedules" title="NFL Schedule">Schedule</a></li><li><a href="http://www.cbssports.com/nfl/standings" title="NFL Standings">Standings</a></li><li><a href="http://www.cbssports.com/nfl/stats" title="NFL Stats">Stats</a></li><li><a href="http://www.cbssports.com/nfl/teams" title="NFL Teams">Teams</a></li><li><a href="http://www.cbssports.com/nfl/players" title="NFL Players">Players</a></li><li><a href="http://www.cbssports.com/nfl/transactions/" title="NFL Transactions">Transactions</a></li><li><a href="http://www.cbssports.com/nfl/injuries" title="NFL Injuries">Injuries</a></li><li><a href="http://www.cbssports.com/nfl/powerrankings" title="NFL Power Rankings">Power Rankings</a></li><li><a href="http://www.cbssports.com/nfl/rumors" title="NFL Rumors">Rumors</a></li><li><a href="http://www.cbssports.com/nfl/superbowl" title="Super Bowl">Super Bowl</a></li><li><a href="http://www.cbssports.com/nfl/draft" title="NFLDraftScout.CBSSports.com">Draft</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_nfl"></div>
+            		<section class="headlines fLeft">
+            			<h2>NFL Headlines</h2>
+            			<ul id="headlines_nfl" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_nfl"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_nba" class="globalNavMenu">
+                <!-- include file generated Mon Jul 06 12:45:48 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/nba/" title="NBA News">NBA Home</a></li><li><a href="http://www.cbssports.com/nba/eye-on-basketball/25229808/2015-nba-free-agent-tracker-where-players-are-headed-top-free-agents-available" title="Free Agents">Free Agents</a></li><li><a href="http://www.cbssports.com/nba/scoreboard" title="NBA Scores">Scores</a></li><li><a href="http://www.cbssports.com/nba/schedules" title="Schedule">Schedule</a></li><li><a href="http://www.cbssports.com/nba/standings" title="NBA Standings">Standings</a></li><li><a href="http://www.cbssports.com/nba/stats" title="NBA Stats">Stats</a></li><li><a href="http://www.cbssports.com/nba/teams" title="NBA Teams">Teams</a></li><li><a href="http://www.cbssports.com/nba/players" title="NBA Players">Players</a></li><li><a href="http://www.cbssports.com/nba/transactions" title="NBA Transactions">Transactions</a></li><li><a href="http://www.cbssports.com/nba/injuries" title="NBA Injuries">Injuries</a></li><li><a href="http://www.cbssports.com/topic/1993964/nba-rumors" title="NBA Rumors">Rumors</a></li><li><a href="http://www.cbssports.com/nba/draft" title="NBA Draft">Draft</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_nba"></div>
+            		<section class="headlines fLeft">
+            			<h2>NBA Headlines</h2>
+            			<ul id="headlines_nba" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_nba"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_mlb" class="globalNavMenu">
+                <!-- include file generated Mon Jun 29 15:08:24 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/mlb" title="MLB News">MLB Home</a></li><li><a href="http://www.cbssports.com/mlb/scoreboard" title="MLB Scores">Scores</a></li><li><a href="http://www.cbssports.com/mlb/schedules" title="2015 MLB Schedule">Schedule</a></li><li><a href="http://www.cbssports.com/mlb/standings" title="MLB Standings">Standings</a></li><li><a href="http://www.cbssports.com/mlb/stats" title="MLB Stats">Stats</a></li><li><a href="http://www.cbssports.com/mlb/teams" title="MLB Teams">Teams</a></li><li><a href="http://www.cbssports.com/mlb/players" title="MLB Players">Players</a></li><li><a href="http://www.cbssports.com/mlb/transactions" title="MLB Transactions">Transactions</a></li><li><a href="http://www.cbssports.com/mlb/injuries" title="MLB Injuries">Injuries</a></li><li><a href="http://www.cbssports.com/mlb/odds" title="Odds">Odds</a></li><li><a href="http://www.cbssports.com/mlb/expert-picks" title="Expert Picks">Expert Picks</a></li><li><a href="http://www.cbssports.com/mlb/powerrankings" title="MLB Power Rankings">Power Rankings</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_mlb"></div>
+            		<section class="headlines fLeft">
+            			<h2>MLB Headlines</h2>
+            			<ul id="headlines_mlb" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_mlb"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_nhl" class="globalNavMenu">
+                <!-- include file generated Mon Jul 06 12:47:57 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/nhl/" title="NHL News">NHL Home</a></li><li><a href="http://www.cbssports.com/nhl/eye-on-hockey/25230139/nhl-free-agency-tracker-all-of-the-signings-and-player-movement" title="NHL Free Agents">Free Agents</a></li><li><a href="http://www.cbssports.com/nhl/scoreboard" title="NHL Scores">Scores</a></li><li><a href="http://www.cbssports.com/nhl/schedules" title="Schedule">Schedule</a></li><li><a href="http://www.cbssports.com/nhl/standings" title="NHL Standings">Standings</a></li><li><a href="http://www.cbssports.com/nhl/stats" title="NHL Stats">Stats</a></li><li><a href="http://www.cbssports.com/nhl/teams" title="NHL Teams">Teams</a></li><li><a href="http://www.cbssports.com/nhl/players" title="NHL Players">Players</a></li><li><a href="http://www.cbssports.com/nhl/transactions" title="NHL Transactions">Transactions</a></li><li><a href="http://www.cbssports.com/nhl/injuries" title="NHL Injuries">Injuries</a></li><li><a href="http://www.cbssports.com/nhl/blog/eye-on-hockey/tag/1979968/nhl-rumors" title="Rumors">Rumors</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_nhl"></div>
+            		<section class="headlines fLeft">
+            			<h2>NHL Headlines</h2>
+            			<ul id="headlines_nhl" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_nhl"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_collegefootball" class="globalNavMenu">
+                <!-- include file generated Mon Jun 01 16:25:18 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/collegefootball" title="College Football News">NCAA FB Home</a></li><li><a href="http://www.cbssports.com/collegefootball/scoreboard" title="College Football Scores">Scores</a></li><li><a href="http://www.cbssports.com/collegefootball/standings" title="College Football Standings">Standings</a></li><li><a href="http://www.cbssports.com/collegefootball/schedules" title="College Football Schedules">Schedules</a></li><li><a href=" http://www.cbssports.com/collegefootball/schedules/bowls" title="Playoff/Bowl Schedule">Playoff/Bowl Schedule</a></li><li><a href="http://www.cbssports.com/collegefootball/stats" title="College Football Stats">Stats</a></li><li><a href="http://www.cbssports.com/collegefootball/conferences/SEC" title="Conferences">Conferences</a></li><li><a href="http://www.cbssports.com/collegefootball/teams" title="College Football Teams">Teams</a></li><li><a href="http://www.cbssports.com/collegefootball/players" title="College Football Players">Players</a></li><li><a href="http://www.cbssports.com/collegefootball/rankings" title="College Football Rankings">Rankings</a></li><li><a href="http://247sports.com/Page/247Sports-Football-Recruiting-134" title="College Football Recruiting">Recruiting</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_collegefootball"></div>
+            		<section class="headlines fLeft">
+            			<h2>NCAA&nbsp;FB Headlines</h2>
+            			<ul id="headlines_collegefootball" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_collegefootball"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_collegebasketball" class="globalNavMenu">
+                <!-- include file generated Mon Jun 01 16:11:16 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/collegebasketball" title="College Basketball News">NCAA BB Home</a></li><li><a href="http://www.cbssports.com/collegebasketball/scoreboard" title="College Basketball Scores">Scores</a></li><li><a href="http://www.cbssports.com/collegebasketball/ncaa-tournament" title="NCAA Tournament">NCAA Tournament</a></li><li><a href="http://www.cbssports.com/collegebasketball/standings" title="College Basketball Standings">Standings</a></li><li><a href="http://www.cbssports.com/collegebasketball/teams" title="College Basketball Teams">Teams</a></li><li><a href="http://www.cbssports.com/collegebasketball/schedules" title="College Basketball Schedules">Schedules</a></li><li><a href="http://www.cbssports.com/collegebasketball/stats" title="College Basketball Stats">Stats</a></li><li><a href="http://www.cbssports.com/collegebasketball/players" title="College Basketball Players">Players</a></li><li><a href="http://www.cbssports.com/collegebasketball/rankings" title="College Basketball Rankings">Rankings</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_collegebasketball"></div>
+            		<section class="headlines fLeft">
+            			<h2>NCAA&nbsp;BB Headlines</h2>
+            			<ul id="headlines_collegebasketball" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_collegebasketball"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_golf" class="globalNavMenu">
+                <!-- include file generated Thu Jul 16 09:49:00 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/golf" title="Golf News">Golf Home</a></li><li><a href="http://www.cbssports.com/golf/leaderboard" title="Golf Leaderboard">Leaderboard</a></li><li><a href="http://www.cbssports.com/golf/schedules" title="Golf Schedules">Schedules</a></li><li><a href="http://www.cbssports.com/golf/players" title="Golf Players">Players</a></li><li><a href="http://www.cbssports.com/golf/stats" title="Golf Stats">Stats</a></li><li><a href="http://www.cbssports.com/golf/rankings" title="Rankings">Rankings</a></li><li><a href="http://www.cbssports.com/golf/tournaments/masters" title="Masters">Masters</a></li><li><a href="http://www.cbssports.com/golf/blog/eye-on-golf/tag/1960756/eye-on-golf-equipment" title="Equipment Blog">Equipment</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_golf"></div>
+            		<section class="headlines fLeft">
+            			<h2>Golf Headlines</h2>
+            			<ul id="headlines_golf" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_golf"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_highschool" class="globalNavMenu">
+                <!-- include file generated Thu Dec 19 13:09:13 EST 2013 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.maxpreps.com/" title="MaxPreps Home for High School Sports">High School Home</a></li><li><a href="http://www.maxpreps.com/national/baseball.htm" title="MaxPreps High School Baseball">Baseball</a></li><li><a href="http://www.maxpreps.com/national/basketball.htm" title="MaxPreps High School Boys Basketball Teams List">Boys Basketball</a></li><li><a href="http://www.maxpreps.com/national/football.htm" title="MaxPreps High School Football">Football</a></li><li><a href="http://www.maxpreps.com/national/girls-basketball.htm" title="MaxPreps High School Girls Basketball Teams List">Girls Basketball</a></li><li><a href="http://www.maxpreps.com/national/volleyball.htm" title="MaxPreps High School Volleyball">Girls Volleyball</a></li><li><a href="http://www.maxpreps.com/national/soccer.htm" title="MaxPreps High School Boys Soccer">Boys Soccer</a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_highschool"></div>
+            		<section class="headlines fLeft">
+            			<h2>High School Headlines</h2>
+            			<ul id="headlines_highschool" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_highschool"></ul>
+                </div>
+            </div>
+            
+            <div id="menu_video" class="globalNavMenu">
+                <!-- include file generated Mon Jun 08 16:04:54 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/video/player/videos" title="Video on Demand">Video Home</a></li><li><a href="http://www.cbssports.com/fantasy/video/daily-fantasy-live" title="Daily Fantasy Live">Daily Fantasy Live</a></li><li><a href="http://www.collegesportslive.com" title="College Sports Live">College Sports Live</a></li><li><a href="http://fantasynews.cbssports.com/fantasyfootballtoday" title="Fantasy FB Today">Fantasy FB Today</a></li><li><a href="http://www.cbssports.com/nfl/video/nfl-on-cbs" title="NFL on CBS">NFL on CBS </a></li></ul>
+                <div class="navMenuContent">
+                    <div class="topStory" id="cover_video"></div>
+            		<section class="headlines fLeft">
+            			<h2>Video Headlines</h2>
+            			<ul id="headlines_video" class="headlines"></ul>
+            		</section>
+            	</div>
+                <div class="navMenuBottomLinks">
+                    <ul id="extras_video"></ul>
+                </div>
+            </div>
+            <div id="menu_more" class="globalNavMenu subMenu"><!-- include file generated Tue Jul 21 12:17:33 EDT 2015 --><ul class="menuSub fontUbuntuMed"><li><a href="http://www.cbssports.com/soccer" title="CBSSports.com Soccer">Soccer</a></li><li><a href="http://newyork.cbslocal.com" title="CBS Local Sites">CBS Local Sites</a></li><li><a href="http://www.followhorseracing.com/" title="Horse Racing">Horse Racing</a></li><li><a href="http://www.nascar.com/en_us/sprint-cup-series.html?cid=syn_cbs_referrers_navlinks_01112013&synid=syn_cbs_referrers_navlinks_01112013" title="NASCAR">NASCAR</a></li><li><a href="http://www.cbssports.com/tennis" title="Tennis">Tennis</a></li><li><a href="http://www.cbssports.com/boxing" title="Boxing">Boxing</a></li><li><a href="http://www.arenafootball.com/frontpage" title="Arena Football">Arena Football</a></li><li><a href="http://www.avp.com" title="AVP">AVP</a></li><li><a href="http://www.bowl.com" title="Bowling">Bowling</a></li><li><a href="http://www.cbssports.com/olympics" title="2014 Winter Olympics">Olympics</a></li><li><a href="http://www.cbssports.com/mma" title="Mixed Martial Arts">UFC</a></li><li><a href="http://www.cbssports.com/podcast" title="CBSSports.com Podcast Index">Podcasts</a></li><li><a href="http://www.cbssports.com/info/siteindex" title="CBSSports.com Site Index">Site Index</a></li></ul></div><div id="menu_local" class="globalNavMenu subMenu menuSub"><ul class="fLeft"><li><a href="http://atlanta.cbslocal.com/category/sports/" title="CBS Atlanta" target="_blank" om-nope="GlobalNav|Local|FastFacts|Atlanta">Atlanta</a></li><li><a href="http://baltimore.cbslocal.com/category/sports/" title="CBS Baltimore" target="_blank" om-nope="GlobalNav|Local|FastFacts|Baltimore">Baltimore</a></li><li><a href="http://boston.cbslocal.com/category/sports/" title="CBS Boston" target="_blank" om-nope="GlobalNav|Local|FastFacts|Boston">Boston</a></li><li><a href="http://chicago.cbslocal.com/category/sports/" title="CBS Chicago" target="_blank" om-nope="GlobalNav|Local|FastFacts|Chicago">Chicago</a></li><li><a href="http://cleveland.cbslocal.com/category/sports/" title="CBS Cleveland" target="_blank" om-nope="GlobalNav|Local|FastFacts|Cleveland">Cleveland</a></li><li><a href="http://dfw.cbslocal.com/category/sports/" title="CBS Dallas/Fort Worth" target="_blank" om-nope="GlobalNav|Local|FastFacts|Dallas">Dallas / Fort Worth</a></li><li><a href="http://denver.cbslocal.com/category/sports/" title="CBS Denver" target="_blank" om-nope="GlobalNav|Local|FastFacts|Denver">Denver</a></li></ul><ul class="fLeft"><li><a href="http://detroit.cbslocal.com/category/sports/" title="CBS Detroit" target="_blank" om-nope="GlobalNav|Local|FastFacts|Detroit">Detroit</a></li><li><a href="http://houston.cbslocal.com/category/sports/" title="CBS Houston" target="_blank" om-nope="GlobalNav|Local|FastFacts|Houston">Houston</a></li><li><a href="http://losangeles.cbslocal.com/category/sports/" title="CBS Los Angeles" target="_blank" om-nope="GlobalNav|Local|FastFacts|Los Angeles">Los Angeles</a></li><li><a href="http://miami.cbslocal.com/category/sports/" title="CBS Miami" target="_blank" om-nope="GlobalNav|Local|FastFacts|Miami">Miami</a></li><li><a href="http://minnesota.cbslocal.com/category/sports/" title="CBS Minnesota" target="_blank" om-nope="GlobalNav|Local|FastFacts|Minnesota">Minnesota</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/" title="CBS Philadelphia" target="_blank" om-nope="GlobalNav|Local|FastFacts|Philadelphia">Philadelphia</a></li><li><a href="http://newyork.cbslocal.com/category/sports/" title="CBS New York" target="_blank" om-nope="GlobalNav|Local|FastFacts|New York">New York</a></li></ul><ul class="fLeft"><li><a href="http://pittsburgh.cbslocal.com/category/sports/" title="CBS Pittsburgh" target="_blank" om-nope="GlobalNav|Local|FastFacts|Pittsburgh">Pittsburgh</a></li><li><a href="http://sacramento.cbslocal.com/category/sports/" title="CBS Sacramento" target="_blank" om-nope="GlobalNav|Local|FastFacts|Sacramento">Sacramento</a></li><li><a href="http://sanfrancisco.cbslocal.com/category/sports/" title="CBS San Francisco" target="_blank" om-nope="GlobalNav|Local|FastFacts|San Francisco">San Francisco</a></li><li><a href="http://seattle.cbslocal.com/category/sports/" title="CBS Seattle" target="_blank" om-nope="GlobalNav|Local|FastFacts|Seattle">Seattle</a></li><li><a href="http://stlouis.cbslocal.com/category/sports/" title="CBS St. Louis" target="_blank" om-nope="GlobalNav|Local|FastFacts|St Louis">St. Louis</a></li><li><a href="http://washington.cbslocal.com/category/sports/" title="CBS Washington" target="_blank" om-nope="GlobalNav|Local|FastFacts|Washington">Washington</a></li></ul></div></div><!-- END globalNavMenus-->
+
+<script>
+$(".userMenu.loggedIn").click(function () {
+    $(this).parent().toggleClass("active");
+    $("#userInfo").toggleClass("active");
+    $(".userName").toggleClass("active");
+});
+</script>
+	
+	<div id="fastFactsContainer"><ul id="fastFactsNav" section="fastFacts.mlb" class="inline"><li section="MLB Home"><a href="/mlb"  om-event="FastFactNav|MLB|MLB Home">MLB Home</a></li><li section="Scores"><a href="/mlb/scoreboard"  om-event="FastFactNav|MLB|Scores">Scores</a></li><li section="Schedules"><a href="/mlb/schedules"  om-event="FastFactNav|MLB|Schedules">Schedules</a></li><li section="Standings"><a href="/mlb/standings"  om-event="FastFactNav|MLB|Standings">Standings</a></li><li section="Stats"><a href="/mlb/stats"  om-event="FastFactNav|MLB|Stats">Stats</a></li><li section="Teams"><a href="/mlb/teams"  om-event="FastFactNav|MLB|Teams">Teams</a></li><li section="Players"><a href="/mlb/players"  om-event="FastFactNav|MLB|Players">Players</a></li><li section="Transactions"><a href="/mlb/transactions"  om-event="FastFactNav|MLB|Transactions">Transactions</a></li><li section="Injuries"><a href="/mlb/injuries"  om-event="FastFactNav|MLB|Injuries">Injuries</a></li><li section="Rumors"><a href="/topic/2143202/mlb-rumors?tag_text=MLB%20Rumors"  om-event="FastFactNav|MLB|Rumors">Rumors</a></li><li section="Power Rankings"><a href="/mlb/powerrankings"  om-event="FastFactNav|MLB|Power Rankings">Power Rankings</a></li></ul></div><!-- END fastFactsContainer -->
+</header>
+<style type="text/css">
+.leagueSelector .leagueSelectorArrow {top: 21px; right:0px;}
+#saagBoxScores.soccerSaag td.score {padding-left:8px;}
+#saagBoxScores.soccerSaag td.status {padding-left:2px;}
+#saagBoxScores.soccerSaag .liveEvent td.status {text-align:center;}
+#saagBoxScores.soccerSaag .status span.group {text-align: center; display: block;}
+#saagBoxScores.soccerSaag td.status span.period,
+#saagBoxScores.soccerSaag td.status span.clock {display:inline-block;}
+#saagBoxScores.soccerSaag td.score {text-align:center;}
+#saagBoxScores.soccerSaag span.clock {margin-left: 10px;}
+#saagBoxScores.soccerSaag li.postEvent td.status a {margin-left: 2px;}
+
+#saagWrapper.suppressSAAGSlider .prevArrow,
+#saagWrapper.suppressSAAGSlider .nextArrow {display:none;}
+#saagScoresExtras {visibility:hidden; float:left; width:0px;}
+/* size the scores extra per specific promo; only one promo has ever been used at one time...so far*/
+#saagScoresExtras.show {
+  visibility: visible;
+  width: 282px;
+  margin-right: 8px;
+  margin-top: 2px;
+  margin-left: 2px;
+}
+/*custom promo class tailored to masters promo and scores list widths*/
+#saagScores.saagEventPromo  {
+    width:417px !important; height: 40px;
+    margin-left: 6px; margin-right: 6px;
+}
+#saagScoresList ul.golfSaag li {
+//    background:none;
+//    background-color:#133119;
+}
+#saagScoresList ul.golfSaag li, #saagScoresList ul.golfSaag li a {color:#EAEAEA !important;}
+</style>
+<div id="saagWrapper">
+    <div class="saag">
+        <div class="leagueSelector">
+            <nav om-nope="saag|MLB|sportsmenu|button">
+            <span class="leagueName">MLB</span>
+            <span class="saagSubTitle">Scores</span>
+            <span class="leagueSelectorArrow"></span>
+            </nav>
+            <ul class="leagueList"><li data-category="my" om-nope="saag|MLB|sportsmenu|my">My Scores</li><li data-category="nfl" om-nope="saag|MLB|sportsmenu|nfl">NFL</li><li data-category="mlb" om-nope="saag|MLB|sportsmenu|mlb">MLB</li><li data-category="golf" om-nope="saag|MLB|sportsmenu|golf">Golf</li></ul>
+        </div>
+        <span class="saagNav prevArrow arrowDeactivate" om-nope="saag|MLB|slider|mlb|previous"><span></span></span>
+        <div id="saagScores">
+            <span class="saagShadow before"></span>
+            <span class="saagShadow after"></span>
+            <span class="saagShadow top"></span>
+            <span class="saagShadow bottom"></span>
+            <div id="saagScoresList"></div>
+        </div>
+        <div id="saagScoresExtras"></div>
+        <span class="saagNav nextArrow" om-nope="saag|MLB|slider|mlb|next"><span></span></span>
+        <div class="saagFullScoreBoard"><a href="/mlb/scoreboard" om-nope="saag|MLB|fullscoreboard|mlb">Full MLB<br />Scoreboard</a></div>
+    </div></div>
+    
+<!--googleon: snippet-->
+<div id="mantle_skin">
+
+    <div id="skin_ad_call" style="max-height:1px !important">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {googletag.display("skin_ad_call");});
+        if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="skin_ad_call" style="width:960px"><br>').insertBefore('#skin_ad_call');
+        </script>
+    </div>
+    <div align="center" style="height:auto;">
+    
+            <div id="leader_top" style="padding-top:10px;">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {googletag.display("leader_top");});
+                if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="leader_top" style="width:980px"><br>').insertBefore('#leader_top');
+            </script>
+            </div>
+            
+</div>
+<div id="pageRow">
+    
+    <div id="pageContainer" class="layoutStory" section="layout;story">
+        <div id="layoutStory" class="blogBody">
+<!--uses custom tablefrom the sfc tool tinymce-->
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+<link rel="stylesheet" type="text/css" href="http://sports.cbsimg.net/css/sfc/nfl-grades-template.css" />
+
+<style type="text/css">
+#layoutStory.blogBody .longform {
+    width:980px;
+}
+</style>
+<div class="column1 printerShow"><div id="storyContent">
+            <div id="marketing_over_top">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {googletag.display("marketing_over_top");});
+                if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="marketing_over_top" style="width:300px"><br>').insertBefore('#marketing_over_top');
+            </script>
+            </div>
+        <div class="storyHeader blogMLB blogPost eyeBlog"> <div class="storyHeaderText fontOrbitronReg fLeft"><div></div></div></div><!-- END story header container -->    <article>
+      <header>
+        <h1 class="storyHdl">Report: 'Several Angels teammates' skeptical of C.J. Wilson's elbow injury</h1><div class="fLeft"><div class="storyByline">By <span class="name">David <em>Brown</em></span> | Baseball Writer</div></div><div class="clearBoth"></div>
+        <time class="storyDate" pubdate datetime="2015-08-01T22:55:26Z"><span class="gmtTime" data-gmt="1438469726" data-gmt-format="%B %e, %Y %l:%M %p %Z">August  1, 2015  6:55 PM ET</span></time>
+        <div class="mBottomStd"><div class="siteTools buttonBar"><ul><li class="shareFacebook" om-event="ShareBar|mlb|blogs_eye_entry|FBShare">
+        <div class="fb-share-button" data-href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" data-layout="button_count" title="Share on Facebook" alt="Facebook button"></div>
+    </li>
+<li class="shareTwitter" om-event="ShareBar|mlb|blogs_eye_entry|TWTweet">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="Report: 'Several Angels teammates' skeptical of C.J. Wilson's elbow injury" data-counturl="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" data-url="http://cbsprt.co/1IcEAFv" data-via="cbssports" data-width="75px" data-lang="en" title="Share on Twitter" data-related="CBSSports,EyeOnBaseball" alt="Tweet button"></a></li>
+<li class="shareGoogle" om-event="ShareBar|mlb|blogs_eye_entry|GPShare">
+    <!-- Render Google +1 button -->
+    <g:plusone size="medium" callback='DW.levt("ria", "log", {"riaevent":"click","comp":"main","objnm":"googleplus_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"})' href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury"></g:plusone>
+    </li>
+<li class="stumbleUpon" om-event="ShareBar|mlb|blogs_eye_entry|Stumble">
+    <!-- Render Stumble Upon button -->
+    <su:badge layout="1" title="Share on Stumble Upon" alt="Stumble Upon button"></su:badge>
+    </li>
+</ul></div></div>
+      </header>
+      <div class="storyCopy"><div class="embedVideo"><iframe id="embedVideo_950573044601" name="embedVideo_950573044601" src="/video/player/embed?args=player_id%3D950573044601%26channel%3Dmlb%26pcid%3D495594051600%26width%3D640%26height%3D360%26autoplay%3Dfalse%26comp_ads_enabled%3Dfalse%26comp_ad_w%3D300%26comp_ad_h%3D60%26autoplay_live%3Dfalse%26lazy_load%3Dfalse" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" allowfullscreen="true" frameborder="0" height="360" width="640"></iframe></div><p>Left-hander <a class="playerLink" href="/mlb/players/playerpage/548808/cj-wilson">C.J. Wilson</a> has one season left on his contract with the <a href="/mlb/teams/page/LAA/los-angeles-angels">Los Angeles Angels</a> after 2015. He probably can't wait to find a new team, if what <a href="http://m.angels.mlb.com/news/article/140411536/cj-wilson-may-have-surgery-on-left-elbow">Alden Gonzalez of MLB.com</a> wrote about Wilson's elbow injury, and how the Angels have been handling it, is accurate.</p><p>Gonzalez reported Saturday that Wilson has been on his own in finding an updated diagnosis for his sore left elbow, which has bone spurs that limit his range of motion to the point where he no longer can pitch effectively, Wilson said. He needs surgery to fix the problem -- something Wilson knew in April when the bone spurs were first diagnosed -- but surgery now would put him out for the rest of the season. And that's unacceptable to "several Angels" teammates who apparently don't think Wilson is <em>that</em> injured.</p><p></p><p></p><p></p><p><figure><img src="http://sports.cbsimg.net/images/visual/whatshot/432CJWilsonelbow.jpg" alt="CJ Wilson likely done for season" style="vertical-align: middle;" height="432" width="640" /> <figcaption>C.J. Wilson needs surgery that likely will end his season. <span>&#040;USATSI&#041;</span></figcaption></figure></p><p></p><p></p><p></p><p>That's only part of what Gonzalez means when he writes that Wilson is "on his own." Wilson "spent most of Friday getting his elbow examined on his own, undergoing a CT scan, a 3D and contrast MRI." Wilson joked that he would return to the team Saturday and read the test results to the media himself, but he probably was only half-joking, because support for Wilson on the Angels feels more like skepticism.</p><p>To the public, manager Mike Scioscia says he's confident that other Angels pitchers would be able to fill in for Wilson. But:</p><blockquote class="QuoteMessage"><p>Privately, though, several Angels players expressed frustration in Wilson's decision, with some believing he should've continued to try to pitch through the issue.</p><p>Wilson was adamant in saying he can no longer push through it.</p><p>"I've <em>been</em> pushing through it for a couple months," said Wilson, 8-8 with a 3.89 ERA in 132 innings. "I've thrown 100 innings in this condition, and it's just consistently getting worse. As it gets worse, the risk of blowing my shoulder out and being completely done with baseball increases, and I'm not willing to take that risk."</p><p>Wilson asked doctors if there was any chance he could be available to the Angels out of the bullpen when rosters expand in September, "but they don't think the timeline is really there for that."</p></blockquote><p>Being skeptical that someone isn't that hurt when he says he's hurt is a dangerous thing to do on a sports team. These guys are crammed together for several months out of the year and, even if they don't all like each other, they count on the support of teammates. They certainly count on opposition. Wilson doesn't seem to be getting the full support of Angels players. And what about the staff and management? Well, Scioscia doesn't <em>say</em> anything incriminating in Gonzalez's post, but that Wilson was out getting checked out "on his own" means Angels officials weren't supporting him, either. Again, nobody has said this to the press, but it's as if Angels officials &#040;along with several teammates&#041; are telling Wilson he needs to pitch through the pain. It's outrageous. It's disgusting. It's total baloney sandwich, if you get the euphemism.</p><p>Wilson has made between 31 and 34 starts per season since becoming a full-time starter in 2010. He's missed, like, three starts in all of that time &#040;when he went on the DL in the middle of 2014&#041;, while making 186. This season alone, Wilson has gotten fluid drained four separate times. Wilson, who had Tommy John elbow ligament replacement surgery in 2003, has had bone spurs removed on two other occasions, most recently after the 2012 season. He knows what's up with his own elbow. How can &#040;some of&#041; the Angels not understand this?</p><p>Presumably, it's because the Angels are in a playoff race in the AL West, and Wilson is making &#036;18 million, and should just be a man and push through the pain, because that's what you do. Well, as Wilson said, it's what he's <em>been</em> doing. Apparently without much backup from his own team. The Angels have had a bad year in terms of publicity, starting at the top with owner Arte Moreno, and filtering on down. The Jerry Dipoto business. The marketing nonsense. Remember how they supported Josh Hamilton after it was found he relapsed? Yeah, they didn't. They wanted to tear up his contract. They did him a favor, by happenstance, trading him to the Rangers. It was a bad look.</p><p></p><p></p><p></p><p><figure><img src="http://sports.cbsimg.net/images/visual/whatshot/534artesigh.jpg" alt="Arte Moreno" style="vertical-align: middle;" height="534" width="640" /> <figcaption>Moreno needs to get control of his rudderless ship. <span>&#040;USATSI&#041;</span></figcaption></figure></p><p></p><p></p><p></p><p>There was a notable exception during the Hamilton debacle. <a href="http://www.cbssports.com/mlb/eye-on-baseball/25145457/cj-wilson-calls-out-angels-management-over-treatment-of-josh-hamilton">C.J. Wilson stuck up for Hamilton</a>, realizing that addicts are people too, and that teammate support, at least to a degree, happens without conditions. Say whatever you want about Hamilton, that his actions and behavior make him unworthy of support -- but there's nothing that Wilson's done to be backstabbed like this. Does his support for Hamilton have anything to do with his team not being there for Wilson? You hope not. Wilson also has a reputation for being a bit different, in terms of personality. Is it because he won't mindlessly play through an injury? Or that he likes to take artsy photographs? The car dealership? It doesn't matter regardless. It's a baloney sandwich.</p></div>
+      <footer>
+      <div class="contentTags"><b>Topics:</b> <a href="/topic/548808/cj-wilson?tag_text=C.J.%20Wilson">C.J. Wilson</a>, <a href="/topic/301/los-angeles-angels?tag_text=Los%20Angeles%20Angels">Los Angeles Angels</a>, <a href="/topic/52/mlb?tag_text=MLB">MLB</a></div>
+      
+      <div class="clearBoth"></div>
+      </footer>
+    </article>
+</div><!--end storyContent--><div class="mBottomStd"><div class="siteTools buttonBar"><ul><li class="shareFacebook" om-event="ShareBar|mlb|blogs_eye_entry|FBShare">
+        <div class="fb-share-button" data-href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" data-layout="button_count" title="Share on Facebook" alt="Facebook button"></div>
+    </li>
+<li class="shareTwitter" om-event="ShareBar|mlb|blogs_eye_entry|TWTweet">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="Report: 'Several Angels teammates' skeptical of C.J. Wilson's elbow injury" data-counturl="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" data-url="http://cbsprt.co/1IcEAFv" data-via="cbssports" data-width="75px" data-lang="en" title="Share on Twitter" data-related="CBSSports,EyeOnBaseball" alt="Tweet button"></a></li>
+<li class="shareGoogle" om-event="ShareBar|mlb|blogs_eye_entry|GPShare">
+    <!-- Render Google +1 button -->
+    <g:plusone size="medium" callback='DW.levt("ria", "log", {"riaevent":"click","comp":"main","objnm":"googleplus_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"})' href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury"></g:plusone>
+    </li>
+<li class="stumbleUpon" om-event="ShareBar|mlb|blogs_eye_entry|Stumble">
+    <!-- Render Stumble Upon button -->
+    <su:badge layout="1" title="Share on Stumble Upon" alt="Stumble Upon button"></su:badge>
+    </li>
+</ul></div></div>
+        <div class="YAD"></div><div class="mBottomStd"><script>(function(a,b,c,d,e,f){a[d]||(a[d]=function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});e=b.createElement(c);f=b.getElementsByTagName(c)[0];e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));yad('19dbf223-b4f7-36c6-b5e1-e4c52bbddc13',{tracking: {ftag: 'YHR6f8d662'}});</script></div>
+    <div class="mBottomStd">
+    <style>.biggestCover {font-size:19px;margin-bottom:4px !important;}</style>
+    <section class="feature latestHeadlines">
+        <header><h3><span><strong>Biggest</strong> Stories</span></h3></header>
+        <div style="display:relative;width:310px;margin-right:15px;float:left;">
+            <ul>
+            
+        <li>
+        <span class="category">MLB</span>
+        <h4 class="biggestCover"><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256784/mlb-august-trade-candidates-shields-howard-among-big-name-targets" om-nope="Biggest Stories|MLB|Covers">August trade candidates</a></h4>
+        <a href="http://www.cbssports.com/mlb/eye-on-baseball/25256784/mlb-august-trade-candidates-shields-howard-among-big-name-targets" title="MLB: August trade candidates" om-nope="Biggest Stories|MLB|Covers"><img src="http://sports.cbsimg.net/u/photos/baseball/mlb/img25256970.jpg" width="304" height="171" alt="MLB: August trade candidates"></a>
+        </li>
+        <li>
+        <span class="category">MLB</span>
+        <h4 class="biggestCover"><a href="http://www.cbssports.com/mlb/gametracker/live/MLB_20150801_SF@TEX" om-nope="Biggest Stories|MLB|Covers">Live: Giants, Rangers in extras</a></h4>
+        <a href="http://www.cbssports.com/mlb/gametracker/live/MLB_20150801_SF@TEX" title="Live: Giants-Rangers om-nope="Biggest Stories|MLB|Covers""><img src="http://sports.cbsimg.net/u/photos/baseball/mlb/img25257081.jpg" width="304" height="171" alt="Live: Giants-Rangers"></a>
+        </li>
+    
+            </ul>
+        </div>
+        <div style="display:relative;width:305px;float:left;">
+            <ul>
+            <li><span class="category">MLB</span><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256652/mlb-trade-deadline-norris-phillips-peraza-among-best-prospects-traded" om-nope="Biggest Stories|MLB|Headlines"><b>Prospect Watch:</b> Norris among top arms dealt</a></h4></li><li><span class="category">MLB</span><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" om-nope="Biggest Stories|MLB|Headlines">Report: Some Angels skeptical of Wilson injury</a></h4></li><li><span class="category">MLB</span><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256983/clayton-kershaws-scoreless-streak-reaches-37-innings" om-nope="Biggest Stories|MLB|Headlines">Kershaw runs scoreless streak to 37 innings</a></h4></li><li><span class="category">Golf</span><h4><a href="http://www.cbssports.com/golf/eye-on-golf/25256908/tiger-woods-struggles-shoots-74-saturday-at-quicken-loans-national" om-nope="Biggest Stories|MLB|Headlines">Woods struggles, falls back with 3rd-round 74</a></h4></li><li><span class="category">NFL</span><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25256823/broncos-wr-kyle-williams-ruptures-achilles-says-hes-out-for-season" om-nope="Biggest Stories|MLB|Headlines">Broncos WR Williams out for season (Achilles)</a></h4></li></h4></li></h4></li><li><span class="category">NCAA Basketball</span><h4><a href="http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25256582/ucla-accepts-commitment-from-13-year-old-star-lamelo-ball" om-nope="Biggest Stories|MLB|Headlines">UCLA accepts commitment of 13-year-old Ball</a></h4></li>
+            </ul>
+        </div>
+    
+    </section>
+    <div class="spacer10" style="clear:both;"></div>
+    </div> 
+<!-- Include the Comments 3 JavaScript library -->
+<script src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js" data-lf-domain="cbssports.fyre.co" type="text/javascript"></script>
+<script type="text/javaScript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+<style>
+.fyre {top: -30px;font-family: "proxima-nova",verdana,sans-serif;}
+
+.fyre-help {display: none;}
+.fyre-live-container {top: -35px; right: -47px;}
+.fyre-auth {top: -30px;}
+.fyre-editor-toolbar .goog-toolbar-horizontal:4 {background-color: #000000;}
+.fyre .fyre-box-wrapper span.fyre-user-drop {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre-editor-editable {background-color: #FFFFFF;}
+.fyre-editor-small .fyre-editor-editable iframe {position: relative; top: 0px;}
+.fyre-editor-editable iframe {position: relative; top:-23px;}
+.fyre .fyre-livecount {top: -12px;}
+.fyre .fyre-login-bar a:link {color:#212121}
+.fyre .fyre-login-bar a:visited {color:#212121}
+.fyre .fyre-login-bar a:hover {color:#212121}
+.fyre .fyre-stream-livecount {font-family: "proxima-nova",verdana,sans-serif; font-size: 15px;}
+.fyre .fyre-comment-stream {overflow: hidden; width: 100%; height: 100%;}
+.fyre .fyre-comment-head {font-family: "proxima-nova",verdana,sans-serif;font-size:14px;}
+.fyre .fyre-comment p {font-family: "proxima-nova",verdana,sans-serif;font-size:14px;}
+.fyre .fyre-user-avatar-25 {display: none;}
+.fyre .fyre-listener-avatars {display: none !important;}
+.fyre .fyre-comment-user {display: none !important;}
+.fyre .fyre-comment-body {margin-left: 0px;}
+.fyre .fyre-box-wrapper {left: 0px;}
+.fyre .fyre-comment-like-count {display: none;}
+.fyre .fyre-comment-like-imgs {display: none;}
+.fyre .fyre-box-wrapper a.fyre-user-profile-link {padding: 8px 10px !important;}
+.fyre .fyre-comment-divider > div.fyre-comment-divider {margin: 0px;} 
+.fyre .fyre-comment-article .fyre-comment-wrapper time.fyre-comment-date {position: relative; top: -16px;}
+.fyre .fyre-comment-replies-indent {margin-left: 0px; padding-left: 62px;}
+.fyre .fyre-comment-source-13 > .fyre-comment-divider.fyre-divider-active > div.fyre-comment-divider, .fyre .fyre-comment-source-13 > .fyre-comment-divider.fyre-comment-collapse > div.fyre-comment-divider, .fyre .fyre-comment-divider.fyre-divider-active > div.fyre-comment-divider, .fyre .fyre-comment-divider.fyre-comment-collapse > div.fyre-comment-divider {margin: 0 0 0 62px;}
+
+/*
+.fyre .fyre-notifier-container {left: 0px !important;}
+*/
+.fyre .fyre-stream-stats:before {
+    border-color: #0B0B3B transparent transparent #0B0B3B;
+    border-image: none;
+    border-style: solid;
+    border-width: 5px;
+    content: " ";
+    height: 0px;
+    left: 10px;
+    position: absolute;
+    top: 26px;
+    width: 0px;
+}
+.fyre .fyre-stream-stats {
+    border: 1px solid #000000;
+    width: 45px;
+    top: -37px;
+    /*left: 593px;*/
+    position: relative;
+    border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    background-color: #0B0B3B;
+    float: right;
+}
+.fyre .fyre-comment-like-btn {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-like-btn:hover {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-reply {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-reply:hover {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+
+.fyre-stream-stats .fyre-comment-count span {text-align: center; width: 45px; color: #FFFFFF;}
+.fyre .fyre-login-bar {top: -35px; font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-editor-toolbar .goog-toolbar > div.fyre-post-button {filter: none; background: #0B0B3B !important; background-color: #0B0B3B !important; background-image: none !important;}
+.fyre .fyre-editor-toolbar .goog-toolbar > div.fyre-post-button .fyre-button-right-inner-box {color: #FFFFFF; text-shadow: 0px 0px; #FFFFFF}
+#lf_login_buttons {position: relative; top: 5px; left: -6px; z-index: 4999;}
+#lf_comments_label {display: none; float: right; right: 55px; position: relative; top: 48px; font-size: 18px; font-family: "proxima-nova",verdana,sans-serif;}
+#customButtonCtr {height: 50px;}
+.fyre .fyre-comment-actions a.fyre-delete-link {display: none;}
+
+
+/* durations */
+.fyre time.fyre-comment-date {margin-right: 5px; color: #888888;}
+.fyre .fyre-comment-head, .fyre .fyre-comment-body {margin-left: 0px !important;}
+.fyre .fyre-comment a.fyre-comment-edit {padding: 0px;} 
+
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to .fyre-button-right-inner-box {background: url("http://sports.cbsimg.net/images/livefyre/post-to-sprite_birdyv1.png") no-repeat scroll left top transparent; color: transparent; height: 14px; width: 18px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-facebook .fyre-button-right-inner-box {background-position: -19px 0; width: 12px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-facebook .fyre-post-to-selected {background-position: -19px -19px; width: 12px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-twitter .fyre-button-right-inner-box.fyre-post-to-selected { background-position: 0 -19px; }
+#getScreenName {display: none; font-family: "proxima-nova",verdana,sans-serif; font-size: 15px; color: #3E3E3E; position: relative; top: 36px; z-index: 4999;}
+#getScreenName a:link {color: #3E3E3E;}
+#getScreenName a:visited {color: #3E3E3E;}
+#getScreenName a:hover {color: #3E3E3E;}
+
+.fyre .fyre-stream-more .fyre-stream-more-container {background-color: #0B0B3B; background-image: none; }
+.fyre .fyre-stream-more .fyre-stream-more-container .fyre-text {font-family: "proxima-nova",verdana,sans-serif; font-size: 15px; color: #FFFFFF; font-weight: bold;}
+.fyre .fyre-stream-more {background: none;}
+.fyre .fyre-editor-container {top: 5px !important;}
+
+#fbLoginDiv {position: relative; top: -4px; left: 0px;}
+#googlesignin {position: relative; top: -2px; left: 0px;}
+.fyre .fyre-user-loggedout {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-editor .fyre-editor-toolbar .goog-toolbar>div {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-stream-sort {font-family: "proxima-nova",verdana,sans-serif;};
+.fyre .fyre-comment-head, .fyre .fyre-comment-body {font-family: "proxima-nova",verdana,sans-serif;};
+</style>
+
+
+
+<map name="lfloginmap" id="lfloginmap">
+    <area shape="rect" coords="4,2,114,26" alt="CBSSports" onclick="javascript:CBS_login()">
+    <area shape="rect" coords="120,2,214,26" alt="Facebook" onclick="javascript:callFBApi()">
+    <span id="googlesignin" class="" data-scope="https://www.googleapis.com/auth/plus.login" data-clientid="1000074490960.apps.googleusercontent.com" data-callback="signinCallback" data-theme="dark" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-width="wide"><area shape="rect" coords="220,2,314,26" alt="Google Plus" onclick="javascript:callGPApi()"></span>
+</map>
+<div id="getScreenName"></div>
+<div id="customButtonCtr">
+    <div id="lf_comments_label">COMMENTS</div>
+</div>
+<a name="commentsAnchor"></a>
+<div id="livefyre">
+    
+</div>
+
+<script type="text/javascript">
+    var globalGPaccessToken;
+    function callGPApi(){ 
+        //$("#googlesignin").addClass('g-signin');
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        console.log("API Loaded");
+    }
+    function signinCallback(authResult) {
+        if (authResult['access_token']) {
+            // Successfully authorized
+            globalGPaccessToken = authResult['access_token'];
+            console.log("Granted Access to GP API");
+            setup_gprofile();
+        } else if (authResult['error']) {
+            // There was an error.
+            // Possible error codes:
+            //   "access_denied" - User denied access to your app
+            //   "immediate_failed" - Could not automatially log in the user
+            console.log('There was an error: ' + authResult['error']);
+        }
+    }
+    function setup_gprofile(){
+        gapi.client.load('plus','v1', function(){
+            var request = gapi.client.plus.people.get( {'userId' : 'me'} );
+            request.execute(function(profile){
+                login_user = profile.id;
+                login_name = profile.displayName; 
+                console.log("Login Name: " + login_name);
+                log_in_socially(login_name, login_name, 'gp');
+                document.cookie = "lf_social_info=|GP|; expires=0; path=/";
+            });
+        });
+    }
+    function disconnectGPUser(access_token) {
+          var revokeUrl = 'https://accounts.google.com/o/oauth2/revoke?token=' +
+                access_token;
+
+          // Perform an asynchronous GET request.
+          $.ajax({
+            type: 'GET',
+            url: revokeUrl,
+            async: false,
+            contentType: "application/json",
+            dataType: 'jsonp',
+            success: function(nullResponse) {
+            // Do something now that user is disconnected
+            // The response is always undefined.
+            },
+            error: function(e) {
+                // Handle the error
+                // console.log(e);
+                // You could point users to manually disconnect if unsuccessful
+                // https://plus.google.com/apps
+            }
+         });
+    }
+
+
+</script>
+
+<script type="text/javascript">
+// Initialize Comments 3 
+var userObj = {};
+var isLoggedIn = 0;
+var changedDom = 0;
+var loggedin;
+var hasProfile = 0;
+var lf_user_profile;
+var CBS_login = 0;
+var has_fb_login = 0;
+
+    //console.log("document.domain=" + document.domain);
+    //console.log("location.host=" + location.host);
+
+    //CBSi.injectJS('//connect.facebook.net/en_US/sdk.js', 'facebook-jssdk');
+    //FB.init({appId : '297742330311988', oauth : true, version: ''});
+    CBS_login = function(){
+        document.location.href = 'http://www.cbssports.com/login?master_product=2580&xurl=' + encodeURIComponent('http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury');
+    }
+
+    /*
+    window.fbAsyncInit = function() {
+            has_fb_login = 1; 
+    }
+    */
+    
+    /*
+    $("#cbssportslogin").click(function()
+    {
+        CBS_login('http://www.cbssports.com/login?master_product=2580&xurl=http://www.cbssports.com/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury');
+    });
+    */
+
+    var lf_config = [{"collectionMeta":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlJlcG9ydDogXFxTZXZlcmFsIEFuZ2VscyB0ZWFtbWF0ZXNcXCBza2VwdGljYWwgb2YgQy5KLiBXaWxzb25cXHMgZWxib3cgaW5qdXJ5IiwidXJsIjoiaHR0cDovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9leWUtb24tYmFzZWJhbGwvMjUyNTY5NDQvcmVwb3J0LXNldmVyYWwtYW5nZWxzLXRlYW1tYXRlcy1za2VwdGljYWwtb2YtY2otd2lsc29ucy1lbGJvdy1pbmp1cnkiLCJ0YWdzIjoiIiwiY2hlY2tzdW0iOiIwMTE5MDQwNmVhYTY4YmRlNmQzZGYxODU1ZWEwZTYzZiIsImFydGljbGVJZCI6ImM6MjUyNTY5NDQifQ.cbR5hUHpk4UvlvBh6DUdQdvYdhH4cGvfZdRSohYQBz8",
+        "checksum":"01190406eaa68bde6d3df1855ea0e63f",
+        "siteId":"309983",
+        "articleId":"c:25256944",
+        "el":"livefyre"
+    }];
+
+    var customStrings = {
+        postAsButton: "POST COMMENT",
+        postButton: "POST COMMENT",
+        follow: "+ Follow Conversation",
+        commentCountLabel: "",
+        commentCountLabelPlural: "",
+        signIn: "SIGN IN WITH<br><div id=\"lf_login_buttons\"><table><tr><td><img onclick=\"javascript:CBS_login()\" src=\"http://sports.cbsimg.net/images/livefyre/cbs_lf_login.png\"></td><td><div id=\"fbLoginDiv\"><div size=\"large\" class=\"fb-login-button\" data-onlogin=\"callFBApi()\" data-width=\"160\"></div></div><td><span id=\"googlesignin\" class=\"g-signin\" data-scope=\"https://www.googleapis.com/auth/plus.login\" data-clientid=\"1000074490960.apps.googleusercontent.com\" data-callback=\"signinCallback\" data-theme=\"dark\" data-cookiepolicy=\"single_host_origin\" data-requestvisibleactions=\"http://schemas.google.com/AddActivity\" data-width=\"wide\"><img width=\"92\" height=\"31\" src=\"http://sports.cbsimg.net/images/livefyre/gplus_base.png\" onclick=\"javascript:callGPApi()\"></span></td></table></div>"
+    }
+
+    
+    //console.log(customStrings.signIn);
+
+    callFBApi = function() {
+       var accessToken;
+       var uid;
+       //CBSi.injectJS('//connect.facebook.net/en_US/sdk.js#xfbml=1', 'facebook-jssdk');
+       /*
+       FB.init({
+           appId : '297742330311988',
+           oauth : true,
+           version: 'v2.3'
+       });
+       */
+       FB.getLoginStatus(function(response) {
+          if (response.status === 'connected') {
+                handle_fb_response(response.authResponse);
+          }
+          else{
+            FB.login(function(response) {
+                if (response.authResponse) {
+                    handle_fb_response(response.authResponse);
+                    /*
+                    uid = response.authResponse.userID;
+                    accessToken = response.authResponse.accessToken;
+                    //CBSi.log("== FB APP DATA ==", response);
+                    FB.api('/me', function(social) {
+                        //CBSi.log("== FB USER DATA ==", social);
+                        log_in_socially(social.name, social.username, 'fb');
+                        document.cookie = "lf_social_info=|FB|; expires=0; path=/";
+                    });
+                    */
+                }
+            });
+         }
+        });
+    };
+    
+    handle_fb_response = function(authResponse){
+        uid = authResponse.userID;
+        accessToken = authResponse.accessToken;
+        FB.api('/me', function(social) {
+            //CBSi.log("== FB USER DATA ==", social);
+            log_in_socially(social.name, social.username, 'fb');
+            document.cookie = "lf_social_info=|FB|; expires=0; path=/";
+        });
+
+    }
+
+    log_in_socially = function(dn, userid, site) {
+        $.ajax({
+            url: "/data/common/livefyre/lf_social_login",
+            dataType: 'json',
+            data: {
+                lfdn: dn,
+                lfuser: userid,
+                ssite: site
+            }
+        }).done(function(profile) {
+            //CBSi.log("== Social Login ==",profile,site);
+            if (profile.error) {
+                //CBSi.log("Social login failed with error: ", profile);
+                return null;
+            }
+            else {
+                document.cookie = "lf_social_login="+ profile.socialsess +"; expires=0; path=/";
+                profile.socialsess = '1';
+                userObj = profile;
+                lf_user_profile = profile;
+                doLivefyreAuth(profile);
+            }
+        });
+    };
+
+    callTwitterApi = function() {
+        window.open('/common/livefyre/V3/via_twitter?debug=32','twitterOauth','width=600,height=500,menu=0,status=0');
+    };
+    callTwitterApiHidden = function() {
+        var arr1 = readCookie('lf_social_info').split(/\|/);
+        log_in_socially(arr1[2], arr1[3], 'twitter');
+        hasProfile = 1;
+    }
+    
+    function doLivefyreAuth(cval) {
+        //console.log("== Attempting LF Login ==",cval);
+
+        var isLoggedIn = 1;
+        if (cval) {
+            try {
+                fyre.conv.login(cval.token);
+            } catch (e) {
+                isLoggedIn = 0;
+            }
+        }
+    }
+
+    changeDOM = function() {
+        // DOM hacks.  Change the UI for the dropdown box
+        //console.log("== Running Dom Hacks ==");
+
+        if (isLoggedIn == 1){
+            //console.log("== Checking Match ==");
+
+            if (hasProfile == 0) {
+                //CBSi.log("== adding get comment link ==");
+                // They need a screen name
+                //$('.lf_auth_section a.lf_user_loggedout').html('Get a Screen Name to Comment').addClass('loginLink');
+                $('.fyre .fyre-user-loggedout').hide();
+                var style = "<style>.goog-inline-block.fyre-button-right-outer-box{display:none}</style>";
+                $('head').append(style);
+                $('#getScreenName').show();
+                var screenNameContent = '<a href="http://www.cbssports.com/registration/validate/send?master_product=2580&userid=Vb2TMQq0Gy8AAAOXyvE&email=&end=http%3A%2F%2Fwww.cbssports.com%2Fregistration%3Fmaster_product%3D2580%26end%3Dhttp%253A%252F%252Fwww.cbssports.com%252Fmlb%252Feye-on-baseball%252F25256944%252Freport-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury%253FprofFR%253D1">Get a Screen Name to Comment</a>';
+                $('#getScreenName').html(screenNameContent);
+            } else if (userObj.profile.valid_email_flag != '1') {
+                $('.fyre .fyre-user-drop').hide();
+                var style = "<style>.goog-inline-block.fyre-button-right-outer-box{display:none}</style>";
+                $('head').append(style);
+                $('#getScreenName').show();
+                var screenNameContent = '<a href="http://www.cbssports.com/registration/validate/send?master_product=2580&userid=Vb2TMQq0Gy8AAAOXyvE&email=&end=http%3A%2F%2Fwww.cbssports.com%2Fregistration%3Fmaster_product%3D2580%26end%3Dhttp%253A%252F%252Fwww.cbssports.com%252Fmlb%252Feye-on-baseball%252F25256944%252Freport-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury%253FprofFR%253D1">Validate your email to Comment</a>';
+                $('#getScreenName').html(screenNameContent);
+            }
+            /*
+            else {
+                if (typeof userObj.profile.profile_url != 'undefined'){
+                    if (userObj.profile.profile_url) {
+                         //CBSi.log("== adding login profile links ==");
+                        $('.fyre .fyre-box-wrapper a.fyre-user-profile-link').attr('href',userObj.profile.profile_url);
+                        $('li.fyre-edit-profile-link').html('<a style="color:inherit;text-decoration:none" target="_blank" href="'+userObj.profile.profile_url+'">Edit Profile</a>');
+                    }
+                }
+            }
+            */
+            
+        }
+        changedDom = 1;
+        //console.log("== finished dom hacks ==");
+        
+    };
+    
+    function updateCommentCounts(element,count){
+        //CBSi.log("== updating comment counts ==");
+        if (count == 1){
+            $(element).html('<a href="#commentsAnchor">' + count + ' &nbsp;&nbsp;| &nbsp;Comment</a>');
+            $(element).show();
+            $('.commentsCountLabel').html('comment');
+        }
+        else{
+            $(element).html('<a href="#commentsAnchor">' + count + ' &nbsp;&nbsp;| &nbsp;Comments</a>');
+            $(element).show();
+            $('.commentsCountLabel').html('comments');
+        }
+        $('.commentsCount').html(count);
+    }
+
+    function removeLfError(){
+        $('#cbsLfError').remove();
+    }
+
+    var authDelegate = new fyre.conv.RemoteAuthDelegate();
+
+    authDelegate.login = function (handlers){
+        
+        if (isLoggedIn < 1){
+            $('.fyre-editor-editable').append('<div id="cbsLfError"><span class="fyre-editor-error"><a href="javascript:removeLfError()" class="fyre-editor-error-close"></a><span>Please log in above to post a comment.</span></span></div>');
+            handlers.failure();
+        }
+        else{
+            removeLfError();
+            handlers.success();
+        }
+        
+    };
+
+    function updateAuthorLinks(){
+        $('.fyre-comment-username').each(function() {
+            $(this).click(function() {
+                window.location.href = $(this).attr('href'); 
+            });
+        });
+        $('.fyre-comment-author').each(function() {
+            $(this).click(function() {
+                window.location.href = $(this).attr('href'); 
+            });
+        });
+    }
+    
+    function updateOneLineComments(){
+        
+        //console.log("Checking Comments");
+        $(".fyre-comment-wrapper").each(function() {
+            if ($(this).find(".fyre-comment").css('display') != 'none'){
+                var commentText = $(this).find(".fyre-comment").html();
+                if (commentText != null){
+                    var loopCtr = 0;
+                    // for IE8
+                    while ( (commentText.indexOf("<P>") !== -1) && (loopCtr < 100) ){
+                        commentText = commentText.replace("<P>",' ');
+                        commentText = commentText.replace("</P>",' ');
+                        loopCtr++;
+                    }
+                    //for other browsers
+                    while ( (commentText.indexOf("<p>") !== -1) && (loopCtr < 100) ){
+                        commentText = commentText.replace("<p>",' ');
+                        commentText = commentText.replace("</p>",' ');
+                        loopCtr++;
+                    }
+                    //console.log(commentText);
+                    $(this).find(".fyre-comment").css('display','none');
+                    $(this).find(".fyre-comment-head").append(commentText);
+                } // end check for blank text
+            }
+            //console.log("Checking Height");
+            cntHeight = $(this).find(".fyre-comment-head").height();
+            if (cntHeight > 0){
+                //console.log("Setting Height");
+                cntHeight = -1 * ((cntHeight / 2) + 12);
+                $(this).find(".fyre-flag-link").css('top',cntHeight);
+            }
+        });
+        
+   }
+    
+    
+    function change_profile_link(){
+        $(".fyre .fyre-box-list .fyre-edit-profile-link a").attr("href",'#');
+        $(".fyre .fyre-box-list .fyre-edit-profile-link a").attr("alt",'');
+        $('.fyre .fyre-box-list .fyre-edit-profile-link a').click(function() { return false; });
+        $('.fyre .fyre-box-list .fyre-edit-profile-link').remove();
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("href",'#');
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("target",'');
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("alt",'');
+        $('.fyre .fyre-comment-head .fyre-comment-username').click(function() { return false; });
+        
+        $('.fyre .fyre-comment-head').each(function() {
+            
+            var alltxt = $(this).html();
+            var nickname = $(this).find('.fyre-comment-username').html();
+            if (!(nickname == null)){
+                alltxt = "<b>" + nickname + '</b><br>' + alltxt.replace(/<a(|\s[^>]*)>[\s\S]*?<\/a>/gi,'');
+                $(this).html(alltxt);
+            }
+            
+        });
+         $('.fyre .fyre-comment p').each(function() {
+         
+            var alltxt = $(this).html();
+            var mention = $(this).find('.fyre-mention').html();
+            if (!(mention == null)){
+                alltxt = alltxt.replace(/<a(|\s[^>]*)>[\s\S]*?<\/a>/gi,'');
+                $(this).html(alltxt);
+            }
+         });
+    }
+
+    function open_profile(profile_link_url){
+        window.open(profile_link_url);     
+    }
+
+    $(document).ready( function () {
+            // Log in the user if we got a token for them
+            // Change the DOM after login since things get re-rendered
+            //console.log("== LF Calling Load ==");
+            var conv = fyre.conv.load({"network": "cbssports.fyre.co", 'strings': customStrings, authDelegate: authDelegate}, lf_config, function(widget) {
+            //console.log("== LF in Load ==");    
+                widget.on('initialRenderComplete', function () {
+                    //console.log("== LF Render Complete ==");
+                    $('#lf_comments_label').show();
+                    loggedin = readCookie(' pid');
+                    //CBSi.log(loggedin);
+                    if ((typeof loggedin == "string") && (loggedin.match(/^L:/))) {
+                        isLoggedIn = 1;
+                        if (typeof userObj.token != 'undefined'){
+                            if (userObj.token) {
+                                hasProfile = 1;
+                                document.cookie = "lf_social_info=; expires=0; path=/";
+                                doLivefyreAuth(userObj);
+                            }
+                        }
+                        changeDOM();
+                    }
+                    var loggedSocially = new String(readCookie('lf_social_info'));
+                    if ((loggedSocially == "|FB|") && (isLoggedIn == 0)){
+                        isLoggedIn = 1;
+                        hasProfile = 1;
+                        callFBApi();
+                    }
+                    if ((loggedSocially.indexOf("|GP|") >= 0) && (isLoggedIn == 0)){
+                        isLoggedIn = 1;
+                        hasProfile = 1;
+                        callGPApi();
+                    }
+                    updateCommentCounts('.commentsBubble',$('.fyre-stream-stats .fyre-comment-count span').html());
+                    updateAuthorLinks();
+                    
+                    setTimeout(function(){},2000);
+                    change_profile_link();
+                    setTimeout(function(){change_profile_link()},2000);
+                });
+                widget.on('userLoggedIn', function () {
+                    //CBSi.log("== LF Logging In User ==");
+                    changeDOM();
+                    removeLfError();
+                    //console.log("Logged in changing comment format");
+                    
+                    setTimeout(function(){change_profile_link()},2000);
+                });
+                widget.on('userLoggedOut', function () {
+                    //CBSi.log("== LF Logging Out User ==");
+                    if (document.cookie.indexOf("|GP|") > 0){
+                        disconnectGPUser(globalGPaccessToken);   
+                    }
+                    document.cookie = "lf_social_info=; expires=0; path=/"
+                    document.cookie = "lf_login_info=; expires=0; path=/"
+                    
+                    setTimeout(function(){FB.XFBML.parse();},500);
+                });
+                widget.on('commentCountUpdated', function (countData) {
+                    //CBSi.log("== LF Comment Added ==");
+                    updateCommentCounts('.commentsBubble',countData);
+                    
+                    change_profile_link();
+                    setTimeout(function(){change_profile_link()},2000);
+                });
+                widget.on('commentPosted', function (countData) {
+                    updateAuthorLinks();
+                    
+                    change_profile_link();
+                    setTimeout(function(){change_profile_link()},2000);
+                });
+            });
+    });
+
+</script>
+
+<div style="text-align:right">
+Conversation powered by
+<a href="http://livefyre.com" target="_blank" style="text-decoration:none; color:inherit">Livefyre</a>
+</div>
+
+
+
+</div><!--end column1--><div class="column2 printerHide">
+    <div id="mpu_plus_top" class="mBottomStd">
+        <script type="text/javascript">
+            googletag.cmd.push(function() {googletag.display("mpu_plus_top");});
+            if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="mpu_plus_top" style="width:300px"><br>').insertBefore('#mpu_plus_top');
+        </script>
+    </div><section class="feature latestVideo mBottomStd"><header><h3><span><strong>mlb</strong> Video</span></h3></header><div id="vidComponent">
+                <span class="vidDuration">July 31, 2015</span><br>
+                <a href="/video/player/mlb/495510595762/0/mets-acquire-yoenis-cespedes" class="vidTitle latestVideoPlayHotspot" data-channel="mlb" data-pcid="495510595762" om-nope="video|MLB|latest">Mets acquire Yoenis Cespedes</a> <span class="vidDuration">(1:23)</span>
+                <div class="vidThumbLg">
+                    <a href="/video/player/mlb/495510595762/0/mets-acquire-yoenis-cespedes" class="latestVideoPlayHotspot" data-channel="mlb" data-pcid="495510595762" om-nope="video|MLB|latest"><img src="http://sports.cbsimg.net/images/cbsmedia/video/thumbnails/Mets_428649_320x180.jpg"></a>
+                    <a href="/video/player/mlb/495510595762/0/mets-acquire-yoenis-cespedes" class="vidPlayLg latestVideoPlayHotspot" data-channel="mlb" data-pcid="495510595762" om-nope="video|MLB|latest"></a>
+                </div>
+                
+                <table width="300" cellspacing="0" height="100" cellpadding="0"><tbody><tr valign="top">
+                    <td width="155">
+                    <div class="vidThumbSm">
+                        <a href="/video/player/mlb/495476291928/0/will-astros-win-the-al-west?" class="latestVideoPlayHotspot" data-channel="mlb" data-pcid="495476291928" om-nope="video|MLB|latest"><img src="http://sports.cbsimg.net/images/cbsmedia/video/thumbnails/Astros_428618_160x90.jpg"></a>
+                        <a href="/video/player/mlb/495476291928/0/will-astros-win-the-al-west?" class="vidPlaySm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495476291928" om-nope="video|MLB|latest"></a>
+                    </div>
+                    </td>
+                    <td width="145">
+                    <span class="vidDuration">July 31, 2015</span><br>
+                    <a href="/video/player/mlb/495476291928/0/will-astros-win-the-al-west?" class="vidTitleSm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495476291928" om-nope="video|MLB|latest">Will Astros win the AL West?</a><br>
+                    <span class="vidDuration">(1:22)</span></td>
+                </tr></tbody></table>
+                
+                <table width="300" cellspacing="0" height="100" cellpadding="0"><tbody><tr valign="top">
+                    <td width="155">
+                    <div class="vidThumbSm">
+                        <a href="/video/player/mlb/495628355522/0/trade-deadline-winners-and-losers" class="latestVideoPlayHotspot" data-channel="mlb" data-pcid="495628355522" om-nope="video|MLB|latest"><img src="http://sports.cbsimg.net/images/cbsmedia/video/thumbnails/BlueJays2_Still_1000632_160x90.jpg"></a>
+                        <a href="/video/player/mlb/495628355522/0/trade-deadline-winners-and-losers" class="vidPlaySm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495628355522" om-nope="video|MLB|latest"></a>
+                    </div>
+                    </td>
+                    <td width="145">
+                    <span class="vidDuration">July 31, 2015</span><br>
+                    <a href="/video/player/mlb/495628355522/0/trade-deadline-winners-and-losers" class="vidTitleSm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495628355522" om-nope="video|MLB|latest">Trade Deadline Winners and Losers</a><br>
+                    <span class="vidDuration">(4:07)</span></td>
+                </tr></tbody></table>
+                
+                <table width="300" cellspacing="0" height="100" cellpadding="0"><tbody><tr valign="top">
+                    <td width="155">
+                    <div class="vidThumbSm">
+                        <a href="/video/player/mlb/495558723788/0/heyman-on-dodgers-trade-deadline" class="latestVideoPlayHotspot" data-channel="mlb" data-pcid="495558723788" om-nope="video|MLB|latest"><img src="http://sports.cbsimg.net/images/cbsmedia/video/thumbnails/Dodgers_Still_1000602_160x90.jpg" style="margin-bottom:0;"></a>
+                        <a href="/video/player/mlb/495558723788/0/heyman-on-dodgers-trade-deadline" class="vidPlaySm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495558723788" om-nope="video|MLB|latest"></a>
+                    </div>
+                    </td>
+                    <td width="145">
+                    <span class="vidDuration">July 31, 2015</span><br>
+                    <a href="/video/player/mlb/495558723788/0/heyman-on-dodgers-trade-deadline" class="vidTitleSm latestVideoPlayHotspot" data-channel="mlb" data-pcid="495558723788" om-nope="video|MLB|latest">Heyman on Dodgers trade deadline</a><br>
+                    <span class="vidDuration">(1:52)</span></td>
+                </tr></tbody></table>
+                <style type="text/css">
+.promotedSharethrough{
+    padding-left: 10px;
+    font-size: 12px;
+    color: #8c8c8c;
+}
+.titleSharethrough{
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    font-weight:700;
+}
+.str-adunit .thumbnail-wrapper{
+    margin:0 !important;
+}
+.str-adunit .str-title{
+ line-height:15px !important;    
+}
+.coverItem{
+    min-height:180px;
+    padding-bottom:0;
+}
+</style>
+
+<div id="sharethrough_top">
+    <script type="text/javascript">
+  
+    if (switchXFP != 'off') {
+        googletag.cmd.push(function() {googletag.display("sharethrough_top");});
+        if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="sharethrough_top" style="width:200px"><br>').insertBefore('#sharethrough_top');
+        if("blogs_eye_entry"=="blogs_eye_entry"){
+            $("#sharethrough_top").css({"width":"300px","display":"none"});            
+        }else{
+            if("blogs_eye_entry"=="gamecenter"){
+                $("#sharethrough_top").css({"width":"620px","display":"none"});            
+            }else{
+                $("#sharethrough_top").css({"width":"210px","margin":"0px 10px 20px 0","float":"left","display":"none"});
+            }
+        }
+       googletag.cmd.push(function() {googletag.refresh("sharethrough_top");});
+    }
+    </script>
+</div>
+<script type="text/javascript">
+
+var isSharethroughBlank = false; //declare window global
+
+function adCallBack(obj) {
+
+    if (obj.slot == XFP_sharethrough_top) {
+        
+       
+        if (obj.isEmpty || isSharethroughBlank) { // ad is blank
+
+            if ($('.featureComponent .coverItem').length == 6) {
+                $('.featureComponent .coverItem').eq(4).show();
+            }
+            if ($('.featureComponent .coverItem').length == 3) {
+                $('.featureComponent .coverItem').eq(1).show();
+            }
+            if ($('.featureComponent .coverItem').length == 9) {
+                $('.featureComponent .coverItem').eq(7).show();
+            }
+            if ('blogs_eye_entry' == 'blogs_eye_entry') {
+                var length = $('#vidComponent table').length;
+                $('#vidComponent table').eq(length - 1).show();
+                //$('#sharethrough_top').removeAttr('style');
+            }
+            isSharethroughBlank = false; // reset to false for next time ad is refreshed
+        }
+        else {
+    
+            // ad is not blank
+            //video component
+            if ('blogs_eye_entry' == 'blogs_eye_entry') {
+                 
+                var length = $('#vidComponent table').length;
+                $('#vidComponent table').eq(length - 1).hide();
+                //$('#sharethrough_top').removeAttr('style');
+            }
+            //homepage
+            //Six pack
+            if ($('.featureComponent .coverItem').length == 6) {
+                $('.featureComponent .coverItem').eq(4).hide();
+                $('#sharethrough_top').show();
+            }
+            //Three pack
+            if ($('.featureComponent .coverItem').length == 3) {
+                $('.featureComponent .coverItem').eq(1).hide();
+                $('#sharethrough_top').show();
+            }
+            //Nine pack
+            if ($('.featureComponent .coverItem').length == 9) {
+                $('.featureComponent .coverItem').eq(7).hide();
+                $('#sharethrough_top').show();
+            }
+        }
+    }
+}
+
+function blankAdCallback(width, height, pos) {
+  
+    //test for height/width
+    if (width == 11 && height == 11 && pos == 'top') {
+        isSharethroughBlank = true; // set global
+        
+    }
+}
+
+
+</script>
+</div></section>
+<style>
+/* these two mods to move to phase2 when not locked  */
+a.vidPlayLg {top:61px}
+a.vidPlaySm {top:13px;left:45px;}
+
+.lightboxModalContainer { position: fixed; top: 0px; left: 0px; z-index: 9999999; width: 100%; height: 100%; background-color: rgba(0,0,0,.2); }
+.lightboxModalContainer .lightbox { position: absolute; top: 20px; left: 0px; width: 990px; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
+</style>
+<script>
+$(function() {
+    if ($('section.latestVideo .latestVideoPlayHotspot').length) {
+        $('section.latestVideo .latestVideoPlayHotspot').click( function (e) {
+            e.preventDefault();
+            if ($('.lightbox').length == 0) {
+                // add container
+                $('body').append('<div class="lightboxModalContainer"></div>');
+
+                // load lightbox
+                $('.lightboxModalContainer').load('/video/player/lightbox/'+$(this).data('channel')+'/'+$(this).data('pcid'), function () {
+                    window.centerLightbox();
+
+                    $('.lightbox .closeBtn').click( function () {
+                        $('.lightboxModalContainer').remove();
+                        delete CBSi.app.VideoPlayer.playerRefs.lightbox;
+                    });
+                });
+            }
+        });
+
+        $(window).resize( function () { window.centerLightbox(); } );
+
+        window.centerLightbox = function () {
+            if ($('.lightbox').length) {
+                var left = (($(window).width() - $('.lightbox').outerWidth(true))/2);
+                $('.lightbox').css('left', left+'px');
+            }
+        };
+
+    }
+});
+
+</script>
+<section class="feature latestHeadlines mBottomStd"><header><h3><span><strong>Latest</strong></span></h3></header><ul><li><span class="category">MLB</span> | <time pubdate datetime=2015-08-02T03:14:53Z>11:14 pm</time><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25257091/lucas-duda-has-eight-home-runs-in-his-past-seven-games" om-nope="Latest Headlines|MLB">Lucas Duda has eight home runs in his past seven games</a></h4></li><li><span class="category">MLB</span> | <time pubdate datetime=2015-08-02T01:17:04Z> 9:17 pm</time><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25257001/clayton-kershaw-freezes-out-mike-trout-in-historic-mvp-matchup" om-nope="Latest Headlines|MLB">Clayton Kershaw freezes out Mike Trout in historic MVP matchup</a></h4></li><li><span class="category">NFL</span> | <time pubdate datetime=2015-08-02T00:27:17Z> 8:27 pm</time><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25256985/eagles-trade-cb-brandon-boykin-to-steelers" om-nope="Latest Headlines|MLB">Eagles trade CB Brandon Boykin to Steelers: 5 things to know</a></h4></li><li><span class="category">MLB</span> | <time pubdate datetime=2015-08-02T00:26:22Z> 8:26 pm</time><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256983/clayton-kershaws-scoreless-streak-reaches-37-innings" om-nope="Latest Headlines|MLB">Clayton Kershaw&#39;s scoreless streak reaches 37 innings</a></h4></li><li><span class="category">MLB</span> | <time pubdate datetime=2015-08-01T22:55:26Z> 6:55 pm</time><h4><a href="http://www.cbssports.com/mlb/eye-on-baseball/25256944/several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury" om-nope="Latest Headlines|MLB">Report: &#39;Several Angels teammates&#39; skeptical of C.J. Wilson&#39;s elbow injury</a></h4></li><li><span class="category">NBA</span> | <time pubdate datetime=2015-08-01T22:45:24Z> 6:45 pm</time><h4><a href="http://www.cbssports.com/nba/eye-on-basketball/25256940/is-team-usa-in-derrick-roses-future" om-nope="Latest Headlines|MLB">Is Team USA in Derrick Rose&#39;s future?</a></h4></li><li><span class="category">NFL</span> | <time pubdate datetime=2015-08-01T22:34:02Z> 6:34 pm</time><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25256930/look-steelers-corner-bw-webb-has-a-waffle-house-arm-sleeve" om-nope="Latest Headlines|MLB">LOOK: Steelers corner B.W. Webb has a Waffle House arm sleeve</a></h4></li><li><span class="category">NFL</span> | <time pubdate datetime=2015-08-01T22:11:34Z> 6:11 pm</time><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25256917/watch-aaron-rodgers-and-olivia-munn-practice-their-boxing-skills" om-nope="Latest Headlines|MLB">WATCH: Aaron Rodgers and Olivia Munn practice their boxing skills</a></h4></li><li><span class="category">Golf</span> | <time pubdate datetime=2015-08-01T21:45:13Z> 5:45 pm</time><h4><a href="http://www.cbssports.com/golf/eye-on-golf/25256908/tiger-woods-struggles-shoots-74-saturday-at-quicken-loans-national" om-nope="Latest Headlines|MLB">Tiger Woods struggles, shoots 74 Saturday at Quicken Loans National</a></h4></li><li><span class="category">NFL</span> | <time pubdate datetime=2015-08-01T21:11:14Z> 5:11 pm</time><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25256870/report-hall-of-fame-will-let-junior-seaus-daughter-speak-at-induction" om-nope="Latest Headlines|MLB">Report: Hall of Fame will let Junior Seau&#39;s daughter speak at induction</a></h4></li></ul></section>
+
+<style>
+.lightboxModalContainer { position: fixed; top: 0px; left: 0px; z-index: 9999999; width: 100%; height: 100%; background-color: rgba(0,0,0,.2); }
+.lightboxModalContainer .lightbox { position: absolute; top: 20px; left: 0px; width: 990px; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
+</style>
+<script>
+$(function() {
+    if ($('section.latestHeadlines .latestVideoPlayHotspot').length) {
+        $('section.latestHeadlines .latestVideoPlayHotspot').click( function (e) {
+            e.preventDefault();
+            if ($('.lightbox').length == 0) {
+                // add container
+                $('body').append('<div class="lightboxModalContainer"></div>');
+
+                // load lightbox
+                $('.lightboxModalContainer').load('/video/player/lightbox/'+$(this).data('channel')+'/'+$(this).data('pcid'), function () {
+                    window.centerLightbox();
+
+                    $('.lightbox .closeBtn').click( function () {
+                        $('.lightboxModalContainer').remove();
+                        delete CBSi.app.VideoPlayer.playerRefs.lightbox;
+                    });
+                });
+            }
+        });
+
+        $(window).resize( function () { window.centerLightbox(); } );
+
+        window.centerLightbox = function () {
+            if ($('.lightbox').length) {
+                var left = (($(window).width() - $('.lightbox').outerWidth(true))/2);
+                $('.lightbox').css('left', left+'px');
+            }
+        };
+
+    }
+});
+
+</script>
+<div class="mBottomStd"><div class="mBottom10"><a om-nope="channelfinder|MLB" onclick="openPopup(this,'channelfinder',665,605);return false;" href="/components/tv/launch"><img src="http://sports.cbsimg.net/images/features/channel-finder.jpg" width="300" height="60" border="0"></a></div>
+</div><section class="feature mostPopular"><header><h3><span><strong>Most</strong> Popular</span></h3></header><ul><li><div class="popularOrdinal borderRight fontUbuntuBold">1</div><div class="popularArticle"><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25255491/report-russell-wilson-seahawks-sign-4-year-876m-extension" om-nope="mostpopular|MLB">Russell Wilson, Seahawks sign 4-year, $87.6M extension: 6 things to know</a></h4></div></li><li><div class="popularOrdinal borderRight fontUbuntuBold">2</div><div class="popularArticle"><h4><a href="http://www.cbssports.com/nfl/eye-on-football/25255741/nfl-nflpa-want-to-resolve-tom-brady-lawsuit-before-2015-season-starts" om-nope="mostpopular|MLB">NFL, NFLPA want a resolution to the Brady lawsuit before 2015 season</a></h4></div></li><li><div class="popularOrdinal borderRight fontUbuntuBold">3</div><div class="popularArticle"><h4><a href="http://www.cbssports.com/general/eye-on-sports/25256139/wrestling-legend-rowdy-roddy-piper-dead-at-61-wwe-reacts" om-nope="mostpopular|MLB">Wrestling legend 'Rowdy' Roddy Piper dead at 61; WWE superstars react</a></h4></div></li><li><div class="popularOrdinal borderRight fontUbuntuBold">4</div><div class="popularArticle"><h4><a href="http://www.cbssports.com/nba/eye-on-basketball/25256940/is-team-usa-in-derrick-roses-future" om-nope="mostpopular|MLB">Is Team USA in Derrick Rose's future?</a></h4></div></li><li><div class="popularOrdinal borderRight fontUbuntuBold">5</div><div class="popularArticle"><h4><a href="http://www.cbssports.com/golf/eye-on-golf/25256908/tiger-woods-struggles-shoots-74-saturday-at-quicken-loans-national" om-nope="mostpopular|MLB">Tiger Woods struggles, shoots 74 Saturday at Quicken Loans National</a></h4></div></li></ul></section><!-- AD for MLB : MLB DEF Not found --><div class="shoppingBox">
+
+ 
+
+ 
+
+<!-- include file generated Tue Jul 28 15:04:53 EDT 2015 --> 
+<!-- $Id: sbox_arena.jsp,v 1.18 2008-06-11 19:49:38 gorman Exp $ -->
+
+
+<h3 class="featureTitle"><span><strong>CBSSports.com</strong> Shop</span></h3>
+<div class="featureComponent">
+    <a href="http://shop.cbssports.com/NFL_Training_Camp_Gear/source/box"><img src="http://images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1980000/ff_1980409_xl.jpg&w=400" width="120" height="120" alt="Men's Nike Charcoal Denver Broncos Training Camp Performance T-Shirt" class="border product"></a>
+    <p>NFL Training Camp Gear<br/>Get your favorite team <a href="http://shop.cbssports.com/NFL_Training_Camp_Gear/source/box"><br>Shop Now</a></p>
+    <ul class="multiLine flush">
+    
+        
+           <li><a href="http://shop.cbssports.com/College_Sideline_Gear/source/box">College Sideline Gear</a></li>
+        
+           <li><a href="http://shop.cbssports.com/CBS_MLB/source/box">Hot MLB Teams</a></li>
+        
+           <li><a href="http://shop.cbssports.com/CBS_Coaches_Polo/source/box">2015 Coaches Polos</a></li>
+        
+    
+    </ul>
+</div>
+<div class="featureFooter"><a href="http://shop.cbssports.com/source/BOX">Shop Fan Gear</a>
+
+</div>
+
+
+</div>
+        <div id="mpu_bottom" class="mBottomStd">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {googletag.display("mpu_bottom");});
+                if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="mpu_bottom" style="width:300px"><br>').insertBefore('#mpu_bottom');
+            </script>
+        </div><!--<div class="featureTitle"><span><strong>2013</strong> World Series</span></div>
+<table border="0">
+	<tbody>
+		<tr> 
+    		<td width="20%"><a href="http://www.cbssports.com/mlb/world-series"><img src="http://sports.cbsimg.net/images/visual/whatshot/World-Series-2013.jpg" alt="2013 World Series" width="50" height="50" border="0"></a></td> 
+    		<td width="80%" valign="center">
+				<ul class="multiLine flush">	
+					<li>Coverage of the <a href="http://www.cbssports.com/mlb/world-series">2013 World Series</a> at CBSSports.com  </li>
+					<li><a href="http://www.cbssports.com/mlb/schedules/playoffs">Playoff Schedule</a> | <a href="http://www.cbssports.com/mlb/scoreboard">Latest Scores</a></li>
+				</ul></td>
+		</tr>
+	</tbody>
+</table>--></div>
+<div class="clearBoth"></div>
+<div class="YAD-be17abd0-7817-3fa1-a06f-a6fe304a4a37"></div>
+<script>
+ (function(a,b,c,d,e,f){a[d]||(a[d]=
+ function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});
+ e=b.createElement(c);f=b.getElementsByTagName(c)[0];
+ e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;
+ f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));
+ yad('be17abd0-7817-3fa1-a06f-a6fe304a4a37', {element: document.querySelector('.YAD-be17abd0-7817-3fa1-a06f-a6fe304a4a37') } );
+</script>
+    
+                <div class="clearBoth"><!-- explicit clear --></div>
+        </div><!-- END layoutStory-->
+        <br clear="all">
+    </div><!-- END pageContainer-->
+</div><!-- END pageRow-->
+
+    <style>.footerAd {width: 970px;margin: 0 auto;padding: 10px 5px; background-color: #fff;overflow: hidden;text-align:center;position:relative;}</style>
+    
+    <div id="leader_plus2_bottom" class="footerAd">
+    <script type="text/javascript">
+    if (switchXFP != 'off') {
+        googletag.cmd.push(function() {googletag.display("leader_plus2_bottom");});
+        if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="leader_plus2_bottom" style="width:728px"><br>').insertBefore('#leader_plus2_bottom');
+    }
+    </script>
+</div>
+
+
+    <footer id="footer" section="footer">
+    
+    <div id="footerContainer">
+        
+        
+        
+<form action="" name="cbsi_footer" id="cbsi_footer">
+<label for="cbsi_footer_menu">Visit other CBS Interactive Sites</label>
+<select name="cbsi_footer_menu" id="cbsi_footer_menu">
+<option value="">Select Site</option>
+<option value="http://www.cbscares.com/">CBS Cares</option>
+<option value="http://www.cbsfilms.com">CBS Films</option>
+<option value="http://www.cbsinteractive.com">CBS Interactive</option>
+<option value="http://www.cbsradio.com/">CBS Radio</option>
+<option value="http://www.cbs.com">CBS.com</option>
+<option value="http://www.cbsnews.com">CBSNews.com</option>
+<option value="http://www.cbssports.com">CBSSports.com</option>
+<option value="http://www.chow.com">CHOW</option>
+<option value="http://www.clicker.com">Clicker</option>
+<option value="http://www.cnet.com">CNET</option>
+<option value="http://collegenetwork.cbssports.com">College Network</option>
+<option value="http://www.gamespot.com">GameSpot</option>
+<option value="http://www.last.fm">Last.fm</option>
+<option value="http://www.maxpreps.com/national/national.htm">MaxPreps</option>
+<option value="http://www.metacritic.com">Metacritic.com</option>
+<option value="http://www.metrolyrics.com">MetroLyrics</option>
+<option value="http://www.cbsnews.com/moneywatch/">Moneywatch</option>
+<option value="http://www.mysimon.com">mySimon</option>
+<option value="http://radio.com">Radio.com</option>
+<option value="http://www.search.com">Search.com</option>
+<option value="http://shopper.cnet.com">Shopper.com</option>
+<option value="http://www.sho.com/sho/home">Showtime</option>
+<option value="http://www.smartplanet.com">SmartPlanet</option>
+<option value="http://www.techrepublic.com">TechRepublic</option>
+<option value="http://www.tv.com">TV.com</option>
+<option value="http://www.tvguide.com">TVGuide.com</option>
+<option value="http://www.urbanbaby.com">UrbanBaby</option>
+<option value="http://www.zdnet.com">ZDNet</option>
+</select>
+<input type="button" value="Go" onClick="window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;" />
+</form>
+<noscript><div><a href="http://www.cbscares.com/">CBS Cares</a> | <a href="http://www.cbsfilms.com">CBS Films</a> | <a href="http://www.cbsinteractive.com">CBS Interactive</a> | <a href="http://www.cbsradio.com/">CBS Radio</a> | <a href="http://www.cbs.com">CBS.com</a> | <a href="http://www.cbsnews.com">CBSNews.com</a> | <a href="http://www.cbssports.com">CBSSports.com</a> | <a href="http://www.chow.com">CHOW</a> | <a href="http://www.clicker.com">Clicker</a> | <a href="http://www.cnet.com">CNET</a> | <a href="http://collegenetwork.cbssports.com">College Network</a> | <a href="http://www.gamespot.com">GameSpot</a> | <a href="http://help.com">Help.com</a> | <a href="http://www.last.fm">Last.fm</a> | <a href="http://www.maxpreps.com/national/national.htm">MaxPreps</a> | <a href="http://www.metacritic.com">Metacritic.com</a> | <a href="http://www.metrolyrics.com">MetroLyrics</a> | <a href="http://www.cbsnews.com/moneywatch/">Moneywatch</a> | <a href="http://www.mysimon.com">mySimon</a> | <a href="http://radio.com">Radio.com</a> | <a href="http://www.search.com">Search.com</a> | <a href="http://shopper.cnet.com">Shopper.com</a> | <a href="http://www.sho.com/sho/home">Showtime</a> | <a href="http://www.smartplanet.com">SmartPlanet</a> | <a href="http://www.techrepublic.com">TechRepublic</a> | <a href="http://www.tv.com">TV.com</a> | <a href="http://www.tvguide.com">TVGuide.com</a> | <a href="http://www.urbanbaby.com">UrbanBaby</a> | <a href="http://www.zdnet.com">ZDNet</a></div></noscript>
+ 
+<nav class="mTop5 mBottom5">
+    <a href="http://www.cbssports.com/info/aboutus">About CBSSports.com</a> |
+    <a href="http://www.cbsinteractive.com/advertise/" target="_blank">Advertise</a> |
+    <a href="http://www.cbssports.com/sitemap">Site Map</a> |
+    <a href="http://developer.cbssports.com">Development Center</a> |
+    <a href="http://collegenetwork.cbssports.com" target="_blank">College Network</a> |
+    <a href="http://www.cbssports.com/info/closed-caption">Closed Captioning</a>
+    <span id="mobileLink"> </span>
+</nav> 
+&copy; 2015 CBS Interactive. All rights reserved. | <a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a> | <a href="http://legalterms.cbsinteractive.com/adchoice">Ad Choice</a> | <a href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a> | <a href="http://legalterms.cbsinteractive.com/eula">Mobile User Agreement</a>
+<div class="spacer5">&nbsp;</div>
+
+        <div>CBS Sports is a registered trademark of CBS Broadcasting Inc. SportsLine is a registered service mark of SportsLine.com, Inc.</div>
+    </div>
+</footer>
+
+</div><!--mantle_skin-->
+    
+    <script type="text/javascript" src="http://sports.cbsimg.net/js/global-footer-min-v0094.js"></script>
+<span id="footerScripts">
+    <span id="footerScriptsExternal">
+        <script type="text/javascript" id="siteToolsShare" src="http://sports.cbsimg.net/js/CBSi/app/SiteTools/Share-v010.js"></script>
+
+    </span>
+    <script id="footerScriptsRegistered" type="text/javascript">
+    
+    </script>
+
+    <script type="text/javascript">
+    var globalNav;  // FIX ME: global scoping Not really working, it's rescoped somewhere inside the block below [RP]
+    $(document).ready(function() {
+        var globalNav = new CBSi.app.GlobalNavigation({'jsDebug':0  ,'ffyCoordOffset':24});var navContentJson = {"video":{"ulive":{"headlines":[{"target":"_new","href":"http://ulive.cbssports.com/?media=496206","content":"Texas Tech Set To Make 14th Straight NCAA Appearance","title":"Texas Tech Set To Make 14th Straight NCAA Appearance"},{"target":"_new","href":"http://ulive.cbssports.com/?media=494825","content":"MLAX | St. John's Highlights","title":"Denver defeated St. John's 18-5 on Saturday afternoon in Queens. "}],"header":"<a href=\"http://www.collegesportslive.com\" target=\"_blank\"><img src=\"http://sports.cbsimg.net/images/video/collegesportslive/cbssportslive_082614.png\" height=\"32\" width=\"150\" border=\"0\" alt=\"College Sports Live\" class=\"uLiveHeader\"></a>"},"minicover":{"body":"MLB Insider Jon Heyman looks past the non-waiver trade deadline to tell us who could be dealt via waivers in August to help contenders.","synopsis":"MLB Insider Jon Heyman looks past the non-waiver trade deadline to tell us who could be dealt via waivers in August to help contenders.","href":"http://www.cbssports.com/video/player/videos/495594051600/0/candidates-to-get-traded-in-august","photo":{"width":"160","seq_no":"1","href":"http://sports.cbsimg.net/images/cbsmedia/video/thumbnails/august_thumb_1000611_320x180.jpg","height":"120"},"title":"Candidates to get traded in August"},"headlines":[{"href":"http://www.cbssports.com/video/player/videos/495597123793/0/heyman-on-playoff-contenders-after-the-deadline","content":"Heyman on playoff contenders after the deadline"},{"href":"http://www.cbssports.com/video/player/videos/495166019712/0/seahawks-russell-wilson-agree-to-extension","content":"Seahawks, Russell Wilson agree to extension"},{"href":"http://www.cbssports.com/video/player/videos/494778947614/0/mike-leake-traded-to-the-giants","content":"Mike Leake traded to the Giants"}]},"golf":{"minicover":{"body":" Tiger Woods struggles in the third round, recording three bogeys and a double to post 74 and finish nine shots behind Kevin Chappell and Troy Merritt. <a om-nope=\"GlobalNav|Golf|Cover|Story\" href=\"http://www.cbssports.com/golf/eye-on-golf/25256908/tiger-woods-struggles-shoots-74-saturday-at-quicken-loans-national\">Story</a> ","synopsis":"Quicken Loans: Round 3","photo":{"width":"231","seq_no":"1","content_id":"25256958","href":"$IMAGE_SERVER/u/photos/golf/img25256958.jpg","height":"130"},"href":"http://www.cbssports.com/golf/eye-on-golf/25256908/tiger-woods-struggles-shoots-74-saturday-at-quicken-loans-national","title":"Tiger falters at Quicken Loans"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/golf/story/25256847/swedens-widegren-leads-by-one-at-madeira-islands-open","content":"Swede Widegren leads by one shot in Portugal"},{"paid":"false","href":"http://www.cbssports.com/golf/story/25256789/south-korean-ko-taiwans-lu-share-lead-of-womens-british-open","content":"Jin-Young Ko, Taiwan's Lu lead Women's Open"},{"paid":"false","href":"http://www.cbssports.com/golf/eye-on-golf/25255873/billy-hurleys-father-was-found-in-texas-and-he-seems-to-be-fine","content":"Billy Hurley's father found, appears to be fine"},{"paid":"false","href":"http://www.cbssports.com/golf/story/25256921/perry-shoots-61-leads-3m-championship","content":"Perry shoots 61 to take lead at 3M Championship"},{"paid":"false","href":"http://www.cbssports.com/golf/eye-on-golf/25254487/-16-pga-tour-season-will-feature-three-majors-in-45-days","content":"PGA Tour '15-16 sked: Three majors in 45 days"},{"paid":"false","href":"http://www.cbssports.com/golf/eye-on-golf/25253226/rory-mcilroy-will-not-defend-bridgestone-invitational-title","content":"McIlroy &#040;ankle&#041; will not defend Bridgestone title"},{"paid":"false","href":"http://www.cbssports.com/golf/eye-on-golf/25252267/who-are-the-five-best-golfers-without-a-major-championship","content":"<b>Porter:</b> Five best golfers without a major"}]},"nfl":{"minicover":{"body":" <p> <b>La Canfora: </b>Big Ben says the 'sky is the limit' for this Steelers offense. If you're looking for a breakout star, bet on WR Martavis Bryant over rookie Sammie Coates. <a om-nope=\"GlobalNav|NFL|Cover|Story\" href=\"http://www.cbssports.com/nfl/writer/jason-la-canfora/25255832/steelers-camp-takeaways-bryant-impresses-coates-needs-work\">Story</a> ","synopsis":"Steelers camp takeaways","photo":{"width":"231","seq_no":"1","content_id":"25255854","href":"$IMAGE_SERVER/u/photos/football/nfl/img25255854.jpg","height":"130"},"href":"http://www.cbssports.com/nfl/writer/jason-la-canfora/25255832/steelers-camp-takeaways-bryant-impresses-coates-needs-work","title":"How good can Steelers be?"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/nfl/eye-on-football/25256985/eagles-trade-cb-brandon-boykin-to-steelers","content":"Steelers acquire Eagles CB Boykins for pick"},{"paid":"false","href":"http://www.cbssports.com/nfl/eye-on-football/25256870/report-hall-of-fame-will-let-junior-seaus-daughter-speak-at-induction","content":"Seau's daughter allowed to speak at induction?"},{"paid":"false","href":"http://www.cbssports.com/nfl/writer/jason-la-canfora/25256608/inside-the-numbers-russell-wilsons-deal-broken-down-year-by-year","content":"La Canfora: Breaking down Wilson's new deal"},{"paid":"false","href":"http://www.cbssports.com/nfl/eye-on-football/25256823/broncos-wr-kyle-williams-ruptures-achilles-says-hes-out-for-season","content":"Broncos WR Williams likely out for '15 &#040;Achilles&#041;"},{"paid":"false","href":"http://www.cbssports.com/nfl/eye-on-football/25256794/romo-jokes-wearing-too-much-makeup-kept-him-out-of-practice","content":"Romo sits out, jokes it was too much makeup"},{"paid":"false","href":"http://fantasynews.cbssports.com/fantasyfootball/update/25256950/report-steelers-martavis-bryant-to-undergo-elbow-procedure","content":"Report: Steelers' Bryant out 10 days &#040;elbow&#041;"},{"paid":"false","href":"http://www.cbssports.com/nfl/eye-on-football/25256768/bernard-pollard-doesnt-like-brady-but-doesnt-think-he-should-be-suspended","content":"Brady nemesis Pollard against four-game ban"}]},"college football":{"minicover":{"body":" <p> <b>Dodd:</b> Coach Steve Sarkisian has USC back in the national spotlight, but can they live up to modest expectations of winning the Pac-12? <a om-nope=\"GlobalNav|CollegeFootball|Cover|Story\" href=\"http://www.cbssports.com/collegefootball/writer/dennis-dodd/25256291/back-to-the-future-usc-hoping-for-return-to-pac-12-national-glory\">Story</a> ","synopsis":"Dodd: USC return to glory?","photo":{"width":"231","seq_no":"1","content_id":"25256974","href":"$IMAGE_SERVER/u/photos/football/college/img25256974.jpg","height":"130"},"href":"http://www.cbssports.com/collegefootball/writer/dennis-dodd/25256291/back-to-the-future-usc-hoping-for-return-to-pac-12-national-glory","title":"USC trying to restore power"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/collegefootball/eye-on-college-football/25256626/laremy-tunsil-and-stepfather-agree-to-drop-domestic-violence-charges","content":"Ole Miss' Tunsil, stepdad agree to end dispute"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/eye-on-college-football/25256084/lsu-qb-anthony-jennings-and-teammates-wont-face-charges","content":"LSU QB Jennings, 2 others won't face charges"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/writer/jon-solomon/25256200/michigan-ad-harbaugh-impacting-football-like-mouse-did-the-computer","content":"<b>Solomon: </b>Harbaugh impact like computer mouse"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/writer/dennis-dodd/25256427/pac-12-notes-can-oregon-trust-in-qb-vernon-adams-as-a-leader","content":"Notebook: Can Oregon trust Adams as leader?"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/writer/jon-solomon/25255702/inside-college-sports-jim-delany-cautions-patience-on-obannon-payments","content":"Judges grant stay to delay O'Bannon money"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/eye-on-college-football/25254503/joey-bosa-is-1-of-4-ohio-state-players-suspended-for-virginia-tech-opener","content":"Bosa, Marshall, 2 other Buckeyes suspended"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/eye-on-college-football/25255621/report-alabama-to-open-2018-season-against-louisville-in-orlando","content":"Report: Alabama vs. Louisville to open 2018"}]},"mlb":{"minicover":{"body":" <p> <b>Snyder:</b> Although the non-waiver deadline line has come and gone, trades can still happen in August. Check out our list of big name candidates that could be moved. <a om-nope=\"GlobalNav|MLB|Cover|Story\" href=\"http://www.cbssports.com/mlb/eye-on-baseball/25256784/mlb-august-trade-candidates-shields-howard-among-big-name-targets\">Story</a> ","synopsis":"MLB: August trade candidates","photo":{"width":"231","seq_no":"1","content_id":"25256970","href":"$IMAGE_SERVER/u/photos/baseball/mlb/img25256970.jpg","height":"130"},"href":"http://www.cbssports.com/mlb/eye-on-baseball/25256784/mlb-august-trade-candidates-shields-howard-among-big-name-targets","title":"August trade candidates"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/mlb/eye-on-baseball/25256944/several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury","content":"Report: Some Angels skeptical of Wilson injury"},{"paid":"false","href":"http://www.cbssports.com/mlb/eye-on-baseball/25256983/clayton-kershaws-scoreless-streak-reaches-37-innings","content":"Kershaw runs scoreless streak to 37 innings"},{"paid":"false","href":"http://www.cbssports.com/mlb/eye-on-baseball/25256808/wade-davis-allows-first-hr-since-2013-in-wild-royals-victory","content":"Davis allows first HR since 2013 in wild KC win"},{"paid":"false","href":"http://www.cbssports.com/mlb/eye-on-baseball/25256042/with-non-waiver-deadline-passed-trades-can-still-happen","content":"Breakdown of how trades can happen in August"}]},"nhl":{"minicover":{"body":" <b>Gretz:</b> Getting Dougie Hamilton from the Bruins was a huge move for Calgary during the offseason. Here are three biggest ways it will impact the Flames in 2015-16. <a om-nope=\"GlobalNav|NHL|Cover|Story\" href=\"http://www.cbssports.com/nhl/eye-on-hockey/25256589/flames-trade-for-dougie-hamilton-was-one-of-nhls-biggest-summer-moves\">Story</a> ","synopsis":"Hamilton's impact","photo":{"width":"231","seq_no":"1","content_id":"25256730","href":"$IMAGE_SERVER/u/photos/hockey/img25256730.jpg","height":"130"},"href":"http://www.cbssports.com/nhl/eye-on-hockey/25256589/flames-trade-for-dougie-hamilton-was-one-of-nhls-biggest-summer-moves","title":"Stoking the Flames"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25255554/beijing-selected-to-host-2022-winter-olympics-will-nhl-go","content":"Will NHL go to 2022 Winter Olympics in Beijing?"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25256787/look-real-penguins-crash-evgeni-malkins-birthday-party","content":"Real penguins crash Malkin's birthday party"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25254939/jakub-voracek-signs-8-year-66-million-contract-with-flyers","content":"Voracek signs 8-year, &#036;66M deal with Flyers"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25256203/capitals-re-sign-marcus-johansson-to-one-year-375-million-deal","content":"Capitals re-sign Johansson to &#036;3.75M contract"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25255010/sabres-owner-terry-pegula-past-two-losing-years-were-a-success","content":"Sabres owner: Past two seasons were success"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25254735/report-brandon-sutter-canucks-closing-in-on-long-term-extension","content":"Report: Sutter, Canucks near long-term deal"},{"paid":"false","href":"http://www.cbssports.com/nhl/eye-on-hockey/25255067/canadiens-re-sign-alex-galchenyuk-for-two-years-56-million","content":"Canadiens re-sign Galchenyuk for two years"}]},"extras":{"collegefootball":{"links":[{"href":"http://www.cbssports.com/writers/dennis-dodd","content":"Dennis Dodd"},{"href":"http://www.cbssports.com/writers/jon-solomon","content":"Jon Solomon"},{"href":"http://www.cbssports.com/collegefootball/blog/eye-on-college-football","content":"Eye On College FB"}]},"video":{"links":[{"href":"http://www.cbssports.com/video/player/doug-gottlieb","content":"Gottlieb"},{"href":"http://www.cbssports.com/video/player/boomer-carton","content":"Boomer & Carton"},{"href":"http://www.cbssports.com/video/player/titan-mma","content":"Titan FC"},{"href":"http://www.cbssports.com/video/player/we-need-to-talk","content":"We Need to Talk"}]},"golf":{"links":[{"href":"http://www.cbssports.com/golf/blog/eye-on-golf","content":"Eye on Golf"},{"href":"http://www.cbssports.com/golf/tournaments/pgachampionship","content":"PGA Championship"},{"href":"http://www.cbssports.com/video/player/golf","content":"Video"},{"href":"http://www.cbssports.com/golf/rankings/cup-points","content":"FedEx Cup"}]},"nfl":{"links":[{"href":"http://www.cbssports.com/nfl/blog/eye-on-football","content":"Eye on Football"},{"href":"http://www.cbssports.com/writers/pete-prisco","content":"Pete Prisco"},{"href":"http://www.cbssports.com/writers/jason-la-canfora","content":"Jason La Canfora"}]},"olympics":{"links":[{"href":"http://www.cbssports.com/olympics/blog/eye-on-olympics","content":"Eye on Olympics"}]},"mlb":{"links":[{"href":"http://www.cbssports.com/mlb/blog/eye-on-baseball","content":"Eye on Baseball"},{"href":"http://www.cbssports.com/writers/jon-heyman","content":"Jon Heyman"},{"href":"http://www.cbssports.com/topic/2143202/mlb-rumors?tag_text=MLB%20Rumors","content":"Rumors"}]},"nhl":{"links":[{"href":"http://www.cbssports.com/nhl/blog/eye-on-hockey","content":"Eye on Hockey"},{"href":"http://www.cbssports.com/topic/1979968/nhl-rumors","content":"Rumors"},{"href":"http://www.cbssports.com/nhl/powerrankings","content":"Power Rankings"}]},"collegebasketball":{"links":[{"href":"http://www.cbssports.com/collegebasketball/blog/eye-on-college-basketball","content":"Eye on College BB"},{"href":"http://www.cbssports.com/nba/draft","content":"NBA Draft"},{"href":"http://www.cbssports.com/collegebasketball/rankings/top25","content":"Top 25 (And One)"},{"href":"http://247sports.com/Page/Basketball-Recruiting-News-and-Message-Boards-100135?referer=CBSSPORTS","content":"247 Sports"}]},"tennis":{"links":[{"href":"http://www.cbssports.com/tennis/history","content":"Grand Slam History"},{"href":"http://www.cbssports.com/tennis/usopen/schedule","content":"U.S. Open TV Schedule"}]},"nba":{"links":[{"href":"http://www.cbssports.com/nba/blog/eye-on-basketball","content":"Eye on Basketball"},{"href":"http://www.cbssports.com/writers/ken-berger","content":"Ken Berger"},{"href":"http://www.cbssports.com/nba/powerrankings","content":"Power Rankings"}]},"worldcup":{"links":[{"href":"http://www.cbssports.com/world-cup/eye-on-world-cup","content":"Eye on World Cup"},{"href":"http://www.cbssports.com/topic/303439/united-states?tag_text=United%20States","content":"Team USA Coverage"}]},"autoracing":{"links":[{"href":"http://www.cbssports.com/nascar/chase","content":"Chase"},{"href":"http://www.cbssports.com/nascar/blog/eye-on-nascar","content":"Eye on NASCAR"},{"href":"http://www.cbssports.com/nascar/photos","content":"Photos"}]}},"config":{"omni_event":"More","brackets":{"omni_event":"Brackets","cover":0,"domEl":"brackets","active":0,"headlines":0},"olympics":{"omni_event":"Olympics","cover":1,"domEl":"olympics","active":1,"headlines":1},"mlb":{"omni_event":"MLB","cover":1,"domEl":"mlb","active":1,"headlines":1},"maxpreps":{"omni_event":"HighSchool","cover":1,"domEl":"highschool","active":1,"headlines":1},"tennis":{"omni_event":"Tennis","cover":1,"domEl":"tennis","active":1,"headlines":1},"college basketball":{"omni_event":"CollegeBasketball","cover":1,"domEl":"collegebasketball","active":1,"headlines":1},"autoracing":{"omni_event":"NASCAR","cover":1,"domEl":"autoracing","active":1,"headlines":1},"golf":{"omni_event":"Golf","cover":1,"domEl":"golf","active":1,"headlines":1},"video":{"omni_event":"Video","ulive":1,"cover":1,"domEl":"video","active":1,"headlines":1},"nfl":{"omni_event":"NFL","cover":1,"domEl":"nfl","active":1,"headlines":1},"college football":{"omni_event":"CollegeFootball","cover":1,"domEl":"collegefootball","active":1,"headlines":1},"nhl":{"omni_event":"NHL","cover":1,"domEl":"nhl","active":1,"headlines":1},"nfl draft":{"omni_event":"NFLDraft","cover":1,"domEl":"nfldraft","active":0,"headlines":0},"nba":{"omni_event":"NBA","cover":1,"domEl":"nba","active":1,"headlines":1},"worldcup":{"omni_event":"WorldCup","cover":1,"domEl":"worldcup","active":1,"headlines":1},"fantasy news":{"omni_event":"Fantasy","cover":1,"domEl":"fantasy","active":1,"headlines":1},"more sports":{"cover":0,"domEl":"more","active":1,"headlines":0}},"tennis":{"minicover":{"body":null,"href":"http://www.cbssports.com/general/eye-on-sports/24695919/us-open-caroline-wozniacki-moves-into-final-as-peng-shuai-retires"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/general/eye-on-sports/24695919/us-open-caroline-wozniacki-moves-into-final-as-peng-shuai-retires","content":"Latest news"}]},"maxpreps":{"minicover":{"paid":null,"body":"Join us as we count down the Top 25 high school volleyball teams in the country heading into the 2015 season.","synopsis":"Join us as we count down the Top 25 high school volleyball teams in the country heading into the 2015 season.","photo":{"href":"http://images.maxpreps.com/includes/images/cbssportsmenu/130813063587017957.jpg"},"href":"http://t.maxpreps.com/1Cp2ezn","title":"Queens of the court"},"headlines":[{"paid":null,"href":"http://www.maxpreps.com/news/e4TE3OsxS0SCspeyRVqvQA/new-mexico-star-teton-saltes-earns-division-i-offers-with-highlight-video-of-six-plays-from-his-first-year-of-high-school-football.htm","content":"NM star: 11 offers with video of 6 plays"},{"paid":null,"href":"http://www.maxpreps.com/news/4DTaidjmGkSJy59mMN8bSg/final-2014-15-maxpreps-cup-standings.htm","content":"Bentonville captures 2014-15 MaxPreps..."},{"paid":null,"href":"http://www.maxpreps.com/news/tTZNmcGgYEm2gGvef0FPHQ/video--7-foot-6-towers-mamadou-ndiaye,-tacko-fall-to-meet-next-season.htm","content":"7-foot-6 centers to square off next s..."},{"paid":null,"href":"http://www.maxpreps.com/news/9y0DDqvCJ0S2QnxA5mIBqg/video--no-1-hoops-prospect-josh-jackson-leads-team-to-fab-48-title-in-las-vegas.htm","content":"Video: Josh Jackson in action at Fab 48"},{"paid":null,"href":"http://www.maxpreps.com/news/L8xAm2vWNU6JIE_hQuBgjQ/video--tom-bradys-alma-mater-serra-faces-its-own-controversy-head-on.htm","content":"Video: Serra takes on own controversy"},{"paid":null,"href":"http://www.maxpreps.com/news/E5I8UJ6eWUGVEq8gYth94w/floridas-new-qb-commit-is-a-texas-high-school-football-backup.htm","content":"New UF QB commit is backup in Texas"}]},"nba":{"minicover":{"body":" <b>Pandian</b>: Did the Mavs get worse, or did the West just get better? Losing DeAndre Jordan certainly didn't help as Dallas tries to remain relevant through Dirk's twilight. <a om-nope=\"GlobalNav|NBA|Cover|Story\" href=\"http://www.cbssports.com/nba/eye-on-basketball/25254829/nba-offseason-report-do-mavericks-have-enough-to-be-playoff-team\">Story</a> ","synopsis":"Mavs still a playoff team?","photo":{"width":"231","seq_no":"1","content_id":"25255631","href":"$IMAGE_SERVER/u/photos/basketball/nba/img25255631.jpg","height":"130"},"href":"http://www.cbssports.com/nba/eye-on-basketball/25254829/nba-offseason-report-do-mavericks-have-enough-to-be-playoff-team","title":"Offseason Report: Mavericks"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25256634/report-nbpa-filing-grievance-about-kings-voiding-mbah-a-moutes-contract","content":"Report: NBPA files grievance for Mbah a Moute"},{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25254508/tony-parker-on-next-season-last-crack-at-championship-for-spurs","content":"Spurs' Parker: 2015-16 'last crack' at NBA title"},{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25254938/gilbert-arenas-on-lebron-james-james-isnt-a-no-1-option","content":"Gilbert Arenas: LeBron 'isn't a No. 1 option' "},{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25256940/is-team-usa-in-derrick-roses-future","content":"Rose undecided on future with USA basketball"},{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25255553/hawks-mike-scott-bonded-out-of-jail-after-arrest-on-felony-drug-charges","content":"Mike Scott posts bond on felony drug charges"},{"paid":"false","href":"http://www.cbssports.com/nba/eye-on-basketball/25255513/report-no-one-more-pumped-than-joe-johnson-about-deron-williams-buyout","content":"Nets' Johnson not exactly upset D-Will is gone"}]},"college basketball":{"minicover":{"body":" <p> <b>Norlander:</b> Kansas still rules in the Big 12, but could face some stiff competition from Oklahoma and Iowa State, who also have their sights on the Final Four. <a om-nope=\"GlobalNav|CollegeBasketball|Cover|Story\" href=\"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25255486/big-12-summer-school-kansas-oklahoma-iowa-state-aim-for-final-four\">Story</a> ","synopsis":"Big 12 look-in","photo":{"width":"231","seq_no":"1","content_id":"25255811","href":"$IMAGE_SERVER/u/photos/basketball/college/img25255811.jpg","height":"128"},"href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25255486/big-12-summer-school-kansas-oklahoma-iowa-state-aim-for-final-four","title":"Offseason look-in: Big 12"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25256582/ucla-accepts-commitment-from-13-year-old-star-lamelo-ball","content":"UCLA accepts commitment of 13-year-old Ball"},{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25256581/australian-star-isaac-humphries-expected-to-enroll-at-kentucky","content":"Aussie 7-footer Humphries plans to enroll at UK"},{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25254486/larry-brown-denies-wrongdoing-in-current-academic-case-vs-the-ncaa","content":"SMU's Brown denies charge of NCAA violations"},{"paid":"false","href":"http://www.cbssports.com/collegefootball/writer/jon-solomon/25255702/inside-college-sports-jim-delany-cautions-patience-on-obannon-payments","content":"Judges grant stay to delay O'Bannon payouts"},{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25253931/san-diego-state-junior-matt-shrigley-tears-acl-expected-to-miss-season","content":"SDSU's Shrigley out for season with torn ACL"},{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25253396/se-louisiana-assistant-loses-job-because-of-usm-investigation ","content":"SE Louisiana assistant loses job after USM investigation"},{"paid":"false","href":"http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25253430/colonial-athletic-association-rookie-of-the-year-transfers-to-byu","content":"Colonial Rookie of the Year transfers to BYU"}]},"fantasy news":{"minicover":{"body":" It's Andrew Luck, Aaron Rodgers and then everyone else. Our <b>Dave Richard</b> provides the tools necessary to make the smart call for your QB on Draft Day. <a om-nope=\"GlobalNav|Fantasy|Cover|Story\" href=\"http://fantasynews.cbssports.com/fantasyfootball/story/25251229/fantasy-football-draft-prep-qb-tiers-strategies\">Full story</a>  ","synopsis":"It's Andrew Luck, Aaron Rodgers and then everyone else. Our Dave Richard provides the tools necessary to make the smart call for your QB on Draft Day.","photo":{"width":"320","seq_no":"0","content_id":"25255938","href":"$IMAGE_SERVER/u/photos/fantasy/img25255938.jpg","height":"180"},"href":"http://fantasynews.cbssports.com/fantasyfootball/story/25251229/fantasy-football-draft-prep-qb-tiers-strategies","title":"QB tiers, strategies"},"headlines":[{"paid":null,"href":null,"content":null}]},"worldcup":{"minicover":{"body":" <p> John Brooks' header to send the US past Ghana. Brazil's epic collapse. Mario Gotze's clinching goal in the final. We hand out awards for the best moments in Brazil. <a om-nope=\"GlobalNav|WorldCup|Cover|Story\" href=\"http://www.cbssports.com/world-cup/eye-on-world-cup/24620523/cbssportscom-2014-fifa-world-cup-awards-best-moments\">Story</a> ","synopsis":"World Cup in review","photo":{"width":"231","seq_no":"1","content_id":"24620624","href":"$IMAGE_SERVER/u/photos/soccer/img24620624.jpg","height":"130"},"href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24620523/cbssportscom-2014-fifa-world-cup-awards-best-moments","title":"World Cup's best moments"},"headlines":[{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24622027/world-cup-final-sets-usa-television-record-with-265-million-viewers","content":"Cup final sets ratings mark for soccer on US TV"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24621936/watch-massive-crowd-celebrates-germanys-world-cup-victory","content":"Massive crowd toasts German team in Berlin"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24620830/maradona-claims-messis-golden-ball-award-just-a-marketing-plan","content":"Maradona: Messi undeserving of Golden Ball"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24620634/world-cup-2018-odds-germany-early-favorite-to-repeat-us-50-to-1","content":"Germany early favorite for the 2018 World Cup"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24620345/brazil-coach-luiz-felipe-scolari-out-after-disastrous-end-to-world-cup","content":"Brazil boots manager after ugly World Cup finish"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24619193/report-suarez-will-lose-millions-from-barcelona-if-he-bites-anyone","content":"Suarez will lose millions from Barca if he bites"},{"paid":"false","href":"http://www.cbssports.com/world-cup/eye-on-world-cup/24615958/fifa-world-cup-final-germany-vs-argentina-preview","content":"Germany edges Argentina to win '14 World Cup"}]}};
+        if (globalNav && navContentJson) {globalNav.init(navContentJson);}
+        CBSi.globalNav = globalNav;
+    });
+    </script>
+    <script id="footerScriptsReady" type="text/javascript">
+    $(document).ready(function() {
+        
+    var facebookLikeConfig = {
+        'init': {
+            'appId':'297742330311988',
+            'oauth':true,
+            'status':true,
+            'cookie':true,
+            'xfbml':true,
+            'logging':false,
+             'version':'v2.3'
+         },
+         'fbsdk': {
+            'uri':'//connect.facebook.net/en_US/sdk.js',
+            'id':'facebook-jssdk'
+         },
+            'dw': {"riaevent":"click","comp":"main","objnm":"facebook_lf_login","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+         };
+         var siteToolsFacebookLike = CBSi.app.SiteTools.Share.facebookLike(facebookLikeConfig);
+    
+        $('div.storyCopy a').not("[target='_self']").attr('target', '_blank');
+         $('#headerTvRotator').innerfade({ animationtype: 'fade', speed: 250, timeout: 10000, type: 'sequence', containerheight: '40px' }); 
+            var saag = CBSi.app.SAAG.init({
+            'categories':{"golf":{"scoreboard_url":"/golf/leaderboard","ord":3,"menu_subtitle":"Scores","default":0,"content_url":"/golf/saag","menu_title":"Golf","league_abbr":"golf","scoreboard_subtitle":"Leaderboard","arena":"golf"},"nfl":{"scoreboard_url":"/nfl/scoreboard","ord":1,"menu_subtitle":"Scores","default":0,"content_url":"/nfl/saag","menu_title":"NFL","league_abbr":"nfl","scoreboard_subtitle":"Scoreboard","arena":"nfl"},"mlb":{"scoreboard_url":"/mlb/scoreboard","ord":2,"menu_subtitle":"Scores","default":1,"content_url":"/mlb/saag","menu_title":"MLB","league_abbr":"mlb","scoreboard_subtitle":"Scoreboard","arena":"mlb"},"my":{"scoreboard_url":"/my/scores","ord":0,"menu_subtitle":"Scores","default":0,"content_url":"/my/saag","menu_title":"My","league_abbr":"my","scoreboard_subtitle":"Scores","arena":"my"}},
+            'activeCategory':'mlb',
+            'promo': {},
+            'omnitureArena': 'MLB',
+            'suppressNextPrevNavigation': ''
+            });
+        
+    //check for global var siteToolsFacebookLike first then register onReady method if needed
+    if ( typeof(siteToolsFacebookLike) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var facebookLikeConfig = {
+            'init': {
+                'appId':297742330311988,
+                'status':true,
+                'cookie':true,
+                'xfbml':true,
+                'logging':false,
+                 'version': 'v2.3'
+            },
+            'fbsdk': {
+                'uri':'//connect.facebook.net/en_US/sdk.js',
+                'id':'facebook-jssdk'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"facebook_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsFacebookLike = CBSi.app.SiteTools.Share.facebookLike(facebookLikeConfig);
+    }
+    
+    //check for global var siteToolsTwitter first then register onReady method if needed
+    if ( typeof(siteToolsTwitter) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var twitterConfig = {
+            'twittersdk': {
+                'uri':'//platform.twitter.com/widgets.js',
+                'id':'twitter-wjs'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"twitter_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsTwitter = CBSi.app.SiteTools.Share.twitter(twitterConfig);
+    }
+    
+    if ( typeof(siteToolsGplus) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+        var gplusConfig = {
+            'gplussdk': {
+                'uri':'https://apis.google.com/js/plusone.js',
+                'id':'googlePlusOne'
+            }
+        };
+        var siteToolsGplus = CBSi.app.SiteTools.Share.gplus(gplusConfig);
+    }
+    
+    if ( typeof(siteToolsStumble) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+        var stumbleConfig = {
+            'stumblesdk': {
+                'uri':'//platform.stumbleupon.com/1/widgets.js',
+                'id':'stumbleUpon'
+            }
+        };
+        var siteToolsStumble = CBSi.app.SiteTools.Share.stumble(stumbleConfig);
+    }
+    
+    //check for global var siteToolsFacebookLike first then register onReady method if needed
+    if ( typeof(siteToolsFacebookLike) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var facebookLikeConfig = {
+            'init': {
+                'appId':297742330311988,
+                'status':true,
+                'cookie':true,
+                'xfbml':true,
+                'logging':false,
+                 'version': 'v2.3'
+            },
+            'fbsdk': {
+                'uri':'//connect.facebook.net/en_US/sdk.js',
+                'id':'facebook-jssdk'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"facebook_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsFacebookLike = CBSi.app.SiteTools.Share.facebookLike(facebookLikeConfig);
+    }
+    
+    //check for global var siteToolsTwitter first then register onReady method if needed
+    if ( typeof(siteToolsTwitter) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var twitterConfig = {
+            'twittersdk': {
+                'uri':'//platform.twitter.com/widgets.js',
+                'id':'twitter-wjs'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"twitter_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsTwitter = CBSi.app.SiteTools.Share.twitter(twitterConfig);
+    }
+    
+    if ( typeof(siteToolsGplus) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+        var gplusConfig = {
+            'gplussdk': {
+                'uri':'https://apis.google.com/js/plusone.js',
+                'id':'googlePlusOne'
+            }
+        };
+        var siteToolsGplus = CBSi.app.SiteTools.Share.gplus(gplusConfig);
+    }
+    
+    if ( typeof(siteToolsStumble) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+        var stumbleConfig = {
+            'stumblesdk': {
+                'uri':'//platform.stumbleupon.com/1/widgets.js',
+                'id':'stumbleUpon'
+            }
+        };
+        var siteToolsStumble = CBSi.app.SiteTools.Share.stumble(stumbleConfig);
+    }
+    
+        if ($('.updateTime, .gmtTime').length) {CBSi.widget.Time.update('body span');}
+        if ($('.tooltip').length) {CBSi.widget.ToolTip.init(CBSi.widget.ToolTip.cfg);}
+        if ($('.actionMenu').length) {
+            var actionMenuLeft = $(".actionMenu").position().left;
+            var userInfoLeft = (actionMenuLeft + 2) +"px";
+            $("#userInfo").css({"left":userInfoLeft});
+        }
+        $('body').delegate("[om-event]", "scroll", function(e) {
+            om.trackClick( {'item':$(this).attr("om-event")} );
+        });
+        
+            $(window).scroll(function(e){
+
+                $('#ads_skinOnloadGif>div').css('top','0');
+            
+                var prestitialIframeHeight = ($('#scroll_prestitial iframe').height() === null)
+                    ? 0
+                    : $('#scroll_prestitial iframe').height();
+                    
+                var windowScroll = $(window).scrollTop();
+                var headerHeight = $('#headerRow').height();
+                var saagHeight   = $('#saagWrapper').height();
+
+                if (prestitialIframeHeight==0){ 
+                    if (windowScroll > (headerHeight + saagHeight) ) {
+                        $('#mantle_skin').attr('style','background-attachment: fixed !important');
+                        $('#ads_skinOnloadGif>div').css('position','fixed');
+                    }else{
+                        $('#mantle_skin').attr('style','background-attachment: inherit !important');
+                        $('#ads_skinOnloadGif>div').css('position','relative');
+                    }
+                }
+            });
+        
+        if ($('.cbsGifAnimation').length) {CBSi.app.cbsGifAnimation.prototype.init();}
+    });
+    </script>
+</span>
+
+<!-- AFC Football Redirect Handler -->
+<!-- Can be removed after AFC championship 2015 -->
+<script>
+$(function() {
+    // in case cover content needs the redirect attributes
+    $( "#coverList .content a" ).each(function() {
+        var href = $(this).prop('href');
+        if ((href.indexOf('nfl\/video\/afc-playoffs') > -1) || (href.indexOf('video\/player\/afc-playoffs') > -1)){
+            if ($(this).data('redirect') == null){
+                $(this).attr("data-redirect","/nfl/gametracker/NFL_20150118_IND@NE");
+            }
+        }
+    });
+    /*
+    // in case dropdown content needs the redirect attributes
+    $( ".navMenuContent .topStory a" ).each(function() {
+        var href = $(this).prop('href');
+        if ((href.indexOf('nfl\/video\/afc-playoffs') > -1) || (href.indexOf('video\/player\/afc-playoffs') > -1)){
+            if ($(this).data('redirect') == null){
+                $(this).attr("data-redirect","/nfl/gametracker/NFL_20150111_IND@DEN");
+            }
+        }
+    });
+    */
+    // swap out the redir data element for a click event
+    $('body').delegate('a[data-redirect]', 'click', function(e) {
+        e.preventDefault();
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.indexOf('iphone') > -1 || (ua.indexOf('android') > -1 && ua.indexOf('mobile') > -1)){
+            window.location.href = "http://mweb.cbssports.com/nfl/afc-playoffs";
+        }
+        else{
+            if (ua.indexOf('android') > -1){
+                window.location.href = "http://www.cbssports.com/nfl/afc-playoffs-support";
+            }
+            else{
+                var redirectLink = $(this).data('redirect');
+                redirectLink = redirectLink.replace("gametracker/NFL","gametracker/live/NFL");
+                var redirectNoBita = redirectLink + "?bita_force_off=1";
+                var href = $(this).prop('href');
+                openPopup(href, 'afcplayoffs', 722, 463);
+                console.log(redirectNoBita);
+                window.location.href = redirectNoBita;
+            }
+        }
+    });
+});
+</script>
+<!-- no ClickTale --><!-- DARK TESTS - enabled [36] --><!-- DARK RIVER TEST/ sports_river - disabled [0 < 36] --><!-- DARK TEST/ node stress - disabled [0] --><!-- DARK TEST/ websocket - disabled [0] -->
+
+
+     
+
+        
+<!-- Begin Tealium -->
+<script type="text/javascript">
+
+var utag_data={
+
+    siteHier         : 'media|mlb|blogs|eye on baseball entry',
+    siteSection      : 'media|mlb|||blogs|eye on baseball entry',
+    siteType         : 'desktop web',
+    articleId        : '25256944',
+    articleType      : 'blog vembed',
+    articlePubDate   : '2015-08-01 22:55:26',
+    contentOrigin    : 'CBSSports.com Original',
+    articleAuthorName: ['David Brown'],
+    articleAuthorId  : ['15370'],
+    blogId           : '1944712',
+    blogName         : 'eye on baseball',
+    articleTitle     : 'Report: \'Several Angels teammates\' skeptical of C.J. Wilson\'s elbow injury',
+    userType         : 'anon',
+    userState        : 'not authenticated',
+    pageType         : 'stories',
+    pageName         : '/mlb/eye-on-baseball/25256944/report-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury',
+    pageTypeId       : '6975',
+    pageOntologyId   : '33706',
+    bkPath           : 'aw-cbssports/mlb/media/blogs/blogs_eye_entry',
+    pageViewGuid     : surround.vguid
+}
+</script>
+<script type="text/javascript">
+(function(a,b,c,d){
+  a='//tags.tiqcdn.com/utag/cbsi/cbssportssite/prod/utag.js';
+	b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+  a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+
+<!-- End Tealium -->
+<!-- no refresh -->
+<!-- no dl recruit -->
+
+    
+</body>
+</html><!-- Page build info: Vb2TMQq0Gy8AAAOXyvE 'ws1147.tm.cbsig.net' 919 20150801 23:49:05 /spln/local/media/cache/full/spln/1206/%2Fmlb%2Feye-on-baseball%2F25256944%2Freport-several-angels-teammates-skeptical-of-cj-wilsons-elbow-injury -->

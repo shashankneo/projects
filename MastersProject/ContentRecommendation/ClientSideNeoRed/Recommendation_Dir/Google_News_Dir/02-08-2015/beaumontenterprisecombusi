@@ -1,0 +1,1412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xml:lang="en" lang="en"><!-- hearst/home/header_main.tpl -->
+    <head>
+<!-- eid:article.6409077 -->        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+        <!-- Hotfix Top freeform -->
+        
+        
+<!-- noGen: item_header_hotfix_top -->
+        <!-- generated at 2015-08-01 14:07:46 on prodWCM4 running vr6.19.0.16 -->
+
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+
+
+        <script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+        <script type="text/javascript">
+        try {
+            amznads.getAds('3070');
+        } catch(e) { /*ignore*/ }
+
+        bizobject_identifier = "article_6409077";
+
+        // <![CDATA[
+        var requestTime = new Date(1438456066 * 1000);
+
+                    
+            
+            // bizobject variables
+        var omni_channelPath = "Business :: Energy";
+        var omni_title = "Explosion shuts down Iran-Turkey natural gas pipeline";
+        var omni_bizObjectId = "6409077";
+        var omni_className = "article";
+        var omni_publicationDate = "2015-07-28 06:29:59";
+        var omni_sourceSite="ap";
+
+        // article specific variables
+        var omni_authorName = "";
+        var omni_authorTitle = "";
+        var omni_pageNumber = "0";
+        var omni_breakingNewsFlag = "0";
+        var omni_localNewsFlag = "0";
+
+            var omni_premiumStatus = "free";
+        var omni_premiumEndDate = "";
+        var omni_originalSource = "AP";
+    
+        // ]]>
+        </script>
+        <!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r6.19.0.16.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r6.19.0.16.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r6.19.0.16.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r6.19.0.16.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r6.19.0.16.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r6.19.0.16.css" media="all" />
+<!-- Legacy header CSS-->
+
+
+        <script type="text/javascript" src="/js/hdn/utils/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/external/js/global.header.r6.19.0.16.js"></script>
+
+        <script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+
+        
+        <title>Explosion shuts down Iran-Turkey natural gas pipeline - Beaumont Enterprise</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="128x128" href="/apple-touch-icon-128x128.png">
+
+                    <link rel="canonical" href="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php" />
+                        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php" />    
+    
+    
+    
+            <meta name="author.name" content="" />
+        <meta name="author.title" content="" />
+        <meta name="date.release" content="2015/28/07" />
+        <meta name="time.release" content="1:29" />
+        <meta name="publisher" content="Associated Press" />
+        <meta name="sections" content="Business,Energy" />
+        <meta name="subject" content="" />
+        <meta name="news_keywords" content="" />
+                <script src="http://widget.perfectmarket.com/beaumontenterprise/load.js"></script>
+
+        
+    <meta property="og:title" content="Explosion shuts down Iran-Turkey natural gas pipeline" />
+            <meta property="og:description" content="ANKARA, Turkey (AP) - Turkey's energy minister says an explosion on a natural gas pipeline between Iran and Turkey caused a large fire and shut down the flow of gas.
+Taner Yildiz said Tuesday the explosion was in Agri province, some 15 kilometers from the Iranian border, and he suggested Kurdish rebels were to blame. He said the fire was quickly brought under control.
+The attack late Monday comes amid a spike in violence in recent weeks. Turkey last week launched raids against Kurdish rebel bases in northern Iraq - at the same time that it began cracking down on the Islamic State group - ending a fragile cease-fire with the Kurds." />
+                        <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php" />
+    <meta property="og:image" content="http://www.beaumontenterprise.com/img/pages/article/opengraph_default.jpg" />
+    <meta property="og:site_name" content="Beaumont Enterprise" />
+                                                                                <meta property="og:country-name" content="Turkey"/>
+                <!-- Twitter card metadata  -->
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@BmtEnterprise" />
+    
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+
+
+            <meta property="fb:admins" content="100006394927810"/>
+                <meta property="fb:app_id" content="492511214172460"/>
+    
+<!-- e /business/templates/hearst/home/header_fbpage.tpl--><!-- templates/hearst/home/viafouraHeadMeta.tpl -->
+<meta property="vf:unique_id" content="beaumontenterprise-article-6409077" />
+<meta property="vf:section" content="business">
+<!-- e templates/hearst/home/viafouraHeadMeta.tpl -->
+        
+        <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
+        
+<!-- CSS/JS Hotfix freeform -->
+
+<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.14687 -->
+<style>
+/* CFREE-7632 */
+.hst-articlecontent .hst-articlefooter .hst-articletools2 {
+    display: none;
+}
+</style>
+
+    
+<!-- Bing Webmaster Tools verification -->
+<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7" />
+    </head>
+    <body class="body business business-energy hst-article">
+    
+            <!-- ux/beaumontenterprise/tmpl/article_omniture.php -->
+
+<!-- Adobe TagManager: Beaumont Main -->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzk3OS0=/amc.js\"></sc"+"ript>");
+//]]>
+</script>
+<!-- End Adobe TagManager -->
+
+<!-- e ux/beaumontenterprise/tmpl/article_omniture.php -->
+            <div id="outer_bg_container">
+        <!-- outer gradient background image repeat-y  -->
+        <div id="inner_bg_container">
+            <!-- top fading gradient image fixed  -->
+            <div class="container">
+<!-- hearst/home/navigation.tpl -->
+
+	<!-- business/templates/hearst/home/navigation_main.tpl -->
+<div class="hst-siteheader">
+  <p class="skip">(<a href="#skip">skip this header</a>)</p>
+
+  <div class="row1 clearfix">
+    <div class="buttonone" id="buttonone1">
+      <div class="creative">
+            <div id="A120" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A120"); /*]]>*/</script></div>      </div>
+    </div>
+    <div class="leaderboard" id="leaderboard1">
+      <div class="creative">
+        <div class="hst-leaderboard">
+	<div id="A728" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A728"); /*]]>*/</script></div>
+</div>
+      </div>
+    </div>
+      
+      <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.6657 -->
+<div class="hst-topzone">
+  <!--<a href="http://www.healthylifect.com/subscribe/" title="Subscribe to Healthy Life CT"><img src="/img/modules/topzone/home-delivery.png" alt="Subscribe to Healthy Life CT" width="215" height="90"/>-->
+  <!--</a>-->
+
+  <div class="hst-circulationpromo">
+    <ul>
+      <li><a href="https://www.myhearstnewspaper.com/Beaumont/">Subscribe to the Enterprise</a></li>
+      <li><a href="/services/faq">Customer Care Center</a></li>
+      <li><a href="/services/advertising">Advertise with us</a></li>
+      <li><a href="/otherpubs">Our partner sites</a></li>
+    </ul>
+  </div>
+</div>
+  </div>
+            <!-- ux/newstimes/templates/hearst/home/header_branding.tpl -->
+
+ <div class="row2b clearfix" id="row2"><!-- .row2b -->
+     <div id="usertools1" class="usertools">
+    	<!-- ux/beaumontenterprise/tmpl/header_usertools.php -->
+
+<ul id="reg_nonmember">
+	<li class="first"><a href="http://reg.beaumontenterprise.com/signup/">Register</a></li>
+	<li><a href="http://reg.beaumontenterprise.com/login/">Sign In</a></li>
+</ul>
+<ul id="reg_member">
+</ul>
+<script type="text/javascript">
+   	/*<![CDATA[*/
+        function initRegLinks (eleId) {
+           	var insitecookie=GetCookie("chron_user_auth");
+           	var hccookie=GetCookie("hc_customize");
+        
+           	if (insitecookie && hccookie) {
+        
+        		var name=insitecookie.replace(/\|.*/,"");
+        
+        		var customarry=hccookie.split("|");
+        		var membername = customarry[10];
+        		var firstname = customarry[0];
+        		var lastname = customarry[1];
+        		var profileurl = "http://reg.beaumontenterprise.com/users/";
+        		if ('viafoura' == 'pluck') {
+        			profileurl = "http://www.beaumontenterprise.com/profile";
+        		}
+        		document.getElementById(eleId).innerHTML='<li class="first">Hi, <a href="' + profileurl + '">' + firstname + ' ' + lastname + '</a></li> <li><a href="http://reg.beaumontenterprise.com/users/">My Account</a></li> <li><a class="regnav" href="http://reg.beaumontenterprise.com/logout/">Sign Out</a></li>';
+        		document.getElementById('reg_nonmember').style.display='none';
+        
+        	}
+        }
+        initRegLinks('reg_member');
+	/*]]>*/
+</script>
+
+<!-- e ux/beaumontenterprise/tmpl/header_usertools.php -->
+    </div>
+
+
+			
+			<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.6228 -->
+<ul class="sitelinks">
+    <li class="first"><a href="/news/weather">Weather</a></li>
+    <li><a href="/traffic">Traffic</a></li>
+    <li class="last"><a href="/eedition/">e-Edition</a></li>
+</ul>
+
+    <div class="halfbanner">
+	    <div class="creative">
+			
+	        <div id="A234" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A234"); /*]]>*/ </script></div>
+			
+	     </div>
+    </div>
+
+    <div class="weather clearfix png" id="weatherbg">
+    	<p class="date">Saturday, August 01, 2015</p>
+    	<div class="location"><strong><a href="/news/weather/" id="weatherloc"></a></strong> <a href="/news/weather/" id="weathercond"></a></div>
+    	<div class="temperature"><a href="/news/weather/" id="weathertemp"></a><span id="weatherscale"></span></div>
+  	</div>
+
+	<div class="brand">
+		<a href="/"><img src="/img/modules/siteheader/brand.png" alt="Beaumont Enterprise" class="png"/></a>
+	</div>
+	
+    <div class="searchtools">
+		<form  action="/search/?" method="get" target="_top">
+  		<input type="hidden" name="action" value="search" />
+	  	<input type="hidden" name="firstRequest" value="1" />
+        
+        
+        <table><tbody><tr>
+          <td class="text"><input id="search_query" name="query" type="text" value=""></td>
+          <td class="submit"><input type="image" value="" src="/img/modules/siteheader/searchbutton.png"></td>
+          <td class="radio"><input type="radio" value="gsa" name="searchindex" checked="checked"></td>
+          <td class="label">beaumont enterprise</td>
+          <td class="radio"><input type="radio" value="businesses" name="searchindex"></td>
+          <td class="label">Businesses</td>
+        </tr></tbody></table>
+      	</form>
+    </div>
+
+ </div><!--/.row2b -->
+
+<!-- /ux/newstimes/templates/hearst/home/header_branding.tpl -->
+          
+  <!-- NAV MENU START -->
+
+
+<script type="text/javascript">var defaultSiteNavId = 'channel_8083';</script>
+<!-- hearst/sitemenu/dynamic.tpl -->
+
+
+<div id="menu_sitenav" class="sitenav clearfix">
+  <ul class="list1"><li id="sitenav_516"><a href="/"><img src="http://home.beaumontenterprise.com/site_graphics_logos/wcm-home-icon.gif"></a></li><li id="sitenav_519"><a href="/news/">News</a></li><li id="sitenav_520"><a href="/entertainment/">Entertain</a></li><li id="sitenav_1421"><a href="http://blog.beaumontenterprise.com/cat5/">cat5</a></li><li id="sitenav_521"><a href="/sports/">Sports</a></li><li id="sitenav_522"><a href="/business/">Biz</a></li><li id="sitenav_517"><a href="http://www.legacy.com/obituaries/beaumontenterprise/">Obits</a></li><li id="sitenav_523"><a href="/opinions/">Opinion</a></li><li id="sitenav_524"><a href="/photos/">Photo</a></li><li id="sitenav_596"><a href="/life/travel/">Travel</a></li><li id="sitenav_527"><a href="/blogs/">Blogs</a></li></ul><ul class="list2"><li id="sitenav_526"><a href="http://www.southeasttexas.com/">SETX</a></li><li id="sitenav_518"><a href="http://cars.beaumontenterprise.com/">Cars</a></li><li id="sitenav_536"><a href="http://www.beaumontenterprise.com/jobs">Jobs</a></li><li id="sitenav_537"><a href="/homes/">Homes</a></li></ul>
+  <ul class="list3">
+    <li id="sitenav_0"><a class="list3_index" href="/index/"id="index">Index &#9660;</a></li>
+  </ul>
+  <!-- NavBar Sponsor Image -->
+  
+  <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.25763 -->
+<div class="sponsor"><a href="http://findnsave.beaumontenterprise.com/"><img src="/img/hdn/icons/findSave_color.png"></a></div>
+</div>
+
+
+
+<div class="hst-navIndex" id="navIndex">
+    <div class="content">
+        <div class="title clearfix">
+            <div class="indexheader"><a href="#" id="navIndex-close">Close [X]</a></div>
+            Quick links to other pages on this site <span class="pipe">|</span> Still can't find it? see <a href="/index/">Site Index</a>
+        </div>
+        <div class="columns" id="navIndex-columns">
+            <div class="clear"></div>
+        </div>
+        <!--/.columns-->
+    </div>
+    <!--/.content-->
+</div>
+
+<div id="subnav_516" class="subnav clearfix hidden"><ul class="list1"><li class="label"><b>Check it out:</b></li><li class="first"><a href="http://www.beaumontenterprise.com/entertainment/">Were you 'Seen'?</a></li><li><a href="http://www.facebook.com/bmtenterprise">'Like' us on Facebook</a></li><li><a href="https://twitter.com/BmtEnterprise/staff">Tweet with our staff</a></li></ul></div>
+<div id="subnav_519" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/news/crime/">Crime</a></li><li><a href="/news/weather/">Weather</a></li><li><a href="/news/communities/">Communities</a></li><li><a href="/news/louisiana/">Louisiana</a></li><li><a href="/news/texas/">Texas</a></li><li><a href="/news/nation/">Nation</a></li><li><a href="/news/world/">World</a></li><li><a href="/services/archives/">Archives</a></li></ul></div>
+<div id="subnav_520" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="http://www.beaumontenterprise.com/events">Calendar</a></li><li><a href="/entertainment/seen/">Seen</a></li><li><a href="http://movies.beaumontenterprise.com/">Movies</a></li><li><a href="/entertainment/tv/">TV</a></li><li><a href="/entertainment/comics/">Comics</a></li><li><a href="/entertainment/puzzles/">Puzzles</a></li><li><a href="/entertainment/horoscopes/">Horoscopes</a></li><li><a href="/entertainment/games/">Games</a></li><li><a href="/entertainment/lottery/">Lottery</a></li><li><a href="http://print.coupons.com/couponweb/Offers.aspx?pid=15243&zid=sj21&nid=10&bid=alk0916100902b872fa2c92610">Coupons</a></li><li><a href="http://www.beaumontenterprise.com/sponsoredarticles/lifestyle">Sponsored Articles</a></li></ul></div>
+<div id="subnav_1421" class="subnav clearfix hidden"></div>
+<div id="subnav_521" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/sports/hs/">High School</a></li><li><a href="/sports/lamar/">Lamar</a></li><li><a href="http://pro32.ap.org/beaumontenterprise">The NFL</a></li><li><a href="http://collegefootball.ap.org/beaumontenterprise">College Football</a></li><li><a href="/sports/outdoors/">Outdoors</a></li><li><a href="http://blog.beaumontenterprise.com/huddle/">The Huddle</a></li><li><a href="http://blog.beaumontenterprise.com/inthecards/">In the Cards</a></li><li><a href="/sports/baseball/">Baseball</a></li><li><a href="/sports/golf/">Golf</a></li><li><a href="/sports/basketball/">Basketball</a></li><li><a href="/sports/other/">Other sports</a></li></ul></div>
+<div id="subnav_522" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/business/technology/">Technology</a></li><li><a href="/business/texas/">Texas Business</a></li><li><a href="/business/nation/">Nation & World</a></li><li><a href="http://local.beaumontenterprise.com/">Business Directory</a></li><li><a href="/sponsoredarticles/business/">Sponsored Content</a></li></ul></div>
+<div id="subnav_517" class="subnav clearfix hidden"></div>
+<div id="subnav_523" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/opinions/editorials/">Editorials</a></li><li><a href="/opinions/letters/">Letters</a></li><li><a href="/opinions/letters/submit/">Submit a Letter</a></li><li><a href="/opinions/columns/">Columns</a></li><li><a href="http://www.beaumontenterprise.com/opinions/cartoons">Cartoons</a></li></ul></div>
+<div id="subnav_524" class="subnav clearfix hidden"></div>
+<div id="subnav_596" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/life/travel/galveston/">Galveston</a></li><li><a href="/life/travel/bolivar/">Bolivar</a></li><li><a href="/life/travel/houston/">Houston - Kemah</a></li></ul></div>
+<div id="subnav_527" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="http://blog.beaumontenterprise.com/ultimatetexans/">Ultimate Texans</a></li><li><a href="http://blog.beaumontenterprise.com/ultimateastros/">Ultimate Astros</a></li><li><a href="http://blog.beaumontenterprise.com/huddle">The Huddle</a></li><li><a href="http://fuelfix.com/beaumont/">Fuel Fix</a></li><li><a href="http://blog.beaumontenterprise.com/inthecards">In the Cards</a></li><li><a href="http://blog.beaumontenterprise.com/hottopics">Hot Topics</a></li></ul></div>
+<div id="subnav_526" class="subnav clearfix hidden"></div>
+<div id="subnav_518" class="subnav clearfix hidden"></div>
+<div id="subnav_536" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="http://beaumont.salary.com/SalaryWizard/LayoutScripts/Swzl_NewSearch.aspx">Compare your salary</a></li></ul></div>
+<div id="subnav_537" class="subnav clearfix hidden"></div>
+
+<div id="subnav_0" class="subnav clearfix hidden"></div>
+
+<!-- e hearst/sitemenu/dynamic.tpl --><!-- hearst/common/channel_subnav.tpl -->
+    
+    <!-- e hearst/common/channel_subnav.tpl -->
+
+<!-- NAV MENU END -->
+
+ <div class="hr"><hr /></div> 
+</div>
+<!--/.siteheader -->
+
+<div class="hst-billboard">
+    <div class="innerWrap">
+                    <div id="RM" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("RM"); /*]]>*/</script></div>
+                <div id="A951" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A951"); /*]]>*/</script></div>
+    </div>
+</div>
+<!-- e business/templates/hearst/home/navigation_main.tpl -->
+<!-- e hearst/home/navigation.tpl -->
+<!-- commentsOn: 1, commentKey: beaumontenterprise-article-6409077 -->
+    <div class="pagecontent faux-21 hst-articlecontent business">
+
+                                        
+
+                                    <!-- templates/design/article/story_page.tpl -->
+<!-- templates/design/article/content/story_page.tpl -->
+
+<div class="faux-21 clearfix">
+    <div class="span-21b clearfix">
+        <!-- hearst/article/types/story.tpl -->
+
+<table class="hst-articleprinter">
+    <tr>
+        <td class="print"><form><input type="submit" value="Print This Article" onclick="print();return false;" /></form></td>
+        <td class="back"><a href="/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php">&laquo; Back to Article</a></td>
+    </tr>
+</table>
+
+<div id="hst-printable-ad" class="hst-printable-ad">
+</div>
+<div class="hnews hentry item">
+
+<!-- src/business/templates/hearst/article/types/standard_title.tpl -->
+
+        <div class="hst-articletitle articletitle">
+            <p class="brand"><!--  BRAND  --></p>
+            <!-- src/business/templates/hearst/article/headline.tpl -->
+    <h1 class="headline entry-title">Explosion shuts down Iran-Turkey natural gas pipeline</h1>
+    <!-- e src/business/templates/hearst/article/headline.tpl -->
+            <!-- src/business/templates/hearst/article/types/byline.tpl -->
+
+<!-- e src/business/templates/hearst/article/types/byline.tpl -->
+                                                                <h5 class="timestamp updated" title="2015-07-30T19:38:13Z">
+                Updated 7:38&nbsp;pm, Thursday, July 30, 2015
+            </h5>
+        </div>
+
+<!-- e src/business/templates/hearst/article/types/standard_title.tpl -->
+
+<script type="text/javascript" src="/js/hdn/slideshow/refresh.js?r6.19.0.16"></script>
+<iframe style="display:none;" id="galleryrefresher" name="galleryrefresher" src="/tmpl/slideshow_empty.html"></iframe>
+<iframe style="display:none;" id="gallery_pos_refresher" name="gallery_pos_refresher" src="/tmpl/slideshow_empty.html"></iframe>
+<script>HDN.doRefresh = 1;</script>
+  <div class="hst-articlebox">
+            
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.19576 -->
+<div class="hst-freeform hdnce-e hdnce-item-19576">
+        <div
+    class="ndn_embed"
+    id="ndn-video-player-1"
+    data-config-distributor-id="90004"></div>
+</div>
+                
+    	
+	<!-- Begin Hearst Ad -->
+	<div id="TMP300_3" class="inline-ad">
+		<script type="text/javascript">/*<![CDATA[*/hearstPlaceAd("TMP300_3");/*]]>*/</script>
+	</div>
+	<!-- End Hearst Ad -->
+	
+    <!-- hearst/article/article_tools.tpl -->
+
+
+<!-- temporary inline style, don't judge me! -->
+
+<style type="text/css">
+	.fb_share_count_wrapper {width: 52px;}
+	.FBConnectButton_Small .FBConnectButton_Text {padding:2px 2px 3px 3px;}
+	.FBConnectButton_Small, .FBConnectButton_RTL_Small {font-size:9px;line-height:10px;}
+	.print_link {height: 25px;}
+</style>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class="hst-articletools">
+
+	<!-- Wrap  -->
+	<div class="inner_social_wrap clearfix" style="margin-bottom:15px;">
+
+	<div id="tweetmeme_1" style="float: left;">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=twitter" data-count="vertical" data-via="BmtEnterprise">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</div>
+	
+	<!--
+	<div style="float: left; width:45px; padding-left:8px;">
+		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.beaumontenterprise.com%2Fbusiness%2Fenergy%2Farticle%2FExplosion-shuts-down-Iran-Turkey-natural-gas-6409077.php%3Fcmpid%3Dfb&amp;layout=box_count&amp;show_faces=false&amp;width=50&amp;action=like&amp;font=tahoma&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true"></iframe>
+	</div>
+	-->
+	
+	<div style="float: left; padding-left:8px;" class="fb-share-button" data-href="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=fb" data-type="box_count"></div>
+	
+	<div style="float: left; padding-left: 8px;margin-right:8px;">
+		<g:plusone size="tall" href="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=gplus"></g:plusone>
+	</div>
+	
+	<script type="text/javascript">
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	
+	<div style="float: left; margin-top:40px;">
+		<!-- Pin it -->
+		<a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.beaumontenterprise.com%2Fbusiness%2Fenergy%2Farticle%2FExplosion-shuts-down-Iran-Turkey-natural-gas-6409077.php&media=http://www.beaumontenterprise.com/img/pages/article/opengraph_default.jpg&description=Explosion+shuts+down+Iran-Turkey+natural+gas+pipeline" data-pin-do="buttonPin" data-pin-config="above"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
+		<!-- Please call pinit.js only once per page -->
+		<script src="//assets.pinterest.com/js/pinit.js" data-pin-zero="true" async type="text/javascript" /></script>
+		
+	</div>
+	
+	</div><!-- end Wrap -->
+	
+	<!--
+	<div style="clear:both; padding-bottom:10px;"></div>
+	-->
+	
+	<table style="float:left; width:50%;">
+		<tr>
+							<td class="size">
+					<img src="/img/pages/article/tools_size.gif" alt="" />
+					<a class="larger" href="javascript:hst_chsize('plus')">Larger</a> | <a class="text" href="javascript:hst_chsize('minus')">Smaller</a>
+				</td>
+					</tr>
+				<tr><td class="print print_link"><a href="javascript:hst_print();"><img src="/img/pages/article/tools_print.gif" alt="" />Printable Version</a></td></tr>
+	</table>
+	<table style="float:left; width:45%;">
+		<tr>
+			<td class="print size">
+				<a href="mailto:?subject=Explosion%20shuts%20down%20Iran-Turkey%20natural%20gas%20pipeline&body=http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php" /><img src="http://www.newstimes.com/img/pages/article/tools_mail.gif" alt="" />Email This</a>
+				<!-- RM 20174
+				<a href="#" onclick="popup('/?controllerName=emailThis&sitename=beaumontenterprise&object=article&objectid=6409077&site=15&title=Explosion+shuts+down+Iran-Turkey+natural+gas+pipeline&url=http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php'); return false;"><img src="http://www.newstimes.com/img/pages/article/tools_mail.gif" alt="" />Email This</a>
+				-->
+			</td>
+		</tr>
+		<tr>
+			<td class="print size"><div class="poplaunch"><div class="toolspop fontpop" id="hst_articletools_fontpop" onmouseover="popShow(this.id);" onmouseout="popHide(this.id);" style="display:none;"><form action="#"><p class="choice"><input type="radio" id="font_radio_georgia" name="font_radio" value="1" onclick="hst_chfont('georgia');" checked="checked" /> <span class="georgia">Georgia <span class="isdefault">(default)</span></span></p><p class="choice"><input type="radio" id="font_radio_verdana" name="font_radio" value="2" onclick="hst_chfont('verdana');" /> <span class="verdana">Verdana</span></p><p class="choice"><input type="radio" id="font_radio_times" name="font_radio" value="3"   onclick="hst_chfont('times');" /> <span class="times">Times New Roman</span></p><p class="choice"><input type="radio" id="font_radio_arial" name="font_radio" value="4"  onclick="hst_chfont('arial');" /> <span class="arial">Arial</span></p></form></div><a href="#" onclick="popShow('hst_articletools_fontpop', this); return false;"><img src="http://www.newstimes.com/img/pages/article/tools_dropdown.gif" alt="" />Font</a></div></td>
+			<td class="ad"><div class="hst-microbar">
+	<div id="A88" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A88"); /*]]>*/ </script></div>
+</div></td>
+		</tr>
+	</table>
+	
+	
+	
+	<div style="clear:both;"></div>
+</div><!--/.hst-articletools-->
+<!-- e hearst/article/article_tools.tpl -->    
+    
+	<!-- src/business/templates/hearst/article/relatedStories.tpl -->
+<!-- src/business/templates/hearst/article/relatedStories.tpl -->    
+        
+    <!-- zone ModA -->
+    <!-- / zone ModA -->
+    <!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-8204-other_news"><!-- collections/other_news.tpl -->
+<!-- collection.other_news.8204 -->
+<div class="hst-othernews">
+    <!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                         <h2><a href="/business"><span class="first-word">Business</span></a></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl -->        <span>
+                <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/news/collectionRss/Article-OtherNews-Business-8204.php">
+                        <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+                </a>
+        </span>
+
+    <ul>
+                    <li class="last">
+                <p class="illo"><a   href="/news/world/article/Drachma-revolt-adds-unease-to-Greece-s-awkward-6414033.php"><img src="http://ww4.hdnux.com/photos/37/76/62/8383639/9/othernews.jpg" width="218" height="164" alt="Greek Prime Minister Alexis Tsipras leaves the podium after his speech at a meeting of ruling radical left Syriza party's central committee in Athens, on Thursday, July 30, 2015. Tsipras called for an extraordinary party congress in September, after Greece is expected to seal a new bailout deal with its international creditors, in a bid to end a rebellion by his hardline lawmakers that is threatening to topple his coalition government." /></a></p>                <h4><a   href="/news/world/article/Drachma-revolt-adds-unease-to-Greece-s-awkward-6414033.php">Greece's Tsipras prevails over rebels at party meeting</a></h4>
+            </li>
+                    </ul>
+</div><!--/.hst-othernews -->
+<!-- e other_news.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         
+<!-- noGen: collection_92a2b5cb9c6906035c2864fa225e1940_8185 -->
+    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-8181-other_news"><!-- collections/other_news.tpl -->
+<!-- collection.other_news.8181 -->
+<div class="hst-othernews">
+    <!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                         <h2><a href="/news/texas"><span class="first-word">Texas</span></a></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl -->        <span>
+                <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/news/collectionRss/Article-News-Other-Texas-8181.php">
+                        <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+                </a>
+        </span>
+
+    <ul>
+                    <li class="last">
+                <p class="illo"><a   href="/news/texas/article/Subway-sandwich-artists-set-world-record-in-Las-6419890.php"><img src="http://ww4.hdnux.com/photos/40/02/62/8400039/5/othernews.jpg" width="218" height="164" alt="Members of Team SUBWAY make sandwiches as SUBWAY Restaurants sets a new Guinness World Record title for most people making sandwiches simultaneously with 1,481 people from around the world participating, during an event held as part of the 2015 SUBWAY Convention and the brand's 50th anniversary celebration at The Venetian Resort Hotel Casino on Saturday, Aug. 1, 2015 in Las Vegas, NV. (Photo by Bizuayehu Tesfaye/Invision for SUBWAY Restaurants/AP Images)" /></a></p>                <h4><a   href="/news/texas/article/Subway-sandwich-artists-set-world-record-in-Las-6419890.php">Subway sandwich artists set world record in Las Vegas</a></h4>
+            </li>
+                    </ul>
+</div><!--/.hst-othernews -->
+<!-- e other_news.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-8186-other_news"><!-- collections/other_news.tpl -->
+<!-- collection.other_news.8186 -->
+<div class="hst-othernews">
+    <!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                         <h2><a href="/news/nation"><span class="first-word">Nation</span></a></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl -->        <span>
+                <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/news/collectionRss/Article-News-Other-Nation-8186.php">
+                        <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+                </a>
+        </span>
+
+    <ul>
+                    <li class="last">
+                <p class="illo"><a   href="/news/texas/article/Prayer-walk-planned-as-investigation-continues-in-6393290.php"><img src="http://ww1.hdnux.com/photos/37/64/66/8342972/25/othernews.jpg" width="218" height="164" alt="In this July 10, 2015, frame from dashcam video provided by the Texas Department of Public Safety, trooper Brian Encinia arrests Sandra Bland after she became combative during a routine traffic stop in Waller County, Texas. Bland was taken to the Waller County Jail that day and was found dead in her cell on July 13. (Texas Department of Public Safety via AP)" /></a></p>                <h4><a   href="/news/texas/article/Prayer-walk-planned-as-investigation-continues-in-6393290.php">AP News Guide to case of woman found hanged in Texas jail</a></h4>
+            </li>
+                    </ul>
+</div><!--/.hst-othernews -->
+<!-- e other_news.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl -->	
+  </div>
+
+<div class="hst-articlepager-report" id="articlepagerreport">Page 1 of 1</div>
+<div class="hst-articletext"><div id="fontprefs_top" class="georgia md">
+
+  <div id="text" class="entry-content">
+                    <p xmlns="http://www.w3.org/2005/Atom" xmlns:apcm="http://ap.org/schemas/03/2005/apcm" xmlns:apnm="http://ap.org/schemas/03/2005/apnm" xmlns:o="http://w3.org/ns/odrl/2/">ANKARA, Turkey (AP) — Turkey's energy minister says an explosion on a natural gas pipeline between Iran and Turkey caused a large fire and shut down the flow of gas.</p><p xmlns="http://www.w3.org/2005/Atom" xmlns:apcm="http://ap.org/schemas/03/2005/apcm" xmlns:apnm="http://ap.org/schemas/03/2005/apnm" xmlns:o="http://w3.org/ns/odrl/2/">Taner Yildiz said Tuesday the explosion was in Agri province, some 15 kilometers from the Iranian border, and he suggested Kurdish rebels were to blame. He said the fire was quickly brought under control.</p><p xmlns="http://www.w3.org/2005/Atom" xmlns:apcm="http://ap.org/schemas/03/2005/apcm" xmlns:apnm="http://ap.org/schemas/03/2005/apnm" xmlns:o="http://w3.org/ns/odrl/2/">The attack late Monday comes amid a spike in violence in recent weeks. Turkey last week launched raids against Kurdish rebel bases in northern Iraq — at the same time that it began cracking down on the Islamic State group — ending a fragile cease-fire with the Kurds.</p><p xmlns="http://www.w3.org/2005/Atom" xmlns:apcm="http://ap.org/schemas/03/2005/apcm" xmlns:apnm="http://ap.org/schemas/03/2005/apnm" xmlns:o="http://w3.org/ns/odrl/2/">The Kurdistan Workers Party, or PKK, has attacked pipelines in the past as part of its armed campaign for autonomy.</p>
+      	  	
+  </div>
+  
+  <script type="text/javascript">
+  jQuery(function($) {
+    $('#text').paginator('.hst-articlepager', $('.hst-articlebox').height());
+  });
+  </script>
+  
+
+</div></div><!--/.hst-articletext-->
+</div><!--/nlg wrapper-->
+
+<div class="hst-articlefooter">
+<!-- hearst/article/article_tools_2.tpl  -->
+
+
+    <!-- temporary inline style below, don't judge me! -->
+    <div class="hst-articletools2">
+        <!-- Use on sfgate -->
+        <div class="arbox print first">
+            <a href="javascript:hst_print();"><img src="/img/pages/article/tools_print.gif" alt="" style="vertical-align: middle;" /> Printable Version</a>
+        </div>
+        <div class="arbox print">
+            <a href="mailto:?subject=Explosion%20shuts%20down%20Iran-Turkey%20natural%20gas%20pipeline&body=http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php" /><img src="http://www.newstimes.com/img/pages/article/tools_mail.gif" alt="" style="vertical-align: middle;" /> Email This</a>
+            <!-- RM 20174
+            <a href="#" onclick="popup('/?controllerName=emailThis&sitename=beaumontenterprise&object=article&objectid=6409077&site=15&title=Explosion+shuts+down+Iran-Turkey+natural+gas+pipeline&url=http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php'); return false;"><img src="/img/pages/article/tools_mail.gif"  alt="" style="vertical-align: middle;" /> Email This</a>
+            -->
+        </div>
+
+        
+        <style type="text/css">
+            .fb_iframe_wrap_hdn .fb_iframe_widget span,  .fb_iframe_wrap_hdn .fb_iframe_widget iframe {
+                width: 92px !important;
+            }
+        </style>
+        
+
+        <div class="arbox facebook fb_iframe_wrap_hdn">
+
+        <div class="fb-share-button" data-href="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=fb" data-type="button_count" ></div>
+
+        </div>
+        <div class="arbox">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=twitter" data-count="horizontal" data-via="BmtEnterprise">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        </div>
+        <div class="arbox">
+            <g:plusone size="medium" href="http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php?cmpid=gplus"></g:plusone>
+        </div>
+        
+        <script type="text/javascript">
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+        
+        <div class="arbox last">
+            <!-- Pin it -->
+
+            <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.beaumontenterprise.com%2Fbusiness%2Fenergy%2Farticle%2FExplosion-shuts-down-Iran-Turkey-natural-gas-6409077.php&media=http://www.beaumontenterprise.com/img/pages/article/opengraph_default.jpg&description=Explosion+shuts+down+Iran-Turkey+natural+gas+pipeline"
+            data-pin-do="buttonPin" data-pin-config="beside" data-pin-zero="true"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
+
+       </div>
+    </div><!--/.hst-articletools2-->
+
+
+<!-- e hearst/article/article_tools_2.tpl -->
+    
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.19371 -->
+<div class="hst-freeform hdnce-e hdnce-item-19371">
+        <div class="OUTBRAIN" data-widget-id="AR_2" data-ob-template="beaumontenterprise" ></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+                
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.19372 -->
+<div class="hst-freeform hdnce-e hdnce-item-19372">
+        <div class="OUTBRAIN" data-widget-id="AR_3" data-ob-template="beaumontenterprise" ></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+                
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.19577 -->
+<div class="hst-freeform hdnce-e hdnce-item-19577">
+        <div
+    class="ndn_embed"
+    id="ndn-video-player-2"
+    data-config-distributor-id="90004"></div>
+</div>
+                
+    
+
+
+      <!-- comments get dynamically inserted here -->
+
+<div id="comments" class="hdn-comments">
+    <!-- hearst/home/modal_signin_form.tpl -->
+<script type="text/javascript">HDN.onLoginSuccess = initRegLinks</script>
+<script src="/js/hdn/utils/jquery.placeholder.js"></script>
+<script type="text/javascript">
+    
+    jQuery(function(){
+        $("#modal_signin_close").bind("click",function(){
+            $('#modal_signin_div').hide();
+            return false;
+        });
+        $('#modal_signin_div .checkbox-div').bind("click",function(){
+            if ($(this).text() == "X") {
+                $(this).text("");
+                $('#modal_signin_rememberme').removeAttr('checked');
+            } else {
+                $(this).text("X");
+                $('#modal_signin_rememberme').attr('checked', 'checked');
+            }
+            return false;
+        });
+        $('input, textarea').placeholder();
+    })
+    
+</script>
+<div id="modal_signin_div" class="signin">
+    <div id="modal_signin_error_div" style="display:none;"></div>
+    <form data-ajax="false" id="modal_signin_form" action="http://reg.beaumontenterprise.com/api/session" method="post">
+        <a href="http://reg.beaumontenterprise.com/signup/" class="form-link">Need to Register?</a>
+        <button id="modal_signin_close">X</button>
+        <div class="line_separator"></div>
+        <input type="text" id="modal_signin_user" name="email" selected autocapitalize="off" value="" data-mini="true" placeholder="EMAIL" />
+        <input type="password" id="modal_signin_password" name="password" selected autocapitalize="off" value="" data-mini="true" placeholder="PASSWORD" />
+        <div class="checkbox-container">
+            <div class="checkbox-div"></div>
+            <input type="checkbox" id="modal_signin_rememberme" name="remember_me" value="1" class="custom-check" />
+            <label for="modal_signin_rememberme" data-corners="false">Remember Me</label>
+        </div>
+        <input name="commit" type="submit" value="Sign-in" data-mini="true" data-corners="false" class="submit-btn"></p>
+        <a href="http://reg.beaumontenterprise.com/forgot_password" class="form-link forgot">Forgot your password?</a>
+    </form>
+</div>
+<!-- e hearst/home/modal_signin_form.tpl -->
+    <div id="hdn-vf-comments"></div>
+</div>  
+</div>
+
+<!-- e hearst/article/types/story.tpl -->    </div><!--/.span-21b-->
+    <!-- templates/hearst/article/types/story_right.tpl  -->
+
+<div class="span-10 last">
+
+        
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.2877 -->
+<div class="hst-freeform hdnce-e hdnce-item-2877">
+        <a href="https://www.myhearstnewspaper.com/Beaumont/"><img src="http://ww3.hdnux.com/photos/01/33/37/374782/22/300x82.jpg"></a>
+</div>
+                    
+    
+    <!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-45396-simple_list"><!-- hearst/collections/simple_list.tpl -->
+<!-- collection.simple_list.45396 -->
+	<!-- design/collection/simple_list/single_zone.tpl  -->
+	<div class="hst-simplelist home">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
+                         <h2><span class="first-word">Top</span> Stories</h2>
+            <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/home/collectionRss/Homepage-CP-simple-list-45396.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
+<ul>
+<li class="item"><h4><a   href="/news/article/Is-China-spying-on-Beaumont-6418029.php">Is China spying on Beaumont?</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/article/Dead-turtle-found-on-McFaddin-could-provide-clues-6417288.php">Dead turtle sighting could provide clues</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/life/pets/article/Houston-man-sues-for-return-of-golden-retriever-6417931.php">Dog custody battle goes to Texas court</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/entertainment/article/Meet-the-Marine-who-was-the-voice-of-Disney-s-6417881.php">Meet the Texas Marine who was the voice of Disney’s Bambi</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/politics/article/Houston-investor-donates-almost-a-third-of-Cruz-6417505.php">A few wealthy donors boost PACs backing Cruz</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/houston-texas/article/After-hearing-s-on-Sandra-Bland-s-death-lawmaker-6417569.php">Sandra Bland case brings about call for bond system reform</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/houston-texas/texas/article/State-finally-finds-facility-to-house-sex-6417508.php">Remote West Texas site will house sex offenders</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/real-estate/article/Marriott-Hill-Country-resort-plans-16-million-6417613.php">Hill Country resort plans $16M upgrade</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item last"><h4><a   href="/real-estate/article/Big-Bang-Theory-star-Johnny-Galecki-buys-6415029.php">A look inside the $9M home a 'Big Bang Theory' star just bought</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+</ul>
+<!-- e hearst/collections/simple_list_body.tpl -->	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/single_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-23661-blogpromo_vertical"><!-- hearst/collections/blogpromo_vertical.tpl -->
+<!-- collection.blogpromo_vertical.23661 -->
+	<!-- templates/design/collection/blogpromo_vertical/default.tpl  -->
+
+	                
+    
+	<div class="hst-blogpromo-vertical clearfix">
+	    <div>
+	        <div class="header clearfix">
+	            <!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                         <h2><a href="http://www.fuelfix.com/beaumont"><span class="first-word">Energy</span> Blog</a></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl -->	            <span>
+					<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/business/collectionRss/Blog-Promo-Fuel-Fix-23661.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+					</a>
+				</span>
+	        </div>
+	        <ul>
+	        		        			    				
+	    					<li class="clearfix">
+		        			<h4 class="blogtitle"><a class="hdnce-e hdnce-blog-5147" href="http://fuelfix.com/beaumont"><img src="http://ww2.hdnux.com/photos/05/64/57/1526753/6/64x64.png" alt="" />Fuel Fix</a></h4>
+		        			<div class="detail">
+		        					        				<p class="blogposttitle"><a class="hdnce-e hdnce-blogPost-1736407" href="http://fuelfix.com/beaumont/2015/08/01/eagle-ford-shale-tops-texas-list-of-top-crude-gas-producers/">Eagle Ford Shale tops Texas list of top crude,...</a></p>
+		        				<p class="timestamp">
+                                    <!-- subitem_timestamp.tpl -->8:01&nbsp;AM<!-- e subitem_timestamp.tpl -->								</p>		
+	        					        				</div>
+	        					        				<div class="comments">
+	        				<p class="comments-header">RECENT COMMENTS</p>
+	        					        					        				
+								        				</div>
+	        					        				</li>
+					        </ul>
+
+	    </div><!--/.blogs-->
+
+	</div><!--/.hst-blogpromo-vertical-->
+
+<!-- e templates/design/collection/blogpromo_vertical/default.tpl  --><!-- e hearst/collections/blogpromo_vertical.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl -->
+    <!-- hearst/ads/medium_rectangle_ad_first.tpl -->
+
+<div id="hst-mediumrectangle1" class="hst-mediumrectangle clearfix">
+<div id="A300" class="A300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A300"); /*]]>*/ </script></div>
+</div>
+<!-- e medium_rectangle_ad_first.tpl --> 
+
+        
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.19373 -->
+<div class="hst-freeform hdnce-e hdnce-item-19373">
+        <div class="OUTBRAIN" data-widget-id="SB_1" data-ob-template="beaumontenterprise" ></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+                
+                        <!-- business/templates/design/item/default.tpl -->
+<!-- mid:freeform.2662 -->
+<div class="hst-freeform hdnce-e hdnce-item-2662">
+        <form action="http://local.beaumontenterprise.com/search" method="get">
+<div id="localedge_integratedSearch">
+<div class="localedge_header">
+	<div class="localedge_header-left"></div>
+	<span class="localedge_label">
+		<img src="/img/modules/localedge/beaumontenterprise-logo.png" alt="Beaumont Enterprise" />
+	</span>
+	<span class="localedge_buttons">
+		<input type="text" name="keyword" class="localedge_text localedge_searchInput" value="Search Local Businesses" />
+		<input type="submit" name="Submit" value="" class="localedge_submit" />
+	</span>
+	<div class="localedge_header-right"></div>
+</div>
+<div class="localedge_searchContents">
+	<ul>
+	    <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Auto-Sales">Beaumont Auto Sales</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Banking">Beaumont Banking</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Beauty-Care">Beaumont Beauty Care</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Dentists">Beaumont Dentists</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Florists">Beaumont Florists</a></li>
+
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Insurance-Coverage">Beaumont Insurance</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Lawyers">Beaumont Lawyers</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Movers">Beaumont Movers</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Physicians">Beaumont Physicians</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Restaurants">Beaumont Restaurants</a></li>
+        <li><a href="http://local.beaumontenterprise.com/s/TX-BEAUMONT/Real-Estate-Property">Beaumont Real Estate</a></li>
+	</ul>
+</div>
+<div class="localedge_footer">
+	<div class="localedge_footer-left"></div>
+	<a href="http://local.beaumontenterprise.com/">Discover and Review More Local Businesses &#187;</a>
+	<div class="localedge_footer-right"></div>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	var searchInputUnselectedText = "Search Local Businesses";
+	if(searchInputUnselectedText != jQuery("div#localedge_integratedSearch div.localedge_header span.localedge_buttons input.localedge_searchInput").val() )
+	{
+		jQuery("div#localedge_integratedSearch div.localedge_header span.localedge_buttons input.localedge_searchInput").addClass("localedge_focus");
+	}
+	
+	jQuery("div#localedge_integratedSearch div.localedge_header span.localedge_buttons input.localedge_searchInput").focus( function() {
+		if(searchInputUnselectedText == jQuery(this).val())
+		{ 
+			jQuery(this).val("");
+			jQuery(this).addClass("localedge_focus");
+		}
+	});
+	jQuery("div#localedge_integratedSearch div.localedge_header span.localedge_buttons input.localedge_searchInput").blur( function() {
+		if("" == jQuery(this).val())
+		{ 
+			jQuery(this).val(searchInputUnselectedText);
+			jQuery(this).removeClass("localedge_focus");
+		}
+	} );
+});
+</script>
+</div>
+            <!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-8194-news_gallery"><!-- hearst/collections/news_gallery.tpl -->
+<!-- collection.news_gallery.8194 -->
+
+<div class="hst-newsgallery"><div class="edge2"><div class="edge3"><div class="edge4 clearfix"> 
+			<!-- templates/design/collection/news_gallery/double_zone.tpl  -->
+
+    <div class="header clearfix">
+		<!-- zone1 -->
+        <!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                         <h2><a href="/photos"><span class="first-word">Photo</span> galleries</a></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl -->        <!-- e zone1 -->
+        <!-- zone2 -->
+                <!-- e zone2 -->
+	</div>
+	
+	<!-- collections/news_gallery_body.tpl -->
+    <ul class="clearfix">
+                                                    <li class="item">
+                    <p class="illo"><a   href="/news/slideshow/Dallas-Keuchel-through-the-years-109032.php"><img src="http://ww4.hdnux.com/photos/36/17/03/7925959/9/square_horiz_promo.jpg" alt="OMAHA, NE - JUNE 17:   Dallas Keuchel of the Arkansas Razorbacks shows off his Arkansas jersey after a game against the Virginia Cavaliers at the College World Series on June 17, 2009 at Rosenblatt Stadium in Omaha, Nebraska.  Arkansas defeated Virginia 4 - 3 in 12 innings.  (Photo by Wesley Hitt/Getty Images)" /></a></p>                    <h4><a   href="/news/slideshow/Dallas-Keuchel-through-the-years-109032.php">Dallas Keuchel through the years</a></h4>
+                </li>
+                                                                                <li class="item">
+                    <p class="illo"><a   href="/news/slideshow/Astros-Diamondbacks-July-31-Aug-2-114423.php"><img src="http://ww4.hdnux.com/photos/40/02/71/8400499/3/square_horiz_promo.jpg" alt="Aug. 1: Astros 9, Diamondbacks 2     Fans in Keuchel's Korner, a dedicated section for fans to show their support for the bearded Astros' pitcher, Dallas Keuchel, are shown before the Houston Astros and Arizona Diamondbacks game at Minute Maid Park Saturday, Aug. 1, 2015, in Houston. ( Melissa Phillip  / Houston Chronicle )" /></a></p>                    <h4><a   href="/news/slideshow/Astros-Diamondbacks-July-31-Aug-2-114423.php">Astros-Diamondbacks: July 31-Aug. 2</a></h4>
+                </li>
+                                                                                <li class="item last">
+                    <p class="illo"><a   href="/news/slideshow/2015-Astros-Game-by-game-107309.php"><img src="http://ww4.hdnux.com/photos/40/02/72/8400527/3/square_horiz_promo.jpg" alt="Aug. 1: Astros 9, Diamondbacks 2  
+  
+Hank Conger hit two homers, including his first career grand slam, and Carlos Correa added two more to lift the Astros over the Diamondbacks.
+  
+ Record:  59-46" /></a></p>                    <h4><a   href="/news/slideshow/2015-Astros-Game-by-game-107309.php">2015 Astros: Game-by-game</a></h4>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+<!-- e news_gallery_body.tpl -->
+<!-- e templates/design/collection/news_gallery/double_zone.tpl -->	</div></div></div></div><!--/.hst-newsgallery-->
+
+<!-- e hearst/collections/news_gallery.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-45375-headline_list_modular"><!-- hearst/collections/headline_list_illus.tpl -->
+<!-- collection.headline_list_modular.45375 -->
+	<!-- templates/design/collection/headline_list_modular/single_zone.tpl  -->
+
+<div class="hst-headlinelist hst-headlinelist-illo  hst-headlinelist-module">
+	
+	<div class="header clearfix">
+      <!-- zone1 -->
+    	<!-- widgets/hearst/moduleHeader/widget.tpl -->
+                         <h2><span class="first-word">Hot</span> Topics</h2>
+            <!-- e widgets/hearst/moduleHeader/widget.tpl -->    	<!-- e zone1 -->
+      <span class="rss">
+        <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/home/collectionRss/Hot-Topics-45375.php">
+          <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+        </a>
+      </span>
+	</div>
+	
+<!-- collections/headline_list_illus_body.tpl -->
+
+<ul>
+                <li class="item">
+                                        <!-- collections/headline_list_illus_article.tpl -->
+<h4><a   href="/Travel/article/Places-every-Texas-kid-should-see-before-growing-6362739.php">Places every Texas kid should see before growing up</a></h4>
+<!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
+<a   href="/Travel/article/Places-every-Texas-kid-should-see-before-growing-6362739.php"><img class="illo" src="http://ww2.hdnux.com/photos/32/64/05/7029057/3/square_horiz_promo.jpg" alt="Martin Kellner, left, gets a picture of his children, Emily, 13, and Luke, 6, in front of the large fire hydrant outside the Fire Museum of Texas during Thursday's Happy Hour event. The Beaumont Heritage Society hosted their second Happy Hour event, a bimonthly picnic held at historic sites around the Beaumont area, at the Fire Museum of Texas on Thursday evening. Executive Director Darlene Chodzinsai said the event is designed to draw new membership to the society, and that all proceeds from the events go toward preservation and the running of museums. Thursday night's event paired the society with Giglio's to bring the tastes of Abita to the museum. 
+Photo taken Thursday 8/14/14
+Jake Daniels/@JakeD_in_SETX" /></a><h5 class="byline">John-Henry Perera</h5><div class="detail"><p>
+        Texas is chock-full of great places to generate some nostalgic moments...
+<a   href="/Travel/article/Places-every-Texas-kid-should-see-before-growing-6362739.php">more &raquo;</a></p></div>
+
+<p class="extras">            </p>
+<!-- e headline_list_illus_article.tpl -->
+                    </li>
+                <li class="item">
+                                        <!-- collections/headline_list_illus_article.tpl -->
+<h4><a   href="/lifestyle/home-garden/article/This-woman-put-all-other-Texas-yards-to-her-shame-6413099.php">Texas-shaped patio puts all other yards to shame</a></h4>
+<!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
+<a   href="/lifestyle/home-garden/article/This-woman-put-all-other-Texas-yards-to-her-shame-6413099.php"><img class="illo" src="http://ww3.hdnux.com/photos/37/76/00/8380430/4/square_horiz_promo.jpg" alt="" /></a><h5 class="byline">By Madalyn Mendoza, San Antonio Express-News</h5><div class="detail"><p>
+        A homeowner in North Texas proved there's no such thing as being "too...
+<a   href="/lifestyle/home-garden/article/This-woman-put-all-other-Texas-yards-to-her-shame-6413099.php">more &raquo;</a></p></div>
+
+<p class="extras">            </p>
+<!-- e headline_list_illus_article.tpl -->
+                    </li>
+                <li class="item last">
+                                        <!-- collections/headline_list_illus_article.tpl -->
+<h4><a   href="/entertainment/article/Photos-90s-country-stars-then-and-now-6348997.php">Photos: '90s country stars, then and now</a></h4>
+<!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
+<a   href="/entertainment/article/Photos-90s-country-stars-then-and-now-6348997.php"><img class="illo" src="http://ww4.hdnux.com/photos/37/12/00/8167479/3/square_horiz_promo.jpg" alt="Conversations with the God or the Devil are always welcome. See Tim McGraw’s “Don’t Take the Girl” or Charlie Daniels Band’s “The Devil Went Down to Georgia” as evidence." /></a><h5 class="byline"></h5><div class="detail"><p>
+        See what some of your favorite '90s country crooners are up to now.
+<a   href="/entertainment/article/Photos-90s-country-stars-then-and-now-6348997.php">more &raquo;</a></p></div>
+
+<p class="extras">            </p>
+<!-- e headline_list_illus_article.tpl -->
+                    </li>
+</ul>
+<!-- e headline_list_illus_body.tpl -->
+</div><!--/.hst-categorylist-->
+
+<!-- e templates/design/collection/headline_list_modular/single_zone.tpl --><!-- e hearst/collections/headline_list_illus.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-8148-simple_list"><!-- hearst/collections/simple_list.tpl -->
+<!-- collection.simple_list.8148 -->
+	<!-- design/collection/simple_list/double_zone.tpl  -->
+	<div class="hst-simplelist ">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
+                         <h2><span class="first-word">Latest</span> local news</h2>
+            <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/news/collectionRss/Article-News-Simple-LatestHeds-8148.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed" />
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
+<ul>
+<li class="item"><h4><a   href="/news/article/Were-you-Seen-at-Cruise-n-Silsbee-6419768.php">Were you 'Seen' at Cruise 'n Silsbee?</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/article/Were-you-Seen-at-Crossfit-Beaumont-s-triathlon-6419767.php">Were you 'Seen' at Crossfit Beaumont's triathlon?</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/article/Were-you-Seen-at-Smokey-and-the-Bandit-6418752.php">Were you 'Seen' at "Smokey and the Bandit?"</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item"><h4><a   href="/news/article/Were-you-Seen-at-Korus-6418750.php">Were you 'Seen' at Korus?</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+<li class="item last"><h4><a   href="/news/article/Were-you-Seen-at-Spice-of-the-Season-6418720.php">Were you 'Seen' at Spice of the Season?</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl --></li>
+</ul>
+<!-- e hearst/collections/simple_list_body.tpl -->
+		<!-- zone2 -->
+				<!-- e zone2 -->
+	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         
+<!-- noGen: collection_92a2b5cb9c6906035c2864fa225e1940_8147 -->
+    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl -->
+    <!-- hearst/ads/medium_rectangle_ad_second.tpl -->
+
+<div id="hst-mediumrectangle2" class="hst-mediumrectangle clearfix">
+<div id="B300" class="B300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("B300"); /*]]>*/ </script></div>
+</div>
+<!-- e medium_rectangle_ad_second.tpl -->
+        
+        
+    
+<!-- hearst/home/mostPopular.tpl -->
+
+
+
+            <div class="hst-mostpopular tab-set"><div class="edge2"><div class="edge3"><div class="edge4 clearfix">
+        <!-- hearst/home/most_popular_header.tpl -->
+            <ul class="nav-tabs clearfix">
+                        <li><a class="mostread" href="#"><span>Most Read</span></a></li>
+                                           
+        </ul>
+    <!-- e hearst/home/most_popular_header.tpl -->
+
+                                <div class="content-tab"><ol>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Is-China-spying-on-Beaumont-6418029.php" title="Is China spying on Beaumont?">Is China spying on Beaumont?</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">1</span>
+                    </li>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Video-Flickers-of-Beaumont-s-past-6418254.php" title="Video: Flickers of Beaumont's past">Video: Flickers of Beaumont's past</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">2</span>
+                    </li>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Car-crashes-through-Phelan-storefront-6417603.php" title="Car crashes through Phelan storefront">Car crashes through Phelan storefront</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">3</span>
+                    </li>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Fannett-woman-killed-in-auto-pedestrian-crash-6417212.php" title="Fannett woman killed in auto-pedestrian crash">Fannett woman killed in auto-pedestrian crash</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">4</span>
+                    </li>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/sports/hs/article/Fathers-sons-relish-title-run-6404636.php" title="Fathers, sons relish West End L.L. title run">Fathers, sons relish West End L.L. title run</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">5</span>
+                    </li>
+                                    <li>
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/life/pets/article/Houston-man-sues-for-return-of-golden-retriever-6417931.php" title="Houston man sues for return of golden retriever he raised from a puppy">Houston man sues for return of golden retriever he raised from a puppy</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">6</span>
+                    </li>
+                                    <li class="last">
+                        <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Were-you-Seen-at-Smokey-and-the-Bandit-6418752.php" title="Were you 'Seen' at "Smokey and the Bandit?"">Were you 'Seen' at "Smokey and the Bandit?"</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+                        <span style="display: none;">7</span>
+                    </li>
+                
+            </ol></div>
+                    
+        </div></div></div></div>
+        <!-- Social Activity for SeattlePI -->
+        
+            
+            <script type="text/javascript">
+            // <![CDATA[
+             $('.tab-set').rot(1);
+            // ]]>
+            </script>
+            
+
+    <!--e hearst/home/mostPopular.tpl -->    <!-- hearst/ads/medium_rectangle_ad_third.tpl -->
+
+<div id="hst-mediumrectangle3" class="hst-mediumrectangle clearfix">
+<div id="S300" class="S300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("S300"); /*]]>*/ </script></div>
+</div>
+<!-- e medium_rectangle_ad_third.tpl -->
+</div><!--/.span-10-->
+
+<!-- e templates/hearst/article/types/story_right.tpl  --></div><!--/.faux-21-->
+<!-- e templates/design/article/content/story_page.tpl -->
+<!-- e templates/design/article/story_page.tpl -->                            
+    </div><!--/.content-->
+    
+
+
+<script>
+    var HDN = HDN || {};
+  
+    HDN.ping( {
+        "id": 6409077,
+        "site": "beaumontenterprise",
+        "type": "article"
+    });
+    $(document).ready(function () {
+        return hst_get_fprefs(this);
+    });
+</script>
+
+
+
+
+<!-- src/business/templates/hearst/common/footer.tpl -->
+
+    <!-- src/business/templates/hearst/common/site_footer.tpl -->
+    <!-- THIRDPARTY FOOTER MARKER --><!-- DONT REMOVE -->
+    <div class="hst-sitefooter clearfix">
+
+        <!-- Begin Hearst Ad -->
+        <div id="B728" class="footer_banner">
+            <script type="text/javascript">/*<![CDATA[*/hearstPlaceAd("B728");/*]]>*/</script>
+        </div>
+        <!-- End Hearst Ad -->
+									
+					<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.4254 -->
+<!-- ux/beaumontenterprise/tmpl/footer.php -->
+
+    <div class="navigation">
+        <table>
+            <tr>
+                <td class="site first">
+                    <h2>Beaumont Enterprise</h2>
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/news/">News</a></li>
+                        <li><a href="/entertainment/">Entertainment</a></li>
+                        <li><a href="/life/">Life</a></li>
+                        <li><a href="/sports/">Sports</a></li>
+                        <li><a href="/sports/hs">High School Sports</a></li>
+                        <li><a href="/business/">Business</a></li>
+                        <li><a href="/opinions/">Opinions</a></li>
+                        <li><a href="/photos/">Photos</a></li>
+                        <li><a href="/video">Video</a></li>
+                    </ul>
+                </td>
+                <td class="site">
+                    <ul>
+                        <li><a href="http://www.legacy.com/obituaries/beaumontenterprise/">Obits</a></li>
+                        <li><a href="/blogs">Blogs</a></li>
+                         <li><a href="/news/weather">Weather</a></li>
+                        <li><a href="/news/databases">Databases</a></li>
+                        <li><a href="/news/crime/beaumont">Crime Maps</a></li>
+                        <li><a href="/sports/outdoors">Outdoors</a></li>
+                        <li><a href="/entertainment/seen">Seen</a></li>
+                        <li><a href="/entertainment/movies">Movies</a></li>
+                        <li><a href="/entertainment/tv">TV</a></li>
+                        <li><a href="/entertainment/lottery">Lottery numbers</a></li>
+                    </ul>
+                </td>
+                <td class="site">
+                    <ul>
+                        <li><a href="/events">Calendar</a></li>
+                        <li><a href="/entertainment/comics">Comics</a></li>
+                        <li><a href="/entertainment/puzzles">Puzzles</a></li>
+                        <li><a href="/entertainment/horoscopes">Horoscopes</a></li>
+                        <li><a href="/entertainment/games">Games</a></li>
+                        <li><a href="/business/works">In the Works</a></li>
+                        <li><a href="/news/communities">Communities</a></li>
+                        <li><a href="/news/texas">Texas</a></li>
+                        <li><a href="/news/nation">Nation</a></li>
+                        <li><a href="/news/world">World</a></li>
+                        <li><a href="/services/archives">Archives</a></li>
+                    </ul>
+                </td>
+                <td class="corp lim">
+					<h3>Marketplace</h3>
+                    <ul>
+                        <li><a href="http://cars.beaumontenterprise.com/">Autos</a></li>
+                        <li><a href="http://www.beaumontenterprise.com/jobs/">Jobs</a></li>
+                        <li><a href="/homes">Homes</a></li>
+                        <li><a href="http://www.southeasttexas.com/">Classifieds</a></li>
+                        <li><a href="http://local.beaumontenterprise.com/">Business Directory</a></li>
+                        <li><a href="http://print.coupons.com/alink.asp?go=15243sj2110">Coupons</a></li>
+                        <li><a href="/services/advertising">Place an ad</a></li>
+                       <li><a href="/services/circulation/be_distributor">Become a distributor</a></li>
+					</ul>
+                </td>
+                <td class="corp">
+					<h3>Home Delivery</h3>
+					<ul>
+                        <li><a href="https://www.myhearstnewspaper.com/Beaumont/">Subscribe</a></li>
+                        <li><a href="/services/circulation/vacation_hold">Vacation holds</a></li>
+                        <li><a href="https://www.myhearstnewspaper.com/Beaumont/">Report problem</a></li>
+                        <li><br /></li>
+                        <li><h3>Services</h3>
+                        <li><a href="/services/faq/">Customer Care</a></li>
+                        <li><a href="/services/contact">Contact Us</a></li>
+                        <li><a href="http://reg.beaumontenterprise.com/signup">Online registration</a></li>
+                        <li><a href="/services/submit">Submit news</a></li>
+                        <li><a href="/services/terms/">Terms and conditions</a></li>
+                        <li><a href="/services/privacy/">Privacy policy</a></li>
+<li><a href="/services/privacy/">Your California privacy rights</a></li>
+                        <li><a href="/index">Site Index</a></li>
+
+                    </ul>
+                </td>
+                <td class="corp last">
+                    <h3>Other Editions</h3>
+                    <ul>
+                        <li><a href="/eedition/">eEdition</a></li>
+                        <li><a href="http://m.beaumontenterprise.com/">Mobile site</a><li>
+                        <li><a href="/services/rss">RSS feeds</a></li>
+                        <li><br /></li>
+                        <li><a href="/otherpubs"><h3>Partner Sites</h3></a></li>
+                        <li><a href="/vip">VIP Magazine</a></li>
+                        <li><a href="/hardincountynews">Hardin County News</a></li>
+                        <li><a href="/jasper">Jasper Newsboy</a></li>
+                        <li><a href="/lakecaster">Lakecaster</a></li>
+                   <li class="quadOne"><a href="http://www.aboutads.info/choices/">Ad Choices </a></li>
+				</ul>
+                </td>
+            </tr>
+        </table>
+    </div><!--/.navigation-->
+
+<style>
+.hst-fpwide .item .detail { display: none;}
+.hst-sitefooter{background:#808080;}
+.hst-feed {display: block !important;text-align: right;width: 97px;margin: -30px 10px 0 0;float: right;}
+.hst-sitefooter p {height:65px; padding:20px 0 10px 0;}
+</style>
+<div style="position:absolute;left:10px;bottom:10px;width:96px;height:75px;display:block;"> 			
+	  </div>
+		  <div style="position:absolute;bottom:3px;right:10px;text-align:right;width:140px;font-size:11px">
+			 A quadrantONE partner
+</div>
+						
+		<p>&#169; 2015 Hearst Newspapers II, LLC<br />
+<img src="/img/modules/sitefooter/hearst_logo.png" class="png" alt="Hearst Newspapers" /><!-- src/business/templates/hearst/common/feed.tpl -->
+
+<span class="hst-feed">
+    <a class="hst-rss-share" href="/rss"><img src="/img/icons/share/rss.gif"></a> &nbsp;&nbsp;
+
+                      <span class="quadOne"></span>
+      </span>
+
+<!-- e src/business/templates/hearst/common/feed.tpl --></p>
+		
+
+		 </div><!--/.hst-sitefooter--></div><!--/.container--> 
+
+
+
+<!-- /src/business/templates/hearst/common/opengraph_load.tpl -->
+    <div id="fb-root"></div>
+  
+  <script type="text/javascript">
+  //the window.name is a hack to fix errors in the actual facebook.js file
+  window.name=window.name || "";
+    window.fbAsyncInit = function() {
+      FB.init({
+	appId      : '492511214172460', // App ID
+	channelURL : 'http://www.beaumontenterprise.com/channel.html', // Channel File
+	status     : true, // check login status
+	cookie     : true, // enable cookies to allow the server to access the session
+	oauth      : true, // enable OAuth 2.0
+	xfbml      : true  // parse XFBML
+      });
+      
+            		
+	// Additional initialization code
+	FB.Event.subscribe('comment.create', function(response) {	  
+	    HDN.comment_ping( {
+	      "id": 6409077,
+	      "site": "beaumontenterprise",
+	      "type": "article"
+	    });      
+	});
+	
+            
+    };
+    // Load the SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all.js";
+       d.getElementsByTagName('head')[0].appendChild(js);
+     }(document));
+    
+  </script>
+  
+  
+<!-- /src/business/templates/hearst/common/outbrain_silent_tag.tpl -->
+
+
+
+<script type="text/JavaScript">
+    var link = 'http://www.beaumontenterprise.com/business/energy/article/Explosion-shuts-down-Iran-Turkey-natural-gas-6409077.php';
+    var OB_permalink= link;
+    var OB_Template="beaumontenterprise";
+    var OB_widgetId= 'TR_1';
+    var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+
+    if ( typeof(OB_Script)!='undefined' )
+        OutbrainStart();
+    else
+    {
+        var OB_Script = true;
+        var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>";
+        document.write(str);
+    }
+</script>
+
+    <!-- templates/hearst/home/viafouraFooterJS.tpl -->
+<script>
+        
+    
+    (function (v, s) {
+        v.type = 'text/javascript';
+        v.async = !0;
+        v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+        s.parentNode.insertBefore(v, s)
+    }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+
+    $(document).ready(function () {
+        if ($('#hdn-vf-comments').length) {HDN.authOnReady('free',false)}
+        var vfDomains = {};
+        $('body').find('div.viafoura span.vf-counter[data-path^="http://"]').each(function () {
+            var matches = $(this).attr('data-path').match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+            var domain = matches && matches[1];
+            if (!!domain) {
+                vfDomains[domain.replace(/^m\./, 'www.')] = 1;
+            }
+        });
+        for (d in vfDomains) {
+            HDN.getVfCommentCount(undefined,d,1);
+        }
+    });
+    
+</script>
+<!-- e templates/hearst/home/viafouraFooterJS.tpl -->
+
+<div id="BF_WIDGET_1">&nbsp;</div>
+
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=beaumontenterprise.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+
+
+
+    
+
+<script src="http://widget.perfectmarket.com/beaumontenterprise/load.js"></script>
+
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpONkFfGVBeVlAcGhEMEQ==","queueTime":0,"applicationTime":64,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html><!-- e site_footer.tpl -->
+
+<!-- e src/business/templates/hearst/common/footer.tpl --><!-- hearst/article/main.tpl -->

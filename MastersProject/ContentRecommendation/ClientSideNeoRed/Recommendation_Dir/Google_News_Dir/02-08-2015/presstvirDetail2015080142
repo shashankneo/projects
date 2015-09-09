@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>PressTV-‘China plays role in Kabul-Taliban talks’</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="PressTV-‘China plays role in Kabul-Taliban talks’" />
+    <meta property="og:title" content="PressTV-‘China plays role in Kabul-Taliban talks’" />
+    <meta property="og:description" content="Eric Draitser says China is playing a mediating role in the Kabul-Taliban negotiations." />
+    <meta property="og:type" content="article" />
+    <meta name="description" content="Eric Draitser says China is playing a mediating role in the Kabul-Taliban negotiations." />
+    <meta property="og:image" content="http://217.218.67.233/photo/20150801/a32fb976-9196-4ea1-8a63-75112eba95da.jpg" />
+    <link rel="image_src" href="http://217.218.67.233/photo/20150801/a32fb976-9196-4ea1-8a63-75112eba95da.jpg" />
+    <link rel="icon" href="/favicon.ico" type="image/ico" />    <link rel="stylesheet" href="/Content/icons.css">
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 10]><script src="/Scripts/modernizr-2.6.2.js"></script><![endif]-->
+</head><!-- Head -->
+<body>
+    <div id="breaking" class="breaking-navbar">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-24">
+                        <div class="ticker ticker-breaking block block-raw">
+                        <header><h2>Breaking News</h2></header>
+                        <section class="inner">
+                            <ul id="ul-breaking">
+
+                            </ul>
+                            <button type="button" class="close">&times;</button>
+                        </section>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header id="header" class="navbar">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-24">
+                    <div class="navbar-header">
+                        <h1><a href="/" class="navbar-brand header-logo">Press TV</a></h1>
+                        <div class="current-section"></div>
+                    </div>
+                    <div id="heaer-tools">
+                        <ul>
+                            <li><a href="/Default/Live" title="Watch Live"><i class="icon-monitor"></i><span class="">Watch Live</span></a></li>
+                            <li><a href="/Default/LiveAudio" title="Listen"><i class="icon-volume"></i>Listen</a></li>
+                            <li id="search" class="">
+                                <a href="#" title="Search"><i class="icon-search"></i></a>
+                                <form action="/Default/Search" method="get" class="">
+                                    <input type="text" name="q" class="form-control" placeholder="Search" />
+                                    <button type="submit" class="">Search</button>
+                                </form>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav id="menu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-24">
+                        <ul>
+                            <li class="haschild">
+                                <a href="/"><span>Home</span></a>
+                            </li>
+                            <li class="haschild">
+                                <a href="/Default/HSection/101"><span>Iran<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Section/10101">Politics</a></li>
+                                                                <li><a href="/Default/Section/10102">Economy</a></li>
+                                                                <li><a href="/Default/Section/10103">Energy</a></li>
+                                                                <li><a href="/Default/Section/10104">Nuclear Energy</a></li>
+                                                                <li><a href="/Default/Section/10105">Culture</a></li>
+                                                                <li><a href="/Default/Section/10106">Defence</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-19">
+                                                            <div>
+                                                                <span class="loading" data-loading="/callback/MenuLatest7/10101">Loading ...</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="haschild">
+                                <a href="#"><span>News<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/HSection/102">Middle East</a></li>
+                                                                <li><a href="/Default/HSection/104">Asia-Pacific</a></li>
+                                                                <li><a href="/Default/HSection/105">Africa</a></li>
+                                                                <li><a href="/Default/HSection/106">Europe</a></li>
+                                                                <li><a href="/Default/HSection/107">Americas</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Section/12001">Society</a></li>
+                                                                <li><a href="/Default/Section/12002">Arts</a></li>
+                                                                <li><a href="/Default/Section/12004">Business</a></li>
+                                                                <li><a href="/Default/Section/12005">Sports</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-14">
+                                                            <div>
+                                                                <span class="loading" data-loading="/callback/MenuLatest1">Loading ...</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/Default/HSection/108"><span>UK</span></a></li>
+                            <li><a href="/Default/HSection/103"><span>US</span></a></li>
+                            <li><a href="http://www.presstvdoc.com" target="_blank"><span>Docs</span></a></li>
+                            <li><a href="/Default/Videos/13012"><span>Videos</span></a></li>
+                                                        <li class="haschild">
+                                <a href="/Default/Shows"><span>Shows<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15045">A Simple Question</a></li>
+                                                                <li><a href="/Default/Videos/15034">Africa Today</a></li>
+                                                                <li><a href="/Default/Videos/15024">Comment</a></li>
+                                                                <li><a href="/Default/Videos/15067">Economic Divide</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15031">Face to Face</a></li>
+                                                                <li><a href="/Default/Videos/15068">Hollywod Cut</a></li>
+                                                                <li><a href="/Default/Videos/15043">Infocus</a></li>
+                                                                <li><a href="/Default/Videos/15015">Iran</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15006">Iran Today</a></li>
+                                                                <li><a href="/Default/Videos/15062">Middle East Files</a></li>
+                                                                <li><a href="/Default/Videos/15064">Press Plus</a></li>
+                                                                <li><a href="/Default/Videos/15014">Reporter’s File</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15057">The Debate</a></li>
+                                                                <li><a href="/Default/Videos/15054">The Monarchy</a></li>
+                                                                <li><a href="/Default/Videos/15060">The Sun Will Rise</a></li>
+                                                            </ul>
+                                                            <div class="more">
+                                                                <a href="/Default/Shows"><i class="icon-right-small"></i>&nbsp;View more</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/Default/Photo"><span>Photos</span></a></li>
+                            <li class="rtl"><a href="/Farsi"><span>فارسی</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section id="mainbody">
+        <div class="container">
+            
+
+<div class="row">
+    <section id="main" class="col-xs-17">
+        <article id="item" class="block block-raw">
+            <div class="page-header">
+                <h2>Eric Draitser: China playing mediating role in Kabul-Taliban talks</h2>
+            </div><!-- Item Header -->
+                <div id="item-tools" class="row">
+                    <div class="col-md-24 col-xs-24">
+                        <ol class="breadcrumb pull-left">
+<li><a href="/">Home</a></li><li><a href="/Default/HSection/130">Featured</a></li><li><a href="/Default/Section/13002">Interviews</a></li>                        </ol>
+                        <div class="date pull-right" id="header-pubdate" data-id="422865">Sat Aug 1, 2015 6:1PM</div>
+                    </div>
+                </div><!-- Item Tools -->
+
+
+            <div class="item-image" id="mediaplayer">
+
+                                    <div class="image-holder">
+                        <img id="imgPlayback" src="http://217.218.67.233/photo/20150801/a32fb976-9196-4ea1-8a63-75112eba95da.jpg" alt="Taliban militants in Afghanistan (file photo)" />
+                    </div>
+            </div><!-- Item Image -->
+            <input type="hidden" id="inpShortCode" value="1vRj" />
+                <input type="hidden" id="inpPlayback" value="/SiteVideo/20150801/eric_draitser.mp4" />
+                <script type='text/javascript' language='javascript' src='http://smartplugin.youbora.com/1.3/js/libs/youbora-data.js'></script>
+                <script type='text/javascript' language='javascript' src='http://smartplugin.youbora.com/1.3/js/libs/youbora-api.js'></script>
+                <script src='/Scripts/playback.js'></script>
+                            <div class="image-caption">
+                    <p>Taliban militants in Afghanistan (file photo)</p>
+                </div>
+            <div id="item-body" class="row">
+                <div id="item-main" class="col-md-24 col-xs-24">
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="item-text">
+                                <div class="sharing item-sharing">
+                                    <div id="" class="block social block-raw">
+                                        <span class="loading" data-loading="/callback/SocialSharings">Loading ...</span>
+                                    </div>
+                                </div>
+                                                                                    <p><strong>Press TV has conducted an interview with Eric Draitser, the founder of stopimperialism.com in New York, to ask for his take on the issue of Taliban&rsquo;s new leadership.</strong></p><p>&nbsp;</p><p>The following is a rough transcription of the interview.</p><p>&nbsp;</p><p><strong>Press TV: </strong>Is it significant that the leadership of the Taliban has changed now?</p><p><strong>Draitser: </strong>Absolutely it&rsquo;s significant. And there is a number of reasons why. As your report indicated, one of the central conflicts now in Afghanistan is the growing fight between Afghanistan and the so-called Islamic State or ISIS. This developing conflict - and it has multiple theaters throughout the country especially in the north of the country bordering some of the former Soviet Republics - this growing fight is really the central battlefield now for control over some of the most strategic parts of the country and so the fact that there is this change in leadership is significant because, of course, the Taliban cannot be isolated internationally. If they are to be isolated internationally, if they are to have their sources of support cut off, then you are going to see the Taliban losing more and more fighters over to ISIS, which would be better funded, better trained and better equipped because of their international connections.</p><p>So, the change in leadership is quite significant and I would pose one other point here that I think is really critical, and I&rsquo;ve written about this subject myself, and that is the role of China and China&rsquo;s ally Pakistan here, because China has really begun to take a central negotiation process, opening channels with direct negotiations between the Afghan government in Kabul and the Taliban forces and not simply Taliban representatives in Qatar, but actual Taliban forces on the ground.</p><p>If China is playing this mediating role and China is signing off on this new leadership for the Taliban, that means you could actually see a real substantive political solution in Afghanistan, wherein the Taliban would be able to not only fight off the forces of ISIS but actually begin to make substantive progress towards peace with the government in Kabul, which could actually lead to some kind of conflict resolution, which ultimately is what both China and Iran have been working towards. Iran has also heavily involved in Afghanistan, Iran has a vested interest in seeing that this conflict is resolved in a peaceful way with the ejection of NATO forces.</p>                                                    </div>
+                    </div>
+                </div>
+            </div><!-- Item Body -->
+                <div id="related" class="block related-thumbs">
+                    <header class="header-border red"><a class="disabled">Related Items</a></header>
+                    <div class="inner">
+                        <div class="clearfix"></div>
+                        <ul class="thumbs thumbs-vertical row">
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/01/18/393603/Afghan-forces-kill-10-militants">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150118/1bb5406e-5935-410e-b5a9-f0dfa94c7dcd.s.jpg" alt="Afghan-security-forces" />
+                                        </span>
+                                        <span class="title">Afghan forces kill 10 militants</span>
+                                        <span class="desc">Ten militants are killed during a raid by Afghan security forces in the country&#39;s north. </span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/01/20/393846/Pakistan-undergoes-paradigm-shift-in-geostrategic-outlook">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150119/f39d0de2-4432-4e2b-9f61-6f8d239e0af3.s.jpg" alt="Pakistan undergoes paradigm shift in geo-strategic outlook" /><i class="icon-play"></i>
+                                        </span>
+                                        <span class="title">Pakistan undergoes paradigm shift in geo-strategic outlook</span>
+                                        <span class="desc">The killing of 134 school children in an army school in Peshawar last month sent shockwaves through Pakistan. Since then, officials have adopted a series of harsh measures aimed at eliminate growing insurgency. Islamabad has decided to officially put a ban on pro-Taliban groups’ activities across Pakistan; a move that many doubt would produce tangible results in curbing terrorist threats in the country. Press TV&#39;s Javed Rana has more details from Islamabad.</span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/01/21/394128/Afghan-forces-kill-23-Taliban-militants">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150121/9806a49e-30f8-4f68-a4dd-35a7f054c5ce.s.jpg" alt="Afghan-army-soldiers" />
+                                        </span>
+                                        <span class="title">Afghan forces kill 23 Taliban militants</span>
+                                        <span class="desc">Afghan soldiers kill 23 Taliban militants during operations across the country.</span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/01/22/394212/Afghan-reporters-face-growing-attacks">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150122/09568591-b7b7-48a8-b195-dc9e6e9fa7dd.s.jpg" alt="Afghanistan-slain-reporter" />
+                                        </span>
+                                        <span class="title">‘Afghan reporters face growing attacks’</span>
+                                        <span class="desc">Human Rights Watch says journalists are increasingly under attack in Afghanistan.</span>
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div><!-- Related Items -->
+                            <div class="row">
+                    <div class="col-md-24 col-xs-24">
+                        <div id="hypercomments_widget"></div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    var extid = "ptvdefaultdetail422865";
+                    _hcwp = window._hcwp || [];
+                    _hcwp.push({ widget: "Stream", widget_id: 26215, xid: extid, hc_disable: 1, quote_disable: 1, social: "google, facebook, twitter, openid", comments_level: 2 });
+                    (function () {
+                        if ("HC_LOAD_INIT" in window) return;
+                        HC_LOAD_INIT = true;
+                        var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+                        var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                        hcc.src = ("https:" == document.location.protocol ? "https" : "http") + "://w.hypercomments.com/widget/hc/26215/" + lang + "/widget.js";
+                        var s = document.getElementsByTagName("script")[0];
+                        s.parentNode.insertBefore(hcc, s.nextSibling);
+                    })();
+                </script>
+
+        </article><!-- Item -->
+    </section>
+
+    <aside id="sidebar" class="col-xs-7">
+        <div class="block social block-raw">
+            <span class="loading" data-loading="/callback/SocialNetworks">Loading ...</span>
+        </div>
+        <div id="headlines" class="block">
+            <span class="loading" data-loading="/callback/Latest">Loading ...</span>
+        </div>
+        <div>
+            <span class="loading" data-loading="/callback/Schedule">Loading ...</span>
+        </div>
+        <div>
+            <span class="loading" data-loading="/callback/Poll">Loading ...</span>
+        </div>
+        <div id="viewpoints" class="block block-raw">
+            <span class="loading11" data-loading="/callback/RelatedViewpoints/422865"></span>
+        </div><!-- Recommended Viewpoints -->
+        <div id="viewpoints" class="block block-raw">
+            <span class="loading11" data-loading="/callback/RelatedInterviews/422865"></span>
+        </div><!-- Recommended Interviews -->
+        <div>
+            <span class="loading" data-loading="/callback/TopHits">Loading ...</span>
+        </div>
+        <div class="block">
+            <div class="block-sidebar"></div>
+        </div>
+        
+
+<div class="block ads-carousel">
+    <div class="inner">
+        <div class="pages"></div>
+        <ul class="list-unstyle">
+            <li><a href="http://www.presstv.ir/Default/Yemen/110"><img src="http://217.218.67.233/static/79a564ea-2c54-4461-80a9-c105601885f4.jpg" alt="Saudi Aggression Against Yemen " /></a></li>
+            <li><a href="http://www.presstv.com/Default/IraqFightsAgainstTerrorists/113"><img src="http://217.218.67.233/static/370412b4-127e-4775-9517-c32bdc306bc9.jpg" alt="Iraq Fights Against Terrorists" /></a></li>
+            <li><a href="http://www.presstv.com/Default/WarOnSyria/112"><img src="http://217.218.67.233/static/3d220ee5-a131-415d-a9a8-41744cc97a9c.jpg" alt="War on Syria" /></a></li>
+        </ul>
+    </div>
+</div>
+    </aside><!-- Sidebar -->
+</div>
+<img src="/Submission/ViewCounter/422865" />
+
+
+        </div>
+    </section>
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div id="footer-menu" class="col-xs-24">
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/">News</a></dt>
+                            <dd><a href="/Default/HSection/101">Iran</a></dd>
+                            <dd><a href="/Default/HSection/102">Middle East</a></dd>
+                            <dd><a href="/Default/HSection/108">UK</a></dd>
+                            <dd><a href="/Default/HSection/103">US</a></dd>
+                            <dd><a href="/Default/HSection/104">Asia-Pacific</a></dd>
+                            <dd><a href="/Default/HSection/105">Africa</a></dd>
+                            <dd><a href="/Default/HSection/106">Europe</a></dd>
+                            <dd><a href="/Default/HSection/107">Americas</a></dd>
+
+                            <dd><a href="/Default/Section/12001">Society</a></dd>
+                            <dd><a href="/Default/Section/12002">Arts</a></dd>
+                            <dd><a href="/Default/Section/12004">Business</a></dd>
+                            <dd><a href="/Default/Section/12005">Sports</a></dd>
+
+                            <dd><a href="/Default/BreakingNews">Breaking News</a></dd>
+                            <dd><a href="/RSS/MRSS/1">RSS</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Default/Videos/13012">Video</a></dt>
+                            <dd><a href="/Default/Live">Watch Live</a></dd>
+                            <dd><a href="/Default/LiveAudio">Listen Live</a></dd>
+                            <dd><a href="/Default/Shows">Shows</a></dd>
+                            <dd><a href="/Default/Videos/13001">Video Reports</a></dd>
+                            <dd><a href="/Default/Videos/13002">Interviews</a></dd>
+                            <dd><a href="http://www.presstvdoc.com">Documentaries</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Detail/2014/12/31/390988/About-PressTV">About PressTV</a></dt>
+                            <dd><a href="/Detail/2014/12/31/390990/Privacy-Policy">Privacy Policy</a></dd>
+                            <!--<dd><a href="#">Terms of Use</a></dd>
+                            <dd><a href="#">Advertise with us</a></dd>
+                            <dd><a href="#">Go Mobile</a></dd>-->
+                            <dd><a href="/Default/Frequencies">Frequencies</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Detail/2014/12/31/390989/Contact-Press-TV">Contact Info</a></dt>
+                            <!--<dd><a href="#">Email</a></dd>-->
+                            <dd><a href="/Default/SMS">SMS</a></dd>
+                            <dd><a href="/Default/UReport">UReport</a></dd>
+                            <!--<dt ><a href="#">Stay Connected</a></dt>-->
+                            <dd class="border-left"><a href="https://www.facebook.com/PRESSTV?_fb_noscript=1" target="_blank"><i class="icon-facebook"></i>Facebook</a></dd>
+                            <dd><a href="https://twitter.com/#!/PressTV" target="_blank"><i class="icon-twitter"></i>Twitter</a></dd>
+                            <dd><a href="https://www.youtube.com/user/videosptv" target="_blank"><i class="icon-youtube-play"></i>Youtube</a></dd>
+                            <!--<dd><a href="#"><i class="icon-rss"></i>RSS</a></dd>
+                            <dd><a href="#"><i class="icon-podcast"></i>Podcasts</a></dd>
+                            <dd><a href="#"><i class="icon-newspaper"></i>Newsletter</a></dd>-->
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Default/MediaServices">Media Services</a></dt>
+                        </dl>
+                    </div>
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-18">
+                        <div class="footer-brand">
+                            <a href="/" class="footer-logo">Press TV</a>
+                        </div>
+                        <div class="copyright-text">
+                            <small>&copy;&nbsp;Copyright 2015 Press TV. All rights reserved.</small>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="pull-right">
+                            <a class="top" href="#">Back to top <span class="caret caret-up"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/Scripts/jquery-1.11.1.min.js"></script>
+    <script src="/Scripts/jquery.carouFredSel-6.2.1-packed.js"></script>
+    <script src="/Scripts/Site.js"></script>
+<script>
+    
+    if (typeof fbc == 'function') {
+        fbc();
+    }
+
+</script>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//93.190.24.114/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//93.190.24.114/piwik.php?idsite=2" style="border:0;" alt="Stat" /></p></noscript>
+
+</body>
+</html>

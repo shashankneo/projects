@@ -1,0 +1,1503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	Solar Powered Airborne Internet Provider > ENGINEERING.com
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="An engineer’s back-of-the-envelope calculations on Facebook’s Internet-providing solar-powered UAV." /><meta id="MetaKeywords" name="KEYWORDS" content="Electronics Design facebook,  solar, Airplane, UAV,  Aquila" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2000-2013 ENGINEERING.com" /><meta id="MetaAuthor" name="AUTHOR" content="ENGINEERING.com" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/DesktopModules/DnnForge - NewsArticles/module.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/2015_2Column_Article/2Column_Article.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/Eng2010_v1/table_resizable_elelctronics.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/desktopmodules/dnnforge - newsarticles/includes/shadowbox/shadowbox.css?cdv=36" type="text/css" rel="stylesheet"/><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?cdv=36" type="text/javascript"></script><link id="Template_10902" rel="stylesheet" type="text/css" href="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Template.css" /><link id="Template_429" rel="stylesheet" type="text/css" href="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Template.css" /><meta property="og:image" content="http://www.engineering.com/portals/0/BlogFiles/AquilaCover.JPG" />
+<meta data-sj-meta-image content="http://res.cloudinary.com/engineering-com/image/fetch/w_100,h_80,f_jpg,c_fill/http://www.engineering.com/portals/0/BlogFiles/AquilaCover.JPG" /><link rel="canonical" href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10498/Solar-Powered-Airborne-Internet-Provider.aspx"/><meta data-sj-meta-title content="Solar Powered Airborne Internet Provider"/>
+<script type="text/javascript">
+    var _sj = _sj || [];
+    _sj.push(['company', 'engineeringcom']);
+    _sj.push(['collection', 'contentonly']);
+    (function () {
+        var sj = document.createElement('script');
+        sj.type = 'text/javascript';
+        sj.async = true;
+        sj.src = 'https://www.sajari.com/js/sj.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(sj, s);
+    })();
+ </script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" title="windows livewriter manifest" href="http://www.engineering.com/desktopmodules/dnnforge%20-%20newsarticles/api/metaweblog/wlwmanifest.xml" />
+
+<link type="application/rsd+xml" rel="EditURI" title="RSD" href="http://www.engineering.com/desktopmodules/dnnforge%20-%20newsarticles/api/rsd.ashx?id=37858&url=http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx" />
+</head>
+<body id="Body">
+    
+    <form method="post" action="/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10498/Solar-Powered-Airborne-Internet-Provider.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="KB_JSTester_JSEnabled" id="KB_JSTester_JSEnabled" value="0" />
+<input type="hidden" name="KB_JSTester_JQueryVsn" id="KB_JSTester_JQueryVsn" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTYzNDk3MTAxD2QWCGYPFgIeBFRleHQFeTwhRE9DVFlQRSBodG1sIFBVQkxJQyAiLS8vVzNDLy9EVEQgWEhUTUwgMS4wIFRyYW5zaXRpb25hbC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi94aHRtbDEvRFREL3hodG1sMS10cmFuc2l0aW9uYWwuZHRkIj5kAgIPFgIfAAVDIHhtbDpsYW5nPSJlbi1VUyIgbGFuZz0iZW4tVVMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sImQCBA9kFh4CAg8WAh4HY29udGVudAUYdGV4dC9odG1sOyBjaGFyc2V0PVVURi04ZAIDDxYCHwEFD3RleHQvamF2YXNjcmlwdGQCBA8WAh8BBQh0ZXh0L2Nzc2QCBQ8WBB8BZB4HVmlzaWJsZWhkAgYPFgIfAQVnQW4gZW5naW5lZXLigJlzIGJhY2stb2YtdGhlLWVudmVsb3BlIGNhbGN1bGF0aW9ucyBvbiBGYWNlYm9va+KAmXMgSW50ZXJuZXQtcHJvdmlkaW5nIHNvbGFyLXBvd2VyZWQgVUFWLmQCBw8WAh8BBTtFbGVjdHJvbmljcyBEZXNpZ24gZmFjZWJvb2ssICBzb2xhciwgQWlycGxhbmUsIFVBViwgIEFxdWlsYWQCCA8WAh8BBSNDb3B5cmlnaHQgMjAwMC0yMDEzIEVOR0lORUVSSU5HLmNvbWQCCQ8WBB8BZB8CaGQCCg8WAh8BBQ9FTkdJTkVFUklORy5jb21kAgsPFgIfAQUIRE9DVU1FTlRkAgwPFgIfAQUGR0xPQkFMZAINDxYCHwEFDUlOREVYLCBGT0xMT1dkAg4PFgIfAQUGMSBEQVlTZAIPDxYCHwEFB0dFTkVSQUxkAhAPFgIfAQUkUmV2ZWFsVHJhbnMoRHVyYXRpb249MCxUcmFuc2l0aW9uPTEpZAIGD2QWAgIBD2QWBGYPZBYCZg8WAh8CaBYCZg9kFgJmD2QWBgIDDxBkZBYAZAIPD2QWAmYPDxYGHghJbWFnZVVybAUUL2ltYWdlcy9jb2xsYXBzZS5naWYeDUFsdGVybmF0ZVRleHQFCE1pbmltaXplHgdUb29sVGlwBQhNaW5pbWl6ZWRkAhEPZBYCAgEPZBYCAgEPZBYQAgEPEGRkFgBkAgUPEGRkFgBkAgcPEGRkFgBkAgsPEGRkFgBkAg8PEGRkFgBkAhUPEGRkFgBkAhkPEGRkFgFmZAIdDxBkZBYAZAIID2QWAmYPZBYQAgcPZBYEZg8PFgoeCENzc0NsYXNzBQhIZWFkR3JheR8ABQVMb2dpbh8FBQVMb2dpbh4LTmF2aWdhdGVVcmwFpAFodHRwOi8vd3d3LmVuZ2luZWVyaW5nLmNvbS9Mb2dpbi5hc3B4P3JldHVybnVybD0lMmZFbGVjdHJvbmljc0Rlc2lnbiUyZkVsZWN0cm9uaWNzRGVzaWduQXJ0aWNsZXMlMmZBcnRpY2xlSUQlMmYxMDQ5OCUyZlNvbGFyLVBvd2VyZWQtQWlyYm9ybmUtSW50ZXJuZXQtUHJvdmlkZXIuYXNweB4EXyFTQgICZGQCAg8WAh8CaBYCAgEPDxYKHwYFCEhlYWRHcmF5HwAFBUxvZ2luHwUFBUxvZ2luHwcFpAFodHRwOi8vd3d3LmVuZ2luZWVyaW5nLmNvbS9Mb2dpbi5hc3B4P3JldHVybnVybD0lMmZFbGVjdHJvbmljc0Rlc2lnbiUyZkVsZWN0cm9uaWNzRGVzaWduQXJ0aWNsZXMlMmZBcnRpY2xlSUQlMmYxMDQ5OCUyZlNvbGFyLVBvd2VyZWQtQWlyYm9ybmUtSW50ZXJuZXQtUHJvdmlkZXIuYXNweB8IAgJkZAIND2QWAgIBDxYCHgVjbGFzcwUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTA4NTkWAgIBD2QWBAIDDw8WAh8CaGRkAgUPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8CaGQCEQ9kFgICAQ8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMTc5NRYCAgEPZBYEAgMPDxYCHwJoZGQCBQ9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAhMPZBYGZg8WAh8JBStEbm5Nb2R1bGUgRG5uTW9kdWxlLVhNb2RQcm8gRG5uTW9kdWxlLTEwMzA4FgICAQ9kFgQCAw8PFgIfAmhkZAIFD2QWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RYTW9kUHJvQxYCAgEPDxYCHgtDdXJyZW50Vmlldwspcktub3dCZXR0ZXIuWE1vZFByby5YTW9kUHJvK1ZpZXdUeXBlRW51bSwgS25vd0JldHRlci5YTW9kUHJvLCBWZXJzaW9uPTQuMC4zLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAFkFgYCAg8WAh4JaW5uZXJodG1sBQYmbmJzcDtkAgYPFgIfAmhkAggPZBYCZg9kFgJmD2QWBAIBD2QWAmYPFgQeC18hSXRlbUNvdW50Av////8PHwJoZAIDDw8WAh8CaGRkAgEPFgIfCQU3RG5uTW9kdWxlIERubk1vZHVsZS1Ebm5Gb3JnZS1OZXdzQXJ0aWNsZXMgRG5uTW9kdWxlLTQyORYCAgEPZBYCZg9kFgICAQ8PZBYCHwkFKUROTk1vZHVsZUNvbnRlbnQgTW9kRG5uRm9yZ2VOZXdzQXJ0aWNsZXNDZAICDxYCHwkFLERubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTEwOTA0FgICAQ8PFgIfAmhkFgQCAw8PFgIfAmhkZAIFD2QWAgIBD2QWAgIBD2QWAgICDxYCHwJoZAIVD2QWAmYPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTAzNDEWAgIBD2QWBgIBD2QWAgICDxYCHwJoZAIEDw8WAh8CaGRkAgYPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDZAIXD2QWBGYPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTA0MDYWAgIBD2QWAmYPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8CaGQCAQ8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMDIxNxYCAgEPZBYEAgMPDxYCHwJoZGQCBQ9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTEMWAgIBD2QWAgICDxYCHwJoZAIZD2QWCmYPFgIfCQUrRG5uTW9kdWxlIERubk1vZHVsZS1YTW9kUHJvIERubk1vZHVsZS0xMTMwOBYCAgEPZBYGAgEPZBYCAgIPFgIfAmhkAgQPDxYCHwJoZGQCBg9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kWE1vZFByb0MWAgIBDw8WAh8KCysEAWQWBgICDxYCHwsFBiZuYnNwO2QCBg8WAh8CaGQCCA9kFgJmD2QWAmYPZBYCAgEPZBYCZg8WAh8MAgQWCAIBD2QWAmYPFQkDMjM3DWxlZGRhcnRlY2gxOTZQaHR0cDovL2ltYWdlLmVuZ2luZWVyaW5nLmNvbS8yMzk1NzUvYXJ0aWNsZXMvbm92MjAxNC9sZWRkYXJ0ZWNoL2xlZGRhcnRlY2gtMS5wbmcDMjM3DWxlZGRhcnRlY2gxOTYoU2Vuc2luZyBhbmQgUmFuZ2luZyB1c2luZyBMRUQgVGVjaG5vbG9neQMyMzcNbGVkZGFydGVjaDE5NghEb3dubG9hZGQCAg9kFgJmDxUJAjU3AERodHRwOi8vZmlsZTIuZW5naW5lZXJpbmcuY29tL2VuZ2NvbS9pbWFnZXMvcHJvZHVjdHMvbmkvdmlzdWFsaXplLmpwZwI1NwBMSG93IHRvIENob29zZSB0aGUgUmlnaHQgVmlzdWFsaXphdGlvbiBUZWNobmlxdWVzIGZvciBZb3VyIE1lYXN1cmVtZW50IFN5c3RlbQI1NwAIRG93bmxvYWRkAgMPZBYCZg8VCQI1NABKaHR0cDovL2ZpbGUyLmVuZ2luZWVyaW5nLmNvbS9lbmdjb20vaW1hZ2VzL3Byb2R1Y3RzL25pL3JlcG9ydGluZy10b29scy5qcGcCNTQASkhvdyB0byBDaG9vc2UgdGhlIFJpZ2h0IFJlcG9ydGluZyBUb29scyBmb3IgWW91ciBJbnN0cnVtZW50IENvbnRyb2wgU3lzdGVtAjU0AAhEb3dubG9hZGQCBA9kFgJmDxUJAjUzAGFodHRwOi8vZmlsZTIuZW5naW5lZXJpbmcuY29tL2VuZ2NvbS9yZXNvdXJjZXMvbnUtaG9yaXpvbnMvbXVsdGktY2hhbm5lbC1kYXRhLWFjcXVpc2l0aW9uLXVuaXQuanBnAjUzAEJEZXNpZ25pbmcgYSBQb3J0YWJsZSBNdWx0aS1DaGFubmVsIERBUSBmb3IgTm9uLURlc3RydWN0aXZlIFRlc3RpbmcCNTMACERvd25sb2FkZAIBDxYCHwkFLERubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTEwNDgyFgICAQ9kFgQCAw8PFgIfAmhkZAIFD2QWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQxYCAgEPZBYCAgIPFgIfAmhkAgIPFgIfCQU4RG5uTW9kdWxlIERubk1vZHVsZS1MYXRlc3RBcnRpY2xlc0VuZ0NvbSBEbm5Nb2R1bGUtMTA5MDIWAgIBD2QWBgIBD2QWAgICDxYCHwJoZAIEDw8WAh8CaGRkAgYPZBYCAgEPD2QWAh8JBSlETk5Nb2R1bGVDb250ZW50IE1vZExhdGVzdEFydGljbGVzRW5nQ29tQ2QCAw8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMDgwMBYCAgEPZBYGAgEPZBYCAgIPFgIfAmhkAgQPDxYCHwJoZGQCBg9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAgQPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTAwMDQWAgIBD2QWAmYPFgIfCQUMRE5OQWxpZ25sZWZ0FgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAhsPFgIfCQUMRE5ORW1wdHlQYW5lZGRFdHU4sf7Os+7TMjrJwmP36IB0HA==" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwL0wvaPBQL+5PGyAgLR9YnYDjpY0N5ZrftVoMwAJ+bpS4hZqyWb" />
+</div>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnncore.js?cdv=36" type="text/javascript"></script><script src="/desktopmodules/dnnforge - newsarticles/includes/shadowbox/shadowbox.js?cdv=36" type="text/javascript"></script>
+        
+        
+<link href="/Portals/_default/Skins/e2015/bootstrap/css/bootstrap.min.css" rel='stylesheet'>
+<link rel="stylesheet" href="/Portals/_default/Skins/e2015/main.min.css" type="text/css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="screen" href="/Portals/_default/Skins/e2015/style_ie8.css"/>
+<![endif]-->
+<script>
+var dimensionValue1 = 'Tom Lombardo';  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-346666-1', 'auto');
+  ga('set', 'dimension1', dimensionValue1);
+  ga('send', 'pageview');
+
+</script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script defer src="/Portals/_default/Skins/e2015/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+   if($(window).width() < 768 ) {
+        $('#sidebar_content').remove(); 
+            
+}
+else {
+}
+});
+</script>
+<script>
+$('#affix_nav').affix({
+});	
+</script>
+
+
+<script type="text/javascript">
+			var addthis_config = {
+    	  		data_ga_property: 'UA-346666-1',
+	      		data_ga_social: true
+   			};
+
+			var addthis_share = {
+				url_transforms : {
+     				shorten: {
+         				twitter: 'bitly'
+	    			}
+  				}, 
+				shorteners : {
+    				bitly : {}
+				}
+			};
+		</script>
+<!--Standard External Scripts -->
+<script async type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=jsemkiw"></script>
+<!-- End of External Scripts -->
+
+<!--Script for image and video  Upload-->
+<script defer type="text/javascript">    
+    function OnRadEditorLoad(editor, args)    
+    {    
+        editor.get_filtersManager().add(new MyFilter());    
+        var images = editor.get_document().getElementsByTagName("IMG");    
+        for (var i = 0; i < images.length; i++)    
+         {    
+            var image = images[i];                                
+            if (image && image.getAttribute("NAME"))    
+             {                                                    
+                image.className = "articleImage";
+            }    
+          }    
+    }    
+    MyFilter = function()    
+     {    
+        MyFilter.initializeBase(this);    
+        this.set_isDom(false);    
+        this.set_enabled(true);    
+        this.set_name("RadEditor filter");    
+        this.set_description("RadEditor filter description");    
+    }    
+     MyFilter.prototype =    
+     {    
+        getHtmlContent : function(content)    
+        {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var images = oDiv.getElementsByTagName("IMG");    
+            for (var i = 0; i < images.length; i++)    
+             {    
+                var image = images[i];                                
+				if (image && image.getAttribute("NAME"))    
+				{                                                    
+					image.className = "";    
+				}    
+            }    
+            return oDiv.innerHTML;    
+        },    
+  
+        getDesignContent : function(content)    
+         {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var images = oDiv.getElementsByTagName("IMG");    
+            for (var i = 0; i < images.length; i++)    
+            {    
+                var image = images[i];                                
+				if (image && image.getAttribute("NAME"))    
+				{                                                    
+					image.className = "articleImage";
+				}    
+            }    
+            return oDiv.innerHTML;    
+        }    
+    }    
+    MyFilter.registerClass('MyFilter', Telerik.Web.UI.Editor.Filter);    
+	
+	Telerik.Web.UI.Editor.CommandList["InsertImage"] = function(commandName, editor, args)  
+{  
+    var elem = editor.getSelectedElement(); //returns the selected element.  
+       if (elem.tagName == "IMG")  
+       {  
+            editor.selectElement(elem);  
+            argument = elem;  
+       }  
+       else  
+       {  
+          var content = editor.getSelectionHtml();   
+          var image = editor.get_document().createElement("IMG");  
+          image.innerHTML = content;            
+          argument = image;  
+       }  
+       var myCallbackFunction = function(sender, args)  
+       {  
+           editor.pasteHtml(args.imageName)
+       }  
+       editor.showExternalDialog(  
+        '/DesktopModules/Admin/RadEditorProvider/Dialogs/InsertImage.aspx',  
+        argument,  
+        640,  
+        580,  
+        myCallbackFunction,  
+         null,  
+         'Insert Image',  
+        true,  
+        Telerik.Web.UI.WindowBehaviors.Close + Telerik.Web.UI.WindowBehaviors.Move,  
+        false,  
+        true);  
+};  
+
+</script> 
+
+<script defer type="text/javascript">    
+    function OnRadEditorLoad(editor, args)    
+    {    
+        editor.get_filtersManager().add(new MyFilter());    
+        var links = editor.get_document().getElementsByTagName("DIV");    
+        for (var i=0; i< links.length; i++)    
+         {    
+            var link = links[i];                                
+            if (link && link.getAttribute("NAME"))    
+             {                                                    
+                link.className = "articleVideo";
+            }    
+          }    
+    }    
+    MyFilter = function()    
+     {    
+        MyFilter.initializeBase(this);    
+        this.set_isDom(false);    
+        this.set_enabled(true);    
+        this.set_name("RadEditor filter");    
+        this.set_description("RadEditor filter description");    
+    }    
+     MyFilter.prototype =    
+     {    
+        getHtmlContent : function(content)    
+        {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var links = oDiv.getElementsByTagName("A");    
+            for (var i=0; i< links.length; i++)    
+             {    
+                 var link = links[i];                                
+                    if (link && link.getAttribute("NAME"))    
+                    {                                                    
+                        link.className = "";    
+                     }    
+            }    
+            return oDiv.innerHTML;    
+        },    
+  
+        getDesignContent : function(content)    
+         {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var links = oDiv.getElementsByTagName("A");    
+            for (var i=0; i< links.length; i++)    
+            {    
+                var link = links[i];                                
+                    if (link && link.getAttribute("NAME"))    
+                    {                                                    
+                        link.className = "articleVideo";
+                    }    
+            }    
+            return oDiv.innerHTML;    
+        }    
+    }    
+    MyFilter.registerClass('MyFilter', Telerik.Web.UI.Editor.Filter);    
+	
+	Telerik.Web.UI.Editor.CommandList["InsertVideo"] = function(commandName, editor, args)  
+{  
+    var elem = editor.getSelectedElement(); //returns the selected element.  
+       if (elem.tagName == "A")  
+       {  
+            editor.selectElement(elem);  
+            argument = elem;  
+       }  
+       else  
+       {  
+          var content = editor.getSelectionHtml();   
+          var link = editor.get_document().createElement("A");  
+          link.innerHTML = content;            
+          argument = link;  
+       }  
+       var myCallbackFunction = function(sender, args)  
+       {  
+           editor.pasteHtml(args.videoName)
+       }  
+       editor.showExternalDialog(  
+        '/DesktopModules/Admin/RadEditorProvider/Dialogs/InsertVideo.aspx',  
+        argument,  
+        570,  
+        400,  
+        myCallbackFunction,  
+         null,  
+         'Insert Video',  
+        true,  
+        Telerik.Web.UI.WindowBehaviors.Close + Telerik.Web.UI.WindowBehaviors.Move,  
+        false,  
+        true);  
+};  
+
+</script>  
+
+
+<!--End Script for Image UPload-->
+
+
+
+<body>	
+	<div class="container" id="partner_sites" style="border-bottom:1px solid #fff;">
+		<div class="row" style="margin-bottom:3px;">
+			<div class="col-md-12 hidden-sm hidden-xs" style="height:35px;">
+				<ul class="partner_links_container">
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.engineering.com/"><b>ENGINEERING.com</b></a></li>
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.eng-tips.com/">Eng-Tips Forums </a></li>
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.tek-tips.com/">Tek-Tips Forums </a></li>
+				</ul>	
+			
+			<div>
+				<p class="login_register"><a id="dnn_dnnLOGIN_loginLink" title="Login" class="HeadGray" href="http://www.engineering.com/Login.aspx?returnurl=%2fElectronicsDesign%2fElectronicsDesignArticles%2fArticleID%2f10498%2fSolar-Powered-Airborne-Internet-Provider.aspx">Login</a>
+<!--close loginGroup--></p>
+				<p class="login_register">
+<!---->
+ 
+<a id="dnn_dnnUser_hypRegister" class="HeadGray" href="http://www.engineering.com/Registration/tabid/5119/Default.aspx?returnurl=http%3a%2f%2fwww.engineering.com%2fElectronicsDesign%2fElectronicsDesignArticles.aspx">Register</a></p>
+			</div>
+			<div style="margin-left:600px;top:0px;padding:0px;margin-top:-10px;">
+				<script>
+  (function() {
+    var cx = '008413334578704215410:owcsyexxtys';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
+			</div>
+			</div>			
+		</div>		
+	</div>
+
+
+
+<script>
+function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block') {
+          e.style.display = 'none';
+		  }
+       else {
+          e.style.display = 'block';
+		  }
+    }
+function toggle_visibility2(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block') {
+          e.style.display = 'none';
+		  }
+       else {
+          e.style.display = 'none';
+		  }
+    }
+
+var popout = function () {
+	$('#open_mobi_nav').click(function () {
+		$('#mobile_docked_nav').animate({left:'400px'},300);		
+	});
+	$('.close_mobi_nav').click(function () {
+		$('#mobile_docked_nav').animate({left:'-400px'},300);		
+	});
+};
+
+$(document).ready(popout);
+
+
+</script>
+
+
+
+<div class="container-fluid" id="affix_nav" style="background-color:#252528;" data-spy="affix" data-offset-top="40">
+
+		<!-- Start of main navbar -->
+		<nav class="navbar navbar-default" style="background-color:#252528;">
+		<div id="nav_container" class="row" role="navigation">			
+			<div class="navbar-header">
+				<!-- make some kind of collapse and toggle for the minified nav -->
+				<div class="col-sm-12 hidden-md hidden-lg">
+					<a href="#" style="margin-right:15px;"><div id="open_mobi_nav" class="toggle_container">						
+							<p class="toggle_switch"></p>
+							<p class="toggle_switch"></p>
+							<p class="toggle_switch"></p>						
+					</div></a>
+					<div id="brand_logo_mobile_container" class="col-xs-10">
+						<a href="http://www.engineering.com/"><img id="brand_logo_mobile" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+					</div>
+				</div>				
+				<div class="hidden-sm hidden-xs">
+					<a href="http://www.engineering.com/"><img id="brand_logo" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+				</div>
+			</div>	
+			
+			<div class="hidden-sm hidden-xs">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="dropdown">
+					<a href="http://www.engineering.com/">
+					<div id="news" class="nav_news_active"  onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="NewsdropdownMenu" class="nav_item" style="font-size:14px;">News</p>
+					</div>
+					</a>
+					<ul id="news_dropdown" style="margin-left:auto;display:block;z-index:0;" class="dropdown-menu" role="menu" aria-labelledby="NewsdropdownMenu">
+							<li role="presentation"><a id="designeredge" class="" role="menuitem" tabindex="-1" href="/DesignerEdge/DesignerEdgeArticles.aspx">Designer Edge</a></li>
+							<li role="presentation"><a id="designsoft" class="" role="menuitem" tabindex="-1" href="/DesignSoftware/DesignSoftwareArticles.aspx">CAD/CAE</a></li>
+<li role="presentation"><a id="cam" class="" role="menuitem" tabindex="-1" href="/CAM.aspx">CAM</a></li>	
+<li role="presentation"><a id="bim" class="" role="menuitem" tabindex="-1" href="/BIM.aspx">BIM</a></li>	
+							<li role="presentation"><a id="manufact" class="" role="menuitem" tabindex="-1" href="/AdvancedManufacturing.aspx">Manufacturing</a></li>
+							<li role="presentation"><a id="3dprint" class="" role="menuitem" tabindex="-1" href="/3DPrinting/3DPrintingArticles.aspx">3D Printing</a></li>								
+							<li role="presentation"><a id="electronics" class="secondary_active" role="menuitem" tabindex="-1" href="/ElectronicsDesign/ElectronicsDesignArticles.aspx">Electronics</a></li>
+							<li role="presentation"><a id="education" class="" role="menuitem" tabindex="-1" href="/Education/EducationArticles.aspx">Education</a></li>
+							<li role="presentation"><a id="plm" class="" role="menuitem" tabindex="-1" href="/PLMERP.aspx">PLM/ERP</a></li>							
+					</ul>	
+				</div>
+				<div class="dropdown">
+                                     <a href="/Industries.aspx">
+						<div id="industries" class="nav_industries" onmouseover="toggle_visibility2('more_jobs')" >
+							<p id="IndustriesdropdownMenu" class="nav_item" style="font-size:14px;">Industries</p>
+						</div>				
+						<ul id="industries_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="IndustriesdropdownMenu">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=2">Aerospace</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=1">Automotive</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=3">Consumer Goods</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=4">Architecture & Construction</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=5">Defence & Military</a></li>
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" onmouseover="toggle_visibility('more_industries')">More <span style="font-size:12px;color:white;" class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></a></li>
+						 </ul>
+				</div>
+				<div class="dropdown">
+					<a href="/Jobs/tabid/5120/Default.aspx ">
+					<div id="jobs" class="nav_jobs" onmouseover="toggle_visibility2('more_industries')">
+						<p id="JobsdropdownMenu" style="font-size:14px;" class="nav_item">Jobs</p>
+					</div>
+					</a>
+					 <ul id="job_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="JobsdropdownMenu">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Jobs/JobArticles.aspx">Articles</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Jobs/Employers.aspx">Post For Free</a></li>
+<!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#" onmouseover="toggle_visibility('more_jobs')">
+							Browse  <span style="font-size:12px;color:white;" class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+							</a></li>	-->					
+					 </ul>
+				</div>
+				<div class="dropdown">
+					<a href="/GamesPuzzles/tabid/82/Default.aspx">
+					<div id="games" class="nav_games" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="GamesdropdownMenu" class="nav_item" style="font-size:14px;">Games</p>
+					</div>
+					</a>
+
+					<ul id="games_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="GamesdropdownMenu">
+					 <li role="presentation"><a role="menuitem" tabindex="-1" href="/GamesPuzzles/TopGames.aspx">Top Games</a></li>
+					</ul> 
+				</div>
+				<div class="dropdown">
+					<a href="/Videos/tabid/4624/Default.aspx">
+					<div id="videos" class="nav_videos" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="VideosdropdownMenu" class="nav_item" style="font-size:14px;">Videos</p>
+					</div>
+					</a>
+					<ul id="videos_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="VideosdropdownMenu">
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/EngineeringVideoChannels.aspx">Channels</a></li>
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/EngineeringVideoChannels.aspx">Shows</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/PopularVideos.aspx">Most Popular</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/RecentVideos.aspx">Recently Added</a></li>
+					</ul>					
+				</div>
+				<div class="dropdown">
+					<a href="/Resources.aspx">
+					<div id="resources" class="nav_resources" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="ResourcesdropdownMenu" class="nav_item" style="font-size:14px;">Resources</p>
+					</div>
+					</a>
+					<ul id="resources_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="ResourcesdropdownMenu">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=3">3D Printing</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=6">Design Tech</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=11">Education</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=4">Electronics</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=13">Manufacturing</a></li>
+					 </ul>					
+				</div>
+				<div class="dropdown">
+                                  <a href="/Webinars.aspx">
+					<div id="webinars" class="nav_webinars" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="WebinarsdropdownMenu" class="nav_item" style="font-size:14px;">Webinars</p>
+					</div>	
+</a>
+					<ul id="webinars_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="WebinarsdropdownMenu">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=999">View Previous Webinars</a></li>
+						
+					 </ul>
+				</div>				
+			</div>
+		</div>
+		</div>
+		</nav>
+		<!-- End of main navbar -->
+		<!-- Start of secondary navbar -->
+		<div class="hidden-sm hidden-xs">
+			<div id="secondary_nav" class="row">
+
+<!-- IE 8 navbar -->                          
+
+ <div id="ie8_nav" style="text-align:center;">
+<a style="color:white;margin-right:15px;" href="http://www.engineering.com/"> News</a>
+<a style="color:white;margin-right:15px;" href="/Industries.aspx"> Industries</a>
+<a style="color:white;margin-right:15px;" href="/Jobs/tabid/5120/Default.aspx"> Jobs</a>
+<a style="color:white;margin-right:15px;" href="/GamesPuzzles/tabid/82/Default.aspx"> Games</a>
+<a style="color:white;margin-right:15px;" href="/Videos/tabid/4624/Default.aspx"> Videos</a>
+<a style="color:white;margin-right:15px;" href="/Resources.aspx"> Resources</a>
+<a style="color:white;margin-right:15px;" href="/Webinars.aspx"> Webinars</a>
+</div> 
+
+                         </div>	
+		</div>
+	</div>
+		<!-- End of seconary navbar -->
+		<div id="mobile_docked_nav"  class="hidden-md hidden-lg">				
+			<div id="mobile_toggle_logo" class="close_mobi_nav">
+				<a href="#" style="margin-right:15px;"><div style="margin-left:30px;" class="toggle_container" >					
+						<p class="toggle_switch"></p>
+						<p class="toggle_switch"></p>
+						<p class="toggle_switch"></p>					
+				</div></a>
+				<a href="http://www.engineering.com/"><img style="margin-left:-5px;"  id="brand_logo_mobile" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+			</div>                               		
+				<div class="mobile_nav_choice_first">
+					<a href="http://www.engineering.com/"><p class="mobile_nav_item">Home</p></a>					
+				</div>					
+				<a onclick="toggle_visibility('mobile_news')">
+					<div class="mobile_nav_choice">
+						<p class="mobile_nav_item">News</p>					
+					</div>
+				</a>
+				<div id="mobile_news">
+					<ul class="news_list">
+							<a href="/DesignerEdge/DesignerEdgeArticles.aspx"><li class="news_item">Designer Edge</li></a>
+							<a href="/DesignSoftware/DesignSoftwareArticles.aspx"><li class="news_item">CAD/CAE</li></a>
+<a href="/CAM.aspx"><li class="news_item">CAM</li></a>
+<a href="/BIM.aspx"><li class="news_item">BIM</li></a>
+							<a href="/3DPrinting/3DPrintingArticles.aspx"><li class="news_item">3D Printing</li></a>
+							<a href="/PLMERP.aspx"><li class="news_item">PLM/ERP</li></a>
+							<a href="/ElectronicsDesign/ElectronicsDesignArticles.aspx"><li class="news_item">Electronics</li></a>
+							<a href="/Education/EducationArticles.aspx"><li class="news_item">Education</li></a>
+							<a href="/AdvancedManufacturing.aspx"><li class="news_item">Manufacturing</li></a>
+					</ul>
+				</div>
+				<a onclick="toggle_visibility('industry_choice')">
+					<div class="mobile_nav_choice">
+						<p class="mobile_nav_item">Industries</p>
+					</div>	
+				</a>
+				<div id="industry_choice">
+					<ul class="news_list">							
+							<a href="/Industries/IndustryArticle.aspx?industry=2"><li class="news_item">Aerospace</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=1"><li class="news_item">Automotive</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=3"><li class="news_item">Consumer Goods</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=4"><li class="news_item">Architecture & Construction</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=5"><li class="news_item">Defence & Military</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=6"><li class="news_item">Electronics & Semiconductors</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=7"><li class="news_item">Energy, Process & Utilities</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=8"><li class="news_item">Manufacturing</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=9"><li class="news_item">Marine & Offshore</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=10"><li class="news_item">Transportation</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=11"><li class="news_item">Materials</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=12"><li class="news_item">Medical</li></a>
+					</ul>
+				</div>
+				<div class="mobile_nav_choice">
+					<a href="/Jobs/tabid/5120/Default.aspx"><p class="mobile_nav_item">Jobs</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/GamesPuzzles/tabid/82/Default.aspx"><p class="mobile_nav_item">Games</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/Videos/tabid/4624/Default.aspx"><p class="mobile_nav_item">Videos</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/Resources.aspx"><p class="mobile_nav_item">Resources</p></a>
+				</div>
+				<div class="mobile_nav_choice">
+					<a href="/Webinars.aspx"><p class="mobile_nav_item">Webinars</p></a>
+				</div>
+<div class="mobile_nav_choice">
+					<a href="/MastersDiscovery"><p class="mobile_nav_item">Masters Discovery Tool</p></a>
+				</div>
+<div class="mobile_nav_choice">
+<div style="margin-left:auto;margin-right:auto;width:200px;padding-top:8px;color:#000;">
+ <script>
+  (function() {
+    var cx = '008413334578704215410:owcsyexxtys';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</div>			
+		</div>
+	
+	<!-- End of Full-Width Items -->
+	
+<div class="container" id="more_industries" style="display:none;" onmouseover="toggle_visibility2('more_jobs')"> 
+		<div class="row">
+			<div id="industries_second_nav" class="col-md-12">
+				<ul id="industries_second_list">
+					<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=6"><li class="industries_secondlist_item">Electronics & Semiconductors</li></a>
+					<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=7"><li class="industries_secondlist_item">Energy, Process & Utilities</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=8"><li class="industries_secondlist_item">Manufacturing</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=9"><li class="industries_secondlist_item">Marine & Offshore</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=10"><li   class="industries_secondlist_item">Transportation</li></a>
+<a class="industrylink" href="/Industries/IndustryArticle.aspx?industry=11"><li class="industries_secondlist_item">Materials</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=12"><li class="industries_secondlist_item">Medical</li></a>
+				</ul>
+			</div>
+		</div>
+	</div>
+<!--
+<div class="container" id="more_jobs" style="display:none;" onmouseover="toggle_visibility2('more_industries')"> 
+		<div class="row">
+			<div style="background-color:#5d646c;border-top:1px solid #fff;margin-left:245px;width:7%;position:absolute;z-index:99999;">
+				<ul style="list-style-type:none;color:#fff;padding:0px;padding-top:5px;padding-left:5px;">
+					<a class="industrylink" href="/Jobs/BrowsebyCompany.aspx "><li class="more_dropdown_options">By Company</li></a>
+					<a class="industrylink"  href="/Jobs/JobsbyState.aspx "><li class="more_dropdown_options" style="margin-top:5px;">By State</li></a>
+					<a href="/Jobs/Engineering_Jobs_Search.aspx " class="industrylink" ><li class="more_dropdown_options" style="margin-top:5px;">All Jobs</li></a>
+				</ul>
+			</div>
+		</div>
+	</div>
+-->
+
+
+	
+<div class="container" style="margin-top:20px;">
+	<div class="row">
+		<div id="dnn_Leaderboard" class="col-md-9 col-sm-9 col-xs-12" style="margin-left:-10px;">
+		<div class="DnnModule DnnModule-DNN_HTML DnnModule-10859"><a name="10859"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr10859_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_10859 --><div id="dnn_ctr10859_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10859_HtmlModule_lblContent" class="Normal">
+		<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+var mapping1 = googletag.sizeMapping().
+  addSize([0, 0], []).  
+  addSize([300, 200], [320,50]). // Mobile
+  addSize([768, 200], [728, 90]). // Desktop
+  build();
+
+var mapping2 = googletag.sizeMapping().
+  addSize([0, 0], []).  
+  addSize([992, 200], [[300, 600],[300,250]]). // Desktop
+  build();
+
+googletag.defineSlot('/14357335/Engcom_ElectronicDesign_Bigbox', [[300, 250], [300, 600]], 'div-gpt-ad-1391786527968-0').defineSizeMapping(mapping2).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art10498");
+googletag.defineSlot('/14357335/Engcom_ElectronicDesign_Bigbox2', [[300, 250], [300, 600]], 'div-gpt-ad-1391786527968-1').defineSizeMapping(mapping2).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art10498");
+googletag.defineSlot('/14357335/Engcom_Electronicsdesign_Leaderboard', [[728, 90],[320,50]], 'div-gpt-ad-1391786527968-2').defineSizeMapping(mapping1).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art10498");
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<div id="div-gpt-ad-1391786527968-2">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391786527968-2'); });
+</script>
+</div>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_10859 --></td>
+
+	</tr>
+</table></div></div>
+		<div id="dnn_ButtonAd" class="col-md-3 hidden-sm hidden-xs">
+                    <a href="/MastersDiscovery"><img style="padding-left:5px;" src="http://file1.engineering.com/e2015/MastersDiscoveryTool_Tile.jpg"/></a>
+		</div>
+	</div>
+</div>
+<div class="container" id="secondnav_inpage">
+	<div class="row">
+		<div id="dnn_secondnav" class="col-md-12 hidden-xs">
+			
+
+		<div class="DnnModule DnnModule-DNN_HTML DnnModule-11795"><a name="11795"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr11795_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_11795 --><div id="dnn_ctr11795_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11795_HtmlModule_lblContent" class="Normal">
+	<div class="col-md-2 col-sm-3" id="onpage_nav_title">
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx">
+<p class="inpage_nav_item_title">Electronics</p>
+</a>
+</div>
+<div class="col-md-1 col-sm-3 col-xs-2" id="subnav_title">
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx">
+<p class="inpage_nav_item">Articles</p>
+</a>
+</div>
+<div class="col-md-1 col-sm-3 col-xs-2" id="subnav_title">
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignVideos/tabid/5978/TagId/7286/Default.aspx">
+<p class="inpage_nav_item">Videos</p>
+</a>
+</div>
+<div class="col-md-1 col-sm-3 col-xs-3" id="subnav_title">
+<a href="http://www.engineering.com/Resources.aspx?sec=4">
+<p class="inpage_nav_item">Resources</p>
+</a>
+</div>
+<div class="col-md-1 col-sm-3 col-xs-2" id="subnav_title">
+<a href="http://www.engineering.com/Jobs/electricalengineeringjobs.aspx">
+<p class="inpage_nav_item">Jobs</p>
+</a></div>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_11795 --></td>
+
+	</tr>
+</table></div></div>
+	</div>
+</div>
+<div id="main_content" class="container" style="margin-top:15px;padding-top:10px;margin-bottom:20px;">
+	<div class="row">		
+		<div class="col-md-8" id="main_content_container">		
+			<div id="dnn_ContentPane" class="ContentPane"><div class="DnnModule DnnModule-XModPro DnnModule-10308"><a name="10308"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr10308_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_10308 --><div id="dnn_ctr10308_ModuleContent" class="DNNModuleContent ModXModProC">
+	
+
+
+
+
+<style>
+.articleEntry {
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:13px;
+    font-weight:normal;
+    line-height:2;
+} 
+.contributor {color: #333333; 
+font-family: Georgia, "Times New Roman", Times, serif; 
+font-size:20px; 
+font-weight:bold; 
+}
+</style>
+
+
+
+<div style="margin-top:10px;">
+  
+</div>
+
+</div><!-- End_Module_10308 --></td>
+
+	</tr>
+</table></div><div class="DnnModule DnnModule-DnnForge-NewsArticles DnnModule-429"><a name="429"></a><div id="dnn_ctr429_ContentPane"><!-- Start_Module_429 --><div id="dnn_ctr429_ModuleContent" class="DNNModuleContent ModDnnForgeNewsArticlesC">
+	
+
+
+<div class="NewsArticles">
+    <!-- Menu.Item -->
+<div class="Normal" align="center">
+<!--	
+    <span style="float: right;">
+        <a rel="nofollow" href="/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=5977&amp;ModuleID=429&amp;MaxCount=25">
+            <img src="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Images/rssbutton.gif" alt="25 Latest Articles" style="border-width: 0px;"/>
+        </a>
+    </span>	
+	 -->
+
+<span style="float: right; width: 250px;">	
+		</span>
+
+	<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx" class="MenuTopSelected">Current   Articles</a> 
+	|
+	<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/articleType/Archives.aspx" class="MenuTop">Archives</a> 
+	|
+	<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/articleType/Search.aspx" class="MenuTop">Search</a> 
+
+		
+			
+	
+</div>
+
+
+<!-- View.Item -->
+
+		
+<div class="article" style="border-bottom:2px solid #5d646c;" >
+
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10498/Solar-Powered-Airborne-Internet-Provider.aspx"  class="article_title" style="color:#5d646c;">Solar Powered Airborne Internet Provider</a><br/><a href="http://www.engineering.com/Author/ID/149083/TomLombardo">Tom Lombardo</a> posted on August 01, 2015 | <a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10498/Solar-Powered-Airborne-Internet-Provider.aspx#disqus_thread"  data-disqus-identifier="art10498"></a>  | 481 views<br/>
+<div style="margin:5px 0 5px 0;">	
+		<div class="addthis_responsive_sharing"></div>
+ </div>
+</div>
+
+	
+	
+	<div class="articleEntry" style="font-family: 'Open Sans', sans-serif;font-size:16px;color:#5a5a5a;line-height:2;font-weight: 500;">
+        By now you&rsquo;ve probably heard about the <a href="https://code.facebook.com/posts/993520160679028/building-communications-networks-in-the-stratosphere/" target="_blank">Facebook Aquila</a>, a solar assisted electric aircraft designed to bring Internet access to developing nations. Aquila is named after a constellation - &lsquo;Aquila&rsquo; is Latin for &lsquo;Eagle&rsquo; - so it&rsquo;s fitting that Facebook plans to put a constellation of Aquilas (Aquilae?) in the air to form a communication network. A full-scale prototype is now ready, and engineers expect testing to get off the ground in late 2015.
+<div style="margin-bottom: 15px; width: 100%;" align="center"><img alt="" class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit/Aquila_irmink.jpg" />
+<div style="margin-top: 8px; font-style: italic; font-size: 90%; word-wrap: break-word; line-height: 15px;"></div>
+</div>
+<p dir="ltr">As expected, Facebook isn&rsquo;t releasing much technical information about the plane. We know it weighs about &nbsp;400 kg (900 lbs), roughly one-third the weight of a Toyota Prius. Most of the weight is due to the carbon composite frame and the batteries; the &ldquo;payload&rdquo; (communication equipment) only weighs 23 kg (50 lbs). Its wingspan is 42m (138 ft), about the same as a Boeing 737. Because the Aquila is designed to fly at altitudes of 18 - 27 km (60,000 - 90,000 feet), well above commercial airliners and weather, the enormous wingspan is needed in order to maximize lift in very thin air. </p>
+<br />
+<p dir="ltr">See <a href="https://code.facebook.com/posts/993520160679028/building-communications-networks-in-the-stratosphere/" target="_blank">the announcement page</a> for more about the structure and materials. I&rsquo;m interested in the power system, but since they&rsquo;re keeping that information to themselves, I&rsquo;ll take an educated guess regarding the electric motors, photovoltaic panels, and battery capacity. I&rsquo;ll use the <a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/5433/Solar-Powered-Flight-Day-and-Night.aspx" target="_blank">Solar Impulse</a> and the <a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/7365/Solar-Plane-Shoots-for-Altitude-Record.aspx" target="_blank">SolarStratos </a>- two noteworthy solar powered aircraft - as references for comparison data. </p>
+<br />
+<h2 dir="ltr">Power</h2>
+<p dir="ltr">Solar Impulse:</p>
+<p dir="ltr">Wingspan: 63 m</p>
+<p dir="ltr">Weight: 1600 kg</p>
+<p dir="ltr">Total Motor Power: 30 kW (40 hp)</p>
+<p dir="ltr">Power-to-Weight ratio: 19 W/kg</p>
+<br />
+<p dir="ltr">SolarStratos:</p>
+<p dir="ltr">Wingspan: 20 m</p>
+<p dir="ltr">Weight: 350 kg</p>
+<p dir="ltr">Total Motor Power: 13 kW (18 hp)</p>
+<p dir="ltr">Power-to-Weight ratio: 37 W/kg</p>
+<br />
+<p dir="ltr">Notice that the SolarStratos requires nearly twice as much power per unit of weight compared to the Solar Impulse, probably due to its shorter wingspan. The <strong>Aquila&rsquo;s 42 meter wingspan</strong> falls roughly in the middle, so let&rsquo;s assume that its power-to-weight ratio is about halfway between the others: around <strong>30 W/kg</strong>. (This is a ballpark estimate, so please forgive the heavy rounding.) That means the Aquila needs about <strong>12 kW of power</strong>, roughly 16 hp. Aquila uses four propellers, so we&rsquo;ll assume each is driven by a 3 kw (4 hp) electric motor. In fact, Aquila probably needs even less power because it&rsquo;s not designed to take off on its own; it will be lifted to cruising altitude by balloons, fly for about 90 days, and then glide to a landing. So let&rsquo;s assume that the total motor power is about 10 kW.</p>
+<br />
+<br />
+<h2 dir="ltr">Photovoltaic Array</h2>
+<p dir="ltr">The wingspan represents the actual width of the plane, not the combined length of the two wings themselves. Assuming a 30 degree sweep angle, a little geometry says that each wing is about 24m long, and a visual estimate suggests that each wing is about 2m wide. That&rsquo;s 96 square meters of total wing surface area covered by PV panels. At 27 km, Aquila&rsquo;s daytime altitude, the solar intensity is about 1300 watts per square meter. Assuming 20% efficient PV panels, the array could produce 25 kW of peak power. It&rsquo;s probably even better since PV panels operate more efficiently at cold temperatures, but I&rsquo;m ignoring losses in my estimates so we&rsquo;ll call it even.</p>
+<br />
+<h2 dir="ltr">Battery Bank</h2>
+<p dir="ltr">Given that 10 kW are used to run the motors, that leaves 15 kW going to the battery bank at peak times. It&rsquo;s hard to estimate peak sun hours (PSH) for a moving vehicle at 27 km, since the tilt angle will vary, but since there&rsquo;s no cloud cover up there, let&rsquo;s call it 6.5 PSH. That&rsquo;s 97 kWh of energy charging the batteries during the day, about the same as the Solar Impulse&rsquo;s battery bank, and almost five times that of the SolarStratos. </p>
+<br />
+<p dir="ltr">At night the Aquila will drop to an altitude of 18 km, where the air is more dense, in order to conserve power. Denser air increases both lift and drag, but the craft was designed to maximize the lift-to-drag ratio, so it takes less power to fly in denser air. So instead of needing 10 kW, let&rsquo;s call it 8 kW. If it draws 8 kW from the batteries for 12 hours, it will completely deplete the battery bank every night and fully charge it during the day. </p>
+<br />
+<p dir="ltr">Remember that these are rough estimates, not exact figures, so I&rsquo;m not taking losses into account. I&rsquo;m not trying to prove that it works, only to show that the numbers are in the right ballpark. It appears that they are. And I realize that I&rsquo;m only calculating the power required to keep the plane flying, not the power to run its electronics. Like <a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/5865/Googles-Loon-Uses-Solar-Power-to-Connect-the-World.aspx" target="_blank">Google&rsquo;s Loon</a>, I&rsquo;m certain that the payload&rsquo;s power requirements are minuscule compared to the power needed to fly the aircraft.</p>
+<br />
+<h2 dir="ltr">The Constellation</h2>
+<p dir="ltr">Also similar to the Loon, several Aquilas will operate as a constellation, covering a wider area. Each plane flies in a circle with a 50 km radius. A base station on the ground communicates with the &ldquo;mother&rdquo; Aquila, which uses lasers for air-to-air communication with other aircraft in the constellation. The lasers are capable of transmitting data at 10 Gbps - comparable to fiber optic speeds. From there, each Aquila will communicate with ground-based antennas using radio frequencies, providing WiFi access to anything in its range. </p>
+<div>
+<div style="margin-bottom: 15px; width: 100%;" align="center"><img alt="" class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit/AquilaAirToAir_xgp0fn.jpg" />
+<div style="margin-top: 8px; font-style: italic; font-size: 90%; word-wrap: break-word; line-height: 15px;"></div>
+</div>
+<p style="margin-bottom: 15px; width: 100%;" align="center"><img alt="" class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit/AquilaRF_y2rf8q.jpg" /></p>
+<div style="margin-top: 8px; font-style: italic; font-size: 90%; word-wrap: break-word; line-height: 15px;"></div>
+<p dir="ltr">Here&rsquo;s a video with more information:</p>
+<div><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQxXf6MYpzw" frameborder="0"></iframe>
+</div>
+<p dir="ltr">What&rsquo;s most amazing to me is that the engineering team designed this aircraft - pretty much from scratch - in about fourteen months. Maybe an engineering degree should be the minimum requirement for elected office. :-)</p>
+<br />
+<br />
+<p dir="ltr"><em><sup>Images and video courtesy of Facebook</sup></em></p>
+<div><br />
+</div>
+<br />
+<br />
+</div>
+<br />
+        
+    </div>
+    
+    
+    
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding: 10px 0 0 0;"></div>
+
+
+
+
+
+<div>
+    <div class="section_header" style="margin-bottom:10px;"><p class="main_content_heading" style="width:220px;">Recommended For You</p></div>
+    <!-- Related.Header -->
+<ul class="newsArticlesList"><!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10470/CyboInverter-Gives-More-Options-for-Renewable-Energy.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/CyboInverter.JPG" /></a>
+<br/>
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10470/CyboInverter-Gives-More-Options-for-Renewable-Energy.aspx" class="related-links">CyboInverter Gives More Options for Renewable Energy</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10436/Sunstation-A-Roof-Integrated-Solar-PV-System.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/Sunstation.jpg" /></a>
+<br/>
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10436/Sunstation-A-Roof-Integrated-Solar-PV-System.aspx" class="related-links">Sunstation: A Roof-Integrated Solar PV System</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10404/Better-Optical-Sensing-with-New-Time-of-Flight-Technology.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/8_1.jpg" /></a>
+<br/>
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10404/Better-Optical-Sensing-with-New-Time-of-Flight-Technology.aspx" class="related-links">Better Optical Sensing with New Time-of-Flight Technology</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10402/Net-Positive-Solar-EV-Goes-600-Miles-on-a-Charge-and-Carries-Four-Passengers.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/StellaLux.JPG" /></a>
+<br/>
+<a href="http://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles/ArticleID/10402/Net-Positive-Solar-EV-Goes-600-Miles-on-a-Charge-and-Carries-Four-Passengers.aspx" class="related-links">Net-Positive Solar EV Goes 600 Miles on a Charge and Carries Four Passengers</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Footer -->
+</ul>
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:  0 0 0;"></div>
+<p>&nbsp;</p>
+
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script async type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'engineeringcom'; // required: replace example with your forum shortname
+var disqus_identifier = 'art10498';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'engineeringcom'; // required: replace example with your forum shortname
+		var disqus_identifier = 'art10498';
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+</script>
+
+
+<script type="text/javascript">
+    $('.NewsArticles a[href]').filter(function () {
+        return /(jpg|gif|png)$/.test($(this).attr('href'))
+    }).attr('rel', 'shadowbox[10498]');
+    
+    Shadowbox.init({
+        handleOversize: "drag"
+    });
+</script>
+</div>
+</div><!-- End_Module_429 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10904"><a name="10904"></a></div></div>								
+		</div>
+		<div class="col-md-4 hidden-sm hidden-xs" id="sidebar_content">
+				<div id="dnn_Picks"><div class="DnnModule DnnModule-DNN_HTML DnnModule-10341"><a name="10341"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10341_TITLE_titleLabel" class="Head">Subscribe</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10341_ContentPane" class="ContentCss"><!-- Start_Module_10341 --><div id="dnn_ctr10341_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10341_HtmlModule_lblContent" class="Normal">
+	<script type="text/javascript">
+$(document).ready(function () {
+	$("#func_switch").click(function() {
+	var email = document.getElementById('email').value;
+	window.open("http://www.engineering.com/MailPreferences.aspx?Email="+email+""); 
+	});
+});
+
+</script>
+<div style="margin-bottom: 10px;" class="addthis_horizontal_follow_toolbox"></div>
+<div class="row">
+<div class="col-md-8">
+<input type="text" name="email" class="form-control" id="email" placeholder="Sign up for news" />
+</div>
+<div class="col-md-4">
+<button type="submit" class="btn btn-primary" id="func_switch">Submit</button>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10341 --></div>
+<div style="clear:both"></div></div></div>
+				<div id="dnn_BoxAd"><div class="DnnModule DnnModule-DNN_HTML DnnModule-10406"><a name="10406"></a><div id="dnn_ctr10406_ContentPane"><!-- Start_Module_10406 --><div id="dnn_ctr10406_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10406_HtmlModule_lblContent" class="Normal">
+		<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar',
+      1,                  
+      'Author',           
+      'Tom Lombardo', 
+      3                    
+   ]);
+</script>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_10406 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10217"><a name="10217"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr10217_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_10217 --><div id="dnn_ctr10217_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10217_HtmlModule_lblContent" class="Normal">
+		<div id="div-gpt-ad-1391786527968-0">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391786527968-0'); });
+</script>
+</div>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_10217 --></td>
+
+	</tr>
+</table></div></div>
+				<div id="dnn_BoxContent"><div class="DnnModule DnnModule-XModPro DnnModule-11308"><a name="11308"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr11308_TITLE_titleLabel" class="Head">Resources</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr11308_ContentPane" class="ContentCss"><!-- Start_Module_11308 --><div id="dnn_ctr11308_ModuleContent" class="DNNModuleContent ModXModProC">
+	
+
+
+
+
+<style>
+.resource-mainLink {
+    color:#525258;
+    font-family:'Open Sans',sans-serif;
+  font-size:12px;
+  font-weight:700;
+}
+
+.resource-images {	margin : 0 10px 0 0;
+	border:1px;
+	border-style:solid; 
+	border-color:#333333; 	
+	float: left;
+	min-width:120px;
+	min-height:90px;
+	max-width:120px;
+	max-height:90px;
+	position:relative;
+	overflow:hidden;
+	padding: 0px;}
+	
+.download{color: #005f95; 
+}	
+</style>
+
+
+	
+  
+  <div class="resource">
+    <div class="resource-images"><a href="/ResourceMain.aspx?resid=237&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=leddartech196"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://image.engineering.com/239575/articles/nov2014/leddartech/leddartech-1.png" class="img-responsive"/></a></div>
+		<div><a href="/ResourceMain.aspx?resid=237&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=leddartech196" class="resource-mainLink">Sensing and Ranging using LED Technology</a> <br> <a href="/ResourceMain.aspx?resid=237&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=leddartech196"><span class="download">Download</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+    <div class="resource-images"><a href="/ResourceMain.aspx?resid=57&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://file2.engineering.com/engcom/images/products/ni/visualize.jpg" class="img-responsive"/></a></div>
+		<div><a href="/ResourceMain.aspx?resid=57&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=" class="resource-mainLink">How to Choose the Right Visualization Techniques for Your Measurement System</a> <br> <a href="/ResourceMain.aspx?resid=57&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><span class="download">Download</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+    <div class="resource-images"><a href="/ResourceMain.aspx?resid=54&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://file2.engineering.com/engcom/images/products/ni/reporting-tools.jpg" class="img-responsive"/></a></div>
+		<div><a href="/ResourceMain.aspx?resid=54&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=" class="resource-mainLink">How to Choose the Right Reporting Tools for Your Instrument Control System</a> <br> <a href="/ResourceMain.aspx?resid=54&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><span class="download">Download</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+    <div class="resource-images"><a href="/ResourceMain.aspx?resid=53&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://file2.engineering.com/engcom/resources/nu-horizons/multi-channel-data-acquisition-unit.jpg" class="img-responsive"/></a></div>
+		<div><a href="/ResourceMain.aspx?resid=53&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=" class="resource-mainLink">Designing a Portable Multi-Channel DAQ for Non-Destructive Testing</a> <br> <a href="/ResourceMain.aspx?resid=53&utm_source=recommended_designeredge&utm_medium=web&utm_campaign="><span class="download">Download</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  
+
+</div><!-- End_Module_11308 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10482"><a name="10482"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr10482_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_10482 --><div id="dnn_ctr10482_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10482_HtmlModule_lblContent" class="Normal">
+		<div id="div-gpt-ad-1391786527968-1">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391786527968-1'); });
+</script>
+</div>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_10482 --></td>
+
+	</tr>
+</table></div><div class="DnnModule DnnModule-LatestArticlesEngCom DnnModule-10902"><a name="10902"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10902_TITLE_titleLabel" class="Head">Most Read</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10902_ContentPane" class="ContentCss"><!-- Start_Module_10902 --><div id="dnn_ctr10902_ModuleContent" class="DNNModuleContent ModLatestArticlesEngComC">
+	<style>
+.most-read-article 
+{
+	margin-top: 10px;
+    clear: both;
+    text-align: left;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+	font-weight:600;
+	line-height:1.3;
+}
+
+a.most-read-mainLink {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:link {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:active {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600;  
+}
+a.most-read-mainLink:visited{color: #333333; 
+font-family: Georgia, "Times New Roman", Times, font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:hover {color: #005f95; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+.most-read-articleImage { 
+	margin : 0 10px 0 0;
+	border:1px;
+	border-style:solid; 
+	border-color:#333333; 	
+	float: left;
+	min-width:60px;
+	min-height:40px;
+	max-width:60px;
+	max-height:40px;
+	position:relative;
+	overflow:hidden;
+	padding: 0px;
+}
+.view-count{color: #FF3300; 
+}
+</style><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/Education/EducationArticles/ArticleID/10483/The-Pros-and-Cons-of-Online-Engineering-Masters-Degrees.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/CWRU-notes.png" /></a></div>
+		
+		<div><a href="http://www.engineering.com/Education/EducationArticles/ArticleID/10483/The-Pros-and-Cons-of-Online-Engineering-Masters-Degrees.aspx" class="most-read-mainLink">The Pros and Cons of Online Engineering Masters Degrees</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/3DPrinting/3DPrintingArticles/ArticleID/10488/CloudDDMs-New-Strategic-End-of-Runway-3D-Printing-Service.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/11_1.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/3DPrinting/3DPrintingArticles/ArticleID/10488/CloudDDMs-New-Strategic-End-of-Runway-3D-Printing-Service.aspx" class="most-read-mainLink">CloudDDM's New Strategic End-of-Runway 3D Printing Service</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10474/The-Rise-of-Industrial-Robotics.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/1_Robo1.png" /></a></div>
+		
+		<div><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10474/The-Rise-of-Industrial-Robotics.aspx" class="most-read-mainLink">The Rise of Industrial Robotics</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10475/Structural-Analysis-with-SCIA.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/13.png" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10475/Structural-Analysis-with-SCIA.aspx" class="most-read-mainLink">Structural Analysis with SCIA</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10487/Mitsubishi-to-Sell-US-Facility-as-Caterpillar-Announces-Truck-Production.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/mitsubishi-normal-illinois-plant-may-close.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10487/Mitsubishi-to-Sell-US-Facility-as-Caterpillar-Announces-Truck-Production.aspx" class="most-read-mainLink">Mitsubishi to Sell U.S. Facility as Caterpillar Announces Truck Production</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10480/SALt--This-Lamp-Runs-on-Salt-Water-and-Electrochemistry.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/salt lit.JPG" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10480/SALt--This-Lamp-Runs-on-Salt-Water-and-Electrochemistry.aspx" class="most-read-mainLink">SALt - This Lamp Runs on Salt Water and Electrochemistry</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+
+
+
+
+
+</div><!-- End_Module_10902 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10800"><a name="10800"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10800_TITLE_titleLabel" class="Head">Community</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10800_ContentPane" class="ContentCss"><!-- Start_Module_10800 --><div id="dnn_ctr10800_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10800_HtmlModule_lblContent" class="Normal">
+	<script type="text/javascript" src="http://engineeringcom.disqus.com/combination_widget.js?num_items=5&hide_mods=1&color=grey&default_tab=popular&excerpt_length=300"></script>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10800 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10004"><a name="10004"></a><div id="dnn_ctr10004_ContentPane" class="DNNAlignleft"><!-- Start_Module_10004 --><div id="dnn_ctr10004_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10004_HtmlModule_lblContent" class="Normal">
+	<p style="margin-top:15px;"><a href="http://itunes.apple.com/app/engineering-com/id429258010?mt=8" target="_blank"><img height="90" alt="iPhone/iPad App" src="http://file2.engineering.com/engcom/images/logos/iphone-button-300.jpg" style="border-width: 0px; border-style: solid;"></a></p>
+<p><a href="https://market.android.com/details?id=com.impinge.Engineering&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5pbXBpbmdlLkVuZ2luZWVyaW5nIl0" target="_blank"><img height="90" align="top" src="http://file2.engineering.com/february-2012/android-button-300.jpg" alt="Android App" style="margin-bottom: 5px; border-width: 0px; border-style: solid;"></a></p>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10004 --></div>
+</div></div>
+				<div id="dnn_LeaderboardRight" class="DNNEmptyPane"></div>			
+		</div>		
+	</div>
+</div>
+
+<style>
+#footer_logo {
+	opacity:0.3;
+	}
+#footer_logo:hover {
+	opacity:1;
+}
+.footer {
+	color:#ffffff;
+}
+A.footer:link,
+A.footer:visited,
+A.footer:active
+ {
+color:#ffffff;
+}
+
+</style>
+<div class="container" id="footer_nav" style="margin-bottom:20px;background-color:#5d646c;color:#fff;padding:10px;">
+	<div class="row">
+		<div class="col-md-12">		
+			<strong style="margin-bottom:5px;">About ENGINEERING.com</strong><br />
+			<font class="footer">ENGINEERING.com brings the most influential voices in engineering to a worldwide audience of engineers.  Our stories are informative, inspiring and entertaining.</font><br /><br />
+			<div class="col-md-4">
+				<a href="http://www.engineering.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/engcom_color.png "/></a>
+			</div>
+			<div class="col-md-4">
+				<a href="http://www.eng-tips.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/engtips_color.png "/></a>
+			</div>
+			<div class="col-md-4">
+				<a href="http://www.tek-tips.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/tektips_color.png "/></a>
+			</div>
+		</div>	
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<p class="footer">Copyright &copy; 2015 ENGINEERING.com, Inc.<br/>
+			All rights reserved. Registration on or use of this site constitutes acceptance of our <a href="/Home/PrivacyPolicy/tabid/197/Default.aspx" class="footer">Privacy Policy.</a></p>
+		</div>
+	</div>
+	<div class="row">	
+		<div class="col-md-12">
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">Company</strong><br />
+				<a href="/Home/AboutUs/tabid/196/Default.aspx" class="footer">About Us</a><br />
+                                <a href="/Home/OurTeam.aspx" class="footer">Our Team</a><br />
+				<a href="/Home/ContactUs/tabid/198/Default.aspx" class="footer">Contact Us</a><br />
+				<a href="/engineeringcompartners.aspx" class="footer">Partners</a><br />
+				<a href="/Home/Contributors.aspx" class="footer">Contributors</a>
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;"> 
+				<strong style="margin-bottom:5px;">Follow</strong><br />
+				<a href="/Mobile.aspx" class="footer">Mobile Apps</a><br />
+				<a href="/Home/Podcasts.aspx" class="footer">Podcasts</a><br />
+				<a href="/Home/Follow.aspx" class="footer">RSS</a><br />
+				<a href="/News/Communique.aspx" class="footer">Newsletters</a><br />			
+				<a href="http://www.youtube.com/user/engineeringdotcom" target="_blank" class="footer">YouTube</a><br />
+				<a href="http://www.facebook.com/engineeringcom" target="_blank" class="footer">Facebook</a><br />
+				<a href="/Home/Follow.aspx" class="footer">Twitter</a><br />
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">Sections</strong><br />
+				<a href="/3DPrinting/3DPrintingArticles.aspx" class="footer">3D Printing</a><br />
+				<a href="/DesignSoftware/DesignSoftwareArticles.aspx" class="footer">CAD/CAE</a><br />
+                                <a href="/DesignerEdge/DesignerEdgeArticles.aspx" class="footer">Designer Edge</a><br />
+								
+                                <a href="/CAM.aspx" class="footer">CAM</a><br />
+				<a href="/BIM.aspx" class="footer">BIM</a><br />
+                                <a href="/Education/EducationArticles.aspx" class="footer">Education</a><br />
+				<a href="/ElectronicsDesign/ElectronicsDesignArticles.aspx" class="footer">Electronics</a><br />
+				<a href="/GamesPuzzles/tabid/82/Default.aspx" class="footer">Games and Puzzles</a><br />
+				<a href="/Jobs/tabid/5120/Default.aspx" class="footer">Jobs</a><br />
+				<a href="/Videos/tabid/4624/Default.aspx" class="footer">Videos</a><br/>
+                                <a href="/Resources.aspx" class="footer">Resources</a><br />
+				<a href="/Webinars.aspx" class="footer">Webinars</a>	
+			</div>				
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">More Resources</strong><br />
+				<a href="/Library/ArticlesPage/tabid/85/articleType/CategoryView/categoryId/9/Calculators.aspx" class="footer">Calculators</a><br />
+				<a href="/Resources.aspx" class="footer">Resources</a><br />
+				<a href="/Library/tabid/78/Default.aspx" class="footer">Library</a><br />
+				<a href="/Directories/tabid/71/Default.aspx" class="footer">Directories</a><br />
+				<a href="/Blogs/tabid/3207/Default.aspx" class="footer">Blogs</a><br />
+				<a href="/AskForum.aspx" class="footer">Ask@</a><br />
+				<a href="/ProductShowcase.aspx" class="footer">Showcase</a><br />		
+				<a href="/Education/MastersofEngineeringManagement.aspx" class="footer">Masters of Engineering Management</a><br />				
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">For Advertisers</strong><br />
+				<a href="http://advertise.engineering.com/media-guide-product-offerings-directory" class="footer" target="_blank">Advertise With Us</a><br />
+				<a href="http://advertise.engineering.com/industry-solutions" class="footer" target="_blank">Industry Solutions</a><br />
+				<a href="http://advertise.engineering.com/digitalportfolio" class="footer" target="_blank">Digital Portfolio</a><br />
+				<a href="http://advertise.engineering.com/digital-marketing-for-engineers-blog" class="footer" target="_blank">Digital Marketing Blog</a><br />
+				<a href="http://advertise.engineering.com/media-guide" class="footer" target="_blank">Media Guide</a>
+			</div>		
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">For Contributors</strong><br />
+				<a href="/Home/BecomeaContributor.aspx" class="footer">Apply Here</a><br />
+				<a href="/Home/Contributors.aspx" class="footer">Contributor Directory</a>
+			</div>	
+		</div>        
+	</div>
+</div>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-b0hFPX_Dy1okM"
+};
+</script>
+<script defer type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-b0hFPX_Dy1okM.gif" style="display: none;" alt="Quantcast" border="0" height="1" width="1">
+</noscript>
+<!-- End Quantcast tag -->
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script><script type="text/javascript">
+  document.getElementById("KB_JSTester_JSEnabled").value = "1";
+  if(typeof jQuery != 'undefined'){document.getElementById("KB_JSTester_JQueryVsn").value = jQuery.fn.jquery;}
+</script>
+</form>
+    
+    
+</body>
+</html>

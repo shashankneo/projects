@@ -1,0 +1,1780 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
+<head>
+	<title>Apple Adjusts Its App Store Algorithm, Impacting Some iPad Developers  |  TechCrunch</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta charset="UTF-8">
+			<script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+		<meta name="p:domain_verify" content="6189ff68ce30e30f12b40b3b40873027"/>
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0">
+	<meta http-equiv="cleartype" content="on">
+	<meta name="apple-mobile-web-app-title" content="TechCrunch">
+	<meta name="robots" content="NOYDIR,NOODP" />
+	<link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon.png" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_2x.png" sizes="114x114" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_ipad.png" sizes="72x72" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_ipad_2x.png" sizes="144x144" rel="apple-touch-icon-precomposed" />
+			<link rel="alternate" href="android-app://com.aol.mobile.techcrunch/http/techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" />
+	
+	<script type="text/javascript">window.bN_cfg={h:window.location.hostname};</script>
+	<meta name="google-site-verification" content="4U1OC1LwZlFHAehLhCV4rt3YzWI_AyF7Gb0XqlaVEhE" />
+<meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1438491387&amp;back=http%3A%2F%2Ftechcrunch.com%2F2015%2F07%2F24%2Fapple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="TechCrunch &raquo; Feed" href="http://techcrunch.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TechCrunch &raquo; Comments Feed" href="http://techcrunch.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TechCrunch &raquo; Apple Adjusts Its App Store Algorithm, Impacting Some iPad&nbsp;Developers Comments Feed" href="http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJx9jtFOwzAMRX8Iz6ytKl4Q35IGL/EWJ1HiMvH3uJtAIKAv1r3WObLxWsGXrJQVZYWa1sC5Y+ILdTyTVucvcGsH3/sD/o370sj2Up1uhNArO0okhu1pUudPa4vRbu2euVajYVlqo97BpvAqoNEO/fbua3zjiko++rZmH2F4PI7Y9T3RQTjfJcZclM3rX2Hvi0AFUvFOueQfBU7JcdtTGy2pBIsBjfpW//s+ThhSWVzagBd5Pk7j0zgP8zScPwCASqPa' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Live_Cache = {"ajaxurl":"http:\/\/techcrunch.com","auto_updates":{"live-cache-widget-1-title":"#live-cache-widget-1 h2","live-cache-widget-1-text":"#live-cache-widget-1 div","live-cache-subtitle":".live-island .live-subtitle","live-cache-text":".live-island .vid-caption","live-cache-title-livecaster":".livecaster-title","live-cache-text-livecaster":".livecaster-text"}};
+var gravityInsightsParams = {"type":"content","action":"","site_guid":"fca4fa8af1286d8a77f26033fdeed202"};
+var tcOmniture = {"pageName":"Apple Adjusts Its App Store Algorithm, Impacting Some iPad Developers","prop1":"article","prop2":"apps","prop54":"wordpress","prop9":"tcr:1187230","prop16":"standard-article","prop19":"apple|app-store|mobile|apps|developers|ipad apps","prop23":"07-24-2015","prop64":"gravity","prop65":"original_content","prop22":"sarah-perez","omni_env":"prod"};
+var TC_Async_Head_Scripts = {"tc_ads_wrapper_omniture":"http:\/\/o.aolcdn.com\/os_merge\/?file=\/ads\/adsWrapper.js&file=\/moat\/prod\/moatuac.js"};
+var TC_Google_Analytics_Config = {"account":"UA-991406-1","domain":"techcrunch.com"};
+var tcKorrelate = "post";
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sranalytics = {"version":"0.1.4","pid":"518833fa642b2405ba000008","iframe":"0","title":"Apple Adjusts Its App Store Algorithm, Impacting Some iPad Developers","url":"http:\/\/techcrunch.com\/2015\/07\/24\/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers\/","date":"2015-07-24 15:52:22","channels":["apps","mobile","tc"],"tags":["Apple","app-store","Mobile","Apps","developers","ipad apps"],"authors":["Sarah Perez"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyNkOtqwzAMRl9ortuklP4ZexbHUx15vs2SE7qnn1ba7oLZBgaDdHT4JL0WhcmG9gykvbzXBvV8/TaeHvRvgIroqmHYREw32ObEkPiDjXnCAKoRVOOkJqJT7nAlE0cgEqjT/R4J04Kw/ol54GLsi6pA+Aa9RWg95cmD5Z8unkHC6AWLZrCzrS3ZWQ3b3agNEfBlOuCkPru9/f+lcTm70D3fl/ESmsMkiTEWOWcFIyKTTDgzWtGYxZCtWERJ9V4X4VN83O3H43gYDvvBvwN1xrbY'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tctechcrunch2011.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Yahoo Quietly Acquired Germany&#8217;s Media Group One For $23M In&nbsp;Q1' href='http://techcrunch.com/2015/07/24/yahoo-media-group-one/' />
+<link rel='next' title='Keep Your Apps&nbsp;Playful' href='http://techcrunch.com/2015/07/24/keep-your-apps-playful/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/' />
+<link rel='shortlink' href='http://wp.me/p1FaB8-4YQS' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Ftechcrunch.com%2F2015%2F07%2F24%2Fapple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Ftechcrunch.com%2F2015%2F07%2F24%2Fapple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='http://tctechcrunch2011.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://tctechcrunch2011.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wordpress.com/opensearch.xml" title="WordPress.com" />
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.date" content="2015-07-24 08:52:22" />
+<meta name="sailthru.title" content="Apple Adjusts Its App Store Algorithm, Impacting Some iPad&nbsp;Developers" />
+<meta name="sailthru.tags" content="Apple, app-store, Mobile, Apps, developers, ipad apps" />
+<meta name="sailthru.author" content="&lt;a href=&quot;/author/sarah-perez/&quot; title=&quot;Posts by Sarah Perez&quot; onclick=&quot;s_objectID=&#039;river_author&#039;;&quot; rel=&quot;author&quot;&gt;Sarah Perez&lt;/a&gt; &lt;span class=&quot;twitter-handle&quot;&gt;(&lt;a href=&quot;https://twitter.com/sarahintampa&quot; rel=&quot;external&quot;&gt;@sarahintampa&lt;/a&gt;)&lt;/span&gt;" />
+<meta name="sailthru.image.full" content="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg" />
+<meta name="sailthru.image.thumb" content="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=50" />
+<!-- END Sailthru Horizon Meta Information -->
+
+	<meta property="fb:app_id" content="187288694643718" />
+	<meta property="fb:admins" content="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188" />
+			<meta property="article:publisher" content="https://www.facebook.com/techcrunch" />
+	<meta property="og:site_name" content="TechCrunch" />
+<meta property="og:site" content="social.techcrunch.com" />
+<meta property="og:title" content="Apple Adjusts Its App Store Algorithm, Impacting Some iPad&nbsp;Developers" />
+<meta property="og:description" content="To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which.." />
+<meta property="og:image" content="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=560&amp;h=292&amp;crop=1" />
+<meta property="og:url" content="http://social.techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" />
+<meta property="og:type" content="article" />
+<meta name='twitter:card' content='summary_large_image' />
+<meta name='twitter:image:src' content='https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=560&#038;h=292&#038;crop=1' />
+<meta name='twitter:site' content='@techcrunch' />
+<meta name='twitter:url' content='http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/' />
+<meta name='twitter:description' content='To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which can impact developers’ standings in&hellip;' />
+<meta name='twitter:title' content='Apple Adjusts Its App Store Algorithm, Impacting Some iPad&hellip;' />
+<meta class="swiftype" name="author" data-type="string" content="Sarah Perez" />
+<meta class="swiftype" name="title" data-type="string" content="Apple Adjusts Its App Store Algorithm, Impacting Some iPad Developers" />
+<meta class="swiftype" name="image" data-type="enum" content="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=150" />
+<meta class="swiftype" name="object_type" data-type="string" content="post" />
+<meta class="swiftype" name="url" data-type="enum" content="http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" />
+<meta class="swiftype" name="timestamp" data-type="date" content="2015-07-24 08:52:22" />
+<meta class="swiftype" name="content" data-type="text" content="To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which can impact developers&#039; standings in the App Store charts, which ultimately can impact their visibility, downloads, and revenue. Around a week ago, it appears that Apple yet again tweaked the way its rankings worked, but this time around, the changes have only impacted a subset of iPad app developers in the U.S. App Store. No one knows the specifics of how Apple&#039;s App Store ranking algorithm works, but it&#039;s generally understood to take into account factors like download volume, velocity, and possibly other metrics like ratings or engagement. There are a number of ways to spot a possible rankings change, but one of the easiest is to keep an eye on the rankings of top mobile apps, like Facebook and others. Because of the size and reach of these applications, a significant movement of these apps in the App Store charts can&hellip;" />
+<meta class="swiftype" name="excerpt" data-type="text" content="To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which can impact developers’ standings in the App Store charts, which ultimately can impact their visibility, downloads, and revenue. Around a week ago, it appears that Apple yet again tweaked the way its rankings worked, but this time around&hellip;" />
+<meta class="swiftype" name="category" data-type="string" content="Apps" />
+<meta class="swiftype" name="category" data-type="string" content="Mobile" />
+<meta class="swiftype" name="category" data-type="string" content="TC" />
+<meta class="swiftype" name="tag" data-type="string" content="Apple" />
+<meta class="swiftype" name="tag" data-type="string" content="app-store" />
+<meta class="swiftype" name="tag" data-type="string" content="Mobile" />
+<meta class="swiftype" name="tag" data-type="string" content="Apps" />
+<meta class="swiftype" name="tag" data-type="string" content="developers" />
+<meta class="swiftype" name="tag" data-type="string" content="ipad apps" />
+	<meta name="description" content="To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which.." />
+	<script type="text/javascript">var ajaxurl = "http://techcrunch.com/wp-admin/admin-ajax.php"</script><meta name="application-name" content="TechCrunch" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Startup and Technology News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://techcrunch.com/feed/;icon-uri=http://0.gravatar.com/blavatar/ad5b2a2b10ddd8fc4e4588abd4e12a84?s=16" />
+	<style type="text/css">#site-logo { background: url(http://s0.wp.com/wp-content/themes/vip/techcrunch-2013/images/logos/green.png) no-repeat !important; }</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+	<script src="http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js" type="text/javascript"></script>
+	<!--[if lte IE 8 ]>
+	<script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/respond.min.js"></script>
+	<![endif]-->
+	<meta name="st:robots" content="follow, index">
+</head>
+<body class="single single-post postid-1187230 single-format-standard mobile-header-ad mp6 customizer-styles-applied highlander-enabled highlander-light">
+
+	<header class="header header-fixed-mobile cf header-context-news" role="banner">
+
+	<div class="ad-top-mobile">
+		<div id="adsDivbc5b44b6d5" class="mobile-ads-center"></div>
+<script>
+/* <![CDATA[ */
+if (ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizePortrait === 'function' ) {
+					window.adsResizePortrait('1');
+				}
+			}
+			window.htmlAdWH('93414655', ads.width(), ads.height(), 'f', 'adsDivbc5b44b6d5');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script>	</div>
+
+	<div class="nav-bar">
+		<div class="lc">
+			<div class="lc">
+				<a href="#" class="nav-mobile icon-hamburger"><span class="is-vishidden">Menu</span></a>
+				<a href="/" class="logo-link" title="TechCrunch" data-omni-sm="gbl_topnav"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" alt="TechCrunch" class="logo"></a>
+				<a href="#" class="search-form-toggle icon-mag"><span class="is-vishidden">Search</span></a>
+				<a href="#" class="trending-nav-mobile icon-trending"></a>
+
+				<div class="header-logo-bar cf">
+
+					<div class="header-social">
+						<ul class="inline-list social-list sprite-social">
+							<li class="nav-followus">Follow Us</li><li class="first">
+								<a href="https://www.facebook.com/techcrunch" rel="external" class="spricon nosprite icon-facebook" target="_blank"><span class="is-vishidden">Facebook</span></a>
+							</li><li>
+								<a href="https://instagram.com/techcrunch" rel="external" class="spricon nosprite icon-instagram" target="_blank"><span class="is-vishidden">Instagram</span></a>
+							</li><li>
+								<a href="https://twitter.com/techcrunch" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a>
+							</li><li class="youtube nav-aux">
+								<a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a>
+							</li><li class="flipboard nav-aux">
+								<a href="https://flipboard.com/@techcrunch" rel="external" class="spricon nosprite icon-flipboard" target="_blank"><span class="is-vishidden">Flipboard</span></a>
+							</li><li class="linkedin nav-aux">
+								<a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a>
+							</li><li class="nav-aux">
+								<a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a>
+							</li><li class="rss nav-aux">
+								<a href="/rssfeeds/" class="spricon nosprite icon-rss"><span class="is-vishidden">RSS</span></a>
+							</li>
+							<li class="nav-social-more">
+								<a href="#" class="icon-caret-down"><span class="is-vishidden">More</span></a>
+								<ul>
+									<li class="youtube">
+										<a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a>
+									</li><li class="flipboard">
+										<a href="https://flipboard.com/@techcrunch" rel="external" class="spricon nosprite icon-flipboard" target="_blank"><span class="is-vishidden">Flipboard</span></a>
+									</li><li class="linkedin">
+										<a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a>
+									</li><li class="google-plus">
+										<a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a>
+									</li><li class="rss">
+										<a href="/rssfeeds/" class="spricon nosprite icon-rss"><span class="is-vishidden">RSS</span></a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+
+						<div class="header-tip">
+							<a href="/got-a-tip/" data-omni-sm="gbl_topnav">
+								Got a tip? <span>Let us know.</span>
+							</a>
+						</div>
+					</div>
+
+					<nav class="nav-primary">
+	<ul class="nav" id="nav">
+		<li class="nav-level1 nav-news">
+			<a href="/" class="nav-parent icon-caret-down">News</a>
+
+			<div class="nav-subnav single-col">
+				<ul class="nav-col">
+					<li class="subnav-title">Channels</li>
+					<ul class="subnav-channel" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-899745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899745"><a href="http://techcrunch.com/startups/">Startups</a></li>
+<li id="menu-item-899746" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-899746"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
+<li id="menu-item-899747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899747"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
+<li id="menu-item-899748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899748"><a href="http://techcrunch.com/enterprise/">Enterprise</a></li>
+<li id="menu-item-899749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899749"><a href="http://techcrunch.com/social/">Social</a></li>
+<li id="menu-item-899750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899750"><a href="http://techcrunch.com/europe/">Europe</a></li>
+<li id="menu-item-901944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901944"><a href="/asia">Asia</a></li>
+<li id="menu-item-1176380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176380"><a href="http://techcrunch.com/crunch-network/">Crunch Network</a></li>
+</ul>				</ul>
+				<div class="nav-col nav-col-border">
+					<a href="http://techcrunch.com/topic/">All Topics</a>
+					<a href="http://techcrunch.com/gallery/">All Galleries</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-level1 nav-shows">
+			<a href="/video/" class="nav-parent icon-caret-down">Video</a>
+
+			<div class="nav-subnav">
+				<div class="subnav-title">Shows</div>
+				<ul class="nav-col">
+					<ul class="subnav-tctv-shows-left" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-1187079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1187079"><a href="http://techcrunch.com/video/bullish/">Bullish</a></li>
+<li id="menu-item-1134050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1134050"><a href="http://techcrunch.com/video/crunchreport/">Crunch Report</a></li>
+<li id="menu-item-899755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899755"><a href="http://techcrunch.com/video/crunchweek/">CrunchWeek</a></li>
+<li id="menu-item-1188451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1188451"><a href="http://techcrunch.com/video/fly-or-die/">Fly or Die</a></li>
+</ul>				</ul>
+				<ul class="nav-col">
+					<ul class="subnav-tctv-shows-left" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-899762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899762"><a href="http://techcrunch.com/video/tc-cribs/">TC Cribs</a></li>
+<li id="menu-item-1106527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106527"><a href="http://techcrunch.com/video/techcrunch-gadgets/">TC Gadgets</a></li>
+<li id="menu-item-1188453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1188453"><a href="http://techcrunch.com/video/interviews/">TC Interviews</a></li>
+<li id="menu-item-1187083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1187083"><a href="http://techcrunch.com/video/tctv-news/">TCTV News</a></li>
+</ul>				</ul>
+				<div class="subnav-separator"></div>
+				<div class="nav-col nav-col-border">
+					<a href="/video/">All Shows</a>
+				</div>
+				<div class="nav-col nav-col-border">
+					<a href="/video/all/">All Videos</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-level1 nav-events">
+			<a href="/events/" class="nav-parent icon-caret-down">Events</a>
+
+			<div class="nav-subnav">
+				<ul class="nav-col">
+					<li class="subnav-title">TechCrunch Events</li>
+					<ul class="subnav-events-tc-events" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-899739" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899739"><a href="http://techcrunch.com/event-type/disrupt/">Disrupt</a></li>
+<li id="menu-item-936211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-936211"><a href="http://techcrunch.com/startup-battlefield/">Startup Battlefield</a></li>
+<li id="menu-item-899740" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899740"><a href="http://techcrunch.com/event-type/crunchies-23/">Crunchies</a></li>
+<li id="menu-item-899741" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899741"><a href="http://techcrunch.com/event-type/meetups/">Meetups</a></li>
+<li id="menu-item-899742" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899742"><a href="http://techcrunch.com/event-type/international-city/">International City Events</a></li>
+<li id="menu-item-899744" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899744"><a href="http://techcrunch.com/event-type/hackathon-2/">Hackathon</a></li>
+<li id="menu-item-1084973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1084973"><a href="http://techcrunch.com/events/include">Include</a></li>
+</ul>				</ul>
+				<ul class="nav-col">
+					<li class="subnav-title">News About</li>
+					<ul class="subnav-events-news-about" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-1021048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021048"><a href="http://techcrunch.com/events/google-io/">Google I/O 2014</a></li>
+<li id="menu-item-899737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899737"><a href="http://techcrunch.com/events/ces-2015/">CES</a></li>
+<li id="menu-item-899736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899736"><a href="http://techcrunch.com/event-type/sxsw-2/">SXSW</a></li>
+<li id="menu-item-1010535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1010535"><a href="http://techcrunch.com/events/wwdc-2014/">WWDC 2014</a></li>
+</ul>				</ul>
+				<div class="subnav-separator"></div>
+				<div class="nav-col-border">
+					<a href="/events/">All Events</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-crunchbase">
+			<a href="https://www.crunchbase.com" class="nav-parent">CrunchBase</a>
+		</li>
+	</ul>
+</nav>
+
+		<nav class="nav-trending">
+			<ul class="nav">
+				<li id="trending-icon">
+					Trending
+					<i class="icon-trending"></i>
+				</li>
+				<li id="menu-item-1190433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1190433"><a href="http://techcrunch.com/topic/company/mozilla/">Mozilla</a></li>
+<li id="menu-item-899778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899778"><a href="http://techcrunch.com/topic/company/twitter/">Twitter</a></li>
+<li id="menu-item-899781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899781"><a href="http://techcrunch.com/tag/apple/">Apple</a></li>
+			</ul>
+		</nav>
+
+		<nav class="nav-contextual">
+			<ul class="nav">
+				<li class="nav-news">
+					<a href="/" class="nav-parent">News</a>
+				</li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899745"><a href="http://techcrunch.com/startups/">Startups</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-899746"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899747"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899748"><a href="http://techcrunch.com/enterprise/">Enterprise</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899749"><a href="http://techcrunch.com/social/">Social</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899750"><a href="http://techcrunch.com/europe/">Europe</a></li>
+			</ul>
+		</nav>
+	
+										<form action="/" method="get" class="search-form">
+						<fieldset>
+							<legend>Search TechCrunch</legend>
+							<label for="s">Search TechCrunch</label>
+							<input type="search" placeholder="Search" class="search-field" name="s" value="" />
+							<button class="search-submit">
+								<span class="icon-mag" aria-hidden="true"></span>
+								<span class="is-vishidden">Search</span>
+							</button>
+							<button class="search-close">
+								<span class="icon-close" aria-hidden="true"></span>
+								<span class="is-vishidden">Search</span>
+							</button>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</header>
+
+<div class="header-ad">
+	<div id="adsDiv8bc7ce0942" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizePortrait === 'function' ) {
+					window.adsResizePortrait('1');
+				}
+			}
+			window.htmlAdWH('93458639', "LB", "LB", 'f', 'adsDiv8bc7ce0942');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+
+
+		<div class="announcement announcement-flat-background announcement-centered">
+			<div class="lc">
+				<div class="announcement-bg">
+										<div class="announcement_left">
+						<a href="http://techcrunch.com/events/disrupt-sf-2015/tickets/?utm_medium=announcementbar&#038;utm_campaign=disruptsf&#038;utm_source=tc">
+														<span class="announcement-text">
+							<strong class="announcement-headline">Disrupt SF</strong>&nbsp;Kleiner Perkins General Partner John Doerr to Speak At Disrupt SF								<span class="announcement-link-text">
+																			Get $1,000 Off Tickets Now																												<span class="icon-caret-right"></span>
+																	</span>
+						</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Begin: Article Body Content - Main -->
+<div role="main" class="fluid" style="">
+	<!-- Begin: Article - Primary -->
+	<article class="article lc">
+		<div class="l-two-col-expose">
+
+			<!-- Begin: Article Content - Body Right Column -->
+			<div class="l-main-container">
+				<div class="l-main">
+				
+				<!-- Begin: Article Header -->
+				<header class="article-header page-title">
+					<!-- Begin: Article Eyebrows -->
+<div class="tags">
+	
+			<div class="tag-item">
+				<a href="http://techcrunch.com/apps/" class="tag" data-omni-sm="art_articlecategory">Apps</a>
+
+				<div class="links" id="tc-tag-item-apps">
+					<ul class="recirc-river river-small g g-1-2-1">
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/08/01/a-conversation-with-michael-lopp-pinterests-head-of-engineering/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/lopp21.png?w=150" alt="A Conversation With Michael Lopp, Pinterest&#8217;s Head Of&nbsp;Engineering" />
+
+					<div class="block-content">
+						<h3>A Conversation With Michael Lopp, Pinterest&#8217;s Head Of&nbsp;Engineering</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-08-01 07:00:03"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/31/dropbox-arrives-on-roku-with-an-app-for-viewing-your-personal-photos-and-movies/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/ad40c46d5fcf42af89faa19aa9b05b70.jpg?w=150" alt="Dropbox Arrives On Roku With An App For Viewing Your Personal Photos And&nbsp;Movies" />
+
+					<div class="block-content">
+						<h3>Dropbox Arrives On Roku With An App For Viewing Your Personal Photos And&nbsp;Movies</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-31 11:13:23"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/31/mytape-is-a-video-sharing-app-to-capture-and-see-the-world-around-you/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/mytape-2.jpg?w=150" alt="MyTape Is A Video-Sharing App To Capture And See The World Around&nbsp;You" />
+
+					<div class="block-content">
+						<h3>MyTape Is A Video-Sharing App To Capture And See The World Around&nbsp;You</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-31 10:39:39"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+	
+	<li>
+		<div class="block-small">
+			<a class="block-wrapper" href="http://techcrunch.com/apps/">
+				<div class="block-content">
+					<h3>Browse more...</h3>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>
+
+				</div>
+			</div>
+		
+			<div class="tag-item">
+				<a href="http://techcrunch.com/topic/company/apple/" class="tag" data-omni-sm="art_articlecategory">Apple</a>
+
+				<div class="links" id="tc-tag-item-apple">
+					<ul class="recirc-river river-small g g-1-2-1">
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/31/maybe-there-doesnt-need-to-be-an-apple-watch-app-for-everything/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-27-at-6-57-27-pm.png?w=150" alt="Maybe There Doesn&#8217;t Need To Be An Apple Watch App For&nbsp;Everything" />
+
+					<div class="block-content">
+						<h3>Maybe There Doesn&#8217;t Need To Be An Apple Watch App For&nbsp;Everything</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-31 09:15:16"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/31/apple-to-release-new-apple-tv-in-september-report-says/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/apple-tv.jpg?w=150" alt="Apple To Release New Apple TV In September, Report&nbsp;Says" />
+
+					<div class="block-content">
+						<h3>Apple To Release New Apple TV In September, Report&nbsp;Says</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-31 04:50:54"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/27/apple-showcases-watch-apps-with-short-sweet-new-ads/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-27-at-6-57-27-pm.png?w=150" alt="Apple Showcases Watch Apps With Short, Sweet New&nbsp;Ads" />
+
+					<div class="block-content">
+						<h3>Apple Showcases Watch Apps With Short, Sweet New&nbsp;Ads</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-27 19:16:49"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+	
+	<li>
+		<div class="block-small">
+			<a class="block-wrapper" href="http://techcrunch.com/topic/company/apple/">
+				<div class="block-content">
+					<h3>Browse more...</h3>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>
+
+				</div>
+			</div>
+		
+			<div class="tag-item">
+				<a href="http://techcrunch.com/tag/apps/" class="tag" data-omni-sm="art_articlecategory">Apps</a>
+
+				<div class="links" id="tc-tag-item-apps">
+					<ul class="recirc-river river-small g g-1-2-1">
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/30/fashion-startup-everlane-arrives-on-mobile-with-an-app-catering-to-its-biggest-fans/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-30-at-3-01-14-pm.png?w=150" alt="Fashion Startup Everlane Arrives On Mobile With An App Catering To Its Biggest&nbsp;Fans" />
+
+					<div class="block-content">
+						<h3>Fashion Startup Everlane Arrives On Mobile With An App Catering To Its Biggest&nbsp;Fans</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-30 12:24:43"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/30/pixar-alum-led-toytalk-teams-up-with-mattel-to-let-kids-chat-with-thomas-the-tank-engine-and-friends/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-30-at-12-37-40-pm.png?w=150" alt="Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With “Thomas The Tank Engine” And&nbsp;Friends" />
+
+					<div class="block-content">
+						<h3>Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With “Thomas The Tank Engine” And&nbsp;Friends</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-30 09:53:38"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/29/subway-and-paypal-team-up-on-mobile-payments/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-28-at-9-34-31-pm.png?w=107" alt="Subway Teams Up With PayPal On Mobile&nbsp;Payments" />
+
+					<div class="block-content">
+						<h3>Subway Teams Up With PayPal On Mobile&nbsp;Payments</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-29 06:00:07"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+	
+	<li>
+		<div class="block-small">
+			<a class="block-wrapper" href="http://techcrunch.com/tag/apps/">
+				<div class="block-content">
+					<h3>Browse more...</h3>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>
+
+				</div>
+			</div>
+		
+			<div class="tag-item">
+				<a href="http://techcrunch.com/tag/mobile/" class="tag" data-omni-sm="art_articlecategory">Mobile</a>
+
+				<div class="links" id="tc-tag-item-mobile">
+					<ul class="recirc-river river-small g g-1-2-1">
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/30/fashion-startup-everlane-arrives-on-mobile-with-an-app-catering-to-its-biggest-fans/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-30-at-3-01-14-pm.png?w=150" alt="Fashion Startup Everlane Arrives On Mobile With An App Catering To Its Biggest&nbsp;Fans" />
+
+					<div class="block-content">
+						<h3>Fashion Startup Everlane Arrives On Mobile With An App Catering To Its Biggest&nbsp;Fans</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-30 12:24:43"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/30/pixar-alum-led-toytalk-teams-up-with-mattel-to-let-kids-chat-with-thomas-the-tank-engine-and-friends/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-30-at-12-37-40-pm.png?w=150" alt="Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With “Thomas The Tank Engine” And&nbsp;Friends" />
+
+					<div class="block-content">
+						<h3>Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With “Thomas The Tank Engine” And&nbsp;Friends</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-30 09:53:38"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/29/subway-and-paypal-team-up-on-mobile-payments/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-28-at-9-34-31-pm.png?w=107" alt="Subway Teams Up With PayPal On Mobile&nbsp;Payments" />
+
+					<div class="block-content">
+						<h3>Subway Teams Up With PayPal On Mobile&nbsp;Payments</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-29 06:00:07"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+	
+	<li>
+		<div class="block-small">
+			<a class="block-wrapper" href="http://techcrunch.com/tag/mobile/">
+				<div class="block-content">
+					<h3>Browse more...</h3>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>
+
+				</div>
+			</div>
+		
+			<div class="tag-item">
+				<a href="http://techcrunch.com/tag/app-store/" class="tag" data-omni-sm="art_articlecategory">app-store</a>
+
+				<div class="links" id="tc-tag-item-app-store">
+					<ul class="recirc-river river-small g g-1-2-1">
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/28/report-recent-app-store-algorithm-change-points-to-crackdown-on-keyword-stuffing/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=150" alt="Report: Recent App Store Algorithm Change Points To Crackdown On &#8220;Keyword&nbsp;Stuffing&#8221;" />
+
+					<div class="block-content">
+						<h3>Report: Recent App Store Algorithm Change Points To Crackdown On &#8220;Keyword&nbsp;Stuffing&#8221;</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-28 09:52:33"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/26/when-selling-virtual-products-abroad-dont-put-prices-on-autopilot/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2014/05/pure-internet1.jpg?w=150" alt="When Selling Virtual Products Abroad, Don’t Put Prices On&nbsp;Autopilot" />
+
+					<div class="block-content">
+						<h3>When Selling Virtual Products Abroad, Don’t Put Prices On&nbsp;Autopilot</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-26 15:00:13"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+			<li>
+			<div class="block-small">
+				<a class="block-wrapper" href="http://techcrunch.com/2015/07/23/i-dont-want-your-app/">
+					<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/5722778376_3f79a79c4b_b.jpg?w=150" alt="Annoyed By Mobile Sites That &#8220;Ask&#8221; You To Download Their App? You&#8217;re Not&nbsp;Alone" />
+
+					<div class="block-content">
+						<h3>Annoyed By Mobile Sites That &#8220;Ask&#8221; You To Download Their App? You&#8217;re Not&nbsp;Alone</h3>
+
+						<div class="block-meta">
+							<div class="byline">
+								<time datetime="2015-07-23 11:02:26"></time>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+		</li>
+	
+	<li>
+		<div class="block-small">
+			<a class="block-wrapper" href="http://techcrunch.com/tag/app-store/">
+				<div class="block-content">
+					<h3>Browse more...</h3>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>
+
+				</div>
+			</div>
+		</div>
+<!-- End: Article Eyebrows -->
+
+					
+					<h1 class="alpha tweet-title">Apple Adjusts Its App Store Algorithm, Impacting Some iPad Developers</h1>
+					<div class="title-left">
+					<div class="byline">
+	Posted <time datetime="2015-07-24" class="timestamp">Jul 24, 2015</time> by <a href="/author/sarah-perez/" title="Posts by Sarah Perez" onclick="s_objectID='river_author';" rel="author">Sarah Perez</a> <span class="twitter-handle">(<a href="https://twitter.com/sarahintampa" rel="external">@sarahintampa</a>)</span></div>
+<!-- Begin: Social Share Icons -->
+<div class="social-share social-share-inline">
+	<ul class="inline-list social-share-list" id="social-share" data-permalink="http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" data-shortlink="http://tcrn.ch/1CZkv6D" data-shareTitle="Apple Adjusts Its App Store Algorithm, Impacting Some iPad&nbsp;Developers" data-post-id="1187230">
+				<li class="total-shares">
+			<h5 class="total-shares-count">0</h5><br />
+			<small>SHARES</small>
+		</li>
+							<li>
+				<a href="#comments" rel="external" class="comment icon-comment launch-social-load"></a>
+			</li>
+		
+		<li>
+			<a href="#" rel="external" class="facebook icon-facebook"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="twitter icon-twitter"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="linkedin icon-linkedin"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="google-plus icon-google-plus"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="reddit icon-reddit"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="stumbleupon icon-stumbleupon"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="email icon-email"></a>
+		</li>
+		<li>
+			<a href="#" rel="external" class="flipboard icon-flipboard"></a>
+		</li>
+			</ul>
+</div>
+
+<div class="social-share social-share-fixed">
+	<div class="less">
+		<a class="blank"></a>
+		<a class="icon-flipboard" href="#"></a>
+		<a class="icon-stumbleupon" href="#"></a>
+		<a class="icon-reddit" href="#"></a>
+		<a class="icon-email" href="#"></a>
+	</div>
+
+	<div class="shown">
+		<a class="icon-facebook" href="#"></a>
+		<a class="icon-twitter" href="#"></a>
+		<a class="icon-linkedin" href="#"></a>
+		<a class="icon-whatsapp" href="#"></a>
+		<a class="icon-email" href="#"></a>
+	</div>
+</div>
+
+<!-- End: Social Share Icons -->
+
+					</div>
+					<a href="http://techcrunch.com/2015/07/24/yahoo-media-group-one/" class="next-link" data-omni-sm="art_nextstory">
+						<div class="next-story-link">Next Story</div>
+						<div class="next-story-full">
+							<h4 class="next-title">Yahoo Quietly Acquired Germany&#8217;s Media Group One For $23M In&nbsp;Q1</h4>
+						</div>
+					</a>
+				</header>
+				<!-- End: Article Header -->
+
+				<!-- Begin: Article Body -->
+				<div class="l-two-col">
+
+					<!-- Begin: Article Body - Main -->
+					<div class="l-main-container">
+						<div class="l-main">
+							<div class="article-entry text">
+
+<!-- Begin: Wordpress Article Content -->
+<img src="https://tctechcrunch2011.files.wordpress.com/2015/07/app-store.jpg?w=738" class="" />
+<p>To keep the playing field level and fair for all app developers, Apple <a href="http://techcrunch.com/2013/08/23/apples-app-store-rankings-algorithm-changed-to-favor-ratings-and-possibly-engagement/">on occasion</a> <a href="http://techcrunch.com/2013/09/06/new-report-on-apples-app-store-algorithm-change-shows-how-even-a-minor-ratings-shift-affects-top-apps/">changes</a> the <a href="http://techcrunch.com/2012/06/29/looks-like-apple-has-changed-its-app-store-algorithm-again/">way</a> its App Store ranking algorithm <a href="http://techcrunch.com/2013/12/13/widespread-apple-app-store-search-rankings-change-sees-ios-apps-moved-over-40-spots-on-average/">works</a>, the fallout of which can impact developers’ standings in the App Store charts, which ultimately can impact their visibility, downloads, and revenue. Around a week ago, it appears that Apple yet again tweaked the way its rankings worked, but this time around, the changes have only impacted a subset of iPad app developers in the U.S. App Store.</p>
+<p>No one knows the specifics of how Apple’s App Store ranking algorithm works, but it’s generally understood to take into account factors like download volume, velocity, and <a href="http://techcrunch.com/2013/08/23/apples-app-store-rankings-algorithm-changed-to-favor-ratings-and-possibly-engagement/">possibly other metrics like ratings or engagement.</a></p>
+<p>There are a number of ways to spot a possible rankings change, but one of the easiest is to keep an eye on the rankings of top mobile apps, like Facebook and others. Because of the size and reach of these applications, a significant movement of these apps in the App Store charts can indicate that Apple could be making adjustments to how apps are weighted.</p>
+<p>Of course, those changes can also just point to a rankings glitch, so the only way to determine if the App Store algorithm has actually changed is to survey the market in the days that follow to see if developers are seeing major changes following a sudden drop or spike in their rankings.</p>
+<p>Beginning on Friday, July 17, something odd happened with Apple’s App Store rankings.</p>
+<blockquote class="twitter-tweet" lang="en">
+<p dir="ltr" lang="en">Yes. something has happened. but what? <a target="_blank" href="http://t.co/eLBc2SuvJJ">pic.twitter.com/eLBc2SuvJJ</a></p>
+<p>— Ouriel Ohayon (@OurielOhayon) <a target="_blank" href="https://twitter.com/OurielOhayon/status/623672086289104897">July 22, 2015</a></p>
+</blockquote>
+<p>Facebook’s iPad app offers a good example of the change, as its app moved from a No. 2 position in “Social Networking” and a No. 7 ranking “Overall” the day before, down to No. 4 and No. 24, respectively, on Friday, and then it crashed to No. 38 in “Social Networking” and a practically invisible No. 858 “Overall” by Monday.</p>
+<p>The app’s download ranking has since begun climbing back up, reaching No. 2 again in “Social Networking,” and No. 9 “Overall” by mid-week.</p>
+<p><img class="aligncenter size-large wp-image-1187258" src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-24-at-10-37-50-am.png?w=680&#038;h=487" alt="Screen Shot 2015-07-24 at 10.37.50 AM" width="680" height="487"></p>
+<p>However, not all developers saw their rankings recover similarly, which is the most telling sign that this could be more than “just a glitch.”</p>
+<p>Another indicator of an App Store algorithm change involves looking at the top mobile apps on the App Store and checking their ranking for particular keywords. If you see that there’s been a dramatic change in the keywords they rank for, then it’s a good indicator that there has been an algorithm change (presuming, of course, there hadn’t been an app update that caused the fluctuation.)</p>
+<p>You can see in a number of top apps, including Facebook, Twitter, Instagram, Minecraft, YouTube and Snapchat, that there was a very large change that impacted the keyword rankings beginning on July 17. (See below.)</p>
+<div class="slideshow slideshowify">
+    <ol><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-1.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-1.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-1.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-1.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed (1)</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-2.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-2.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-2.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-2.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed (2)</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-5.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-5.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-5.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-5.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed (5)</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-4.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-4.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-4.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-4.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed (4)</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-3.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-3.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-3.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed-3.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed (3)</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li><li>
+		            <div class="image"><img data-thumb="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed5.png?w=80&amp;h=60&amp;crop=1" data-full-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed5.png" data-large-size-image="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed5.png?w=1&#038;h=1" data-trigger-notification="1" data-scalable="false" alt="" data-src="https://tctechcrunch2011.files.wordpress.com/2015/07/unnamed5.png?w=1&#038;h=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></div>
+		            <h3 class="title">unnamed</h3>
+		            <div class="caption"></div>
+		            <div class="credit"></div>
+		        </li></ol>
+	    <div class="enter-wrapper">
+	        <a class="enter" href="#">&nbsp;<span class="enter-text">View Slideshow</span></a>
+	    </div>
+	    <div class="controls">
+	        <a class="prev icon-arrow-left" href="#"><span class="is-vishidden">Previous</span></a>
+	        <a class="next icon-arrow" href="#"><span class="is-vishidden">Next</span></a>
+	        <a class="exit" href="#">Exit</a>
+	    </div>
+	</div>
+<p>The question on many developers’ minds after seeing a massive drop in their rankings followed by a subsequent climb back up the charts was if this change was merely an App Store bug or if Apple had made a longer-lasting adjustment.</p>
+<p>We reached out to mobile marketing firm <a target="_blank" href="http://www.fiksu.com">Fiksu</a>, which confirmed that it had also observed non-standard App Store behavior beginning last Friday that affected iPad rankings over the course of several days.</p>
+<p>“The apps that dropped have jumped significantly back up today,” noted Fiksu’s Chief Strategy Officer, Craig Palli on Wednesday, “but not all of them have returned to the ranks that they were at before the drop started on Friday,” he says. While he noted that the company is still investigating, as of now, it appears to be consistent with historical ranking protocol changes.</p>
+<h2>iPad Category Rankings Most Affected</h2>
+<p>In addition, in speaking with well over a dozen app developers about their individual experiences following their iPad apps’ crash in the App Store charts, we learned that a majority did see a massive drop in the charts beginning on Friday, mostly with regard to their Category rankings.</p><div>
+<div id="adsDiv0dbb24e604" class="native-ad-mobile"></div>
+<script>
+/*  */
+(function(window){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function() {
+			if (window.ads.isMobile()) {
+				window.adSetInView('1');
+				window.htmlAdWH('93457287', '320', '115', 'text', 'adsDiv0dbb24e604');
+				window.adSetInView('0');
+			}
+		});
+	}(this));
+/*  */
+</script>
+</div>
+<p>Those who claimed they weren’t affected, in some cases only had an iPhone application (which works on iPad, but is not a true iPad app), or described their app as being “low volume,” – meaning that their app has so few regular downloads that even an App Store ranking algorithm change wouldn’t push it up or down in the charts by a significant amount.</p>
+<p>While many reported that, by later in the week, their apps’ rankings returned to “normal,” or at least close to where they were before, that wasn’t true for everyone.</p>
+<p><img class="aligncenter size-large wp-image-1187270" src="https://tctechcrunch2011.files.wordpress.com/2015/07/example-crash.png?w=680&#038;h=323" alt="example-crash" width="680" height="323"></p>
+<p>In some cases, their adjusted ranking represented only a small to medium-sized move – like say, just a few slots or as many as 10 slots lower or higher than before, to cite a couple of examples. Another said they returned to their exact same prior rank after the fluctuations stopped.</p>
+<p><img class="aligncenter  wp-image-1187271" src="https://tctechcrunch2011.files.wordpress.com/2015/07/screen-shot-2015-07-24-at-11-34-24-am.png?w=317&#038;h=306" alt="Screen Shot 2015-07-24 at 11.34.24 AM" width="317" height="306"></p>
+<p>However, some developers saw much larger moves that stuck. For instance, one app moved up nearly 200 spots, then stabilized later in the week with a ranking that was nearly 50 spots higher than before.</p>
+<p>Some developers also reported other odd behavior after the fluctuations, including impacts to their keyword rankings and top grossing chart rankings. For instance, one developer who had one of their best sales day ever thanks to a promotion they were running found they had fallen out of the Top Grossing charts after the algorithm change.</p>
+<p>Others said that keywords they used to rank for now no longer pulled up their app in search at all, or they saw a significant drop in their popular keywords after the changes. Others still saw that different keywords or keyword combinations were working better or worse than before.</p>
+<p>As to why some developers were less affected than others? One guess is because the algorithm adjustment was specifically focused on targeting those who were marketing their apps in a particular way.</p>
+<p>For example, some use keyword optimization (ASO or App Store Optimization), while others rely on paid promotions or ads. If Apple only focused on some subset of these methods when making its adjustments, it follows that only some subset of apps would be affected long-term following the change.</p>
+<p><img class="aligncenter  wp-image-1013770" src="https://tctechcrunch2011.files.wordpress.com/2014/06/appstore.png?w=542&#038;h=395" alt="appstore" width="542" height="395"></p>
+<p>Explains Dan Held, the co-founder at mobile development firm <a target="_blank" href="http://www.analyticadevelopment.com/">Analytica</a>, there are many reasons Apple might have made an adjustment like this.</p>
+<p>While a specific purpose behind this change may be hard to determine (unless Apple comments, which it has not), generally speaking, this change seems to be related to ranking factors, not closing down a hole, Held believes.</p>
+<p>“The purpose of the change is to more accurately rank apps based on criteria Apple deems ‘quality.’ They might have found a large exploit some app developers were taking advantage of,  but this seems more like a very large change of what Apple sees as important ranking factors – reviews, downloads, keywords, etc.,” he says.</p>
+<p>At the end of the day, what’s most interesting about this particular change is that it much more heavily affected iPad applications, instead of iPhone apps. Though there are some examples of iPhone apps being impacted, the biggest movements both during and after the adjustments were among those apps built for iPad. That could indicate that Apple was looking to better its rankings for those who are building specifically for Apple’s tablet, and possibly rewarding the better iPad apps in the process.</p>
+<!-- End: Wordpress Article Content -->
+
+<small>Featured Image: <a target="_blank" href="https://www.flickr.com/photos/glenbledsoe/5540953795/">PhotoAtelier</a>/<a target="_blank" href="https://www.flickr.com/">Flickr</a> UNDER A <a target="_blank" href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> LICENSE</small>
+								
+							</div>
+
+<div id="social-after-wrapper" class="cf social-share social-share-inline social-share-with-bubbles">
+	<ul class="inline-list social-share-list" id="social-after" data-permalink="http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" data-shortlink="http://tcrn.ch/1CZkv6D" data-shareTitle="Apple Adjusts Its App Store Algorithm, Impacting Some iPad&nbsp;Developers" data-post-id="1187230">
+		<li class="total-shares">
+			<h5 class="total-shares-count">0</h5><br />
+			<small>SHARES</small>
+		</li>
+		<li>
+			<div class="bubble total-facebook">0</div>
+			<a href="#" rel="external" class="facebook has-text icon-facebook">Share</a>
+		</li>
+		<li>
+			<div class="bubble total-twitter">0</div>
+			<a href="#" rel="external" class="twitter has-text icon-twitter">Tweet</a>
+		</li>
+		<li>
+			<div class="bubble total-linkedin">0</div>
+			<a href="#" rel="external" class="linkedin has-text icon-linkedin">Share</a>
+		</li>
+		<li>
+			<div class="bubble total-google-plus">0</div>
+			<a href="#" rel="external" class="google-plus icon-google-plus"></a>
+		</li>
+		<li>
+			<div class="bubble total-reddit">0</div>
+			<a href="#" rel="external" class="reddit icon-reddit"></a>
+		</li>
+		<li>
+			<div class="bubble total-stumbleupon">0</div>
+			<a href="#" rel="external" class="stumbleupon icon-stumbleupon"></a>
+		</li>
+		<li>
+			<div class="bubble total-email">0</div>
+			<a href="#" rel="external" class="email icon-email"></a>
+		</li>
+		<li>
+			<div class="bubble bubble-fake"></div>
+			<a href="#" rel="external" class="flipboard icon-flipboard"></a>
+		</li>
+	</ul>
+</div>
+<div id="grv-personalization-56"></div>
+<script>window.TechCrunch.loader.on( 'gravity-beacon', function(){ window.tc_loadGravityScript( 'recirculation' ); } );</script><div class="ad-cluster-container ad-cluster-no-ad" style="display: none;">
+	<small class="advertise-here"><a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">Advertisement</a></small>
+	<ul class="ad-cluster" data-adcount="4">
+	</ul>
+</div>
+						</div>
+					</div>
+					<!-- End: Article Body - Main -->
+
+					<!-- Begin: Article Body - Sidebar -->
+					<div class="l-sidebar">
+<div class="ad-unit ad-300x250">
+	<small class="advertise-here">
+		<a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">
+			Advertisement		</a>
+	</small>
+	<!-- Begin: Right Rail Advertisement -->
+		<div id="adsDiv8729c482eb" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizePortrait === 'function' ) {
+					window.adsResizePortrait('1');
+				}
+			}
+			window.htmlAdWH('93315573', "RR", "RR", 'f', 'adsDiv8729c482eb');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script>	<!-- End: Right Rail Advertisement -->
+</div>
+
+<div class="section">
+	<div id="adsDiv86dbedfc0c" class="mobile-ads-center"></div>
+<script>
+/* <![CDATA[ */
+if (ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizePortrait === 'function' ) {
+					window.adsResizePortrait('1');
+				}
+			}
+			window.adSetInView('1');
+			window.htmlAdWH('93446229', "300", "250", 'f', 'adsDiv86dbedfc0c');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div><!-- Begin: Crunchbase Shoal -->
+<div class="section aside crunchbase-cluster collapse">
+<h3 class="section-title collapse-title">CrunchBase</h3>
+
+<div class="collapse-body">
+<ul class="crunchbase-accordion">
+		<!-- Begin: CrunchBase Card -->
+		<li class="data-card crunchbase-card active" data-crunchbase-url="https://crunchbase.com/organization/apple/">
+		<h4 class="card-title card-acc-handle">
+			<a class="cb-card-title-link" href="https://crunchbase.com/organization/apple/">
+				Apple			</a>
+		</h4>
+
+		<div class="card-acc-panel">
+		<ul class="card-info">					<li>
+						<strong class="key">Founded</strong>
+						<span class="value">1976</span>
+					</li>
+										<li>
+						<strong class="key">&nbsp;</strong>
+						<span class="value">&nbsp;</span>
+					</li>
+									<li class="cb-card-description full">
+						<strong class="key">Overview</strong>
+						<span class="value">Apple is a multinational corporation that designs, manufactures, and markets mobile communication and media devices, personal computers, portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications.
+
+Apple provides many products and services, including iPhone; iPad; iPod; Mac; iPod; Apple TV; a &hellip;</span>
+					</li>
+
+																								<li class="full">
+								<strong class="key">Location</strong>
+								<span class="value">
+																		<a href="http://crunchbase.com/location/cupertino/d66d4982f32de52fa88aaa07a88fe13e">Cupertino, California</a>
+								</span>
+							</li>
+						
+																			<li class="full">
+								<strong class="key">Categories</strong>
+								<span class="value">
+																													<a class="" href="http://crunchbase.com/category/computers/26e64a652efb7bb72c130091ac683791">Computers</a>, 																													<a class="" href="http://crunchbase.com/category/electronics/e173f2553db19d0274cbf58a1f45b483">Electronics</a>, 																													<a class="" href="http://crunchbase.com/category/consumer-electronics/89da20c4f7c51b6c6ec6ca4c272df3c9">Consumer Electronics</a>, 																													<a class="" href="http://crunchbase.com/category/hardware---software/6826312c814aadc750ab9de1e9bd1999">Hardware + Software</a>, 																													<a class="" href="http://crunchbase.com/category/retail/b65acba5b299399063908be3e3833a07">Retail</a>								</span>
+							</li>
+											
+										<li class="full">
+						<strong class="key">Website</strong>
+						<span class="value">
+							<a href="http://www.apple.com" target="_blank">http://www.apple.com</a>						</span>
+					</li>
+							<li class="full profile">
+			<a href="https://crunchbase.com/organization/apple" target="_blank">Full profile for Apple</a>		</li>
+		</ul>
+		</div>
+		</li>
+		<!-- End: CrunchBase Card -->
+
+</ul>
+</div>
+</div>
+<!-- End: Crunchbase Shoal -->
+	<div class="section aside newsletters-signup collapse collapse-adjacent block">
+		
+<h2 class="section-title collapse-title aside-adjacent">
+	<img class="newsletter-logo" alt="TechCrunch" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" scale="0"> Newsletters
+</h2>
+
+
+<div class="collapse-body newsletter-body">
+	<div class="newsletter newsletter-side-bar-newsletters">
+		<form method="post" class="inline-form form-newsletters" action="" data-nonce="2576e2db17">
+			<div class="checkboxes">
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchdaily" id="tc-daily-55bda2fc122666.19319376" checked="checked">
+					<label for="tc-daily-55bda2fc122666.19319376">
+						<span class="custom-checkbox-fake"></span>
+						<strong>TechCrunch Daily</strong> Top headlines, delivered daily
+					</label>
+				</fieldset>
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchweekly" id="tc-week-in-review-55bda2fc122666.19319376" checked="checked">
+					<label for="tc-week-in-review-55bda2fc122666.19319376">
+						<span class="custom-checkbox-fake"></span>
+						<strong>TC Week-in-Review</strong> Most popular stories, delivered Sundays
+					</label>
+				</fieldset>
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchbase" id="tc-crunchbase-daily-55bda2fc122666.19319376" checked="checked">
+					<label for="tc-crunchbase-daily-55bda2fc122666.19319376">
+						<span class="custom-checkbox-fake"></span>
+						<strong>CrunchBase Daily</strong> Latest startup fundings, delivered daily
+					</label>
+				</fieldset>
+			</div>
+
+			<fieldset>
+				<label class="is-vishidden">Enter Address</label>
+				<input type="email" name="email" placeholder="Enter Address">
+				<button type="submit" class="newsletter-submit">Subscribe</button>
+			</fieldset>
+		</form>
+	</div>
+</div>	</div>
+
+<section class="aside section video-aside crunchreport collapse collapse-adjacent">
+	<h2 class="section-title collapse-title">
+		Latest <span>Crunch Report</span>	</h2>
+	<div class="collapse-body cf">
+		<ul class="vid-list cf">
+			<li class="block vid-feature" data-lightbox-omniture="crunchreport">
+				<div class="block block-inset">
+	<a href="http://techcrunch.com/video/new-apple-tv-release-in-september-crunch-report/518982760/?ncid=rightrail_cr">
+		<img src="http://pthumbnails.5min.com/10379656/518982760_c_300_170.jpg" alt="New Apple TV Release in September? | Crunch Report" data-lightbox-url="http://techcrunch.com/video/new-apple-tv-release-in-september-crunch-report/518982760/lightbox">
+				<div class="block-title">
+			<h3>New Apple TV Release in September? | Crunch Report</h3>			
+		</div>
+			</a>
+</div>
+			</li>
+		</ul>
+		<a href="http://techcrunch.com/video/crunchreport/?ncid=rightrail_crmore" class="text-btn" data-omni-sm="rightrail_crmore">Watch More Episodes<i class="icon-caret-right"></i></a>
+	</div>
+</section>
+<div class="section ad-300x250">
+	<div id="adsDiv4245e497b6" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizePortrait === 'function' ) {
+					window.adsResizePortrait('1');
+				}
+			}
+			window.adSetInView('D');
+			window.htmlAdWH('93422867', "RR", "RR", 'f', 'adsDiv4245e497b6');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+					</div>
+					<!-- End: Article Body - Sidebar -->
+
+				</div>
+				<!-- End: Article Body -->
+
+				</div>
+			</div>
+			<!-- End: Article Content - Body Right Column -->
+
+			<!-- Begin: Article Recirculation - Body Left Column -->
+			<div class="l-sidebar demo-block">
+				<!-- Begin: Recirculation Accordion -->
+<div class="accordion recirc-accordion">
+		<ul>
+												<li id="tc-accordion-item-apps-tag">
+										<div class="loaded acc-handle">
+						<a href="http://techcrunch.com/tag/apps/">
+							Apps						</a>
+					</div>
+				</li>
+														<li id="tc-accordion-item-mobile-tag">
+										<div class="loaded acc-handle">
+						<a href="http://techcrunch.com/tag/mobile/">
+							Mobile						</a>
+					</div>
+				</li>
+														<li id="tc-accordion-item-app-store-tag">
+										<div class="loaded acc-handle">
+						<a href="http://techcrunch.com/tag/app-store/">
+							app-store						</a>
+					</div>
+				</li>
+														<li id="tc-accordion-item-apple-topic">
+										<div class="loaded acc-handle">
+						<a href="http://techcrunch.com/topic/company/apple/">
+							Apple						</a>
+					</div>
+				</li>
+														<li id="tc-accordion-item-apps-category">
+										<div class="loaded acc-handle">
+						<a href="http://techcrunch.com/apps/">
+							Apps						</a>
+					</div>
+				</li>
+														<li class="active">
+					<div class="acc-handle loaded"><a>Popular Posts</a></div>
+					<div class="acc-panel">
+
+								<div id="acc-native-ad"></div>
+		<script type='text/javascript'>
+			(function(window){
+				try {
+					window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function() {
+						if (!window.ads.isMobile()) {
+							window.adSetInView('1');
+							window.htmlAdWH('93457286', '320', '115', 'text', 'acc-native-ad');
+							window.adSetInView('0');
+						}
+					});
+				} catch (e) {
+					// Assume this is just no ad placement for this page load
+				}
+			}(this));
+		</script>
+						<ul class="recirc-river river-small" data-omni-sm-delegate="art_recircbottom">
+							<div id="grv-personalization-14"></div>
+							<script>if( !ads.isMobile() ){ window.TechCrunch.loader.on( 'gravity-beacon', function(){ window.tc_loadGravityScript( 'recirculation-accordion' ); } ); }</script>
+						</ul>
+					</div>	
+				</li>
+				</ul>
+</div>
+<!-- End: Recirculation Accordion -->
+
+			</div>
+			<!-- End: Article Recirculation - Body Left Column -->
+
+		</div>
+	</article>
+	<!-- End: Article - Primary -->
+
+<!-- Begin: Article - Secondary -->
+<div class="article-extra">
+	<div class="lc l-three-col">
+
+		<!-- Begin: Center Column -->
+		<div class="l-main-container">
+			<div class="l-main">
+				<section class="comments section">
+					<div class="comments-container" id="comments-container">
+						<a name="comment-box"></a>
+							<div id="comments">
+								<div class="fb-comment-container" id="fb-comment-container">
+									<div id="fb-root"></div>
+									<fb:comments href="http://techcrunch.com/2015/07/24/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers/" num_posts="25" width="100%"></fb:comments>
+								</div>
+							</div>					</div>
+				</section>
+			</div>
+		</div>
+		<!-- End: Center Column -->
+
+		<!-- Begin: Right Column -->
+		<div class="l-sidebar-2 recirc-up-next section">
+			
+				<div class="toaster section">
+					<div class="toaster-container">
+						<div class="toaster-content">
+							<div class="toaster-title">Up Next</div>
+							<h3 class="h-alt"><a href="http://techcrunch.com/2015/07/24/yahoo-media-group-one/" data-omni-sm="art_upnext">Yahoo Quietly Acquired Germany&#8217;s Media Group One For $23M In&nbsp;Q1</a></h3>
+							<div class="byline">
+	Posted <time datetime="2015-07-24" class="timestamp">Jul 24, 2015</time> </div>						</div>
+					</div>
+				</div>
+	<div class="section aside-alt crunchboard-listings collapse collapse-last">
+		<h3 class="section-title collapse-title">CrunchBoard</h3>
+
+		<div class="collapse-body">
+			<h4 class="h-alt crunchboard-listings-subhead">Job Listings</h4>
+			<ul class="info-list lined-list">
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=20766" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Lead Software Engineer - AEM (Adobe Experience Manager)</h3>
+
+							<div class="info-meta">iCrossing, Inc.</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=20763" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Product Marketing Manager</h3>
+
+							<div class="info-meta">Stormpath</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=20762" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Marketing Associate</h3>
+
+							<div class="info-meta">Stormpath</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=20757" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Front-End Web Designer</h3>
+
+							<div class="info-meta">Squaremouth</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=20756" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Senior Android Developer</h3>
+
+							<div class="info-meta">Sikka Software</div>
+						</a>
+					</li>
+							</ul>
+			<a href="http://www.crunchboard.com/jobs/" target="_blank" class="text-btn">More from CrunchBoard</a>
+		</div>
+	</div>
+		</div>
+		<!-- End: Right Column -->
+
+	</div>
+</div>
+<!-- End: Article - Secondary -->
+
+</div>
+<!-- End: Article Body Content - Main -->
+
+<!-- Begin: Article Body Content - Advertisement -->
+<div class="feature-island-container">
+	<div class="ad-cluster-container ad-cluster-no-ad" style="display: none;">
+	<small class="advertise-here"><a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">Advertisement</a></small>
+	<ul class="ad-cluster-6" data-adcount="6">
+	</ul>
+</div>
+</div>
+<!-- End: Article Body Content - Advertisement -->
+<!-- Begin Footer -->
+<footer class="footer" role="contentinfo">
+	<div class="footer-content">
+
+		<!-- Begin Primary Nav (Footer) -->
+		<nav class="nav-footer">
+			<h4 class="footer-logo"><a href="/" rel="home">TechCrunch</a></h4>
+
+			<div class="g g-3up g-nogutter">
+
+				<!-- Begin TechCrunch Column -->
+				<div class="gi">
+					<h4 class="footer-logo-crunch-network"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/crunch-network.jpg"/></h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-899764"><a href="http://techcrunch.com/">News</a></li>
+<li id="menu-item-899765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899765"><a href="http://techcrunch.com/video/">TCTV</a></li>
+<li id="menu-item-899766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899766"><a href="http://techcrunch.com/events/">Events</a></li>
+<li id="menu-item-899767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899767"><a href="http://www.crunchbase.com">CrunchBase</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End TechCrunch Column -->
+
+				<!-- Begin About Column -->
+				<div class="gi">
+					<h4>About</h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899768"><a href="http://techcrunch.com/about/">Staff</a></li>
+<li id="menu-item-899769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899769"><a href="http://techcrunch.com/contact/">Contact Us</a></li>
+<li id="menu-item-899770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899770"><a href="http://techcrunch.com/advertise/">Advertise With Us</a></li>
+<li id="menu-item-899771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899771"><a href="http://techcrunch.com/got-a-tip/">Send Us A Tip</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End About Column -->
+
+				<!-- Begin International Column -->
+				<div class="gi">
+					<h4>International</h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899772"><a href="http://techcrunch.cn/">China</a></li>
+<li id="menu-item-899773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899773"><a href="http://techcrunch.com/europe/">Europe</a></li>
+<li id="menu-item-899774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899774"><a href="http://jp.techcrunch.com/">Japan</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End International Column -->
+
+			</div>
+		</nav>
+		<!-- End Primary Nav (Footer) -->
+
+		<!-- Begin Secondary Nav (Footer) -->
+		<div class="footer-follow g g-3up">
+
+			<!-- Begin Social Column -->
+			<div class="gi">
+				<div class="footer-social">
+					<h3>Follow TechCrunch</h3>
+					<ul class="inline-list social-list sprite-social">
+						<li><a href="https://www.facebook.com/techcrunch" rel="external" class="spricon nosprite dark icon-facebook" target="_blank"><span class="is-vishidden">Facebook</span></a></li>
+						<li><a href="https://twitter.com/techcrunch" rel="external" class="spricon nosprite dark icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+						<li><a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite dark icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a></li>
+						<li><a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite dark icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite dark icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a></li>
+						<li><a href="http://pinterest.com/techcrunch/" rel="external" class="spricon nosprite dark icon-pinterest" target="_blank"><span class="is-vishidden">Pinterest</span></a></li>
+						<li><a href="http://techcrunch.tumblr.com/" rel="external" class="spricon i-tumblr" target="_blank"><span class="is-vishidden">Tumblr</span></a></li>
+						<li><a href="http://instagram.com/techcrunch" rel="external" class="spricon i-instagram" target="_blank"><span class="is-vishidden">Instagram</span></a></li>
+						<li><a href="http://www.stumbleupon.com/channel/techcrunch/" rel="external" class="spricon nosprite dark icon-stumbleupon" target="_blank"><span class="is-vishidden">StumbleUpon</span></a></li>
+						<li><a href="/rssfeeds/" rel="external" class="spricon nosprite dark icon-rss"><span class="is-vishidden">Feed</span></a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- End Social Column -->
+
+			<!-- Begin TC Apps Column -->
+			<div class="gi">
+				<h3>TechCrunch Apps</h3>
+				<ul class="inline-list social-list sprite-social">
+					<li><a href="https://itunes.apple.com/us/app/techcrunch/id526058642?mt=8" class="spricon i-apple" rel="external" target="_blank"><span class="is-vishidden">iOS</span></a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=com.aol.mobile.techcrunch" class="spricon i-android" rel="external" target="_blank"><span class="is-vishidden">Android</span></a></li>
+					<li><a href="http://apps.microsoft.com/windows/en-US/app/techcrunch-the-inside-story/e1127f3e-b8da-4939-9778-0a4e3a51d2d9" class="spricon i-windows" target="_blank"><span class="is-vishidden">Windows 8</span></a></li>
+				</ul>
+			</div>
+			<!-- End TC Apps Column -->
+
+			<!-- Begin Subscribe Column -->
+			<div class="gi">
+				
+<h3 class="section-title aside-adjacent"><span class="no-mobile">Subscribe to </span>TechCrunch Daily</h3 >
+<div class="">
+	<p class="crunchdaily-tagline">Latest headlines delivered to you daily</p>
+	<div class="newsletter newsletter-side-bar-crunchdaily">
+		<form method="post" class="inline-form form-newsletters crunchdaily-newsletter" data-crunchlist="crunchdaily" action="http://link.techcrunch.com/s/Readership" data-nonce="2576e2db17">
+			<input type="checkbox" name="crunchdaily" checked="checked" class="is-hidden">
+			<fieldset>
+				<legend>Subscribe to &lt;span class=&quot;no-mobile&quot;&gt;Subscribe to &lt;/span&gt;TechCrunch Daily</legend>
+				<label class="is-vishidden">Enter Email Address</label>
+				<input type="email" name="email" placeholder="Enter Email Address">
+				<button type="submit" class="newsletter-submit">Subscribe</button>
+			</fieldset>
+		</form>
+	</div>
+</div>			</div>
+			<!-- End Subscribe Column -->
+
+		</div>
+		<!-- End Secondary Nav (Footer) -->
+
+		<!-- Begin Copyright -->
+		<div class="footer-meta-nav g g-1up">
+			<div class="copyright gi">
+				<span class="footer-section">
+					&copy; 2013-2015 AOL Inc. All rights reserved.
+				</span>
+				<span class="footer-section">
+					<a href="http://www.aoltech.com/" rel="external">Aol Tech</a>
+					<a href="http://privacy.aol.com/">Privacy Policy</a>
+					<a href="http://adinfo.aol.com/about-our-ads">About Our Ads</a>
+					<a href="/anti-harassment-policy/">Anti Harassment Policy</a>
+					<a href="http://legal.aol.com/TOS/">Terms of Service</a>
+				</span>
+				<span class="footer-section">
+					<div class="vip-shoutout-container">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div>
+				</span>
+				<span class="footer-section">
+					<div class="webtype-shout-out">Fonts by <a href="http://www.webtype.com/" rel="external" style="padding:0;" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/webtype_footer_link.png" alt="<Webtype>" /></a></div>
+				</span>
+			</div>
+		</div>
+		<!-- End Copyright -->
+
+	</div>
+</footer>
+
+<!--[if lte IE 9 ]>
+    <script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/placeMe-1.0.js"></script>
+<![endif]-->
+<!--[if lte IE 8 ]>
+	<script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/ie8.js"></script>
+<![endif]-->
+
+<!-- wpcom_wp_footer -->
+	<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"Article","url":"http:\/\/techcrunch.com\/2015\/07\/24\/apple-adjusts-its-app-store-algorithm-impacting-some-ipad-developers\/","author":{"@type":"Person","name":"Sarah Perez"},"headline":"Apple Adjusts Its App Store Algorithm,","articleBody":"To keep the playing field level and fair for all app developers, Apple on occasion changes the way its App Store ranking algorithm works, the fallout of which can impact developers' standings in the App Store charts, which ultimately can impact their visibility, downloads, and revenue. Around a week ago, it appears that Apple\u00a0yet again tweaked the way its rankings worked, but this time around, the changes have only impacted a subset of iPad app developers in the U.S. App Store.\r\n\r\nNo one knows the specifics of how Apple's App Store ranking algorithm works, but it's generally understood to take into account factors like download volume, velocity, and possibly other metrics like ratings or engagement.\r\n\r\nThere are a number of ways to spot a possible rankings change, but one of the easiest is to keep an eye on the rankings of top mobile apps, like Facebook and others. Because of the size and reach of these applications, a significant movement of these apps in the App Store charts can indicate that Apple could be making adjustments to how apps are weighted.\r\n\r\nOf course, those changes can also just point to a rankings glitch, so the only way to determine if the App Store algorithm has actually changed is to survey the market in the days that follow to see if developers are seeing major changes following a sudden drop or spike in their rankings.\r\n\r\nBeginning on Friday, July 17, something odd happened with Apple's App Store rankings.\r\n\r\nYes. something has happened. but what? pic.twitter.com\/eLBc2SuvJJ\r\n\u2014 Ouriel Ohayon (@OurielOhayon) July 22, 2015\r\nFacebook's iPad app offers a good example of the change, as its app moved from a No. 2 position in \"Social Networking\" and a No. 7 ranking \"Overall\" the day before, down to No. 4 and No. 24, respectively, on Friday, and then it crashed to No. 38 in \"Social Networking\" and a practically invisible No. 858 \"Overall\" by Monday.\r\n\r\nThe app's download ranking has since begun climbing back up, reaching No. 2 again in \"Social Networking,\" and No. 9 \"Overall\" by mid-week.\r\n\r\n\r\n\r\nHowever, not all developers saw their rankings recover similarly, which is the most telling sign that this could be\u00a0more than \"just a glitch.\"\r\n\r\nAnother indicator of an App Store algorithm change involves looking at the top mobile apps on the App Store and checking their ranking for particular keywords. If you see that there's been a dramatic change in the keywords they rank for, then it's a good indicator that there has been an algorithm change (presuming, of course, there hadn't been an app update that caused the fluctuation.)\r\n\r\nYou can see in a number of top apps, including Facebook, Twitter, Instagram, Minecraft, YouTube and Snapchat, that there was a very large change that impacted the keyword rankings beginning on July 17. (See below.)\r\n\r\n\r\n\r\nThe question on many developers' minds after seeing a massive drop in their rankings followed by a subsequent climb back up the charts was if this change was merely an App Store bug or if Apple had made a longer-lasting adjustment.\r\n\r\nWe reached out to mobile marketing firm Fiksu, which\u00a0confirmed that it had also\u00a0observed non-standard App Store behavior beginning last Friday that\u00a0affected iPad rankings over the course of several days.\r\n\r\n\"The apps that dropped have jumped significantly back up today,\" noted Fiksu's Chief Strategy Officer, Craig Palli on Wednesday, \"but not all of them have returned to the ranks that they were at before the drop started on Friday,\" he says. While he noted that the company is still investigating, as of now, it appears to be consistent with historical ranking protocol changes.\r\niPad Category Rankings Most Affected\r\nIn addition, in speaking with well over\u00a0a dozen app developers about their individual experiences following their iPad apps' crash in the App Store charts, we learned that a\u00a0majority did see a massive drop in the charts beginning on Friday, mostly with regard to their Category rankings.\r\n\r\nThose who claimed they weren't affected, in some cases only had an iPhone application (which works on iPad, but is not a true iPad app), or described their app as being \"low volume,\" - meaning that their app\u00a0has so few regular downloads that even an App Store ranking algorithm change wouldn't push it up or down in the charts by a significant amount.\r\n\r\nWhile many reported that, by later in the week, their apps' rankings returned to \"normal,\" or at least close to where they were before, that wasn't true for everyone.\r\n\r\n\r\n\r\nIn some cases, their adjusted ranking represented only\u00a0a small to medium-sized move - like say, just a few slots or as many as 10 slots lower or higher than before, to cite a couple of\u00a0examples. Another said they\u00a0returned to their exact same prior rank after the fluctuations stopped.\r\n\r\n\r\n\r\nHowever,\u00a0some\u00a0developers saw much larger moves that stuck. For instance, one app moved\u00a0up nearly 200 spots, then stabilized later in the week with a ranking that was nearly 50 spots higher than before.\r\n\r\nSome developers also\u00a0reported other odd behavior after the fluctuations, including impacts to their keyword rankings and top grossing chart rankings. For instance, one developer who had one of their\u00a0best sales day ever thanks to a promotion they were running found they had fallen out of the Top Grossing charts after the algorithm change.\r\n\r\nOthers\u00a0said that keywords they used to rank for now no longer pulled up their app in search at all, or they saw a significant drop in their popular keywords after the changes. Others still saw that different keywords or keyword combinations were working better or worse than before.\r\n\r\nAs to why some developers were less affected than others? One guess is because the algorithm adjustment was specifically focused on targeting those who were\u00a0marketing their apps in a particular way.\r\n\r\nFor example, some use keyword optimization (ASO or App Store Optimization), while others rely on paid promotions or ads. If Apple only focused on some subset of these methods when making its adjustments, it follows that only some subset of apps would be affected long-term following the change.\r\n\r\n\r\n\r\nExplains Dan Held, the co-founder at\u00a0mobile development firm\u00a0Analytica, there are many reasons Apple might have made an adjustment like this.\r\n\r\nWhile a specific\u00a0purpose behind this change may be hard to determine (unless Apple comments, which it has\u00a0not), generally speaking, this\u00a0change seems to be related to ranking factors, not closing down a hole, Held believes.\r\n\r\n\"The purpose of the change is to more accurately rank apps based on criteria Apple deems 'quality.' They might have found a large exploit some app developers were taking advantage of,\u00a0 but this seems more like a very large change of what Apple sees as important ranking factors - reviews, downloads, keywords, etc.,\" he says.\r\n\r\nAt the end of the day, what's most interesting about this particular change\u00a0is that it much more heavily affected iPad applications, instead of iPhone apps. Though\u00a0there are some examples of iPhone apps being impacted, the biggest movements both during and after the adjustments were among\u00a0those apps built for iPad. That could indicate that Apple was looking to better\u00a0its rankings\u00a0for those who are building specifically for Apple's tablet, and possibly rewarding the better iPad apps in the process.","datePublished":"2015-07-24T15:52:22+00:00","mainEntityOfPage":"True","image":{"@list":["https:\/\/tctechcrunch2011.files.wordpress.com\/2015\/07\/app-store.jpg","https:\/\/tctechcrunch2011.files.wordpress.com\/2015\/07\/screen-shot-2015-07-24-at-10-37-50-am.png","https:\/\/tctechcrunch2011.files.wordpress.com\/2015\/07\/example-crash.png","https:\/\/tctechcrunch2011.files.wordpress.com\/2015\/07\/screen-shot-2015-07-24-at-11-34-24-am.png","https:\/\/tctechcrunch2011.files.wordpress.com\/2014\/06\/appstore.png"]}}	</script> <noscript><img src="http://b.scorecardresearch.com/b?c1=2&c2=6036210&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="height:0;width:0;visibility:hidden" /></noscript><script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201531x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/js/devicepx.js?m=1429298047g'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PushUpNotificationSettings = {"domain":"https:\/\/tctechcrunch2011.wordpress.com","userID":"271","websitePushID":"web.com.wordpress.tctechcrunch2011","webServiceURL":"https:\/\/push.10up.com","prompt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TC_VideoLoader_Settings = {"yt_key":"AIzaSyBhsoyL5FHDdWDh-w7DgTTHaC8PS2dvFdI"};
+var TC_Language_Settings = {"ajax_url":{"chinese":"http:\/\/techcrunch.com\/chinesemodal"},"chinese":["zh","zh-hk","zh-cn","zh-sg","zh-tw"],"english":["en","en-au","en-bz","en-ca","en-ie","en-jm","en-nz","en-ph","en-za","en-tt","en-gb","en-us","en-zw"],"japanese":["ja"]};
+var TC_Async_Scripts = {"tc_livefyre":"http:\/\/zor.livefyre.com\/wjs\/v1.0\/javascripts\/CommentCount.js","tc_gravity":"http:\/\/cdn.insights.gravity.com\/moth-min.js","commscore":"http:\/\/b.scorecardresearch.com\/beacon.js","aol_universal_navbar":"https:\/\/s.aolcdn.com\/os\/aol\/unb.min.js","tc_adsonar":"http:\/\/js.adsonar.com\/js\/aslJSON.js"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _sf_async_config = {"uid":"2905","domain":"techcrunch.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVj9EOgjAMRX/IURmE+GL8ljkaNtzqsnYQ/14xEl8I0bcmN+ecFOak7J0ESSAWlUIZPDHI7EUwq2sw9nb1uVfJIySk3tNQjXyAfzjCCfM2Kw4jMkw+wepIhV1JMK5XFT3tJLVa4PHtUIZMeIi3vNMRtM7mQtYpfawbMMwovBi+y1bzJwW/fgz4wS/xXLfNqel01+rxCWqjhdo='></script>
+<script type='text/javascript' src='https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js?ver=4.3-alpha-32652'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?47" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'24588526','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'24588526','v':'wpcom','tz':'-7','user_id':'0','post':'1187230','subd':'tctechcrunch2011'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=24588526&v=wpcomvt&tz=-7&user_id=0&post=1187230&subd=tctechcrunch2011&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdsV05haVJbcGxtJjNRPStQNVpUOHlbPUJnQi45Py5tekN2VnhJWWRIZGxQWnM2cDk1dlEyem1iR1c9X180Ky8wM2x0Jm1WJmdTUXxdcDk/VktzP1FVZFtVZU1rMlU/NTNbem8uSDhPL0VlJnJMPzdQc2UrZkQmbCsyVUwvaXpULl1qREdsWVt+c201NXpWVDdJMy8zPTBKRz90SW8ycDhOOXRKZExOeGx6dnNkLzV4TXA='}]);
+_stq.push([ 'clickTrackerInit', '24588526', '1187230' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><div id="mobile-header-menu-nav-modal" class="menu-nav-modal">
+	<div id="mobile-header-menu-nav" class="menu-nav">
+		<ul>
+			<li class="mobile-header-menu-tc-logo">
+				<a href="/">
+					<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/techcrunch_transparent_google_editor_picks.png" alt="TechCrunch" title="TechCrunch" width="150">
+				</a>
+				<button class="close-mobile-menu-container">
+					<span class="icon-close"></span>
+				</button>
+			</li>
+			<li>
+				<ul class="nav-col">
+					<div class="subnavbar-title subnavbar-expand">
+						<span>News</span>
+						<div class="menu-caret">
+							<span class="icon-menu-caret down"></span>
+						</div>
+					</div>
+					<ul class="subnav-channel menu-content open" data-omni-sm-delegate="gbl_mainnav"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899745"><a href="http://techcrunch.com/startups/">Startups</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-899746"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899747"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899748"><a href="http://techcrunch.com/enterprise/">Enterprise</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899749"><a href="http://techcrunch.com/social/">Social</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899750"><a href="http://techcrunch.com/europe/">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901944"><a href="/asia">Asia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176380"><a href="http://techcrunch.com/crunch-network/">Crunch Network</a></li>
+<li class="menu-item menu-item-important"><a href="/gallery/">All Galleries</a></li></ul>				</ul>
+			</li>
+			<li>
+				<ul class="nav-col">
+					<div class="subnavbar-title subnavbar-expand">
+						<span>Videos</span>
+						<div class="menu-caret">
+							<span class="icon-menu-caret"></span>
+						</div>
+					</div>
+					<ul class="subnav-tctv-shows-left menu-content" data-omni-sm-delegate="gbl_mainnav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1187079"><a href="http://techcrunch.com/video/bullish/">Bullish</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1134050"><a href="http://techcrunch.com/video/crunchreport/">Crunch Report</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899755"><a href="http://techcrunch.com/video/crunchweek/">CrunchWeek</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1188451"><a href="http://techcrunch.com/video/fly-or-die/">Fly or Die</a></li>
+<li class="menu-item menu-item-important"><a href="/video/">All Shows</a></li><li class="menu-item menu-item-important"><a href="/video/all/">All Videos</a></li></ul>				</ul>
+			</li>
+			<li>
+				<ul class="nav-col">
+					<div class="subnavbar-title subnavbar-expand">
+						<span>Events</span>
+						<div class="menu-caret">
+							<span class="icon-menu-caret"></span>
+						</div>
+					</div>
+					<ul class="subnav-events-tc-events menu-content" data-omni-sm-delegate="gbl_mainnav"><li class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899739"><a href="http://techcrunch.com/event-type/disrupt/">Disrupt</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-936211"><a href="http://techcrunch.com/startup-battlefield/">Startup Battlefield</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899740"><a href="http://techcrunch.com/event-type/crunchies-23/">Crunchies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899741"><a href="http://techcrunch.com/event-type/meetups/">Meetups</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899742"><a href="http://techcrunch.com/event-type/international-city/">International City Events</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899744"><a href="http://techcrunch.com/event-type/hackathon-2/">Hackathon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1084973"><a href="http://techcrunch.com/events/include">Include</a></li>
+<li class="menu-item menu-item-important"><a href="/events/">All Events</a></li></ul>				</ul>
+			</li>
+			<a href="https://www.crunchbase.com" class="nav-crunchbase subnavbar-title">
+				<span class="nav-parent nav-item-tracking">CrunchBase</span>
+			</a>
+		</ul>
+		<div class="mobile-header-menu-search">
+			<form action="/" method="get" class="mobile-search-form">
+				<input type="search" placeholder="Search" class="mobile-search-field" name="s" value="">
+				<button class="mobile-search-submit">
+					<span class="icon-mag"></span>
+				</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+<div id="mobile-trending-menu-nav-modal" class="menu-nav-modal">
+ 	<div id="mobile-trending-menu-nav" class="menu-nav">
+		<div class="headbox">
+			<button class="close-mobile-menu-container">
+				<span class="icon-close"></span>
+			</button>
+
+			<div class="trending-head">
+				<strong class="tc-bold-green">Most Popular</strong>
+			</div>
+		</div>
+		<div class="trending-container">
+			
+						<a href="http://techcrunch.com/2015/07/31/why-homejoy-failed-and-the-future-of-the-on-demand-economy/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								Why Homejoy Failed &#8230; And The Future Of The On-Demand&nbsp;Economy							</div>
+							<div class="trending-byline">
+								yesterday by Sam Madden							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/07/27/google-weans-itself-off-of-google/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								Google Weans Itself Off Of&nbsp;Google+							</div>
+							<div class="trending-byline">
+								Jul 27, 2015 by Frederic Lardinois							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/08/01/the-next-great-startup-will-be-a-unicornio/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								The Next Great Startup Will Be A &#8216;Unicornio&#8217;							</div>
+							<div class="trending-byline">
+								2 hours ago by Federico Antoni							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/08/01/vapor-no-more-ethereum-has-launched/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								Vapor No More: Ethereum Has&nbsp;Launched							</div>
+							<div class="trending-byline">
+								15 hours ago by Jon Evans							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/07/31/heres-the-latest-batch-of-500-startups-companies/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								Here&#8217;s The Latest Batch Of 500 Startups&nbsp;Companies							</div>
+							<div class="trending-byline">
+								yesterday by Matthew Lynley							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/08/01/soft-sensors-are-breaking-into-four-major-industries/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								&#8220;Soft&#8221; Sensors Are Breaking Into Four Major&nbsp;Industries							</div>
+							<div class="trending-byline">
+								7 hours ago by Todd Gisby							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/07/25/startups-and-the-big-lie/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								Startups And The Big&nbsp;Lie							</div>
+							<div class="trending-byline">
+								Jul 25, 2015 by Danny Crichton							</div>
+						</a>
+
+				
+						<a href="http://techcrunch.com/2015/08/01/a-conversation-with-michael-lopp-pinterests-head-of-engineering/?ncid=mobilenavtrend" class="trending-post">
+							<div class="trending-title">
+								A Conversation With Michael Lopp, Pinterest&#8217;s Head Of&nbsp;Engineering							</div>
+							<div class="trending-byline">
+								14 hours ago by Matthew Lynley							</div>
+						</a>
+
+									</div>
+	</div>
+</div>	<script>
+		(function (window, $, undefined) {
+			var document = window.document;
+
+			function loadChartbeat() {
+				window._sf_endpt = (new Date()).getTime();
+				var e = document.createElement('script'),
+					url = ("https:" === document.location.protocol) ? "https://s3.amazonaws.com/" : "http://";
+				url += "static.chartbeat.com/js/chartbeat.js";
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.async = true;
+				e.setAttribute('src', url);
+				document.body.appendChild(e);
+			}
+
+			$(loadChartbeat);
+		}(this, this.jQuery));
+	</script>
+<!--Page generated in 0.5565 seconds.-->
+</body>
+</html>
+<!--
+	generated in 0.620 seconds
+	109478 bytes batcached for 300 seconds
+-->

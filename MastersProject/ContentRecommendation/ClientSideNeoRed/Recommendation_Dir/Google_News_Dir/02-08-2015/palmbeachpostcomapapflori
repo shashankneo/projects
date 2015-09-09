@@ -1,0 +1,1755 @@
+
+
+
+
+<!DOCTYPE html><html><head><title>
+    Napoli home run helps Red Sox beat Rays 7-5
+ | www.palmbeachpost.com</title><meta name="viewport" content="width=1024" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DVFJACgQIXVlSAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"aaf23b031f","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"MQYHNRZYCkZVBxcKVghMIxQKWhBcWwpMAVwSFwATB1gHXVFKFQpcERBfIwFNEFBGMgoGTkgEABU=","applicationID":"2789804","errorBeacon":"bam.nr-data.net","applicationTime":9}</script><meta name="google-site-verification" content="lgU00SzU_ChqK0qFbu4lYha8V6ghHO9uTf0LHHcoQ98" /><meta name="apple-mobile-web-app-title" content="pbp" /><!-- templates/common/v2newspaper/web/includes/extended_meta.html --><meta name="description" content="None" /><meta property="og:description" content="No wonder Mike Napoli wanted to stay with the Red Sox: That home run he hit off the top of the Green Monster would not have been out of any ballpark but Boston&#8217;s." /><meta name="keywords" content="Mikie Mahtook,John Farrell,SPORTS_MANAGEMENT,Kevin Cash,Junichi Tazawa,Jake McGee,Jake McGee,Hanley Ramirez,Desmond Jennings,Athlete health,Matt Moore,Matt Moore,Joe Kelly,Joe Kelly,Koji Uehara,Koji Uehara,John Jaso,politician,Drew Smyly,Pablo Sandoval,Pablo Sandoval,Athlete injuries,Sports trading,Boston,David Ortiz,Sports transactions,Sports business,PROFESSIONAL_ATHLETE,united states,Men&#39;s sports,AP State Online - Florida,MLB baseball,Game Story,American League,massachusetts,baseball,Boston Red Sox,SPORTS_FIGURE,Alejandro De Aza,Blake Swihart,North America,Tampa Bay Rays,Mike Napoli,sports,Professional baseball,AL East" /><meta name="cmg_revpath" content="/re/292/3011114/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/" /><meta property="og:title" content="Napoli home run helps Red Sox beat Rays 7-5" /><meta property="og:url" content="http://www.palmbeachpost.com/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/" /><meta property="vr:canonical" content="http://www.palmbeachpost.com/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/" /><meta property="og:type" content="article" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/07/31/96/00/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-0.jpg" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/07/31/91/dc/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-1.jpg" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/07/31/e6/8a/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-2.jpg" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/07/31/d1/63/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-3.jpg" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/07/31/3a/b7/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-4.jpg" /><meta property="og:date" content="Friday, July 31, 2015" /><!-- templates/common/v2newspaper/web/includes/favicon.html --><link rel="shortcut icon" href="http://media.cmgdigital.com/shared/theme-assets/202014/www.palmbeachpost.com_15583708cb7746ee95fffaf0720a0843.ico" /><link rel="apple-touch-icon" href="http://media.cmgdigital.com/shared/theme-assets/202014/www.palmbeachpost.com_2e3191cb20cd468b9544c55d605e143d.png" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/css/v2_site.css"><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script src="//www.palmbeachpost.com/dolphin/js/"></script><script type="application/javascript"></script><script>
+    window.console = window.console || {};
+    window.console.log = window.console.log || function () {};
+    window.console.error = window.console.error || window.console.log;
+    window.console.warn = window.console.warn || window.console.log;
+</script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/v2newspaper/javascript/core.v2newspaper.js?version=2015-08-01"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/core/web/newspaper.min.js"></script><script type="text/javascript">
+    
+    cmg.mediaurl = 'http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/';
+    cmg.site_meta = {
+        domain: 'www.palmbeachpost.com',
+        media_type: 'v2newspaper',
+        site_name: 'pbp',
+        premium_status: ''
+    };
+    
+    
+    var marimo_url = '/marimo/';
+    
+    var site_domain = 'www.palmbeachpost.com';
+    cmg.ajax_include_url = '/common/ajax-include/';
+
+    
+    
+        
+        cmg.janrain_capture_server = 'https://users.cmgdigital.com';
+        cmg.janrain_js_url = 'widget-cdn.rpxnow.com/load/login.cmgdigital.com';
+        cmg.janrain_app_id = '6z4jnndkpe6dmfx7vdg4c7hkmz';
+        cmg.janrain_federate_server = 'https://sso.cmgdigital.com';
+        cmg.janrain_client_id = "9azfxmg87v4e3sf9wkq49aub5s4yqcb9" || 'qyynzpmgrk4kgx5yg2kfurbnk639qfcf';
+    
+
+    
+    
+</script><script type="text/javascript">
+    cmg.query(document).ajaxError(function(evnt, jqxhr) {
+        var error;
+        try { error = JSON.parse(jqxhr.responseText); }
+        catch(e) { error = jqxhr.responseText; }
+        // Uncomment next line in local dev to see ajax errors in console
+        // console.error('ajax error:', error);
+    });
+
+    
+    cmg._ = _.noConflict();
+    
+    cmg.error_dialog = function(msg) {
+        cmg.query('<div/>').addClass('cmErrorDialog')
+            .text(msg = msg || 'Oops, something went wrong. Please reload the page and try again.')
+            .appendTo('body');
+    };
+    
+    cmg.get_cookie = function get_cookie(name) {
+        var cookie_array = document.cookie.split(';');
+        var cookie_regex = new RegExp('^ *' + name + '="?([^"]+)"?');
+        for (var x in cookie_array) {
+            if(!cookie_array.hasOwnProperty(x)) continue;
+            var match = cookie_array[x].match(cookie_regex);
+            if(match){
+                return match[1];
+            }
+        }
+    };
+    
+    cmg.parse_qs = function parse_qs(str) {
+        if (!str) { return {}; }
+        if (str[0] === '?') { str = str.slice(1); }
+        var ret = {};
+        var query_args = str.split('&');
+        for (var key in query_args) {
+            if (!query_args.hasOwnProperty(key)) { continue; }
+            var tuple = query_args[key].split('=');
+            ret[tuple[0]] = tuple[1];
+        }
+        return ret;
+    };
+    cmg.get_user = function (views_total_count) {
+        if (!views_total_count) { return {}; }
+        var same_domain = window.location.hostname == 'www.palmbeachpost.com';
+        cmg.query.ajax({
+            type: 'POST',
+            dataType: same_domain ? 'json' : 'jsonp',
+            url: 'http://www.palmbeachpost.com/auth/ajax/loginclient-user-data',
+            data: {
+                views_total_count: views_total_count,
+                nmredir: "true"
+            },
+            success: function(data) {
+                if (data.result.photos[0]) {
+                    var picURL = data.result.photos[0].value;
+                    cmg.query("#cm-user-icon").css({'background-image' : 'url(' + picURL + ')'});
+                }
+                var menu_timer;
+                cmg.query('.cm-user-hover-target').hover(function() {
+                    var $this = this;
+                    menu_timer = setTimeout(function() {
+                        if (cmg.query($this).is(":hover")) {
+                            cmg.query('#cm-janrain-overlay-container').show();
+                        }
+                    }, 500);
+                }, function() {
+                    var $this = this;
+                    menu_timer = setTimeout(function() {
+                        if (!cmg.query($this).is(":hover")) {
+                            cmg.query('#cm-janrain-overlay-container').hide();
+                        }
+                    }, 500);
+                });
+            }
+        });
+    };
+    
+    cmg.update_auth_message = function(str) {
+        var cookie_name = cmg.query.cookie('ur_name', {path:'/'});
+        var views_total_count = cmg.query.cookie('ur_views_total_count', {path:'/'});
+
+        if (typeof cookie_name === 'string' && typeof views_total_count == 'string') {
+            cmg.get_user(views_total_count);
+            
+            if (cmg.query('#cm-user-icon').css('background-image') != '') {
+                cmg.query('#cm-user-icon').css({
+                        'background-image': 'url(http://www.palmbeachpost.com/profile/avatar_jp2/' + encodeURIComponent(cookie_name) + '/)'
+                        }).removeClass('cmOpenJanrainModal cm-icon cm-icon-user').addClass('cm-user-avatar');
+            }
+            cmg.query('.cm-user-hover-target').addClass('cm-janrain-active');
+            cmg.query('#cmUserNameUpdate').text(cookie_name);
+
+        } else {
+            cmg.query('#cm-user-icon').css({
+                    'background-image': 'none'
+                    }).attr('href', '#');
+            cmg.query('#cm-user-icon').removeClass('cm-user-avatar').addClass('cmOpenJanrainModal cm-icon cm-icon-user');
+        }
+    }
+    
+    cmg.query.ajax_includes = function(fun) { cmg.query(document).bind('ajax_includes', fun); };
+    
+    var metrics_signin = 0;
+
+    
+    cmg.query.ajaxSetup({ cache: true });
+</script><script type="text/javascript">marimo.init(cmg.query);</script><style id="cm-adutil-styles"></style><script>(function(){var $jsi={};if(flipper.is_active('yieldbot')){window.ybotq=window.ybotq||[];}else{window.ybotq={push:function(cb){cb();}};}}());</script><script async defer src="//www.googletagservices.com/tag/js/gpt.js"></script><script>
+    var googletag = googletag || {},
+        ybotq = ybotq || [];
+
+    googletag.cmd = googletag.cmd || [];
+    cmg.harmony = Harmony();
+    cmg.ads.size.expand();
+
+    ybotq.push(function () {
+        googletag.cmd.push(function () {
+            var urlparams,
+                pubads = googletag.pubads();
+
+            pubads.set('page_url', location.href);
+            pubads.collapseEmptyDivs(true);
+
+            
+        });
+    });
+</script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/v2newspaper/javascript/vendor/loginClient/lib/loginClient.js"></script><script type="text/javascript">
+        janrain.init();
+        janrain.on('cmg_ready', cmg._(cmg.update_auth_message).bind(cmg));
+        if (janrain && janrain.settings && janrain.settings.capture) {
+            janrain.settings.capture.backplane = true;
+            janrain.settings.capture.backplaneBusName = 'coxmediagroup.com';
+            janrain.settings.capture.backplaneVersion = 1.2;
+        }
+    </script><script type="text/javascript">
+    
+
+    if (marimo.$('html').is('[class^=ie]')) {
+        cmg.query(document).ready(function(){
+            setTimeout(cmg.writeCaptureForceFlush, 500);
+        });
+    }
+
+    cmg.writeCaptureForceFlush = function (t) {
+        t = t || 1000;
+        for (var cb in __document_write_ajax_callbacks__) {
+            if (__document_write_ajax_callbacks__.hasOwnProperty(cb)) {
+                __document_write_ajax_callbacks__[cb]();
+            }
+        }
+        if (Object.keys(__document_write_ajax_callbacks__).length > 0) {
+            window.setTimeout(cmg.writeCaptureForceFlush, 1000);
+        } else {
+            window.setTimeout(cmg.writeCaptureForceFlush, t + 1000);
+        }
+    };
+
+    cmg.query(document).ready(function(){
+        cmg.query(document).on('click', 'a.cmNeedsNext', function(e){
+            e.preventDefault();
+            var new_url = url_with_next(cmg.query(this).attr('href'));
+            window.location = new_url;
+        });
+
+        cmg.query(document).on('submit', 'form.cmNeedsNext', function(e){
+            add_next_params(cmg.query(this));
+        });
+    });
+
+    
+
+    cmg.query.ajax_includes(function() {
+        cmg.query('.cmNeedsNext').each(function() {
+            add_next_params(cmg.query(this));
+        });
+    });
+
+    function add_next_params(el){
+        
+        var attr = el.attr('action') ? 'action' : 'href';
+        var existing_url = el.attr(attr);
+        el.attr(attr, url_with_next(existing_url));
+    }
+
+    function url_with_next(url) {
+        
+
+        
+        url = url.replace(/\?next=?&/, '?').replace(/&next=?&/, '&').replace(/[?&]next=?$/, '').replace(/[?&]next=?#/, '#');
+
+        var next_param = get_param('next', url);
+        if(next_param) { // Johnny 5
+            return url;
+        }
+
+        var connector = (url.match(/\?/)) ? "&" : "?";
+        var next_val = window.location.pathname + window.location.search + window.location.hash;
+        return url + connector + 'next=' + encodeURIComponent(next_val);
+    }
+
+    function get_param(name, url){
+        
+        var m = RegExp('[?&]' + name + '=([^&^#]*)').exec(url);
+        return m && decodeURIComponent(m[1].replace(/\+/g, ' '));
+    }
+</script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/chartbeat_topwidget.js"></script><script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAvOY2tUjwfZoCop036PBJh9FUg7qcX1Q&sensor=false"></script><!-- Begin comScore Tag --><script type="text/javascript">
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6035944" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035944&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- requires javascript/comscore.js --><!-- begin google analytics --><script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', "UA-12952108-44"]);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script><!-- end google analytics --><!-- jsrequire -->
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/comscore.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/v2newspaper/javascript/components/simple_modal.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/qualtrics.js?zid=ZN_bKIYCXcqUXo8yrj&rate=100"></script>
+
+<!-- end jsrequire--><!-- requires v2newspaper/javascript/components/simple_modal.js --><script type='text/javascript'>
+        cmg.query(document).ready(function($) {
+            var videoModal = $('.cm-simple-modal').simpleModal();
+            // attach listener only to anchors matching pattern.
+            $('.cm-story-body a')
+                .filter(function() {
+                    var cinesport = /http:\/\/(cinesport|cinestars).(ajc|daytondailynews|palmbeachpost|statesman).com\/embed\//g,
+                        brightcove = /http:\/\/link.brightcove.com\/services\/player\/bcpid/g;
+                    return this.href.match(cinesport) || this.href.match(brightcove);
+                })
+                .on('click', function() {
+                    $.get('/videos/modal/?player_url=' + encodeURIComponent($(this).attr('href')))
+                        .success(function(response) {
+                            videoModal.open(response);
+                            // hack needed to get the cinesport player fit inside the modal correctly,
+                            // their player is not fully responsive.
+                            var $content = $('.cm-simple-modal-content'),
+                                $iframe = $content.find('iframe'),
+                                contentHeight = $content.height();
+                            $iframe.height(contentHeight);
+                            $iframe.width(contentHeight * 1.7);
+                        });
+                    return false;
+                });
+        });
+    </script><!-- dtm header code --><script src="//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-ad3e19c8634721cf9375e9053b0bbd79a780cb5a.js"></script><meta name="news_keywords" content="Mikie Mahtook,John Farrell,SPORTS_MANAGEMENT,Kevin Cash,Junichi Tazawa,Jake McGee,Jake McGee,Hanley Ramirez,Desmond Jennings,Athlete health"/></head><body
+        
+    
+            class="
+                
+                 modal  modal
+            "
+         data-section="homepage"
+    
+        data-section="http://www.palmbeachpost.com/s/news/"
+    
+><script type="text/javascript">
+            marimo.add_widgets([]);
+            marimo.make_request();
+            marimo.emit('widgets_added');
+        </script><!-- begin jstrials_header block --><div id="writecapture63398872"></div><script type="text/javascript">
+    marimo.emit('writecapture63398872_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE                $NEWLINE                    $NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE    $NEWLINE    $NEWLINE        $NEWLINE    $NEWLINE$NEWLINE                $NEWLINE            ", "id": "writecapture63398872", "widget_prototype": "writecapture_widget"});
+</script><!-- end jstrials_header block --><!-- retargeting header --><div class="cm-retargeting-pixels cm-retargeting-pixels-head"><script language='JavaScript1.1' src='http://pixel.mathtag.com/event/js?mt_id=382922&mt_adid=117991&v1=&v2=&v3=&s1=&s2=&s3='></script><script language='JavaScript1.1' src='//pixel.mathtag.com/event/js?mt_id=627092&mt_adid=117991&v1=&v2=&v3=&s1=&s2=&s3='></script><script type="text/javascript">
+adroll_adv_id = "4FZHZQH6SREYHDKMW26KBQ";
+adroll_pix_id = "UAXLNXOSZZBZTNOZQSYCVV";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><script>(function() { 
+  var _fbq = window._fbq || (window._fbq = []); 
+  if (!_fbq.loaded) { 
+    var fbds = document.createElement('script'); 
+    fbds.async = true; 
+    fbds.src = '//connect.facebook.net/en_US/fbds.js'; 
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(fbds, s); 
+    _fbq.loaded = true; 
+  } 
+  _fbq.push(['addPixelId', '636355699785194']); 
+})(); 
+window._fbq = window._fbq || []; 
+window._fbq.push(['track', 'PixelInitialized', {}]); 
+</script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=636355699785194&ev=PixelInitialized" /></noscript></div><!-- end retargeting header --><div class="cm-navbar-container"><!--
+            The top navbar is the larger, scrolling one. As it scrolls off the screen, some of its content is
+            pulled into the pinned "secondary" bar below it.
+        --><div class="cm-navbar-top"><div class="cm-navbar-internal"><div class="cm-navbar-logo"><a class="cm-not-modal-content" href="http://www.palmbeachpost.com"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/images/logo.png" name="http://www.palmbeachpost.com" class="header-logo"
+                    alt="www.palmbeachpost.com Logo" /></a></div><div class="cm-navbar-links"><div class="cm-navbar-text-links"><a href="http://www.palmbeachpost.com/s/jobs/">Jobs</a></div><div class="cm-navbar-text-links"><a href="http://www.palmbeachpost.com/s/autos/">Autos</a></div><div class="cm-navbar-text-links"><a href="http://www.palmbeachpost.com/s/floridahome/">Homes</a></div><div class="cm-navbar-text-links"><a href="http://www.palmbeachpost.com/s/classifieds/">Classifieds</a></div><div class="cm-navbar-text-links"><a href="http://www.palmbeachpost.com/customer-care">Help</a></div><div class="cm-navbar-icons"><div class="cm-menu-navbar-social-links"><span>Follow us:</span><a target="_blank" href="http://www.facebook.com/palmbeachpost"><span class="cm-icon cm-icon-facebook"></span></a><a target="_blank" href="http://www.twitter.com/pbpost"><span class="cm-icon cm-icon-twitter"></span></a></div></div><form class="cm-search" id="cm-search" action="/search" method="get"><input class="cm-menu-navbar-search" type="text" id="search" name="q" value=""/><span class="cm-icon cm-icon-search"></span></form></div></div></div><!--
+        The "secondary" navbar is the smaller one on the bottom. As the main navbar scrolls off the
+        screen, this navbar gets some extra content and pins.
+    --><div class="cm-navbar-secondary"><div class="cm-navbar-internal"><div class="cm-navbar-logo"><a class="cm-not-modal-content" href="http://www.palmbeachpost.com"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/images/logo.png" name="http://www.palmbeachpost.com" class="header-logo"
+                    alt="www.palmbeachpost.com Logo" /></a></div><div class="cm-expanded-navbar-links-container"><div class="cm-expanded-navbar-links"><ul><li><div class="cm-expanded-navbar-link" data-section="news"><a href="http://www.palmbeachpost.com/s/news/" class="cm-not-modal-content"><span class="cm-section-news cm-menu-item-bullet">&#8226;</span><span>News</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="weather"><a href="http://eyeonthestorm.blog.palmbeachpost.com/" class="cm-not-modal-content"><span class="cm-section-weather cm-menu-item-bullet">&#8226;</span><span>Weather</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="neighborhoods"><a href="/flist/news/local/neighborhoods/fbz/" class="cm-not-modal-content"><span class="cm-section-neighborhoods cm-menu-item-bullet">&#8226;</span><span>Neighborhoods</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="life"><a href="http://www.palmbeachpost.com/s/living/" class="cm-not-modal-content"><span class="cm-section-life cm-menu-item-bullet">&#8226;</span><span>Life</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="sports"><a href="http://www.palmbeachpost.com/s/sports/" class="cm-not-modal-content"><span class="cm-section-sports cm-menu-item-bullet">&#8226;</span><span>Sports</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="thingstodo"><a href="http://www.palmbeachpost.com/s/entertainment/" class="cm-not-modal-content"><span class="cm-section-thingstodo cm-menu-item-bullet">&#8226;</span><span>Things to Do</span></a></div></li><li><div class="cm-expanded-navbar-link" data-section="classified"><a href="http://www.palmbeachpost.com/s/classifieds/" class="cm-not-modal-content"><span class="cm-section-classified cm-menu-item-bullet">&#8226;</span><span>More</span></a></div></li></ul></div></div><div class="cm-dropdown-content"><div class="cm-navbar-dropdown-container news"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-news news"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://www.palmbeachpost.com/s/news/"><li>
+                        All News
+                        </li></a><a href="/flist/news/breaking-news/fLs/"><li>
+                                    Breaking News
+                                </li></a><a href="http://studio.ndnmediaservices.com/palmbeachpost"><li>
+                                    Latest videos
+                                </li></a><a href="http://www.palmbeachpost.com/s/business/"><li>
+                                    Business
+                                </li></a><a href="http://www.palmbeachpost.com/s/news/crime/"><li>
+                                    Crime
+                                </li></a><a href="http://www.palmbeachpost.com/s/news/schools/"><li>
+                                    Schools &amp; Education
+                                </li></a><a href="http://www.palmbeachpost.com/s/news/nation/"><li>
+                                    Nation &amp; World
+                                </li></a><a href="http://www.mypalmbeachpost.com/flist/news/opinion/opinion-headlines/fXz/?icmp=pbp_internallink_referralbox_free-to-premium-referral"><li>
+                                    Opinion
+                                </li></a><a href="http://www.palmbeachpost.com/mobile_services/"><li>
+                                    Mobile alerts
+                                </li></a><a href="/newsletters/subscriptions/"><li>
+                                    Email newsletters
+                                </li></a><a href="http://www.palmbeachpost.com/s/floridanews/"><li>
+                                    State &amp; Legislature
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>News blogs</h5><ul><a href="http://eyeonthestorm.blog.palmbeachpost.com/"><li>Weather Plus</li></a><a href="http://postonpolitics.blog.palmbeachpost.com/"><li>Post on Politics</li></a><a href="http://protectingyourpocket.blog.palmbeachpost.com/"><li>Protecting Your Pocket</li></a><a href="http://opinionzone.blog.palmbeachpost.com/"><li>Opinion Zone</li></a><a href="http://realtime.blog.palmbeachpost.com/"><li>Real Time</li></a><a href="http://malled.blog.palmbeachpost.com/"><li>Malled! South Florida retail</li></a><a href="http://extracredit.blog.palmbeachpost.com/"><li>Extra Credit education blog</li></a><a href="http://westpalmbeat.blog.palmbeachpost.com/"><li>West Palm Beat</li></a><a href="http://historicpalmbeach.blog.palmbeachpost.com/"><li>Historic Palm Beach</li></a><a href="http://www.palmbeachpost.com/latest-blogs/"><li>All blogs</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container weather"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-weather weather"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://eyeonthestorm.blog.palmbeachpost.com/"><li>
+                        All Weather
+                        </li></a><a href="http://www.palmbeachpost.com/s/weather/hurricanes/"><li>
+                                    Storm2015
+                                </li></a><a href="/weather/"><li>
+                                    Interactive Radar
+                                </li></a><a href="http://www.palmbeachpost.com/s/weather/"><li>
+                                    Current Conditions
+                                </li></a><a href="/weather/"><li>
+                                    Five-Day Forecast
+                                </li></a><a href="https://twitter.com/KMillerWeather"><li>
+                                    Follow Kim
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>Storm2015.com</h5><ul><a href="http://www.palmbeachpost.com/s/weather/hurricanes/"><li>Home</li></a><a href="http://www.palmbeachpost.com/weather/storm/outlook/"><li>Tropical Outlook</li></a><a href="http://www.palmbeachpost.com/weather/storm/ocean-temps/"><li>Ocean temps</li></a><a href="http://www.palmbeachpost.com/weather/storm/map/"><li>Tracking Map</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container neighborhoods"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-neighborhoods neighborhoods"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="/flist/news/local/neighborhoods/fbz/"><li>
+                        All Neighborhoods
+                        </li></a><a href="http://www.palmbeachpost.com/s/neighborhoods/centralpbc/"><li>
+                                    Central PBC
+                                </li></a><a href="/s/neighborhoods/southernpbc/"><li>
+                                    Southern PBC
+                                </li></a><a href="http://www.palmbeachpost.com/s/neighborhoods/northernpbc/"><li>
+                                    Northern PBC
+                                </li></a><a href="http://www.palmbeachpost.com/s/neighborhoods/westernpbc/"><li>
+                                    Western PBC
+                                </li></a><a href="http://www.palmbeachpost.com/s/neighborhoods/treasurecoast/"><li>
+                                    Treasure Coast
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>In the News</h5><ul><a href="http://www.palmbeachpost.com/s/news/all-aboard-florida/"><li>All Aboard Florida</li></a></ul><h5>Neighborhoods blogs</h5><ul><a href="http://scpbc.blog.palmbeachpost.com/"><li>Community Post: Central PBC</li></a><a href="http://www.palmbeachpost.com/s/neighborhoods/northernpbc/"><li>Community Post: Northern PBC</li></a><a href="http://spbc.blog.palmbeachpost.com/"><li>Community Post: South PBC</li></a><a href="http://wpbc.blog.palmbeachpost.com/"><li>Community Post: Western PBC</li></a><a href="http://westpalmbeat.blog.palmbeachpost.com/"><li>West Palm Beat</li></a><a href="http://historicpalmbeach.blog.palmbeachpost.com/"><li>Historic Palm Beach</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container life"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-life life"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://www.palmbeachpost.com/s/living/"><li>
+                        All Life
+                        </li></a><a href="http://camps.palmbeachpost.com/"><li>
+                                    Summer Camps
+                                </li></a><a href="/s/news/local/ask-the-experts/"><li>
+                                    Ask Legal Experts
+                                </li></a><a href="/flist/entertainment/celebrity-news/fNF/"><li>
+                                    Celebrity news
+                                </li></a><a href="http://www.palmbeachpost.com/s/health/"><li>
+                                    Health
+                                </li></a><a href="http://www.palmbeachpost.com/s/health/ask/the/experts/"><li>
+                                    Ask Health Experts
+                                </li></a><a href="http://www.palmbeachpost.com/s/travel/"><li>
+                                    Travel
+                                </li></a><a href="http://www.palmbeachpost.com/s/design/"><li>
+                                    Home &amp; Design
+                                </li></a><a href="http://www.palmbeachpost.com/s/pets/"><li>
+                                    Pets
+                                </li></a><a href="http://findnsave.palmbeachpost.com/"><li>
+                                    Shopping
+                                </li></a><a href="http://www.palmbeachpost.com/s/news/offbeat/"><li>
+                                    Offbeat
+                                </li></a><a href="http://www.palmbeachpost.com/s/news/technology/"><li>
+                                    Technology
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>Take a Break</h5><ul><a href="http://notables.palmbeachpost.com/"><li>Notables</li></a><a href="http://games.palmbeachpost.com/"><li>Games</li></a><a href="http://www.palmbeachpost.com/contest_page"><li>Contests</li></a><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=pbi"><li>TV Listings</li></a></ul><h5>Customer Service</h5><ul><a href="http://www.legacy.com/celebration/palmbeachpost/"><li>Place an Annoucement</li></a><a href="http://www2.palmbeachpost.com/projects/classifieds/place-an-obituary.php"><li>Obituary notice</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container sports"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-sports sports"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://www.palmbeachpost.com/s/sports/"><li>
+                        All Sports
+                        </li></a><a href="http://cinesport.palmbeachpost.com/palm-beach-sports/"><li>
+                                    Sports videos
+                                </li></a><a href="http://palmbeachpost.stats.com/"><li>
+                                    Scores &amp;  Schedules
+                                </li></a><a href="http://www.pbgametime.com/"><li>
+                                    High Schools
+                                </li></a><a href="http://www.palmbeachpost.com/s/sports/football/dolphins/"><li>
+                                    Dolphins
+                                </li></a><a href="http://www.palmbeachpost.com/s/sports/basketball/heat/"><li>
+                                    Heat
+                                </li></a><a href="/flist/sports/baseball/miami-marlins-spring-training/fNQ/"><li>
+                                    Marlins
+                                </li></a><a href="/flist/sports/college-football/post-football-recruiting-coverage/fkH/"><li>
+                                    Football recruiting
+                                </li></a><a href="/flist/sports/hockey/florida-panthers/fNS/"><li>
+                                    Panthers
+                                </li></a><a href="http://www.palmbeachpost.com/s/sports/colleges/florida/"><li>
+                                    Gators
+                                </li></a><a href="http://www.palmbeachpost.com/s/sports/colleges/fsu/"><li>
+                                    Seminoles
+                                </li></a><a href="http://www.palmbeachpost.com/s/sports/colleges/miami/"><li>
+                                    Hurricanes
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>Sports Blogs</h5><ul><a href="http://dailydolphin.blog.palmbeachpost.com/"><li>Read the Daily Dolphin</li></a><a href="http://heatzone.blog.palmbeachpost.com/"><li>Heat Zone</li></a><a href="http://highschoolbuzz.blog.pbgametime.com/"><li>High School Buzz</li></a><a href="http://caneswatch.blog.palmbeachpost.com/"><li>Canes Watch</li></a><a href="http://gatorbytes.blog.palmbeachpost.com/"><li>Gator Bytes</li></a><a href="http://faufocus.blog.palmbeachpost.com/"><li>FAU Focus</li></a><a href="http://fromthebunker.blog.palmbeachpost.com/"><li>From the Bunker</li></a><a href="http://seminolepost.blog.palmbeachpost.com/"><li>Seminole Post</li></a><a href="http://youthsportsdaily.blog.palmbeachpost.com/"><li>Youth Sports Daily</li></a><a href="http://www.palmbeachpost.com/latest-blogs/"><li>All blogs</li></a><a href="http://marlins.blog.palmbeachpost.com/"><li>Fish Tank</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container thingstodo"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-thingstodo thingstodo"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://www.palmbeachpost.com/s/entertainment/"><li>
+                        All Things to Do
+                        </li></a><a href="http://studio.ndnmediaservices.com/pbpulse#.VGn0qzTF_ms"><li>
+                                    Latest videos
+                                </li></a><a href="http://thingstodo.palmbeachpost.com/"><li>
+                                    Search events
+                                </li></a><a href="http://eventful.com/join?site=thingstodo.pbpulse.com&amp;goto=/events/new%3Fsite=thingstodo.pbpulse.com"><li>
+                                    Add a listing
+                                </li></a><a href="/movies/theaters/"><li>
+                                    Movie Showtimes
+                                </li></a><a href="/list/entertainment/dining/dining-all-restaurants/mMCZ/"><li>
+                                    Restaurant listings
+                                </li></a><a href="http://www.palmbeachpost.com/s/dining/"><li>
+                                    Dining
+                                </li></a><a href="/flist/entertainment/arts-theater/arts-stories/fNL/"><li>
+                                    Arts &amp; Culture
+                                </li></a><a href="/flist/entertainment/music/music-stories/fNT/"><li>
+                                    Music
+                                </li></a><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=pbi"><li>
+                                    TV listings
+                                </li></a><a href="http://www.palmbeachpost.com/s/tv/"><li>
+                                    TV
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>Things to Do Blogs</h5><ul><a href="http://feastpb.blog.palmbeachpost.com/"><li>Feast Palm Beach</li></a><a href="http://featured.blog.palmbeachpost.com/"><li>Featured</li></a><a href="http://thepopfile.blog.palmbeachpost.com/"><li>The Pop File</li></a><a href="http://superfun.blog.palmbeachpost.com/"><li>South Florida Super Fun Team</li></a></ul><h5>More</h5><ul><a href="http://www.palmbeachpost.com/s/pets/#stories-experts"><li>Pets</li></a><a href="http://www.palmbeachpost.com/flist/entertainment/wine-stories/fDJ/"><li>Wine</li></a><a href="http://www.palmbeachpost.com/s/travel/"><li>Travel</li></a></ul></div></div></div></div><div class="cm-navbar-dropdown-container classified"><div class="cm-navbar-dropdown"><div class="cm-navbar-first-section-container cm-section-classified classified"><div class="cm-navbar-first-list"><ul id="cm-navbar-item-1"><a href="http://www.palmbeachpost.com/s/classifieds/"><li>
+                        All More
+                        </li></a><a href="http://www.palmbeachpost.com/s/classifieds/"><li>
+                                    Classifieds
+                                </li></a><a href="http://www.palmbeachpost.com/s/floridahome/"><li>
+                                    Real Estate
+                                </li></a><a href="http://www.palmbeachpost.com/s/jobs/"><li>
+                                    Jobs
+                                </li></a><a href="http://www.palmbeachpost.com/s/autos/"><li>
+                                    Autos
+                                </li></a><a href="http://floridapublicnotices.com/"><li>
+                                    Public Notices
+                                </li></a><a href="http://www.palmbeachpost.com/services/archives/"><li>
+                                    Archives
+                                </li></a><a href="http://findnsave.palmbeachpost.com/"><li>
+                                    Shopping
+                                </li></a><a href="http://remodeling.palmbeachpost.com/"><li>
+                                    Home Design Ideas
+                                </li></a></ul></div><div class="cm-navbar-nested-list"><h5>Services</h5><ul><a href="http://www.palmbeachpost.com/announcements/placeanad/"><li>Place a Celebration</li></a><a href="http://www2.palmbeachpost.com/projects/classifieds/place-an-obituary.php"><li>Obituary notice</li></a><a href="https://placead.palmbeachpost.com/csp/mediapool/public/dt.ad.csb.website.woe.WebSiteSelectionView.cls?WebSite=pbp"><li>Place a Classified Ad</li></a><a href="http://www.palmbeachpost.com/services/products/product-index/"><li>Digital Products</li></a><a href="http://www.palmbeachpost.com/services/archives/"><li>Archives</li></a><a href="http://nieonline.com/palmbeachpost/"><li>Newspapers in Education</li></a><a href="http://ideabarmedia.com/"><li>Ideabar Digital Marketing</li></a><a href="http://www.magreprints.com/clients/"><li>Reprints / Licensing</li></a><a href="http://www.zazzle.com/gallerypalmbeach"><li>Gallery Palm Beach</li></a></ul></div></div></div></div></div><div class="cm-navbar-user"><div class="cm-navbar-weather-container"></div><div class="cm-navbar-traffic"><a href="/traffic/#incidents"><span class="cm-icon-car"></span><span class="cm-alert-badge cm-traffic-badge"></span></a></div><div class="cm-subscribe-tease cm-expanded"><a href="http://myaccount.palmbeachpost.com/dssSubscribe.aspx?sitecode=po"><div class="cm-subscribe">Subscribe now</div><div class="cm-subscribe-details">to myPalmBeachPost</div></a></div><div class="cm-subscribe-tease cm-collapsed"><a href="http://myaccount.palmbeachpost.com/dssSubscribe.aspx?sitecode=po"><div class="cm-subscribe">Subscribe</div></a></div><div class="cm-menu-navbar-social-links"><a target="_blank" href="http://www.facebook.com/palmbeachpost"><span class="cm-icon cm-icon-facebook"></span></a><a target="_blank" href="http://www.twitter.com/pbpost"><span class="cm-icon cm-icon-twitter"></span></a></div><form class="cm-search" id="cm-search" action="/search" method="get"><input class="cm-menu-navbar-search" type="text" id="search" name="q" value=""/><span class="cm-icon cm-icon-search"></span></form><span class="cm-user-hover-target"><a href="##" id="cm-user-icon" class="cmOpenJanrainModal cm-icon cm-icon-user cm-not-modal-content"></a><div id="cm-janrain-overlay-container" style="display: none;"><div class="cm-janrain-overlay-ui"><div class="cm-janrain-overlay-wrapper"><h2>Welcome back,</h2><h3><span id="cmUserNameUpdate">AnonymousUser</span>.</h3><ul class="cm-janrain-overlay-links"><li><span class="cm-icon cm-icon-user"></span><a href="/profile/edit/private" class="cm-not-modal-content">Your Profile</a></li><li><span class="cm-icon cm-icon-alerts"></span><a href="/newsletters/subscriptions/" class="cm-not-modal-content">Newsletters &amp; Alerts</a></li><li><span class="cm-icon cm-icon-book-open"></span><a href="http://myaccount.palmbeachpost.com" class="cm-not-modal-content">Your Subscription</a></li></ul><div class="cm-janrain-overlay-footer"><a class="capture_end_session cmLogout cm-not-modal-content" href="/auth/logout">Sign Out</a></div></div></div></div></span><script>
+    janrain.on('cmg_ready', function() {
+        cmg.query('#cm-user-icon').css('display', 'inline');
+    });
+</script></div></div></div><div class="cm-navbar-pinned-story-container"><div class="cm-navbar-pinned-story"><div class="cm-navbar-pinned-story-headline"></div><div class="cm-pinned-story-headline-social"><div class="cm-navbar-comments"><span> COMMENTS</span><span class="cm-navbar-comment-bubble">0</span></div><div class="cm-menu-navbar-pinned-social-links"><a href="#" class="cm-share"><span class="cm-icon cm-icon-export"></span></a><a href="http://www.twitter.com/pbpost"><span class="cm-icon cm-icon-twitter"></span></a><a href="http://www.facebook.com/palmbeachpost"><span class="cm-icon cm-icon-facebook"></span></a></div></div></div></div><div class="cm-navbar-pinned-outside"></div><div class="cm-navbar-drill-down-container"><div class="cm-navbar-dropdown"><div class="cm-navbar-second-section-container"><div class="cm-upsell-expanded"><div class="cm-navbar-nested-list"><h5>
+      SHORTCUTS
+    </h5><ul><a class="cm-not-modal-content" href="http://www.legacy.com/obituaries/palmbeachpost/"><li>
+          Obituaries
+        </li></a><a class="cm-not-modal-content" href="http://www2.palmbeachpost.com/projects/classifieds/place-an-ad.php"><li>
+          Place a Classified Ad
+        </li></a><a class="cm-not-modal-content" href="https://myaccount.palmbeachpost.com/dsssubscribe.aspx?premium=n"><li>
+          Subscribe
+        </li></a><a class="cm-not-modal-content" href="https://myaccount.palmbeachpost.com/"><li>
+          Customer Care
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/s/floridahome/"><li>
+          Real Estate
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/s/jobs/"><li>
+          Jobs
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/s/autos/"><li>
+          Autos
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/customer-care"><li>
+          Contact Us
+        </li></a><a class="cm-not-modal-content" href="http://realsolutions.palmbeachpost.com/"><li>
+          Advertising
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/services/products/product-index/"><li>
+          Digital Products
+        </li></a></ul></div><div class="cm-upsell-list"><h5>Explore these products from</h5><i class="cm-sprite cm-sprite-The-Palm-Beach-Post"></i><a href="http://www.palmbeachpost.com/" class="cm-not-modal-content">
+        PalmBeachPost.com
+      </a><a href="http://www.mypalmbeachpost.com/" class="cm-not-modal-content">
+        MyPalmBeachPost.com
+      </a><a href="http://www.pbgametime.com/" class="cm-not-modal-content">
+        PBGametime.com
+      </a><a href="http://www.palmbeachpost.com/today" class="cm-not-modal-content">
+        Palm Beach Post ePaper
+      </a><a href="http://www.palmbeachdailynews.com/" class="cm-not-modal-content">
+        PalmBeachDailyNews.com
+      </a></div></div><div class="cm-upsell-collapsed"><div class="cm-navbar-nested-list"><h5>
+      Shortcuts
+    </h5><ul><a class="cm-not-modal-content" href="http://www.legacy.com/obituaries/palmbeachpost/"><li>
+          Obituaries
+        </li></a><a class="cm-not-modal-content" href="https://myaccount.palmbeachpost.com/"><li>
+          Customer Care
+        </li></a><a class="cm-not-modal-content" href="https://myaccount.palmbeachpost.com/dsssubscribe.aspx?premium=n"><li>
+          Subscribe
+        </li></a><a class="cm-not-modal-content" href="http://www.palmbeachpost.com/s/classifieds/"><li>
+          Classifieds
+        </li></a></ul></div><div class="cm-upsell-list"><h5>Explore these products from</h5><i class="cm-sprite cm-sprite-The-Palm-Beach-Post"></i><a href="http://www.palmbeachpost.com/" class="cm-not-modal-content">
+        PalmBeachPost.com
+      </a><a href="http://www.mypalmbeachpost.com/" class="cm-not-modal-content">
+        MyPalmBeachPost.com
+      </a><a href="http://www.pbgametime.com/" class="cm-not-modal-content">
+        PBGametime.com
+      </a><a href="http://www.palmbeachpost.com/today" class="cm-not-modal-content">
+        Palm Beach Post ePaper
+      </a><a href="http://www.palmbeachdailynews.com/" class="cm-not-modal-content">
+        PalmBeachDailyNews.com
+      </a></div></div><style>
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded .cm-navbar-nested-list { width: 145px; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded .cm-upsell-list { margin: 5px 0 0 15px; width: 205px; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded img,
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-collapsed img { width: 100%; margin: 10px 0; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-collapsed img { width: 95%; margin: 5px 0; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded .cm-upsell-list a,
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-collapsed .cm-upsell-list a { font-weight: bold; color: #006cb7; display: inline-block; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded .cm-upsell-list a { height:30px; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-expanded .cm-upsell-list ul { list-style: none; }
+.cm-navbar-container .cm-navbar-drill-down-container .cm-navbar-dropdown .cm-navbar-second-section-container .cm-upsell-collapsed { height: 285px; }
+</style><div class="cm-ad-column"><div class="cm-navbar-ad"><div class="adgeletti-ad-div NV01 bp-0px-infinity" id="adgeletti-ad-div-NV01-0px-infinity" style="display:none"></div></div></div></div></div></div></div><script id="cm-navbar-weather" type="text/template"><a href="/weather/<%= zip_code %>/"><div class="cm-navbar-section cm-navbar-weather"><div class="cm-navbar-section-left"><div class="cm-weather-icon x-small"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common//premium/images/sprites/weather/sprites-2-lightbg.png" /></div></div><div class="cm-navbar-section-right"><%= temperature %>&deg;
+            </div></div></a></script><script type="text/javascript">
+    (function($) {
+        var weather_widget_path = '/weather/currentconditions/';
+        var site_zip = '33401';
+        try {
+            var user_cookie_data_raw = $.cookie('_cmg_weather_location'),
+                user_cookie_data = JSON.parse(user_cookie_data_raw),
+                user_zip = user_cookie_data.zip_code;
+        } catch (err) {
+            var user_zip = "";
+        }
+
+        cmg.cmgMainNav = $('.cm-navbar-container').cmgMainNav();
+        cmg.cmgMainNav.init();
+
+        if (user_zip) {
+            cmg.cmgMainNav.initWeather(weather_widget_path, user_zip);
+        } else if (site_zip !== "") {
+            cmg.cmgMainNav.initWeather(weather_widget_path, site_zip);
+        }
+    }(cmg.query));
+ </script><div class="cm-navbar-footer"><div class="cm-navbar-footer-bar"><div class="cm-navbar-internal"><span class="cm-site-index">Full Site Index</span><a href="http://www.palmbeachpost.com/visitor_agreement/">Visitor Agreement</a><a href="http://www.palmbeachpost.com/privacy_policy/">Privacy Policy</a><a href="http://www.palmbeachpost.com/customer-care">Contact Us</a><div class="cm-navbar-footer-top"><div class="cm-top-container">Top</div><div class="cm-icon cm-icon-up-open-big"></div></div></div></div></div><script type="text/javascript">
+    cmg.query(function($) {
+      cmg.cmgMainFooter = $('.cm-navbar-footer').cmgMainFooter();
+      cmg.cmgMainFooter.init();
+    });
+ </script><div class="cm-site-index-container"><div class="cm-site-index-chunk-container"><div class="cm-site-index-content"><div class="cm-site-index-close-button">CLOSE<span class="cm-icon cm-icon-close"></span></div><div class="cm-site-index-column"><div class="cm-large-heading">SECTIONS</div><ul><li><a href="http://www.palmbeachpost.com/s/news/">news</a></li><li><a href="http://www.palmbeachpost.com/s/sports/">sports</a></li><li><a href="http://www.palmbeachpost.com/s/living/">life</a></li><li><a href="http://www.palmbeachpost.com/flist/news/local/neighborhoods/fbz/">neighborhoods</a></li><li><a href="http://www.palmbeachpost.com/s/classifieds/">classifieds</a></li><li><a href="http://www.palmbeachpost.com/s/entertainment/">things to do</a></li><li><a href="http://video.palmbeachpost.com/">videos</a></li></ul></div><div class="cm-site-index-column"><div class="cm-large-heading">PARTNERS</div><ul><li><a href="http://findnsave.palmbeachpost.com/">find n save</a></li><li><a href="http://www.kudzu.com">kudzu</a></li><li><a href="http://www.autotrader.com">auto trader</a></li><li><a href="http://www.valpak.com/coupons/home">valpak</a></li><li><a href="http://www.palmbeachdailynews.com">palm beach daily news</a></li><li><a href="http://ideabarmedia.com">ideabar digital services</a></li></ul></div><div class="cm-site-index-column"><div class="cm-large-heading">SHORTCUTS</div><ul><li><a href="http://www.legacy.com/obituaries/palmbeachpost/">obituaries</a></li><li><a href="http://www2.palmbeachpost.com/projects/classifieds/place-an-ad.php">place a classified ad</a></li><li><a href="http://www.palmbeachpost.com/customer-care">contact us</a></li><li><a href="http://www.palmbeachpost.com/s/classifieds/">classifieds</a></li><li><a href="http://www.palmbeachpost.com/s/floridahome/">real estate</a></li><li><a href="http://www.palmbeachpost.com/s/jobs/">jobs</a></li><li><a href="http://www.palmbeachpost.com/s/autos/">autos</a></li><li><a href="http://realsolutions.palmbeachpost.com/">advertise with us</a></li><li><a href="http://www.palmbeachpost.com/announcements/placeanad/">place an announcement</a></li><li><a href="http://www.mypalmbeachpost.com/services/products/pcs/">digital products</a></li><li><a href="https://myaccount.palmbeachpost.com/">customer care</a></li><li><a href="https://myaccount.palmbeachpost.com/dsssubscribe.aspx?premium=n">subscribe</a></li></ul></div><div class="cm-site-index-column"><div class="cm-large-heading">FUN</div><ul><li><a href="http://games.palmbeachpost.com/">games</a></li></ul><div class="cm-large-heading">FOLLOW US</div><ul><li><a href="http://www.palmbeachpost.com/mobile_services/">mobile alerts</a></li><li><a href="http://www.palmbeachpost.com/newsletters/subscriptions/">newsletters</a></li><li><a href="http://www.facebook.com/palmbeachpost">facebook</a></li><li><a href="http://www.twitter.com/pbpost">twitter</a></li><li><a href="http://instagram.com/pbpost">instagram</a></li><li><a href="http://www.youtube.com/user/PalmBeachPost">youtube</a></li><li><a href="http://www.pinterest.com/pbpost">pinterest</a></li><li><a href="http://www.palmbeachpost.com/rss/">rss</a></li></ul></div><div class="cm-site-index-column"><div class="cm-large-heading">UTILITIES</div><ul><li><a href="http://newsite.palmbeachpost.com">take a tour</a></li><li><a href="http://www.palmbeachpost.com/services/archives/">archives</a></li><li><a href="http://www.palmbeachpost.com/profile/edit/private">member center</a></li><li><a href="http://www.palmbeachpost.com/weather/">weather</a></li><li><a href="http://www.palmbeachpost.com/traffic/">traffic map</a></li><li><a href="http://floridapublicnotices.com/">public notices</a></li><li><a href="http://www.zazzle.com/gallerypalmbeach">gallery palm beach</a></li><li><a href="http://nieonline.com/palmbeachpost/">newspapers in education</a></li><li><a href="http://palmbeachpost.magreprints.com/">reprints/licensing</a></li><li><a href="http://www.palmbeachpost.com/internship-program">internships</a></li><li><a href="http://www.palmbeachpost.com/sitemap/">sitemap</a></li></ul></div><div class="cm-site-index-products"><div class="cm-large-heading">PRODUCTS</div><ul><li><a href="http://www.palmbeachpost.com"><img src="http://media.cmgdigital.com/shared/img/photos/2014/11/07/54/3b/index-gfx-1.png"></a></li><li><a href="http://www.mypalmbeachpost.com"><img src="http://media.cmgdigital.com/shared/img/photos/2014/11/07/e4/1c/index-gfx-2_1.png"></a></li><li><a href="http://www.palmbeachpost.com/today"><img src="http://media.cmgdigital.com/shared/img/photos/2014/11/07/33/91/index-gfx-3.png"></a></li><li><a href="http://www.palmbeachpost.com"><img src="http://media.cmgdigital.com/shared/img/photos/2014/11/07/5c/10/index-gfx-4.png"></a></li></ul><a href="https://myaccount.palmbeachpost.com/dsssubscribe.aspx?premium=n"><div class="cm-subscribe-button">SUBSCRIBE</div></a></div><style>
+    .cm-site-index-column:nth-last-of-type(2) {
+        padding-right: 0;
+    }
+    .cm-site-index-column .cm-large-heading {
+        font-size: 28px;
+    }
+    .cm-site-index-products ul li {
+        margin-right: 70px !important;
+    }
+</style></div><div class="cm-site-index-footer"><div class="cm-social"><h3>FOLLOW US</h3><a href="http://www.facebook.com/palmbeachpost"><span class="cm-icon cm-icon-facebook"></span></a><a href="http://www.twitter.com/pbpost"><span class="cm-icon cm-icon-twitter"></span></a></div><div class="cm-legal">
+                © 2015 
+<a class="cm-not-modal-content" href="http://www.coxmediagroup.com/">
+  Cox Media Group</a>.
+By using this website, you accept the terms of our 
+<a class="cm-not-modal-content" href="/visitor_agreement/">
+  Visitor Agreement</a> 
+and 
+<a class="cm-not-modal-content" href="/privacy_policy/">
+  Privacy Policy</a>, and understand your options regarding 
+<a class="cm-not-modal-content" href="/privacy_policy/#ad-choices">
+  Ad Choices</a>.
+Learn about <a class="cm-not-modal-content" href="http://www.coxmediagroup.com/careers/">careers at Cox Media Group</a>.
+            </div></div></div></div><script type="text/javascript">
+    cmg.query(function($) {
+      cmg.cmgSiteIndex = $('.cm-site-index-container').cmgSiteIndex();
+      cmg.cmgSiteIndex.init();
+    });
+ </script><!-- retargeting body --><div class="cm-retargeting-pixels cm-retargeting-pixels-body"><script type="text/javascript">
+adroll_adv_id = "4FZHZQH6SREYHDKMW26KBQ";
+adroll_pix_id = "UAXLNXOSZZBZTNOZQSYCVV";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com/" : "http://a.adroll.com/");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><!-- PAL-POS-NEWS Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS2K2L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TS2K2L');</script><!-- End Google Tag Manager --></div><!-- end retargeting body --><!-- begin analytics block --><script type="text/javascript">
+        var domain = window.location.host || '';
+        var _sf_async_config;
+        if (domain.indexOf("www.") == 0) {
+            _sf_async_config = {uid:31585,domain:"palmbeachpost.com",path:"/news/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/",title:"Napoli home run helps Red Sox beat Rays 7-5"};
+        } else {
+            var new_domain = "m." + "palmbeachpost.com";
+            _sf_async_config={uid:31585,domain:new_domain,path:"/news/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/",title:"Napoli home run helps Red Sox beat Rays 7-5"};
+        }
+        _sf_async_config.playerdomain = "c.brightcove.com";
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',
+                   (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :     "http://static.chartbeat.com/") +
+                   "js/chartbeat.js");
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script><span style="display:none;" id="cm_s_code"></span><!-- SiteCatalyst code version: H.25.5.
+        Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+        More info available at http://www.omniture.com --><script type="text/javascript">//<![CDATA[
+            
+            
+            
+
+            
+            var cx_siteName = "pbp";
+            var cx_rsID = "coxpalmbeachpost";
+            var cx_marketpath = "fl: west palm beach";
+            var cx_medium = "newspaper";
+
+            var s_account = cx_rsID;
+
+            
+            if (("prod" == "prod") &&
+                (!((/www.prod.palmbeachpost/.test(window.location.host))
+                || (/m.prod.palmbeachpost/.test(window.location.host))))) {
+                    if (cx_medium == "radio" || cx_medium == "tv" || cx_medium == "newspaper" ) {
+                        s_account = s_account+",coxglobal";
+                    }
+                }
+            else {
+                
+                s_account = "coxradiodev,coxnewspaperdev,coxtvdev";
+            }
+        //]]></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/AppMeasurement.js"></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/bower_libs/omniture_utilities/omniture_utilities.min.js"></script><script type="text/javascript">//<![CDATA[
+
+        (function() { "use strict";
+
+            
+            cmg.s_coxnews.siteName=cx_siteName;
+            cmg.s_coxnews.linkInternalFilters = "javascript:,doubleclick.net,alt.coxnewsweb.com,legacy.com,uclick.com,signin.cmgdigital.com,www.palmbeachpost.com,outbrain.com";
+            cmg.s_coxnews.server = window.location.host;
+            cmg.s_coxnews.prop13 = cmg.s_coxnews.eVar13 = document.title.replace("| www.palmbeachpost.com", "");
+
+            if (metrics_signin == 1) {
+                cmg.s_coxnews.prop22 = cmg.s_coxnews.eVar22 = "gur";
+            }
+
+            
+            cmg.s_coxnews.prop63 = cmg.s_coxnews.eVar63 = location.protocol + '//' + location.host + location.pathname + location.search;
+
+            
+            if (cmg.s_coxnews.prop13.length == 0) {
+                cmg.s_coxnews.prop13 = cmg.s_coxnews.eVar13 = "no page title available";
+            }
+            cmg.s_coxnews.hier3 = cmg.s_coxnews.channel = cmg.s_coxnews.eVar56 = "no category";
+
+            
+
+            
+            if(cx_medium=="radio" || cx_medium=="tv" || cx_medium=="newspaper") {
+                cmg.s_coxnews.hier1 = cx_marketpath+"|"+cx_medium+"|"+cx_siteName;
+                cmg.s_coxnews.hier2 = cx_medium+"|"+cx_marketpath+"|"+cx_siteName;
+                
+                var search_page_re = new RegExp(cmg.s_coxnews.server+"\/search");
+                var search_match = search_page_re.exec(window.location);
+                
+                if (cmg.s_coxnews.hasOwnProperty('getQueryParam')) {
+                    var queryParam = cmg.s_coxnews.getQueryParam;
+                } else {
+                    var queryParam = cmg.s_coxnews.Util.getQueryParam;
+                }
+                if(search_match !== null && typeof cx_no_results !== 'undefined'){
+                    cmg.s_coxnews.eVar1 = queryParam('q');
+                    if(cx_no_results){
+                        cmg.s_coxnews.events = "event13,event14";
+                        cmg.s_coxnews.prop46 = "no";
+                    } else {
+                        cmg.s_coxnews.events = "event13";
+                        cmg.s_coxnews.prop46 = "yes";
+                    }
+                    if (queryParam("searchType") == "web") {
+                        cmg.s_coxnews.eVar45=cmg.s_coxnews.prop45 = "web";
+                    } else {
+                        cmg.s_coxnews.eVar45=cmg.s_coxnews.prop45 = "site";
+                    }
+                }
+                if (cx_medium == "radio") {
+                    cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "";
+                }
+                else if (cx_medium == "tv") {
+                    cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "tv";
+                }
+                else if (cx_medium == "newspaper") {
+                   cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "newspaper";
+                }
+            }
+
+            
+            
+cmg.s_coxnews.prop9 = "ap";
+cmg.s_coxnews.eVar9 = "ap";
+cmg.s_coxnews.hier3 = "news|local";
+cmg.s_coxnews.list1 = "mikie mahtook,john farrell,sports_management,kevin cash,junichi tazawa,jake mcgee,jake mcgee,hanley ramirez,desmond jennings,athlete health,matt moore,matt moore,joe kelly,joe kelly,koji uehara,koji uehara,john jaso,politician,drew smyly,pablo sandoval,pablo sandoval,athlete injuries,sports trading,boston,david ortiz,sports transactions,sports business,professional_athlete,united states,men&#39;s sports,ap state online - florida,mlb baseball,game story,american league,massachusetts,baseball,boston red sox,sports_figure,alejandro de aza,blake swihart,north america,tampa bay rays,mike napoli,sports,professional baseball,al east";
+cmg.s_coxnews.prop21 = "cmgdefault";
+cmg.s_coxnews.eVar21 = "cmgdefault";
+cmg.s_coxnews.prop16 = "non-mobile site";
+cmg.s_coxnews.eVar16 = "non-mobile site";
+cmg.s_coxnews.prop22 = "article";
+cmg.s_coxnews.eVar22 = "article";
+cmg.s_coxnews.prop23 = "jimmy golen";
+cmg.s_coxnews.eVar23 = "jimmy golen";
+cmg.s_coxnews.prop42 = "pbp";
+cmg.s_coxnews.eVar42 = "pbp";
+cmg.s_coxnews.prop14 = "local";
+cmg.s_coxnews.eVar14 = "local";
+cmg.s_coxnews.prop4 = "";
+cmg.s_coxnews.eVar4 = "";
+cmg.s_coxnews.prop5 = "";
+cmg.s_coxnews.eVar5 = "";
+cmg.s_coxnews.prop6 = "";
+cmg.s_coxnews.eVar6 = "";
+cmg.s_coxnews.prop7 = "24";
+cmg.s_coxnews.eVar7 = "24";
+cmg.s_coxnews.prop17 = "";
+cmg.s_coxnews.eVar17 = "";
+cmg.s_coxnews.prop1 = "1057";
+cmg.s_coxnews.eVar12 = "1057";
+cmg.s_coxnews.prop2 = "";
+cmg.s_coxnews.eVar2 = "";
+cmg.s_coxnews.prop3 = "";
+cmg.s_coxnews.eVar3 = "";
+cmg.s_coxnews.pageName = "/re/292/3011114/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnbhq/";
+cmg.s_coxnews.eVar55 = "/re/292/3011114/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnbhq/";
+cmg.s_coxnews.prop33 = "3011114";
+cmg.s_coxnews.eVar33 = "3011114";
+cmg.s_coxnews.channel = "news";
+cmg.s_coxnews.eVar56 = "news";
+
+            var revpathArray = document.getElementsByName("cmg_revpath");
+            var pathNameStr = "";
+            if(revpathArray.length > 0 && revpathArray[0].content !== ""){
+                pathNameStr = revpathArray[0].content;
+            } else {
+                pathNameStr = window.location.pathname.split(/[#?]/)[0];
+                if(pathNameStr === "/"){
+                    pathNameStr = "/homepage/";
+                }
+            }
+            if(cmg.s_coxnews.prop22 == "404 page"){
+                pathNameStr = "/404_page" + pathNameStr;
+            }
+
+            if(pathNameStr.length > 99){
+                pathNameStr = pathNameStr.substr(0,98) + "/";
+            }
+
+            
+                cmg.s_coxnews.pageName = cmg.s_coxnews.eVar55 = pathNameStr.toLowerCase();
+            
+
+            
+
+            var authPromise = null;
+
+            function authType(status) {
+                if (!status) {
+                    return "non-subscriber";
+                }
+
+                var type = cmg.authorization.auth_type();
+                var map = {
+                    staff: "staff user",
+                    medleyopenhouse: "open house subscriber",
+                    mg2: "subscriber"
+                };
+
+                return map[type] || type;
+            }
+
+            if (cmg.site_meta && cmg.site_meta.media_type === 'premium') {
+
+                authPromise = new Promise(function(resolve) {
+                    var auth_url = 'http://www.palmbeachpost.com/profile/janus-auth/';
+                    cmg.authorization.check(auth_url, function(json) {
+                        resolve();
+                        var auth = json && json.authorized;
+
+                        if (cmg.site_meta.premium_status === 'premium') {
+                            cmg.s_coxnews.eVar52 = cmg.s_coxnews.prop52 = auth ? "full page" : "stubbed";
+                        }
+
+                        cmg.s_coxnews.eVar48 = cmg.s_coxnews.prop48 = authType(auth);
+                    });
+                });
+
+                authPromise = Promise.race([
+                    authPromise,
+                    new Promise(function(resolve) { setTimeout(resolve, 5000); })
+                ]);
+
+            } else {
+                
+                if (cmg.site_meta && cmg.site_meta.premium_status === 'premium') {
+                    cmg.s_coxnews.eVar52=cmg.s_coxnews.prop52 = "stubbed";
+                }
+            }
+            
+            
+            
+                if (/\/s\/blotter/.test(window.location.href)) {
+                    cmg.s_coxnews.events = "event1,event38";
+                    cmg.s_coxnews.event38 = "event38";
+                    cmg.s_coxnews.prop22 = cmg.s_coxnews.eVar22 = "gallery";
+                    cmg.s_coxnews.prop24 = cmg.s_coxnews.eVar24 = "Latest 100 Arrests from the PBSO Booking Blotter";
+                }
+            
+
+            
+            var cookie = cmg.query.cookie('ur_metrics');
+            if (cookie) {
+                
+                if (cookie.charAt(0) === '"') {
+                    cookie = cookie.slice(1, -1);
+                }
+                
+                var cpp = {"prop2": {"start": 25, "length": 50}, "eVar2": {"start": 25, "length": 50}, "eVar12": {"start": 0, "length": 4}, "prop6": {"start": 18, "length": 5}, "prop4": {"start": 8, "length": 5}, "prop5": {"start": 13, "length": 5}, "eVar3": {"start": 4, "length": 4}, "prop7": {"start": 23, "length": 2}, "eVar5": {"start": 13, "length": 5}, "prop1": {"start": 0, "length": 4}, "eVar7": {"start": 23, "length": 2}, "eVar6": {"start": 18, "length": 5}, "eVar4": {"start": 8, "length": 5}, "prop3": {"start": 4, "length": 4}};
+                for (var prop in cpp) {
+                    cmg.s_coxnews[prop] = cmg.query.trim(cookie.substr(cpp[prop].start, cpp[prop].length));
+                }
+            }
+
+            
+            for (var key in cmg.s_coxnews) {
+                if (cmg.s_coxnews[key] && key.match(/prop|eVar|hier/) !== null) {
+                    cmg.s_coxnews[key] = cmg.s_coxnews[key].toLowerCase();
+                }
+            }
+
+            Promise.resolve(authPromise).then(function() {
+                cmg.query(document).ready(function () {
+                    if (typeof(cmg.metrics_consolidator) !== "undefined") {
+                        
+
+                        cmg.metrics_consolidator.apply_on_ready(cmg_t, 'base');
+                    } else {
+                        cmg_t();
+                    }
+
+                    function cmg_t() {
+                        
+                        var s_code = cmg.s_coxnews.t();
+                        if (s_code) { cmg.query('#cm_s_code').text(s_code); }
+                    }
+                });
+            });
+
+        })();
+
+        //]]></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="https://coxnet.112.2o7.net/b/ss/coxpalmbeachpost/1/H.25.1--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!-- Quantcast Tag --><script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct:"p-38KriKc8Foyx-",
+            labels:".newspaper"
+        });
+    </script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-38KriKc8Foyx-.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!-- End Quantcast tag --><!-- Qualtrics Tag --><!-- requires javascript/qualtrics.js?zid="{{qz_id}}"&rate="{{qz_samplerate}}" --><div id="qualtrics_zone"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div><noscript><a target="_blank" href="http://www.qualtrics.com/enterprise-feedback-management">Enterprise Feedback Management</a><br/><a target="_blank" href="http://www.qualtrics.com/survey-software">Survey Software</a><br/></noscript><!-- End Qualtrics tag --><!-- end analytics block --><!-- content container block, which contains the content within the body html tag  --><div class="cm-modal-container 
+    cm-modal-page
+" ><div class="cm-modal-backdrop"><section class="cm-modal-content"><a href="#" class="cm-close-modal">x</a><div class="cm-story-container"><div class="cm-lg-32"><div class="cm-WP01 cm-wallpaper-always-above-nav"><div class="adgeletti-ad-div WP01 bp-0px-infinity" id="adgeletti-ad-div-WP01-0px-infinity" style="display:none"></div></div></div><div class="cm-story-header"><div class="cm-section-ribbon cm-section-news"><a class="cm-section-btn" href="http://www.palmbeachpost.com/s/news/">News</a><div class="cm-section-ribbon-nav cm-section-ribbon-nav-left"><a href="#" title="next" class="cm-ribbon-next"></a><a href="#" title="previous" class="cm-ribbon-previous"></a></div><div class="cm-section-ribbon-container"><div class="cm-section-ribbon-stories"><div class="cm-storycard cm-storycard-image_small cm-section-neighborhoods  " data-published="2015-08-01T10:57:38-04:00"
+
+
+data-updated="2015-08-01T21:47:30-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/local/missing-florida-teens-boys-families-seek-pilots-in/nnBPF/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/photos/2015/08/01/58/42/Rex-image-1_1.jpg" width="90" border="0" alt="" title="Online fundraising tops $400,000 for missing Tequesta teens"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/local/missing-florida-teens-boys-families-seek-pilots-in/nnBPF/">
+            
+
+    
+
+
+            Online fundraising tops $400,000 for missing Tequesta teens
+        </a></h3></div><div class="cm-storycard cm-storycard-image_small cm-section-news  " data-published="2015-08-01T17:03:11-04:00"
+
+
+data-updated="2015-08-01T21:47:02-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/traffic/report-all-northbound-turnpike-lanes-closed-near-s/nnBTy/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/photos/2015/08/01/34/c5/bus-fire2.jpg" width="90" border="0" alt="" title="Bus full of teenagers catches fire on Turnpike near Stuart"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/traffic/report-all-northbound-turnpike-lanes-closed-near-s/nnBTy/">
+            
+
+    
+
+
+            Bus full of teenagers catches fire on Turnpike near Stuart
+        </a></h3></div><div class="cm-storycard cm-storycard-image_small cm-section-news cm-includes-attribution " data-published="2015-07-31T17:24:19-04:00"
+
+
+data-updated="2015-08-01T21:34:24-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/missing-teens-spent-their-days-of-good-clean-fun-o/nm94w/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/photos/2015/07/31/59/68/Fisherboy2.jpg" width="90" border="0" alt="" title="Missing teens defined salt life in South Florida"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/missing-teens-spent-their-days-of-good-clean-fun-o/nm94w/"><div class="cm-source">via MyPalmBeachPost.com</div>
+
+
+            Missing teens defined salt life in South Florida
+        </a></h3></div><div class="cm-storycard cm-storycard-image_small cm-section-news  " data-published="2015-08-01T12:30:10-04:00"
+
+
+data-updated="2015-08-01T21:12:33-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/national/stone-mountain-rally-about-heritage-not-hate-parti/nnBYc/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/photos/2015/08/01/6b/a1/dsc_0952.jpg" width="90" border="0" alt="" title="Stone Mountain rally about ‘heritage’, not hate, participants say"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/national/stone-mountain-rally-about-heritage-not-hate-parti/nnBYc/">
+            
+
+    
+
+
+            Stone Mountain rally about ‘heritage’, not hate, participants say
+        </a></h3></div><div class="cm-storycard cm-storycard-image_small cm-section-news  " data-published="2015-08-01T21:10:06-04:00"
+
+
+data-updated="2015-08-01T21:10:06-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/national/recall-kraft-recalls-cheese-potential-choking-haza/nnBYr/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/photos/2015/08/01/a6/cc/1LB.jpg" width="90" border="0" alt="" title="Kraft recalls cheese for potential choking hazard"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/national/recall-kraft-recalls-cheese-potential-choking-haza/nnBYr/">
+            
+
+    
+
+
+            Kraft recalls cheese for potential choking hazard
+        </a></h3></div><div class="cm-storycard cm-storycard-image_small cm-section-news  " data-published="2015-08-01T19:12:54-04:00"
+
+
+data-updated="2015-08-01T21:08:43-04:00"
+ data-vr-contentbox><a href="http://www.palmbeachpost.com/news/news/national/little-girl-battling-cancer-gets-new-bedroom-non-p/nnBYb/" class="cm-tease-thumb-link"><img height="57" src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/90x57/img/videothumbs/2015/08/01/da/40/84f72040-38a4-11e5-8af1-848f69deab2d.jpg" width="90" border="0" alt="" title="Girl battling cancer gets bedroom makeover"></a><h3 class="cm-box-footer-link"><a href="http://www.palmbeachpost.com/news/news/national/little-girl-battling-cancer-gets-new-bedroom-non-p/nnBYb/">
+            
+
+    
+
+
+            Girl battling cancer gets bedroom makeover
+        </a></h3></div></div></div><div class="cm-section-ribbon-nav cm-section-ribbon-nav-right"><a href="#" title="next" class="cm-ribbon-next"></a><a href="#" title="previous" class="cm-ribbon-previous"></a></div><script type="text/javascript">
+        cmg.query(document).ready(function($) {
+            $('.cm-section-ribbon').ribbon();
+        });
+
+    </script></div><div class="cm-story-topad"><div class="cm-top-ad cm-hp01-ad"><div class="adgeletti-ad-div HP01 bp-0px-infinity" id="adgeletti-ad-div-HP01-0px-infinity" style="display:none"></div></div></div></div><div class="cm-story-utils"><div class="cm-story-source cm-story-author"><span class="cm-tablet-hide">JIMMY GOLEN</span><div class="cm-source-title cm-tablet-hide">
+                                    The Associated Press
+                                </div></div><div class="cm-story-headline "><h1>Napoli home run helps Red Sox beat Rays 7-5</h1><div class="cm-story-meta"><span class="cm-timestamp"></span> 11:30 p.m. Friday, July 31, 2015
+                    
+                    
+                    
+                        
+                            | Filed in: <a href="http://www.palmbeachpost.com/s/news/">News</a></div></div><div class="cm-story-share" 
+
+data-lnk="http://www.palmbeachpost.com/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/" data-summary="No wonder Mike Napoli wanted to stay with the Red Sox: That home run he hit off the top of the Green Monster would not have been out of any ballpark but Boston's.
+                  "It was a nice Fenway homer," Napoli said on Friday night after his two-run drive in the seventh inning gave the Red Sox the lead for good in a 7-5 victory over the Tampa Bay Rays.
+                  
+
+
+    
+    
+        
+        
+            
+
+
+
+    
+        
+            
+        
+    
+
+
+Boston Red Sox's Mike Napoli,..." data-headline="Napoli home run helps Red Sox beat Rays 7-5"><a href="#" class="cm-share cm-share-facebook" title="Share on Facebook" target="_blank"></a><a href="#" class="cm-share cm-share-twitter" title="Share on Twitter" target="_blank"></a><a href="#" class="cm-share cm-share-icon" data-placement="bottom" tabindex="0"></a><a href="#" class="cm-story-comments">
+                            Comments
+                            <span class="cm-comment-count">0</span></a></div></div><div class="cm-story-content"><div class="cm-column-835 cm-tablet-column-675 cm-column-no-pad cm-column-no-margin">
+﻿
+
+
+<div class="cm-video-ndn"><div class="ndn_embed" id="ndn-video-player-1" data-config-distributor-id="90068"></div></div><div class="cm-column-220 cm-tablet-column-615 cm-column-no-pad cm-column-centered-row cm-story-nophoto"><div class="referral-box cm-tablet-hide"><div id="writecapture68257676"></div><script type="text/javascript">
+    marimo.emit('writecapture68257676_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE                    <div class='cm-referral-box'>$NEWLINE<div class=\"cm-referral-inner\">$NEWLINE<div class=\"\">$NEWLINE<!--LOGO-->$NEWLINE<a href=\"http://www.mypalmbeachpost.com/\" target=\"_blank\"><img src=\"http://media.cmgdigital.com/shared/img/photos/2014/10/30/b4/a7/mysite-logo_250-wide.png\" style=\"width:180px\"/></a>$NEWLINE</div>$NEWLINE<div class=\"cm-primary-item\">$NEWLINE<!--MAIN ITEM-->$NEWLINE<a href=\"http://www.mypalmbeachpost.com/news/lifestyles/empanadas-the-soul-of-latin-america-wrapped-in-a-h/nm6NH/?ICMP=mypbp_link_MarComBox_ONG_PBP_referral\" target=\"_blank\"><img src=\"http://media.cmgdigital.com/shared/img/photos/2015/07/27/a9/88/Empanadas.jpg\" width=\"218\" height=\"163\"></a>$NEWLINE<p><a href=\"http://www.mypalmbeachpost.com/news/lifestyles/empanadas-the-soul-of-latin-america-wrapped-in-a-h/nm6NH/?ICMP=mypbp_link_MarComBox_ONG_PBP_referral\" target=\"_blank\" style=\"color:#a31e24; line-height: 1.1em;\">Finding the best empanadas PBC</a></p>$NEWLINE</div>$NEWLINE<div class=\"cm-view-more\">$NEWLINE<p style=\"width: 200px; font-size:12px;\">Access to MyPalmBeachPost.com included for Post subscribers</p>$NEWLINE<a href=\"http://www.mypalmbeachpost.com\" target=\"_blank\" class=\"cm-section-btn cm-btn-more\" style=\"top: 60px;\"> Explore</a>$NEWLINE</div>$NEWLINE</div>$NEWLINE</div>$NEWLINE                ", "id": "writecapture68257676", "widget_prototype": "writecapture_widget"});
+</script></div><div class="cm-referral-box cm-newsletter-tease cm-tablet-hide"><div class="cm-referral-inner"><div id="writecapture12531832"></div><script type="text/javascript">
+    marimo.emit('writecapture12531832_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE                        <h1 class=\"cm-referral-header\">NEED TO KNOW MORE?</h1>$NEWLINE $NEWLINE<p><a href=\"/newsletters/subscriptions/\">Sign up</a> for FREE Post<br> e-newsletters. Travel, News, Golf and more. Choose your favorites and we\u2019ll deliver.</p>$NEWLINE                    ", "id": "writecapture12531832", "widget_prototype": "writecapture_widget"});
+</script></div></div></div><script>(function(){var $jsi={};cmg.utility.ExpandStoryImage=function(el,$){var $self=$(el),$parent=$self.parents('.cm-inline'),$animateTarget=$('html, body');if($self.length){$self.click('expand_image',function(e){e.preventDefault();if($parent.hasClass('cm-expanded')){$parent.removeClass('cm-expanded');}else{$('.cm-expanded').removeClass('cm-expanded');$parent.addClass('cm-expanded');}
+$animateTarget.scrollTop($self.offset().top-100);});}};(function($){$(document).ready(function(){var $col_220=$('.cm-column-220');if($col_220.length&&$('.cm-tablet-hide').is(':visible')){var left_col_positional_height=$col_220.offset().top+$col_220.height();$('.cm-story-body .cm-inline').not(':eq(0), .cm-inline-stacked, .cm-end-of-story').each(function(i,rel){if($(rel).offset().top>left_col_positional_height){$(rel).addClass('cm-outset-left');}});}});})(cmg.query);}());</script><div class="cm-column-590 cm-tablet-column-615 cm-column-no-pad cm-column-centered-row"><div class="cm-story-body cm-story-nophoto"><span class="cm-story-dateline"><p>No wonder Mike Napoli wanted to stay with the Red Sox: That home run he hit off the top of the Green Monster would not have been out of any ballpark but Boston's.</p><p>"It was a nice Fenway homer," Napoli said on Friday night after his two-run drive in the seventh inning gave the Red Sox the lead for good in a 7-5 victory over the Tampa Bay Rays.</p><div class="cm-inline cm-inline-medleyphoto cm-inline"><figure><a class="img_7810822" data-asset_id="7810822" href="#7810822" title="Click to View Larger"><img class="dtm-event--nongalleryphoto" data-content-type="medleyphoto" height="378" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/600/img/photos/2015/07/31/96/00/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-0.jpg" width="600" alt="Napoli home run helps Red Sox beat Rays 7-5 photo" title="Napoli home run helps Red Sox beat Rays 7-5" onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Napoli home run helps Red Sox beat Rays 7\u002D5');" /></a></figure><div class="cm-related-caption">Boston Red Sox's Mike Napoli, center, celebrates his two-run home run that also drove in David Ortiz, left, as Tampa Bay Rays' Curt Casali, right, looks on during the seventh inning of a baseball game in Boston, Friday, July 31, 2015. (AP Photo/Michael Dwyer)</div><script type="text/javascript">
+    try {
+        cmg.utility.ExpandStoryImage('.img_7810822', cmg.query);
+    } catch(err) {
+        throw 'Error adding expanding image handler';
+    };
+</script></div><p>A few hours after the trading deadline, when both teams looked to the future, the Red Sox rallied after blowing 3-1 and 4-3 leads to win back-to-back games for the first time in more than three weeks. They did it thanks to Napoli and Alejandro de Aza, another subject of trade talks.</p><p>"For Nap, it probably peaked personally for him today," Red Sox manager John Farrell said. "I'm sure once the deadline closed, some of the ... potential distractions are eliminated."</p><p>The Red Sox had already blown two leads when David Ortiz drew an 11-pitch walk with two outs in the seventh inning.</p><div class="cm-inline cm-inline-medleyphoto cm-inline"><figure><a class="img_7810823" data-asset_id="7810823" href="#7810823" title="Click to View Larger"><img class="dtm-event--nongalleryphoto" data-content-type="medleyphoto" height="413" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/600/img/photos/2015/07/31/91/dc/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-1.jpg" width="600" alt="Napoli home run helps Red Sox beat Rays 7-5 photo" title="Napoli home run helps Red Sox beat Rays 7-5" onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Napoli home run helps Red Sox beat Rays 7\u002D5');" /></a></figure><div class="cm-related-caption">Tampa Bay Rays' Mikie Mahtook (27) and Joey Butler (9) walk to the dug out after scoring on a two-run double by John Jaso during the seventh inning of a baseball game against the Boston Red Sox in Boston, Friday, July 31, 2015. (AP Photo/Michael Dwyer)</div><script type="text/javascript">
+    try {
+        cmg.utility.ExpandStoryImage('.img_7810823', cmg.query);
+    } catch(err) {
+        throw 'Error adding expanding image handler';
+    };
+</script></div><p>"He was fouling off some good pitches, and I was making a lot of good pitches that at-bat," Rays reliever Jake McGee said. "It was kind of just whoever's going to win the battle at the end. It was a really good at-bat by him, and I feel like I made some good pitches."</p><p>Napoli liked a shoulder-high fastball and hit a high fly ball that bounced on the ledge atop the 37-foot-high wall. The 33-year-old first baseman had been on the trading block as someone who would be more useful to a contender than Boston, headed to a second straight last-place finish.</p><p>"I wasn't worried about it. I just came to the park every day to make myself better," said Napoli, who said the team had not given up yet despite entering the night 13 games out with 59 games to play. "I want to be a Red Sox. I signed here. I love my teammates."</p><div class="cm-inline cm-inline-medleyphoto cm-inline"><figure><a class="img_7810825" data-asset_id="7810825" href="#7810825" title="Click to View Larger"><img class="dtm-event--nongalleryphoto" data-content-type="medleyphoto" height="400" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/600/img/photos/2015/07/31/e6/8a/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-2.jpg" width="600" alt="Napoli home run helps Red Sox beat Rays 7-5 photo" title="Napoli home run helps Red Sox beat Rays 7-5" onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Napoli home run helps Red Sox beat Rays 7\u002D5');" /></a></figure><div class="cm-related-caption">Tampa Bay Rays' Mikie Mahtook, left, scores on a two-run double by John Jaso as Boston Red Sox's Blake Swihart bobbles the ball during the seventh inning of a baseball game in Boston, Friday, July 31, 2015. (AP Photo/Michael Dwyer)</div><script type="text/javascript">
+    try {
+        cmg.utility.ExpandStoryImage('.img_7810825', cmg.query);
+    } catch(err) {
+        throw 'Error adding expanding image handler';
+    };
+</script></div><p>De Aza had a pair of RBI singles, one in the first to tie the game 1-1 and another to give Boston a 4-3 lead in the fifth. Blake Swihart also had two hits for the Red Sox, doubling with one out in the eighth and scoring on a wild pitch to make it 7-5.</p><p>Junichi Tazawa (2-3) won despite allowing John Jaso's two-run double that gave Tampa Bay a 5-4 lead in the seventh. Koji Uehara pitched the ninth for his 23rd save in 25 chances.</p><p>McGee (0-1) pitched one inning, giving up two runs on one hit and a walk.</p><div class="cm-inline cm-inline-medleyphoto cm-inline"><figure><a class="img_7810826" data-asset_id="7810826" href="#7810826" title="Click to View Larger"><img class="dtm-event--nongalleryphoto" data-content-type="medleyphoto" height="370" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/600/img/photos/2015/07/31/d1/63/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-3.jpg" width="600" alt="Napoli home run helps Red Sox beat Rays 7-5 photo" title="Napoli home run helps Red Sox beat Rays 7-5" onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Napoli home run helps Red Sox beat Rays 7\u002D5');" /></a></figure><div class="cm-related-caption">Boston Red Sox's Xander Bogaerts slides with the ball on an infield single by Tampa Bay Rays' Evan Longoria during the sixth inning of a baseball game in Boston, Friday, July 31, 2015. (AP Photo/Michael Dwyer)</div><script type="text/javascript">
+    try {
+        cmg.utility.ExpandStoryImage('.img_7810826', cmg.query);
+    } catch(err) {
+        throw 'Error adding expanding image handler';
+    };
+</script></div><p>BLUE MOON</p><p>The teams entered with 9-15 records in July — tied for the worst in the majors for the month. For the Rays, it was their worst July ever.</p><p>The Red Sox, who trailed by 10 games in the AL East on June 20, had cut the deficit in half before losing 12 of 14. Tampa Bay was a season-high 10 games above .500 on June 20 before losing 15 of 18 to fall out of first place.</p><div class="cm-inline cm-inline-medleyphoto cm-inline"><figure><a class="img_7810827" data-asset_id="7810827" href="#7810827" title="Click to View Larger"><img class="dtm-event--nongalleryphoto" data-content-type="medleyphoto" height="367" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/600/img/photos/2015/07/31/3a/b7/0b0f970558294d8d8a83ae183a17548b-ff5f543da4fe47fda8a041654ba729b5-4.jpg" width="600" alt="Napoli home run helps Red Sox beat Rays 7-5 photo" title="Napoli home run helps Red Sox beat Rays 7-5" onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Napoli home run helps Red Sox beat Rays 7\u002D5');" /></a></figure><div class="cm-related-caption">Boston Red Sox's Mike Napoli (12) and Alejandro De Aza celebrate after scoring on a two-run single by Blake Swihart during the first inning of a baseball game against the Tampa Bay Rays in Boston, Friday, July 31, 2015. (AP Photo/Michael Dwyer)</div><script type="text/javascript">
+    try {
+        cmg.utility.ExpandStoryImage('.img_7810827', cmg.query);
+    } catch(err) {
+        throw 'Error adding expanding image handler';
+    };
+</script></div><p>PAPI POWER</p><p>Ortiz was 0-for-3 with a walk. But, oh, what a walk.</p><p>Rays manager Kevin Cash said Ortiz, who is 2-for-8 with two walks in his career against the McGee, took advantage of his experience against the Rays lefty.</p><p>"This is a guy that's seen a ton of at-bats," Cash said. "They've had this match-up plenty of times, and tip your cap to David. It was an excellent at-bat."</p><p>TRAINER'S ROOM</p><p>Rays: LHP Drew Smyly (torn left labrum) was sent on a rehab assignment to Single-A Charlotte. OF Desmond Jennings (left knee bursitis) will rehab at Triple-A Durham.</p><p>Red Sox: OF Hanley Ramirez (left shin) and 3B Pablo Sandoval (left forearm) got the game off. Both will be evaluated again on Saturday.</p><p>UP NEXT</p><p>Rays: Left-hander Matt Moore (1-2) will try to snap a personal two-game losing streak in Game 2 of the series on Saturday at 1:35 p.m. The Rays will have a replacement in the morning for OF Mikie Mahtook, who was sent back down to Triple-A Durham after the game.</p><p>Red Sox: Joe Kelly (2-6) will try to win for the first time since June 6.</p></span><script type="text/javascript" charset="utf-8">
+                                        (function($) {
+                                            cmg.query('span.cm-story-dateline p:first').prepend("<b>BOSTON &mdash;</b> ");
+                                        }(cmg.query));
+                                    </script><div class="cm-story-footer"><a href="#" class="cm-story-comments">
+                                        View Comments
+                                        <span class="cm-comment-count">0</span></a></div></div></div></div></div><div class="cm-story-rail cm-footer-anchor cm-col-300 cm-tablet-column-320 cm-column-no-pad"><div class="cm-box cm-ad cm-rp01-ad"><div class="adgeletti-ad-div RP01 bp-0px-infinity" id="adgeletti-ad-div-RP01-0px-infinity" style="display:none"></div></div><div class="cm-lc-widget-close"></div><div class="cm-lc-widget cm-lc-widget-expanded" style="display:none;"><div class="cm-lc-container"><div class="cm-lc-widget-container"><div class="cm-large-heading cm-comments-heading">
+                Join The Conversation
+            </div><div class="cm-lc-view" id="livefyre-chatter-app"></div><div class="cm-lc-nocontent"><p>There are no comments yet.  Be the first to post your thoughts.  <span class="cm-lc-not-logged-in"><a href="#signin" class="cmOpenJanrainModal" title="Sign in">Sign in</a> or <a href="#register" class="cmOpenJanrainModal" title="Register">register</a>.</span></p></div></div><div class="cm-lc-footer"></div></div></div><script>
+    var janrain_timeout_int = 500,
+        livefyre_livecomments = null,
+        $comment_count_display = cmg.query('.cm-comment-count, .cm-navbar-comment-bubble'),
+        $chatter_large = cmg.query('.cm-lc-widget-expanded'),
+        $chatter_large_close = cmg.query('.cm-lc-widget-close'),
+        toggle_expanded_chatter = function($) {
+            var $ = $ || cmg.query,
+                $pinned_header = $('.cm-navbar-pinned-story-container'),
+                $pinned_header_comment_count = $('.cm-navbar-comments'),
+                $chatter_large_content = $('.cm-lc-widget-expanded .cm-lc-widget-container'),
+                $modal_close = $('.cm-close-modal'),
+                height = $(window).height() - 80;
+            if ($chatter_large.is(':visible')) {
+                $chatter_large
+                    .animate({
+                        height: 0
+                    }, {
+                        duration: 200,
+                        complete: function() {
+                            $chatter_large_close.fadeOut();
+                            $modal_close
+                                .fadeIn()
+                                .removeClass('cm-hidden');
+
+                            $(this).fadeOut('slow', function() {
+                                /* Reset header after the fadeOut is complete. This has to happen after the
+                                 * fadeOut because cmgMainNav.headline_check checks whether the widget is
+                                 * visible to determine whether or not to display the headline, and it's
+                                 * visible during the animation. */
+                                if ($pinned_header.length) {
+                                    $pinned_header_comment_count.removeClass('active');
+                                    if (typeof cmg.cmgMainNav !== 'undefined') {
+                                        if (typeof cmg.cmgMainNav.show_navbar_for_height === 'function') {
+                                            cmg.cmgMainNav.show_navbar_for_height();
+                                        }
+                                        if (typeof cmg.cmgMainNav.headline_check === 'function') {
+                                            cmg.cmgMainNav.headline_check()();
+                                        }
+                                    }
+                                }
+                            });
+                        }
+                    });
+            } else {
+                $chatter_large
+                    .fadeIn('slow')
+                    .animate({
+                        height: height
+                    }, {
+                        duration: 200,
+                        complete: function() {
+                            if ($pinned_header.length) {
+                                $pinned_header_comment_count.addClass('active');
+                                if (typeof cmg.cmgMainNav !== 'undefined' && typeof cmg.cmgMainNav.display_story_headline !== 'undefined') {
+                                    cmg.cmgMainNav.display_story_headline();
+                                }
+                            }
+                            $chatter_large_close.fadeIn();
+                            $modal_close
+                                .fadeOut()
+                                .addClass('cm-hidden');
+                            $(this).css({
+                                overflow: 'visible'
+                            })
+                        }
+                    });
+            }
+        },
+        set_comment_count = function($) {
+            var comment_count = $('.fyre-stream-stats .fyre-comment-count').text().replace(/[^0-9]+/g, '');
+            $comment_count_display.text(comment_count);
+        },
+        update_comment_count = function(count) {
+            $comment_count_display.text(count);
+        },
+        cmg_ping_to_pull = function() {
+            if (typeof janrain != 'undefined' && localStorage && localStorage.getItem('janrainCaptureProfileData')) {
+                var profileData = localStorage.getItem('janrainCaptureProfileData');
+                profileData = typeof profileData == "string" ? JSON.parse(profileData) : profileData;
+                if (profileData.uuid) {
+                    jQuery.get('/auth/ajax/ping-pull/' + profileData.uuid, function(data) {
+                        if (data.indexOf('http') !== -1) {
+                            jQuery.get(data, function(response) {
+                                // do nothing; the request kicks off a sync on livefyre's side
+                            });
+                        } else {
+                            //console.error(data);
+                        }
+                    });
+                } else {
+                    //console.error('Problem with uuid/profileData: ', profileData);
+                }
+            }
+        },
+        check_janrain_loggedin_status = function() {
+            var cookie_ur_name = cmg.query.cookie('ur_name', {path: '/'});
+            if (!janrain.capture.ui.hasActiveSession() && typeof cookie_ur_name !== 'string') {
+                // not signed in but livefyre thinks we are
+                // delete the backplane-channel cookie and
+                // remove the fyre-auth entry from localstorage
+                clear_livefyre_creds();
+            }
+        },
+        clear_livefyre_creds = function() {
+            var yesterday = new Date();
+            yesterday.setTime(yesterday.getTime() + (-1 * 24 * 60 * 60 * 1000));
+            document.cookie = 'backplane-channel' + '=; expires=' + yesterday.toUTCString() + '; path=/';
+            localStorage.removeItem('fyre-auth');
+        },
+        livefyre_commenting_init = function() {
+    //      console.log('commenting init; backplane: ' + typeof window.Backplane, janrain.capture, localStorage['fyre-auth']);
+            var $ = cmg.query,
+                cookie_ur_name = cmg.query.cookie('ur_name', {path: '/'});
+            if (typeof window.Backplane !== 'undefined' && !livefyre_livecomments) {
+                janrain.events.onCaptureLoginFailed.addHandler(check_janrain_loggedin_status());
+                var lf_network_config = {
+                        network: 'palmbeachnews.fyre.co',
+                        strings: {
+                            postAsButton: "Comment"
+                        }
+                    },
+                    lf_conv_config = [{
+                        siteId: '365677',
+                        collectionMeta: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vd3d3LnBhbG1iZWFjaHBvc3QuY29tL2FwL2FwL2Zsb3JpZGEvbmFwb2xpLWhvbWUtcnVuLWhlbHBzLXJlZC1zb3gtYmVhdC1yYXlzLTctNS9ubkJIUS8iLCJ0YWdzIjoibmV3cyxtaWtpZV9tYWh0b29rLGpvaG5fZmFycmVsbCxzcG9ydHNfbWFuYWdlbWVudCxrZXZpbl9jYXNoLGp1bmljaGlfdGF6YXdhLGpha2VfbWNnZWUsamFrZV9tY2dlZSxoYW5sZXlfcmFtaXJleixkZXNtb25kX2plbm5pbmdzLGF0aGxldGVfaGVhbHRoLG1hdHRfbW9vcmUsbWF0dF9tb29yZSxqb2Vfa2VsbHksam9lX2tlbGx5LGtvamlfdWVoYXJhLGtvamlfdWVoYXJhLGpvaG5famFzbyxwb2xpdGljaWFuLGRyZXdfc215bHkscGFibG9fc2FuZG92YWwscGFibG9fc2FuZG92YWwsYXRobGV0ZV9pbmp1cmllcyxzcG9ydHNfdHJhZGluZyxib3N0b24sZGF2aWRfb3J0aXosc3BvcnRzX3RyYW5zYWN0aW9ucyxzcG9ydHNfYnVzaW5lc3MscHJvZmVzc2lvbmFsX2F0aGxldGUsdW5pdGVkX3N0YXRlcyxtZW5zX3Nwb3J0cyxhcF9zdGF0ZV9vbmxpbmVfX19mbG9yaWRhLG1sYl9iYXNlYmFsbCxnYW1lX3N0b3J5LGFtZXJpY2FuX2xlYWd1ZSxtYXNzYWNodXNldHRzLGJhc2ViYWxsLGJvc3Rvbl9yZWRfc294LHNwb3J0c19maWd1cmUsYWxlamFuZHJvX2RlX2F6YSxibGFrZV9zd2loYXJ0LG5vcnRoX2FtZXJpY2EsdGFtcGFfYmF5X3JheXMsbWlrZV9uYXBvbGksc3BvcnRzLHByb2Zlc3Npb25hbF9iYXNlYmFsbCxhbF9lYXN0IiwiYXJ0aWNsZUlkIjoiMzAxMTExNCIsInRpdGxlIjoiTmFwb2xpIGhvbWUgcnVuIGhlbHBzIFJlZCBTb3ggYmVhdCBSYXlzIDctNSJ9.VDqf-KiB2ItfRcXZpGe0n2AWlOJGFNtEOJlatEZT6NA',
+                        checkSum: '826ae95f00e11c1adf74aad7a65cbb20',
+                        articleId: '3011114',
+                        'delegate': 'authDelegate',
+                        el: 'livefyre-chatter-app'
+                    }],
+                    $chatter_module = $('.cm-lc-widget-collapsed, .cm-comments-heading'),
+                    authDelegate = new fyre.conv.BackplaneAuthDelegate(window.Backplane),
+                    livefyre_livecomments = fyre.conv.load(
+                        {
+                            "network": "palmbeachnews.fyre.co",
+                            "authDelegate": authDelegate
+                        },
+                        lf_conv_config,
+                        function (widget) {
+                            // callbacks
+                            widget.on('commentCountUpdated', function(data){
+                                if (data > 0) {
+                                    $('.cm-lc-nocontent').hide();
+                                    if ($('.cm-lc-widget.cm-lc-empty').length) {
+                                        $('.cm-lc-widget.cm-lc-empty').removeClass('cm-lc-empty');
+                                    }
+                                    update_comment_count(data);
+                                }
+                            });
+                            widget.on('userLoggedIn', function() {
+                                if (janrain.capture.ui.hasActiveSession()) {
+                                    $chatter_module.show();
+                                    cmg_ping_to_pull();
+                                }
+                            });
+                            widget.on('initialRenderComplete', function() {
+                                $chatter_module.show();
+                                set_comment_count(cmg.query);
+                                if ($('.fyre-auth .fyre-user-loggedin').length) {
+                                    $('.cm-lc-nocontent .cm-lc-not-logged-in').hide();
+                                }
+                                if (flipper.is_active('DTMmetrics_Enable')){
+                                    if($('div.fyre-stream-more').length){
+                                        $('div.fyre-stream-more').find('*').on('click',function(e){
+                                            cmg.DDO.action("additionalComments");
+                                        });
+                                    }
+                                }
+                            });
+                        }
+                    );
+
+                authDelegate.login = function(delegate) {
+                    janrain.events.onCaptureLoginFailed.addHandler(check_janrain_loggedin_status());
+                    var successCallback = function() {
+                        janrain.events.onCaptureLoginSuccess.removeHandler(successCallback);
+                        delegate.success();
+                    };
+                    var closeCallback = function() {
+                        // If the user closes the login window without logging in, the livefyre auth
+                        // request needs to trigger failure events.
+                        delegate.failure();
+                    };
+                    janrain.events.onCaptureLoginSuccess.addHandler(successCallback);
+                    $('.janrain-close-modal').click(closeCallback);
+                    $('.cmOpenJanrainModal').trigger('click');
+                };
+                authDelegate.editProfile = function(delegate, author) {
+                    location.href = '/profile/edit/private?next=' + location.href;
+                };
+                authDelegate.viewProfile = function(delegate, author) {
+                    cmg_ping_to_pull();
+                };
+                authDelegate.logout = function(delegate) {
+                    janrain.capture.ui.endCaptureSession();
+                };
+            } else if (!livefyre_livecomments) {
+                setTimeout(function() { livefyre_commenting_init(); }, janrain_timeout_int);
+                janrain_timeout_int = janrain_timeout_int * 2;
+            }
+        };
+
+    cmg.query(document).on('ready', function(e) {
+
+        var $ = cmg.query;
+
+        $.getScript('http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js')
+            .done(function() {
+                livefyre_commenting_init();
+            })
+            .fail(function() {
+                $('.cm-lc-widget').hide();
+                if (typeof console !== 'undefined') {
+                    console.error('Fetch of http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js failed.  Hiding commenting.');
+                }
+            });
+
+        if (location.search.indexOf('showcomments') > -1) {
+            toggle_expanded_chatter($);
+        }
+
+        $chatter_large.css({
+            right: function() {
+                return ($(window).width() - $('.cm-modal-content').width()) / 2
+            }
+        });
+
+        $chatter_large_close.css({
+            right: function() {
+                return ($(window).width() - $('.cm-modal-content').width()) / 2 + $chatter_large.width() - ($(this).width() / 2)
+            }
+        });
+
+        $('a.cm-lc-expand, a.cm-story-comments, div.cm-lc-widget-close, .cm-navbar-comments').off('click.lc-expand').on('click.lc-expand', function(e) {
+            e.preventDefault();
+            toggle_expanded_chatter($);
+        });
+    });
+    </script><div id="writecapture11881916"></div><script type="text/javascript">
+    marimo.emit('writecapture11881916_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE            <div class=\"ndn_embed\" data-config-widget-id=\"11043\" data-config-type=\"VideoLauncher/Slider300x250\" data-config-tracking-group=\"90068\"></div>$NEWLINE<p>$NEWLINE<p>$NEWLINE<p>$NEWLINE$NEWLINE$NEWLINE        ", "id": "writecapture11881916", "widget_prototype": "writecapture_widget"});
+</script><div class="cm-box cm-list-box cm-keyed-list-box cm-most-read"><div id="cm-most-read-free-story_detail"><div class="cm-large-heading">Most Read</div></div></div><script id="cm-most-read-item-template" type="text/template"><div class="cm-list-item"><div class="cm-list-key"><%= story_index %>.</div><div class="cm-box-footer"><div class="cm-box-footer-lnk"><a href="<%= story_link %>"><%= story_headline %></a></div></div></div></script><script>(function(){var $jsi={'chartbeat_proxypoint_name':'pbp-top-widget','free_div_id':'#cm-most-read-free-story_detail','free_site_domain':'palmbeachpost.com',};function ChartbeatTrending($){var $div_id,$most_read=$('.cm-most-read'),number_of_trending_containers=$most_read.find(' > div[id^="cm-most-read"]').length;function CleanDomain(domain){return domain.replace(/^https?:\/\//i,'').replace(/\s*/g,'').replace(/^(www.)/i,'').replace(/\/.*/g,'').replace(/[^0-9A-Za-z.-]*/g,'');}
+return{mobileDifferentDomain:true,Callback:function(data){var that=this;var $list_item=cmg._.template($('#cm-most-read-item-template').html());if(data.length){$(data).each(function(x,story){if(story.path.indexOf($jsi.premium_site_domain)>-1){$div_id=$($jsi.premium_div_id);}else{$div_id=$($jsi.free_div_id);if(story.path.indexOf('/')===0){story.path=$jsi.free_site_domain+story.path;}}
+$div_id.append($list_item({story_index:x+1,story_link:'http://'+encodeURI(story.path)+'?ref=cbTopWidget',story_headline:story.i}));});if(typeof cmg.site_meta.is_mobile!="undefined"){if(cmg.site_meta.is_mobile){cmg.query('.cm-social-share-btn-most-read').off().on('click',cmg.socialShare.onClickFunction);}}}else{$div_id.append($list_item({story_index:'',story_link:'#',story_headline:'Currently no pages listed.'}));if(typeof cmg.site_meta.is_mobile!="undefined"){if(cmg.site_meta.is_mobile){$div_id.find(".cm-list-key").each(function(i,ldiv){$(ldiv).html("");});$div_id.find(".cm-social-share-btn-most-read").each(function(i,button){$(button).hide();});}}}},Init:function(div_id,endpoint,domain,limit){var domain=CleanDomain(domain||location.host),limit=limit||3;if(endpoint){$div_id=$(div_id);$div_id.addClass('initialized');if(this.mobileDifferentDomain&&typeof cmg.site_meta.is_mobile!="undefined"){if(cmg.site_meta.is_mobile){domain="m."+domain;}}
+$.ajax({url:'http://'+location.host+'/api/proxyapi/'+endpoint+'/',type:'GET',data:{host:domain,limit:limit,jsonp:'cmg.utility.chartbeat_trending.Callback'},crossdomain:true,cache:true,timeout:3000,error:function(jqXHR,status,error){if(number_of_trending_containers>1){$div_id.hide();}else{$most_read.hide();}
+throw'There was an error ('+error+') fetching the data from chartbeat.';}});}else{if(number_of_trending_containers>1){$div_id.hide();}else{$most_read.hide();}}}}}
+cmg.utility.chartbeat_trending=ChartbeatTrending(cmg.query);cmg.query(document).on('ready',function($){if(!cmg.query($jsi.free_div_id).hasClass('initialized')){if(!$jsi.chartbeat_proxypoint_name){$jsi.chartbeat_proxypoint_name='chartbeat-top-widget';}
+cmg.utility.chartbeat_trending.Init($jsi.free_div_id,$jsi.chartbeat_proxypoint_name,$jsi.free_site_domain,$jsi.chartbeat_number_of_stories);}
+if($jsi.premium_div_id){cmg.utility.chartbeat_trending.Init($jsi.premium_div_id,'premium-chartbeat-top-widget',$jsi.premium_site_domain);}});}());</script><script>(function(){var $jsi={};var story_rail_manager=function($){var $=$||cmg.query,$most_read=$('.cm-most-read'),$most_read_height=$most_read.height(),$ttd=$('.cm-things-to-do'),$ttd_height=$ttd.height(),$story_content=$('.cm-story-content'),$story_content_height=$story_content.height(),$story_rail=$('.cm-story-rail'),$story_rail_height=$story_rail.height();if($most_read.length&&$most_read_height<200){$most_read_height=770;$story_rail_height+=$most_read_height;}
+if($ttd.length&&$ttd_height<200){$ttd_height=340;$story_rail_height+=$ttd_height;}
+if($story_content_height&&$story_rail_height&&$story_rail_height>$story_content_height){if($ttd.length&&$ttd_height-$story_content_height>$ttd_height){$story_rail_height-=$ttd_height;$ttd.hide();}
+if($most_read.length&&$story_rail_height-$story_content_height>$most_read_height){$most_read.hide();}}};cmg.query(document).on('ready',function(){story_rail_manager(cmg.query)});}());</script><div class="cm-box cm-list-box cm-things-to-do"><div class="cm-large-heading">
+        Things To Do<div class="cm-ttd-section-label">:
+            <span class="cm-section-news "> News</span></div></div><div class="cm-ttd-module" data-vr-zone="TTD Module"><div class="cm-ttd-content" data-vr-contentbox></div><div class="cm-ttd-event-add"><a href="http://eventful.com/events/new?site=thingstodo.palmbeachpost.com" target="_blank">Add Event</a></div><a href="#" id="cm-ttd-more" class="cm-section-btn cm-btn-more">See More</a></div></div><script id="cm-ttd-event-template" type="text/template"><div class="cm-ttd-event" data-start-time="<%= event_start_time %>"><% if (typeof event_image !== 'undefined' && typeof event_title !== 'undefined' && typeof event_url !== 'undefined') { %><a href="<%= event_url %>" title="<%= event_title %>" class="cm-ttd-event-image" target="_blank"><img src="<%= event_image %>" alt="<%= event_title %>" /></a><% } %><div class="cm-ttd-event-info"><% if (typeof event_title !== 'undefined') { %><h3><a href="<%= event_url %>" title="<%= event_title %>" target="_blank"><%= event_title %></a></h3><% } %><% if (typeof event_venue !== 'undefined') { %><div class="cm-ttd-event-venue"><% if (typeof event_directions !== 'undefined') { %><a href="<%= event_directions %>" target="_blank">@<%= event_venue %></a><% } else { %>
+                        @<%= event_venue %><% } %></div><% } %><div class="cm-ttd-event-date"><% if (typeof event_date !== 'undefined') { %><% if (typeof event_tickets !== 'undefined') { %><a href="<%= event_tickets %>" title="<%= event_title %>" target="_blank"><%= event_date %></a><% } else { %><%= event_date %><% } %><% } %></div></div><div class="cm-ttd-event-links"><% if (typeof event_tickets !== 'undefined' && event_tickets !== false) { %><a class="cm-ttd-tickets" href="<%= event_tickets %>" target="_blank">Find Tickets</a><% } else { %><a class="cm-ttd-details" href="<%= event_url %>" target="_blank">More Info</a><% } %></div></div></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/v2newspaper/javascript/components/ttd.js"></script><script>
+    
+        cmg.query(document).on('ready', function() {
+            cmg.utility.ttd.Init(
+                {
+                    app_key: 'XBpcswMDXnPsSq8T',
+                    api_token: 'a4658bdfccfd959930b93a02aeeefba3',
+                    q: 'News',
+                
+                    
+                        l: '33405',
+                    
+                    within: '50',
+                
+                    sort_by: 'relevance',
+                    w: cmg.utility.ttd.GetFutureDateRange(7),
+                    page_size: '3',
+                    image_size: 'block67' // referenced per http://api.eventful.com/docs/faq (NOTE: EHP API takes only one argument, not an array)
+                },
+                'thingstodo.palmbeachpost.com',
+                'search',
+                'News'
+            );
+        });
+    
+</script></div><div class="cm-clearfix"></div><div class="cm-box cm-list-box cm-outbrain-container"><div class="OUTBRAIN" id="SB_1" data-src="http://www.palmbeachpost.com/ap/ap/florida/napoli-home-run-helps-red-sox-beat-rays-7-5/nnBHQ/" data-widget-id="SB_1"
+        data-ob-template="palmbeachpost"></div><script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script></div><div class="cm-clearfix"></div><div class="cm-lg-32 cm-grid-section"><div id="WP02" class="cm-WP02"></div></div><div class="cm-clearfix"></div><div class="row cm-bottom-section"><div class="cm-storywell-container-modal"><header id="cm-storywell-header"><h2 class="cm-large-heading">
+            More from PalmBeachPost.com
+        </h2><div id="cm-storywell-category" class="btn-group"><button type="button" class="btn dropdown-toggles" data-toggle="dropdown">
+                Topics
+            </button><ul class="cm-topic-menu dropdown-menu" role="menu"><li><a href="/storywell/" class="cm-not-modal-content">All</a></li><li class="cm-section-news "><a href="/storywell/news/" class="cm-not-modal-content">News</a></li><li class="cm-section-weather "><a href="/storywell/weather/" class="cm-not-modal-content">Weather</a></li><li class="cm-section-neighborhoods cm-parent-menu"><a href="/storywell/neighborhoods/" class="cm-not-modal-content">Neighborhoods</a><ul class="cm-sub-menu"><li><a href="/storywell/centralpbc/" class="cm-not-modal-content">Central PBC</a></li><li><a href="/storywell/southernpalmbeachcounty/" class="cm-not-modal-content">Southern PBC</a></li><li><a href="/storywell/northernpbc/" class="cm-not-modal-content">Northern PBC</a></li><li><a href="/storywell/westernpbc/" class="cm-not-modal-content">Western PBC</a></li><li><a href="/storywell/treasurecoast/" class="cm-not-modal-content">Treasure Coast</a></li></ul></li><li class="cm-section-life "><a href="/storywell/life/" class="cm-not-modal-content">Life</a></li><li class="cm-section-sports "><a href="/storywell/sports/" class="cm-not-modal-content">Sports</a></li><li class="cm-section-thingstodo "><a href="/storywell/thingstodo/" class="cm-not-modal-content">Things to Do</a></li><li class="cm-section-classified "><a href="/storywell/classified/" class="cm-not-modal-content">More</a></li></ul></div></header><div class="cm-storywell"><div class="cm-storycard cm-storycard-image_medium cm-section-neighborhoods cm-img-box cm-img-box-med cmStoryImage_medium  " data-published="2015-08-01T10:57:38-04:00"
+
+
+data-updated="2015-08-01T21:47:30-04:00"
+ data-vr-contentbox><a href="/s/neighborhoods/northernpbc/" class="cm-section-btn">Northern PBC</a><a href="http://www.palmbeachpost.com/news/news/local/missing-florida-teens-boys-families-seek-pilots-in/nnBPF/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/photos/2015/08/01/58/42/Rex-image-1_1.jpg" width="300" height="190" alt="" title="Online fundraising tops $400,000 for missing Tequesta teens"></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/local/missing-florida-teens-boys-families-seek-pilots-in/nnBPF/"><h3>
+                        Online fundraising tops $400,000 for missing Tequesta teens
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/local/missing-florida-teens-boys-families-seek-pilots-in/nnBPF/" data-summary="An online fund to pay for private searches for two Tequesta boys missing at sea 24 topped $400,000 Saturday." data-headline="Online fundraising tops $400,000 for missing Tequesta teens" data-placement="auto top" tabindex="0"></a></div><div class="cm-storycard cm-storycard-image_medium cm-section-news cm-img-box cm-img-box-med cmStoryImage_medium  " data-published="2015-08-01T17:03:11-04:00"
+
+
+data-updated="2015-08-01T21:47:02-04:00"
+ data-vr-contentbox><a href="/s/news/" class="cm-section-btn">News</a><a href="http://www.palmbeachpost.com/news/news/traffic/report-all-northbound-turnpike-lanes-closed-near-s/nnBTy/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/photos/2015/08/01/34/c5/bus-fire2.jpg" width="300" height="190" alt="" title="Bus full of teenagers catches fire on Turnpike near Stuart"></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/traffic/report-all-northbound-turnpike-lanes-closed-near-s/nnBTy/"><h3>
+                        Bus full of teenagers catches fire on Turnpike near Stuart
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/traffic/report-all-northbound-turnpike-lanes-closed-near-s/nnBTy/" data-summary="UPDATE, 8:05 p.m.: FHP reported on its website that all lanes are open, with only the right shoulder blocked, after the bus fire." data-headline="Bus full of teenagers catches fire on Turnpike near Stuart" data-placement="auto top" tabindex="0"></a></div><div class="cm-storycard cm-storycard-image_medium cm-section-news cm-img-box cm-img-box-med cmStoryImage_medium cm-includes-attribution " data-published="2015-07-31T17:24:19-04:00"
+
+
+data-updated="2015-08-01T21:34:24-04:00"
+ data-vr-contentbox><a href="/s/news/" class="cm-section-btn">News</a><a href="http://www.palmbeachpost.com/news/news/missing-teens-spent-their-days-of-good-clean-fun-o/nm94w/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/photos/2015/07/31/59/68/Fisherboy2.jpg" width="300" height="190" alt="" title="Missing teens defined salt life in South Florida"><div class="cm-source">via MyPalmBeachPost.com</div></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/missing-teens-spent-their-days-of-good-clean-fun-o/nm94w/"><h3>
+                        Missing teens defined salt life in South Florida
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/missing-teens-spent-their-days-of-good-clean-fun-o/nm94w/" data-summary="From Juno Beach to Tequesta, boys like Austin Stephanos and Perry Cohen congregate wherever they can get a pole in the water." data-headline="Missing teens defined salt life in South Florida" data-placement="auto top" tabindex="0"></a></div><div class="cm-storycard cm-storycard-image_medium cm-section-news cm-img-box cm-img-box-med cmStoryImage_medium  " data-published="2015-08-01T12:30:10-04:00"
+
+
+data-updated="2015-08-01T21:12:33-04:00"
+ data-vr-contentbox><a href="/s/news/nation/" class="cm-section-btn">Nation &amp; World</a><a href="http://www.palmbeachpost.com/news/news/national/stone-mountain-rally-about-heritage-not-hate-parti/nnBYc/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/photos/2015/08/01/6b/a1/dsc_0952.jpg" width="300" height="190" alt="" title="Stone Mountain rally about ‘heritage’, not hate, participants say"></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/national/stone-mountain-rally-about-heritage-not-hate-parti/nnBYc/"><h3>
+                        Stone Mountain rally about ‘heritage’, not hate, participants say
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/national/stone-mountain-rally-about-heritage-not-hate-parti/nnBYc/" data-summary="Hundreds made their way to the world&rsquo;s largest Confederate monument in Stone Mountain Park on Saturday for a rally they say is focused on preserving Southern heritage." data-headline="Stone Mountain rally about ‘heritage’, not hate, participants say" data-placement="auto top" tabindex="0"></a></div><div class="cm-storycard cm-storycard-image_medium cm-section-news cm-img-box cm-img-box-med cmStoryImage_medium  " data-published="2015-08-01T21:10:06-04:00"
+
+
+data-updated="2015-08-01T21:10:06-04:00"
+ data-vr-contentbox><a href="/s/news/nation/" class="cm-section-btn">Nation &amp; World</a><a href="http://www.palmbeachpost.com/news/news/national/recall-kraft-recalls-cheese-potential-choking-haza/nnBYr/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/photos/2015/08/01/a6/cc/1LB.jpg" width="300" height="190" alt="" title="Kraft recalls cheese for potential choking hazard"></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/national/recall-kraft-recalls-cheese-potential-choking-haza/nnBYr/"><h3>
+                        Kraft recalls cheese for potential choking hazard
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/national/recall-kraft-recalls-cheese-potential-choking-haza/nnBYr/" data-summary="The Kraft Heinz Company is voluntarily recalling select code dates and manufacturing codes of Kraft Singles individually-wrapped slices." data-headline="Kraft recalls cheese for potential choking hazard" data-placement="auto top" tabindex="0"></a></div><div class="cm-storycard cm-storycard-image_medium cm-section-news cm-img-box cm-img-box-med cmStoryImage_medium  " data-published="2015-08-01T19:12:54-04:00"
+
+
+data-updated="2015-08-01T21:08:43-04:00"
+ data-vr-contentbox><a href="/s/news/nation/" class="cm-section-btn">Nation &amp; World</a><a href="http://www.palmbeachpost.com/news/news/national/little-girl-battling-cancer-gets-new-bedroom-non-p/nnBYb/"><div class="cm-img-thumb"><img src="http://media.cmgdigital.com/shared/lt/lt_cache/aresize/300x190/img/videothumbs/2015/08/01/da/40/84f72040-38a4-11e5-8af1-848f69deab2d.jpg" width="300" height="190" alt="" title="Girl battling cancer gets bedroom makeover"></div></a><div class="cm-box-footer"><div class="cm-box-footer-content"><a href="http://www.palmbeachpost.com/news/news/national/little-girl-battling-cancer-gets-new-bedroom-non-p/nnBYb/"><h3>
+                        Girl battling cancer gets bedroom makeover
+                    </h3></a></div></div><a href="#" class="cm-share-icon " 
+
+data-lnk="http://www.palmbeachpost.com/news/news/national/little-girl-battling-cancer-gets-new-bedroom-non-p/nnBYb/" data-summary="Madelina DeLuca got quite the surprise when she came home from the hospital Saturday and saw her bedroom had received a complete makeover." data-headline="Girl battling cancer gets bedroom makeover" data-placement="auto top" tabindex="0"></a></div><link rel="next" href="/storywell/news/?embed&before=2015-08-01T21:08:43-04:00"><script>
+    cmg.query(window).trigger('ads/sw/load');
+</script></div></div><script>
+    cmg.query(document).ready(function() {
+        cmg.query('.cm-storywell-container-modal').storywell();
+    });
+</script><div class="adgeletti-ad-div SWB bp-dynamic" id="adgeletti-ad-div-SWB-dynamic" style="display:none"></div><div class="adgeletti-ad-div SWL bp-dynamic" id="adgeletti-ad-div-SWL-dynamic" style="display:none"></div><script>(function(){var $jsi={'swlb_lag':'',};var swbcnt=0,swlcnt=0,lastLBIndex=0,$=cmg.query;$jsi.swlb_lag=$jsi.swlb_lag||9;function createSWB(){var id,name,ad,card=$('.cm-storycard').slice(-4,-3),SWB=cmg.harmony.slot('SWB');if(card.data('ad-candidate')||SWB.mock){return;}
+card.data('ad-candidate',true);id=SWB.divId+'-'+swbcnt,name='SWB-card-'+swbcnt,ad=$('<div>',{id:id,'class':'ad-card-content'}).appendTo(card);cmg.harmony.defineSlot({name:name,sizes:SWB.sizes,adunit:SWB.adunit,breakpoint:'sw-ads',id:id,targeting:{ad_slot:'SWB0'+(((swbcnt-1)%3)+2)},callback:function(event){if(!event.isEmpty){card.addClass('cm-storycard-ad');setTimeout(function(){card.contents().not('.ad-card-content').remove();ad.show();},2000);}}});swbcnt+=1;cmg.harmony.show.slot(name);}
+function createSWL(set,index){var pivot,SWL=cmg.harmony.slot('SWL');lastLBIndex=index;pivot=set[lastLBIndex];if(SWL.mock){return;}
+id=SWL.divId+'-'+swlcnt;name='SWL-card-'+swlcnt;$('<div>',{id:id,'class':'cm-sw-lb'}).insertAfter(pivot);cmg.harmony.defineSlot({name:name,id:id,adunit:SWL.adunit,breakpoint:'sw-ads',sizes:SWL.sizes,targeting:{ad_slot:'SWL0'+((swlcnt%2)+1)},callback:function(event){if(!event.isEmpty){setTimeout(function(){$('#'+id).show();},2000);}}});swlcnt+=1;cmg.harmony.show.slot(name);}
+function load(){var set,index;createSWB();set=$('.cm-storywell .cm-storycard');index=Math.floor(set.length/$jsi.swlb_lag)*$jsi.swlb_lag-1;if(index>lastLBIndex){createSWL(set,index);}}
+$(window).on('ads/ready',function(){load();$(window).on('ads/sw/load',load);});}());</script></div><script type='text/javascript'>
+             var _ndnq = _ndnq || [];
+             _ndnq.push(['hook', 'ndn-video-player-1/videoLoad', function() {
+                 cmg.query('.cm-story-lead').remove();
+             }]);
+         </script><div class="cm-simple-modal cm-hidden hidden"><div class="cm-simple-modal-wrapper"><div class="cm-simple-modal-header"><a href="#">X</a></div><div class="cm-simple-modal-content"></div></div></div></div></section></div></div><div class="cm-modal-spinner"></div><!-- end body content of the page --><!-- begin jstrials footer block --><div id="writecapture4804525"></div><script type="text/javascript">
+    marimo.emit('writecapture4804525_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE                $NEWLINE                    $NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE    $NEWLINE    $NEWLINE        <!-- https://browser-update.org/ -->$NEWLINE$BEGINSCRIPT> $NEWLINEvar $buoop = {c:2,reminderClosed:168,newwindow:true}; $NEWLINEfunction $buo_f(){ $NEWLINE var e = document.createElement(\"script\"); $NEWLINE e.src = \"//browser-update.org/update.min.js\";  $NEWLINE document.body.appendChild(e);$NEWLINE};$NEWLINEtry {document.addEventListener(\"DOMContentLoaded\", $buo_f,false)}$NEWLINEcatch(e){window.attachEvent(\"onload\", $buo_f)}$NEWLINE$ENDSCRIPT$NEWLINE    $NEWLINE$NEWLINE                $NEWLINE            ", "id": "writecapture4804525", "widget_prototype": "writecapture_widget"});
+</script><!-- end jstrials footer block --><!-- retargeting footer --><div class="cm-retargeting-pixels cm-retargeting-pixels-foot"><!-- Google Code for Remarketing Tag --><!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+---------------------------------------------------><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 970138818;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/970138818/?value=0&amp;guid=ON&amp;script=0"/></div></noscript></div><!-- end retargeting footer --><div class="cm-sitewide-ads"><div class="cm-takeover-ad"><div class="adgeletti-ad-div PX01 bp-0px-infinity" id="adgeletti-ad-div-PX01-0px-infinity" style="display:none"></div></div><div class="cm-retargeting-ad"><div class="adgeletti-ad-div RT01 bp-0px-infinity" id="adgeletti-ad-div-RT01-0px-infinity" style="display:none"></div></div></div><!-- Sign In, commented out all useless divs and will remove them when done --><div style="display:none;" id="signIn"><div class="cm-janrain-wrapper"><div id="signIn_Container"><div class="cm-janrain-header"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/images/logo.png" name="www.palmbeachpost.com" class="header-logo" alt="www.palmbeachpost.com Logo" /><span class="cm-janrain-h1">Sign In</span></div><div class="container-fluid"><div class="row"><div class="col-lg-14"></div><div class="col-lg-4"><div class="cm-janrain-or-divider">OR</div></div><div class="col-lg-14"></div><div class="cm-login"><h2>Sign in using your Palm Beach Post profile</h2><p>Need a Profile? <a href="#" id="cmJanrainRegistration" data-capturescreen="traditionalRegistration">Register Now.</a></p>
+        {* #userInformationForm *}
+
+        <div class="cm-form-label">*EMAIL</div>
+        {* traditionalSignIn_emailAddress *}
+
+        <div class="cm-form-label">*PASSWORD</div><a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+        {* traditionalSignIn_password *}
+
+        {* traditionalSignIn_signInButton *}
+        {* /userInformationForm *}
+      </div><div class="cm-social-login"><h2>Sign in using your existing account</h2>
+        {* loginWidget *}
+      </div></div></div></div></div></div><!-- Social Return --><div style="display:none;" id="returnSocial"><div class="cm-janrain-wrapper"><div id="signIn_Container"><div class="cm-janrain-header"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/images/logo.png" name="www.palmbeachpost.com" class="header-logo" alt="www.palmbeachpost.com Logo" /><span class="cm-janrain-h1">Sign In</span></div><div class="container-fluid"><div class="row"><div class="col-lg-14"></div><div class="col-lg-4"><div class="cm-janrain-or-divider">OR</div></div><div class="col-lg-14"></div><div class="cm-login"><h2>Sign in using your Palm Beach Post profile</h2><p>Need a Profile? <a href="#" id="cmJanrainRegistration" data-capturescreen="traditionalRegistration">Register Now.</a></p>
+        {* #userInformationForm *}
+
+        <div class="cm-form-label">*EMAIL</div>
+        {* traditionalSignIn_emailAddress *}
+
+        <div class="cm-form-label">*PASSWORD</div><a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+        {* traditionalSignIn_password *}
+
+        {* traditionalSignIn_signInButton *}
+        {* /userInformationForm *}
+      </div><div class="cm-social-login"><h2>Sign in using your existing account</h2>
+        {* loginWidget *}
+      </div></div></div></div></div></div><!-- Traditional Return --><div style="display:none;" id="returnTraditional"><div class="cm-janrain-wrapper"><div id="signIn_Container"><div class="cm-janrain-header"><img src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_palmbeachpost_com/images/logo.png" name="www.palmbeachpost.com" class="header-logo" alt="www.palmbeachpost.com Logo" /><span class="cm-janrain-h1">Sign In</span></div><div class="container-fluid"><div class="row"><div class="col-lg-14"></div><div class="col-lg-4"><div class="cm-janrain-or-divider">OR</div></div><div class="col-lg-14"></div><div class="cm-login"><h2>Sign in using your Palm Beach Post profile</h2><p>Need a Profile? <a href="#" id="cmJanrainRegistration" data-capturescreen="traditionalRegistration">Register Now.</a></p>
+        {* #userInformationForm *}
+
+        <div class="cm-form-label">*EMAIL</div>
+        {* traditionalSignIn_emailAddress *}
+
+        <div class="cm-form-label">*PASSWORD</div><a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+        {* traditionalSignIn_password *}
+
+        {* traditionalSignIn_signInButton *}
+        {* /userInformationForm *}
+      </div><div class="cm-social-login"><h2>Sign in using your existing account</h2>
+        {* loginWidget *}
+      </div></div></div></div></div></div><!-- Social Reg --><div style="display:none;" id="socialRegistration"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">You're Almost Done!</span><h2>Please confirm the information below before signing in.</h2><div class="cm-janrain-required">*Required</div>
+        {* #socialRegistrationForm *}
+            {* socialRegistration_displayName *}
+            {* socialRegistration_emailAddress *}
+            
+            <div class="cm-janrain-tocnotice">By submitting your registration information, you agree to our
+              <a href="http://www.palmbeachpost.com/visitor_agreement/" target="_blank">Visitor Agreement</a> and <a href="http://www.palmbeachpost.com/privacy_policy/" target="_blank">Privacy Policy</a>.</div>
+            {* socialRegistration_signInButton *}
+        {* /socialRegistrationForm *}
+    </div></div><!-- Traditional Reg --><div style="display:none;" id="traditionalRegistration"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Register</span><div class="cm-janrain-required">*Required</div>
+        {* #registrationForm *}
+
+            {* traditionalRegistration_emailAddress *}
+            {* traditionalRegistration_password *}
+            {* traditionalRegistration_passwordConfirm *}
+
+            {* traditionalRegistration_displayName *}
+
+            
+            <div class="cm-janrain-tocnotice">By submitting your registration information, you agree to our
+              <a href="http://www.palmbeachpost.com/visitor_agreement/" target="_blank">Visitor Agreement</a> and <a href="http://www.palmbeachpost.com/privacy_policy/" target="_blank">Privacy Policy</a>.</div>
+
+            {* createAccountButton *}
+        {* /registrationForm *}
+    </div></div><!-- Traditional Reg Blank --><div style="display:none;" id="traditionalRegistrationBlank"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Create a New Account</span><div class="cm-janrain-required">*Required</div>
+        {* #registrationFormBlank *}
+
+            {* traditionalRegistration_emailAddressBlank *}
+            {* traditionalRegistration_passwordBlank *}
+            {* traditionalRegistration_passwordConfirmBlank *}
+            {* traditionalRegistration_displayName *}
+            
+            <div class="cm-janrain-tocnotice">By submitting your registration information, you agree to our
+                <a href="#" target="blank">Visitor Agreement</a> and <a href="#" target="blank">Privacy Policy</a>.</div>
+
+            {* createAccountButton *}
+        {* /registrationForm *}
+    </div></div><!-- Reg Success with activation --><div style="display:none;" id="registrationSuccess"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Just One More Thing...</span><p>We have sent you a verification email. Please check your email and click on the link to activate your profile.</p><p>If you do not receive the verification message within a few minutes of signing up, please check your Spam or Junk folder.</p><span onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</span></div></div><!-- Reg Success confirmed --><div style="display:none;" id="registrationSuccessConfirmed"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Thank you for registering!</span><p>We look forward to seeing you on [website] frequently. Visit us and sign in to update your profile, receive the latest news and keep up to date with mobile alerts.</p><p>
+        Click <a href="#"  onclick="janrain.capture.ui.modal.close()">here</a> to return to the page you were visiting.
+        </p></div></div><!-- Forgot Pass --><div style="display:none;" id="forgotPassword"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Create a new password</span><p>Don't worry, it happens. We'll send you a link to create a new password.</p>
+        {* #forgotPasswordForm *}
+        {* forgotPassword_emailAddress *}
+        {* forgotPassword_sendButton *}
+        {* /forgotPasswordForm *}
+    </div></div><!-- Forgot Pass Success --><div style="display:none;" id="forgotPasswordSuccess"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Email sent</span><p>We have sent you an email with a link to change your password.</p><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div><!-- Merge --><div style="display:none;" id="mergeAccounts">
+    {* mergeAccounts *}
+</div><!-- Auth Merge --><div style="display:none;" id="traditionalAuthenticateMerge"><div class="cm-janrain-wrapper"><span class="cm-janrain-h1">Sign in to complete account merge</span>
+        {* #tradAuthenticateMergeForm *}
+            {* traditionalSignIn_emailAddress *}
+            {* mergePassword *}
+            {* backButton *}
+            {* traditionalSignIn_signInButton *}
+        {* /tradAuthenticateMergeForm *}
+    </div></div><div style="display:none;" id="resendVerification"><div class="cm-janrain-wrapper"><div class="capture_header"><span class="cm-janrain-h1">Resend Email Verification</span></div><p>Click submit to receive another verification email</p>
+        {* #resendVerificationForm *}
+            {* traditionalSignIn_emailAddress *}
+            <div class="capture_footer"><input type="submit" value="Submit" class="capture_btn capture_primary" /></div>
+         {* /resendVerificationForm *}
+     </div></div><div style="display:none;" id="resendVerificationSuccess"><div class="cm-janrain-wrapper"><div class="capture_header"><span class="cm-janrain-h1">Your Verification Email Has Been Sent</span></div><div class="hr"></div><p>Check your email for a verification link</p><div class="capture_footer"><button onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</button></div></div></div><script>
+            
+            cmg.query(window).on('ads/ready', function () {
+                cmg.harmony.slot('WP01').on('slotRenderEnded', function (event) {
+                    if (!event.isEmpty) {
+                        cmg.query('.cm-fixed-container').addClass('cm-fixed-container-wallpaper');
+                    }
+                });
+            });
+        </script><script>
+    ybotq.push(function () {
+        googletag.cmd.push(function () {
+            var conf = {"slots": [{"instance_id": 0, "targeting": {"ad_slot": "HP01", "breakpoint": "0px-infinity"}, "sizes": [[728, 90], [950, 30], [970, 90]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-HP01-0px-infinity", "name": "HP01"}, {"instance_id": 0, "targeting": {"ad_slot": "NV01", "breakpoint": "0px-infinity"}, "sizes": [[300, 250]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-NV01-0px-infinity", "name": "NV01"}, {"instance_id": 0, "targeting": {"ad_slot": "PX01", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-PX01-0px-infinity", "name": "PX01"}, {"instance_id": 0, "targeting": {"ad_slot": "RP01", "breakpoint": "0px-infinity"}, "sizes": [[300, 250], [300, 600]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-RP01-0px-infinity", "name": "RP01"}, {"instance_id": 0, "targeting": {"ad_slot": "RT01", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-RT01-0px-infinity", "name": "RT01"}, {"instance_id": 0, "targeting": {"ad_slot": "SWB", "breakpoint": "dynamic"}, "sizes": [[300, 250]], "companion": false, "breakpoint": "dynamic", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-SWB-dynamic", "name": "SWB"}, {"instance_id": 0, "targeting": {"ad_slot": "SWL", "breakpoint": "dynamic"}, "sizes": [[728, 90]], "companion": false, "breakpoint": "dynamic", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-SWL-dynamic", "name": "SWL"}, {"instance_id": 0, "targeting": {"ad_slot": "WP01", "breakpoint": "0px-infinity"}, "sizes": [[1200, 90]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.palmbeachpost.com-wired/ap/florida", "id": "adgeletti-ad-div-WP01-0px-infinity", "name": "WP01"}], "targeting": {"obj_type": "292", "obj_id": "3011114", "topics": ["Mikie Mahtook", "John Farrell", "SPORTS_MANAGEMENT", "Kevin Cash", "Junichi Tazawa", "Jake McGee", "Jake McGee", "Hanley Ramirez", "Desmond Jennings", "Athlete health", "Matt Moore", "Matt Moore", "Joe Kelly", "Joe Kelly", "Koji Uehara", "Koji Uehara", "John Jaso", "politician", "Drew Smyly", "Pablo Sandoval", "Pablo Sandoval", "Athlete injuries", "Sports trading", "Boston", "David Ortiz", "Sports transactions", "Sports business", "PROFESSIONAL_ATHLETE", "united states", "Men's sports", "AP State Online - Florida", "MLB baseball", "Game Story", "American League", "massachusetts", "baseball", "Boston Red Sox", "SPORTS_FIGURE", "Alejandro De Aza", "Blake Swihart", "North America", "Tampa Bay Rays", "Mike Napoli", "sports", "Professional baseball", "AL East"], "type_name": "story", "sky": "Overcast", "mediatype": "v2newspaper", "environ": "prod", "temp_range": "75 to 79"}},
+                srmset,
+                loaded = false;
+
+            
+            function makeAdCalls() {
+                cmg.ads.size.bind();
+                
+                googletag.enableServices();
+                cmg.harmony.show.breakpoint('0px-infinity');
+            }
+
+            
+            function postload() {
+                cmg.harmony.load({
+                    slots: cmg.ads.conf.flush()
+                });
+                cmg.query(window).trigger('ads/ready');
+                cmg.harmony.trigger('ready');
+            }
+
+            
+                cmg.ads.conf.load(conf.slots);
+                srmset = cmg.ads.conf.filter(
+                    cmg.query('.adgeletti-ad-div.bp-0px-infinity')
+                );
+                cmg.harmony.load({
+                    slots: srmset,
+                    targeting: conf.targeting
+                });
+                googletag.pubads().enableSingleRequest();
+                makeAdCalls();
+
+                
+                if (srmset.length) {
+                    googletag.pubads().addEventListener('slotRenderEnded', function () {
+                        if (!loaded) {
+                            loaded = true;
+                            postload();
+                        }
+                    });
+                } else {
+                    postload();
+                }
+            
+        });
+    });
+</script><!--
+/* -----===== Begin Ad Logs =====----- */
+
+Taxonomy
+----------
+ap/florida
+
+Targeting
+----------
+{
+  "obj_type": "292", 
+  "obj_id": "3011114", 
+  "topics": [
+    "Mikie Mahtook", 
+    "John Farrell", 
+    "SPORTS_MANAGEMENT", 
+    "Kevin Cash", 
+    "Junichi Tazawa", 
+    "Jake McGee", 
+    "Jake McGee", 
+    "Hanley Ramirez", 
+    "Desmond Jennings", 
+    "Athlete health", 
+    "Matt Moore", 
+    "Matt Moore", 
+    "Joe Kelly", 
+    "Joe Kelly", 
+    "Koji Uehara", 
+    "Koji Uehara", 
+    "John Jaso", 
+    "politician", 
+    "Drew Smyly", 
+    "Pablo Sandoval", 
+    "Pablo Sandoval", 
+    "Athlete injuries", 
+    "Sports trading", 
+    "Boston", 
+    "David Ortiz", 
+    "Sports transactions", 
+    "Sports business", 
+    "PROFESSIONAL_ATHLETE", 
+    "united states", 
+    "Men's sports", 
+    "AP State Online - Florida", 
+    "MLB baseball", 
+    "Game Story", 
+    "American League", 
+    "massachusetts", 
+    "baseball", 
+    "Boston Red Sox", 
+    "SPORTS_FIGURE", 
+    "Alejandro De Aza", 
+    "Blake Swihart", 
+    "North America", 
+    "Tampa Bay Rays", 
+    "Mike Napoli", 
+    "sports", 
+    "Professional baseball", 
+    "AL East"
+  ], 
+  "type_name": "story", 
+  "sky": "Overcast", 
+  "mediatype": "v2newspaper", 
+  "environ": "prod", 
+  "temp_range": "75 to 79"
+}
+
+Ad slots in this page
+----------
+[u'SWL', u'SWB', u'HP01', u'PX01', u'RP01', u'RT01', u'WP01', u'NV01']
+
+Slot size and breakpoint configuration
+----------
+Slot HP01 (1) displays sizes [[728, 90], [950, 30], [970, 90]] at 0px-infinity
+Slot NV01 (1) displays sizes [[300, 250]] at 0px-infinity
+Slot PX01 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot RP01 (1) displays sizes [[300, 250], [300, 600]] at 0px-infinity
+Slot RT01 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot SWB (1) displays sizes [[300, 250]] at dynamic
+Slot SWL (1) displays sizes [[728, 90]] at dynamic
+Slot WP01 (1) displays sizes [[1200, 90]] at 0px-infinity
+
+System Messages
+----------
+Adgeletti version 2.9.4
+Harmony version 1.7.0
+
+/* -----====== End Ad Logs ======----- */
+--><div id="cm-sharing-panel-container"><div class="cm-sharing-panel"><a href="#" class="cm-share cm-share-facebook" title="Share on Facebook" target="_blank"></a><a href="#" class="cm-share cm-share-twitter" title="Share on Twitter" target="_blank"></a><a href="#" class="cm-share cm-share-gplus" title="Share on Google+" target="_blank"></a><a href="#" class="cm-share cm-share-reddit" title="Share on Reddit" target="_blank"></a><a href="#" class="cm-share cm-share-email" title="Share via Email"></a></div></div><!-- dtm footer code --><script type="text/javascript">
+            if (window._satellite) {
+                _satellite.pageBottom();
+            }
+        </script><script type="text/javascript">
+            var nr_unique_identifier = Math.random() * 1000000000000;
+            var nrCustomId = nr_unique_identifier.toString();
+            newrelic.setCustomAttribute('nrCustomId', nrCustomId);
+
+            var now = new Date().getTime();
+            var page_load_time = now - performance.timing.navigationStart;
+            newrelic.addPageAction('nr_footer_stats', {page_load_time: page_load_time, nr_unique_identifier: nr_unique_identifier});
+        </script><script type="text/javascript">/* <![CDATA[ */
+    cmg.query(function() {
+        var NUM_RETRIES = 3;
+        var URL_ATTR = 'data-href';
+        var REPLACE_SELECTOR = 'span.cmAjaxInclude';
+
+        var urls = [];
+        cmg.query(REPLACE_SELECTOR).each(function(){
+            url = cmg.query(this).attr(URL_ATTR);
+            if (url) {
+                urls.push(url);
+            }
+        });
+
+        if (urls.length > 0) {
+            var retriesLeft = NUM_RETRIES;
+            var settings = {
+                type: "GET",
+                url: cmg.ajax_include_url,
+                cache: false,
+                data: { urls: JSON.stringify(urls) },
+                dataType: 'json',
+                success: function(data, textStatus, xhr) {
+                    errorUrls = [];
+                    cmg.query.each(data, function(url, response) {
+                        if (response.status === 200) {
+                            var span = cmg.query(REPLACE_SELECTOR + '[' + URL_ATTR + '="' + url + '"]');
+                            span.replaceWith(response.content);
+                        } else {
+                            errorUrls.push(url);
+                        }
+                    });
+
+                    
+                    if (errorUrls.length > 0) {
+                        settings.data.urls = JSON.stringify(errorUrls);
+                        settings.error();
+                    }
+
+                    if (errorUrls.length === 0 || retriesLeft === 0) {
+                        cmg.query(document).trigger('ajax_includes');
+                    }
+                },
+                error: function(xhr, textStatus, errorThrown) {
+                    if (retriesLeft > 0) {
+                        retriesLeft -= 1;
+                        cmg.query.ajax(settings);
+                    }
+                }
+            };
+            cmg.query.ajax(settings);
+        }
+    });
+</script><div id="fb-root"></div><script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '1411067022516987',
+                xfbml      : true,
+                version    : 'v2.0'
+            });
+
+            cmg.query(document).ready(function() {
+                cmg.query(document).trigger("fb_loaded");
+            });
+        };
+
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script></body></html>

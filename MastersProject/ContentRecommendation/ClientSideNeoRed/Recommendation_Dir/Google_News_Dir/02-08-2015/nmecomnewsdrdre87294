@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en-GB" itemscope itemtype="http://schema.org/WebPage" id="webpage">
+	<head>
+				<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYEVVNXGwYBVFFWBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" itemprop="description" content="NME.COM brings you the latest music news and reviews, music videos and gossip, as well as providing the hottest concert tickets and band memorabilia.">
+		<meta name="keywords" itemprop="keywords" content="NME">
+		<meta name="author" content="NME.COM">
+		<title>NME News Dr Dre announces long awaited new album &#039;Compton&#039;, to be released next week | NME.COM</title>
+						<meta property="fb:app_id" content="158577044196953"/>
+			<meta property="og:site_name" content="NME.COM"/>
+			<meta property="og:title" content="NME News Dr Dre announces long awaited new album &#039;Compton&#039;, to be released next week | NME.COM" />
+			<meta property="og:image" content="/images/84_drdre_L090207.article.jpg" />
+			<meta property="og:locale" content="en_GB"/>
+		
+	<meta property="og:url" content="http://www.nme.com/news/dr-dre/87294" />
+				
+				<link href="http://nme.assets.ipccdn.co.uk/combined/newdesktop/0be32ea64421d8075958a003154ca777.css" rel="stylesheet" type="text/css" media="screen" />
+					<script type="text/javascript" language="JavaScript">
+	window.ipcTags = {"contentId":384476,"contentTitle":"Dr Dre announces long awaited new album 'Compton', to be released next week","type":"article","contentType":"news","section":"news","platform":"desktop","loggedInStatus":"logged out","socialConfig":{"facebookAppId":"158577044196953","fbversion":"v2.0"},"nmeConfig":{"commentHostIn":"http:\/\/comment.nme.com","commentHostOut":"http:\/\/comments.nme.com","callbackHost":"https:\/\/secure.nme.com","cookieDomain":".nme.com","isPopup":true},"takeoverUrl":"http:\/\/campaign.ipcdigital.co.uk","author":"James Hendicott","datePublished":"20150801","dateUpdated":"20150802","site":"nme","serverPool":null,"dfp_config":{"slots":{"div-gpt-ad-1438483846-0":{"sizes":[[728,90],[970,250],[956,300],[986,300],[986,350]],"name":"Topbanner"},"div-gpt-ad-1438483846-1":{"sizes":[728,90],"name":"Leaderboard"},"div-gpt-ad-1438483846-2":{"sizes":[[300,1],[300,250],[300,600],[300,1050]],"name":"MPU"},"div-gpt-ad-1438483846-3":{"sizes":[300,250],"name":"SingleMPU"},"div-gpt-ad-1438483846-4":{"sizes":[1,1],"name":"Overlay"},"div-gpt-ad-1438483846-5":{"sizes":[160,600],"name":"RHSky"},"div-gpt-ad-1438483846-6":{"sizes":[185,195],"name":"Hotspot1"},"div-gpt-ad-1438483846-7":{"sizes":[185,195],"name":"Hotspot2"},"div-gpt-ad-1438483846-8":{"sizes":[185,195],"name":"Hotspot3"}},"required_tags":["contentId","section","site","type"]},"subSection1":"news","subSection2":"news : none","subSection3":"news : none : Dr Dre announces long awaited new album 'Compton', to be released next week","pageName":"news : none : Dr Dre announces long awaited new album 'Compton', to be released next week"};
+</script>
+<script type="text/javascript" language="JavaScript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" language="JavaScript" src="http://nme.assets.ipccdn.co.uk/combined/plugins-desktop/fb13ae1513fdcc3c85d83b2de0560df1.js"></script>
+	<script type="text/javascript" language="JavaScript">
+		$(document).ready(function () {
+			//window.resizeTo((window.outerWidth - window.innerWidth) + $(document).width(), (window.outerHeight - window.innerHeight) + $(document).height());
+		});
+	</script>
+
+
+<!-- Javascript -->
+<script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lte IE 9]>
+<script type='text/javascript' src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+
+<!-- served by IPC Includes 2 -->
+<meta name="google-site-verification" content="-RNBBtb9pRfjqJcArC-7ldQoc3hYNyLS3Onij0v0WEg" /><script type="text/javascript">
+(function() {
+	/* Include required screen size functions right here */
+	var getDisplayWidth=function(){var e=0;if(typeof window.innerWidth!="undefined"){e=window.innerWidth}else if(typeof document.documentElement!="undefined"&&typeof document.documentElement.clientWidth!="undefined"&&document.documentElement.clientWidth!=0){e=document.documentElement.clientWidth}else{e=document.getElementsByTagName("body")[0].clientWidth}return Number(e)};
+	var getDisplayHeight=function(){var e=0;if(typeof window.innerHeight!="undefined"){e=window.innerHeight}else if(typeof document.documentElement!="undefined"&&typeof document.documentElement.clientHeight!="undefined"&&document.documentElement.clientHeight!=0){e=document.documentElement.clientHeight}else{e=document.getElementsByTagName("body")[0].clientHeight}return Number(e)};
+
+	/* Pageskin targeting stuff */
+	if (typeof(window.ipcTags.disablePageskin) === 'undefined') {
+		if(getDisplayWidth() >= 1280) {
+			window.ipcTags['pageskin'] = 'yes';
+		} else {
+			window.ipcTags['pageskin'] = 'no';
+		}
+	} else {
+		window.ipcTags['pageskin'] = 'no';
+	}
+	window.ipcTags['dfp_config']['required_tags'].push('pageskin');
+
+})();
+</script><script type="text/javascript" charset="utf-8">
+    var protocol =  ("https:" == document.location.protocol) ? "https://" : "http://";
+    
+    var url = ("https:" == document.location.protocol) ? "secure.assets.ipcdigital.co.uk/js/e1393244042-7242a23/min/utils-min.js" : "assets.ipcdigital.co.uk/js/e1393244042-7242a23/min/utils-min.js",
+        f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+    document.write(f);
+</script><!-- Served by includes v2 -->
+<script type="text/javascript" charset="utf-8">
+  (function loadAdloaderAugmentation() {
+    var protocol =  ("https:" == document.location.protocol) ? "https://" : "http://";
+    url = ("https:" == document.location.protocol) ? "secure.zardoz.ipcdigital.co.uk/74e0157-03/nme/thirdparty/5003/adloader.js" : "zardoz.ipcdigital.co.uk/74e0157-03/nme/thirdparty/5003/adloader.js",
+    version = "7412",
+    f = unescape("%3Cscript src='" + protocol + url + "?v=" + version + "' type='text/javascript'%3E%3C/script%3E");
+    document.write(f);
+  })();
+</script><script type="text/javascript" language="JavaScript">
+var ipc_host = ("https:" == document.location.protocol) ? "analytics.ssl.assets.ipccdn.co.uk" : "analytics.assets.ipccdn.co.uk",
+	ipc_protocol =  ("https:" == document.location.protocol) ? "https://" : "http://";
+window.ipcTags = window.ipcTags || {};
+window.ipcTags.env = 'live';
+window.ipcTags.analytics_config = window.ipcTags.analytics_config || {};
+window.ipcTags.analytics_config.trackPageImpression = (typeof(window.ipcTags.analytics_config.trackPageImpression) === 'boolean') ? window.ipcTags.analytics_config.trackPageImpression : true;
+var ipc_analytics_url = ipc_protocol + ipc_host + '/js/tealium/1.0/analytics.js',
+	f = unescape("%3Cscript src='" + ipc_analytics_url + "' type='text/javascript'%3E%3C/script%3E");
+document.write(f);
+</script>
+					</head>
+	<body >
+							
+<script type="text/javascript">
+	var callbackHost = 'https://secure.nme.com';
+</script>
+<script type="text/javascript">
+    window.ipcTags = window.ipcTags || {};
+    window.ipcTags.env = 'prod';
+</script>
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/ipc/nme/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+
+
+<script type="text/javascript" charset="utf-8">
+/**
+* Initiate the adloader
+*/
+ipc.adloader.setProvider('dfp');
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var adloaderConfig = {};
+(function() {
+if (ipc.adloader.getProvider() === "dfp") {
+  ipc.adloader.setDisplayMode('desktop');
+
+  adloaderConfig = {
+    'accountId':   '18711560',
+    'environment': 'live',
+    'googleTag':   googletag
+  };
+      
+  
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+    if(ipc.adloader.getDisplayMode() == 'mobile') {
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt_mobile.js';
+  } else {
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  }
+    var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+  ipc.adloader.init(adloaderConfig);
+  
+}
+})();
+</script>
+<script type="text/javascript" language="JavaScript">
+ipc.analytics.register({
+	'service' : 'comscore',
+	'accountId' : 6034835});
+</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6034835&cv=2.0&cj=1" /></noscript>
+<script type="text/javascript" language="JavaScript">
+
+$(document).ready(function(){
+	/*
+	 * Binds the click events of any elements with the class 'trackEvent'.
+	 * Extracts any HTML5 data attributes and then ends them to trackEvent().
+	 */
+	$('.trackEvent').click(function () {
+		var dataAttributes = $(this).data();
+		if ($.isEmptyObject(dataAttributes) === false) {
+			ipc.analytics.trackEvent(dataAttributes);
+		}
+		return true;
+	});
+});
+</script>
+<div id="masthead">
+	<div class="mastinner">
+				<div id="mastlogo">
+			<a href="/" target="_top" title="NME.COM - First For Music News" class="trackEvent" data-monitoring="title" data-category="Masthead" data-action="Logo" data-label="Logo">NME.COM</a>
+		</div>
+				<span role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"><ul id="primary_nav">
+	<li><a itemprop="url" href="/news" class=" trackEvent" target="_top" title="Music News" data-category="Navigation" data-action="Primary" data-label="News">News</a>
+	  <span class="subnavextra news">
+	  <ul id="secondary_nav">
+	<li><a href="/news" class="" title="All News">All News</a></li>
+	<li><a href="/news/music" class="" title="Music News">Music News</a></li>
+	<li><a href="/movies/news" title="Movie News">Movie News</a></li>
+    <li><a href="/news/tour" class="" title="Tour News">Tour News</a></li>
+	<li><a href="/news/album" class="" title="Album News">Album News</a></li>
+	<li><a href="/newsletters" class="" title="Newsletters">Newsletters</a></li>
+	<li><a href="/feeds" class="" title="RSS/Atom Feeds">RSS Feeds</a></li>
+	<li><a href="/news/technology" class="" title="Technology News">Technology News</a></li>
+</ul>	  </span>
+	  <span class="triangle"></span>
+	</li>
+	<li><a itemprop="url" href="/reviews" class=" trackEvent" target="_top" title="Music Reviews" data-category="Navigation" data-action="Primary" data-label="Reviews">Reviews</a>
+	   <span class="subnavextra reviews">
+	   <ul id="secondary_nav">
+	<li><a href="/reviews" class=" trackEvent" title="All Reviews" data-category="Navigation" data-action="Secondary" data-label="ReviewsHome">All Reviews</a></li>
+	<li><a href="/reviews/albums" class=" trackEvent" title="Album Reviews" data-category="Navigation" data-action="Secondary" data-label="ReviewsAlbums">Album Reviews</a></li>
+	<li><a href="/reviews/live" class=" trackEvent" title="Live Reviews" data-category="Navigation" data-action="Secondary" data-label="ReviewsLive">Live Reviews</a></li>
+	<li><a href="/reviews/onrepeat"	class=" trackEvent" title="On Repeat Reviews" data-category="Navigation" data-action="Secondary" data-label="ReviewsOnrepeat">On Repeat</a></li>
+	<li><a href="/movies/reviews" trackEvent" title="Film Reviews" data-category="Navigation" data-action="Secondary" data-label="FilmReviews">Film Reviews</a></li>
+	<li><a href="/bestalbumsandtracksoftheyear" class=" trackEvent" title="Best Albums And Tracks Of The Year" data-category="Navigation" data-action="Secondary" data-label="ReviewsOfyear">Best Albums And Tracks Of The Year</a></li>
+</ul>	   </span>
+	   <span class="triangle"></span>
+	</li>
+	<li><a itemprop="url" href="/newmusic" class=" trackEvent" target="_top" title="New Music" data-category="Navigation" data-action="Primary" data-label="New Music">New Music</a>
+	   <span class="subnavextra newmusic">
+	   <ul id="secondary_nav">	
+    <li><a href="/newmusic" class=" trackEvent" title="New Music Home" data-category="Navigation" data-action="Secondary" data-label="NewmusicHome">New Music Home</a></li>
+	<li><a href="/reviews" class="trackEvent" title="New Music Reviews" data-category="Navigation" data-action="Secondary" data-label="NewmusicReviews">New Music Reviews</a></li>
+	<li><a href="/spotify" class=" trackEvent" title="Spotify" data-category="Navigation" data-action="Secondary" data-label="NewmusicSpotify">Spotify</a></li>
+</ul>  
+	   </span>
+	   <span class="triangle"></span>
+	</li>
+	<li><a itemprop="url" href="/blogs" target="_top" title="Blogs" data-category="Navigation" data-action="Primary" data-label="Blogs">Blogs</a>
+	   <span class="subnavextra blogs">
+	   <ul id="secondary_nav" class="blogs">
+	<li><a href="/blogs" class="trackEvent" title="NME Blogs" data-category="Navigation" data-action="Secondary" data-label="BlogHome">All Blogs</a></li>
+	<li><a href="/blogs/nme-radar" class="trackEvent" title="NME Radar Blog" data-category="Navigation" data-action="Secondary" data-label="BlogRadar">Radar</a></li>
+	<li><a href="/blogs/the-movies-blog" class="trackEvent" title="NME Movies Blog" data-category="Navigation" data-action="Secondary" data-label="BlogMovies">The Movies Blog</a></li>
+	<li><a href="/blogs/the-big-picture" class="trackEvent" title="NME Big Picture Blog" data-category="Navigation" data-action="Secondary" data-label="BlogBigpic">The Big Picture</a></li>
+	<li><a href="/blogs/festivals-blog" class="trackEvent" title="Festivals Blog" data-category="Navigation" data-action="Secondary" data-label="BlogFestival">Festivals</a></li>
+	<li><a href="/blogs/nme-awards" class="trackEvent" title="NME Awards Blog" data-category="Navigation" data-action="Secondary" data-label="BlogAwards">Awards</a></li>
+</ul>
+	   </span>
+	   <span class="triangle"></span>
+	</li>	
+	<li><a itemprop="url" href="/nme-video" class=" trackEvent" target="_top" title="Music Videos"  data-category="Navigation" data-action="Primary" data-label="Video">Video</a>
+	   <span class="subnavextra videos">
+	   <ul id="secondary_nav">
+	<li><a href="/nme-video" class=" trackEvent" title="NME Music Videos" data-category="Navigation" data-action="Secondary" data-label="VideoHome">Video Home</a></li>
+	<li><a href="/nme-video/most-popular" class=" trackEvent" title="Most Popular" data-category="Navigation" data-action="Secondary" data-label="VideoPopular">Most Popular</a></li>
+	<li><a href="/musicvideos" class=" trackEvent" title="Muzu Music Videos" data-category="Navigation" data-action="Secondary" data-label="VideoMuzu">Music Videos</a></li>
+	<li><a href="/nme-video/search/sessions" class="trackEvent" title="Live Sessions" data-category="Navigation" data-action="Secondary" data-label="VideoLive">Live Sessions</a></li>
+	<li><a href="/nme-video/search/interview" class="trackEvent" title="Interviews" data-category="Navigation" data-action="Secondary" data-label="VideoInterviews">Interviews</a></li>
+	<li><a href="/nme-video/tenbest" class="trackEvent" title="Festival Videos" data-category="Navigation" data-action="Secondary" data-label="VideoTenbest">Ten Best Songs</a></li>
+	<li><a href="/nme-video/ultimate" class="trackEvent" title="Festival Videos" data-category="Navigation" data-action="Secondary" data-label="VideoUltimate">Ultimate Guide</a></li>
+	<li><a href="/nme-video/walkonstage" class="trackEvent" title="Festival Videos" data-category="Navigation" data-action="Secondary" data-label="VideoWalkon">Walk Onstage With</a></li>
+</ul>	   </span>
+	   <span class="triangle"></span>
+	</li>
+	<li><a itemprop="url" href="/photos" class=" trackEvent" target="_top" title="Photos" data-category="Navigation" data-action="Primary" data-label="Photos">Photos</a>
+	   <span class="subnavextra gallery">
+	   <ul id="secondary_nav">	
+	<li><a href="/photos" class=" trackEvent" title="Photos Home" data-category="Navigation" data-action="Secondary" data-label="PhotosHome">Photos Home</a></li>
+	<li><a href="http://soniceditions.com/nme" title="Buy Photos" rel="nofollow" target="_blank" data-category="Navigation" data-action="Secondary" data-label="PhotosSonic">Buy Photos</a></li>
+	<li><a href="/ratemy" class="trackEvent" title="Photo Polls" data-category="Navigation" data-action="Secondary" data-label="PhotosRatemy">Photo Polls</a></li>
+	<li><a href="/list" class="trackEvent" title="NME Lists" data-category="Navigation" data-action="Secondary" data-label="PhotosLists">NME Lists</a></li>	
+	<li><a href="/festivals/photos" class="trackEvent" title="Festival Photos" data-category="Navigation" data-action="Secondary" data-label="PhotosFestivals">Festival Photos</a></li>
+	<li><a href="/blogs/the-big-picture" class="trackEvent" title="Big Picture Galleries" data-category="Navigation" data-action="Secondary" data-label="PhotosBigpic">Big Picture Galleries</a></li>
+	<li><a href="/photoawards" class="trackEvent" title="Nikon Photo Awards" data-category="Navigation" data-action="Secondary" data-label="PhotoAwards">Nikon Photo Awards</a></li>
+</ul>  	   </span>
+	   <span class="triangle"></span>
+	</li>	
+	<li><a itemprop="url" href="/festivals" class=" trackEvent" target="_top" title="Festivals" data-category="Navigation" data-action="Primary" data-label="Festivals">Festivals</a>
+		<span class="subnavextra festivals">
+	   <ul id="secondary_nav">
+	<li><a href="/festivals" class="trackEvent" title="Home" data-category="Navigation" data-action="Secondary" data-label="FestivalsHome">Festivals Home</a></li>
+	<li><a href="/festivals/index" class="trackEvent" title="Festival Listings" data-category="Navigation" data-action="Secondary" data-label="FestivalsIndex">Festival Index</a></li>
+	<li><a href="/festivals/news" class="trackEvent" title="Festival News" data-category="Navigation" data-action="Secondary" data-label="FestivalsNews">Festival News</a></li>
+    <li><a href="/festivals/photos" class="trackEvent" title="All Festival Photos" data-category="Navigation" data-action="Secondary" data-label="FestivalsPhotos">Festival Photos</a></li>
+    <li><a href="/festivals/video" class="trackEvent" title="All Festival Video" data-category="Navigation" data-action="Secondary" data-label="FestivalsVideo">Festival Video</a></li>
+	<li><a href="/blogs/festivals-blog" class="trackEvent" title="All Festival Blogs" data-category="Navigation" data-action="Secondary" data-label="FestivalsBlogs">Festival Blog</a></li>
+	<!--li><a href="/signingtent" class="trackEvent" title="Festival Signing Tent" data-category="Navigation" data-action="Secondary" data-label="FestivalsSigning">Festival Signing Tent</a></li-->
+	<li><a href="/tickets/search/festival" class="trackEvent" title="Festival Tickets" data-category="Navigation" data-action="Secondary" data-label="FestivalsTickets">Festival Tickets</a></li>
+</ul>	   </span>
+	   <span class="triangle"></span>
+	</li>
+	<li><a itemprop="url" href="/tickets" class=" trackEvent" target="_top" title="Tickets"  data-category="Navigation" data-action="Primary" data-label="Tickets">Tickets</a>
+		<span class="subnavextra tickets">
+	   <ul id="secondary_nav">
+	<li><a href="http://www.viagogo.co.uk/nme" rel="nofollow" target="_blank" class=" trackEvent" title="Tickets Exchange" data-category="Navigation" data-action="Secondary" data-label="TicketsExchange">Ticket Exchange</a></li>
+	<li><a href="/tickets/artists" class=" trackEvent" title="Music" data-category="Navigation" data-action="Secondary" data-label="TicketsMusic">Music</a></li>
+    <li><a href="/tickets/comedy" class=" trackEvent" title="Comedy Tickets" data-category="Navigation" data-action="Secondary" data-label="TicketsComedy">Comedy</a></li>
+    <li><a href="/tickets/theatre" class=" trackEvent" title="Theatre Tickets" data-category="Navigation" data-action="Secondary" data-label="TicketsTheatre">Theatre</a></li>
+    <li><a href="/tickets/exhibition" class=" trackEvent" title="Exhibition Tickets" data-category="Navigation" data-action="Secondary" data-label="TicketsExhibition">Exhibitions</a></li>
+	<li><a href="/tickets/cities" class=" trackEvent" title="Cities" data-category="Navigation" data-action="Secondary" data-label="TicketsCities">Cities</a></li>
+	<li><a href="/tickets/venues" class=" trackEvent" title="Venues" data-category="Navigation" data-action="Secondary" data-label="TicketsVenues">Venues</a></li>
+	<li><a href="/news/tour" class="trackEvent" title="Tour News" data-category="Navigation" data-action="Secondary" data-label="TicketsTour">Tour News</a></li>
+</ul>
+	   </span>
+	   <span class="triangle"></span>
+	</li>	
+	<li><a href="#" class=" trackEvent" target="_top" title="More" data-category="Navigation" data-action="Primary" data-label="More">More...</a>
+	  <span class="subnavextra more">
+	    <ul>
+	<li><a href="/newsletters" class="trackEvent" target="_top" title="NME Newsletter" data-category="Navigation" data-action="Secondary" data-label="MoreNewsletter">NME Newsletter</a></li>
+	<li><a href="/win" class="trackEvent" target="_top" title="Win" data-category="Navigation" data-action="Secondary" data-label="MoreWin">Win!</a></li>
+	<li><a href="/list" class="trackEvent" target="_top" title="NME Lists" data-category="Navigation" data-action="Secondary" data-label="MoreLists">Lists</a></li>
+	<li><a href="/festivals" class="trackEvent" target="_top" title="Festivals" data-category="Navigation" data-action="Secondary" data-label="MoreFestivals">Festivals</a></li>
+	<li><a href="/features" class="trackEvent" target="_top" title="NME Features" data-category="Navigation" data-action="Secondary" data-label="MoreFeatures">Features</a></li>
+	<li><a href="/digital-edition" class="trackEvent" title="Digital Edition" data-category="Masthead" data-action="MagLinks" data-label="DigitalEdition">Digital Edition</a></li>
+	<li><a href="/magazine" class="trackEvent" target="_top" title="Magazine" data-category="Navigation" data-action="Secondary" data-label="Magazine">Magazine</a></li>
+	<li><a href="https://nme.backstreetmerch.com" class="trackEvent" rel="nofollow" target="_blank" title="Store" data-category="Navigation" data-action="Secondary" data-label="Shop" data-link-type="external">Shop</a></li>
+</ul>
+
+<div class="magcover">
+	<a href="/magazine" class="trackEvent" data-category="Masthead" data-action="MagLinks" data-label="CoverImage">
+				<img id="magazine_cover" src="http://nme.assets.ipccdn.co.uk/images/NMEMagCover1_280715.magazine_thumbnail.jpg" alt="This Week's Issue" title="Subscribe to NME and save up to 38%" width="130" />
+			</a>
+</div>
+
+<div class="subs">
+	<span class="morearrow"></span>
+	<a href="http://www.magazinesdirect.com/NME-Magazine-Subscription" rel="nofollow" target="_blank" class="trackEvent" data-category="Masthead" data-action="MagLinks" data-label="Subscribe">Subscribe To NME</a>
+</div>
+	  </span>
+	  <span class="triangle"></span>
+	</li>
+</ul>
+</span>
+
+				<ul class="login">
+			<li>
+				<a href="https://secure.nme.com/member/login" id="masthead-nmelogin" class="nme-signin-trigger">
+					<img src="http://nme.assets.ipccdn.co.uk/themes/desktop/header/login-icon.png" alt="NME"/>
+				</a>
+			</li>
+				</ul>
+
+		<div class="mastsearch" itemref="schemaWebPage" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+			<form action="/search" class="site_search" id="header-search-box">
+				<meta itemprop="target" content="http://www.nme.com/search?q="/>
+				<input type="text" name="q" size="23" class="form_text_field hide" id="search_term" value="" placeholder="Search" itemprop="query-input"/>
+				<input type="submit" value="" class="form_button_icon"/>
+			</form>
+		</div>
+	</div>
+	<!-- end mastinner -->
+</div>
+						<div id="container" class="body">
+			<div class="article_ads"><div id="takeover_head" class="takeover_head takeover_hide"><a target="_blank" onclick="return takeover.click();"><img
+                src="http://nme.assets.ipccdn.co.uk/themes/takeovers/transparent.gif" alt="" width="1006" height="120"/></a></div>
+<script type='text/javascript'>
+    var geoCookie = $.cookie('ipc_geo');
+    if (geoCookie !== null && (geoCookie == 'US' || geoCookie == 'CA')) {
+        ord = Math.random() * 10000000000000000;
+        cmnunt_site = 'cmn_nme';
+        cmnunt_silo = 's_mus';
+        cmnunt_subsilo = '';
+                cmnunt_tier = 'to,t2,internal';
+        cmnunt_zone = 'channels';
+                cmnunt_kw = '';
+        cmnunt_exclude = '';
+        var protocol = ("https:" == document.location.protocol) ? "https://" : "http://",
+                url = 'cdn.complexmedianetwork.com/js/cmnUNT.js';
+        f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+        document.write(f);
+        }
+</script><div id="cmn_ad_tag_head" class="fw_nme">
+    <script type="text/javascript">
+        var geoCookie = geoCookie || $.cookie('ipc_geo');
+        if (geoCookie !== null && (geoCookie == 'US' || geoCookie == 'CA')) {
+            cmnUNT('3x3', tile_num++);
+        }
+    </script>
+</div><div id="leaderboard"><div class="ads complexTopbanner Topbanner">
+	  <script type="text/javascript"> <!--
+	        var geoCookie = geoCookie || $.cookie("ipc_geo"),
+	            divID = "div-gpt-ad-1438483846-0";
+
+	        if (geoCookie !== null && (geoCookie == "US" || geoCookie == "CA")) {
+
+		    }else{
+		        jQuery(".complexTopbanner").attr({"id":divID});
+                if (typeof(ipc.adloader) != "undefined" && ipc.adloader.getProvider() == "dfp") {
+                    ipc.adloader.registerSlot("div-gpt-ad-1438483846-0");
+                }
+		    }
+	  //--></script>
+	</div></div>
+</div>
+
+			<div id="cmn_wrap" class="article">
+				<div itemscope itemtype="http://schema.org/Article" >
+	<div id="content" class="article_page">
+		<meta itemprop="articleSection" content="Music News">
+		<div id="outbrainNews">
+			<div class="article_header">
+				<div class="breadcrumbs"><a href="/">Home</a> <span>&sol;</span> <a href="/news">News</a> <span>&sol;</span> News Article</div>
+
+								<h1 itemprop="name">Dr Dre announces long awaited new album &#039;Compton&#039;, to be released next week</h1>
+								<p class="article_sell">Featuring a dozen high profile rappers as guests, 'Compton' will be exclusive to iTunes/ Apple Music</p>
+			</div>
+
+			<div class="article_social"><div class="socialbuttons pw-widget pw-counter-none pw-size-medium"  pw:layout="horizontal">
+<a class="pw-button-facebook pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-twitter pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-googleplus pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-post-share pw-look-native pw-size-xlarge"></a>
+</div>
+</div>
+
+							<div class="article_image">
+					<img src="http://nme.assets.ipccdn.co.uk/images/84_drdre_L090207.article_x4.jpg" imageprop="image" width="655" />
+									</div>
+			
+			<div class="caption">Dr Dre
+09 february 2007</div>
+			<div class="article_text">
+				<div class="news_author">
+				<div class="authorship" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+	<div class="authorText">
+		<span class="squareMarker"></span><span class="authorName"><a href="http://www.nme.com/author/james-hendicott"><span itemprop="name" class="newsauthor">James Hendicott</span></a>,</span> <span class="authordate">1st August 2015</span>
+	</div>
+</div>
+				</div>
+				
+															<div class="article_related box">
+	<div>
+		<h3>Related Articles</h3>
+		<span class="triangle"></span>
+	</div>
+	<ul class="box_fixed_height">
+					<li><a href="/news/dr-dre/87218">Ice Cube says a new Dr. Dre album will be released on August 1</a></li>
+					<li><a href="/news/dr-dre/86692">Dr Dre talks NWA biopic and pays tribute to J Dilla during first &#039;The Pharmacy&#039; Beats 1 ra...</a></li>
+					<li><a href="/news/dr-dre/86686">Dr Dre&#039;s Beats 1 music show &#039;The Pharmacy&#039; to begin tonight</a></li>
+			</ul>
+</div>
+												
+				<span itemprop="articleBody" class="article_body">West coast gangsta rap legend <a href="/artists/dr-dre" class="artistLink">Dr Dre</a> has announced a new album 'Compton' via his Apple Music radio show, finally unveiling the long awaited follow up to 14-year-old album '2001'.<br />
+<br />
+The rapper said he didn't release the earlier version of his third album, 'Detox' - which never saw the light of day - because "I didn't like it, it wasn't good." He told listeners that Compton is finished, and will be released next Friday, August 7.<br />
+<br />
+The album will feature Eminem, Kendrick Lamar, Ice Cube, Xzibit, Snoop Dogg and a dozen or so more guest artists.<br />
+<br />
+While the Dre show had been surrounded by hype, many expected Dre and <a href="/artists/ice-cube" class="artistLink">Ice Cube</a> to simply speak at length about the release of upcoming movie 'Straight Outta Compton', and then announce the accompanying soundtrack. <br />
+<br />
+The album is not a soundtrack, but is inspired by the movie.<br />
+<br />
+<figure class="fullimage"><img src="http://nme.assets.ipccdn.co.uk/images/article_x4/DrDre02PR250211.jpg" alt="NME" /><span class="credit">Press</span></figure><br />
+<br />
+You can see the official trailer for 'Straight Outta Compton' below. It's released in the UK on August 28, and stars O’Shea Jackson Jr., Corey Hawkins and Jason Mitchell as Ice Cube, Dr. Dre and Eazy-E. It's directed by F. Gary Gray (previously Friday, Set It Off, The Italian Job).<br />
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsbWEF1Sju0" frameborder="0" allowfullscreen></iframe><br />
+<br />
+Dre announced the release via his 'The Pharmacy' show on Apple Music. Keeping the show topical, he also played Meek Mill, and gave a shout out on <a href="http://www.nme.com/news/snoop-dogg/87285">Snoop Dogg's recent border problems</a> ("Italy Why you gotta do my homie Snoop like that").<br />
+<br />
+Dre's last two full album releases - 'The Chronic' and '2001' - came only two years apart. A follow up initially given the working title 'Detox' has long been rumoured. In the meantime, Dre has released two singles, 'Kush' and 'I Need A Doctor', and featured on numerous other tracks.</span>
+			</div>
+
+												<div class="video_image bright box_fixed_height videoContainer" data-player-type="brightcove"  data-video-id="803579440001" data-player-name="nmeNews"  data-start-inView="true">
+	<img itemprop="image" src="http://brightcove.vo.llnwd.net/e1/pd/463898949/463898949_803555361001_ari-origin05-arc-525-1298654228200.jpg?pubId=463898949" alt="Dr. Dre feat. Eminem &amp; Skylar Grey- &#039;I Need A Doctor&#039; Music Video" class="image_holder" />
+	<img src="http://nme.assets.ipccdn.co.uk/themes/default/static_images/video_play_button.png" alt="Dr. Dre feat. Eminem &amp; Skylar Grey- &#039;I Need A Doctor&#039; Music Video" class="video_play_large" width="140" height="201" />
+</div>
+<div class="caption">Video: Dr. Dre feat. Eminem &amp; Skylar Grey- &#039;I Need A Doctor&#039; Music Video</div>
+									</div>
+
+		<!-- Place Outbrain Content Here-->
+
+		<h3 class="articleh3">Share This</h3>
+		<div class="article_social"><div class="socialbuttons pw-widget pw-counter-none pw-size-medium"  pw:layout="horizontal">
+<a class="pw-button-facebook pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-twitter pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-googleplus pw-look-native pw-size-xlarge"></a>
+<a class="pw-button-post-share pw-look-native pw-size-xlarge"></a>
+</div>
+</div>
+
+					<div class="comment">
+	<span>Comments</span>
+			<div class="commentlogin">
+			<a href="https://secure.nme.com/member/login" class="nme-signin-trigger" id="masthead-nmelogin">Login</a>
+			<a href="https://secure.nme.com/member/register" class="create nme-signup-trigger">Register</a>
+		</div>
+	</div>
+<iframe id="comment-system" src="" data-comment-tag="node-384476" class="comment-system" name="comments" scrolling="no" frameborder="0" border="0" width="100%" height="300"></iframe>			</div>
+</div>
+				<div class="col-md-4 col-sm-5 pull-right" id="right_panel">
+	<div class="mpuadblock"><div class="ads mpuSlot MPU">
+	  <script type="text/javascript"> <!--
+	        var geoCookie = geoCookie || $.cookie("ipc_geo"),
+	            divID = "div-gpt-ad-1438483846-2";
+	        if (geoCookie !== null && (geoCookie == "US" || geoCookie == "CA")) {
+              cmnUNT("300x250", tile_num++);
+		    }else{
+		        jQuery(".mpuSlot").attr({"id":divID});
+                if (typeof(ipc.adloader) != "undefined" && ipc.adloader.getProvider() == "dfp") {
+                    ipc.adloader.registerSlot("div-gpt-ad-1438483846-2");
+                }
+		    }
+	  //--></script>
+	</div></div>
+	<div class="headline">
+	<span>Don't Miss</span>
+	<span class="tab"></span>
+</div>
+<div class="today-nme simple rightblock">
+	<ul>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/blogs/nme-blogs/arctic-monkeys-five-albums-so-far-ranked-in-order-of-greatness" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="Arctic Monkeys&#039; Five Albums So Far - Ranked In Order Of Greatness" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2013arcticmonkeys1EM230514.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						Blogs
+											</span>
+					<h3>Arctic Monkeys&#039; Five Albums So Far - Ranked In Order Of Greatness</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/blogs/nme-blogs/what-makes-la-roux-proud-to-be-different-watch-her-band-mates-quiz-her-on-camera" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="What Makes La Roux Proud To Be Different? Watch Her Band Mates Quiz Her On Camera" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2015LaRoux_1234_DB270215.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						Blogs
+											</span>
+					<h3>What Makes La Roux Proud To Be Different? Watch Her Band Mates Quiz Her On Camera</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/nme-video/father-john-misty-on-the-story-behind-one-of-the-y/4333955396001" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="Father John Misty On The Story Behind One Of The Year&#039;s Best Covers - His Take On Arcade Fire&#039;s &#039;The Suburbs&#039;" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://timeInc.brightcove.com.edgesuite.net/rtmp_uds/463898949/201507/304/463898949_4333982272001_4333955396001-th.jpg?pubId=463898949"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						video					</span>
+					<h3>Father John Misty On The Story Behind One Of The Year&#039;s Best Covers - His Take On Arcade Fire&#039;s &#039;The Suburbs&#039;</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/nme-video/noel-gallagher-on-kanye-at-glastonbury-for-half-an/4339963839001" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="Noel Gallagher On Kanye At Glastonbury: &quot;For Half An Hour, It Was As Fucking Good As It Gets&quot;" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://timeInc.brightcove.com.edgesuite.net/rtmp_uds/463898949/201507/1575/463898949_4339969469001_4339963839001-th.jpg?pubId=463898949"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						video					</span>
+					<h3>Noel Gallagher On Kanye At Glastonbury: &quot;For Half An Hour, It Was As Fucking Good As It Gets&quot;</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/photos/31-of-the-best-drummers-to-grace-rock-n-roll/382661" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="31 Of The Best Drummers To Grace Rock &#039;N&#039; Roll" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2015RockNRollHallOfFame_RingoStarr_Getty470307924_200415.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						gallery					</span>
+					<h3>31 Of The Best Drummers To Grace Rock &#039;N&#039; Roll</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/photos/10-musicians-who-suffered-horrendous-injuries--but-carried-on-gigging/382458" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="10 Musicians Who Suffered Horrendous Injuries – But Carried On Gigging" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2015RyanJarman_NME_JL_030715.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						gallery					</span>
+					<h3>10 Musicians Who Suffered Horrendous Injuries – But Carried On Gigging</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/features/a-most-modern-tragedy-why-were-all-to-blame-for-the-death-of-amy-winehouse" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="A Most Modern Tragedy: Why We&#039;re All To Blame For The Death Of Amy Winehouse" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2014AmyWinehouse-073DC_230714.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						feature					</span>
+					<h3>A Most Modern Tragedy: Why We&#039;re All To Blame For The Death Of Amy Winehouse</h3>
+				</div>
+			</a>
+		</li>
+				<li data-vr-contentbox="">
+			<a target="_top" href="/features/the-courteeners-interview-were-the-biggest-underground-band-in-the-world" class="trackEvent" data-category="Most Read" data-action="News:Today:RHS:Light:Simple" data-label="The Courteeners Interview: &quot;We&#039;re The Biggest Underground Band In The World&quot;" data-value="1">
+				<span class="dontmisspic">
+					<div class="lazyload defer-image placeholder_dontmiss image-ratio-32x19">
+						<div data-src="http://nme.assets.ipccdn.co.uk/images/2015COURTEENERS_JF_3366180615.thumbnail.jpg"></div>
+					</div>
+				</span>
+				<div class="dontmissinfo">
+					<span class="cat">
+						feature					</span>
+					<h3>The Courteeners Interview: &quot;We&#039;re The Biggest Underground Band In The World&quot;</h3>
+				</div>
+			</a>
+		</li>
+			</ul>
+</div>
+	
+<div class="headline">
+	<span>Latest Tickets</span>
+	<span class="tab"></span>
+</div>
+
+<div id="right_tickets" class="rightblock">
+    <form class="ticket_search" name="ticket_search" action="/tickets/search" id="ticket_search_right">
+        <input value="" placeholder="artist/city/venue" name="search" type="text" title="NME.COM gig search" class="form_text_field" id="ticket_text" />
+        <select name="searchType" class="tickettype">
+                            <option value="comedy" label="Comedy">Comedy</option>
+                            <option value="exhibition" label="Exhibition">Exhibition</option>
+                            <option value="artists" label="Music" selected="true">Music</option>
+                            <option value="sport" label="Sport">Sport</option>
+                            <option value="theatre" label="Theatre">Theatre</option>
+                            <option value="city" label="City">City</option>
+                            <option value="venue" label="Venue">Venue</option>
+                    </select>
+        <input type="submit" value="Find Tickets" class="form_button" />
+    </form>
+
+
+    <ul class="featuredtickets" data-vr-zone="Latest Tickets - Booking Now">
+                                                                                                        <li data-vr-contentbox="">
+                <a href="http://www.o2priority.co.uk/Events/City-and-Colour/1405?utm_source=Priority&amp;utm_medium=app&amp;utm_term=220715&amp;utm_content=PriorityTicketsoffer&amp;utm_campaign=CityandColour" title="Buy City &amp; Colour Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="City &amp; Colour" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/CityAndColourPR050411.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/CityAndColourPR050411.article_x4.jpg 2x" alt="Buy City &amp; Colour Tickets" border="0" width="150" />
+					</div>
+                    <p>City &amp; Colour</p>
+                </a>
+            </li>
+                                                                                                        <li data-vr-contentbox="">
+                <a href="https://www.o2priority.co.uk/artists/motorhead/2942" title="Buy Motorhead Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="Motorhead" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/2015Motorhead_GettyImages-478644482_260615.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/2015Motorhead_GettyImages-478644482_260615.article_x4.jpg 2x" alt="Buy Motorhead Tickets" border="0" width="150" />
+					</div>
+                    <p>Motorhead</p>
+                </a>
+            </li>
+                                                                                                        <li data-vr-contentbox="">
+                <a href="http://www.o2priority.co.uk/artists/foxes/11891" title="Buy Foxes Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="Foxes" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/2012FoxesPR250512.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/2012FoxesPR250512.article_x4.jpg 2x" alt="Buy Foxes Tickets" border="0" width="150" />
+					</div>
+                    <p>Foxes</p>
+                </a>
+            </li>
+                                                                                                        <li data-vr-contentbox="">
+                <a href="http://www.nme.com/tickets/search/dexters/searchType/artists" title="Buy Dexters Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="Dexters" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/2012DextersKOKO006221112.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/2012DextersKOKO006221112.article_x4.jpg 2x" alt="Buy Dexters Tickets" border="0" width="150" />
+					</div>
+                    <p>Dexters</p>
+                </a>
+            </li>
+                                                                                                        <li data-vr-contentbox="">
+                <a href="http://www.nme.com/artists/leftfield" title="Buy Leftfield Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="Leftfield" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/leftfield290410.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/leftfield290410.article_x4.jpg 2x" alt="Buy Leftfield Tickets" border="0" width="150" />
+					</div>
+                    <p>Leftfield</p>
+                </a>
+            </li>
+                                                                                                        <li data-vr-contentbox="">
+                <a href="http://www.nme.com/artists/the-view" title="Buy The View Tickets" class="trackEvent" data-category="Tickets" data-action=":RHS Latest" data-label="The View" target="blank" rel="nofollow">
+					<div class="lazyload defer-image placeholder_tickets image-ratio-32x19">
+						<img src="http://nme.assets.ipccdn.co.uk/images/91_theviewlargebutton_230109.article_x2.jpg" srcset="http://nme.assets.ipccdn.co.uk/images/91_theviewlargebutton_230109.article_x4.jpg 2x" alt="Buy The View Tickets" border="0" width="150" />
+					</div>
+                    <p>The View</p>
+                </a>
+            </li>
+            </ul>
+</div>
+	<div class="headline">
+	<span class="red">NME On Social</span>
+	<span class="tab"></span>
+</div>
+
+<div class="rightblock pad">
+	<div class="side_social">
+		<a href="https://www.facebook.com/nmemagazine" class="fb" target="_blank"><span class="icon"></span><span class="socname">Facebook</span></a>
+		<a href="https://twitter.com/nme" class="twitter" target="_blank"><span class="icon"></span><span class="socname">Twitter</span></a>
+		<a href="https://www.pinterest.com/nmemagazine" class="pinterest" target="_blank"><span class="icon"></span><span class="socname">Pinterest</span></a>
+		<a href="https://instagram.com/nmemagazine" class="instagram" target="_blank"><span class="icon"></span><span class="socname">Instagram</span></a>
+		<a href="https://plus.google.com/+NME/posts" class="gPlus" target="_blank"><span class="icon"></span><span class="socname">Google +</span></a>
+	</div>
+
+			<h3 class="signup">SIGN UP TO THE NEWSLETTER</h3>
+			<div id="newsletter" class="box">
+		<span class="newsletter-signin-trigger">
+			<form method="post" action="https://s1642912926.t.eloqua.com/e/f2" class="ipcSubscribeForm" target="ipcsignup" id="formId_030490774375925991425569811430">
+				<input value="nmeSubscribeForm" type="hidden" name="elqFormName">
+				<input value="1642912926" type="hidden" name="elqSiteId">
+				<input name="elqCampaignId" type="hidden">
+				<input name="source" type="hidden" value="RRL">
+				<input class="signupEmailaddress" type="text" value="" placeholder="Your email address" name="emailAddress" id="signupEmailaddress-54f877aa44adc5.86211583">
+				<input class="signupSubmit" type="submit" value="Submit" name="button">
+			</form>
+			<script type="text/javascript">
+				(function() { if(typeof(LiveValidation) == 'undefined') { var url = ("https:" == document.location.protocol) ? "secure.assets.ipcdigital.co.uk/js" : "assets.ipcdigital.co.uk/js";document.write(unescape("%3Cscript src='//" + url + "/js/vendor/livevalidation_standalone.compressed.js' type='text/javascript'%3E%3C/script%3E")); } } )();
+			</script>
+			<script src="//assets.ipcdigital.co.uk/js/js/vendor/livevalidation_standalone.compressed.js" type="text/javascript"></script>
+			<style type="text/css" media="screen">
+				.ipcSubscribeForm { position: relative; }
+				.LV_validation_message { left:0px; top:70px; z-index:10000; display:none; padding:14px 20px; margin-top:-30px; margin-left:28px; width:200px; line-height:16px; display:inline; position:absolute; color:#111; border:1px solid #DCA; background:#fffAF0; border-radius:4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -moz-box-shadow: 5px 5px 8px #CCC; -webkit-box-shadow: 5px 5px 8px #CCC; box-shadow: 5px 5px 8px #CCC; }
+			</style>
+			<script type="text/javascript">
+				(function() { var emailField = new LiveValidation("signupEmailaddress-54f877aa44adc5.86211583", { onInvalid: function() { var messageElem = this.createMessageSpan(); this.insertMessage(messageElem); this.addFieldClass(); var messageTimeout = setTimeout(function() { if(messageElem.parentNode){messageElem.parentNode.removeChild(messageElem)}; clearTimeout(messageTimeout); }, 5000); }, onValid : function() { return true }, onlyOnSubmit: true }); emailField .add(Validate.Format, {pattern: /^[ ]*([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})[ ]*$/i, failureMessage: "A valid email address is required"}); emailField .add(Validate.Presence, {failureMessage: "This field is required"}); })();
+			</script>
+		</span>
+	</div>
+	</div>
+	<div class="headline">
+	<span>NME Store</span>
+	<span class="tab"></span>
+</div>
+
+<div class="rightblock pad">
+		<div class="mag">
+		<a href="/magazine" class="trackEvent" data-category="NME Store" data-action="RHS:Mag" data-label="CoverImage">
+			<img id="magazine_cover" src="http://nme.assets.ipccdn.co.uk/images/NMEMagCover1_280715.magazine.jpg" alt="NME Magazine Current Issue" title="The Best Of NME" width="260" />
+		</a>
+	</div>
+	<div class="storelink mag"><a href="/magazine" class="trackEvent" data-category="NME Store" data-action="RHS:Mag" data-label="MagLink">Buy The Latest Issue</a></div>
+	
+	<h3>Special Issues</h3>
+	<ul class="nme_store">
+				<li class="store_item">
+			<a href="http://nmem.ag/OYBpl" rel="nofollow" target="_blank" title="Glastonbury 2015 Photo Souvenir Special" class="trackEvent" data-category="NME Store" data-action="RHS:Special Issue" data-label="Glastonbury 2015 Photo Souvenir Special">
+				<img src="http://nme.assets.ipccdn.co.uk/images/11246975_10153998658589167_2477864458710698890_n.gallery.jpg" alt="Glastonbury 2015 Photo Souvenir Special" width="80" />
+			</a>
+		</li>
+				<li class="store_item">
+			<a href="https://nme.backstreetmerch.com/artist/nme/magazines/1000-greatest-albums-tracks-of-all-time" rel="nofollow" target="_blank" title="The 1000 Greatest Tracks and Albums of All Time" class="trackEvent" data-category="NME Store" data-action="RHS:Special Issue" data-label="The 1000 Greatest Tracks and Albums of All Time">
+				<img src="http://nme.assets.ipccdn.co.uk/images/93NME15SFE100.gallery.jpg" alt="The 1000 Greatest Tracks and Albums of All Time" width="80" />
+			</a>
+		</li>
+				<li class="store_item">
+			<a href="http://nme.backstreetmerch.com/artist/nme/magazines/blur-collectors-magazine" rel="nofollow" target="_blank" title="Blur Special Edition" class="trackEvent" data-category="NME Store" data-action="RHS:Special Issue" data-label="Blur Special Edition">
+				<img src="http://nme.assets.ipccdn.co.uk/images/NMEBlueOneShot_1_SSP2014.gallery.jpg" alt="Blur Special Edition" width="80" />
+			</a>
+		</li>
+			</ul>
+
+	<h3>Other Merchandise</h3>
+	<ul class="nme_store merch">
+				<li class="store_item">
+			<a href="http://soniceditions.com/image/the-killers-i1m?utm_source=NMEStoreBox&amp;utm_medium=Gallery&amp;utm_campaign=NME.COM" title="The Killers" rel="nofollow" target="_blank" class="trackEvent" data-category="NME Store" data-action="RHS:Sonic Editions" data-label="The Killers">
+				<img src="http://nme.assets.ipccdn.co.uk/images/Killers.gallery.jpg" alt="The Killers" width="80" />
+				<span>The Killers</span>
+			</a>
+		</li>
+				<li class="store_item">
+			<a href="http://soniceditions.com/image/amy-at-the-isle-of-wight?utm_source=NMEStoreBox&amp;utm_medium=Gallery&amp;utm_campaign=NME.COM" title="Amy at the Isle of Wight" rel="nofollow" target="_blank" class="trackEvent" data-category="NME Store" data-action="RHS:Sonic Editions" data-label="Amy at the Isle of Wight">
+				<img src="http://nme.assets.ipccdn.co.uk/images/Amy-Winehouse-Isle-of-Wight.gallery.jpg" alt="Amy at the Isle of Wight" width="80" />
+				<span>Amy at the Isle of Wight</span>
+			</a>
+		</li>
+			</ul>
+	<ul class="nme_store merch">
+				<li class="store_item">
+			<a href="http://nme.backstreetmerch.com/artist/mastodon/bikinis/asstodon" rel="nofollow" title="Asstodon" target="_blank" class="trackEvent" data-category="NME Store" data-action="RHS:T-Shirt" data-label="Mastodon">
+				<img src="http://images.backstreetmerch.com/images/products/bands/clothing/masd/masd106_thumb.gif" alt="Asstodon" />
+				<span>Asstodon</span>
+			</a>
+		</li>
+				<li class="store_item">
+			<a href="http://nme.backstreetmerch.com/artist/deadmau5/usa-import-beanies/splatter" rel="nofollow" title="Splatter" target="_blank" class="trackEvent" data-category="NME Store" data-action="RHS:T-Shirt" data-label="Deadmau5">
+				<img src="http://images.backstreetmerch.com/images/products/bands/clothing/ddm5/ddm509_thumb.gif" alt="Splatter" />
+				<span>Splatter</span>
+			</a>
+		</li>
+			</ul>
+
+	<div class="storelink merch"><a href="http://nme.backstreetmerch.com/artist/nme" class="trackEvent" data-category="NME Store" data-action="RHS:Merchandise" data-label="BackstreetLink" target="_blank">Visit The NME Store</a></div>
+</div>
+
+		</div>
+			</div>
+
+					</div>
+
+					
+<ul class="footer_section_links">
+	<li class="news"><a href="http://www.nme.com/news">View More News</a></li>
+	<li class="video"><a href="http://www.nme.com/nme-video">View More Videos</a></li>
+	<li class="photos"><a href="http://www.nme.com/photos">View More Photos</a></li>
+	<li class="lists"><a href="http://www.nme.com/list">View More Lists</a></li>
+</ul>
+
+<footer>
+	<div class="clearfix"></div>
+	<div id="footer" class="full">
+		<div class="footerlogo"></div>
+		<div class="footerLinks">
+			<span><a href="http://www.nme.com/" rel="nofollow" title="Home">Home</a></span> &#47;
+			<span><a href="http://www.nme.com/contact" rel="nofollow" title="Contact Us" target="_top">Contact Us</a></span> &#47;
+			<span><a href="http://www.timeincuk.com/advertise/" rel="nofollow" title="Advertising Info" target="_top">Advertising Info</a></span> &#47;
+			<span><a href="http://www.timeincukcontent.com/Syndication/" rel="nofollow" title="Buy Our Content" target="_blank">Buy Our Content</a></span> &#47;
+			<span><a href="http://www.timeincuk.com/terms-and-conditions/" rel="nofollow" title="Site User Terms" target="_blank">Site User Terms</a></span> &#47;
+			<span><a href="http://www.timeincuk.com/privacy/" rel="nofollow" title="Privacy Policy" target="_blank">Privacy Policy</a></span> &#47;
+			<span><a href="http://www.timeincuk.com/privacy/#cookies" rel="nofollow" title="Cookie Information" target="_blank" class="cookie">Cookie Information</a></span>
+		</div>
+
+		<div class="midFootContent">
+			<div class="footerNewsletter">
+				<div id="newsletter" class="box">
+				<h3 class="signup">Sign Up To Our Newsletter</h3>
+					<div id="newsletter" class="box">
+		<span class="newsletter-signin-trigger">
+			<form method="post" action="https://s1642912926.t.eloqua.com/e/f2" class="ipcSubscribeForm" target="ipcsignup" id="formId_030490774375925991425569811430">
+				<input value="nmeSubscribeForm" type="hidden" name="elqFormName">
+				<input value="1642912926" type="hidden" name="elqSiteId">
+				<input name="elqCampaignId" type="hidden">
+				<input name="source" type="hidden" value="RRL">
+				<input class="signupEmailaddress" type="text" value="" placeholder="Your email address" name="emailAddress" id="signupEmailaddress-54f877aa44adc5.86211583">
+				<input class="signupSubmit" type="submit" value="Submit" name="button">
+			</form>
+			<script type="text/javascript">
+				(function() { if(typeof(LiveValidation) == 'undefined') { var url = ("https:" == document.location.protocol) ? "secure.assets.ipcdigital.co.uk/js" : "assets.ipcdigital.co.uk/js";document.write(unescape("%3Cscript src='//" + url + "/js/vendor/livevalidation_standalone.compressed.js' type='text/javascript'%3E%3C/script%3E")); } } )();
+			</script>
+			<script src="//assets.ipcdigital.co.uk/js/js/vendor/livevalidation_standalone.compressed.js" type="text/javascript"></script>
+			<style type="text/css" media="screen">
+				.ipcSubscribeForm { position: relative; }
+				.LV_validation_message { left:0px; top:70px; z-index:10000; display:none; padding:14px 20px; margin-top:-30px; margin-left:28px; width:200px; line-height:16px; display:inline; position:absolute; color:#111; border:1px solid #DCA; background:#fffAF0; border-radius:4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -moz-box-shadow: 5px 5px 8px #CCC; -webkit-box-shadow: 5px 5px 8px #CCC; box-shadow: 5px 5px 8px #CCC; }
+			</style>
+			<script type="text/javascript">
+				(function() { var emailField = new LiveValidation("signupEmailaddress-54f877aa44adc5.86211583", { onInvalid: function() { var messageElem = this.createMessageSpan(); this.insertMessage(messageElem); this.addFieldClass(); var messageTimeout = setTimeout(function() { if(messageElem.parentNode){messageElem.parentNode.removeChild(messageElem)}; clearTimeout(messageTimeout); }, 5000); }, onValid : function() { return true }, onlyOnSubmit: true }); emailField .add(Validate.Format, {pattern: /^[ ]*([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})[ ]*$/i, failureMessage: "A valid email address is required"}); emailField .add(Validate.Presence, {failureMessage: "This field is required"}); })();
+			</script>
+		</span>
+	</div>
+				</div>
+			</div>
+
+			<div class="footerSocial">
+				<h3>Find Us</h3>
+				<ul>
+					<li class="facebook">
+						<a href="http://www.facebook.com/nmemagazine" rel="nofollow" target="_top" title="Facebook"></a>
+					</li>
+					<li class="twitter">
+						<a href="http://twitter.com/NME" rel="nofollow" target="_top" title="Twitter"></a>
+					</li>
+					<li class="pinterest">
+						<a href="http://www.pinterest.com/nmemagazine/" rel="nofollow" target="_top" title="Pinterest"></a>
+					</li>
+					<li class="googlePlus">
+						<a href="https://plus.google.com/+NME"  rel="nofollow" target="_top" title="Google +"></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="footerText">
+			<span>&copy;1996-2015 Time Inc. (UK) Ltd.</span><br/>
+			<span>All rights reserved NME is part of the Time Inc. (UK) Ltd Entertainment Network</span>
+		</div>
+
+		<span id="nme-organization" itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+	<meta itemprop="name" content="NME" />
+	<meta itemprop="url" content="http://www.nme.com" />
+	<meta itemprop="sameAs" content="http://www.timeincuk.com/brands/nme/" />
+	<meta itemprop="sameAs" content="https://www.facebook.com/nmemagazine" />
+	<meta itemprop="sameAs" content="https://plus.google.com/+NME" />
+	<meta itemprop="sameAs" content="http://twitter.com/NME" />
+	<meta itemprop="sameAs" content="http://www.pinterest.com/nmemagazine/" />
+</span>
+	</div>
+</footer>
+							<script type="text/javascript">
+(function() {
+	window.ipc_geo_code = $.cookie('ipc_geo');
+	if (ipc_geo_code.toLowerCase() != 'us' && ipc_geo_code.toLowerCase() != 'ca') {
+		var hn = document.createElement('script');
+		hn.type = 'text/javascript';
+		hn.async = true;
+		hn.setAttribute('data-ev-hover-pid',1127);
+		hn.setAttribute('data-ev-hover-ocid', 1996);
+		hn.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/geo/h1.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(hn, s);
+	}
+})();
+</script>
+
+								<span id="nme-organization" itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+	<meta itemprop="name" content="NME" />
+	<meta itemprop="url" content="http://www.nme.com" />
+	<meta itemprop="sameAs" content="http://www.timeincuk.com/brands/nme/" />
+	<meta itemprop="sameAs" content="https://www.facebook.com/nmemagazine" />
+	<meta itemprop="sameAs" content="https://plus.google.com/+NME" />
+	<meta itemprop="sameAs" content="http://twitter.com/NME" />
+	<meta itemprop="sameAs" content="http://www.pinterest.com/nmemagazine/" />
+</span>
+					<div class="footerAdsContainer">
+<script type="text/javascript">
+    var geoCookie = geoCookie || $.cookie('ipc_geo');
+    if (geoCookie !== null && (geoCookie == 'US' || geoCookie == 'CA')) {
+        cmnTB(); // Toolbar
+        cmnUNT('tover', tile_num++); // Wallpaper Takeover
+    }
+</script><div class="ads Overlay" id="div-gpt-ad-1438483846-4">
+	  <script type="text/javascript"> <!--
+		  if (typeof(ipc.adloader) != "undefined" && ipc.adloader.getProvider() == "dfp") {
+			ipc.adloader.registerSlot("div-gpt-ad-1438483846-4");
+		  }
+	  //--></script>
+	</div>
+<div id="takeover_left" class="takeover_side takeover_hide"><a target="_blank" onclick="return takeover.click();"><img src="http://nme.assets.ipccdn.co.uk/themes/takeovers/transparent.gif" alt="" width="150" /><div class="takeover_countdown"><span></span></div></a></div>
+<div id="takeover_right" class="takeover_side takeover_hide"><a target="_blank" onclick="return takeover.click();"><img src="http://nme.assets.ipccdn.co.uk/themes/takeovers/transparent.gif" alt="" width="150" /><div class="takeover_countdown"><span></span></div></a></div>
+</div>			<script type='text/javascript' language='JavaScript'>
+                                    var tag_ipc_core_desktop_footer = document.createElement('script');
+                                    tag_ipc_core_desktop_footer.async = true;
+                                    tag_ipc_core_desktop_footer.type = 'text/javascript';
+                                    tag_ipc_core_desktop_footer.src="http://nme.assets.ipccdn.co.uk/combined/ipc-core-desktop-footer/73ec8c0425978e909042891ee88e71ad.js";
+                                    var node_ipc_core_desktop_footer = document.getElementsByTagName('script')[0];
+                                    node_ipc_core_desktop_footer.parentNode.insertBefore(tag_ipc_core_desktop_footer, node_ipc_core_desktop_footer);
+                                </script>
+			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"aaccaa7fff","applicationID":"510040,11239010,10880746","transactionName":"YgNVYEcAXhJYBUQNXFtJdldBCF8PFgJVF1hBCUcbWwRHEhYHQhBaVgpS","queueTime":0,"applicationTime":126,"atts":"TkRWFg8aTRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

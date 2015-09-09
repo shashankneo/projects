@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" />
+	<meta http-equiv="cleartype" content="on">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Why the Ashley Madison hack could pose a national security risk | VentureBeat | Security | by Jake Chapman, Sazze Partners</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="alternate" type="application/rss+xml" title="VentureBeat Feed" href="http://feeds.venturebeat.com/VentureBeat" />
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,300,400,600' rel='stylesheet' type='text/css'>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/js/ie/html5shiv.js"></script>
+    <script src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/js/ie/assets/js/respond.min.js"></script>
+  <![endif]-->
+
+			<!-- Start | New Relic Browser -->
+		<script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"a146400df2",applicationID:"8705922",sa:1,agent:"js-agent.newrelic.com/nr-632.min.js"}
+</script>
+		<!-- End | New Relic Browser -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/venturebeat.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.3"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='spoke-admin-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/spoke-profiles/css/admin.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;ver=290720151' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-main-css'  href='//vbstatic.co/brand/css/bootstrap-base.css?ver=290720151' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-brand-global-css'  href='//vbstatic.co/brand/css/news.css?ver=290720151' type='text/css' media='all' />
+<link rel='stylesheet' id='helm-frontend-css-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/helm/css/helm-frontend.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='community-styles-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/community/css/community.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/plugins/taxonomy-images/style.css?ver=0.8.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='//www.googletagservices.com/tag/js/gpt.js?ver=1'></script>
+<script type='text/javascript' src='//cdn.optimizely.com/js/2105380427.js?ver=1.00'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://venturebeat.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://venturebeat.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Funding Daily: Today’s tech funding news, in one&nbsp;place' href='http://venturebeat.com/2015/07/31/funding-daily-todays-tech-funding-news-in-one-place-181/' />
+<link rel='next' title='Y Combinator-backed Shotput helps fulfill product orders at a price that works for&nbsp;startups' href='http://venturebeat.com/2015/07/31/y-combinator-backed-shotput-helps-fulfill-product-orders-at-a-price-that-works-for-startups/' />
+<link rel='canonical' href='http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/' />
+<link rel='shortlink' href='http://wp.me/p5hvhT-7sqA' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="description" content="We all know cyber security is a hot issue these days. A new hack or cyber security threat seems to make headlines each week. The most recent news on this front, of course, is that hackers have accessed 50 million user accounts of Avid Life Media, the owner of cheating service Ashley Madison and dating sites Established Men and Cougar Life. These hacks are of course costly, and having your Ashley Madison account exposed could upend your personal life, but they&#8217;re not just about economics and embarrassing people, they are, without exaggeration, about terrorism, 21st century warfare and the safety of you and your family."/><link rel="shortcut icon" type="image/x-icon" href="http://venturebeat.com/wp-content/themes/vbnews/img/favicon.ico" />			<script type="text/javascript">
+				var vb_page_info = {"title":"Why the Ashley Madison hack could pose a national security risk | VentureBeat | Security | by Jake Chapman, Sazze Partners","url":"venturebeat.com\/2015\/07\/31\/why-the-ashley-madison-hack-could-pose-a-national-security-risk\/","page_type":"single","post_title":"Why the Ashley Madison hack could pose a national security&nbsp;risk","authors":["jake-chapman-sazze-partners"],"categories":["Business","Security"],"tags":["Ashley Madison","Jake Chapman"],"designations":["homepage"],"story_type":"guest","channel":"security"};
+			</script> 
+					<!-- Quantcast Tag -->
+		<script type="text/javascript">
+				var _qevents = _qevents || [];
+				(function() {
+						var elem = document.createElement('script');
+						elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+												+ ".quantserve.com/quant.js";
+						elem.async = true;
+						elem.type = "text/javascript";
+						var scpt = document.getElementsByTagName('script')[0];
+						scpt.parentNode.insertBefore(elem, scpt);
+				})();
+		</script>
+		
+		<!-- Google+ -->
+			<link href="https://plus.google.com/111356039646926014229" rel="publisher" />
+			<script type="text/javascript">
+			window.___gcfg = {lang: 'en'};
+			(function()
+			{var po = document.createElement("script");
+			po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(po, s);
+			})();</script>
+
+	<meta property="og:site_name" content="VentureBeat" /><meta property="og:title" content="Why the Ashley Madison hack could pose a national security&nbsp;risk" /><meta property="og:description" content="We all know cyber security is a hot issue these days. A new hack or cyber security threat seems to make headlines each week. The most recent news on this front, of course, is that hackers have accessed 50 million user accounts of Avid Life Media, the owner of cheating service Ashley Madison and dating sites Established Men and Cougar Life. These hacks are of course costly, and having your Ashley Madison account exposed could upend your personal life, but they&#039;re not just about economics and embarrassing people, they are, without exaggeration, about terrorism, 21st century warfare and the safety of you and your family." /><meta property="og:type" content="article" /><meta property="og:url" content="http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/" /><meta property="og:image" content="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/07/power-plant.jpg?fit=780%2C9999" />		<script type="text/javascript">
+		/* <![CDATA[ */
+		var vbShareData = {
+			page: {
+				text: 'Why the Ashley Madison hack could pose a national security risk',
+				url: 'http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/'
+			},
+			buttons: {
+				facebook: true,
+				twitter: {
+					via: 'VentureBeat',
+					related: 'venturebeat'
+				},
+				linkedin: true,
+				reddit: true,
+				stumbleupon: true
+			}
+		};
+		/* ]]> */
+		</script>
+
+		<script type="text/javascript">googletag.pubads().setTargeting('session', 'A');
+googletag.pubads().setTargeting('env', 'production');
+googletag.pubads().setTargeting('page_type', 'article');
+googletag.pubads().setTargeting('post_id', '1777576');
+googletag.pubads().setTargeting('post_type', 'guest');
+googletag.pubads().setTargeting('post_chan', 'security');
+googletag.pubads().setTargeting('post_category', 'business,security');
+googletag.pubads().setTargeting('post_tags', 'ashley-madison,jake-chapman');
+</script>
+<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=3_zf6yPmoICy1Yucx5y4o2U4hhlvFrl8pkjTOk1g-ZpIFIrBlF6DxyRd30cdIPJggY"></script>
+	<!-- This script section is temporary until we formalize it's purpose and format and implement in a better fashion -->
+	<script type="text/javascript">
+		var vbSettings = {
+			property: 'VBNews',
+			segmentKey: 'gicy4fy2x2',
+			userServiceUrl: 'https://users.venturebeat.com'
+		}
+	</script>
+</head>
+<body class="single single-post postid-1777576 single-format-standard singular category-Business">
+	    <!-- Header -->
+    <header class="container site-header">
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="navbar-channels">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"><div class="vb-logo"></div></a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="navbar-channels">
+            <form class="navbar-form search-form" method="get" action="http://venturebeat.com/" role="search">
+              <div class="form-group">
+                <input type="search" class="form-control" placeholder="Search" name="s" value="">
+                <button type="submit" class="btn btn-default"></button>
+              </div>
+
+            </form>
+            <ul class="nav navbar-nav main-links">
+              <li class="dropdown"><a class="dropdown-toggle" role="button" aria-expanded="false">NEWS</a>
+                <ul class="dropdown-menu channels-dropdown" role="menu">
+                  <div class="row">
+                    <div class="col-md-8 col-sm-8">
+                      <div class="row">
+                        <div class="col-md-3 col-sm-3">
+                          <li><a href="/category/games/">GamesBeat</a></li>
+                          <li><a href="/category/big-data/">Big Data</a></li>
+                          <li><a href="/category/business/">Business</a></li>
+                          <li><a href="/category/cloud/">Cloud</a></li>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                          <li><a href="/category/deals/">Deals</a></li>
+                          <li><a href="/category/dev/">Dev</a></li>
+                          <li><a href="/category/entrepreneur/">Entrepreneur</a></li>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                          <li><a href="/category/health/">Health</a></li>
+                          <li><a href="/category/mobile/">Mobile</a></li>
+                          <li><a href="/category/marketing/">Marketing</a></li>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                          <li><a href="/category/security/">Security</a></li>
+                          <li><a href="/category/small-biz/">Small Biz</a></li>
+                          <li><a href="/category/social/">Social</a></li>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                          <li><a href="/contact/">Got a tip? Tell us!</a></li>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </ul>
+              </li>
+              <li><a href="//events.venturebeat.com/">EVENTS</a></li>
+              <li><a href="//insight.venturebeat.com/">RESEARCH</a></li>
+              <li class="mobile-links">
+                <a class="mobile-subscribe" href="/newsletters/">Subscribe</a>
+              </li>
+              <li class="mobile-share">
+                <a class="facebook social" href="//facebook.com/venturebeat"></a>
+                <a class="twitter social" href="//twitter.com/venturebeat"></a>
+                <a class="google-plus social" href="//plus.google.com/u/0/111356039646926014229/posts"></a>
+                <a class="linked-in social" href="//www.linkedin.com/company/368927?trk=tyah"></a>
+                <a class="feed social" href="//feeds.venturebeat.com/VentureBeat"></a>
+              </li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+              <li><a class="subscribe" href="/newsletters/">SUBSCRIBE</a></li>
+              <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="search-icon"></span></a>
+                <ul class="dropdown-menu search-dropdown" role="menu">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <form method="get" action="http://venturebeat.com/" role="search">
+                        <div class="input-group">
+                          <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit"></button>
+                          </span>
+                          <input type="search" class="form-control" placeholder="Search" name="s" value="">
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END Header -->
+
+    <div class="skin-wrapper">
+
+		
+    <div class="body-container container clearfix">
+		<div id="article-masthead">
+			<header class="article-header">
+				<span class="channel-label security-post"><a href="http://venturebeat.com/category/security/">Security</a></span>				<span class="post-label guest-post">Guest</span>
+				<h1 class="article-title">Why the Ashley Madison hack could pose a national security&nbsp;risk</h1>
+
+				<div class="article-byline">
+					<a href="http://venturebeat.com/author/jake-chapman-sazze-partners/" title="Posts by Jake Chapman, Sazze Partners" class="author url fn" rel="author">Jake Chapman, Sazze Partners</a>					<time class="the-time" title="2015-07-31T15:00:11+00:00" datetime="2015-07-31T15:00:11+00:00">July 31, 2015 3:00 PM</time>
+				</div><!-- .article-byline -->
+
+				<div class="article-tags" id="tag-list-post_tag">
+					<strong>Tags:</strong> <a href="http://venturebeat.com/tag/ashley-madison/" rel="tag">Ashley Madison</a>, <a href="http://venturebeat.com/tag/jake-chapman/" rel="tag">Jake Chapman</a> 				</div><!-- .article-tags -->
+
+
+			</header><!-- .article-header -->
+
+						<div class="article-media-header">
+				<img  src="//vbstatic.co/brand/img/logos/logo-placeholder-930x550.jpg" data-src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/07/power-plant.jpg?fit=930%2C9999" data-src-mobile="http://venturebeat.com/wp-content/uploads/2015/07/power-plant.jpg"  class="attachment-single-masthead wp-post-image" alt="power plant" /><noscript><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/07/power-plant.jpg?fit=930%2C9999" class="attachment-single-masthead wp-post-image" alt="power plant" /></noscript><div class="wp-caption"><div class="vb_image_source"><em>Image Credit: Thanapun/Shutterstock</em></div></div>			</div><!-- .article-media-header -->
+			
+		</div><!-- #article-masthead -->
+
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			<article id="post-1777576" class="border-top clearfix article-wrapper post-1777576 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-security tag-ashley-madison tag-jake-chapman vb_post_designations-homepage helm_story_type-guest has-thumbnail">
+
+				<div class="article-content">
+					<p>We all know cyber security is a <a href="http://venturebeat.com/category/security/">hot issue</a> these days. A new hack or cyber security threat seems to make headlines each week. The most recent news on this front, of course, is that hackers have accessed 50 million user accounts of Avid Life Media, the owner of cheating service Ashley Madison and dating sites Established Men and Cougar Life. These hacks are of course costly, and having your Ashley Madison account exposed could upend your personal life, but they&#8217;re not just about economics and embarrassing people, they are, without exaggeration, about terrorism, 21st century warfare and the safety of you and your family.</p>
+<p>If we assume that half of the 50 million compromised Avid Life records are U.S. records, which seems a conservative assumption, and that the people who used the sites are representative of the general population, then the numbers below represent roughly the number of Americans in each of those categories.</p>
+<ul>
+<li>1,250 Federal and State elected officials</li>
+<li>2,500 FBI employees</li>
+<li>2,500 NSA employees</li>
+<li>2,175 full time nuclear power plant workers</li>
+<li>3,500 TSA employees</li>
+<li>25,000 DHS employees</li>
+<li>35,000 local elected officials</li>
+<li>60,000 people with top secret security clearance</li>
+</ul>
+<p>These are people whose marital indiscretions, nude pictures, and sexual proclivities are now in the hands of anonymous hackers calling themselves the Impact Group. If that doesn’t scare the hell out of you, then you have clearly never seen a good spy movie.</p>
+<p>[Note: I haven&#8217;t taken into account here the percentage of accounts that might be duplicates (one person might have accounts on more than one of Avid&#8217;s services). The numbers are intended simply to illustrate how big the potential problem is, not to be taken as concrete.]</p>
+<hr /><span class="boilerplate-label">Sponsored by VB</span>
+<div id="boilerplate_1768121" class="post-boilerplate boilerplate-speedbump"><strong><em><a href="http://events.venturebeat.com/event/growthbeat2015/?utm_source=venturebeat&amp;utm_medium=boilerplate&amp;utm_content=top-category&amp;utm_campaign=growthbeat2015">Join us at GrowthBeat</a> where thought leaders from the biggest brands will share winning growth strategies on August 17-18 in San Francisco. Sign up now!</em></strong></div>
+<hr />
+<p>Cyber security has two fronts, the first is the technological front where we need to respond directly to hackers, the second is the human front where hackers use social engineering to convince others to hand over access to their systems. The Ashley Madison data is like a WMD on the social engineering front. Why bother trying a brute force hack of a nuclear power plant’s control systems when you can threaten to destroy the plant’s IT director’s family, reputation, and career. I suspect there is a rather large team at the NSA working to identify everyone with security clearance placed at risk by the Ashley Madison breach. At least I hope there is. The problem is, what do you do when the list is so large? I don’t know if there is a solution other than leaking the entire list of names to the public, effectively firing the hacker’s bullets before they have a chance to do harm.</p>
+<p>The venture and startup community has certainly recognized part of the danger here and has responded accordingly. Funding for security in 2010 was just over one billion dollars but has been growing steadily and is on pace to exceed three billion in 2015.</p>
+<p>Here is a chart from Mattermark showing growth in security funding over the last five years.</p>
+<div id="attachment_1777579"  class="wp-caption alignnone" style="max-width:586px;"><a href="http://venturebeat.com/wp-content/uploads/2015/07/security-funding.jpg"><img class="wp-image-1777579 size-full"  src="//vbstatic.co/brand/img/logos/logo-placeholder-160x160.jpg" data-src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/security-funding.jpg" alt="security funding" width="586" height="347" /><noscript><img class="wp-image-1777579 size-full" src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/07/security-funding.jpg?resize=586%2C347" alt="security funding" data-recalc-dims="1" /></noscript></a><p class="wp-caption-text">Above: Security tech funding over the last five years (Source: Mattermark)</p></div>
+<p>As the funding data demonstrates, the current answer to cyber security is accelerating investment in technological solutions. This increased investment in cyber security is absolutely the right thing to be doing, but it can’t be the entire strategy for dealing with cyber crime for a couple of reasons. First, reactive technology development is too slow to stop a potentially devastating attack, and second, cyber security investment largely deals with only the first front in cyber security, leaving the human weakness exposed.</p>
+<p>Defensive measures always lag offense and are never perfect. Swords entered use around 3,300BC, and mail armor rendering those swords less effective appeared in 400BC. The gun was introduced to Europeans in the 16th century, but a commercially available bullet-proof vest didn’t exist until the 19th century. The Nazis introduced modern missile technology in the early 1940s, but it wasn’t until the 2000s that a credible (barely) missile defense system existed. Defensive technology is by definition a response to an offensive technology of some sort and often only comes along as a direct response to an attack.</p>
+<p>The pace of technology development has increased, and the lag time between offensive weaponry and defensive innovation is shrinking, but at the same time the damage a potential zero day attack can cause has been increasing at an even greater rate. No matter how much money is poured into cyber security, there will always be a gap between new attacks and our ability to respond to them. As cyber attacks become more sophisticated and our world becomes more connected, we are approaching a point where we can’t afford the damage a single attack can cause before we mount a defense.</p>
+<p>The bigger issue, though, is that people ultimately control our systems, and people are weak. As long as any porn site, search history, social network, or job seeking site is vulnerable to being hacked, the people who use those sites and every system they have access to are vulnerable. The human weakness basically means that we are only as secure as the least secure site.</p>
+<p>Recently, in response to the online privacy discussion, there has been a small but growing minority calling for <a href="http://www.wired.com/2015/02/dick-pics/">openness</a> and a <a href="http://www.theguardian.com/commentisfree/2015/jul/24/is-the-ashley-madison-hack-another-step-towards-a-post-embarrassment-world">post-embarrassment world</a>. This burgeoning movement towards radical transparency is largely motivated by progressive sex-positive attitudes and a pragmatic understanding of how the Internet works. While I think both are reasonable bases for pushing for a more transparent world with less shame, the more compelling reason to “let it all hang out” is national security. If everyone’s porn preferences were known today, would anyone care six months from now? We have a cultural weakness exposed by modern technology and only a cultural solution can fix it. Is embracing a blasé attitude towards the personal lives of others something we can do overnight? Of course not, but plenty of other western nations, particularly France, have a much more open mind about the sorts of things that here in the U.S. are fodder for blackmail.</p>
+<p>If we want to craft a credible defense against cyber terrorism, we need to attack it from all fronts. We need to continue investing in counter measures, but we also need to recognize that 20th century concepts of personal privacy place us all at risk in a 21st century world. Shame might be the strongest weapon our nation’s enemies can wield against us.</p>
+<p><em>Jake Chapman is a partner at <a href="http://www.sazzepartners.com">Sazze Partners</a>, where he invests in founders making the impossible possible through sheer force of will. You can reach Jake at <a href="https://twitter.com/runvc" target="_blank">https://twitter.com/runvc</a>.</em></p>
+				</div><!-- .article-content -->
+
+			</article><!-- #post-1777576 .article-wrapper -->
+
+						<div class="OUTBRAIN" data-src="http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/" data-widget-id="AR_1" data-ob-template="venturebeat"></div>
+			<div class="OUTBRAIN" data-src="http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/" data-widget-id="AR_2" data-ob-template="venturebeat"></div>
+		
+			<div id="comments">
+							</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		
+<div id="secondary" class="column widget-area">
+	<aside role="complementary">
+		<div class="xoxo">
+					<meta id="reference_id" content="">
+			<meta id="keywords" content="">
+
+			<div id="vb_recommended_widget" class="widget widget_recommended_cloud">
+				<h2 class="widgettitle">Trending Research</h2>
+				<ul id="recommended"></ul>
+			</div>
+	  <div class="widget dfp-placeholder"></div><div class="widget dfp-placeholder"></div>		<script type="text/javascript" src="http://jsc.madisonlogic.com/jsc?pub=532&pgr=975&tgt=3315&src=10682&layrf=7232"></script>
+		<div class="widget dfp-placeholder"></div><div class="widget dfp-placeholder"></div>					<style type="text/css">
+						.vb-recent-business-sponsored-company-news-posts .read-more { float: none; } .vb-recent-business-sponsored-company-news-posts .recent-posts-attribution { min-height: 35px; } .vb-recent-business-sponsored-company-news-posts .recent-posts-attribution img { float: right; margin-top: -15px; }					</style>
+								<div class="vb_widget widget">
+					<div class="vb-recent-posts-widget vb-recent-business-sponsored-company-news-posts">
+						<h2 class="widgettitle">Press Releases</h2>
+						<ul class="recent-posts-list">
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img width="52" height="52"  src="//vbstatic.co/brand/img/logos/logo-placeholder-160x160.jpg" data-src="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" data-src-mobile="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg"  class="attachment-mini wp-post-image" alt="businesswire-4" Gunderson_Dettmer_Announces_Addition_of_New_Partners_in_San_Diego_and_Los_Angeles:_Jeff_Thacker_and_Ross="" nbsp;Burningham="" /><noscript><img width="52" height="52" src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" class="attachment-mini wp-post-image" alt="businesswire-4" Gunderson_Dettmer_Announces_Addition_of_New_Partners_in_San_Diego_and_Los_Angeles:_Jeff_Thacker_and_Ross="" nbsp;Burningham="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/07/30/gunderson-dettmer-announces-addition-of-new-partners-in-san-diego-and-los-angeles-jeff-thacker-and-ross-burningham/">
+										Gunderson Dettmer Announces Addition of New Partners in San Diego and Los Angeles: Jeff Thacker and Ross Burningham									</a>
+								</div>
+							</li>
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img width="52" height="52"  src="//vbstatic.co/brand/img/logos/logo-placeholder-160x160.jpg" data-src="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" data-src-mobile="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg"  class="attachment-mini wp-post-image" alt="businesswire-4" Nimble_Named_a_2015_Hot_Vendor_in_Social_Selling_By_Aragon="" nbsp;Research="" /><noscript><img width="52" height="52" src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" class="attachment-mini wp-post-image" alt="businesswire-4" Nimble_Named_a_2015_Hot_Vendor_in_Social_Selling_By_Aragon="" nbsp;Research="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/07/29/nimble-named-a-2015-hot-vendor-in-social-selling-by-aragon-research/">
+										Nimble Named a 2015 Hot Vendor in Social Selling By Aragon Research									</a>
+								</div>
+							</li>
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img width="52" height="52"  src="//vbstatic.co/brand/img/logos/logo-placeholder-160x160.jpg" data-src="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" data-src-mobile="http://venturebeat.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg"  class="attachment-mini wp-post-image" alt="businesswire-4" Deloitte_and_Coupa_Form_Strategic_Alliance_to_Help_Drive_Procurement="" nbsp;Transformation="" /><noscript><img width="52" height="52" src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/businesswire-4-52x52.jpg" class="attachment-mini wp-post-image" alt="businesswire-4" Deloitte_and_Coupa_Form_Strategic_Alliance_to_Help_Drive_Procurement="" nbsp;Transformation="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/07/29/deloitte-and-coupa-form-strategic-alliance-to-help-drive-procurement-transformation/">
+										Deloitte and Coupa Form Strategic Alliance to Help Drive Procurement Transformation									</a>
+								</div>
+							</li>
+												</ul>
+						<div class="recent-posts-attribution">
+							<a href="http://venturebeat.com/tag/business-sponsored-company-news/" class="read-more">View more</a>
+															<a target="_blank" href="/tag/business-sponsored-company-news/">									<img width="150" src="http://venturebeat.com/wp-content/uploads/2014/11/business-wire-widget.png" class="recent-posts-logo" />
+								</a>													</div>
+					</div>
+				</div>
+							
+			<!-- Outbrain Sidebar Widget -->
+			<div class="vb_widget widget">
+				<div class="OUTBRAIN" data-src="http://venturebeat.com/2015/07/31/why-the-ashley-madison-hack-could-pose-a-national-security-risk/" data-widget-id="SB_1" data-ob-template="venturebeat"></div>
+			</div>
+					</div>
+	</aside>
+</div><!-- #secondary .widget-area -->
+
+
+	</div><!-- END .body-container -->
+	</div><!-- END .skin-wrapper -->
+
+      <footer id="the_footer">
+        <div class="container">
+          <div class="row social-icons">
+            <div class="col-md-6 col-sm-6">
+              <div class="row">
+                <div class="col-md-12 text-center-xs">
+                  <a class="facebook social" href="//facebook.com/venturebeat"></a>
+                  <a class="twitter social" href="//twitter.com/venturebeat"></a>
+                  <a class="google-plus social" href="//plus.google.com/u/0/111356039646926014229/posts"></a>
+                  <a class="linked-in social" href="//www.linkedin.com/company/venturebeat"></a>
+                  <a class="feed social" href="//feeds.venturebeat.com/VentureBeat"></a>
+                </div>
+              </div>
+              <div class="row text-center-xs">
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <a class="static-links" href="/about/">ABOUT</a>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <a class="static-links" href="/contact/">CONTACT</a>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <a class="static-links" href="/careers/">CAREERS</a>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <a class="static-links" href="/advertise/">ADVERTISE</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+              <div class="row">
+                <div class="col-md-12">
+                  <a class="pull-right" href="/"><div class="footer-logo"></div></a>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12 privacy">
+                  <span class="pull-right"><a href="/terms-of-service/">Terms of Service</a></span>
+                  <span class="pull-right"><a href="/privacy-policy/">Privacy Policy</a></span>
+                  <span class="pull-right copy">&copy; 2015 <a href="http://venturebeat.com/">VentureBeat</a>. All rights reserved.</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+	  <script type="text/javascript">var lfConvConfig = {"articleId":"post-1777576","collectionMeta":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOlwvXC92ZW50dXJlYmVhdC5jb21cLzIwMTVcLzA3XC8zMVwvd2h5LXRoZS1hc2hsZXktbWFkaXNvbi1oYWNrLWNvdWxkLXBvc2UtYS1uYXRpb25hbC1zZWN1cml0eS1yaXNrXC8iLCJ0aXRsZSI6IldoeSB0aGUgQXNobGV5IE1hZGlzb24gaGFjayBjb3VsZCBwb3NlIGEgbmF0aW9uYWwgc2VjdXJpdHkmbmJzcDtyaXNrIiwiYXJ0aWNsZUlkIjoicG9zdC0xNzc3NTc2IiwidGFncyI6IiIsInR5cGUiOiJsaXZlY29tbWVudHMifQ.R6C9yqIJ2EhTb4wnv_vScIY30lpMEVdFEXLhmoEUJ_g","checksum":"e966e89a40f7e12f393c622e24a175f3","el":"comments","siteId":"351509","disableAvatars":false,"disableThirdPartyAnalytics":false};</script><script
+				        type="text/javascript"
+				        data-lf-domain="venturebeat.fyre.co"
+				        src="//cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js">
+				</script>		<!-- Bizo Insight Tag -->
+		<script type="text/javascript">
+			_bizo_data_partner_id = "2938";
+		</script>
+		<script type="text/javascript">
+		(function(){var b,a,u;a=document.createElement("script");a.type="text/javascript";a.async=true;u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";a.src=u;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();
+		</script>
+		<noscript>
+			<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=2938&fmt=gif" />
+		</noscript>
+			<!-- Perfect Audience -->
+		<script type="text/javascript">
+		(function() {
+			window._pa = window._pa || {};
+			var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+			pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/527cb3327a43f8412500003a.js";
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+		})();
+		</script>
+		<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='//vbstatic.co/brand/js/frontend.min.js?ver=290720151'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201531'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-lazy-load/js/lazyload.js?ver=290720151'></script>
+<script type='text/javascript' src='//cdn.livefyre.com/Livefyre.js?ver=3.0'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.cookie.js?ver=2006'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vb_config = {"networkConfig":{"network":"venturebeat.fyre.co"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/livefyre/js/livefyre.js?ver=290720151'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-analytics/tracking.js?ver=290720151'></script>
+<script type='text/javascript' src='//vbstatic.co/brand/js/lib/jquery.sticky.js?ver=290720151'></script>
+<script type='text/javascript' src='//vbstatic.co/brand/js/share.min.js?ver=290720151'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/social/js/story-tweet.js?ver=290720151'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.tools.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.cycle.all.js?ver=2.9999'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//vbstatic.co/brand/js/lib/jquery.powertip.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/vb-dfp.js?ver=4'></script>
+<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js?ver=1.0'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/a9-get-ads.js?ver=1.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/a9-call.js?ver=1.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/openx.js?ver=1.0'></script>
+<script type='text/javascript' src='http://widgets.outbrain.com/outbrain.js?ver=latest'></script>
+<script type='text/javascript' src='//vbstatic.co/nova/recommend.min.js?ver=1.1'></script>
+				<!-- BEGIN custom Amobee, Inc. Native Ads code for venturebeat.com -->
+				<script type='text/javascript'>
+				var dc_AdLinkColor = '#1f81e5' ;
+				var dc_isBoldActive= 'no';
+				var dc_flowMode = 2;
+				var dc_PublisherID = 219690;
+				
+				document.body.onload = function(){
+				var s = document.createElement('script');
+				s.src = 'http://kona.kontera.com/javascript/lib/KonaLibInline.js';
+				s.onload = function(){startDynamicContentFlow();};
+				document.body.appendChild(s);
+				}
+				</script>
+				<!-- END custom Amobee, Inc. Native Ads code for venturebeat.com -->
+			<script type='text/javascript' src='http://stats.wp.com/e-201531.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'78053529',post:'1777576',tz:'-7',srv:'venturebeat.com'} ]);
+	_stq.push([ 'clickTrackerInit', '78053529', '1777576' ]);
+</script>
+</body>
+</html>

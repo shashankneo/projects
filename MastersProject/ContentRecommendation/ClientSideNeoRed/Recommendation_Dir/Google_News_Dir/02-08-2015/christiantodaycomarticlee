@@ -1,0 +1,889 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+	<meta http-equiv="cleartype" content="on">
+	<title>Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F | Christian News on Christian Today</title>
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="title" content="Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F">
+<meta name="description" content="At a city in Iran, the temperature is scorching to whole new highs and is nearing record-breaking levels.">
+<meta name="Keywords" content="christian news,christianity,evangelical,Iran,heat wave,Middle East">
+<meta name="og:title" content="Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F">
+<meta name="og:description" content="At a city in Iran, the temperature is scorching to whole new highs and is nearing record-breaking levels.">
+<meta name="og:image" content="http://d.christiantoday.com/en/full/34209/middle-east-heat-wave.jpg">
+	<link rel="shortcut icon" href="http://i2.christiantoday.com/www/img/favicon.ico" type="image/x-icon" />
+	<link href="http://i2.christiantoday.com/www/img/favicon.ico" rel="shortcut icon">
+
+	<link rel="stylesheet" href="http://i2.christiantoday.com/assets/css/site.css">
+	
+	<!--[if (lt IE 9)]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://i2.christiantoday.com/assets/js/lib/ie.js"></script>
+	<![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="http://i2.christiantoday.com/assets/js/script.min.js"></script>
+	<script type="text/javascript" src="http://i2.christiantoday.com/assets/js/default.js"></script>
+
+	<script type='text/javascript'>
+var googletag = googletag || {}; 
+googletag.cmd = googletag.cmd || []; 
+(function() { 
+var gads = document.createElement('script');  
+gads.async = true; 
+gads.type = 'text/javascript';  
+var useSSL = 'https:' == document.location.protocol; 
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js'; 
+var node = document.getElementsByTagName('script')[0]; 
+node.parentNode.insertBefore(gads, node); 
+})(); 
+</script><script type='text/javascript'> 
+googletag.cmd.push(function() {
+googletag.defineSlot('/7241/christiantoday/world/articles', [[728, 90], [970, 66], [970, 90], [970, 125], [970, 250]], 'div-gpt-ad-top').addService(googletag.pubads()).setTargeting("pos","top");
+googletag.defineSlot('/7241/christiantoday/world/articles', [[300, 250]], 'div-gpt-ad-middle1').addService(googletag.pubads()).setTargeting("pos","middle1");
+googletag.defineSlot('/7241/christiantoday/world/articles', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-right1').addService(googletag.pubads()).setTargeting("pos","right1");
+googletag.defineSlot('/7241/christiantoday/world/articles', [[300, 250], [300, 600]], 'div-gpt-ad-right2').addService(googletag.pubads()).setTargeting("pos","right2");
+googletag.defineSlot('/7241/christiantoday/world/articles', [[300, 250], [300, 600]], 'div-gpt-ad-right3').addService(googletag.pubads()).setTargeting("pos","right3");
+googletag.defineSlot('/7241/christiantoday/world/articles', [[728, 90], [970, 66], [970, 90], [970, 125], [970, 250]], 'div-gpt-ad-bottom').addService(googletag.pubads()).setTargeting("pos","bottom");
+googletag.defineOutOfPageSlot('/7241/christiantoday/world/articles', 'div-gpt-ad-inread').addService(googletag.pubads()).setTargeting("pos","inRead");
+googletag.pubads().enableAsyncRendering();
+//googletag.pubads().enableSingleRequest(); 
+googletag.pubads().collapseEmptyDivs(); 
+googletag.pubads().set("page_url", "http://www.christiantoday.com");
+googletag.enableServices(); 
+});
+</script>
+<!-- teads UK -->
+      <script type="text/javascript" src="http://as.ebz.io/api/choixPubJS.htm?pid=305639&screenLayer=1&mode=NONE&home=http://www.christiantoday.com"></script><!-- nativo --><script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script></head><link href="http://i2.christiantoday.com/www/css/tiny_editor.css" rel="stylesheet" type="text/css" />
+
+<body class="">
+<!-- AP -->
+<!-- Tag for Activity Group: RT, Activity Name: Christian Today - RT, Activity ID: 2326203 -->
+<!-- Expected URL: http://www.christiantoday.com/ -->
+
+<!--
+Activity ID: 2326203
+Activity Name: Christian Today - RT
+Activity Group Name: RT
+-->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Christian Today - RT
+URL of the webpage where the tag is expected to be placed: http://www.christiantoday.com/
+This tag must be placed between the <body> and <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8c3b2373fb","applicationID":"8879784","transactionName":"NFJbZEsHVhAAU0JdCg0YbEJQSVENBVVOGhULRw==","queueTime":0,"applicationTime":48,"atts":"GBVYEgMdRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body> tags, as close as possible to the opening tag.
+Creation Date: 04/06/2015
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4806900.fls.doubleclick.net/activityi;src=4806900;type=rt;cat=chris00;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="http://4806900.fls.doubleclick.net/activityi;src=4806900;type=rt;cat=chris00;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!-- //AP -->
+
+<!-- no-js-box start -->
+<noscript>
+  <style>
+  .nojs-cover { position: fixed; top: 0; left: 0; right: 0; z-index: 999999; }
+  .nojs-cover .inner { padding: 30px 20px; background-color: #fff; text-align: center; -webkit-box-shadow: rgba(0,0,0,.1) 0 2px 10px 0; box-shadow: rgba(0,0,0,.1) 0 2px 10px 0; }
+  .lt-ie9 .nojs-cover .inner, .no-boxshadow .nojs-cover .inner { border-bottom: 1px solid #ccc; }
+  .nojs-cover p { max-width: none; line-height: 1.4; margin-bottom: 0; font-family: Arial, sans-serif; font-size: 18px; }
+  .nojs-cover a { color: #0d6ee7; text-decoration: underline; }
+  body { padding-top: 85px; }
+  </style>
+  <div class="nojs-cover">
+    <div class="inner">
+      <p>To enjoy our website, you'll need to enable <b>JavaScript</b> in your web browser. Please <a href="http://enable-javascript.com/" target="_blank"><b>click here</b></a> to learn how.</p>
+    </div>
+  </div>
+</noscript>
+<!-- no-js-box end --><header class="site-header" data="fixed">
+  <div class="row">
+    <div class="col col-1">
+      <div class="site-header__main">
+        <div class="menu hidden-desktop" data="translate-left"><i class="fa fa-navicon"></i></div>
+        <div class="search-icon"><i class="fa fa-search"></i></div>
+        <form action="/search" method="get" class="site-header__search">
+					<input type="search" name="k" class="fluid" placeholder="Search">
+					<!--input type="hidden" name="cx" value="000920432977133617786:oq6vy0wl-aa">
+					<input type="hidden" name="cof" value="FORID:9">
+					<input type="hidden" name="ie" value="UTF-8"-->
+					<input type="submit" class="hidden" hidefocus="true" >
+				</form>
+		<div class="social-icons social-icons--header">
+					<a href="https://www.facebook.com/ChristianTodayInternational" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/ChristianToday" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+					<a href="http://www.pinterest.com/christiantoday/" target="_blank" class="pinterest"><i class="fa fa-pinterest"></i></a>
+					<a href="http://www.christiantoday.com/rss" class="rss"><i class="fa fa-rss"></i></a>
+					<a href="" class="email"><i class="fa fa-envelope"></i></a>
+				</div>
+        <h1 class="section-header light-header world"><a href="http://www.christiantoday.com/world">World</a></h1>
+
+      </div>
+	 </div>
+	</div>
+	      <nav class="site-nav site-nav--desktop visible-desktop">
+	  <div class="row">
+			<div class="col col-1">
+        <ul>
+          <li class="hm"><a href="http://www.christiantoday.com/">home</a></li>
+          <li class="uk"><a href="http://www.christiantoday.co.uk">uk</a></li>
+          <li class="world active"><a href="http://www.christiantoday.com/world">world</a></li>
+          <li class="church"><a href="http://www.christiantoday.com/church">church</a></li>
+          <li class="society"><a href="http://www.christiantoday.com/society">society</a></li>
+          <li class="life"><a href="http://www.christiantoday.com/life">life</a></li>
+          <li class="entertainment"><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+          <li class="comment"><a href="http://www.christiantoday.com/comment">comment</a></li>
+          <li class="video"><a href="http://www.christiantoday.com/video">video</a></li>
+          <li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+        </ul>
+		</div>
+		</div>
+      </nav>
+</header><div class="row">
+	</div>
+<div class="row">
+	<div class="col col-1">
+		<div class="breaking-line hidden-mobile">
+	<div class="subscribe-links">
+		<a href="http://www.christiantoday.com/enewsletter/subscribe">Subscribe to eNewsletter</a>
+	</div>
+	<div class="breaking-news">
+		<div class="direction">
+			<span class="fa fa-caret-left"></span>
+			<span class="fa fa-pause"></span>
+			<span class="fa fa-caret-right"></span>
+		</div>
+		<header></header>
+		<div class="breaking-slider-wrap">
+			<div class="breaking-slider">
+								<div class="item"><a  href="http://www.christiantoday.com/article/dawkins.disciples.are.laughably.comically.wrong.claims.andy.bannister/60592.htm">Dawkins' disciples are 'laughably, comically wrong', claims Andy Bannister</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/pastors.please.stop.doing.this.one.thing/60649.htm">Pastors, please stop doing this one thing</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/the.faith.of.president.obama.in.six.quotes.and.one.hymn/60652.htm">The faith of President Obama - in six quotes and one hymn</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/bin.laden.relatives.killed.in.private.jet.crash.in.britain/60736.htm">Bin Laden relatives 'killed in private jet crash' in Britain</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/israeli.soldiers.shoot.dead.palestinian.teenager.near.gaza.border/60734.htm">Israeli soldiers shoot dead Palestinian teenager near Gaza border</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/hillary.clintons.presidential.drive.seen.losing.steam.as.public.approval.rating.falls/60695.htm">Hillary Clinton's presidential drive seen losing steam as public approval rating falls</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/car.muslims.forced.to.convert.to.christianity/60693.htm">CAR: Muslims forced to convert to Christianity</a></div>
+								<div class="item"><a  href="http://www.christiantoday.com/article/why.is.it.so.hard.to.talk.about.our.faith.with.friends.and.how.do.we.get.over.it/60013.htm">Why is it so hard to talk about our faith with friends, and how do we get over it?</a></div>
+								
+			</div>
+		</div>
+	</div>
+</div>	</div>
+	<!-- desktop ad -->
+	<div class="ad hidden-mobile"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-top'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-top'); });
+        </script>
+        </div>
+        </center></div>	<div class="col col-1">
+		<div class="sec-main">
+			<div class="sec-main-left">
+				<article class="article-content">
+					<h2 class="light-header">Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F</h2>
+										<div class="by-line">
+										<a class="auther"  href="/reporter/andre-mitchell">						<span class="auther-name">Andre Mitchell</span>
+					</a>
+					<span class="auther-title"></span>
+					 
+					
+					<time datetime="Sat, 01 Aug 2015 22:56:00 +0100" pubdate>01 August 2015</time></div>
+					<div class="sharing-group">
+						<span class="email"><a href="?email=1" class="popup_email">Email</a></span>
+						<span class="print"><a href="?print=1" class="popup_print">Print</a></span>
+						<img  class="mr05" src="http://i2.christiantoday.com/www/img/new/atc_ic_text.gif" alt="Text Size" align="absmiddle" height="17" width="22">
+						<img  src="http://i2.christiantoday.com/www/img/new/atc_ic_arrow_up.gif" alt="Larger" class="bigger" align="absmiddle">
+						<img  src="http://i2.christiantoday.com/www/img/new/atc_ic_arrow_down.gif" alt="Smaller" class="smaller" style="margin-right:10px;" align="absmiddle">
+						<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style fl mr05">
+								<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=christiantodayuk" class="addthis_button_compact at300m">
+									<span class="at16nc at300bs at15nc at15t_compact at16t_compact">
+											<span class="at_a11y">More Sharing Services</span>
+										</span>Share
+								</a>
+						</div>
+							<!-- AddThis Button END -->
+						<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
+						<a href="https://twitter.com/share" class="twitter-share-button fl r10" data-lang="en" rel="canonical" data-text="Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F" >Tweet</a>
+						<!-- Place this tag where you want the +1 button to render. -->
+						<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="150"></div>
+						<!-- pinterest -->
+						<span class="pinterest "><a href="#" class="addthis_button_pinterest_share" onlick="return:false;" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a></span>
+					</div>
+					<div id="v_article">
+<p><div class="imageLeft" style="width: 380px;" tw="380"><img class="imgPhoto" src="http://d.christiantoday.com/en/full/34209/middle-east-heat-wave.jpg?w=380&h=253&l=50&t=40" height="253" width="380" tw="800" th="533" /><div class="credit">Reuters</div><div class="caption">A man washes his face to cool off during a warm summer day in Baghdad on July 30, 2015. The weather is even hotter in neighbouring Iran as a searing heat wave continues to scorch the region.</div></div>
+<p>Some parts of the United States may be experiencing an uncomfortable heat wave with temperatures reaching over 90 degrees Fahrenheit, but in Iran, the temperature is even hotter, reaching up to a searing 115 degrees Fahrenheit (46 Celsius) in the city of Bandar Mahshahr, which is located on the coast of the Persian Gulf. The city has a population of over 110,000 people.</p>
+<p>With humidity factored in, the temperature actually reached a sizzling 165 degrees Fahrenheit (74 Celsius) last Friday at 4:30 p.m. local time.</p>
+<div class="nativo"></div><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-inread'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-inread'); });
+        </script>
+        </div>
+        </center><p>This figure is said to be the second highest temperature ever recorded in the entire world, according to AccuWeather meteorologist Anthony Sagliani.</p>
+<p>"That was one of the most incredible temperature observations I have ever seen, and it is one of the most extreme readings ever in the world," Sagliani said in a statement.</p>
+<p>The highest temperature on record is 178 degrees (81 Celsius), observed in Dhahran, Saudi Arabia, on July 8, 2003.</p>
+<p>A day before this almost record-breaking heat, the temperature in Bandar Mahshahr already soared to 159 degrees (70 Celsius).</p>
+<p>Geography has a lot to do with the intense temperature being experienced in the Iranian city. Bandar Mahshahr is in southwest Iran, adjacent to the Persian Gulf. Water temperature in the gulf is already reaching 90 degrees. This high water temperature brings intense humidity in nearby areas.</p>
+<p>Sagliani further explained that a strong ridge of high pressure is currently affecting parts of the Middle East, which is expected to stay there until early August.</p>
+<p>"The ridge of high pressure will remain in place across the Middle East through at least the next week, so more oppressive heat and humidity, and more astounding apparent temperatures, are likely through the next several days," Sagliani said.</p></p>							
+
+					</div>
+				</article>
+
+				<div class="grouped share-btns">
+  <span class="button facebook-like"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FChristianPost.Intl&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:50px;height:20px;" allowtransparency="true" scrolling="no" frameborder="0"></iframe></span>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm' ,'sns','width=600,height=300');return false;" class="button facebook"><i class="fa fa-facebook-square"></i><span>Share on Facebook</span></a>
+  <a href="https://twitter.com/share?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm" onclick="window.open('https://twitter.com/share?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm' ,'sns','width=600,height=300');return false;" class="button twitter"><i class="fa fa-twitter"></i><span>Share on Twitter</span></a>
+  <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Fextreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f%2F60749.htm"  data-pin-do="buttonPin" class="button pinterest addthis_button_pinterest_share"><i class="fa fa-pinterest"></i><span>Pin it</span></a>
+</div><!-- triplelift --><script src="http://ib.3lift.com/ttj?inv_code=christiantoday_article_sub"></script>
+
+<!-- contentclick -->
+<div id="contentclick12515"></div>
+<script type="text/javascript">
+    (function() {
+        var data =
+        {
+            pub_id: "5119",w_id: "12515",pw: "61fe83a599c315", cbust: (new Date()).getTime()
+        };
+	if (typeof widgetCheck12515 === 'undefined')   {
+        var u="";
+        for(var key in data){u+=key+"="+data[key]+"&"}
+        u=u.substring(0,u.length-1);		
+        var a = document.createElement("script");
+        a.type= 'text/javascript';
+        a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
+        a.async = true;		
+        document.getElementById("contentclick12515").appendChild(a);
+	window.widgetCheck12515 = "set";
+	}
+    })();		
+</script>
+<!-- //contentclick -->
+
+<!-- media.net -->
+<div style="text-align:center;">
+<script id="mNCC" language="javascript">
+  medianet_width = "740";
+  medianet_height = "250";
+  medianet_crid = "247267568";
+  medianet_versionId = "111299"; 
+  (function() {
+      var isSSL = 'https:' == document.location.protocol;
+      var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU46694J' + (isSSL ? '&https=1' : '');
+      document.write('<scr' + 'ipt type="text/javascript" id="mNSC" src="' + mnSrc + '"></scr' + 'ipt>');
+  })();
+</script>
+</div>
+
+<!-- Criteo -->
+<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=241470");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+<!-- //Criteo -->
+
+			
+								<nav class="pagination-article">
+					<a href="http://www.christiantoday.com/article/another.scandal.hits.19.kids.and.counting.as.tv.execs.past.child.porn.cases.resurface/60716.htm" title="" class="prev">
+						<span class="fa fa-angle-left"></span>
+						<span class="title">							Another scandal hits '19 Kids and Counting' as TV exec's past child porn cases resurface						</span>
+					</a>
+					<a href="http://www.christiantoday.com/article/dawkins.disciples.are.laughably.comically.wrong.claims.andy.bannister/60592.htm" title="" class="next">
+						<span class="title">							Dawkins' disciples are 'laughably, comically wrong', claims Andy Bannister						</span>
+						<span class="fa fa-angle-right"></span>
+					</a>
+				</nav>
+				<div class="post-rail">
+					<ul class="fl">
+						<li class="reprint"><a href="?print=1" class="popup_print"><img src="http://i2.christiantoday.com/www/img/new/atc_bt_reprint.gif" alt="Reprints" align="absmiddle"></a></li>
+						<li><a href="https://twitter.com/share" class="twitter-share-button fl r10" data-lang="en" rel="canonical" data-text="Extreme temperature: Iran city sizzles with  near world record-breaking heat of 165°F" data-count="none">Tweet</a></li>
+						<li><div class="g-plusone" href="http://www.christiantoday.com/article/extreme.temperature.iran.city.sizzles.with.near.world.record.breaking.heat.of.165f/60749.htm" data-size="medium" data-annotation="inline" data-width="40"></div></li>
+						<li class="email"><a href="?email=1" class="popup_email">Email</a></li>
+					</ul>
+				</div>
+				<!-- desktop ad --><div class="ad ad-bg"><div class="ad ad300"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-middle1'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-middle1'); });
+        </script>
+        </div>
+        </center></div></div>				<div class="more-news-in">
+	
+				                	<header class="caps title">More News in World</header>
+                					<ul>
+										<li>
+												<a href="http://www.christiantoday.com/article/lions.death.draws.more.outrage.in.us.than.killing.of.innocent.black.people.by.police/60705.htm"><img src="http://d.christiantoday.com/en/full/34181/cecil-the-lion.jpg?w=202&h=150&l=50&t=40" alt="cecil-the-lion" width="202" height="150" mxw="202" mxh="150" /></a>
+												<h2><a href="http://www.christiantoday.com/article/lions.death.draws.more.outrage.in.us.than.killing.of.innocent.black.people.by.police/60705.htm">Lion's death seen drawing more outrage in US than the killing of blacks by the police</a></h2>
+						<p>While celebrities and politicians were quick to condemn the shooting of Cecil The Lion, activists from several groups decried their lack of sympathy for the African-American people who lost their lives due to racial discrimination in U.S.</p>
+					</li>
+										<li>
+												<a href="http://www.christiantoday.com/article/us.east.coast.midwest.sizzle.from.heat.wave.as.temperatures.near.record.highs/60702.htm"><img src="http://d.christiantoday.com/en/full/34203/hot-day-in-new-york.jpg?w=202&h=150&l=50&t=40" alt="hot-day-in-new-york" width="202" height="150" mxw="202" mxh="150" /></a>
+												<h2><a href="http://www.christiantoday.com/article/us.east.coast.midwest.sizzle.from.heat.wave.as.temperatures.near.record.highs/60702.htm">US East Coast, Midwest sizzle from heat wave as temperatures near record highs</a></h2>
+						<p>Areas in the United States' East Coast and Midwest have been sizzling the past few days due to a dangerous heat wave that has been affecting millions of Americans and pushing temperatures to record highs.</p>
+					</li>
+					                    </ul>
+                </div>  <!-- more news in end -->
+				<div class="row">
+					
+                	<div class="recommended-story col col-md-1-2">
+                    	<header class="caps title">RECOMMENDED STORIES</header>
+                        <ul>
+						                        	<li><a href="http://www.christiantoday.com/article/prostitution.as.a.human.right.why.amnesty.international.is.on.the.verge.of.a.terrible.mistake/60572.htm">Prostitution as a human right: Why Amnesty International is on the verge of a terrible mistake</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/five.ways.to.stop.the.post.festival.crash/60456.htm">Five ways to stop the post-festival crash</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/10.inspirational.quotes.from.william.wilberforce/60570.htm">10 inspirational quotes from William Wilberforce</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/why.god.wants.to.both.inform.and.baffle.us/60350.htm">Why God wants to both inform and baffle us</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/why.is.it.so.hard.to.talk.about.our.faith.with.friends.and.how.do.we.get.over.it/60013.htm">Why is it so hard to talk about our faith with friends, and how do we get over it?</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/5.world.changing.ideas.for.the.church.from.across.the.globe/60348.htm">5 world changing ideas for the Church from across the globe</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/pass.it.on.the.value.of.wisdom.from.elders/59882.htm">Pass it on - the value of wisdom from elders</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/the.church.officially.has.a.pulse/60379.htm">Soul Survivor proves the Church has a pulse</a></li>
+						                        </ul>
+                    </div>
+                    <div class="around-the-world col col-md-1-2">
+						
+                    	<header class="caps title">AROUND THE WORLD</header>
+                        <ul>
+						                        	<li><a href="http://www.christiantoday.com/article/us.child.sex.abuse.at.epidemic.level.with.tens.of.thousands.victimised.yearly.fbi/60699.htm">US child sex abuse at 'epidemic level' with tens of thousands victimised yearly — FBI</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/bin.laden.relatives.killed.in.private.jet.crash.in.britain/60736.htm">Bin Laden relatives 'killed in private jet crash' in Britain</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/israeli.soldiers.shoot.dead.palestinian.teenager.near.gaza.border/60734.htm">Israeli soldiers shoot dead Palestinian teenager near Gaza border</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/hillary.clintons.presidential.drive.seen.losing.steam.as.public.approval.rating.falls/60695.htm">Hillary Clinton's presidential drive seen losing steam as public approval rating falls</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/gangs.terrify.los.angeles.community.with.online.bet.to.kill.100.people.in.100.days/60677.htm">Gangs terrify Los Angeles community with online bet to kill 100 people in 100 days</a></li>
+						                        	<li><a href="http://www.christiantoday.com/article/hike.in.number.of.syrian.refugees.entering.us.raises.concern.on.possible.terror.links/60672.htm">Hike in number of Syrian refugees entering US raises concern on possible terror links</a></li>
+						                        </ul>
+                    </div>
+                </div>
+
+			</div><!-- sec-main-left end  -->
+			<div class="sec-main-right">
+		
+				<!-- desktop ad -->
+					<div id="sidebar-ad">
+    <!-- 400x300 player -->
+    <script src="http://jwpsrv.com/library/SaeoENbvEeOsKiIACrqE1A.js"></script>
+    <div id="container"></div>
+    <script type="text/javascript">
+    if(bf) var _playlist = "//adops.thechristianpost.netdna-cdn.com/api/playlist/www.christiantoday.com.rss?slot=o";
+    else _playlist = "//adops.thechristianpost.netdna-cdn.com/api/playlist/www.christiantoday.com.rss?slot=o";
+
+_playlist = '//adops.thechristianpost.netdna-cdn.com/api/playlist/www.christiantoday.com.rss?slot=m'
+   var ___tag = "http://t-ads.adap.tv/a/t/thechristianpost?artEid=vast_2_0_vpaid_failover&context=pub_name=ct&pageUrl=__page-url__&cb=__random-number__&width=__player-width__&height=__player-height__&id=html_ads&title=";
+    function loadPlayer() {
+      var fallbacks = [
+        ___tag, ___tag, ___tag
+      ]
+      var jw_index = 0;
+      var html = '';
+
+      var options = {
+        width: 400,
+        height:300,
+        aspectratio: "4:3",
+        primary: 'flash',
+        autostart: 'true',
+        repeat:'true',
+        playlist: _playlist,
+        advertising: {
+          client: 'vast',
+          tag: ___tag
+        }
+      };
+      jwplayer("container").setup(options);
+      jwplayer().setVolume(5);
+     
+      jwplayer().onBeforePlay(function(event){
+        jwplayer().setVolume(5);
+        console.log("AD requested.");
+      });
+      jwplayer().onAdError(function(event){
+        if(jw_index < fallbacks.length) {
+          html += "Tag "+jw_index+" was empty, loading fallback tag "+(jw_index+1)+".\n";
+          console.log(html);
+          jwplayer().playAd(fallbacks[jw_index]);
+          setTimeout(function() {console.log('delay 100')}, 100);
+          jw_index++;
+        } else { 
+          html += "Tag "+jw_index+" was empty, with no more fallbacks available.\n";
+          console.log(html);
+        }
+        //console.log("AD Error");
+      });
+      jwplayer().onComplete(function() {
+        jw_index = 0;
+        console.log("AD Complete.");
+      });
+    };
+    loadPlayer();
+    </script>
+    <!-- //player -->
+	</div>
+   			
+				<!-- desktop ad -->
+				<div class="ad ad-bg"><div class="ad"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-right1'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-right1'); });
+        </script>
+        </div>
+        </center></div></div>
+				                <div class="newsletter-box">
+  <h2 class="newsletter-box-logo"><a href=""><img src="http://i2.christiantoday.com/images/logo-md.png" alt="Christian Today"></a></h2>
+  <p class="info">Get the Christian news that matters straight to your inbox! </p>
+  <form action="/services/subscribe/process.php" method="post" id="popForm">
+    <input id="email" type="email" name="email" placeholder="Enter Your Email">
+    <input type="submit" value="Submit">
+  </form>
+  <p class="feedback"><a href="">No thanks</a> / <a href="">I subscribed already</a></p>
+  <div class="close pop_close" js-close></div>
+</div>
+<script>
+// Attach a submit handler to the form
+$( "#popForm" ).submit(function( event ) {
+  // Stop form from submitting normally
+  event.preventDefault();
+  // Get some values from elements on the page:
+  var $form = $( this ),
+    url = $form.attr( "action" );
+  // Send the data using post
+  var posting = $.post( url, { email: $('#email').val() } );
+  // Put the results in a div
+  posting.done(function( data ) {
+    //$( ".success" ).html( data );
+   $( ".pop_close" ).after(  data );
+  //alert(data);
+  });
+});
+</script>
+        					<div class="more-news">
+  <header class="col-header">Related news</header>
+  <ul>
+      <li><a href="http://www.christiantoday.com/article/us.east.coast.midwest.sizzle.from.heat.wave.as.temperatures.near.record.highs/60702.htm">US East Coast, Midwest sizzle from heat wave as temperatures near record highs</a></li>
+      <li><a href="http://www.christiantoday.com/article/climate.change.poses.catastrophic.risk.to.human.health.experts.warn/57291.htm">Climate change poses 'catastrophic  risk to human health,' experts warn</a></li>
+      <li><a href="http://www.christiantoday.com/article/over.1000.dead.as.pakistani.city.sizzles.from.its.worst.heat.wave/57183.htm">Over 1,000 dead as Pakistani city  sizzles from its worst heat wave</a></li>
+      <li><a href="http://www.christiantoday.com/article/pakistans.ramadan.heat.wave.kills.nearly.800.in.four.days/57028.htm">Pakistan's Ramadan heat wave kills nearly 800 in four days</a></li>
+    </ul>
+</div>
+				
+				<!-- desktop ad --><div class="ad ad-bg"><div class="ad"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-right2'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
+        </script>
+        </div>
+        </center></div></div>				<div class="popular">
+  <header class="col-header">Most popular</header>
+  <ul>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/chris.brown.turns.over.new.leaf.says.hes.heard.the.voice.of.god.for.the.first.time/60444.htm">Chris Brown turns over new leaf, says he's 'heard the voice of God for the first time'</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/the.faith.of.president.obama.in.six.quotes.and.one.hymn/60652.htm">The faith of President Obama - in six quotes and one hymn</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/tullian.tchividjian.speaks.out.im.going.to.let.you.see.me.at.the.bottom.because.thats.where.jesus.is/60670.htm">Tullian Tchividjian speaks out: 'I'm going to let you see me at the bottom because that's where Jesus is'</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/cecil.the.lion.were.capable.of.caring.about.more.than.one.thing.at.once/60589.htm">Cecil the lion: We're capable of caring about more than one thing at once</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/nick.vujicic.shares.familys.excitement.in.awaiting.arrival.of.second.son.dejan.levi/60657.htm">Nick Vujicic shares family's excitement in awaiting arrival of second son Dejan Levi</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/dawkins.disciples.are.laughably.comically.wrong.claims.andy.bannister/60592.htm">Dawkins' disciples are 'laughably, comically wrong', claims Andy Bannister</a></h4>
+    </li>
+        <li>
+      <h4 class="light-header"><a href="http://www.christiantoday.com/article/christian.mother.of.three.abducted.and.forced.into.islamic.marriage/60484.htm">Christian mother of three 'abducted and forced into Islamic marriage'</a></h4>
+    </li>
+      </ul>
+</div>				<!-- desktop ad --><div class="ad ad-bg"><div class="ad"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-right3'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-right3'); });
+        </script>
+        </div>
+        </center></div></div>							</div>
+		</div>
+	</div>
+	
+</div>
+<!-- desktop ad -->
+<div class="ad"><center>
+        <!-- /7241/christiantoday/world/articles -->
+        <div id='div-gpt-ad-bottom'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-bottom'); });
+        </script>
+        </div>
+        </center></div>
+<div class="more-on-ct">
+  <div class="row">
+    <div class="col col-1">
+      <header class="col-header">MORE ON CHRISTIAN TODAY</header>
+      <ul>
+                <li><a href="http://www.christiantoday.com/article/sudanese.pastors.facing.execution.make.final.plea.for.justice.verdict.set.on.aug.5/60437.htm">
+            <img class="full" src="http://d.christiantoday.com/en/full/32531/pastors-facing-death-in-sudan.jpg?w=400&h=201&l=50&t=40" alt="pastors-facing-death-in-sudan" width="400" height="201" mxw="400" mxh="201">
+            <h3 class="light-header">Sudanese pastors facing execution make final plea for justice; verdict set on Aug. 5</h3>
+          </a></li>
+                <li><a href="http://www.christiantoday.com/article/10.bible.verses.to.help.you.through.bereavement/60257.htm">
+            <img class="full" src="http://d.christiantoday.com/en/full/33892/candle.jpg?w=400&h=201&l=50&t=40" alt="candle" width="400" height="201" mxw="400" mxh="201">
+            <h3 class="light-header">10 Bible verses to help you through bereavement</h3>
+          </a></li>
+                <li><a href="http://www.christiantoday.com/article/thousands.of.land.mines.left.by.isis.militants.before.pulling.out.of.syrian.city/60512.htm">
+            <img class="full" src="http://d.christiantoday.com/en/full/34099/fleeing-isis-militants.jpg?w=400&h=201&l=50&t=40" alt="fleeing-isis-militants" width="400" height="201" mxw="400" mxh="201">
+            <h3 class="light-header">Thousands of land mines left by ISIS  militants before pulling out of Syrian city</h3>
+          </a></li>
+                <li><a href="http://www.christiantoday.com/article/hillary.clintons.presidential.drive.seen.losing.steam.as.public.approval.rating.falls/60695.htm">
+            <img class="full" src="http://d.christiantoday.com/en/full/34199/hillary-clinton-in-florida.jpg?w=400&h=201&l=50&t=40" alt="hillary-clinton-in-florida" width="400" height="201" mxw="400" mxh="201">
+            <h3 class="light-header">Hillary Clinton's presidential drive seen losing steam as public approval rating falls</h3>
+          </a></li>
+                
+      </ul>
+    </div>
+  </div>
+</div>	<meta http-equiv="refresh" content="300">
+<nav class="site-nav site-nav--mobile sidebar left">
+  <ul>
+		<li class="active"><a href="http://www.christiantoday.com">home</a></li>
+		<li><a href="http://www.christiantoday.co.uk">uk</a></li>
+		<li><a href="http://www.christiantoday.com/world">world</a></li>
+		<li><a href="http://www.christiantoday.com/church">church</a></li>
+		<li><a href="http://www.christiantoday.com/society">society</a></li>
+		<li><a href="http://www.christiantoday.com/life">life</a></li>
+		<li><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+		<li><a href="http://www.christiantoday.com/comment">comment</a></li>
+		<li><a href="http://www.christiantoday.com/video">video</a></li>
+		<li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+  </ul>
+</nav>
+<footer class="site-footer">
+	<div class="row">
+		<div class="col col-1 col-lg-3-4">
+			<div class="footer-logo hidden-desktop"><a href="">Christian Today</a></div>
+			<nav class="site-nav site-nav--footer visible-desktop">
+			  <ul>
+			  	<li class="hm active"><a href="http://www.christiantoday.com/">home</a></li>
+					<li class="uk"><a href="http://www.christiantoday.co.uk">uk</a></li>
+					<li class="world"><a href="http://www.christiantoday.com/world">world</a></li>
+					<li class="church"><a href="http://www.christiantoday.com/church">church</a></li>
+					<li class="society"><a href="http://www.christiantoday.com/society">society</a></li>
+					<li class="life"><a href="http://www.christiantoday.com/life">life</a></li>
+					<li class="entertainment"><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+					<li class="comment"><a href="http://www.christiantoday.com/comment">comment</a></li>
+					<li class="video"><a href="http://www.christiantoday.com/video">video</a></li>
+					<li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+			  </ul>
+			</nav>
+			<ul class="site-footer--info">
+                <li><a href="http://cmcigroup.com/">
+                        <img alt="A Christian Media Corporation Company" src="http://i2.christiantoday.com/www/img/hope/cmci.png">
+                    </a>
+                    <span class="cmci-text">Christian Today is a 
+                        <a href="http://cmcigroup.com/" target="_blank">Christian Media Corporation</a>
+                        Company
+                    </span></li>
+				<li>Copyright © 2015 Christian Today. All Rights Reserved.</li>
+				<li class="footer-links">
+					<a href="http://www.christiantoday.com/aboutus">About Us</a>
+					<a href="http://www.christiantoday.com/contactus">Contact Us</a>
+<a href="mailto:advertising@christiantoday.com" target="_top" title="Mail to for Advertising" >Advertising</a>
+					<a href="http://www.christiantoday.com/term">Terms & Conditions</a>
+				</li>
+			</ul>
+		</div>
+		<div class="col col-lg-1-4 visible-desktop">
+			<div class="social-footer">
+				<a class="twitter" target="_blank" href="https://twitter.com/ChristianToday"><i class="fa fa-twitter"></i></a>
+				<a class="facebook" target="_blank" href="https://www.facebook.com/ChristianTodayInternational"><i class="fa fa-facebook"></i></a>
+				<a class="pinterest" target="_blank" href="http://www.pinterest.com/christiantoday/"><i class="fa fa-pinterest"></i></a>
+				<a class="rss" href="/rss"><i class="fa fa-rss"></i></a>
+				<a class="email" href="/enewsletter"><i class="fa fa-envelope-o"></i></a>
+			</div>
+			<dl class="edition">
+				<dt>Edition:</dt>
+				<dd class="current"><a href="http://www.christiantoday.com/">Intl</a></dd>
+				<dd><a href="http://www.christiantoday.co.uk">UK</a></dd>
+			</dl>
+		</div>
+	</div>
+</footer>
+<script src="http://i2.christiantoday.com/assets/js/lib/owl.carousel.min.js"></script>
+<script>
+jQuery(document).ready(function($) {
+  var breaking = $('.breaking-slider');
+  breaking.owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: false,
+    dots: false,
+    mouseDrag: false,
+    items: 1,
+    animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    autoplay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true
+  });
+  breaking.on('change.owl.carousel', function(event) {
+    if (event.property.value > event.item.index) {
+      if ($('.active').next('.owl-item').find('.important').length) {
+        $('.breaking-news').addClass('red');
+      } else {
+        $('.breaking-news').removeClass('red');
+      }
+    } else{
+      if ($('.active').prev('.owl-item').find('.important').length) {
+        $('.breaking-news').addClass('red');
+      } else {
+        $('.breaking-news').removeClass('red');
+      }
+    }
+  });
+  $('.owl-item.active .important').parents('.breaking-news').addClass('red');
+  $('.breaking-news .fa-caret-right').click(function() {
+      breaking.trigger('next.owl.carousel');
+  });
+  $('.breaking-news .fa-caret-left').click(function() {
+      breaking.trigger('prev.owl.carousel');
+  });
+  $('.breaking-news .fa-pause').click(function() {
+      breaking.trigger('stop.owl.autoplay');
+  });
+});
+</script>
+
+<script>
+$(document).ready(function () {
+	$(".popup_email").click(function(e) {
+		addthis_sendto('email');return false;		
+	});
+	$(".popup_print").click(function(e) {
+		addthis_sendto('print');return false;		
+	});
+	$(".bigger").click(function(){
+		$("#v_article p").add($("#v_article blockquote")).css("font-size",parseInt($("#v_article p").css("font-size"))+1);
+	});
+
+	$(".smaller").click(function(){
+		$("#v_article p").add($("#v_article blockquote")).css("font-size",parseInt($("#v_article p").css("font-size"))-1);
+	});
+});
+</script>
+<!--facebook-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--facebook-->
+<!-- twitter-->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- twitter-->
+<!--google plus-->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--google plus-->
+
+<!-- getclicky-->
+<script type="text/javascript">
+  var clicky_custom = clicky_custom || {};
+  clicky_custom.video_disable = 1;
+</script>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100610369); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100610369ns.gif" /></p></noscript>
+<!-- getclicky-->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-f3_tFTzTnk8n2"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-f3_tFTzTnk8n2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Begin comScore Tag
+        --><script>var _comscore =
+        _comscore || [];_comscore.push({ c1: "2", c2: "7918809"
+        });(function() {var s = document.createElement("script"), el =
+        document.getElementsByTagName("script")[0]; s.async = true;s.src
+        = (document.location.protocol == "https:" ? "https://sb" :
+        "http://b") +
+        ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,
+        el);})();</script><noscript><img
+        src="http://b.scorecardresearch.com/p?c1=2&c2=7918809&cv=2.0&cj=1"
+        /></noscript><!-- End comScore Tag -->
+
+
+<!-- google analytics --->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571701-1']);
+  _gaq.push(['_setDomainName', 'christiantoday.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- google analytics --->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571701-1']);
+  _gaq.push(['_setDomainName', '.christiantoday.com']);
+  _gaq.push(['_setAllowLinker', true]);
+ 
+  _gaq.push(['_setCustomVar',
+      1,
+      'Account',
+      '80 : Andreo Calonzo',
+       3
+   ]);
+  _gaq.push(['_setCustomVar',
+      2,
+      'Article',
+      '60749 : extreme-temperature-iran-city-sizzles-with-near-world-record-breaking-heat-of-165f',
+       3
+   ]);
+	
+  _gaq.push(['_setCustomVar',
+      3,
+      'Section',
+      '11 : world',
+       3
+   ]);
+
+
+  _gaq.push(['_trackPageview']);		
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+</script>
+<!-- google analytics-->
+<!-- google analytics-->
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=1023851; 
+var sc_invisible=1; 
+var sc_security="3b06e154"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="click tracking"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/1023851/0/3b06e154/1/"
+alt="click tracking"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<script src="http://cdn.stats.christianpost.com/tracking.min.js"></script>
+<script>page_count('ct','60749','80','11');add_pixel('60749','1279', 'ct', 'www' );</script>
+<!--[if lte IE 7]>
+<style>
+  #lte-ie7-cover { filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#4C000000', endColorstr='#4C000000');background:rgba(0,0,0,0.3); width: 100%; height: 100%; position: fixed; left: 0; top: 0; z-index: 999999; }
+  #lte-ie7 { position: fixed; z-index: 999999; left: 50%; top: 50%; margin-left: -270px; margin-top: -157px; width: 500px; min-height: 325px; padding: 20px; background-color: #fff; }
+  #lte-ie7 h1 { font-size: 1.3em; line-height: 1.4; margin-bottom: 20px; font-weight: bold; font-family: Arial, sans-serif; text-transform: none; }
+  #lte-ie7 p { font-size: 14px; line-height: 1.4; }
+  #lte-ie7-close { display: inline-block; *display: inline; *zoom: 1; float: right; font-size: .75em; padding: .4em 1em; background-color: #333; color: #f2f2f2; cursor: pointer; }
+  #lte-ie7 ul { list-style: none; margin-left: 0; margin-bottom: 0; }
+  #lte-ie7 li { padding: 10px; margin-right: 10px; border: 1px solid  #ccc; display: inline-block; vertical-align: top; *display: inline; *zoom: 1; }
+  #lte-ie7 li a { display: block; }
+  #lte-ie7 li img { border: none; width: 56px; height: 56px; }
+</style>
+<div id="lte-ie7-cover"></div>
+<div id="lte-ie7">
+  <h1>Sorry, we no longer support your version of Internet Explorer.</h1>
+  <p>Internet Explorer 6, 7 is no longer supported. To get the best possible experience on our website we recommend that you upgrade your browser.</p>
+  <p><span id="lte-ie7-close">close</span>Just click on an icon to get to the download page. 
+  </p>
+  <ul>
+    <li><a href="http://windows.microsoft.com/en-us/windows/upgrade-your-browser" target="_blank"><img src="http://c.s-microsoft.com/en-us/CMSImages/ie_symbol_clr_56x56.png?version=73aa5bf1-0743-11e7-8f71-718675c983bf" width="56" height="56" alt="Internet Explorer"></a></li>
+    <li><a href="https://www.google.com/intl/en-US/chrome/browser/" target="_blank"><img src="https://lh4.googleusercontent.com/-gjxoCu8Fu3c/AAAAAAAAAAI/AAAAAAAA8J0/xOaw3KH2RjQ/photo.jpg?sz=64" width="56" height="56" alt="Chrome"></a></li>
+    <li><a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank"><img src="http://people.mozilla.com/~faaborg/files/shiretoko/firefoxIcon/firefox-64-noshadow.png" width="56" height="56" alt="Firefox"></a></li>
+  </ul>
+</div>
+<script>
+  var close = document.getElementById('lte-ie7-close'),
+      lte7cover = document.getElementById('lte-ie7-cover'),
+      lte7 = document.getElementById('lte-ie7');
+  close.onclick = function () {
+    lte7.style.display = 'none';
+    lte7cover.style.display = 'none';
+  }
+</script>
+<![endif]-->
+
+<script>news_counter('article','60749','1279','11');</script>
+<script type="text/javascript">
+(function() {
+   var gvn = document.createElement('script');
+   gvn.src = document.location.protocol + '//s0.2mdn.net/instream/video/client.js';
+   gvn.async = true;
+   gvn.type = 'text/javascript';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(gvn, s);
+})();
+</script>
+<script src="http://exactly0r.com/advertising.js" type="text/javascript"></script><script>__durl='http://d.christiantoday.com/wp-content/uploads/2015/08/hallon-professw2724a-:r:.png';__lsurl='http://d.christiantoday.com/wp-content/uploads/2015/08/farrel2724,:i:trigger-:r:.png';__lturl='http://d.christiantoday.com/wp-content/uploads/2015/08/authenv:p:,2724,:i:tommel-:r:.png';!function(a,b,c){"undefined"!=typeof module&&module.exports?module.exports=c():a[b]=c()}(this,"verge",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,e,t){"undefined"!=typeof module&&module.exports?module.exports=t():"function"==typeof define&&define.amd?define(t):e[n]=t()}("qwery",this,function(){function n(n){return[].slice.call(n,0)}function e(n){var e;return n&&"object"==typeof n&&(e=n.nodeType)&&(1==e||9==e)}function t(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var e=[],o=0,r=n.length;r>o;++o)t(n[o])?e=e.concat(n[o]):e[e.length]=n[o];return e}function r(n){var e,t,o=[];n:for(e=0;e<n.length;e++){for(t=0;t<o.length;t++)if(o[t]==n[e])continue n;o[o.length]=n[e]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[m]&&t(n)?n[0]:n:f}function u(r,u){var d,m=i(u);return m&&r?r===l||e(r)?!u||r!==l&&e(m)&&s(r,m)?[r]:[]:r&&t(r)?o(r):f.getElementsByClassName&&"string"==r&&(d=r.match(c))?n(m.getElementsByClassName(d[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(m.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,d=f.documentElement,m="nodeType",s="compareDocumentPosition"in d?function(n,e){return 16==(16&e.compareDocumentPosition(n))}:function(n,e){return e=e==f||e==window?d:e,e!==n&&e.contains(n)};return u.uniq=r,u},this);function __dec(src,callback){var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=__p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);callback(s);};i.src=src;}function __p24(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}__cb=function(s){var __pl=JSON.parse(s);__wh=new Array();if(window.location.hash.search("__ytest")>-1)test_mode=true;else test_mode=false;for(var __i=0;__i<__pl.unit_list.length;__i++){var s=__pl.unit_list[__i];for(i=0;i<s.exclude_url_list.length;i++){if(window.location.pathname==s.exclude_url_list[i]){if(test_mode)console.log("Exclude URL match: "+s.exclude_url_list[i]);return;}}var sd=document.createElement('div');sd.innerHTML="<p>d</p>"+s.css;document.getElementsByTagName('head')[0].appendChild(sd.childNodes[1]);if(!test_mode){if(s.target_selector!=undefined&&s.target_selector!=""){var target_selector=s.target_selector;var target_approach=s.target_approach;if(s.container_style!="")s.html=s.html.replace('class="'+s.widget_class+'"','class="'+s.widget_class+'" style="'+s.container_style+'"');}else{continue;}}else{if(s.target_selector_test!=undefined&&s.target_selector_test!=""){var target_selector=s.target_selector_test;var target_approach=s.target_approach_test;if(s.container_style_test!="")s.html=s.html.replace('class="'+s.widget_class+'"','class="'+s.widget_class+'" style="'+s.container_style_test+'"');}else{console.log("Target not defined, widget number: "+__i);continue;}}var target=qwery(target_selector);if(target.length<1){if(test_mode)console.log("Target defined but not found: "+target_selector+", widget number: "+__i);continue;}target=target[0];if(target_approach=="before"){var _new=document.createElement("div");_new.innerHTML=s.html;target.parentNode.insertBefore(_new,target);}else if(target_approach=="after"){var _new=document.createElement("div");_new.innerHTML=s.html;target.parentNode.insertBefore(_new,target.nextSibling);}else if(target_approach=="append")target.innerHTML=target.innerHTML+s.html;else if(target_approach=="prepend")target.innerHTML=s.html+target.innerHTML;else if(target_approach=="fill")target.innerHTML=s.html;__wh.push([s.widget_class,s.img_class,s.widget_id]);}function __prep(){for(var x=0;x<__wh.length;x++){var e=qwery("."+__wh[x][0]+" ."+__wh[x][1]);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/__pl["sprite_width"];var new_bg_height=Math.floor(ratio*__pl["sprite_height"]);var ad_height=Math.floor(new_bg_height/__pl["sprite_count"]);if(ad_height*__pl["sprite_count"]!=new_bg_height){new_bg_height=ad_height*__pl["sprite_count"];}var ad_list_v=Array();for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(__wh[x][1]+"_")[1];var ad_number=__pl["ad_to_sprite"][ad_id];e[i].style.backgroundSize="auto "+new_bg_height+"px";e[i].style.backgroundPosition="0 -"+ad_number*ad_height+"px";if(e[i].offsetParent!==null){ad_list_v.push(ad_id);}var anchors=qwery("#"+e[i].parentElement.parentElement.parentElement.id+" a");for(p=0;p<anchors.length;p++){if(anchors[p].onclick==null){anchors[p].onclick=function(ee){var a=ee.target||ee.srcElement;var u=a.parentElement.href.substr(7);var win=window.open(__pl["link_redirect_url"]+u,'_blank');win.focus();return false;};}}}__wh[x]=[__wh[x][0],__wh[x][1],__wh[x][2],ad_list_v];__viewtrace(qwery("."+__wh[x][0])[0]);}return true;}(function __doprep(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(__prep()==true)return;setTimeout(function(){__doprep(tw+1);},100);})();var ls="";for(x=0;x<__wh.length;x++){ls+=__wh[x][2]+","+__wh[x][3].join([separator=","])+"-";}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=__lsurl.replace(":i:",ls).replace(":r:",__s(5,12));window.onresize=function(event){__prep();};};function __viewtrace(e){if(verge.inViewport(e)){if(__yregister_view_once(e))return;}setTimeout(function(){__viewtrace(e);},1000);}function __yregister_view_once(e){var lt="";for(var x=0;x<__wh.length;x++){if(__wh[x][0]==e.className){lt=__wh[x][2]+","+__wh[x][3].join([separator=","]);}}var __pv=0;var __b=document.getElementsByTagName("body");if((" "+__b.className+" ").indexOf(" gbqfqwbypvr ")==-1){__b.className=__b.className+" gbqfqwbypvr";__pv=1;}if((" "+e.className+" ").indexOf(" gbqfqwbypvr ")==-1){e.className=e.className+" gbqfqwbypvr";lti=new Image();lti.src=__lturl.replace(":i:",lt).replace(":p:",__pv).replace(":r:",__s(5,12));return true;}return false;};function __s(l,h){var le=Math.floor(Math.random()*(h-l+1))+l;var r="",c="abcdefghijklnopqrstuw0123456789";for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}function __ac(f){var __rid="sponsoredwellcontainerbottom",__frag=document.createDocumentFragment(),__fragtmp=document.createElement('div'),step=200,__t1=800,__t2=1000;__fragtmp.innerHTML='<div class="MBoxAdMain gp-ui" id="'+__rid+'" style="position:absolute;height:10px;width:10px;display:block;"> </div>';while(__fragtmp.firstChild)__frag.appendChild(__fragtmp.firstChild);document.body.insertBefore(__frag,document.body.childNodes[0]);(function __rec(rid,tw){if(tw==undefined)var tw=0;if(document.getElementById(rid).clientHeight==0&&tw>=__t1)return f();if(tw>=__t2){document.getElementById(rid).style.width=0;if(typeof __hazzuu==='undefined')return f();return;}setTimeout(function(){__rec(rid,tw+step);},step);})(__rid);}__ac(function(){__dec(__durl.replace(":r:",__s(5,12)),__cb);});</script></body>
+</html>

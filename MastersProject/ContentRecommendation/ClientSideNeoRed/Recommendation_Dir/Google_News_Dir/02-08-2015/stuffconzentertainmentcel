@@ -1,0 +1,2499 @@
+
+<!DOCTYPE HTML>
+
+<!--[if IE 8]>
+    <html class="lt-ie9" xml:lang="en">
+<![endif]-->
+<!--[if gt IE 8]>
+    <!-->
+    <html lang="en">
+    <!--
+<![endif]-->
+    <head>
+    <script>
+        window.errors = [];
+        window.onerror = function(error) {
+                window.errors.push(error);
+            };
+    </script>
+    <script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+    <title>Jennifer Lawrence and Amy Schumer go jet skiing | Stuff.co.nz</title>
+        <meta name="description" content="Watch out Swift, Jenner et al, there's a new girl gang in town, and they have jet skis.">
+    <meta name="keywords" content="Sport, Entertainment, Business, Motoring, World, Life and Style, Latest News, Technology, Weather, Travel">
+<meta name="verify-v1" content="RazNiYjuvNuEsMeFXxfR9l9cDZIKxcq2VjQZA25CHgM=" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="robots" content="noarchive">
+<meta property="fb:app_id" content="207633159308175" />
+<meta property="og:site_name" content="Stuff" />
+<meta property="og:title" content="JLaw and Amy&#039;s counter-clique" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing" />
+        <meta property="og:image" content="http://www.stuff.co.nz/content/dam/images/1/6/4/h/f/5/image.related.StuffLandscapeSixteenByNine.620x349.164hbr.png/1438477861894.png" />
+        <meta property="og:description" content="Watch out Swift, Jenner et al, there's a new girl gang in town, and they have jet skis." />
+    <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_9JitkeW_HEZvUcTSahg2tBTNm_psp2j-F58dCHDCilHVDYpGUAnC0vHmZMfro1_V">
+    {
+        siteName: 'stuff.co.nz',
+        enabledProviders: 'facebook,yahoo,google,twitter,messenger,linkedin,openid',
+        sessionExpiration: 0
+    };
+    </script>
+
+    <link rel="apple-touch-icon-precomposed" href="/etc/designs/ffx/nz/stuff/clientlibs-all/images/apple-touch-icon-precomposed.png"/>
+
+    <link rel="shortcut icon" href="/etc/designs/ffx/nz/stuff/clientlibs-all/images/tab-icon.ico"/>
+
+    <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all.min.clientlibversion.d0336ca2a12cb2394d8fe71fef566749.css" type="text/css">
+<!--[if lte IE 9]>
+        <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all/styles/ie9.css" type="text/css">
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all/styles/ie8.css" type="text/css">
+        <script src="/etc/designs/ffx/nz/stuff/clientlibs-other/html5shiv/js/html5shiv-printshiv-min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-all.min.clientlibversion.6f3eea3e49eb5547f8b4453e7de8eee4.js"></script>
+<script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-athena.min.clientlibversion.3a8301f852ff4e32329d4512950f2274.js"></script>
+<link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-athena.min.clientlibversion.f7d5752396570c9914469ab50f36cfb5.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-other/mobile-redirect.min.clientlibversion.88a397c5a630d7d5f428602a4c0dc949.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-other/mobile-redirect.min.clientlibversion.072d03fa43753e9f1b6474514a2a67fa.js"></script>
+<script type="text/javascript">
+var dartLoc = "onl.stuff.entertainment/celebrities";
+var dartEnv = "prod";
+var dartCtype = "story";
+var dartWeatherLoc = ($.cookie('weatherSelection') || "33").toString(); // 33 is Welly - default location
+var dartPid = "";
+var exclusions = [];
+
+dartPid = "70752951";
+
+
+    var dartCpid = ($.jqURL.get("cpid") || "").toString();
+    suitableFlash = "false";
+
+     googletag.cmd.push(function() {
+        googletag.pubads().setTargeting("env", dartEnv);
+        googletag.pubads().setTargeting("ctype", dartCtype);
+        googletag.pubads().setTargeting("loc", dartWeatherLoc);
+        googletag.pubads().setTargeting("pid", dartPid);
+        googletag.pubads().setTargeting("cpid", dartCpid);
+
+        var dartKeys = [];
+        
+        googletag.pubads().setTargeting("kw", dartKeys);
+
+        for (var i = 0; i < exclusions.length; i++) {
+            var exclusion = exclusions[i];
+            googletag.pubads().setCategoryExclusion(exclusion);
+        }
+
+        var aamffx = nz.ffx.DartSupport().get_aamffx();
+        if (typeof aamffx !== 'undefined') {
+
+            var arrayIndexOf = function(array, key) {
+                if (typeof Array.prototype.indexOf !== 'undefined') {
+                    return array.indexOf(key);
+                }
+
+                for (var i = 0; i < array.length; i++ ) {
+                    if (array[i] === key) {
+                        return i;
+                    }
+                }
+
+                return -1;
+            };
+
+            var keys = [];
+            var vals = [];
+            for (var i = 0; i < aamffx.length;i++) {
+                if (arrayIndexOf(keys, aamffx[i][0]) === -1){
+                    keys.push(aamffx[i][0]);
+                    vals.push([aamffx[i][1]]);
+                } else {
+                    vals[arrayIndexOf(keys, aamffx[i][0])].push(aamffx[i][1]);
+                }
+            }
+            for (var i = 0; i < keys.length;i++) {
+                googletag.pubads().setTargeting(keys[i], vals[i]);
+            }
+        }
+
+        var aamDID = nz.ffx.DartSupport().get_aamDID();
+        if (typeof aamDID !== 'undefined') {
+            googletag.pubads().setTargeting("u", aamDID);
+        }
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[950,120],[950,160]], "pushdownbanner")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "pushdownbanner");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[300,250],[160,600],[300,600]], "sectiontopright")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "sectiontopright");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[240,45]], "specialoffer1")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "specialoffer1");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[300,250]], "storybody")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "storybody");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[240,45]], "specialoffer3")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "specialoffer3");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[160,1500]], "gutterright")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "gutterright");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[240,45]], "specialoffer2")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "specialoffer2");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[160,1500]], "gutterleft")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "gutterleft");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[760,120],[728,90]], "topbanner")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "topbanner");
+        
+            googletag.defineSlot('/6674/' + dartLoc ,[[300,25],[275,23]], "topstrip")
+                .addService(googletag.pubads())
+                .setTargeting("pos", "topstrip");
+        
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+     });
+</script>
+<script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-other/jwplayer.min.clientlibversion.53da6115dbbde1a0e1b674ff2efb4fd6.js"></script>
+<link rel="stylesheet" type="text/css" href="//players.brightcove.net/videojs-ima3/videojs.ima3.min.css"/>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/etc/designs/ffx/nz/stuff/clientlibs-print.clientlibversion.eb7d3df15465f298cba86fd2385b9876.css" rel="stylesheet" type="text/css" media="print"/>
+
+    <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-customskins/verticals-entertainment.min.clientlibversion.29aa8e95a57cfca83bca2b9596a9ff95.css" type="text/css">
+</head>
+
+    <body>
+    <div class="gutterleftwrap">
+    <div class="display-ad left_gutter_advert"></div>
+</div>
+
+<div class="gutterrightwrap">
+    <div class="right_gutter_advert display-ad"></div>
+</div>
+<nav class="all_site_nav nav_list nav_list_section">
+    <div class="all_site_nav_inner">
+        <a href="/"><img src="http://static.stuff.co.nz/images/all-site-nav-logo.gif" style="border: 0px;" class="all_site_nav_logo" alt="Stuff logo"/></a>
+        <ul class="nav_list nav_list_section">
+            <li><a href="/national">National</a></li>
+            <li><a href="/world">World</a></li>
+            <li><a href="/business">Business</a></li>
+            <li><a href="/technology">Tech</a></li>
+            <li><a href="/sport">Sport</a></li>
+            <li><a href="/entertainment">Entertainment</a></li>
+            <li><a href="/life-style">Life & Style</a></li>
+            <li><a href="/travel">Travel</a></li>
+            <li><a href="/motoring">Motoring</a></li>
+        </ul>
+        <div class="all_site_nav_right logged_in account_only">
+            <div class="all_site_nav_dropdown">
+                <a class="all_site_nav_account">
+                <img src="http://static.stuff.co.nz/images/blocker.png" class="blocker" alt="blocker image"/>
+                <img style="border: 0px;" class="all_site_nav_dropdown_avatar avatar" src="/etc/designs/ffx/nz/stuff/images/static/1pxtransparent.gif" alt="Avatar"/><span class="username"></span></a>
+                <div class="all_site_nav_submenu">
+                    <ul class="all_site_nav_root">
+                        <li><a class="profile-link" href="#">Profile</a></li>
+                        <li><a class="settings-link" href="#">Settings</a></li>
+                        <li><a href="#" class="logout">Sign Out</a></li>
+                    </ul>
+                    <div class="all_site_nav_dropdown_btm"></div>
+                </div>
+            </div>
+        </div>
+        
+           
+        <link href="http://cdn-my.stuff.co.nz//css/mystuff-api-styles.min.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+
+        var populateGigyaBar = function() {};
+
+</script>
+
+<script type="text/javascript">
+
+        populateGigyaBar = function() {
+
+            var gigyaStuff = new nz.ffx.GigyaStuff();
+
+            var title = "Jennifer Lawrence and Amy Schumer go jet skiing";
+            var description = "Watch out Swift, Jenner et al, there\'s a new girl gang in town, and they have jet skis. ";
+
+            gigyaStuff.initGigyaEmailShare( {
+                title: title.replace('"',"'"),
+                description: description.replace('"',"'"),
+                canonical_url: "http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing",
+                image_url: "/content/dam/images/1/6/4/h/f/5/image.related.StuffLandscapeSixteenByNine.620x349.164hbr.png/1438477861894.png",
+                email_url: "http://www.stuff.co.nz/email_a_friend/28/70752951"
+            } );
+
+            
+            gigyaStuff.enableGigyaShareToolar("fake-sharebox-gigya", "fake");
+            
+        };
+   </script>
+ <div class="all_site_nav_right guest_only">
+    <div class="all_site_nav_signup_loading"><a class="all_site_nav_signup sn_reg_url"></a></div>
+    <div class="all_site_nav_login_loading"><a class="all_site_nav_login sn_login_url"></a></div>
+</div><script>
+
+                        var myStuffRoot = "http://cdn-my.stuff.co.nz/";
+                        var myStuffJSFile = "http://cdn-my.stuff.co.nz/" + "/api/mystuff-1.0.js";
+
+
+                        try{
+                            $.ajax({
+                                cache: false,
+                                timeout:20000,//20 seconds allowed to load the script.
+                                url: myStuffJSFile,
+                                dataType: "script",
+                                success: function( ) {
+
+                                        nz.ffx.Account.init(myStuffRoot);
+
+                                        $(document).on("click touchstart", ".sn_login_url", function () {
+                                            nz.ffx.Account.login();
+                                            return false;
+                                        });
+
+                                        $(document).on("click touchstart", ".logout", function () {
+                                            nz.ffx.Account.logout();
+                                            return false;
+                                        });
+
+                                        $(document).on("click touchstart", ".sn_reg_url", function () {
+                                            nz.ffx.Account.register();
+                                            return false;
+                                        });
+
+                                        $(document).on("click touchstart", ".gig-comments-logoutLink", function () {
+                                            nz.ffx.Account.logout();
+                                        });
+
+                                        populateGigyaBar();
+
+                                    },
+                                error: function(jqXHR, textStatus, errorThrown) {
+                                    $.DEBUG("Error fetching my.stuff API " + errorThrown);
+                                }
+                            });
+                        } catch (e){
+                            $.DEBUG("Error fetching my.stuff API " + e);
+                        }
+                    </script>
+            </div>
+    <div id="trademenav_right"> 
+        </div>
+</nav>
+<div id="slidedown">
+    <div id ="adpushdownbanner">
+        <div class="push_down_advert display-ad"></div>
+</div>
+</div><div id="mobile_link">
+</div><div id="page">
+    <div id="container">
+        <header id="pagetop">
+    <div class="section-logo"><div id="logo">
+    <h1>
+        <a class="masthead-logo" data-preserve-href="true" href="/entertainment">
+            entertainment</a>
+    </h1>
+</div></div>
+<div id="search_box">
+    <form action="http://www.stuff.co.nz/searchresults" id="cse-search-box">
+        <input name="Search Site" type="submit" class="search_box_button" value="Search Site" />
+        <input type="hidden" name="cof" value="FORID:9" />
+        <input type="hidden" name="cx" value="006730714154542492986:oh6vl0ybuqy" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <label for="search_box_text">Search</label>
+        <input type="text" name="q" size="31" id="search_box_text" />
+    </form>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div><div class="clearer"></div>
+    <div class="stuff_top_nav"><nav id="nav">
+    <div id="nav_bottom">
+        <div id="nav_bottom_left">
+            <ul>
+                <li class="current">
+                        <a title="Celebrities" href="/entertainment/celebrities">Celebrities</a>
+                    </li>
+                <li>
+                        <a title="Film" href="/entertainment/film">Film</a>
+                    </li>
+                <li>
+                        <a title="Music" href="/entertainment/music">Music</a>
+                    </li>
+                <li>
+                        <a title="TV &amp; Radio" href="/entertainment/tv-radio">TV &amp; Radio</a>
+                    </li>
+                <li>
+                        <a title="Books" href="/entertainment/books">Books</a>
+                    </li>
+                <li>
+                        <a title="Arts" href="/entertainment/arts">Arts</a>
+                    </li>
+                <li>
+                        <a title="Blogs" href="http://www.stuff.co.nz/entertainment/blogs">Blogs</a>
+                    </li>
+                <li>
+                        <a title="Film Festival 2015" href="http://www.stuff.co.nz/entertainment/film/film-festival-2015/">Film Festival 2015</a>
+                    </li>
+                <li>
+                        <a title="Events" href="http://events.stuff.co.nz">Events</a>
+                    </li>
+                </ul>
+        </div>
+    </div>
+    
+
+
+
+
+
+</nav>
+<div class="clearer"></div></div>
+<section class="breaking-news-wrapper">
+
+
+
+
+
+
+
+    
+        
+        
+        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+    
+
+</section>
+<div class="billboard-area">
+        <div class="billboard display-ad"></div>
+</div>
+    <div id="ad_top_banner">
+        <div class="top_banner_advert display-ad"><div id="topbanner" class="mbl" >
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('topbanner'); 
+                    });
+                </script>
+        </div>
+    </div>
+</div>
+</header>
+<div id="content">
+            <div id="left_col">
+                <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div id="moveableCompanionAd">
+    <script lang="javascript">
+        window.googletag.cmd.push(function() {
+
+            window.googletag.display('moveableCompanionAd');
+
+        });
+    </script>
+</div>
+
+<article class="story_landing">
+
+    <div class="story_content_top mbm cf">
+        <h1>Jennifer Lawrence and Amy Schumer go jet skiing
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+    
+
+</h1>
+
+        <h2></h2>
+
+        <div style="display:none;">
+                <div id="fake-sharebox-gigya"> </div>
+            </div>
+
+            <div class="story__byline-wrapper story__byline-wrapper__social cf">
+                <div class="social social--desktop">
+                    <div class="social__bar-container">
+                        <div class="story__byline-block social__story-content u-f-left">
+                            <p class="story__byline" itemscope=""
+                               itemprop="author" itemtype="http://schema.org/Person">
+                                <span itemprop="name">MARY WARD</span>
+                            </p>
+
+                            <p class="story__dateline">
+                            <span itemprop="datePublished" content="Sun Aug 02 01:11:01 UTC 2015">
+                            Last updated&nbsp;13:11, August 2 2015</span>
+                            </p>
+                        </div>
+
+                        <script type="text/javascript">
+                            
+                            var titleForShareBar = 'Jennifer Lawrence and Amy Schumer go jet skiing';
+                        </script>
+                            <ul class="social__bar social--right social--negative">
+                            <li><a href="javascript:nz.ffx.Share.linkedin('http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing', titleForShareBar, '')" class="icon--small icon--before--linkedin"></a></li><li><a href="javascript:nz.ffx.Share.reddit('http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing')" class="icon--small icon--before--reddit"></a></li></ul>
+                        <ul class="social__bar social--left social--negative">
+                            <li><a href="javascript:nz.ffx.GigyaStuff().emailShare();" class="icon--small icon--before--email"></a></li><li><a href="javascript:nz.ffx.Share.facebook('http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing', titleForShareBar, '', '207633159308175')" class="icon--small icon--before--facebook"></a></li><li><a href="javascript:nz.ffx.Share.twitter('http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing', titleForShareBar)" class="icon--small icon--before--twitter"></a></li><li><a href="javascript:nz.ffx.Share.googleplus('http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing')" class="icon--small icon--before--googleplus"></a></li><li><a href="#comments" class="icon--small icon--before--comment"><span></span></a></li><li><a href="javascript:;" class="icon--small icon--before--more"></a></li>
+                        </ul>
+
+                        <script type="text/javascript">
+                                
+                                window["nz.ffx.GigyaStuff.params"] = {
+                                    categoryId: 'Stuff',
+                                    streamId: 'stuff/entertainment/celebrities/70752951'
+                                };
+                            </script>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+<div id="70753073" class="landscapephoto">
+    <img alt="Amy Schumer and Jennifer Lawrence jet skiing. Are they working together, or is this a counterpoint to Taylor Swift's performative friendships?" title="" src="/content/dam/images/1/6/4/h/f/5/image.related.StuffLandscapeSixteenByNine.620x349.164hbr.png/1438477861894.png" class="photoborder">
+    <div class="photocredit">
+        <span class="photocredittext">AMY SCHUMER/INSTAGRAM</span>
+    </div>
+    <div class="photocaption">
+        <p>Amy Schumer and Jennifer Lawrence jet skiing. Are they working together, or is this a counterpoint to Taylor Swift&#039;s performative friendships?</p>
+    </div>
+    <div class="hdivider"> </div>
+</div>
+
+    
+    
+    
+    
+    
+    
+
+<div id="adsense_honeytrap"></div>
+                    <script type="text/javascript">
+                        adsenseDivId = 'adsense_honeytrap'; // used by google_ad_request_done()
+                        adsenseCssStylingClasses = 'honey-trap '; // used by google_ad_request_done()
+                        
+                        google_ad_client = 'ca-fairfax-stuff_js';
+                        google_ad_channel = 'news honeytrap_top_unit';
+                        google_ad_output = 'js';
+                        google_max_num_ads = '1';
+                        google_ad_type = 'text';
+                        google_safe = 'high';
+                        nz.ffx.GoogleAds().displayHoneyTrap();
+                    </script>
+                <p>Watch out Swift, Jenner et al, there's a new girl gang in town.</p><p>Amy Schumer has shared pictures of herself hanging out with none other than Academy Award winner Jennifer Lawrence.</p><p>The 34-year-old comedian shared a picture of the pair on the back of a jetski on Thursday.<br /> <br /> <b>READ MORE: <br /> * <a href="http://www.stuff.co.nz/entertainment/celebrities/70622149/taylor-swift-is-terribly-calculated-and-mean-says-grizzly-bears-edward-drost.html" target="_blank">Taylor Swift is terribly calculated and mean, says Grizzly Bear's Edward Droste</a> <br /> * <a href="http://www.stuff.co.nz/entertainment/music/70228909/lorde-surprises-crowd-at-taylor-swift-concert.html" target="_blank">Lorde surprises crowd at Taylor Swift concert</a><br /> * <a href="http://www.stuff.co.nz/entertainment/celebrities/69794392/taylor-swift-invites-kendall-jenner-on-stage--no-bad-blood-here.html" target="_blank">Taylor Swift invites Kendall Jenner on stage - no bad blood here</a></b></p>
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+<div class="html-asset">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/48Lv7SqUGd/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Reaction vid to Jennifer Lawrence saying my name at #comicon vid by #roadmanager</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by @amyschumer on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-10T03:22:11+00:00">Jul 9, 2015 at 8:22pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+
+    
+    
+    
+
+<p>Lawrence, 24, is driving the jetski in the picture, which Schumer captioned, "JLaw #maniac".</p><p>Schumer also shared a picture of Lawrence with the rest of a group of women who joined the pair at sea.</p><p>Schumer jokingly captioned the image "binders of women", making reference to an election campaign gaffe by 2012 United States presidential candidate Mitt Romney.</p>
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+<div class="html-asset">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/5w4Lr6qUMz/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Jlaw #maniac</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @amyschumer on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-30T14:30:58+00:00">Jul 30, 2015 at 7:30am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+
+    
+    
+    
+
+<p>Schumer made it clear that she was a huge fan of Lawrence's two weeks ago, when she shared a reaction video to Jennifer Lawrence saying her name during an MTV interview at San Diego Comic Con.</p><p>In the interview, Lawrence put her support behind a Kickstarter campaign to have Amy Schumer appear on the next season of The Bachelorette in the US, after Schumer appeared on an episode of the show earlier this year.</p><p>Joking about filming a campaign video with "sad music", Lawrence said, "Please donate so Amy Schumer will be Bachelorette."</p>
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+<div class="html-asset">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/5w2yV2qUKY/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Binders of women</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @amyschumer on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-30T14:18:46+00:00">Jul 30, 2015 at 7:18am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+
+    
+    
+    
+
+<p>Schumer was so delighted that Lawrence said her name on camera, she threw her hands up in the air.</p><div class="display-ad story_body_advert"><div id="storybody" class="mbl" >
+            <a id="feedback_storybody" href="http://stuff.co.nz/about-stuff/advertising-feedback/?pos=storybody&amp;adsize=300x250&amp;area=onl.stuff.entertainment/celebrities" target="_blank" class="adfeedback">
+                        Ad Feedback
+                    </a>
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('storybody'); 
+                    });
+                </script>
+        </div>
+    </div>
+<p>As for their recent meeting, it is unclear whether the pair are on holiday together, or perhaps filming for a future project.</p><p>While most are taking it as read that two incredibly busy women having a swim in July is a summer vacation, this reporter remains skeptical for two reasons:</p><p>1. Jennifer Lawrence notoriously keeps her private life private, so it seems out of character for her to allow these pictures to be shared.</p><p>2. Who takes that many inflatables and pool noodles out in the ocean? How are they, logistically, going to get them back on the yacht? How gross will a pool noodle be after you've allowed it to absorb filthy salt water for a few hours? Surely this is all more trouble than it's worth?</p><p id="source">
+                <strong>
+                    &nbsp;-&nbsp;SMH</strong>
+            </p>
+        <div class="story-footer-ad-container cf">
+            <div class="story-footer-ad">
+                <div class="left_footer_advert display-ad"></div>
+</div>
+            <div class="story-footer-ad">
+                <div class="right_footer_advert display-ad"></div>
+</div>
+        </div>
+
+        <div class="shareboxes-wrapper">
+            <div class="savestorybox">
+                <div id="story_saved">
+                    <div class="savebox">
+                     <span class="account_only">
+                         <a class="saved_story" data-node_id="70752951">Saved</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+
+                      <span class="guest_only">
+                          <a class="saved_story">Saved</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+                    </div>
+                </div>
+                <div id="story_unsaved">
+                    <div class="savebox">
+                     <span class="account_only">
+                          <a class="unsaved_story" data-node_id="70752951">Save</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+
+                     <span class="guest_only">
+                          <a class="unsaved_story">Save</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+                    </div>
+                </div>
+
+                <span id="save_story_error"></span>
+
+                <script type="text/javascript">
+
+                    $(document).ready(function() {
+                        new nz.ffx.StorySaver("70752951");
+                    });
+
+                </script>
+            </div>
+        </div>
+
+        <div class="next-article"><div id="relatedstories">
+    <h2 class="title_fullwidth">Next Celebrities story:</h2>
+    <p><a class="icon-story" href="/entertainment/celebrities/70750940/family-feud-overshadows-funeral-for-bobbi-kristina-brown">Family feud overshadows funeral for Bobbi Kristina Brown</a></p>
+    <p><a class="section_icon" href="/entertainment">Entertainment Homepage</a></p>
+</div></div>
+<div class="outbrain-wrapper">
+                <div class="OUTBRAIN"
+                     data-src="http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing"
+                     data-widget-id="AR_1"
+                     data-ob-template="Stuff.co.nz">
+                </div>
+            </div>
+        <div class="article-google-adsense">
+                <script type="text/javascript">
+                    google_ad_client = 'ca-fairfax-stuff_js';
+                    google_ad_channel = 'entertainment-news';
+                    google_language = 'en';
+                    google_ad_width = '500';
+                    google_ad_height = '205';
+                    google_ad_format = '500x205_pas_abgc';
+                    google_ad_type = 'text';
+                    google_ad_output = 'html';
+                    google_alternate_ad_url = '';
+                    google_alternate_color = '';
+                    google_color_bg = '#FFFFFF'; // Specifies a background color that should be used in the iframe
+                    google_color_border = '#E6E6E6'; // Specifies a border color that should be used for the ads
+                    google_color_line = '00ff00'; // Specifies the color of the one-pixel line that surrounds ads
+                    google_color_link = '#256091'; // Specifies a color that should be used for ad titles
+                    google_color_url = '256091' ; // Specifies a color that should be used for the ad's visible URL
+                    google_color_text = '#333333'; // Specifies a color that should be used for ad text
+                    google_encoding = 'utf8';
+                    google_safe = 'high';
+                    google_ad_section = 'default';
+                </script>
+                <script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+            </div>
+        <div class="sponsored-links sponsored-link-adverts"><section class="sponsored-links-container"></section></div>
+<a name="comments"></a>
+            <div class="gigyaComments comments"><div class="hdivider"></div>
+<a name="comments" title="Comments"></a>
+<h2>Comments</h2>
+<div id='commentsDiv'></div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        try {
+            nz.ffx.GigyaStuff().showGigyaComments('Stuff',
+                    'Jennifer Lawrence and Amy Schumer go jet skiing', 'stuff/entertainment/celebrities/70752951',
+                    '/etc/designs/ffx/nz/stuff/images/static/snation_comment_logo.gif');
+        } catch (gigyaError) {
+            var error = new Error('Unable to show gigya comments');
+            error.cause = gigyaError;
+
+            window.errors.push(error);
+        }
+    });
+</script>
+</div>
+<div class="outbrain-wrapper">
+                <div class="OUTBRAIN"
+                     data-src="http://www.stuff.co.nz/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing"
+                     data-widget-id="AR_2"
+                     data-ob-template="Stuff.co.nz">
+                </div>
+            </div>
+        </article> </div>  <div id="right_col">
+                <section class="rhcol-item">
+    <div class="RH-Col-TopStrip display-ad"><div id="topstrip" class="mbl" >
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('topstrip'); 
+                    });
+                </script>
+        </div>
+    </div>
+</section>
+
+<section class="rhcol-item ">
+    <div class="RH-Col-UpperPointers parsys">
+</div>
+</section>
+
+<div class="rhcol-item ">
+    <div class="parsys RH-Col-SectionTopRight"><div class="section-headlines-box section">
+
+
+
+
+
+
+
+    
+        
+        
+        
+
+
+
+
+
+
+
+    
+    
+        <section class="hbox_narrow hbox_block mbl">
+        <div class="hbox_top">
+            <span class="hbox_top_title headlines_title">
+            <a href="/entertainment" data-article-link-country="nz">
+                entertainment headlines</a></span>
+            
+
+
+
+
+
+
+
+
+    
+
+
+
+</div>
+        <div class="hbox_body_left">
+            <div class="section_headlines">
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/waikato-times/70697842/clear-your-diaries--its-film-fest-time-again" data-article-link-country="nz" class="icon-story ">
+    
+        Film festival has variety and &#039;geysers of blood&#039;
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70752951/jennifer-lawrence-and-amy-schumer-go-jet-skiing" data-article-link-country="nz" class="icon-story ">
+    
+        JLaw and Amy&#039;s counter-clique
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/music/70752409/zayn-malik-thinks-new-one-direction-single-is-sick" data-article-link-country="nz" class="icon-story ">
+    
+        Zayn likes new 1D single
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/books/70749973/family-secret-led-to-jack-the-ripper" data-article-link-country="nz" class="icon-story ">
+    
+        Family secret &#039;led to Ripper&#039;
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70750940/family-feud-overshadows-funeral-for-bobbi-kristina-brown" data-article-link-country="nz" class="icon-story ">
+    
+        Family feud overshadows Bobbi Kristina
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70750639/snoop-dogg-stopped-at-italian-airport-for-undeclared-cash" data-article-link-country="nz" class="icon-story ">
+    
+        Snoop Dogg stopped at airport
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70750226/charlize-theron-adopts-second-child" data-article-link-country="nz" class="icon-story ">
+    
+        Charlize adopts baby girl
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/tv-radio/70750167/tv-pick-of-the-week-august-2-to-8" data-article-link-country="nz" class="icon-story ">
+    
+        Pick of the Week: August 2 to 8
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/tv-radio/70629618/kimberly-stewart-channels-rock-dad-rod-in-new-fashion-line" data-article-link-country="nz" class="icon-story ">
+    
+        Kimberly Stewart channels dad
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/books/70626281/captain-corelli-authors-labours-of-love-lost" data-article-link-country="nz" class="icon-story ">
+    
+        The labours of love lost
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/music/70672433/modern-maori-quartet-sing-their-way-to-uzbekistan" data-article-link-country="nz" class="icon-story ">
+    
+        Well-suited to breaking the Asian market
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/tv-radio/69954857/gyton-grantley-on-house-husbands" data-article-link-country="nz" class="icon-story ">
+    
+        The&#039; most un-gay gay&#039; father on TV
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70744948/why-no-interviewers-are-asking-tom-cruise-about-scientology" data-article-link-country="nz" class="icon-story ">
+    
+        Tom Cruise&#039;s no-go zone
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/entertainment/celebrities/70744285/mike-mcroberts-ready-for-anything-following-taupo-bungy" data-article-link-country="nz" class="icon-story ">
+    
+        McRoberts &#039;ready for anything&#039; after bungy
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/life-style/parenting/baby/70742159/mark-zuckerberg-announces-pregnancy-shares-miscarriage-pain" data-article-link-country="nz" class="icon-story ">
+    
+        Zuckerberg&#039;s news tinged with grief
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                </div>
+        </div>
+        <div class="hbox_body_right"></div>
+        <div class="clearer"> </div>
+    </section>
+
+    
+
+
+    
+    
+
+</div>
+<div class="display-ad section"><div id="sectiontopright" class="mbl" >
+            <a id="feedback_sectiontopright" href="http://stuff.co.nz/about-stuff/advertising-feedback/?pos=sectiontopright&amp;adsize=300x250&amp;area=onl.stuff.entertainment/celebrities" target="_blank" class="adfeedback">
+                        Ad Feedback
+                    </a>
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('sectiontopright'); 
+                    });
+                </script>
+        </div>
+    </div>
+<div class="most-popular section">
+
+
+
+
+
+
+
+    
+        
+        
+        <div class="most-popular mostpopular">
+
+
+
+
+
+
+
+    
+    
+        <div id="most_popular">
+    <div class="hbox_narrow">
+        <header class="hbox_top">
+            <span class="hbox_top_title">Most popular</span>
+        </header>
+        <ul>
+            <li><a href="#viewed">Viewed</a></li>
+            <li><a href="#shared">Shared</a></li>
+            <li><a href="#commented">Commented</a></li>
+        </ul>
+        <div id="viewed">
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/national/politics/70747364/John-Key-leaves-girl-in-tears-after-calling-Maori-language-month-boring">
+                John Key leaves girl in tears after calling Maori language month 'boring'</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/sport/other-sports/70748622/Joseph-Parker-stuns-Bowie-Tupou-with-first-round-knockout-in-Invercargill">
+                Joseph Parker stuns Bowie Tupou with first round knockout in Invercargill</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/70730698/Kiwi-dream-of-bach-ownership-not-about-coining-it">
+                Kiwi dream of bach ownership not about coining it</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/sport/other-sports/70750290/Bowie-Tupou-didn-t-dive-in-round-one-Joseph-Parker-says">
+                Bowie Tupou didn't dive in round one, Joseph Parker says</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/world/africa/70749866/Is-Cecil-the-lions-brother-Jericho-dead">
+                Is Cecil the lion's brother Jericho dead?</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/entertainment/books/70749973/Family-secret-led-to-Jack-the-Ripper">
+                Family secret 'led to Jack the Ripper'</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/world/africa/70752973/MH370-Plane-seat-washed-up-on-Reunion-Island-in-May">
+                MH370: 'Plane seat' washed up on Reunion Island in May</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/69218093/Thousands-of-bach-owners-caught-up-in-property-investor-crackdown">
+                Thousands of bach owners caught up in property investor crackdown</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/70746185/The-worst-house-on-the-best-street-really">
+                The worst house on the best street, really</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/the-press/news/70745979/Police-investigate-tourist-assault-at-backpackers">
+                Police investigate tourist assault at backpackers</a>
+            </p>
+    </div><div id="shared">
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/food-wine/recipes/70713064/Recipe-Roast-cauliflower-carrot-and-parsnip-couscous-salad">
+                Recipe: Roast cauliflower, carrot and parsnip couscous salad</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/national/politics/70747364/John-Key-leaves-girl-in-tears-after-calling-Maori-language-month-boring">
+                John Key leaves girl in tears after calling Maori language month 'boring'</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/70730698/Kiwi-dream-of-bach-ownership-not-about-coining-it">
+                Kiwi dream of bach ownership not about coining it</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/69218093/Thousands-of-bach-owners-caught-up-in-property-investor-crackdown">
+                Thousands of bach owners caught up in property investor crackdown</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/home-property/70739115/Apartment-owners-offered-money-back-as-luxury-development-stalls-again">
+                Apartment owners offered money back as luxury development stalls again</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/business/opinion-analysis/70702454/Retirement-myths-debunked">
+                Retirement myths debunked</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/business/money/70691261/The-2-dollar-per-day-dental-budget">
+                The $2 dollar per day dental budget </a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/well-good/70745608/Everything-you-ever-wanted-to-know-about-death-but-were-too-afraid-to-ask">
+                Everything you ever wanted to know about death but were too afraid to ask  </a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/life/70751405/The-in-betweeners-Life-as-a-non-binary-trans-person">
+                The in-betweeners: Life as a non-binary trans person</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/well-good/teach-me/70743359/Chewing-gum-reality-TV-and-Google-How-you-are-killing-your-IQ-every-day">
+                Chewing gum, reality TV and Google: How you are killing your IQ every day</a>
+            </p>
+    </div><div id="commented"></div>
+<script type="text/javascript">
+    if (typeof(gigya) !== "undefined"){
+            
+            $(document).ready(function() {
+                gigya.comments.getTopStreams({
+                    categoryID: 'Stuff',
+                    callback: nz.ffx.GigyaStuff().updateMostCommented,
+                    limit: '10'
+            });
+            
+        });
+    }   
+</script><div class="clearer"></div>
+    </div>
+</div><div class="clearer"></div>
+
+    
+
+</div>
+
+    
+    
+
+</div>
+<div class="cq-special-offers section"><div class="cq-special-offers-box hide" id="5bd116dd-5901-415d-8020-ecebc6f5434e">
+    <header class="cq-special-offers-box__heading">
+        special offers
+    </header>
+    <div class="display-ad special_offer_1"><div id="specialoffer1" class="mbl" >
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('specialoffer1'); 
+                    });
+                </script>
+        </div>
+    </div>
+<div class="display-ad special_offer_2"><div id="specialoffer2" class="mbl" >
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('specialoffer2'); 
+                    });
+                </script>
+        </div>
+    </div>
+<div class="display-ad special_offer_3"><div id="specialoffer3" class="mbl" >
+            <script type="text/javascript">
+                    googletag.cmd.push(function() {     
+                       googletag.display('specialoffer3'); 
+                    });
+                </script>
+        </div>
+    </div>
+</div>
+
+<script>
+        if (googletag) {
+            try{
+                googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                    try {
+                        if (!event.isEmpty) {
+                            var tkeys = event.slot.getTargetingKeys();
+                            for (var i = 0; i < tkeys.length; i ++) {
+                                var key = tkeys[i];
+                                var tkey = event.slot.getTargeting(key)[0];
+                                if (tkey.indexOf("specialoffer") > -1) {
+                                    $("#5bd116dd-5901-415d-8020-ecebc6f5434e").show();
+                                } 
+                            }
+                        }
+                    }
+                    catch (e) {
+                        console.log("Special Offers Event Error: " + e);
+                    }
+                });
+            }
+            catch (e) {
+                console.log("Special Offers Setup Error: " + e);
+            }
+        }
+    </script>
+</div>
+
+</div>
+</div>
+
+<section class="rhcol-item ">
+    <div class="parsys RH-Col-LowerPointers"><div class="parbase section embedded-page"><iframe style="width&#x3a;&#x20;100&#x25;&#x3b;&#x20;height&#x3a;&#x20;400px&#x3b;" src="http://clientscdn.beyondd.co.nz/ezibuy/" frameborder="0"></iframe>
+    </div>
+
+</div>
+</section>
+
+</div> </div> <img id="mpvTrackingPixel" src="/track/view/28/70752951/?dest=/etc/designs/ffx/nz/stuff/images/tracking-pixel/1pxwhite.gif" alt="">
+<footer id="footer">
+    <nav id="footer_top">
+         <ul>
+            <li><a href="/national/">National</a></li>
+            <li><a href="/world/">World</a></li>
+            <li><a href="/business/">Business</a></li>
+            <li><a href="/technology/">Technology</a></li>
+            <li><a href="/sport/">Sport</a></li>
+            <li><a href="/entertainment/">Entertainment</a></li>
+            <li><a href="/life-style/">Life &amp; Style</a></li>
+            <li><a href="/travel/">Travel</a></li>
+            <li><a href="/motoring/">Motoring</a></li>
+        </ul>
+    </nav><div id="footer-bottom">
+        <div id="footer-bottom-left">
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Stuff.co.nz</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/about-stuff/22245/Background">About Us</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/33785/Contact-Us">Contact Us</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/2715191/Mobile">Mobile</a></li>
+                        <li>|</li>
+                        <li><a class="view_smartphone_site" href="http://i.stuff.co.nz/">View Smartphone Site</a></li>
+                        <li>|</li>
+                        <li><a class="view_lite_site" href="http://m.stuff.co.nz/">View Mobile Light Site</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div>
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Subscribe</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/about-stuff/4060273/Get-Stuff-TXT-Alerts">Text</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">Follow us on Facebook and Twitter</a></li>
+                        <li>|</li>
+                        <li><a href="http://fairfaxmedia.co.nz/subscriptions/newspaper-subscriptions.dot">Newspapers</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.mags4gifts.co.nz/">Magazine subscriptions</a></li>
+                        <li>|</li>
+                        <li><a href="/rss">RSS - Top Stories</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Services</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="http://www.fairfaxnie.co.nz/">Newspapers in Education</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.azdirect.co.nz/">A-Z Directories</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/33001/Advertise-Online">Online Advertising</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.fairfaxmedia.co.nz/ad-centre/advertise-in-newspapers.dot">Print Advertising</a></li><li>|</li>
+                        <li><a href="http://www.fairfaxmedia.co.nz/careers">Careers</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Classifieds</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="http://deaths.stuff.co.nz/obituaries/stuff-nz/">Death Notices</a></li>
+                        <li>|</li>
+                        <li><a href="http://celebrations.stuff.co.nz/celebration/stuff-nz/">Celebrations</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.trademe.co.nz/">Trade Me</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.trademe.co.nz/jobs">Jobs</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.trademe.co.nz/property">Property</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.trademe.co.nz/Trade-me-motors/index.htm">Motors</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.travelbug.co.nz/">Accommodation</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.findsomeone.co.nz/">Personals</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.adstuff.co.nz/">Newspaper Classifieds</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Newspapers</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/dominion-post/">Dominion Post </a></li>
+                        <li>|</li>
+                        <li><a href="/the-press/">The Press</a></li>
+                        <li>|</li>
+                        <li><a href="/waikato-times/">Waikato Times</a></li>
+                        <li>|</li>
+                        <li><a href="/auckland/">Auckland Now</a></li>
+                        <li>|</li>
+                        <li><a href="/sunday-news/">Sunday News</a></li>
+                        <li>|</li>
+                        <li><a href="/sunday-star-times/">Sunday Star-Times</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+                <div class="footer-bottom-left-row">
+                </div><div class="footer-bottom-left-title">&nbsp;</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/marlborough-express/">Marlborough Express</a></li>
+                        <li>|</li>
+                        <li><a href="/manawatu-standard/">Manawatu Standard</a></li>
+                        <li>|</li>
+                        <li><a href="/nelson-mail/">Nelson Mail</a></li>
+                        <li>|</li>
+                        <li><a href="/southland-times/">Southland Times</a></li>
+                        <li>|</li>
+                        <li><a href="/taranaki-daily-news/">Taranaki Daily News</a></li>
+                        <li>|</li>
+                        <li><a href="/timaru-herald/">Timaru Herald</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div>
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Other Sites</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="http://www.essentialmums.co.nz/">Essential Mums</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.cuisine.co.nz/">Cuisine</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzhouseandgarden.co.nz/">NZ House &amp; Garden</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzfishingnews.co.nz/">NZ Fishing News</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzlifeandleisure.co.nz/">NZ Life &amp; Leisure</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax Archives</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div></div><div id="footer-bottom-right">
+            <p class="footer-right-title">Breaking news?</p>
+            <p class="descrip">Send us your photos, videos and tip-offs:</p>
+            <p class="text-grey"><span class="float-left">Email</span><span><a href="mailto:newstips@stuff.co.nz">newstips@stuff.co.nz</a></span></p>
+            <div class="clearer"></div>
+            <p class="text-grey"><span class="float-left">Phone</span><span>0800 697 8833</span></p>
+            <div class="clearer"></div>
+        </div><div class="clearer"></div>
+    </div><div id="ffxcredit">
+        <div id="ffxlogo"></div><br/>
+          
+          &copy; 2015&nbsp;<a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br/>
+          <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a>
+    </div>
+</footer></div></div><script id="nielsen-script-src" type="text/javascript" src="/etc/designs/ffx/nz/stuff/static/nielsen.min.v60.js"></script>
+<script id="nielsen-script-code" type="text/javascript">
+  var pvar = { cid: "nz-stuff", content: "0", server: "secure-nz" };
+  var feat = { surveys_enabled: 1, sample_rate: 0.1 };
+  var trac = nol_t(pvar, feat);
+  trac.record().post().do_sample();
+</script>
+<noscript id="nielsen-no-script">
+  <div>
+    <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-stuff&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+  </div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/cgi-bin/j?ci=nz-stuff&amp;se=1&amp;te=0"></script>
+
+<script language="JavaScript" type="text/javascript" src="/etc/designs/ffx/nz/stuff/static/omniture.min.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+    /* You may give each page an identifying name, server, and channel on the next lines. */
+    s.events="";
+
+    s.prop1="fairfaxnz-stuff-prd";
+
+    s.prop5="article page";
+
+    s.prop6="jennifer_lawrence_and_amy_schumer_go_jet_skiing";
+
+    s.prop7="70752951:Jennifer-Lawrence-and-Amy-Schumer-go-jet-skiing";
+
+    
+    s.prop31="MARY WARD";
+
+    s.prop32="02 August, 2015";
+    
+
+    // get omniture vals from cookie and send them
+    if (typeof $ !== 'undefined' && typeof $.cookie !== 'undefined') {
+        var account_cookie_vals = jQuery.parseJSON($.cookie('account'));
+        if (account_cookie_vals) {
+            s.prop14 = s.eVar14 = account_cookie_vals.uid;
+            s.prop50 = s.eVar50 = account_cookie_vals.gender;
+            s.prop51 = s.eVar51 = account_cookie_vals.yob;
+            s.prop52 = s.eVar52 = account_cookie_vals.region_id;
+            if (account_cookie_vals.industry_id !== null) {
+                s.prop53 = s.eVar53 = account_cookie_vals.industry_id;
+            }
+        }
+    }
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//-->
+</script>
+</body>
+
+    <script lang="Javascript">
+        window.ffPageLoaded=true;
+    </script>
+</html>

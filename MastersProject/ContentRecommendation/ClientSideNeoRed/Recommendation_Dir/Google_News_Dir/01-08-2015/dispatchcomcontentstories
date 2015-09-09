@@ -1,0 +1,2724 @@
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+    
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!DOCTYPE html>
+	<!--[if IE 8]><html class="no-js lt-ie9" lang="en" ><![endif]-->
+	<!--[if gt IE 8]><!--><html class="no-js" lang="en" ><!--<![endif]-->
+
+	<head>
+	
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta charset="utf-8">
+		
+		
+		
+		
+		
+		
+		
+		
+			<link rel="Shortcut Icon" href="/content/digital/config/favicon.ico" />
+		
+		
+		
+		
+		
+		<link href="/content/system/modules/com.titan.type.story/css/story.css?v=1.2.2" rel="stylesheet" />
+    <link href="/export/system/modules/com.titan.type.slideshows/css/slideshows.css?v=1.2.2" rel="stylesheet" />
+    
+    <!-- CSS for modern browsers -->
+    <!--[if gt IE 9]><!-->
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/site.css?v=1.2.2" rel="stylesheet" />
+    <!--<![endif]-->
+    
+    <!--[if IE 9]>
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/normalize.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/atlas.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/shared.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/smacss.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/legacy.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie9/ie9.css?v=1.2.2" rel="stylesheet" />
+    <![endif]-->
+    
+    <!--[if IE 8]>
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/normalize.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/atlas.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/shared.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/smacss.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/legacy.css?v=1.2.2" rel="stylesheet" />
+        <link href="/content/system/modules/com.titan.sites.dispatch/css/ie8/ie8.css?v=1.2.2" rel="stylesheet" />
+    <![endif]-->
+        
+    <link href="/content/system/modules/com.titan.sites.dispatch/css/shame.css?v=1.2.2" rel="stylesheet" />
+    
+
+		
+		
+		<script src="/content/system/modules/com.titan.dependencies/lib/modernizr/modernizr.js"></script>
+	
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+	<script type="text/javascript">
+		if ( !window.jQuery ) {
+			document.write('<script src="/content/system/modules/com.titan.dependencies/lib/jquery/jquery.js"><\/script>');
+		}
+		// Async Loader script
+		window.asyncScriptLoad = function(src) {
+			if ( typeof src === 'string' && src !== '' ) {
+				var element = document.createElement("script");
+				element.src = src;
+				document.body.appendChild(element);
+			}
+		}
+		if (window.addEventListener) {
+			window.addEventListener("load", asyncScriptLoad, false);
+		} else if (window.attachEvent) {
+			window.attachEvent("onload", asyncScriptLoad);
+		} else {
+			window.onload = asyncScriptLoad;
+		}
+	</script>
+	
+	<!--  Unrecognized siteID in 'header-js' site header javascript template. -->
+		
+		
+		
+			
+			
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:app_id"      	content="124304607604927" />
+<meta property="og:title"       	content="South Linden 7-year-old drowns in California" />
+<meta property="og:type"        	content="article" />
+<meta property="og:url"         	content="http://www.dispatch.com/content/stories/local/2015/07/31/girl-drowning.html" />
+<meta property="og:description" 	content="A 7-year-old girl from South Linden drowned this week while visiting her grandparents in southern California. The body of Annielee Sweet Pea Palmer was recovered from the Coachella Canal on Thursday morning, more than 10 miles downstream from where she had entered the water on Tuesday. The canal carries water from the Colorado River to the desert areas of southern California." />
+<meta property="og:site_name"   	content="The Columbus Dispatch" />
+<meta property="og:image"       	content="http://www.dispatch.com/content/graphics/2015/07/31/annie-palmer.jpg" />
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start Google Tag Manager Data Layer -->
+<script>
+	dataLayer = [{
+		'customerId': 'ma15895',
+		'market': '61474093',
+		'userId': 'rtt6661@gmail.com',
+		'cookieDomain': '.dispatch.com',
+		'premium': 'false',
+		'categories': '["structure/","structure/home_page/","structure/home_page/latest/","topic/","topic/location/","topic/location/united_states/","topic/location/united_states/ohio/","topic/location/united_states/ohio/franklin/","topic/location/united_states/ohio/franklin/columbus/","topic/location/united_states/ohio/franklin/columbus/linden/","topic/news/","topic/news/crime_and_safety/"]'
+	}];
+</script>
+<!-- End Google Tag Manager Data Layer -->
+
+
+
+
+
+	
+
+
+
+
+	
+	
+		<title>South Linden 7-year-old drowns in California | The Columbus Dispatch</title>
+	
+
+
+
+
+
+
+	<meta name="google-site-verification"
+		content="bmdK5tP1dBwY5r0F6bXdHUs5Bchcr1bbQFUgeVELkqo" />
+
+
+
+
+
+
+	<meta name="keywords" content="columbus, ohio, news, sports, entertainment, politics, ohio state, central ohio" />
+
+
+
+
+
+	<meta name="description" content="A 7-year-old girl from South Linden drowned this week while visiting her grandparents in southern California. The body of Annielee Sweet Pea Palmer was recovered from the Coachella Canal on Thursday morning, more than 10 miles downstream from where she had entered the water on Tuesday. The canal carries water from the Colorado River to the desert areas of southern California." />
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+<script>
+	var cms_resourceId = "630d37fa-37e4-11e5-be68-353ff38f384c";
+	var cms_comments_disabled = "";
+</script>
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="dfp-id" content="8919" />
+<meta name="dfp-adunit" content='Dispatch_ROS/Dispatch_News' />
+<meta name="dfp-targeting" content='{"cat":"news"}' />
+	
+<link href="/content/digital/config/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/content/digital/config/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/content/digital/config/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/content/digital/config/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+	
+	
+	
+	
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	<meta name="__sync_contentCategory" content="PREM-LOCAL" />
+	<script type="text/javascript" src="https://syncaccess-dpc-cd.syncronex.com/dpc/cd/api/scripts/syncwall"></script>
+
+
+
+ 
+
+		
+		
+			
+		
+
+		
+
+	</head>
+	
+	
+	
+	
+	
+	
+		
+	
+	
+		
+			
+			
+			
+		
+	
+	
+	<body class="fixed-width  site-dispatch type-story layout-single-rail  type-story category-crime_and_safety category-news story-news category-topic ">
+		<script>
+			var googletag1 = '';
+			
+			if ($("body").hasClass("site-dispatch")) {
+			  googletag1 = "GTM-TW3SZB";
+			 }
+			 
+			 if ($("body").hasClass("site-buckeyextra")) {
+			  googletag1 = "GTM-P48RQK";
+			 }
+			 
+			 if ($("body").hasClass("site-bluejacketsxtra")) {
+			  googletag1 = "GTM-MWP3W3";
+			 }
+			 
+			if ($("body").hasClass("site-columbusalive")) {
+				googletag1 = "GTM-KHZSJD";
+			 }
+			 
+			 if ($("body").hasClass("site-crave")) {
+			  googletag1 = "GTM-PNFNSK";
+			 }
+			 
+			 if ($("body").hasClass("site-columbusmonthly")) {
+			  googletag1 = "GTM-MLNPT4";
+			 }
+			 
+			 if ($("body").hasClass("site-columbusbride")) {
+			  googletag1 ="GTM-NJFVGW";
+			 }
+			 
+			 if ($("body").hasClass("site-columbusceo")) {
+			  googletag1 = "GTM-5LVSHK";
+			 }
+			 
+			 if ($("body").hasClass("site-columbusparent")) {
+			  googletag1 = "GTM-5BC74K";
+			 }
+			 
+			 if ($("body").hasClass("site-capitalstyle")) {
+			  googletag1 = "GTM-NDXGVD";
+			 }
+			 
+			 if ($("body").hasClass("site-thisweeknews")) {
+			  googletag1 = "GTM-K4JZKC";
+			 }
+			 
+			 if ($("body").hasClass("site-10tv")) {
+			  googletag1 = "GTM-P6P92R";
+			 }
+			   
+			 if ($("body").hasClass("site-971thefan")) {
+			  googletag1 = "GTM-K88XKF";
+			 }
+			
+			 $( document ).ready(function() { var iframe = document.createElement("iframe");
+			  iframe.src = "//www.googletagmanager.com/ns.html?id=" + googletag1;
+			  iframe.height = "0";
+			  iframe.width = "0";
+			  iframe.style.display = "none";
+			  iframe.style.visibility = "hidden";
+			  document.getElementById("tagmanager").appendChild(iframe);
+			})
+		</script>
+			
+			 
+			 <!-- Google Tag Manager -->
+				<noscript id="tagmanager"></noscript>
+				<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer',googletag1);</script>
+			<!-- End Google Tag Manager -->
+			
+		<!-- Retargeting Pixels -->
+<div class="retargeting" style="position: absolute;">
+	<!-- Doubleclick Tag Manager -->
+				<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QL237"
+				height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-5QL237');</script>
+				<!-- End Doubleclick Tag Manager -->
+			
+				</div>
+		
+		<!-- DoubleClick Floodlight Tag -->
+		
+		<!-- End of DoubleClick Floodlight Tag -->
+		
+		
+		
+			<nav id="utility" class="top-bar">
+        <section class="row top-bar-section">
+            <ul class="left">
+                <li><a class="vertical-jobs" href="http://www.columbusjobs.com/?cmpid=tplnnv">Jobs</a></li>
+                <li><a class="vertical-cars" href="http://www.columbuscars.com/?cmpid=tplnnv">Cars</a></li>
+                <li><a class="vertical-real-estate" href="http://www.columbusrealestate.com/?cmpid=tplnnv">Real Estate</a></li>
+                <li><a class="vertical-classifieds" href="http://www.dispatchclassifieds.com/?cmpid=tplnnv">Classifieds</a></li>
+            </ul> 
+            <ul class="right">
+                <li class="has-dropdown clickable" data-dropdown-child="utility-e-edition"><a href="#">E-Edition</a><i class="icon-caret-down"></i></li>
+                <li class="has-dropdown clickable" data-dropdown-child="utility-subscriber-services"><a href="#">Subscriber Services</a><i class="icon-caret-down"></i></li>
+                <li id="account" class="has-dropdown clickable" data-dropdown-child="utility-account" ><a href="#">Account</a><i class="icon-caret-down"></i></li>
+                <li id="register"><a href="/content/system/modules/com.dispatch.registration/pages/signup.jsp" style="display:block;">Register</a></li>
+				<li id="notLogged"><a href="/content/system/modules/com.dispatch.registration/pages/login.jsp" style="display:block;">Login</a></li>
+				<li id="logged">
+					<a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?cmpid=tplnnvhp">
+					<span id="userName"></span>
+				   </a>
+                </li>
+            </ul>
+            
+            <nav class="utility-dropdowns">
+                <ul data-dropdown-parent="utility-e-edition">
+                    <li><a href="/content/links/nav/subscription/e-edition?cmpid=tplnnv">Subscribe</a></li>
+                    <li><a href="/content/sections/services/electronic-edition.html?cmpid=tplnnv">About</a></li>
+                    <li><a href="/content/system/modules/com.dispatch.olive/pages/olive-dispatch-viewer.jsp?cmpid=tplnnv">Access E-Edition</a></li>
+                </ul>
+                
+                <ul data-dropdown-parent="utility-subscriber-services">
+                    <li><a href="/content/system/shared/links/dispatch-reader-rewards?cmpid=tplnnv">Reader Rewards</a></li>
+                    <li><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?cmpid=tplnnv">Manage Subscription</a></li>
+                    <li><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?cmpid=tplnnv">Customer Service</a></li>
+                    <li><a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">Live chat</a></li>
+                </ul>
+                
+                <ul data-dropdown-parent="utility-account">
+                    <li><a href="/content/system/modules/com.dispatch.exacttarget/pages/newsletters.jsp?cmpid=tplnnv">Newsletters</a></li>
+                    <li><a href="/content/system/modules/com.dispatch.registration/pages/edit-profile.jsp?cmpid=tplnnv">Manage Account</a></li>
+                     <li><a href="#" onclick="return signOff();">Log Out</a></li>
+                </ul>
+            </nav>
+            
+        </section>
+		<script src="/content/digital/javascript/auth.js"></script>
+		<script>
+			if (isIE () && isIE () <= 8) {
+				document.attachEvent("onreadystatechange", function(){
+ 				 if (document.readyState === "complete"){
+    				document.detachEvent( "onreadystatechange", arguments.callee );
+  						  authCheck();
+ 					 }
+				});
+			}else{
+				$( document ).ready(function() {
+					authCheck();
+				});
+			}
+		</script>
+    </nav>
+    
+    <div    class="adunit  leaderboard top"    data-dimensions="728x90,970x250,970x90"  data-targeting='{"pos":"atf"}'></div><header id="header" class="row">
+    
+        <div class="row">
+    
+            <hgroup id="branding" class="columns large-8">
+            
+		<section class="weather-and-timestamp heading-type">
+			<span class="location">Columbus, Ohio</span>
+			<span>&bull;</span>
+			<span class="date">Aug 02, 2015</span>
+			<span>&bull;</span>
+			<span class="conditions"><a href="/content/sections/news/weather/index.html">72&deg; Broken Clouds</a></span>
+		</section>
+	<a href="/content/index.html" id="logo">
+                    <img src="/export/system/modules/com.titan.sites.dispatch/img/header/header-image.jpg?cmpid=tplnnv" />
+                </a>
+                <h4 class="hide">The Columbus Dispatch</h4>
+            </hgroup>
+            
+            <aside class="columns large-4">
+				<link rel="stylesheet" type="text/css" href="/content/digital/css/google/v2/googlesearch.css">
+				<script>
+				  (function() {
+					var cx = '001516451095317266349:ncqjlprs8y0';
+					var gcse = document.createElement('script');
+					gcse.type = 'text/javascript';
+					gcse.async = true;
+					gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+						'//www.google.com/cse/cse.js?cx=' + cx;
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:searchbox-only></gcse:searchbox-only>
+				<script>
+					$(window).bind("load", function() {
+   					document.getElementById("gsc-i-id1").setAttribute("placeholder", "Search");
+					});
+				</script>
+				<div    class="adunit  search-sponsor"    data-dimensions="160x30"  data-targeting='{"pos":"atf"}'></div><input type="hidden" name="site" value="dispatch">
+		<input type="hidden" name="is" value="dispatch">
+		<input type="hidden" name="cp" value="1">					
+		<input type="hidden" name="rpp" value="20">	
+	</form>
+	
+	
+	
+</aside>
+        </div>
+        
+        <nav id="global-nav-wrap" class="nav-group row">
+            <nav id="global" class="columns large-8 collapse">
+                <ul class="left">
+                    <li><a href="/content/sections/news/index.html?cmpid=tplnnv" class="tiny button brand-color-1-bg global-nav-button">News</a>
+                        <nav id="news-dropdown" class=" global-nav-dropdown columns large-12">
+                            <header>
+<a href="/content/sections/services/rss-feeds.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">RSS Feeds</span>
+                    				<span class="icon-stack rss-icon">
+                    					<i class="icon-sign-blank icon-stack-base rss-color"></i>
+                    					<i class="icon-rss icon-light"></i>
+                    				</span>
+                    			</a>
+                                <a href="/content/pages/podcasts.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">Podcasts</span>
+                    				<span class="icon-stack">
+                    					<i class="icon-sign-blank icon-stack-base"></i>
+                    					<i class="icon-microphone"></i>
+                    				</span>
+                    			</a>
+                    			<hr />
+                            </header>
+                            
+                            <section class="row">
+                                <div class="columns large-3">
+                                    <h6 class="alternate">News Topics</h6>
+                                    <ul>
+                						<li><a href="/content/sections/news/business/index.html?cmpid=tplnnv">Business</a></li>
+                						<li><a href="/content/sections/news/crime/index.html?cmpid=tplnnv">Crime &amp; Safety</a></li>
+                						<li><a href="/content/sections/news/education/index.html?cmpid=tplnnv">Education</a></li>
+                						<li><a href="/content/sections/news/science-environment/environment/index.html?cmpid=tplnnv">Environment</a></li>
+                						<li><a href="/content/sections/news/government-politics/index.html?cmpid=tplnnv">Government &amp; Politics</a></li>
+                						<li><a href="http://www.mypublicnotices.com/dispatch/PublicNotice.asp?cmpid=tplnnvhp">Legal Notices</a></li>
+                						<li><a href="/content/sections/news/local/index.html?cmpid=tplnnv">Local</a></li>
+                						<li><a href="/content/sections/news/lottery.html?cmpid=tplnnv">Lottery</a></li>
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                
+                                <div class="columns large-3">
+                                    <ul>
+                						<li><a href="/content/sections/news/health-medicine/index.html?cmpid=tplnnv">Medicine &amp; Health</a></li>
+                						<li><a href="http://www.legacy.com/obituaries/dispatch/?cmpid=tplnnvhp">Obituaries</a></li>
+                						<li><a href="/content/sections/news/offbeat/index.html?cmpid=tplnnv">Offbeat</a></li>
+                						<li><a href="/content/sections/news/religion/index.html?cmpid=tplnnv">Religion</a></li>
+                						<li><a href="/content/sections/news/science-environment/science/index.html?cmpid=tplnnv">Science</a></li>
+                						<li><a href="/content/pages/special-reports.html?cmpid=tplnnv">Special Reports</a></li>
+                						<li><a href="/content/sections/news/us-world/index.html?cmpid=tplnnv">US &amp; World</a></li>
+                						<li><a href="/content/sections/news/weather/index.html?cmpid=tplnnv">Weather</a></li>
+                						<li><a href="/content/pages/corrections.html?cmpid=tplnnv">Corrections</a></li>						
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                
+                                <div class="columns large-3">&nbsp;</div>
+                                
+                                <div class="divider"></div>
+            					
+            					<div class="columns large-3">
+            					    <h6 class="alternate">News Blogs</h6>
+            					    <select class="select-box js-link-list-select">
+            					        <option>-Browse by Topic-</option>
+            					        <option value="/content/blogs/the-bottom-line/index.html?cmpid=tplnnv">Business</option>
+            							<option value="/content/blogs/the-city/index.html?cmpid=tplnnv">Columbus</option>
+            							<option value="/content/blogs/the-eteam/index.html?cmpid=tplnnv">Education</option>
+            							<option value="/content/blogs/inside-story/index.html?cmpid=tplnnv">From the editor</option>
+            							<option value="/content/blogs/a-look-back/index.html?cmpid=tplnnv">Local history</option>
+            							<option value="/content/blogs/medicine-health/index.html?cmpid=tplnnv">Medicine and health</option>
+            							<option value="/content/blogs/the-criminal-record/index.html?cmpid=tplnnv">Crime</option>
+            							<option value="/content/blogs/neighbor-news/index.html?cmpid=tplnnv">Neighborhoods</option>
+            							<option value="/content/blogs/crawlumbus/index.html?cmpid=tplnnv">Traffic</option>
+            							<option value="/content/blogs/the-daily-briefing/index.html?cmpid=tplnnvhp">Politics</option>
+            							<option value="/content/blogs/your-right-to-know/index.html?cmpid=tplnnv">Public records</option>
+            							<option value="/content/blogs/the-compass/index.html?cmpid=tplnnv">Religion</option>
+            							<option value="/content/blogs/science-environment/index.html?cmpid=tplnnv">Science and environment</option>
+            					    </select>
+            					    <ul>
+            					        <li><a href="/content/blogs/news/index.jsp?cmpid=tplnnv">News Blog Directory</a></li>
+                                    </ul>
+                                    <h6 class="alternate">Commentary</h6>
+                                    <ul>
+                                        <li><a href="/content/sections/news/columns/alan-miller.html?cmpid=tplnnv">Alan D. Miller</a></li>
+                                        <li><a href="/content/sections/news/columns/john-switzer.html?cmpid=tplnnv">John Switzer</a></li>
+                                    </ul>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+                    
+                    <!-- Sports Tab & Dropdown -->
+                    <li><a href="/content/sections/sports/index.html?cmpid=tplnnv" class="tiny button brand-color-2-bg global-nav-button">Sports</a>
+                        <!-- Sports Nav Dropdown -->
+                        <nav id="sports-dropdown" class=" global-nav-dropdown columns large-12">
+                            <header>
+<a href="/content/sections/services/rss-feeds.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">RSS Feeds</span>
+                    				<span class="icon-stack rss-icon">
+                    					<i class="icon-sign-blank icon-stack-base rss-color"></i>
+                    					<i class="icon-rss icon-light"></i>
+                    				</span>
+                    			</a>
+                                <a href="/content/pages/podcasts.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">Podcasts</span>
+                    				<span class="icon-stack">
+                    					<i class="icon-sign-blank icon-stack-base"></i>
+                    					<i class="icon-microphone"></i>
+                    				</span>
+                    			</a>
+                    			<hr />
+                            </header>
+
+                            <section class="row">
+                                <div class="columns large-3">
+                                    <h6 class="alternate">College Sports</h6>
+                                    <ul>
+                						<li><a href="http://buckeyextra.dispatch.com/content/?cmpid=tplnnvhp">Ohio State Sports<br/><small class="offsite-link">at BuckeyeXtra.com</small></a></li>
+                                        <li><a href="/content/sections/sports/colleges/index.html?cmpid=tplnnv">Other Colleges</a></li>
+                					</ul>
+                					
+                					<h6 class="alternate">High School</h6>
+                					<ul>
+            							<li><a href="/content/sections/sports/high-school/index.html?cmpid=tplnnv">High School Sports</a></li>
+            						</ul>
+                					
+                					<h6 class="alternate">Other Sports</h6>
+                					<ul>
+            							<li><a href="/content/sections/sports/outdoors/index.html?cmpid=tplnnv">Outdoors</a></li>
+            						</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                
+                                <div class="columns large-3">
+                                    <h6 class="alternate">Pro Sports</h6>
+                					<ul>
+            							<li><a href="http://bluejacketsxtra.dispatch.com/content/?cmpid=tplnnv">NHL: Blue Jackets<br/><small>at BlueJacketsXtra.com</small></a></li>
+            						</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                
+                                <div class="columns large-3">
+                                    <ul>
+                                        <li><a href="/content/sections/sports/crew/index.html?cmpid=tplnnv">MLS: Crew</a></li>
+                                        <li><a href="/content/sections/sports/clippers/index.html?cmpid=tplnnv">MiLB: Clippers</a></li>
+                                        <li><a href="/content/sections/sports/reds-indians/index.html?cmpid=tplnnv">MLB: Reds &amp; Indians</a></li>
+                                        <li><a href="/content/sections/sports/cavs/index.html?cmpid=tplnnv">NBA: Cavaliers</a></li>
+                                        <li><a href="/content/sections/sports/browns-bengals/index.html?cmpid=tplnnv">NFL: Bengals &amp; Browns</a></li>
+                                        <li><a href="/content/sections/sports/golf/index.html?cmpid=tplnnv">Golf</a></li>
+                                        <li><a href="/content/sections/sports/auto/index.html?cmpid=tplnnv">Auto Racing</a></li>
+                                    </ul>
+                                </div>
+                                                                
+                                <div class="divider"></div>
+            					
+            					<div class="columns large-3">
+            					    <h6 class="alternate">Sports Blogs</h6>
+            					    <select class="select-box js-link-list-select"> 
+            					        <option>-Browse by Sport-</option>
+            							<option value="http://bluejacketsxtra.dispatch.com/content/blogs/puck-rakers/index.html?cmpid=tplnnv">Blue Jackets</option>
+            							<option value="http://buckeyextra.dispatch.com/content/blogs/blogging-the-buckeyes/index.html?cmpid=tplnnv">Buckeye football</option>
+            							<option value="http://buckeyextra.dispatch.com/content/blogs/hoops-and-scoops/index.html?cmpid=tplnnv">Buckeye men's basketball</option>
+            							<option value="http://buckeyextra.dispatch.com/content/blogs/osu-womens-basketball/index.html?cmpid=tplnnv">Buckeye women's basketball</option>
+            							<option value="/content/blogs/minor-details/index.html?cmpid=tplnnv">Clippers</option>
+            							<option value="/content/blogs/covering-the-crew/index.html?cmpid=tplnnv">Crew</option>
+            							<option value="/content/blogs/swing-thoughts/index.html?cmpid=tplnnv">Golf</option>
+            							<option value="/content/blogs/high-school-sports/index.html?cmpid=tplnnv">High school sports</option>
+            							<optgroup label="Columnists">
+            								<option value="/content/blogs/arace-on-hockey/index.html?cmpid=tplnnv">Michael Arace</option>
+            								<option value="/content/blogs/the-daily-hunter/index.html?cmpid=tplnnv">Bob Hunter</option>
+            								<option value="/content/blogs/when-140-isnt-enough/index.html?cmpid=tplnnv">Rob Oller</option>
+            							</optgroup>
+            							<optgroup label="Buckeye Fans">
+            								<option value="http://buckeyextra.dispatch.com/content/blogs/notes-from-up-north/index.html?cmpid=tplnnv">Keith Godfrey</option>
+            								<option value="http://buckeyextra.dispatch.com/content/blogs/flying-high-with-the-buckeyes/index.html?cmpid=tplnnv">Heath Schneider</option>
+            								<option value="http://buckeyextra.dispatch.com/content/blogs/sports-and-the-city/index.html?cmpid=tplnnv">Tracy Wholf</option>
+            							</optgroup>
+            					    </select>
+            					    <ul>
+            					        <li><a href="/content/blogs/sports/index.jsp?cmpid=tplnnv">Sports Blog Directory</a></li>
+                                    </ul>
+                                    <h6 class="alternate">Commentary</h6>
+                                    <ul>
+										<li><a href="/content/sections/sports/columns/arace.html?cmpid=tplnnvhp">Michael Arace</a></li>
+										<li><a href="/content/sections/sports/columns/hunter.html?cmpid=tplnnvhp">Bob Hunter</a></li>
+										<li><a href="/content/sections/sports/columns/oller.html?cmpid=tplnnvhp">Rob Oller</a></li>
+									</ul>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+                    
+                    <!-- Opinion Tab & Dropdown -->
+                    <li><a href="/content/sections/opinion/index.html?cmpid=tplnnv" class="tiny button brand-color-3-bg global-nav-button">Opinion</a>
+                        <nav id="opinion-dropdown" class=" global-nav-dropdown columns large-12">
+                            <header>
+<a href="/content/sections/services/rss-feeds.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">RSS Feeds</span>
+                    				<span class="icon-stack rss-icon">
+                    					<i class="icon-sign-blank icon-stack-base rss-color"></i>
+                    					<i class="icon-rss icon-light"></i>
+                    				</span>
+                    			</a>
+                                <a href="/content/pages/podcasts.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">Podcasts</span>
+                    				<span class="icon-stack">
+                    					<i class="icon-sign-blank icon-stack-base"></i>
+                    					<i class="icon-microphone"></i>
+                    				</span>
+                    			</a>
+                    			<hr />
+                            </header>
+                            
+                            <section class="row">
+                                <div class="columns large-4">
+                                    <h6 class="alternate">Editorials</h6>
+                                    <ul>
+                						<li><a href="/content/sections/opinion/editorials/index.html?cmpid=tplnnv">Today's staff editorials</a></li>
+                                        <li><a href="/content/sections/opinion/archive/index.html?cmpid=tplnnv">7-day archive</a></li>
+                					</ul>
+                					
+                                    <h6 class="alternate">Editorial Cartoons</h6>
+                                    <ul>
+                						<li><a href="/content/sections/opinion/beeler-cartoons/index.html?cmpid=tplnnv">Recent Nate Beeler Cartoons</a></li>
+                                        <li><a href="/content/sections/opinion/beeler-cartoons/index.html?search=true#search?cmpid=tplnnv">Searchable Archive</a></li>
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                
+                                <div class="columns large-4">&nbsp;</div> 
+                                
+                                <div class="divider"></div>
+                                            					
+            					<div class="columns large-4">
+            					    <h6 class="alternate">Letters to the Editor</h6>
+                					<ul>
+                						<li><a href="/content/sections/opinion/letters-to-editor/index.html?cmpid=tplnnv">Today's letters and web-only letters</a></li>
+                						<li><a href="/content/sections/opinion/archive/30-day-archive.html?cmpid=tplnnv">30-day archive</a></li>
+                						<li><a href="/content/pages/opinion/send-letter-to-editor.jsp?cmpid=tplnnv">Submit your letter</a></li>
+                					</ul>
+                					
+                					<h6 class="alternate">Op-Ed Columns</h6>
+                					<ul>
+                						<li><a href="/content/sections/opinion/op-ed-columns/index.html?cmpid=tplnnv">Today's columns</a></li>
+                						<li><a href="/content/sections/opinion/archive/30-day-oped-archive.html?cmpid=tplnnv">30-day archive</a></li>
+                					</ul>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+                    
+                    <!-- Life Tab & Dropdown -->
+                    <li><a href="/content/sections/life-and-entertainment/index.html?cmpid=tplnnv" class="tiny button brand-color-4-bg global-nav-button">Life &amp; Entertainment</a>
+                        <nav id="life-dropdown" class=" global-nav-dropdown columns large-12">
+                            <header>
+<a href="/content/sections/services/rss-feeds.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">RSS Feeds</span>
+                    				<span class="icon-stack rss-icon">
+                    					<i class="icon-sign-blank icon-stack-base rss-color"></i>
+                    					<i class="icon-rss icon-light"></i>
+                    				</span>
+                    			</a>
+                                <a href="/content/pages/podcasts.html?cmpid=tplnnv">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span class="text">Podcasts</span>
+                    				<span class="icon-stack">
+                    					<i class="icon-sign-blank icon-stack-base"></i>
+                    					<i class="icon-microphone"></i>
+                    				</span>
+                    			</a>
+                    			<hr />
+                            </header>
+                            
+                            <section class="row">
+                                <div class="columns large-4">
+                                    <h6 class="alternate">Life Topics</h6>
+                					<ul>
+                						<li><a href="/content/sections/life-and-entertainment/contests.html?cmpid=tplnnv">Contests</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/fashion-and-style/index.html?cmpid=tplnnv">Fashion &amp; Style</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/food/index.html?cmpid=tplnnv">Food</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/home-and-garden/index.html?cmpid=tplnnv">Home &amp; Garden</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/horoscopes.html?cmpid=tplnnv">Horoscopes</a></li>
+                						<li><a href="http://www.dispatchclassifieds.com/pets?cmpid=tplnnvhp">Pets <small>DispatchClassifieds.com</small></a></li>
+                						<li><a href="/content/sections/life-and-entertainment/puzzles.html?cmpid=tplnnv">Puzzles</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/travel/index.html?cmpid=tplnnv">Travel</a></li>
+                						<li><a href="http://www.dispatch.com/savvyshopper?cmpid=tplnnv">Weekly Ads</a></li>
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+                                            					
+            					<div class="columns large-4">
+            					    <h6 class="alternate">Entertainment</h6>
+                					<ul>
+                						<li><a href="/content/sections/life-and-entertainment/books/index.html?cmpid=tplnnv">Books</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/celebrities/index.html?cmpid=tplnnv">Celebrities</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/dining/index.html?cmpid=tplnnv">Dining</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/events/index.html?cmpid=tplnnv">Events</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/movies/index.html?cmpid=tplnnv">Movies</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/music/index.html?cmpid=tplnnv">Music</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/television/index.html?cmpid=tplnnv">Television</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/theater/index.html?cmpid=tplnnv">Theater</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/video-games/index.html?cmpid=tplnnv">Video Games</a></li>
+                					</ul>
+            					</div>
+                                
+                                <div class="divider"></div>					
+            					
+					<!-- <div class="columns large-3">
+					    <h6 class="alternate">Upcoming Events <br /> <small>From ColumbusAlive.com</small></h6>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<?xml version="1.0" encoding="UTF-8"?><ul class="navevents"><li><dl/></li></ul>
+
+</div>
+            					
+            					<div class="divider"></div> -->
+            					
+            					<div class="columns large-4">                					
+                					<h6 class="alternate">Life Blogs</h6>
+            					    <select class="select-box js-link-list-select"> 
+            					        <option>-Browse by Topic-</option>
+            							<option value="/content/blogs/best-bike-blog/index.html?cmpid=tplnnvhp">Cycling</option>
+            							<option value="/content/blogs/in-the-kitchen/index.html?cmpid=tplnnvhp">Food</option>
+            							<option value="/content/blogs/now/index.html?cmpid=tplnnvhp">For kids</option>
+            							<option value="/content/blogs/from-the-gym/index.html?cmpid=tplnnvhp">Fitness</option>
+            							<option value="/content/blogs/regular-joe/index.html?cmpid=tplnnvhp">Joe Blundo</option>
+            							<option value="/content/blogs/the-movie-blog/index.html?cmpid=tplnnvhp">Pop culture</option>
+            							<option value="/content/blogs/old-house-handyman/index.html?cmpid=tplnnvhp">Old houses</option>
+            							<option value="/content/blogs/all-creatures/index.html?cmpid=tplnnvhp">Pets</option>
+            							<option value="/content/blogs/on-the-house/index.html?cmpid=tplnnvhp">Real estate</option>
+            							<option value="/content/blogs/theatre-talk/index.html?cmpid=tplnnvhp">Theater</option>
+            						</select>
+                					
+                					<ul>
+                						<li><a href="/content/blogs/entertainment/index.jsp?cmpid=tplnnv">Life &amp; Entertainment Blog Directory</a></li>
+                					</ul>
+                					
+                					<h6 class="alternate">Commentary</h6>
+                					<ul>
+                						<li><a href="/content/sections/life-and-entertainment/columns/joe-blundo.html?cmpid=tplnnv">Joe Blundo</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/columns/advice.html?cmpid=tplnnv">Advice Columns</a></li>
+                						<li><a href="/content/sections/life-and-entertainment/columns/first-person.html?cmpid=tplnnv">Reader Columns</a></li>
+                					</ul>
+                					
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+
+                    <!-- Services Tab & Dropdown -->
+                    <li><a href="/content/sections/services/index.html?cmpid=tplnnv" class="tiny button brand-grey-bg global-nav-button">Services</a>
+                        <nav id="services-dropdown" class="secondary global-nav-dropdown columns large-12">
+                                                        
+                            <section class="row">
+                                <div class="columns large-3">
+                                    <h6 class="alternate">Customer Service</h6>
+                					<ul>
+                						<li><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?cmpid=tplnnv">Manage Subscription</a></li>
+                						<li><a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">Live chat</a></li>
+                						<li>Call Service: 1-877-734-7728</li>
+                						<li>Call Billing: 1-866-790-7748</li>
+                					</ul>
+                					
+                					<h6 class="alternate">Subscription</h6>
+                					<ul>
+                						<li><a href="/content/links/subscriber-services/subscribe-for-home-delivery?cmpid=tplnnv">Home delivery</a></li>
+                						<li><a href="/content/sections/services/electronic-edition.html?cmpid=tplnnv">E-Edition</a></li>
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>				
+            					
+            					<div class="columns large-3">
+            					    <h6 class="alternate">Submissions</h6>
+                					<ul>
+                						<li><a href="/content/sections/services/index.html#obituaries?cmpid=tplnnv">Obituaries</a></li>
+                						<li><a href="/content/sections/services/index.html#in-memoriam?cmpid=tplnnv">In Memoriams</a></li>
+                						<li><a href="/content/sections/services/index.html#celebrations?cmpid=tplnnv">Celebration Announcements</a><br>(ceremonies, engagements, etc.)</li>
+                						<li><a href="/content/sections/services/index.html#letters-to-editor?cmpid=tplnnv">Letters to the Editor</a></li>
+                						<li><a href="/content/sections/services/index.html#submit-events?cmpid=tplnnv">Entertainment Events</a> at ColumbusAlive.com</li>
+                					</ul>
+            					</div>
+            					
+            					<div class="divider"></div>
+            					
+            					<div class="columns large-3">
+            					    <h6 class="alternate">Reader Rewards</h6>
+            					    <section class="type-list row image-title">
+<div class="columns large-12 item item-pointer ">
+			<figure class="image">
+				<a href="/content/links/reader-rewards/RR_Home" title="Current Rewards">
+							<img src="/content/images/dd-reader-rewards-logo.jpg" />
+						</a>
+					</figure>
+			<h4 class="title">
+				<a href="/content/links/reader-rewards/RR_Home" title="Current Rewards">
+					Current Rewards</a>
+			</h4>
+		</div>
+	</section>
+<select class="option-link-as-value select-box js-link-list-select">
+		<option>-Select An Option-</option>
+		<option value="/content/links/reader-rewards/Win_Prizes">Win Prizes</option>
+<option value="/content/links/reader-rewards/Get_Points">Earn Points</option>
+</select>
+</div>
+            					
+            					<div class="divider"></div>				
+            					
+            					<div class="columns large-3">
+            					    <h6 class="alternate">Advertising</h6>
+                					<ul>
+                						<li><a href="/content/links/services/advertising/place-an-ad?cmpid=tplnnv">Place an Ad</a></li>
+                						<li><a href="/content/links/nav/media-kit?cmpid=tplnnv">Media Kit</a></li>
+                					</ul>
+
+                					<h6 class="alternate">Other Services</h6>
+                					<ul>
+                						<li><a href="http://www.dispatch.com/savvyshopper?cmpid=tplnnv">Weekly Ads</a></li>
+                						<li><a href="http://www.dispatch.com/coupons?cmpid=tplnnv">Coupons</a></li>
+                						<li><a href="https://www.facebook.com/ColumbusSavvyShopper">Columbus Savvy Shopper</a></li>
+                						<li><a href="http://dispatchevents.com/">Dispatch Events</a></li>
+                						<li><a href="http://www.dispatchnie.com/">Newspapers in Education</a></li>
+                					</ul>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+
+                    <!-- Contact Tab & Dropdown -->
+                    <li><a href="/content/sections/contacts/index.html?cmpid=tplnnv" class="tiny button brand-grey-bg global-nav-button">Contact</a>
+                        <nav id="contact-dropdown" class="secondary global-nav-dropdown columns large-12">
+                            <header>
+                                <strong class="alternate">
+                                    <i class="icon-double-angle-right"></i>
+                                    <span>Need help? Visit our <a href="/content/sections/services/faq.html?cmpid=tplnnv" class="callout-link">FAQ page</a> or use our <a href="/content/sections/contacts/index.html" class="callout-link">Contact Form</a>.</span>
+                                </strong>
+                                
+                    			<hr />
+                            </header>
+                            
+                            <section class="row">
+                                
+                                <div class="columns large-4">
+                                    <h6 class="alternate">Customer Service</h6>
+                					<ul>
+                					    <li>Need help? Try our <a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">live chat</a>
+                					    or <a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp">online customer service</a>.</li>
+                					    <li>For service, call 1-877-734-7728.</li>
+                					    <li>For billing, call 1-866-790-7748.</li>
+                					    <li>For other inquiries, use our <a href="/content/sections/contacts/index.html?cmpid=tplnnv">Contact Form</a> or <a href="/content/sections/contacts/staff-directory/index.html">Staff Directory</a>.</li>
+                					</ul>
+                					
+                					<h6 class="alternate">Subscriptions</h6>
+                					<ul>
+                						<li>Subscribe to <em>The Dispatch</em> <a href="/content/links/subscriber-services/subscribe-for-home-delivery?cmpid=tplnnv">online</a> or call 1-877-734-7728.</li>
+                					</ul>
+                                </div>
+                                
+                                <div class="divider"></div>
+            					
+            					<div class="columns large-4">
+            					    <h6 class="alternate">Advertising</h6>
+                                    <ul>
+                                        <li>To place help wanted ads, call 614-888-8888 or visit <a href="http://www.columbusjobs.com">ColumbusJobs.com</a></li>
+                                        <li>For private seller and classified advertising, call 614-888-8888 or visit <a href="http://www.dispatchclassifieds.com">DispatchClassifieds.com</a>.</li>
+                                        <li>For retail advertising, call 614-461-5500 or <a href="mailto:solutions@dispatch.com">email us</a>.</li>
+                                        <li>For national advertising, call 614-461-5199.</li>
+                                        <li>For online advertising, call 614-461-5143 or <a href="mailto:solutions@dispatch.com">email us</a>.</li>
+                                    </ul>
+            					</div>
+            					
+            					<div class="divider"></div>				
+            					
+            					<div class="columns large-4">
+            					    <h6 class="alternate">Newsroom</h6>
+                                    <ul>
+                                        <li>To send news tips, use our <a href="/content/pages/newstip.html?cmpid=tplnnv">News Tip Form</a> or call 614-461-5200.</li>
+                                        <li>Visit our <a href="/content/sections/contacts/staff-directory/index.html?cmpid=tplnnv">Staff Directory</a>.</li>
+                                        <li>Use our <a href="/content/pages/contact-newsroom.html?cmpid=tplnnv">Contact Form</a>, or call 614-461-5200.</li>						
+                                    </ul>
+                                    <h6 class="alternate">Dispatch Careers</h6>
+                                    <ul>
+                                        <li>Visit <a href="http://www.dispatch.com/careers?cmpid=tplnnvhp">dispatch.com/careers</a> or call 614-461-5033.</li>
+                                        <li>Fax 614-461-5565.</li>	
+										<li>Interested in delivering <em>The Dispatch</em>? Check out <a href="http://www.dispatch.com/content/topic/circulation/index.html">dispatch.com/delivery</a> for independent contractor info.</li>
+                                    </ul>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+                     
+                    <!-- Subscription Tab & Dropdown -->
+                    <li><a href="https://ezpay.dispatch.com/content/catalogs/index.html" class="tiny button brand-grey-bg global-nav-button">Subscribe</a>
+                        <nav id="subscription-dropdown" class="secondary global-nav-dropdown columns large-12">
+                           
+                            <section class="row">
+                                <div class="columns large-4 subscription-promo-total-access">
+                                    <h6 class="alternate">Total Access</h6>
+                					<a href="/content/links/nav/subscription/combo?cmpid=tplnnv">
+                					    <img src="http://www.dispatch.com/content/digital/images/nav-subscription-combo.jpg" alt="Combo Package" />
+                					</a>
+                					<p>Enjoy the convenience of home delivery <em>plus</em> Digital D. Sign up for our BEST VALUE today!</p>
+                					<a href="/content/links/nav/subscription/combo?cmpid=tplnnv" class="button small round">Select</a>
+                                </div>
+                                
+                                <div class="divider"></div>
+            					
+            					<div class="columns large-8 subscription-promo">
+
+                                    <div class="row subscription-promo-e-edition">
+                					    <div class="columns large-4">
+                        					<a href="/content/links/nav/subscription/e-edition?cmpid=tplnnv">
+                        					    <img src="http://www.dispatch.com/content/digital/images/nav-subscription-e-edition.jpg" alt="E-Edition" />
+                        					</a>
+                        				</div>
+                                        <div class="columns large-8">
+                                            <h6 class="alternate">Digital D</h6>
+                                            <p>Online? On the go? Enjoy unlimited premium dispatch.com content plus the E-Edition for computer and iPad.</p>
+                                            <a href="/content/links/nav/subscription/e-edition?cmpid=tplnnv" class="button small round">Select</a>
+                					    </div>
+                                    </div>
+                                    
+                                    <hr/>
+                                    
+                                    <div class="row subscription-promo-home-delivery">
+                                        <div class="columns large-8"> 
+                                            <h6 class="alternate">Home Delivery</h6>
+                                            <p>Award-winning journalism conveniently delivered to your home. Choose the custom package best suited for you!</p>
+                                            <a href="/content/links/nav/subscription/home?cmpid=tplnnv" class="button small round">Select</a>
+                                        </div>
+                                        <div class="columns large-4">
+                                            <a href="/content/links/nav/subscription/home?cmpid=tplnnv">
+                                                <img src="http://www.dispatch.com/content/digital/images/nav-subscription-home.jpg" alt="Home Delivery" />
+                                            </a>
+                                        </div>
+                                    </div>
+            					</div>
+            					
+                            </section>   
+                        </nav>
+                    </li>
+                </ul> 
+            </nav>            
+        
+            <nav class="columns collapse right">
+                <ul class="inline-list">
+                    <li><a href="/content/pages/todays-paper/todayspaper-1.html?cmpid=tplnnv">Today's Paper</a></li>
+                    <li><a href="http://www.dispatch.com/savvyshopper?cmpid=tplnnv">Weekly Ads</a></li>
+                    <li><a href="/content/pages/video.html?cmpid=tplnnv">Video</a></li>
+                    <li><a href="/content/pages/photos.html?cmpid=tplnnv">Photos</a></li>
+                    <li><a href="/content/sections/news/databases.html?cmpid=tplnnv">Data</a></li>
+                    <li><a href="/content/links/external/obituaries?cmpid=tplnnv">Obituaries</a></li>
+                </ul>
+            </nav>
+
+        </nav>
+		
+		<section id="hot-links" class="large-12">
+			<div class="row">
+				<div class="columns large-12">
+					<div class="columns lable">
+						<i class="icon-double-angle-right"></i>
+						Hot Links:
+					</div>
+					<hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				no title</h5>
+			</hgroup>
+	<ul class="type-list inline-list bullet-default">
+<li class="item item-topic category-arts-lifestyle topic-arts_entertainment-fairs_and_festivals-state_fair">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/topic/ohio-state-fair.html" title="Ohio State Fair">
+					Ohio State Fair</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-education-k-12">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2015/07/31/Fired_pricipal_hearing.html" title="Fired principal">
+					Fired principal</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-business">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/business/2015/07/30/osu-trademarks-urban-meyer-name.html" title="Urban Meyer trademark">
+					Urban Meyer trademark</a>
+			</span>
+		</li>
+	<li class="item item-topic category-news topic-news">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/topic/news/columbus-answers.html" title="Columbus Answers series">
+					Columbus Answers series</a>
+			</span>
+		</li>
+	<li class="item item-topic topic-location-united_states">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/topic/news/2015/07/kasich.html" title="All about John Kasich">
+					All about John Kasich</a>
+			</span>
+		</li>
+	<li class="item item-pointer ">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/links/external/life-entertainment/tv-listings" title="TV Listings">
+					TV Listings</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2015/07/31/girl-drowning.html" title="Linden girls drowns in CA">
+					Linden girls drowns in CA</a>
+			</span>
+		</li>
+	</ul>
+</div>
+		</section>
+		
+    </header>
+    
+    
+
+    
+
+		
+		
+		
+		
+	
+		
+			<div    class="adunit  pencil"    data-dimensions="1000x30"  data-targeting='{"pos":"atf"}'></div>
+		
+			<div    class="adunit  postit"    data-dimensions="250x250"  data-targeting='{"pos":"atf"}'></div>
+		
+		
+		
+			
+			
+				
+				
+				
+				
+				
+				
+			
+		
+
+		<section id="main" class="row">
+
+			<section id="content-wrap">
+			
+					
+		
+
+
+
+
+
+<div itemscope itemtype="http://schema.org/Article" id="story-wrap" class="row">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+	<ul id="bread-crumbs" class="columns large-12 inline-list">
+		<li class="bread-crumb-home"><a href="/content/index.html" class="color">Home</a></li>
+		
+			
+			
+				
+						
+				
+				
+				
+				
+					
+					
+					<li><i class="icon-double-angle-right"></i>
+									
+						
+							
+								<a href="/content/sections/news/index.html" class="color" itemprop="articleSection">News</a>
+							
+							
+							
+						
+					</li>
+				
+				
+				
+			
+			
+				
+						
+				
+				
+				
+				
+					
+					
+					<li><i class="icon-double-angle-right"></i>
+									
+						
+							
+								<a href="/content/sections/news/crime/index.html" class="color" itemprop="articleSection">Crime and Safety</a>
+							
+							
+							
+						
+					</li>
+				
+				
+				
+			
+			
+			
+		
+	</ul>
+	
+<hgroup id="page-title" class="columns large-12">
+<h1 itemprop="name">South Linden 7-year-old drowns in California </h1>
+	</hgroup> <!-- END #page-title -->
+<aside id="secondary-rail" class="columns large-3 small-12">
+
+        
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+		
+		
+			
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+			
+			
+			
+			
+			
+		
+	
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+			
+				<hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				Crime & Safety Headlines</h5>
+			</hgroup>
+	<ul class="type-list no-bullet large-12 collapse bullet-default">
+<li class="item item-story category-news topic-news-science-animals">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/national_world/2015/08/01/second-lion-killed.html" title="Cecil the lion's brother reported safe after all">
+					Cecil the lion's brother reported safe after all</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-crime_and_safety-emergenciesincidents">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/national_world/2015/07/31/discovery-might-not-solve-plane-mystery.html" title="Discovery might not solve plane mystery">
+					Discovery might not solve plane mystery</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2015/07/31/pizza-robbery-folo.html" title="Brother remembers slain pizza driver as hard-working">
+					Brother remembers slain pizza driver as hard-working</a>
+			</span>
+		</li>
+	</ul>
+
+				<a href="/content/sections/news/crime/index.html" class="more-link">More Crime&Safety</a>
+			
+				
+				
+			<div class="content-separator"></div>
+			
+			
+			
+				<hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				Crime Stoppers</h5>
+			</hgroup>
+	<ul class="type-list no-bullet large-12 collapse bullet-default">
+<li class="item item-story category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2015/07/27/police-seek-man-who-stole-1000-in-games.html" title="Police seek man who stole $1,000 in video games">
+					Police seek man who stole $1,000 in video games</a>
+			</span>
+		</li>
+	<li class="item item-story category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2015/07/20/crime-stoppers-one-man-suspected-in-6-store-holdups.html" title="One man suspected in 6 store holdups in Hilliard, Columbus">
+					One man suspected in 6 store holdups in Hilliard, Columbus</a>
+			</span>
+		</li>
+	</ul>
+
+				<a href="/content/sections/news/crime/crimestoppers-archive.html" class="more-link">More Crimestoppers</a>
+			
+				
+				
+			<div class="content-separator"></div>
+			
+			
+			
+				<hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				Crime Databases</h5>
+			</hgroup>
+	<ul class="type-list no-bullet large-12 collapse bullet-default">
+<li class="item item-topic category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/pages/data/crime-safety/homicide/homicides.html" title="Columbus homicides">
+					Columbus homicides</a>
+			</span>
+		</li>
+	<li class="item item-topic category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/pages/data/crime-safety/death-row-inmates/death-row-inmates.html" title="Ohio's death row">
+					Ohio's death row</a>
+			</span>
+		</li>
+	<li class="item item-topic category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/pages/data/crime-safety/crime-stats/crime-stats.html" title="FBI crime statistics">
+					FBI crime statistics</a>
+			</span>
+		</li>
+	</ul>
+
+				<a href="/content/pages/data/crime-safety/index.html" class="more-link">More Databases</a>
+			
+				
+				
+			<div class="content-separator"></div>
+			
+			
+			
+				<hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				Continuing stories</h5>
+			</hgroup>
+	<ul class="type-list no-bullet large-12 collapse bullet-default">
+<li class="item item-topic category-news topic-news-crime_and_safety">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/topic/special-reports/unsolved.html" title="Killers among us: Unsolved homicides">
+					Killers among us: Unsolved homicides</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-columbus">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="/content/stories/local/2011/07/17/arrestsdown-art-gcbdd3qm-1.html" title="Serious crime arrests at 10-year low">
+					Serious crime arrests at 10-year low</a>
+			</span>
+		</li>
+	</ul>
+
+				<a href="/content/pages/special-reports.html" class="more-link">More Ongoing Stories</a>
+			
+				
+				
+			<div class="content-separator"></div>
+				
+			
+			
+				<hgroup class="columns large-12 collapse">
+			<h5 class="color">Local Stories from ThisWeek</h5>
+		</hgroup>
+		<ul class="type-list no-bullet large-12 collapse bullet-default">
+<li class="item item-story topic-location-united_states-ohio-franklin-columbus-northwest">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/2015/07/31/odot-to-begin-working-at-i-270-route-315-aug-3.html" title="ODOT to start work at 270-315 Aug. 3">
+					ODOT to start work at 270-315 Aug. 3</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-columbus">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/northland/news/2015/07/31/columbus-officials-support-hotel-licensing-proposal.html" title="Columbus officials support hotel-licensing proposal">
+					Columbus officials support hotel-licensing proposal</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-gahanna">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/gahanna/news/2015/07/31/group-falls-short-in-gahanna-piggyback-tax-effort.html" title="Group comes up short to place parks-rec levy on ballot">
+					Group comes up short to place parks-rec levy on ballot</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-grove_city">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/grovecity/news/2015/07/30/mount-carmel-wests-move-to-grove-city-launched.html" title="Mount Carmel West's move to Grove City launched">
+					Mount Carmel West's move to Grove City launched</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-grove_city">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/grovecity/news/2015/07/28/local-history-enthusiast-dies-at-82.html" title="Local history enthusiast dies at 82">
+					Local history enthusiast dies at 82</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-grove_city">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/grovecity/news/2015/07/28/city-will-spend-350k-to-design-beulah-projects.html" title="City will spend $350K to design Beulah projects">
+					City will spend $350K to design Beulah projects</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-columbus-northland">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/northland/news/2015/07/27/hearing-set-on-plan-that-could-spur-hotel-crackdown.html" title="Hearing set on plan that could spur hotel crackdown">
+					Hearing set on plan that could spur hotel crackdown</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-licking">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/lickingcounty/news/2015/07/27/tax-credit-authority-agenda-reveals-amazon-is-eyeing-etna-land.html" title="Amazon eyeing land in Etna, Obetz for fulfillment center">
+					Amazon eyeing land in Etna, Obetz for fulfillment center</a>
+			</span>
+		</li>
+	<li class="item item-story topic-location-united_states-ohio-franklin-new_albany">
+			<span class="title">
+				<i class="icon-double-angle-right color"></i>
+				<a href="http://www.thisweeknews.com/content/stories/newalbany/news/2015/07/27/country-pop-acts-to-perform-sept--20-at-classic.html" title="Country, pop acts to perform Sept. 20 at Classic">
+					Country, pop acts to perform Sept. 20 at Classic</a>
+			</span>
+		</li>
+	</ul>
+<hgroup class="columns large-12 collapse">
+			<h5 class="color">More Articles</h5>
+			<a href="http://www.thisweeknews.com/content/index.html"><img src="http://www.thisweeknews.com/content/digital/images/twn-logo.png" /></a>
+		</hgroup>
+	
+			
+			
+				
+		
+		
+		
+			
+		
+	
+
+
+
+
+</aside><!-- END secondary-rail -->
+
+<section id="content" class="columns small-12 large-9">
+<div id="story-author" class="columns large-12 ">
+
+	<strong>By </strong>
+				<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+					<a href="mailto:jwoods@dispatch.com"><span itemprop="name" class="author-name">Jim Woods</span></a>
+						</span>
+			<span class="org-timestamp">
+			<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+					<span itemprop="name" class="author-organization">The Columbus Dispatch</span>
+				</span>
+				<span class="bullet">&nbsp;&bull;&nbsp;</span> 
+			<span class="timestamp"><span itemprop="datePublished">Saturday August 1, 2015 5:38 AM</span></span>
+		</span>
+	</div><script type="text/javascript">
+		var switchTo5x=true;
+		(function() {
+			var stscr = document.createElement('script'); stscr.type = 'text/javascript'; stscr.async = true;
+			stscr.src ="http://w.sharethis.com/button/buttons.js";
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(stscr, s);
+			stscr.onload=stCB;
+			stscr.onreadystatechange=function(){if(stscr.readyState=='loaded'){stCB();}};
+		})();
+		function stCB(){
+			stLight.options({
+				publisher: "3b385b71-49e1-4013-8507-ae1e8e4ed970",
+				doNotHash: true,
+				doNotCopy: true,
+				hashAddressBar: false,
+				onhover: false
+			});
+		}
+	</script>
+	
+	<div class="dmg-sharing columns large-12 collapse">
+		<ul>
+			<li class="facebook">
+				<span class='st_facebook_hcount' displayText='Facebook'></span>
+			</li>
+			<li class="tweet">
+				<span class='st_twitter_hcount' displayText='Tweet' st_via='DispatchAlerts'></span>
+			</li>
+			<li class="sharethis">
+				<span class='st_sharethis_hcount' displayText='ShareThis'></span>
+			</li>
+		</ul>
+	</div>
+<figure class="image-container-top middle vertical">
+		<div class="image-wrap">
+
+			
+			
+			<a href='/content/graphics/2015/07/31/annie-palmer.jpg' rel='lightbox' title='<figcaption class="caption">Annielee Sweet Pea Palmer </figcaption>
+				<a href="http://columbusdispatch.mycapture.com/mycapture/photoRequestForm.asp" class="photostore-link" target="_blank">Request to buy this photo</a>' class=''>
+			    <!-- START Image for google search -->
+		    		<!-- END Image for google search -->
+		    	
+			   	<img src="/content/graphics/2015/07/31/annie-palmer.jpg?__scale=w:660,h:612,t:1,c:ffffff,q:80,r:1" width="660" height="612" /><span class="lightbox-text">
+	        		    <i class="icon-plus"></i>
+	        		    <span>Enlarge Image</span>
+	        		</span>
+	    		</a>
+			<a href="http://columbusdispatch.mycapture.com/mycapture/photoRequestForm.asp" class="photostore-link" target="_blank">Request to buy this photo</a><figcaption class="caption">Annielee Sweet Pea Palmer </figcaption>
+				</div>
+	</figure> <!-- END - image-container-top middle vertical -->
+<article id="story-body" itemprop="articleBody">
+	    <p>
+<br />A 7-year-old girl from South Linden who was visiting her grandparents in southern California
+drowned in a canal there this week.
+<br />
+<br />The body of Annielee Sweet Pea Palmer was recovered from the Coachella Canal on Thursday
+morning. The canal diverts water from the Colorado River to serve desert communities in southern
+California near the Mexican border.
+<br />
+<br />Annielee went missing on Tuesday evening near Niland, Calif., when she either was swimming in
+the water or fell into the canal, said Sgt. Jimmy Duran of the Imperial County sheriff’s office.
+<br />
+<br />Jessica Williams, who lives on the North Side and is Annielee’s aunt, said she understands
+that Annielee fell into the water and tried to hold onto a buoy. She said somebody tried to jump in
+to save her, but Annielee slipped off the buoy and disappeared into the flowing water.
+<br />
+<br />The body was found in Riverside County, Calif., more than 10 miles downstream from the
+original spot where she went into the water, Duran said.
+<br />
+<br />The Imperial County sheriff’s office charged Annielee’s step-grandfather, Heinrich Paul
+Boykins, 56, of California, with manslaughter and child neglect.
+<br />
+<br />Duran said he couldn’t elaborate on why the particular charges were filed, but said that
+Boykins was responsible for watching the girl. The canal also is a no-swimming area and considered
+to be dangerous because of its swift current.
+<br />
+<br />“Everybody knows that.,” Duran said. “There are signs everywhere.”
+<br />
+<br />Ebony Palmer, Annielee’s mother, said she still is trying to sort out what happened.
+<br />
+<br />“They should have been nowhere near that canal,” Palmer said. “It’s dangerous.”
+<br />
+<br />Palmer said that Annielee’s middle name &ndash; “Sweet Pea” &ndash; turned out to be an accurate
+description of her sweet character.
+<br />
+<br />“She was so smart and loving,” Palmer said. When Annielee sensed that people were down, she
+would hug them, Palmer said. She would have been going into the third grade at North Linden
+Elementary School.
+<br />
+<br />In addition to her mother, Annielee is survived by her father and two sisters.
+<br />
+<br />Williams said the family is trying to raise money to help bring the body of Annielee back to
+Columbus and to pay for her funeral and burial. Money can be donated by going to: 
+<a href="http://www.gofundme.com/4c8zkth8z8z" target="_blank">www.gofundme.com/4c8zkth8z8z</a></p>
+<p>
+<a href="http://www.twitter.com/Woodsnight" target="_blank">@Woodsnight</a>
+</p></article> <!-- END #story-body -->
+<div id="share-block-bottom">
+        <div class="share-block clearfix">
+        	<ul>	
+        		<li id="toolbar-favs" class="favorites"><a href="#favorite">Favorite</a></li>
+        		<li class="print">
+        		    <a href="#print" id="printpage" onClick="window.print();return false;"><span>Print Story</span></a>
+                </li>	
+				<li>
+					<span class='st_email_hcount' displayText='Email'></span>
+				</li>
+        	</ul>
+        		
+        </div>
+    </div>
+		<script>
+		function loginPage() {
+			var loginPage="/content/system/modules/com.dispatch.registration/pages/login.jsp?sendback=";
+			var pageUrl=window.location.href
+			pageUrl = pageUrl.substr(pageUrl.indexOf("content") + 7);
+			pageUrl = pageUrl.replace( new RegExp( "/", "g" ), "%2F" );
+			var loginPage=loginPage.concat(pageUrl);
+			window.location.href=loginPage;
+			//alert(loginPage);
+			}
+		</script>
+	<script type="text/javascript">
+  			window._taboola = window._taboola || [];
+ 			_taboola.push({article:'auto'});
+  			!function (e, f, u) {
+    			e.async = 1;
+    			e.src = u;
+    			f.parentNode.insertBefore(e, f);
+  			}(document.createElement('script'),
+  			document.getElementsByTagName('script')[0],
+  			'http://cdn.taboola.com/libtrc/dispatch-dispatch/loader.js');
+		</script> 
+		
+		<div id="taboola-below-article-thumbnails"></div>
+			<script type="text/javascript">
+  				window._taboola = window._taboola || [];
+  				_taboola.push({
+    				mode: 'thumbnails-a',
+    				container: 'taboola-below-article-thumbnails',
+    				placement: 'Below Article Thumbnails',
+    				target_type: 'mix'
+  				});
+			</script> 
+			<script type="text/javascript">
+  				window._taboola = window._taboola || [];
+  				_taboola.push({flush: true});
+			</script> 
+
+<div id="circularhub_module_2505"></div><script src="//api.circularhub.com/2505/6a30c3054563b03c/circularhub_module.js"></script>
+				<div id="fb-root"></div>
+    <script>
+    var facebook_app_id = jQuery('meta[property="fb:app_id"]').attr('content');
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#version=v2.3&xfbml=1&appId="+facebook_app_id;
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <div id="comment-wrapper" style="position:relative; z-index:1002;">
+    <script>
+    var cnt_width = jQuery('#comment-wrapper').width();
+    if (cms_comments_disabled!='true') {
+      document.write("<div class=\"fb-comments\" data-href=\""+window.location.href+"\" data-version=\"v2.3\" data-num-posts=\"5\" data-width=\""+cnt_width+"\" colorscheme=\"light\"></div>");
+    }
+    </script>
+    </div>
+	
+</section> <!-- END #content -->
+</div> <!-- END #story-wrap -->
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+    
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+			
+
+    		</section> <!-- END #content-wrap -->
+
+            
+			
+            <div class="nocontent">
+    			
+    			
+    				
+
+
+<aside id="primary-rail">
+
+
+
+
+
+	
+		<div class="ad-group">
+				<div    class="adunit  box"    data-dimensions="300x250,300x600,300x1050"  data-targeting='{"pos":"atf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		<div class="content-separator"></div>
+
+<section class="type-list row image">
+<div class="columns large-12 item item-pointer ">
+			<figure class="image">
+				<a href="/content/links/subscriber-services/subscription-promo">
+							<img src="/content/images/marketing/promos/300x75_scarf.jpg?__scale=w:300,h:75,t:2,p:6,q:80,r:1" width="300" height="75" /></a>
+					</figure>
+		</div>
+	</section>
+<div class="content-separator"></div>
+
+<div id="video" class="group">
+        <h6 class="alternate news-color">News Video
+        <a class="read-more" href="/content/pages/video.html"><i class="icon-double-angle-right news-color"></i>More Videos</a></h6>
+        <div id="video-container-rail" class="video-player">
+            <!-- Ooyala Namespace: Recent_News_Videos -->
+
+
+
+
+
+<section class="type-mediaplayer row playlist-bottom">
+<script type="text/javascript" src="http://player.ooyala.com/v3/3f721b6f85e5443494b8b3ffa650b90d?wmode=transparent&namespace=ooRecent_News_Videos"></script>
+<script type="text/javascript">
+	var ooyalaUrl = "http://player.ooyala.com/v3/"+"3f721b6f85e5443494b8b3ffa650b90d"+"?wmode=transparent&namespace=oo"+"Recent_News_Videos";
+	$(document).ajaxComplete(function(){
+		$.getScript(ooyalaUrl);
+	})
+</script>
+<div id="player_Recent_News_Videos_container" class="dmg responsive js-dmg-media-player-container" data-dmg-media-player-rid="Recent_News_Videos"></div>
+	
+	<script>
+
+		
+	
+	
+		var environmentCheck = window.location.host;
+		
+				var urlPrefix = "www";
+				if ( environmentCheck.indexOf("digitalbuild") != -1 ) urlPrefix = "digitalbuild";
+				if ( environmentCheck.indexOf("redtailqa") != -1 ) urlPrefix = "redtailqa";
+				if ( environmentCheck.indexOf("redtailuat") != -1 ) urlPrefix = "redtailuat";
+			
+		window.settings_Recent_News_Videos = {
+				container         : "#player_Recent_News_Videos_container"
+			  , currentSite       : "dispatch"
+			  , currentUrl        : "/digital/video/300-video-player-news.html"
+			  , randomId          : "Recent_News_Videos"
+			  , playerName        : "player_Recent_News_Videos"
+			  , videoPlayerFormat : "landscape"
+			  , ooLib             : "ooRecent_News_Videos"
+		 	  , videoPlayerId     : "3f721b6f85e5443494b8b3ffa650b90d"
+			  , mediaType         : "video"
+			  , playerSize        : [, ]
+			  , playerSizeString  : "responsive"
+			  , baseUrl           : urlPrefix + ".dispatch.com/content"
+			  , embedPage         : "/mediaplayer/embed.html"
+			  , videoPage         : "/pages/video.html"
+			  , displayPlaylist   : true
+			  , autoPlayPlaylist  : false
+			  , hideSharing       : false
+			  , embeddedPlayer    : false
+			  , playlistContainer : ""
+			  , setPlaylistWidth  : true
+			  , onEmbedPage       : false
+				  , media             : 
+{
+"name":"",
+"playlist":[
+	
+		{
+			"pos"             : 0, 
+			"media"           : "/content/videos/2015/07/31/a-look-inside-the-fairs-dairy-barn.xml",
+			"title"           : "A look inside the fair's dairy barn",
+			"image"           : "/content/videos/2015/07/31/cows2.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "5tY2dtdjqttuzURlPH_1z_gcerUDcm9M",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 1, 
+			"media"           : "/content/videos/2015/08/01/remembering-amos-lynch.xml",
+			"title"           : "Remembering Amos Lynch",
+			"image"           : "/content/graphics/2015/08/01/Lynch_Funeral_EJA10.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "RmYzBudjpd-fL41GyMkXyHo-IFtFiQ28",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 2, 
+			"media"           : "/content/videos/2015/07/31/raw-dashcam-footage-before-crash.xml",
+			"title"           : "RAW: Dashcam Footage Before Crash",
+			"image"           : "/content/videos/2015/07/31/raw-dashcam-footage-before-crash.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "51bG9sdjrCesFKIHfTTM2g0ipODSLHRp",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/crime_and_safety/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 3, 
+			"media"           : "/content/videos/2015/07/29/kasichs-day-at-the-fair.xml",
+			"title"           : "Kasich's day at the fair",
+			"image"           : "/content/videos/2015/07/29/kasichs-day-at-the-fair.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "psaHNrdjppRpOAQm8M_rFijOXC6nk4ko",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/politics/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 4, 
+			"media"           : "/content/videos/2015/07/29/i-didnt-do-this-for-the-attention.xml",
+			"title"           : "Cougar petter: 'I didn't do this for the attention'",
+			"image"           : "/content/videos/2015/07/29/i-didnt-do-this-for-the-attention.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "Y1NHBrdjqRjf3zslet89R21ga028i0vN",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 5, 
+			"media"           : "/content/videos/2015/07/27/the-real-life-mermaid.xml",
+			"title"           : "The real-life mermaid",
+			"image"           : "/content/videos/2015/07/27/the-real-life-mermaid.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "BoajVqdjoz9Se_KLd15a_r_Rn2pAP9Ln",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/arts_entertainment/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 6, 
+			"media"           : "/content/videos/2015/07/25/farmer-roundup-is-best-for-killing-weeds.xml",
+			"title"           : "Farmer: Roundup is best for killing weeds",
+			"image"           : "/content/videos/2015/07/25/farmer-roundup-is-best-for-killing-weeds.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "U1bHRodjrUV2vIkZD1b3BDP_iMTpt1AU",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/business/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 7, 
+			"media"           : "/content/videos/2015/06/22/bird-skinning-and-stuffing.xml",
+			"title"           : "Bird skinning and stuffing",
+			"image"           : "/content/videos/2015/06/22/bird-skinning-and-stuffing-thumb-30000.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "Vxdjd0dTpTksdA-wusxVaGss2N1YtKbR",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/science/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 8, 
+			"media"           : "/content/videos/2015/07/23/longaberger2.xml",
+			"title"           : "Longaberger Bee returns",
+			"image"           : "/content/videos/2015/07/23/longaberger2-thumb-30000.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "NjNWZndjqc85o3TMwHkwMFF9FAFMByta",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/business/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 9, 
+			"media"           : "/content/videos/2015/07/22/playing-in-little-darby-creek.xml",
+			"title"           : "Playing in Little Darby Creek",
+			"image"           : "/content/videos/2015/07/22/darby-creek.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "RlMmlldjqD6V0mfqEv_FRoUZcITUNa1l",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 10, 
+			"media"           : "/content/videos/2015/07/21/kasich-kicks-off-campaign-at-ohio-union.xml",
+			"title"           : "Kasich kicks off campaign at Ohio Union",
+			"image"           : "/content/videos/2015/07/21/kasich-kicks-off-campaign-at-ohio-union.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "U1MDVldjpPBpvu2sV2ADLvflKa05cm7B",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/politics/elections/campaigns/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 11, 
+			"media"           : "/content/videos/2015/07/21/chairman-of-the-ohio-democratic-party-david-peppers-response-to-kasichs-announcement.xml",
+			"title"           : "Democratic Party chair responds to Kasich",
+			"image"           : "/content/videos/2015/07/21/chairman-of-the-ohio-democratic-party-david-peppers-response-to-kasichs-announcement.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "BycTNldjrMkqGQMjyRJ8yuSNlKk7EzBq",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 12, 
+			"media"           : "/content/videos/2015/07/21/highlights-of-kasich-announcement.xml",
+			"title"           : "Highlights of Kasich announcement",
+			"image"           : "/content/videos/2015/07/21/highlights-of-kasich-announcement.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "5seXdkdjrfDXMJbKQI7tJGeBkmPBwoZ-",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/location/united_states/ohio/franklin/columbus/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 13, 
+			"media"           : "/content/videos/2015/07/20/search-for-missing-stepbrothers.xml",
+			"title"           : "Search for missing half-brothers",
+			"image"           : "/content/videos/2015/07/20/search-for-missing-stepbrothers-thumb-30000.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "5xd29jdjqn-3ed0qMg3F7XSB7gcQV5Dw",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 14, 
+			"media"           : "/content/videos/2015/07/20/church-group-loads-20-tons-of-potatoes.xml",
+			"title"           : "Church group bags more than 20 tons of potatoes for local food pantries",
+			"image"           : "/content/videos/2015/07/20/church-group-loads-20-tons-of-potatoes.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "9laHBjdjr7F51SGawDuPr41iUZU2Wmns",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		},
+		{
+			"pos"             : 15, 
+			"media"           : "/content/videos/2015/07/13/tiny-cabin-a-192-square-foot-retreat.xml",
+			"title"           : "Tiny cabin a 192-square-foot retreat",
+			"image"           : "/content/videos/2015/07/13/tiny-cabin-a-192-square-foot-retreat.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "81eXQ2djrf4IdIKmc11WHgL1sAD1KGLe",
+			"adSetCode"       : "58d1b81e3b0a4dfcbd22ef8cba2c69b7",
+			"category"        : "/topic/lifestyle/home/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2015/07/31/girl-drowning.html",
+			"parentAdSet"     : "true",
+			"mediaPlayerUri"  : "",
+			"storyLink"       : "??? VideoStoryLink ???"
+		}], 
+"size":"16"
+}
+			};
+
+		window.dmgMediaPlayers = window.dmgMediaPlayers || {};
+		window.dmgMediaPlayers['Recent_News_Videos'] = window.settings_Recent_News_Videos;
+		
+		</script>
+
+	</section>
+</div>
+    </div> <!-- END video -->
+<div class="content-separator"></div>
+
+
+<div id="most-popular-container" class="js-most-popular-container">
+		<div class="section-container tabs" data-section="tabs">
+		
+			<section class="tab1 active">
+				<p class="title" data-section-title><a href="#panel1">Most Popular</a></p>
+				<div class="content" data-section-content>
+					<ol id="most-popular-list">
+					
+					<li><a href="/content/stories/business/2015/07/30/osu-trademarks-urban-meyer-name.html">Ohio State gets trademark for name ‘Urban Meyer’</a></li>
+							<li><a href="/content/stories/local/2015/07/31/world-war-ii-vet-carried-reminder-for-life.html">Marion Gray | 1919-2015: Shrapnel remained inside decorated World War II vet for rest of life</a></li>
+							<li><a href="/content/stories/local/2015/07/30/huffmans-liquor-license.html">With creative contract, Huffman’s Market transfers liquor license to Kroger</a></li>
+							<li><a href="/content/stories/local/2015/07/31/three-paid-for-football-trip-after-bribe-probe.html">Three on Columbus council paid for football trip after bribe probe revealed</a></li>
+							<li><a href="/content/stories/local/2015/07/31/Bicyclist-seriously-hurt-in-hit-skip.html">Bicyclist training for Pelotonia seriously hurt in hit-skip</a></li>
+							</ol>
+				</div>
+			</section>
+			
+			<section class="tab2">
+				<p class="title" data-section-title><a href="#panel2">Most Shared</a></p>
+				<div class="content" data-section-content>
+					<i class="icon-spinner icon-spin icon-large"></i>
+				</div>
+			</section>
+			
+		</div>
+		
+		<ul class="popular-links inline-list js-most-popular-links">
+    	<li class="js-most-popular-links-latest">
+    		<i class="icon-double-angle-right"></i><a href="/content/sections/news/latest-headlines.html">Latest Headlines</a>
+    	</li>
+    	<li class="js-most-popular-links-today">
+    		<i class="icon-double-angle-right"></i><a href="/content/pages/todays-paper/todayspaper-1.html">Today's Paper</a>
+    	</li>
+    	<li class="js-most-popular-links-top">
+    		<i class="icon-rss"></i><a href="/content/sections/services/rss-feeds.html">Top Story Feed</a>
+    	</li>
+    </ul>
+    
+	</div>
+<div class="content-separator"></div>
+
+<div class="ad-group">
+				<div    class="adunit  tower"    data-dimensions="160x600,300x600,300x250"  data-targeting='{"pos":"stf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		<div class="content-separator"></div>
+
+<div id="dispatch-blogs">
+        <hgroup class="columns large-12 collapse type-list ">
+			<h5 class="color">
+				News Blogs</h5>
+			</hgroup>
+	<section class="type-list row square-image-title-abstract">
+<div class="columns large-12 item item-blogentry category-news topic-news-business">
+		<div class="row">
+			<div class="large-2 left image">
+					<a href="/content/blogs/product-recalls/2015/07/Nvidia-recalls-Shield-tablets.html" title="Nvidia recalls Shield tablets due to battery concerns">
+								<img src="/content/digital/images/blogs/blog-icons/icon-blog-recalls.jpg" />
+							</a>
+						</div>
+			<div class="columns large-10">
+				<h6 class="blog-title">Product recalls</h6>
+				<h6 class="title">
+					<a href="/content/blogs/product-recalls/2015/07/Nvidia-recalls-Shield-tablets.html" title="Nvidia recalls Shield tablets due to battery concerns">
+								Nvidia recalls Shield tablets due to battery concerns</a>
+						</h6>
+				<div class="description">
+						Nvidia said it would replace Shield tablets with battery types that test Y01...</div>
+				</div>
+		</div>
+	</div>
+<div class="columns large-12 item item-blogentry category-news topic-news-education">
+		<div class="row">
+			<div class="large-2 left image">
+					<a href="/content/blogs/the-eteam/2015/07/state-tests.html" title="Ohio state officials release details on testing, safe harbor rules">
+								<img src="/content/digital/images/blogs/blog-icons/icon-blog-education.jpg" />
+							</a>
+						</div>
+			<div class="columns large-10">
+				<h6 class="blog-title">The E-Team</h6>
+				<h6 class="title">
+					<a href="/content/blogs/the-eteam/2015/07/state-tests.html" title="Ohio state officials release details on testing, safe harbor rules">
+								Ohio state officials release details on testing, safe harbor rules</a>
+						</h6>
+				<div class="description">
+						Ohio students will take new, shorter state exams in April and sample test...</div>
+				</div>
+		</div>
+	</div>
+<div class="columns large-12 item item-blogentry category-news topic-news-politics">
+		<div class="row">
+			<div class="large-2 left image">
+					<a href="/content/blogs/the-daily-briefing/2015/07/7-31-2015-new-kasich-ad.html" title="Kasich super PAC launches ad in New Hampshire">
+								<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg" />
+							</a>
+						</div>
+			<div class="columns large-10">
+				<h6 class="blog-title">The Daily Briefing</h6>
+				<h6 class="title">
+					<a href="/content/blogs/the-daily-briefing/2015/07/7-31-2015-new-kasich-ad.html" title="Kasich super PAC launches ad in New Hampshire">
+								Kasich super PAC launches ad in New Hampshire</a>
+						</h6>
+				<div class="description">
+						Ad compares Kasich's experience to Clinton and Obama</div>
+				</div>
+		</div>
+	</div>
+<div class="columns large-12 item item-blogentry category-news topic-news">
+		<div class="row">
+			<div class="large-2 left image">
+					<a href="/content/blogs/the-bottom-line/2015/07/kroger-celebrates-local.html" title="Kroger to celebrate local farmers and suppliers">
+								<img src="/content/blogs/the-bottom-line/images/blog-icon-business.jpg" />
+							</a>
+						</div>
+			<div class="columns large-10">
+				<h6 class="blog-title">The Bottom Line</h6>
+				<h6 class="title">
+					<a href="/content/blogs/the-bottom-line/2015/07/kroger-celebrates-local.html" title="Kroger to celebrate local farmers and suppliers">
+								Kroger to celebrate local farmers and suppliers</a>
+						</h6>
+				<div class="description">
+						More than 30 Ohio vendors to partcipate </div>
+				</div>
+		</div>
+	</div>
+</section>
+<small class="blogs-more">
+            <a href="/content/blogs/news/index.jsp" class="more-link">
+                <i class="icon-double-angle-right news-color"></i> 
+                <span>More News Blogs</span>
+            </a>
+        </small> 
+    </div><!-- END dispatch-blogs -->
+
+	
+	
+
+
+
+</aside>
+    			
+        			
+        			
+						
+						<div id="new-ad" style="display:none">
+								<div class="ad-group">
+				<div    class="adunit  box"    data-dimensions="300x250,300x600,300x1050"  data-targeting='{"pos":"in-rail"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		
+							</div>
+						<script>
+							$( document ).ready(function() {
+								$('#new-ad').appendTo('#primary-rail');
+								document.getElementById("new-ad").style.display = "block";
+							});
+						</script>
+					
+            </div>
+            
+            
+            
+
+            
+
+            
+            
+            
+			
+		</section> <!-- END #main -->
+
+		
+		
+		
+			<footer id="footer" class="row">
+
+	<div class="ad-group">
+				<div    class="adunit  leaderboard bottom"    data-dimensions="728x90"  data-targeting='{"pos":"btf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		<nav id="secondary" class="row">
+            <a href="/content/index.html" class="columns large-3">
+                <img src="http://www.dispatch.com/content/digital/images/dispatch-nameplate-footer.gif" />
+            </a>
+            <ul class="inline-list columns large-9">
+                <li><a href="/content/site-map.html?footpid=footer">Site Map</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/sections/services/about.html?footpid=footer">About the Dispatch</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/policy-tos.html#about?footpid=footer">About Our Ads</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/system/shared/links/privacy/dispatch?footpid=footer">Privacy Policy</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/system/shared/links/ad-adchoices?footpid=footer">Ad Choices</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/sections/contacts/index.html?footpid=footer">Contacts</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/sections/store/index.html?footpid=footer">Store</a></li>
+                <li class="divider"></li>
+                <li><a href="/content/links/dispatch-careers?footpid=footer">Work with Us</a></li>
+            </ul>
+        </nav>
+
+
+        <nav id="site-map" class="row">
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="news-color">
+                        <h6 class="alternate"><a href="/content/sections/news/index.html?footpid=footer">News</a></h6>
+                    </dt>
+                    <dd><a href="/content/sections/news/business/index.html?footpid=footer">Business</a></dd>
+                    <dd><a href="/content/sections/news/crime/index.html?footpid=footer">Crime &amp; Safety</a></dd>
+                    <dd><a href="/content/sections/news/education/index.html?footpid=footer">Education</a></dd>
+                    <dd><a href="/content/sections/news/science-environment/environment/index.html?footpid=footer">Environment</a></dd>
+                    <dd><a href="/content/sections/news/government-politics/index.html?footpid=footer">Government &amp; Politics</a></dd>
+                    <dd><a href="/content/sections/news/local/index.html?footpid=footer">Local</a></dd>
+                    <dd><a href="/content/sections/news/health-medicine/index.html?footpid=footer">Medicine &amp; Health</a></dd>
+                    <dd><a href="/content/links/news/obituaries?footpid=footer">Obituaries</a></dd>
+                    <dd><a href="/content/sections/news/religion/index.html?footpid=footer">Religion</a></dd>
+                    <dd><a href="/content/sections/news/science-environment/science/index.html?footpid=footer">Science</a></dd>
+                    <dd><a href="/content/sections/news/us-world/index.html?footpid=footer">US &amp; World</a></dd>
+                    <dd><a href="/content/sections/news/weather/index.html?footpid=footer">Weather</a></dd>
+                </dl>
+            </nav>
+            
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="sports-color">
+                        <h6 class="alternate"><a href="/content/sections/sports/index.html?footpid=footer">Sports</a></h6>
+                    </dt>
+                    <dd><a href="/content/links/sports/BuckeyeXtra.com?footpid=footer">Ohio State Sports<br/><small>at BuckeyeXtra.com</small></a></dd>
+                    <dd><a href="/content/sections/sports/colleges/index.html?footpid=footer">Other Colleges</a></dd>
+                    <dd><a href="/content/links/sports/BlueJacketsXtra.com?footpid=footer">NHL: Blue Jackets <br/><small>at BlueJacketsXtra.com</small></a></dd>
+                    <dd><a href="/content/sections/sports/crew/index.html?footpid=footer">MLS: Crew</a></dd>
+                    <dd><a href="/content/sections/sports/clippers/index.html?footpid=footer">MiLB: Clippers</a></dd>
+                    <dd><a href="/content/sections/sports/reds-indians/index.html?footpid=footer">MLB: Reds &amp; Indians</a></dd>
+                    <dd><a href="/content/sections/sports/cavs/index.html?footpid=footer">NBA: Cavaliers</a></dd>
+                    <dd><a href="/content/sections/sports/browns-bengals/index.html?footpid=footer">NFL: Bengals &amp; Browns</a></dd>
+                    <dd><a href="/content/sections/sports/golf/index.html?footpid=footer">Golf</a></dd>
+                    <dd><a href="/content/sections/sports/columns/commentary.html?footpid=footer">Sports Commentary</a></dd>
+                    <dd><a href="/content/sections/sports/high-school/index.html?footpid=footer">High School Sports</a></dd>                  
+                </dl>
+            </nav>
+
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="opinion-color">
+                        <h6 class="alternate"><a href="/content/sections/opinion/index.html?footpid=footer">Opinion</a></h6>
+                    </dt>
+                    <dd><a href="/content/sections/opinion/editorials/index.html?footpid=footer">Editorials</a></dd>
+                    <dd><a href="/content/sections/opinion/letters-to-editor/index.html?footpid=footer">Letters to the Editor</a></dd>
+                    <dd><a href="/content/sections/opinion/beeler-cartoons/index.html?footpid=footer">Nate Beeler Cartoons</a></dd>
+                    <dd><a href="/content/sections/opinion/op-ed-columns/index.html?footpid=footer">Op-Ed Columnists</a></dd>
+                </dl>
+
+                <dl>
+                    <dt class="life-color">
+                        <h6 class="alternate"><a href="/content/sections/life-and-entertainment/index.html?footpid=footer">Life Topics</a></h6>
+                    </dt>
+                    <dd><a href="/content/sections/life-and-entertainment/contests.html?footpid=footer">Contests</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/fashion-and-style/index.html?footpid=footer">Fashion &amp; Style</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/food/index.html?footpid=footer">Food</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/home-and-garden/index.html?footpid=footer">Home &amp; Garden</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/travel/index.html?footpid=footer">Travel</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/columns/advice.html?footpid=footer">Advice Columns</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/columns/joe-blundo.html?footpid=footer">Joe Blundo Columns</a></dd>
+                </dl>
+            </nav>
+
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="life-color">
+                        <h6 class="alternate"><a href="/content/sections/life-and-entertainment/index.html?footpid=footer">Entertainment Topics</a></h6>
+                    </dt>
+                    <dd><a href="/content/sections/life-and-entertainment/books/index.html?footpid=footer">Books</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/dining/index.html?footpid=footer">Dining</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/events/index.html?footpid=footer">Events</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/movies/index.html?footpid=footer">Movies</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/music/index.html?footpid=footer">Music</a></dd>
+                    <dd><a href="/content/sections/life-and-entertainment/theater/index.html?footpid=footer">Theater</a></dd>
+                </dl>
+
+                <dl>
+                    <dt class="secondary-color">
+                        <h6 class="alternate"><a href="/content/sections/classifieds/index.html?footpid=footer">Classifieds</a></h6>
+                    </dt>
+                    <dd><a href="/content/system/shared/links/affiliate-columbusjobs?footpid=footer">Columbus Jobs</a></dd>
+                    <dd><a href="/content/system/shared/links/affiliate-columbusrealestate?footpid=footer">Columbus Real Estate</a></dd>
+                    <dd><a href="/content/system/shared/links/affiliate-columbuscars?footpid=footer">Columbus Cars</a></dd>
+                    <dd><a href="/content/system/shared/links/affiliate-dispatchclassifieds?footpid=footer">Dispatch Classifieds</a></dd>
+                </dl>
+            </nav>
+        
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="secondary-color">
+                        <h6 class="alternate"><a href="/content/sections/life-and-entertainment/index.html?footpid=footer">Services</a></h6>
+                    </dt>
+                    <dd><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?footpid=footer">Customer Service</a></dd>
+                    <dd><a href="/content/system/shared/links/dispatch-reader-rewards?footpid=footer">Reader Rewards</a></dd>
+                    <dd><a href="/content/links/services/advertising/place-an-ad?footpid=footer">Place an Ad</a></dd>
+                    <dd><a href="/content/sections/services/index.html#celebrations?footpid=footer">Submissions</a></dd>
+                </dl>
+
+                <dl>
+                    <dt class="secondary-color"><h6 class="alternate">Reader Options</h6></dt>
+                    <dd><a href="/content/links/subscriber-services/subscribe-for-home-delivery?footpid=footer">Home Delivery</a></dd>
+                    <dd><a href="/content/system/modules/com.dispatch.dsi/pages/archive.jsp?footpid=footer">Archive</a></dd>
+                    <dd><a href="/content/sections/services/mobile.html?footpid=footer">Mobile</a></dd>
+                    <dd><a href="/content/sections/services/electronic-edition.html?footpid=footer">E-Edition</a></dd>
+                    <dd><a href="/content/sections/services/newsletters.html?footpid=footer">Newsletters</a></dd>
+                    <dd><a href="/content/sections/services/rss-feeds.html?footpid=footer">RSS Feeds</a></dd>
+                    <dd><a href="/content/pages/podcasts.html?footpid=footer">Podcasts</a></dd>
+                </dl>
+            </nav>
+            
+            <nav class="columns large-2">
+                <dl>
+                    <dt class="secondary-color">
+                        <h6 class="alternate">Dispatch Media Group</h6>
+                    </dt>
+                    
+                </dl>
+		<div class="affiliate-list">
+		<div class="affiliate-list-container">
+			<p>Dispatch Media Group</p>
+			<a onclick="" class="affiliate-list-button js-show-affiliate-list">Browse Affiliate Sites <i class="icon-chevron-sign-down"></i></a>
+		</div>
+		<div class="hide affiliate-list-outer-container js-affiliate-list"></div>
+	</div>
+<div id="new-adbottom" style="display:none">
+							<div class="ad-group">
+				<div    class="adunit  box"    data-dimensions="300x250,300x600,300x1050"  data-targeting='{"pos":"in-content"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		</div>
+					<script>
+					$( document ).ready(function() {
+	
+						if($('body').hasClass('type-story') || $('body').hasClass('type-blogindex') || $('body').hasClass('type-blogentry') || $('body').hasClass('type-topic')) {
+	
+						
+								if ( $('body').hasClass('type-topic') && $( "#content-wrap" ).length ) {
+									$('#new-adbottom').appendTo('#content-wrap');
+									document.getElementById("new-adbottom").style.display = "block";
+								}
+								else {
+									
+									$('#new-adbottom').appendTo('#content');
+									document.getElementById("new-adbottom").style.display = "block";
+									
+								}
+							}
+					});
+					</script>
+	<div id="new-adbottom" style="display:none">
+							<div class="ad-group">
+				<div    class="adunit  box"    data-dimensions="300x250,300x600,300x1050"  data-targeting='{"pos":"in-content"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		</div>
+					<script>
+					$( document ).ready(function() {
+	
+						if($('body').hasClass('type-story') || $('body').hasClass('type-blogindex') || $('body').hasClass('type-blogentry') || $('body').hasClass('type-topic')) {
+						
+								if ( ($('body').hasClass('type-topic') || $('body').hasClass('type-blogindex') || $('body').hasClass('type-blogentry')) && $( "#content-wrap" ).length ) {
+									$('#new-adbottom').appendTo('#content-wrap');
+									document.getElementById("new-adbottom").style.display = "block";
+								}
+								else {
+									
+									$('#new-adbottom').appendTo('#content');
+									document.getElementById("new-adbottom").style.display = "block";
+									
+								}
+							}
+					});
+					</script>
+					</nav>
+            
+        </nav>
+        
+        <small class="copyright">&copy; Copyright 2015 GateHouse Media, Inc., reproduction prohibited. All Rights Reserved.</small>
+        
+    </footer>
+    
+
+		
+		
+		
+
+		
+	
+		
+		<script>
+		var opencmsSiteID = 'dispatch';
+		var dmgJSVersion = '1.2.2';
+	</script>
+	
+  	<script data-dmg-js-version="1.2.2" data-main="/content/system/modules/com.titan.core/js/main" src="/content/system/modules/com.titan.dependencies/lib/requirejs/require.js"></script>
+	
+
+    
+
+		
+
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+	COMSCORE.beacon({
+	c1:2,
+	c2:6035088,
+	c3:"",
+	c4:"",
+	c5:"",
+	c6:"",
+	c15:""
+	});
+</script>
+<script>
+	var cms_syncronexAPIBaseURL = "https://syncaccess-dpc-cd.syncronex.com/dpc/cd";
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/b?c1=2&c2=6035088&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script language="JavaScript" type="text/javascript"> var s_account = 'dispatchdispatch';</script>
+
+<script language="JavaScript" type="text/javascript" src="http://www.dispatch.com/content/system/modules/com.dispatch.analytics/javascript/s_code.js"></script>
+
+<!-- SiteCatalyst code version: H.20.3. -->
+<script language="JavaScript" type="text/javascript">
+
+if(typeof sCodeCustom == 'object' ) {
+/************* COPYING S CODE CUSTOM PROPS TO S OBJECT ! **************/
+	jQuery.extend(true, s, sCodeCustom);
+}
+s.pageName="dispatchdispatch:news:crime_and_safety:South_Linden_7-year-old_drowns_in_California";
+s.channel="news";
+s.prop4="story";
+s.prop11="/stories/local/2015/07/31/girl-drowning.html";
+if (typeof omniture == 'object' ) { for (var oItem in omniture){s[oItem] = omniture[oItem];}}s.linkInternalFilters="javascript:,columbusjobs.monster.com,dispatch.com";
+sU = window.location.href;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code) { 
+	document.write(s_code);
+}
+
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://dispatchdispatch.112.2O7.net/b/ss/dispatchdispatch/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+
+
+
+<script type='text/javascript'>var _sf_async_config={};/** CONFIGURATION START **/_sf_async_config.videoType='ooyala';_sf_async_config.uid = 44599;_sf_async_config.domain = 'www.dispatch.com';_sf_async_config.sections = 'location,united_states,ohio,franklin,columbus,linden,news,crime_and_safety';_sf_async_config.authors = 'Jim Woods';_sf_async_config.title = 'South Linden 7-year-old drowns in California';/** CONFIGURATION END **/(function(){function loadChartbeat() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +'js/chartbeat_video.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadChartbeat : function() { oldonload(); loadChartbeat(); };})();</script>
+
+
+<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/9048.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+		
+
+    
+
+	</body>
+	</html>
+	
+

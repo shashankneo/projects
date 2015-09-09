@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+
+
+<html lang="en"  style>
+
+<head>
+    
+<meta charset="utf-8" />
+    <meta name="google-site-verification" content="O_7bp6tzZ5XAWGZe3r0oPd4eKdvWyIRw8vUFwsUzwWU" />
+	<meta name="google-translate-customization" content="a6c52dae826a3932-57177692dab19630-g229afb6dd9a0fdbc-19"></meta>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta id="viewport" name='viewport'>
+	<script>
+	    (function(doc) {
+	        var viewport = document.getElementById('viewport');
+	        if ( navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) ) {
+	            doc.getElementById("viewport").setAttribute("content", "width=340");
+	        } else if ( navigator.userAgent.match(/iPad/i) ) {
+	            doc.getElementById("viewport").setAttribute("content", "width=1020");
+	        }
+	    }(document));
+	</script>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-72.png">
+	<link rel="apple-touch-icon-precomposed" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm.png">
+	<link rel="shortcut icon" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/almonitor2.png">
+
+	<link id="almCSSCDN01" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/bootstrap.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN02" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/prettify.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN03" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/font-awesome.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN04" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/bootstrap-responsive.min.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN05" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/jquery-ui.min.css" media="screen" type="text/css"/>	
+	<link id="almCSSCDN05x" rel="stylesheet" href="/pulse/modules/alm-bootstrap-templates/css/fonts.css" media="screen" type="text/css">
+	<link id="almCSSCDN06" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/general.css" media="screen" type="text/css"/>
+
+	<link id="almCSSCDN07" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/sections.d.css" media="screen" type="text/css"/>
+
+	<link id="almCSSCDN08" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/mobilenav.css" media="screen" type="text/css"/> 
+	<link id="almCSSCDN09" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/extras.css" media="screen" type="text/css"/>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script id="almJSCDN01" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/modernizr.js"></script>
+	<script id="almJSCDN02" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/browser.js"></script>
+	<script id="almJSCDN03" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/prettify.js"></script>
+	<script id="almJSCDN04" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/lang-css.js"></script>
+	
+
+	<script id="almJSCDN05" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.min.js"></script>
+
+
+
+<!-- BEGIN Tynt Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('aoK4SCazar4ONkacwqm_6l');Tynt.i={"ap":"Read more:"};
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var
+h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END Tynt Script -->
+<meta property="fb:admins" content="aaoudi" /><meta property="og:url" content="http://www.al-monitor.com/pulse/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html" /><meta property="og:locale" content="en_us" /><meta property="og:type" content="article" /><meta property="og:title" content="Erdogan’s shift on Islamic State linked to Kurdish gains in Syria - Al-Monitor: the Pulse of the Middle East" /><meta property="og:image" content="http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTX1LVGV.jpg" />
+    <meta property="og:image:height" content="2559" />
+    <meta property="og:image:width" content="4716" /><meta property="og:description" content="Turkish Prime Minister Recep Tayyip Erdogan finally takes on the Islamic State while attacking PKK bases in northern Iraq; Israeli Prime Minister Benjamin Netanyahu now the only US ally actively opposing Iran deal; Israel faces pressure to forgo demolition of Palestinian village." /><meta property="og:site_name" content="Al-Monitor" /><meta property="article:publisher" content="https://www.facebook.com/Al-Monitor" /><meta property="article:section" content="Editorial" /><meta property="article:published_time" content="2015-07-26T09:06:00+00:00" /><meta property="article:modified_time" content="2015-07-31T07:31:13+00:00" /><meta property="og:updated_time" content="2015-07-31T07:31:13+00:00" /><meta property="fb:app_id" content="115006175316219" /><meta name="keywords" content="Iran Nuclear file, Benjamin Netanyahu, West Bank, Turkish Military, IS, PKK, PYD, Qandil Mountains, " />
+
+<title>Erdogan’s shift on Islamic State linked to Kurdish gains in Syria - Al-Monitor: the Pulse of the Middle East</title>
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-28667400-1']);
+  _gaq.push(['_trackPageview', '/cms/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html']);
+  
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+  <!-- Piwik -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//piwik.al-monitor.com/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><p><img src="//piwik.al-monitor.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Piwik Code -->
+
+
+
+<script type="text/javascript">
+var contextJsParameters={contextPath:"/pulse",lang:"en",uilang:"en",siteUuid:"442ad403-7825-4595-9e9a-da4375db3f6f",wcag:false}; var CKEDITOR_BASEPATH="/pulse/modules/assets/javascript/ckeditor/"; var scayt_custom_params=new Array(); scayt_custom_params['sLang']='en_US';
+</script>
+<link id="staticAssetCSS0" rel="stylesheet" href="/pulse/files/live/sites/almonitor/files/bootstrap/css/bootstrap.css" media="screen" type="text/css"/>
+<link id="staticAssetCSS1" rel="stylesheet" href="/pulse/modules/search/css/simplesearchform.css" media="screen" type="text/css"/>
+<!--[if lt IE 9]>
+<script id="staticAssetJavascript0" type="text/javascript" src="/pulse/modules/alm-bootstrap-templates/javascript/html5shiv.js"></script>
+<![endif]-->
+<script id="staticAssetJavascript1" type="text/javascript" src="/pulse/modules/alm-bootstrap-templates/javascript/jquery.js"></script>
+<script id="staticAssetJavascript2" type="text/javascript" src="/pulse/modules/bootstrap/javascript/bootstrap-collapse.js"></script>
+<script id="staticAssetJavascript3" type="text/javascript" src="/pulse/modules/alm-bootstrap-templates/javascript/submitSelect.js"></script>
+
+  <link id="almCSSCDN11" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/css/print.css" media="print" type="text/css"/>
+
+ <meta name="description" content="Turkish Prime Minister Recep Tayyip Erdogan finally takes on the Islamic State while attacking PKK bases in northern Iraq; Israeli Prime Minister Benjamin Netanyahu now the only US ally actively opposing Iran deal; Israel faces pressure to forgo demolition of Palestinian village." /> 
+  <meta name="2015-07-26" content="YYYY-MM-DD" />
+  
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@almonitor">
+<meta name="twitter:creator" content="@almonitor">
+<meta name="twitter:url" content="http://www.al-monitor.com/pulse/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html">
+<meta name="twitter:title" content="Erdogan’s shift on Islamic State linked to Kurdish gains in Syria">
+<meta name="twitter:description" content="Turkish Prime Minister Recep Tayyip Erdogan finally takes on the Islamic State while attacking PKK bases in northern Iraq; Israeli Prime Minister Benjamin Netanyahu now the only US ally actively opposing Iran deal; Israel faces pressure to forgo demolition of Palestinian village.">
+<meta name="twitter:image" content="http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTX1LVGV.jpg?t=thumbnail_270">
+<meta name="twitter:image:width" content="270">
+
+
+    <div id="piano-root"></div>
+    <script type="text/javascript">
+      var pianoVariables = {
+        service_id: '62',
+        article_id: '/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq',
+        mode: 'bar_hidden'
+      };
+      var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+      (function() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = pianoHostProtocol + 'bar.pianomedia.biz/bar.js';
+        var p = document.getElementsByTagName('script')[0];
+        p.parentNode.insertBefore(s, p);
+      })();
+    </script>
+    <script src="http://s.ppjol.net/lightbox/pp4.js"></script> 
+    <script type="text/javascript">
+      var pp = {
+        client: {
+            config: {
+              'zone': "IBOsjgMTj5bWgG7_72g-On",
+                'mode': "meter",
+                'debug': 0,
+                'precheck': function () {
+                    return 1;
+                }
+            }
+        }
+      };
+    </script>
+  
+
+</head>
+  
+
+  <body onLoad="DoTheCookieStuff();">
+
+
+
+
+<div id="outer-wrap">
+  <div id="inner-wrap">
+  
+    
+    <header id="header">
+      <nav id="navMobile" role="navigation" class="visible-phone">
+  <div class="globe"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/globeMobile.png"></div>
+  <div class="search"><form action="/pulse/search-results.html" method="get" id="testf1">
+ <input type="hidden" name="jcrMethodToCall" value="get"/>
+ <input type="hidden" name="src_originSiteKey" value="almonitor"/>
+ <input type="hidden" name="src_itemsPerPage" value="10"/>
+ <span class="ss-standard magGlass">&#x1F50E;</span>
+ <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+ </form></div>
+  <ul>
+        <li> <a href="/pulse/egypt-pulse">Egypt</a> </li>
+        <li> <a href="/pulse/gulf-pulse">Gulf</a> </li>
+        <li> <a href="/pulse/iran-pulse">Iran</a> </li>
+        <li> <a href="/pulse/iraq-pulse">Iraq</a> </li>
+        <li> <a href="/pulse/israel-pulse">Israel</a> </li>
+        <li> <a href="/pulse/lebanon-pulse">Lebanon</a> </li>
+        <li> <a href="/pulse/palestine-pulse">Palestine</a> </li>
+        <li> <a href="/pulse/syria-pulse">Syria</a> </li>
+        <li> <a href="/pulse/turkey-pulse">Turkey</a> </li>
+        <li> <a href="/pulse/back-channel">Back</a> </li>
+        <li> <a href="/pulse/congresspulse">Congress Pulse</a> </li>
+        <li> <a href="/pulse/russia-mideast">Russia</a> </li>
+        <li> <a href="/pulse/week-in-review">Week In Review</a> </li>
+  </ul>
+</nav>
+
+
+
+
+<nav id="navMobileSocial" role="navigation" class="visible-phone">
+  <ul>
+    <li><a href="http://www.facebook.com/share.php?u=http://almon.co/2ha8" target="_blank"><span class="socialIcons">&#xF610;</span>Facebook</a></li>
+    <li><a href="https://twitter.com/intent/tweet?text=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria&nbsp;http://almon.co/2ha8 via @AlMonitor" target="_blank"><span class="socialIcons">&#xF611;</span>Twitter</a></li>
+    <li><a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria&url=' + encodeURIComponent(window.location); return false"><span class="socialIcons">&#xF616;</span>Reddit</a></li>
+    <li><a href="whatsapp://send?text=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria - http://almon.co/2ha8" data-action="share/whatsapp/share"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/icons/whatapp3.png" style="width:14px;" class="socialIcons" />WhatsApp</a></li>
+    
+    <li><a href="mailto:?subject=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria&body=http://almon.co/2ha8%0A%0ARead more at http://www.Al-Monitor.com"><span class="socialIcons">&#x2709;</span>E-Mail</a></li>
+  </ul>
+</nav><div class="clear"></div>
+      <section role="banner" class="container-fluid visible-phone" id="banner">
+        <div class="row-fluid">
+          <a class="nav-btn ss-standard pull-left" id="nav-open-btn" href="#navMobile">&#xE9A1;</a>
+          <a id="nav-open-btn-alt" href="#navMobileSocial" class="mobileShareButton ss-standard pull-right">&#xEE00;</a>
+        </div>
+      </section>
+      
+
+
+<div class="container-fluid">
+    
+
+<div class="row-fluid">
+    
+      <div class="span4 logo">
+            
+<a href="/pulse/home.html" ><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/logo.png" /></a><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+      <div class="span3 logoHeadline">
+            
+The Pulse of the Middle East<div class="clear"></div>
+        </div>
+    
+      <div class="span2 logo visible-desktop">
+            
+<a href="http://ipi.freemedia.at/special-pages/newssview/article/al-monitor-named-free-media-pioneer-award-winner.html" target="_blank"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/IPI-Button_1.png" /></a><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+      <div class="span3 social search visible-desktop">
+            
+
+
+
+
+<form action="/pulse/search-results.html" method="get" id="testf1" style="line-height:90px;margin:0px;">
+  <input type="hidden" name="jcrMethodToCall" value="get"/>
+  <input type="hidden" name="src_originSiteKey" value="almonitor"/>
+  <input type="hidden" name="src_itemsPerPage" value="10"/>
+  <span class="ss-standard magGlass" style="top:49px;">&#x1F50E;</span>
+  <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+</form>
+<ul style="margin: -50px 0px -10px 40px;">
+  <li><a href="https://www.facebook.com/almonitor" target="_blank" title="Connect with us on Facebook!"><span class="socialIconsTop">&#xF610;</span></a></li>
+  <li><a href="https://twitter.com/almonitor" target="_blank" title="Follow us on Twitter!"><span class="socialIconsTop">&#xF611;</span></a></li>
+  <li><a href="mailto:?subject=Al-Monitor: The Pulse of the Middle East&body=http://www.Al-Monitor.com" title="Tell a friend about us!"><span class="socialIconsTop">&#x2709;</span></a></li>
+  <li><a href="/rss" target="_blank" title="Check out our RSS Feeds!"><span class="socialIconsTop">&#xE310;</span></a></li>
+</ul><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+</div><div class="clear"></div>
+</div>
+
+
+<div class="pulses hidden-phone" dir="LTR">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <ul>
+        <div class="pulsesTitle">Pulse of</div><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/img/elements/pulseFlag.png" class="pulseFlag" />
+        <span><li> <a href="/pulse/egypt-pulse">Egypt</a> <a href="/pulse/ar/home/egypt-pulse.html" class="sub">&#1605;&#1589;&#1585;</a> </li></span>
+        <span><li> <a href="/pulse/gulf-pulse">Gulf</a> <a href="/pulse/ar/home/gulf-pulse.html" class="sub">&#1575;&#1604;&#1582;&#1604;&#1610;&#1580;</a> </li></span>
+        
+        <span><li> <a href="/pulse/iran-pulse">Iran</a> <a href="/pulse/fa/home/iran-pulse.html" class="sub">&#1575;&#1740;&#1585;&#1575;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/iraq-pulse">Iraq</a> <a href="/pulse/ar/home/iraq-pulse.html" class="sub">&#1575;&#1604;&#1593;&#1585;&#1575;&#1602;</a> </li></span>
+        <span><li> <a href="/pulse/israel-pulse">Israel</a> <a href="/pulse/iw/home/israel-pulse.html" class="sub">&#1497;&#1513;&#1512;&#1488;&#1500;</a> </li></span>
+        <span><li> <a href="/pulse/lebanon-pulse">Lebanon</a> <a href="/pulse/ar/home/lebanon-pulse.html" class="sub">&#1604;&#1576;&#1606;&#1575;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/palestine-pulse">Palestine</a> <a href="/pulse/ar/home/palestine-pulse.html" class="sub">&#1601;&#1604;&#1587;&#1591;&#1610;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/syria-pulse">Syria</a> <a href="/pulse/ar/home/syria-pulse.html" class="sub">&#1587;&#1608;&#1585;&#1610;&#1575;</a> </li></span>
+        <span><li> <a href="/pulse/turkey-pulse">Turkey</a> <a href="/pulse/tr/home/turkey-pulse.html" class="sub">T&Uuml;RK&#304;YE</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/back-channel">Back</a> <a href="/pulse/back-channel">Channel</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/congresspulse">Congress</a> <a href="/pulse/congresspulse">Mideast</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/russia-mideast">Russia</a> <a href="/pulse/russia-mideast">Mideast</a> </li></span>
+        <span><li style="background-color:#BF5230;font-weight:bold;border-left-style: solid;border-left-width: 1px;border-right-color: white;border-right-style: solid;border-right-width: 1px;"> <a href="/pulse/week-in-review">Week</a> <a href="/pulse/week-in-review">in Review</a> </li></span>
+      </ul>
+    </div>
+  </div>
+</div><div class="clear"></div>
+    </header>
+  
+
+
+
+<!-- EEE en -->
+
+
+<nobr><span style="color:darkblue;font-size:9pt;font-weight:bold;text-transform:uppercase;text-decoration:underline;">
+
+
+</span></nobr>
+
+
+
+
+
+  
+  
+
+  
+<section class="article" id="article" style="background: url('/pulse/modules/almcontent/images/backgrounds/globe.jpg') no-repeat; background-size: 100% auto;">
+  <div class="container-fluid">
+    
+    <div class="row-fluid contentRow">
+      <div class="span8" id="leftcolumn"> <img class="pulseNewsImg span12" src="/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTX1LVGV.jpg?t=thumbnail_570" id="leadimage" />
+        <p class="caption hidden-phone" id="leadimagecaption">A Turkish Air Force C-160D Transall transport aircraft takes off from Incirlik air base in Adana, July 26, 2015. Turkey has made a dramatic turnaround by launching air raids against both the Islamic State (IS) and the Kurdistan Workers Party and by allowing the United States to use Turkish air bases to fight IS. &nbsp;(photo by REUTERS/Murad Sezer)</p>
+        <div class="info">
+          <h2>Erdogan’s shift on Islamic State linked to Kurdish gains in Syria</h2>
+          <p class="noScreen">Author:&nbsp;Week in Review<span class="span6" title="July 26, 2015 04:06 CDT"> <span class="title">Posted</span> July 26, 2015 </span> </p>
+          <p class="essay"><strong style="line-height: 1.6em;">Erdogan&rsquo;s two-front war</strong>
+          <!-- **************** hidesummary2: []****************** -->
+          <!-- **************** hidesummary: [false]****************** -->
+      
+              <div class="stats hidden-phone span6" id="infobox">
+                
+              <div class="row-fluid" id="summary"> <span class="title">Summary<a href="#" onclick="javascript:window.print(); return false" style="font-family:ss-standard;font-size:120%;color:#000000;float:right;text-decoration:none;" title="Click here to Print this article" >&#x2399; <span style="font-size:60%;color:#333;">Print</span></a></span> Turkish Prime Minister Recep Tayyip Erdogan finally takes on the Islamic State while attacking PKK bases in northern Iraq; Israeli Prime Minister Benjamin Netanyahu now the only US ally actively opposing Iran deal; Israel faces pressure to forgo demolition of Palestinian village. </div>
+                
+                <div class="row-fluid"> <span class="span6"> <span class="title">Author</span> <a href="/pulse/contents/authors/al-monitor.html">Week in Review</a></span><span class="span6" title="July 26, 2015 04:06 CDT"> <span class="title">Posted</span> July 26, 2015 </span></div>
+                <div class="row-fluid"> <span class="span6"> <nobr><span style="color:darkblue;font-size:9pt;font-weight:bold;text-transform:uppercase;text-decoration:underline;">
+   <a href="" target="_blank" title="Click here to read the original article from" alt="Click here to read the original article from style="color:darkblue;"></a>
+  </span></nobr></span></div>
+              </div>
+            <p>When this column <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2014/10/turkey-erdogan-foreign-fighters.html" >reported in October</a>&nbsp;that we might be witnessing Turkish President Recep Tayyip&nbsp;Erdogan&rsquo;s &ldquo;slow turnaround on foreign fighters in Syria,&rdquo; we did not anticipate it would be this slow.</p>
+
+<p>Erdogan has faced pressure and criticism for holding back in the battle against the Islamic State (IS) and for Turkey&rsquo;s at best episodic approach to dealing with foreign jihadi&nbsp;fighters transiting Turkey en route to Syria.</p>
+
+<p>On July 24, four days after a suicide bombing carried out by a Turkish recruit of IS&nbsp;in Suruc killed more than 30 Turkish citizens and injured over 100, Turkey launched its first&nbsp;<a target="_blank" href="http://www.nytimes.com/2015/07/24/world/europe/turkey-isis-us-airstrikes-syria.html?ref=topics">ground and air combat operations</a>&nbsp;against IS in Syria and approved US use of air bases at&nbsp;Incirlik and Diyarbakir for strikes against IS within Syria.</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/turkey-suruc-bombing-deciphering-isis-kurds.html">Metin Gurcan</a>,&nbsp;<span style="line-height: 20.8000011444092px;">making reference to Turkey&#39;s Justice and Development Party (AKP), the Kurdistan Workers Party (PKK) and the pro-Kurdish Peoples&#39; Democratic Party (HDP)</span>&nbsp;writes that Turks in general are fed up with their government&rsquo;s Syria policy and ready to let the government know: &ldquo;Neither AKP elites nor the PKK nor the&nbsp;HDP intends to denounce the Suruc attack and search for new beginnings together. Both want to capitalize on the ramifications of the massacre for their own political ends.&nbsp;There is also a perceptible split between the elites and the street after the attack. Anger accumulated by radical Kurdish and leftist groups is already visible in the streets and is likely to be turned against the AKP decision-makers and the state next. Worried about massive street protests, the&nbsp;<a target="_blank" href="http://www.nbcnews.com/news/world/violent-protests-follow-suicide-bombing-turkey-n395496">AKP government</a>&nbsp;has instructed security forces to maintain law and order without tolerance.&rdquo;</p>
+
+<p>The July 20 terrorist attack may have been the final straw for the AKP&nbsp;to step up its actions against IS, as well as an opportunity to escalate its campaign against the&nbsp;PKK, which is linked to the Syrian Democratic Union Party (PYD).&nbsp;Erdogan considers both the PKK and PYD to be terrorist organizations. The <a target="_blank" href="http://www.washingtonpost.com/world/turkey-strikes-islamic-state-targets-in-syria-for-the-first-time/2015/07/24/c68b0377-8785-4306-bc7e-ffe4b866d9ab_story.html" >crackdown by Turkish security forces</a> on IS cells inside Turkey has also targeted some leftist and Kurdish groups.&nbsp;</p>
+
+<p>Turkey&rsquo;s military operations against IS in Syria have coincided with attacks against PKK&nbsp;bases in northern Iraq, <a target="_blank" href="http://www.washingtonpost.com/world/turkey-strikes-kurdish-militants-in-iraq-ending-truce/2015/07/25/1b7405b8-32b7-11e5-97ae-30a30cca95d7_story.html" >breaking a fragile cease-fire</a> that has been in force between the Turkish government and the PKK since 2013.&nbsp;Although the United States also considers the PKK a terrorist organization, the <a target="_blank" href="http://www.wsj.com/articles/americas-marxist-allies-against-isis-1437747949">US military</a> has worked effectively with PYD armed groups to battle IS in Syria.</p>
+
+<p>Al-Monitor&rsquo;s Turkey Pulse and this column have reported on the <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/06/erdogan-kurdish-threat-syria-isis-tel-abayd.html" >priority Erdogan has given</a> to thwarting gains by Kurdish forces in Syria. <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/turkey-syria-kobane-suruc-bombing-boomerang-hits-volunteers.html" title="http://www.al-monitor.com/pulse/originals/2015/07/turkey-syria-kobane-suruc-bombing-boomerang-hits-volunteers.html Cmd+Click to follow link">Fehim Tastekin</a>&nbsp;reports from Turkey that &ldquo;Ankara may feel it is now the right time to move forward with its efforts to foil the&nbsp;Kurds&#39;&nbsp;designs on <a target="_blank" href="http://www.al-monitor.com/pulse/politics/2014/10/turkey-iraq-syria-kurds-great-kurdistan.html" >expanding their turf</a>&nbsp;from Tell Abyad to Afrin, and to implement a safe-zone project controlled by&nbsp;Turkey-supported Syrian opposition forces. However, the government, which has been massing troops on the border, is entangled in efforts to form a new government. The CHP, which could be a coalition partner with the AKP, is warning the government against actions&nbsp;such as marching into Syria. One must remember,&nbsp;however,&nbsp;that a Turkey rattled by IS attacks may now be more amenable to far-fetched and&nbsp;risky government plans.&rdquo;</p>
+
+<p>In a July 24&nbsp;<a target="_blank" href="http://www.state.gov/r/pa/prs/dpb/2015/07/245262.htm#TURKEY">news&nbsp;briefing</a>, US&nbsp;Department of State spokesman Mark Toner did not rule out a long-standing demand for a buffer zone in northern Syria, saying, &ldquo;We continue to have discussions with Turkey, evaluate options for the best way to counter [IS] along its border. We&rsquo;ve spoken from this podium and elsewhere about some of the logistical challenges that would be inherent in a buffer zone, but we obviously take threats to Turkey&rsquo;s border seriously. They are a NATO ally. So we&rsquo;re looking at options.&rdquo;</p>
+
+<p><strong>Netanyahu stance masks dissent on Iran deal</strong></p>
+
+<p>&ldquo;Friends can disagree,&rdquo; said US Secretary of Defense&nbsp;<a target="_blank" href="http://www.defense.gov/news/newsarticle.aspx?id=129311">Ash Carter</a>&nbsp;on July 21 shortly after visiting with Israel&rsquo;s Prime Minister Benjamin Netanyahu in Israel.</p>
+
+<p>The visit, widely seen as an attempt to reassure Netanyahu about the Joint Comprehensive Plan of Action (JCPOA), signed between Iran and the P5+1 powers (five permanent members of the UN Security Council plus Germany) July 14, did not stop the prime minister from sharing what&nbsp;<span style="line-height: 20.8000011444092px;">one senior US defense official described as Netanyahu&#39;s&nbsp;</span>&ldquo;<a target="_blank" href="http://www.washingtonpost.com/world/defense-secretary-meets-with-netanyahu/2015/07/21/57cf7d8c-2f09-11e5-818f-a242f28e7022_story.html" >clear and blunt</a>&rdquo; views.</p>
+
+<p>Netanyahu now stands alone among US allies in rejecting the deal, as Saudi Foreign Minister <a target="_blank" href="http://news.yahoo.com/saudi-fm-iran-deal-may-stop-tehran-getting-133036046.html">Adel Jubeir</a> said July 23 that the kingdom &ldquo;welcomes any agreement that would guarantee Iran&#39;s inability to obtain a nuclear weapon, and that contains an effective inspection mechanism, through which all sites would be inspected, including the military sites, as well as a mechanism to reinstate sanctions against Iran in the event that it violates such an agreement.&quot;</p>
+
+<p>While Jubeir&rsquo;s careful statement masks well-documented Saudi anxieties about the JCPOA, it nonetheless signals that Riyadh will not actively seek to undermine the agreement.</p>
+
+<p>In Israel, Netanyahu&rsquo;s steadfast commitment to try to derail the agreement may be overshadowing those who see benefits from the agreement&rsquo;s constraints on Iran&rsquo;s nuclear program and an opportunity to deepen US-Israel security cooperation, as this column reported <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/iran-gulf-nuclear-jcpoa-sanctions-zarif-israel.html">last week</a>.</p>
+
+<p>In&nbsp;<a target="_blank" href="http://www.foreign.senate.gov/imo/media/doc/07-23-2015%20Secretary%20Kerry%20Testimony.pdf">his testimony</a>&nbsp;before the Senate Foreign Relations Committee on July 23, Secretary of State John Kerry&nbsp;<a target="_blank" href="http://www.haaretz.com/news/diplomacy-defense/.premium-1.667500">referred to statements</a>&nbsp;from former Israeli security establishment figures including Efraim Halevy, the former director of Mossad,&nbsp;who wrote that the deal&nbsp;&ldquo;includes components that are <a target="_blank" href="http://www.ynetnews.com/articles/0,7340,L-4681951,00.html" >crucial for Israel&#39;s security</a>.&rdquo;</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/israel-iran-nuke-deal-netanyahu-obama-congress-aipac-battle.html">Ben Caspit</a>&nbsp;writes that despite the promise of increased security cooperation between Israel and the United States, Netanyahu is holding to his position.&nbsp;&ldquo;So far, Netanyahu has&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/en/originals/2015/07/qassem-suleimani-iran-nuclear-agreement-security-package.html">not allowed Israel&rsquo;s security forces</a>&nbsp;to enter into a dialogue with the Americans over an attractive compensation deal and vital strategic coordination package for the day after the agreement. He is paying a steep price for his ideology.&rdquo;</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/netanyahu-herzog-lapid-iran-nuclear-deal-ben-israel-expert.html">Mazal Mualem</a>&nbsp;reports that Netanyahu has been able to maintain a national state of panic, effectively drowning out competing voices, some of them very senior, who have expressed openness to the deal.</p>
+
+<p>&ldquo;Two of the dissenting opinions are expressed by&nbsp;<a target="_blank" href="http://most.gov.il/english/space/isa/chairperson/Pages/default.aspx">Isaac Ben-Israel</a>&nbsp;&mdash;&nbsp;a reserve general, professor,&nbsp;chairman of the Israeli Space Agency and recipient of the Israel Defense Prize &mdash; and professor Ariel Levite, former deputy director general of the Israeli Atomic Energy Commission.&nbsp;These two experts wrote articles in which they presented the positive aspects of the agreement from Israel&rsquo;s perspective. But their chances of garnering appropriate public attention were nil&nbsp;given the apocalyptic rage prophecies of the politicians.&rdquo;</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/israel-nuke-deal-iran-us-hezbollah-hamas-sneh-interview.html">Mualem also writes</a>&nbsp;that while former Deputy Defense Minister Ephraim Sneh was not pleased with the terms of the deal, he was particularly piqued at what he saw as a missed opportunity for Netanyahu to swing a grand bargain:&nbsp;&ldquo;If Bibi [Netanyahu] seriously believed what he was saying, that Iran is Israel&rsquo;s main enemy and that it poses an existential threat, he should have paid the price by reaching an agreement with the Palestinians. That would be the kind of deal made by an Israeli foreign policy that is not held prisoner by the settlements.&rdquo;</p>
+
+<p><strong>Israeli-Palestinian flashpoint in Susiya</strong></p>
+
+<p>As it is, Israel is facing a backlash over plans to demolish the village of Khirbet Susiya in the West Bank, even as the country&rsquo;s leadership tries to focus international attention on the Iran deal.</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/israel-palestine-area-c-susiya-demolition-us-settlements.html">Shlomi Eldar</a>&nbsp;writes that the residents of the small village may have again gotten the attention of Israel&rsquo;s powerful ally: &ldquo;Already in 1986, in a bid to dissuade Israel from uprooting them from their land, the residents of Khirbet Susiya turned to the US ambassador to Israel, Thomas Pickering, asking that he intervene on their behalf. Pickering, they say, pledged to assist them, but two weeks later the area where they had been living was fenced off with barbed wire. Now they have&nbsp;<a target="_blank" href="http://www.state.gov/r/pa/prs/dpb/2015/07/244998.htm">approached the US Embassy</a>&nbsp;once again, asking that it pressure Israel not to demolish the village. It appears that their efforts have not been unsuccessful.&rdquo;</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/village-susiya-demolition-palestinians-expelled-settlers.html">Akiva Eldar</a>&nbsp;explains that the timing could prove complicated for Netanyahu: &ldquo;Prime Minister Benjamin Netanyahu is not keen to see footage of bulldozers destroying the homes of indigent Palestinians on television screens worldwide, bumping reports on the condition of human rights in Iran. Even if the prime minister could be persuaded that he should seek a way out of this affair, he could expect a fair number of obstacles along the way.&nbsp;</p>
+
+<p>&quot;On the one hand, the international community is pressing him to stop the bulldozers. On the other, Netanyahu is&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/israel-construction-freeze-settlements-netanyahu-ruse.html" >being held hostage</a>&nbsp;by the settlers and their representatives in the leadership of the Likud and HaBayit HaYehudi parties. They will not leave him alone until he wipes out the village stuck in the craw of the settlers of the south Hebron Hills. Yisrael Beitenu, the right-wing opposition party led by former Foreign Minister&nbsp;Avigdor Liberman, would have a field day were Netanyahu to&nbsp;surrender to the left.</p>
+
+<p>&quot;This equation is missing an important element&nbsp;&mdash;&nbsp;the Israeli left-wing opposition. The Zionist Camp has once again left the Meretz Party to face the right alone. The silence of the main opposition party on the Susiya affair can be added to the absence of its members from the vote on&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/06/knesset-law-force-feeding-palestinian-prisoners-hungerstrike.html" >force feeding</a>&nbsp;hunger-striking Palestinian prisoners held on security-related offenses, its vote in favor of the&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/originals/2014/11/interview-plesner-democracy-institute-nationality-bill.html" >nationality bill</a>&nbsp;that tears apart Palestinian families, its support for thwarting peace activists&rsquo;&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/iw/originals/2015/06/israel-gaza-flotilla-hamas-turkey-saudi-arabia-egypt-region.html" >Marianne&nbsp;</a><a target="_blank" href="http://www.al-monitor.com/pulse/iw/originals/2015/06/israel-gaza-flotilla-hamas-turkey-saudi-arabia-egypt-region.html" >flotilla</a>&nbsp;to Gaza and its competition with Netanyahu to&nbsp;<a target="_blank" href="http://www.al-monitor.com/pulse/en/originals/2015/07/israel-netanyahu-nuke-deal-unity-government-petty-politics.html" >slam&nbsp;the Iran agreement</a>.&rdquo;</p>
+
+<p>Netanyahu&rsquo;s decision on Susiya comes as he faces criticism for his policies on Palestinian prisoner releases.</p>
+
+<p><a target="_blank" href="http://www.al-monitor.com/pulse/originals/2015/07/hamas-prisoners-gaza-strip-shalit-exchange-deal-arouri.html">Shlomi Eldar</a>&nbsp;writes that a program to release prisoners outside of the West Bank, and particularly to Gaza, has backfired after recent terror attacks: &ldquo;The bottom line is that Israel&rsquo;s working premise&nbsp;&mdash;&nbsp;according to which &lsquo;heavyweight&rsquo;&nbsp;prisoners are to be expelled to the Gaza Strip upon their release&nbsp;&mdash;&nbsp;has been proven to be wrong. Keeping them at a distance doesn&rsquo;t keep them away from terror.&rdquo;</p>
+
+<p>In fact, Eldar writes, &ldquo;Deporting the heavyweight prisoners to Gaza has another substantial drawback. In Gaza, they are far away from the watchful eyes of the Palestinian security forces as well as the Shin Bet. More than likely, if the West Bank headquarters&nbsp;had been set up in the West Bank, Israel and the Palestinian Authority &mdash;&nbsp;which have demonstrated effective cooperation in the past&nbsp;&mdash;&nbsp;would have nipped it in the bud.&rdquo;</p>
+          <p class="noScreen" style="text-align:left;"> Read More: http://www.al-monitor.com/pulse/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html</p>
+        </div>
+      </div>
+      <div class="span4" id="sidecolumn">
+        <section class="sideAuthorBox">
+  <div class="row-fluid">
+    
+    <a href="/pulse/contents/authors/al-monitor.html">
+    <div class="author"><img src="/pulse/files/live/sites/almonitor/files/images/authors/am-globebw.jpg" width="117">
+      <div class="authorName">Week in Review</div>
+      <div class="alegreya">Contributor, &nbsp;</div>
+    </div>
+    </a>
+    <div style="text-align:justify;"></div>
+  </div>
+</section>
+
+          <!-- side info box -->
+        
+
+<div class="row-fluid contentRow" >
+<iframe
+src="//www.facebook.com/plugins/likebox.php?locale=en_US&href=https%3A%2F%2Fwww.facebook.com%2Falmonitor&amp;width=280&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=115006175316219"
+scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:62px; margin-bottom:10px;" allowTransparency="true"></iframe>
+
+<a href="https://twitter.com/AlMonitor" class="twitter-follow-button" data-show-count="true" data-size="large" data-lang="en">Follow @AlMonitor</a>
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');</script>
+
+<script type="text/javascript">function target_popup(a){window.open("","formpopup","width=400,height=400,resizeable,scrollbars");a.target="formpopup"}</script>
+
+<div class="overlayBar" style="margin-top:10px;">
+ <!-- Begin MailChimp Signup Form -->
+
+
+
+<div >
+<form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <span style="search">
+ <select name="language">
+  <option value="http://al-monitor.us3.list-manage.com/subscribe/post?u=f1566964eaf39ab18387973ed&amp;id=28264b27a0"  selected>English Newsletter</option>
+  <option value="http://al-monitor.us3.list-manage.com/subscribe/post?u=f1566964eaf39ab18387973ed&amp;id=846b584639" >Arabic Newsletter</option>
+  <option value="http://al-monitor.us3.list-manage.com/subscribe/post?u=f1566964eaf39ab18387973ed&amp;id=0008962d29" >Hebrew Newsletter</option>
+  <option value="http://al-monitor.us3.list-manage.com/subscribe/post?u=f1566964eaf39ab18387973ed&amp;id=1fc8ac3c13" >Turkish Newsletter</option>
+ </select>
+ <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Subscribe to Newsletter" required>
+ </span>
+ <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+ <div style="position: absolute; left: -5000px;display:none;"><input type="text" name="b_f1566964eaf39ab18387973ed_28264b27a0" value=""></div>
+ <div class="clear" style="display:inline;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="padding: 10px 15px;background: #FFF;color: #0077c0!important;border: solid 1px #20538D;text-shadow: 0 -1px 0 rgba(0,0,0,0.4);-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-webkit-transition-duration: 0.2s;-moz-transition-duration: 0.2s;transition-duration: 0.2s;width:100px;margin: 0px 0px 10px 10px;line-height: 7px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;" 
+onclick="subm(this.form,this.form.language.options[this.form.language.selectedIndex].value)"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:20px;">
+
+  <tr>
+    <td><h4>Original Al-Monitor Translations</h4></td>
+  </tr>
+  <tr>
+    <td><a href="/pulse/iw/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html" class="pull-left ">&#1489;&#1506;&#1489;&#1512;&#1497;&#1514;</a><br/><a href="/pulse/tr/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html"  class="pull-left ">T&uuml;rk&ccedil;e okuyun</a><br/><a href="/pulse/fa/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html" class="pull-left "> &#1576;&#1607; &#1601;&#1575;&#1585;&#1587;&#1740;</a><br/><a href="/pulse/ar/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html" class="pull-left ">&#1573;&#1602;&#1585;&#1571; &#1576;&#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a><br/></td>
+  </tr>
+
+  <tr>
+    <td><h4>Translate with Google</h4></td>
+  </tr>
+  <tr>
+    <td><div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'fa,fr,iw,ru,tr', multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></td>
+  </tr>
+</table>
+</div>
+  <script>
+    $( document ).ready(function() {
+      var h1 = $( "leftcolumn" ).height();
+      var h2 = $( "sidecolumn" ).height();
+      var x = h1 - h2;
+      var y = 0;
+      if ( x > 255 && x < 510 ) { y = 1; } else if ( x > 510 && x < 765 ) { y = 2; } else if ( x > 765 ) { y = 3; } 
+      switch (y) { 
+        case 1 : 
+          $("#gad1").css("display","block");
+          $("#gad2").css("display","none");
+          $("#gad3").css("display","none");
+          break;
+        case 2 :
+          $("#gad1").css("display","block");
+          $("#gad2").css("display","block");
+          $("#gad3").css("display","none");
+          break;
+        case 3 :
+          $("#gad1").css("display","block");
+          $("#gad2").css("display","block");
+          $("#gad3").css("display","block");
+          break;
+        default: 
+          $("#gad1").css("display","block");
+          $("#gad2").css("display","block");
+          $("#gad3").css("display","block");
+      }
+    }); 
+  </script>
+<div style="margin-bottom:20px; display:none;" class="hidden-phone" id="gad1">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- New Article Ads (2014) -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-5426816400207884"
+         data-ad-slot="2529777663"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <div style="margin-bottom:20px; display:none;" class="hidden-phone" id="gad2">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- New Article Ads (2014) -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-5426816400207884"
+         data-ad-slot="2529777663"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <div style="margin-bottom:20px; display:none;" class="hidden-phone" id="gad3">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- New Article Ads (2014) -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-5426816400207884"
+         data-ad-slot="2529777663"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+      </div>
+    </div>
+  </div>
+</section><!--****************************************** /jcr:root/sites/almonitor/contents/articles//element(*,jnt:almNews)[@jcr:language='en'][@j:tags='ffe9f22f-cc29-46c6-b708-f57e6198c85f' or @j:tags='ed9e9332-23e9-4d2c-9f30-63910aa24adf' or @j:tags='1dc937f3-80a1-4885-aaa9-db8c17baeb1f' or @j:tags='1095b632-e114-440b-a463-d5add5e1b13f' or @j:tags='a737d706-09d3-40c8-8cdd-2c5188dfc05b' or @j:tags='9ff464ab-d558-4ef7-8c1b-b062e8730d45' or @j:tags='926391ef-f26e-4155-882e-24ff2310f855' or @j:tags='a2343241-a72a-4fa8-acce-5f002a5612ca'  and @content_en='true' and not(jcr:like(@j:nodename,'turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq'))] order by @jcr:created descending ********************************-->
+
+<section class="originals visible-desktop" id="relatedarticles">
+  <div class="container-fluid"><div class="span8">
+    <div class="row-fluid"><h3>Related Articles</h3></div>
+     <div class="span12">
+      <div class="row-fluid contentRow">
+    
+                <div class="span2">
+                <!-- EEE en -->
+
+
+     
+<a href="/pulse/originals/2015/07/west-bank-tobacco-cultivation-agriculture.html">
+  <h6>Palestine</h6>
+  <img src="/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/Tobacco_Field_Jenin.jpg?t=thumbnail_170">
+  <h5>Tobacco eats away West Bank agricultural lands</h5>
+</a> <span class="authorName"> <a href="/pulse/contents/authors/aziza-nofal.html" class="authorName">Aziza Nofal</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- EEE en -->
+
+
+     
+<a href="/pulse/originals/2015/07/hagai-ben-artzi-netanyahu-prime-minister-bennett-religious.html">
+  <h6>Israel</h6>
+  <img src="/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTXGH6V.jpg?t=thumbnail_170">
+  <h5>Family feud: Bibi's brother-in-law slams current government</h5>
+</a> <span class="authorName"> <a href="/pulse/contents/authors/mazal-mualem.html" class="authorName">Mazal Mualem</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- EEE en -->
+
+
+     
+<a href="/pulse/originals/2015/07/zarif-iraq-visit.html">
+  <h6>Iraq</h6>
+  <img src="/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTX1M0DY.jpg?t=thumbnail_170">
+  <h5>Can Iraq bring Iran and the GCC closer?</h5>
+</a> <span class="authorName"> <a href="/pulse/contents/authors/luay-al-khatteeb.html" class="authorName">Luay al-Khatteeb</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- EEE en -->
+
+
+     
+<a href="/pulse/originals/2015/07/syria-kobani-oil-blockade-islamic-state.html">
+  <h6>Syria</h6>
+  <img src="/pulse/files/live/sites/almonitor/files/images/almpics/2015/07/RTR4NL9J.jpg?t=thumbnail_170">
+  <h5>Kobani’s oil dries up</h5>
+</a> <span class="authorName"> <a href="/pulse/contents/authors/massoud-hamed.html" class="authorName">Massoud Hamed</a></span>
+          </div>
+        
+      </div>
+     </div>
+    </div>
+  </div>
+</section><section class="comments" id="disqus">
+  <div class="container-fluid" id="wow">
+    <div class="row-fluid contentRow">
+    <div class="span8" id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_config = function () { this.language = "en"; };
+        var disqus_shortname = 'almonitor';
+        var disqus_identifier = 'e2a6d5f9-5298-4ce6-907c-645dc93a195e';
+        var disqus_title = 'Erdogan’s shift on Islamic State linked to Kurdish gains in Syria';
+        var disqus_url = 'http://www.al-monitor.com/pulse/originals/2015/07/turkey-attacks-islamic-state-in-syria-pkk-in-northern-iraq.html';
+        var disqus_category_id = '2330716';
+        (function() { 
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+  </div>
+</section><div class="clear"></div>
+
+<footer class="visible-desktop" dir="LTR" id="footer">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span2">
+        <ul>
+          <p>Content</p>
+          <a href="/pulse/galleries"> <li>Galleries</li> </a>
+
+          <a href="/pulse/topics"> <li>Topic Pages</li> </a>
+
+          <a href="/pulse/lobbying"> <li> Middle East Lobbying Series </li> </a>
+          <a href="/pulse/submission-guidelines"> <li> Submission Guidelines </li> </a>
+          <a href="/pulse/opportunities"> <li> Opportunities </li> </a>  
+
+        </ul>
+      </div>
+      <div class="span2">
+        <ul>
+          <p>About Al-Monitor</p>
+          <a href="/pulse/about"> <li>About</li> </a>
+          <a href="/pulse/privacy"> <li>Privacy</li> </a>
+          <a href="/pulse/visitor-agreement"> <li>Visitor Agreement</li> </a>
+          <a href="/pulse/contactus"> <li>Contact Us</li> </a>
+          <a href="/pulse/about/in-the-news"> <li>In The News</li> </a>
+	      <a href="/pulse/newsletter-signup" > <li>Newsletter Sign Up</li> </a>
+        </ul>
+      </div>
+      <div class="span4">
+        <ul>
+          <p>Pulses</p>
+          <a href="/pulse/egypt-pulse"> <li>Egypt</li> </a>
+          <a href="/pulse/gulf-pulse">  <li>Gulf</li>  </a>
+          <a href="/pulse/iraq-pulse">  <li>Iraq</li>  </a>
+          <a href="/pulse/iran-pulse">  <li>Iran</li>  </a>
+        </ul>
+        <ul class="secondary">
+          <a href="/pulse/israel-pulse"> <li>Israel</li> </a>
+          <a href="/pulse/lebanon-pulse"> <li>Lebanon</li> </a>
+          <a href="/pulse/palestine-pulse"> <li>Palestine</li> </a>
+          <a href="/pulse/syria-pulse"> <li>Syria</li> </a>
+        </ul>
+        <ul class="tertiary">
+          <a href="/pulse/turkey-pulse">  <li>Turkey</li> </a>
+          <a href="/pulse/back-channel">  <li>Back Channel</li> </a>
+          <a href="/congresspulse">  <li>Congress</li> </a>
+          <a href="/pulse/russia-mideast">  <li>Russia / Mideast</li> </a>
+        </ul>
+        <ul class="tertiary">
+          <a href="/pulse/week-in-review"> <li>Week In Review</li> </a>
+        </ul>
+      </div>
+      <div class="span3 offset1">
+        <div class="search" ><form action="/pulse/search-results.html" method="get" id="testf2">
+ <input type="hidden" name="jcrMethodToCall" value="get"/>
+ <input type="hidden" name="src_originSiteKey" value="almonitor"/>
+ <input type="hidden" name="src_itemsPerPage" value="10"/>
+ <span class="ss-standard magGlassFooter">&#x1F50E;</span>
+ <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+ </form></div>
+        <p style="color:#a8a8a8;">&copy;2015 Al-Monitor. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<section class="mobile-extras hidden-desktop" id="footer3">
+  <div class="container-fluid" id="extras">
+    <ul>
+      <a href="/pulse/featured-partners">
+      <li>From Our Media Partners <span class="ss-standard pull-right">&#x25BB;</span></li>
+      </a>
+    </ul>
+  </div>
+</section>
+
+<footer class="mobile-footer hidden-desktop" id="footer2">
+  <div class="container-fluid">
+    <div class="row-fluid"> <img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/mobileFooterLogo.png">
+      <p>&copy;2015 Al-Monitor. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+  
+    <script text="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/mobileNav.js"></script>
+    <script text="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.timeago.js"></script>
+    <script text="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/newsticker.jquery.js"></script>
+  </div><!-- end div inner-wrap -->
+</div><!-- end div outer-wrap -->
+<!--stop bodywrapper-->
+
+
+<script  id="almJSCDNt15"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/bootstrap.js"></script> 
+<script  id="staticAssetJavascript16"  type="text/javascript" src="/pulse/modules/bootstrap/javascript/bootstrap-collapse.js"></script> 
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.fitvids2.js"></script>
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.facebook.js"></script>
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/lunametrics-youtube.js"></script>
+<script  id="almJSCDN21"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery-ui.js"></script> 
+
+  
+
+  <script  id="staticAssetJavascript22"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/welcome.js"></script>   
+  
+  
+    <script>
+  $(function() {
+    $( "#tabs" ).tabs();
+  });
+  </script>
+  
+  
+
+  <script>
+    $(document).ready(function(){
+      $(".video").fitVids();
+      $('#post').autoResizeFbPost();
+    });
+  
+    $("#ustream").fitVids({ customSelector: "iframe[src^='http://www.ustream.tv']"});
+  </script>
+  
+  <script>
+        $(window).load(function(){
+            var newHeight = $(".ratioImage").height();
+            $(".ratioImageHolder").height(newHeight * 0.75);
+        });
+        $(window).resize(function() {
+            var newHeight = $(".ratioImage").height();
+                    $(".ratioImageHolder").height(newHeight * 0.75);
+        });
+  </script>
+
+
+  <script>
+    $(function(){
+      $( "#accordion1,#accordion2,#accordion3,#accordionsub1,#accordionsub2,#leadership" ).accordion({
+      active: false,
+      heightStyle: "content",
+      collapsible: true
+      });
+    });
+  </script>  
+  
+  
+
+<div onClick="$('.likeMenu').toggle();" class="shareTag hidden-phone"  id="sharetag" title="">
+  <div class="ss-standard">&#xEE00;</div>
+  <p>Share</p>
+  <ul class="likeMenu" >
+    <a href="http://www.facebook.com/share.php?u=http://almon.co/2ha8" target="_blank">
+      <li ><span class="socialIcons">&#xF610;</span>Recommend</li>
+    </a> <a href="https://twitter.com/intent/tweet?text=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria&nbsp;http://almon.co/2ha8 via @AlMonitor" target="_blank">
+    <li ><span class="socialIcons">&#xF611;</span>Tweet</li>
+    </a> <a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria - Al-Monitor: the Pulse of the Middle East&url=' + encodeURIComponent(window.location); return false">
+    <li ><span class="socialIcons">&#xF616;</span>Reddit</li>
+    </a> <a href="mailto:?subject=Erdogan’s shift on Islamic State linked to Kurdish gains in Syria - Al-Monitor: the Pulse of the Middle East&body=http://almon.co/2ha8%0A%0ARead more at http://www.Al-Monitor.com">
+    <li ><span class="socialIcons">&#x2709;</span>Email</li>
+    </a>
+  </ul>
+</div>
+
+
+<div class="overlay" id="overlay" style="display:none;">
+<script type="text/javascript">function target_popup(a){window.open("","formpopup","width=400,height=400,resizeable,scrollbars");a.target="formpopup"}</script>
+  <div class="overlayModal"> <a href="#" class="close" id="overlay_close">X</a>
+    <div class="overlayLogo"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/logo.png"></div>
+    <div class="overlayLogoHeadline">The Pulse of the Middle East</div>
+    <div class="main">Al-Monitor brings together top journalists from across the Middle East. Including Egypt, Iran, Iraq, Israel, Lebanon, Palestine, Syria and Turkey. Plus, we have daily translations from 20 major news organizations in the region.</div>
+    <div class="sub">Stay connected. Sign up for our daily newsletter.</div>
+    <!-- Begin MailChimp Signup Form -->
+
+
+
+<div class="overlayBar">
+<span class="signup">Newsletter Signup</span>
+<form action="http://al-monitor.us3.list-manage.com/subscribe/post?u=f1566964eaf39ab18387973ed&amp;id=28264b27a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="display:inline;" novalidate>
+ <span style="search">
+ <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Subscribe to Newsletter" required>
+ </span>
+ <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+ <div style="position: absolute; left: -5000px;display:none;"><input type="text" name="b_f1566964eaf39ab18387973ed_28264b27a0" value=""></div>
+ <div class="clear" style="display:inline;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="padding: 10px 15px;background: #FFF;color: #0077c0!important;border: solid 1px #20538D;text-shadow: 0 -1px 0 rgba(0,0,0,0.4);-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-webkit-transition-duration: 0.2s;-moz-transition-duration:0.2s;transition-duration: 0.2s;width:100px;margin: 0px 0px 10px 10px;line-height: 7px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;" ></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+  </div>
+</div>
+
+ 
+ 
+</body>
+</html>

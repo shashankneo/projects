@@ -1,0 +1,955 @@
+<!doctype HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="no-js">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# etonline: http://ogp.me/ns/fb/etonline#">
+<!-- Date: 2015-08-02 00:48:22 -->
+<!-- DO NOT REMOVE THE COMMENT BELOW -->
+<!-- ET Response Object -->
+
+	<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<title>Bobbi Kristina Brown's Friend on Her Final Days: 'I Played Her Mom's Music'</title>
+	<meta name="description" content="ET talked to a friend of the Brown family who was there for Bobbi Kristina’s last moments." />
+	
+	<meta name="keywords" content="Bobbi Kristina Brown, wanda shelley, whitney houston" />
+	<meta name="robots" content="all" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta property="twitter:account_id" content="23603092" />
+	<meta name="twitter:site" content="@etnow" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/" />
+	<meta name="twitter:title" content="Bobbi Kristina Brown's Friend on Her Final Days: 'I Played Her Mom's Music'" />
+	<meta name="twitter:description" content="ET talked to a friend of the Brown family who was there for Bobbi Kristina’s last moments." />
+	<meta name="twitter:image" content="http://www.etonline.com/media/video/2015/07/24168528/et_krissy_friend_0728_horiz_ren640.jpg" />
+	<meta property="og:title" content="Bobbi Kristina Brown's Friend on Her Final Days: 'I Played Her Mom's Music'" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/" />
+	<meta property="og:image" content="http://www.etonline.com/media/video/2015/07/24168528/et_krissy_friend_0728_horiz_ren640.jpg" />
+	<meta property="og:description" content="ET talked to a friend of the Brown family who was there for Bobbi Kristina’s last moments." />
+	<meta property="og:site_name" content="Entertainment Tonight" />
+	<meta property="og:image:width" content="640" />
+	<meta property="og:image:height" content="360" />
+	<meta property="fb:admins" content="3111204" />
+	<meta property="fb:app_id" content="145337045558621" />	<link href="https://plus.google.com/105621479350227756827"; rel="publisher"/>
+	<link rel="shortcut icon" href="http://www.etonline.com/favicon.ico" />
+	<link rel="image_src" content="http://www.etonline.com/media/video/2015/07/24168528/et_krissy_friend_0728_horiz_ren640.jpg" />
+	<link rel="canonical" href="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/" /> 
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/" >
+	<link rel="stylesheet" href="/stylesheet/genericons.css"  type="text/css" >
+	<link rel='stylesheet' href='/stylesheet/bootstrap.css'  type='text/css' >
+	<link rel='stylesheet' href='/stylesheet/bootstrap-theme-alt.css'  type='text/css' >
+	<link rel='stylesheet' href='/stylesheet/custom.css'  type='text/css' >
+    <!-- COMSCORE -->
+    <script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"8628780",c3:"",c4:"http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=8628780&c4=http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/&cv=2.0&cj=1"/>
+    </noscript>
+ 	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "ab4e7516-48e4-4103-93e0-88d13f006887", popup:true, servicePopup: true, doNotHash: true, doNotCopy: false, shorten:false,  hashAddressBar: false});</script>
+	   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>  
+	   <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body id="top" class="layout_article  ">
+
+	<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+	</script>
+
+	<script type='text/javascript'>
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/4840/etonline.com/news/article', [1, 1], 'div-gpt-ad-etonline-news/article-0').addService(googletag.pubads()).setTargeting("pos",["skin"]);
+	googletag.defineSlot('/4840/etonline.com/news/article', [[970, 90], [728, 90],[970, 250]], 'div-gpt-ad-etonline-news/article-1').addService(googletag.pubads()).setTargeting("pos",["atf", "header"]);
+	googletag.defineSlot('/4840/etonline.com/news/article', [[300, 1050], [300, 600], [300, 250]], 'div-gpt-ad-etonline-news/article-2').addService(googletag.pubads()).setTargeting("pos",["atf", "a"]);
+	googletag.defineSlot('/4840/etonline.com/news/article', [300, 250], 'div-gpt-ad-etonline-news/article-3').addService(googletag.pubads()).setTargeting("pos",["btf", "e"]);
+	googletag.defineSlot('/4840/etonline.com/news/article', [728, 90], 'div-gpt-ad-etonline-news/article-4').addService(googletag.pubads()).setTargeting("pos",["btf", "anchor"]); 
+	googletag.defineSlot('/4840/etonline.com/news/article', [[640, 300], [640, 250], [600, 250]], 'div-gpt-ad-etonline-news/article-5').addService(googletag.pubads()).setTargeting("pos",["incontent", "native"]); 
+googletag.defineOutOfPageSlot('/4840/etonline.com/news/article', 'div-gpt-ad-etonline-news/article-7-oop').addService(googletag.pubads());
+	googletag.pubads().set("page_url", "http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/index.html"); //Replace URL with current page URL
+	googletag.pubads().setTargeting("node","168887");
+	googletag.pubads().collapseEmptyDivs(); 
+	googletag.pubads().setTargeting("kw",["Bobbi Kristina Brown","wanda shelley","whitney houston"]);
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+	</script>
+
+	<div class='ad-block-wrapper text-center topleader'><div class='ad-unit billboard center-block'><div id='div-gpt-ad-etonline-news/article-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-1'); });</script></div></div></div><!-- /BLOCKS/HEADER.PHP ALTERED:08072014 -->
+ 
+<header class='masthead full-width subpage' data-spy='affix' data-offset-top='124'><nav class='primary-nav thin navbar navbar-default container' role='navigation'><!-- /BLOCKS/BRANDING.PHP ALTERED:08072014 -->
+
+<h1 class="branding pull-left">
+	<a href="/" class=" brand-et">
+		<img src="/media/img/et-logo_08132014.png" alt="Entertainment Tonight" class="logo">
+	</a>
+</h1><div class='main-nav navbar pull-left'><!-- /BLOCKS/MAIN_NAV.PHP ALTERED:08072014 -->
+
+
+<ul class="nav navbar-nav interstatebold">
+	<li class="menu-item">
+		<a href="#" class="sections" data-toggle="modal" data-target="#mega_nav" onclick="sizeContent();">
+			<span class="icon genericon genericon-menu"></span>
+			Sections
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="/news/" class="">
+			News
+		</a>
+	</li>
+
+	<li class="menu-item" class="">
+		<a href="/tv/">
+			TV
+		</a>
+	</li>
+
+	<li class="menu-item">
+		<a href="/video/index.html" class="">
+			Video
+		</a>
+	</li>
+<!--
+	<li class="menu-item">
+		<a href="/awards/">
+			Awards
+		</a>
+	</li>
+-->
+</ul><div class='pull-right'><!-- /BLOCKS/PRIMARY-SOCIAL.PHP ALTERED:08072014 -->
+
+<ul class="social-nav nav navbar-nav navbar-right">
+	<li class="menu-item">
+		<a href="http://www.facebook.com/EntertainmentTonight" target="_blank" class="icon genericon genericon-facebook-alt text-hidden">
+			<!-- Facebook -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="http://instagram.com/entertainmenttonight" target="_blank" class="icon genericon genericon-instagram">
+			<!-- Instagram -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="https://twitter.com/etnow" target="_blank" class="icon genericon genericon-twitter">
+			<!-- Twitter -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a rel="publisher" href="http://entertainmenttonight.tumblr.com/" target="_blank" class="icon genericon genericon-tumblr">
+			<!-- Tumblr -->
+		</a>
+	</li>
+</ul><ul class='social-nav nav navbar-nav navbar-right'><li class='menu-item'><a href='http://www.etonline.com/showfinder/'><span class='ETsprite watchTVicon'></span><span class='interstateboldcond watchTVtext'>WATCH ET</span></a></li></ul><!-- /BLOCKS/SEARCH.PHP ALTERED:08072014 -->
+
+<form id="cse-search-box" class="navbar-form navbar-right" role="search">
+	<input type="text" id="search_input" name="q" value="Search" onclick="if(this.value == 'Search'){this.value = '';}; this.form.action='/search?q=' + this.value; this.forms.submit()" class="form-control" style=""/>
+	<input name="sa" type="image" value="sa" id="search_btn" class="ETsprite" src="http://www.etonline.com/media/img/trans_px.png" />
+</form>
+</div></div><!-- /SLOTTED/WHATSHOT/FILE.MC altered: 07262014 -->
+
+
+<div class="whats-hot clearfix pull-left anchor-list interstatecond">
+	<span class="label label-default label-whatshot mint-bg interstateboldconditalic">
+		TRENDING
+	</span>
+	<a href='/celebs/bobbi_kristina_brown/index.html'>Bobbi Kristina Funeral</a><a href='/news/169165_a_bikini_clad_rihanna_drips_gold_see_the_pics/index.html'>Rihanna Bikini</a><a href='/news/169158_charlize_theron_adopts_second_child_find_out_her_name/index.html'>Charlize Adopts Again</a><a href='/news/169159_ashlee_simpson_and_evan_ross_reveal_newborn_daughter_rockstar_name/index.html'>Ashlee Names Baby Girl</a><a href='/news/169116_valerie_harper_health_update/index.html'>Valerie Harper</a></div></nav></header>
+	<div id="page-wrapper" class="wrapper clearfix" style="display:block;">
+
+	<!-- ARTICLE.MC ALTERED:07142014 -->
+
+
+<section class="col_full grey_border_bottom">
+	<a href="/news/"><h3 class="titleheading interstatebold">NEWS</h3></a>
+	<h2 class="titleheading interstateboldcond">Bobbi Kristina Brown's Friend on Her Final Days: 'I Played Her Mom's Music'</h2>
+	<p class='byline interstatelight'>by&nbsp;<b>Meredith B. Kile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5:04 PM PDT, July 28, 2015<!-- /BLOCKS/SOCIALBAR.PHP ALTERED:07142014a -->
+
+<section id='socialFloatHorz' class='hideme'><span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1IqW1np' st_via='etnow' displayText='Twitter'></span><span class='st_pinterest_large' displayText='Pintrest'></span><span class='st_tumblr_large' displayText='Tumblr'></span><span class='st_googleplus_large' displayText='Google+'></span><span class='st_email_large' displayText='Email'></span></section></p></section>
+<section class="col_ab">
+	<article>
+			<!-- /BLOCKS/SOCIALBAR.PHP ALTERED:07142014 -->
+
+<section id='socialFloatVert'><span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1IqW1np' st_via='etnow' displayText='Twitter'></span><span class='st_pinterest_large' displayText='Pintrest'></span><span class='st_tumblr_large' displayText='Tumblr'></span><span class='st_googleplus_large' displayText='Google+'></span><span class='st_email_large' displayText='Email'></span></section>			
+			<div id='article_img_wrap'><div class='bc_video'><object id="myExperience" class="BrightcoveExperience"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="640" /><param name="height" value="360" /><param name="playerID" value="3728351661001" /><param name="playerKey" value="AQ~~,AAABIWNF7qE~,EJbsvFObVfIN67Cbt0PVAZjGhJX2MdeQ" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="autoStart" value="true" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer"  value="title_168888" /><param name="linkBaseURL" value="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/index.html" /><param name="includeAPI" value="true" /><param name="templateLoadHandler" value="myPlayerLoaded" /><param name="wmode" value="transparent" /></object></div><iframe data-video-ads="true" id="google_top" name="google_top" style="display:none"></iframe><script async src="//pagead2.googlesyndication.com/pagead/js/google_top.js"></script></div><div id='article_text'><p>After she was found unresponsive in her bathtub nearly six months ago, Bobbi Kristina Brown's family and friends kept a constant vigil. Many of them, like friend Wanda Shelley, were there when she died on July 26.</p><p>&quot;We were a core team to make sure she was never alone,&quot; Wanda told ET of Bobbi Kristina’s last moments. &quot;We were in hospice that day, reading to her, singing to her, doing things we would normally do.&quot;</p><p><a href="http://www.etonline.com/news/166778_bobbi_kristina_brown_dead_at_22_whitney_houston_bobby_brown_5_months_coma/" target="_blank"><strong>WATCH: Bobbi Kristina Brown Dies at 22</strong></a></p><p>Wanda, who first became close to the Brown family while working as an executive producer on their reality show, <em>Being Bobby Brown</em>, was part of a tight-knit circle of people who helped attend to Bobbi Kristina from the beginning of her hospitalization.</p><p>She told ET that a typical day spent by Bobbi Kristina’s side would include reading from the Bible, playing music, and giving her leg rubs with coconut oil.</p><p>&quot;I played her mom's music,&quot; Wanda said. &quot;I feel like her mom has been there the whole time.&quot;</p><p><a href="http://www.etonline.com/news/159039_bobbi_kristina_brown_timeline/#14" target="_blank"><strong>PHOTOS: Bobbi Kristina Brown's Life in the Spotlight
+</strong></a></p><p>Now, Wanda faces the worst kind of deja vu as she and Bobbi Kristina’s family prepare to lay her to rest by her mother, Whitney Houston, at a gravesite that she visited for an episode of the reality series.</p><p>&quot;Honestly, that's pretty unimaginable to me,&quot; Wanda said of the devastating coincidence. &quot;I keep asking myself, 'How'd we get here?'&quot;</p><p>Wanda also expressed her condolences for Bobbi Kristina's grieving father, Bobby Brown.</p><p>&quot;It’s definitely hard on Bobby,&quot; she said. &quot;That's his daughter. My heart went out to him, he was crying for his daughter.&quot;</p><p>Bobbi Kristina’s funeral will be held on Saturday, Aug. 1, in the Atlanta area. On Monday, she will be laid to rest with her mother at Fairview Cemetery in Westfield, New Jersey.</p><p><a href="http://www.etonline.com/news/168835_nick_gordon_spotted_florida_after_bobbi_kristina_brown_death/" target="_blank"><strong>EXCLUSIVE: Nick Gordon Wearing Bobbi Kristina Brown's Engagement Ring After Her Death
+</strong></a></p><div class='bc_video secondary'><object id="myExperience1" class="BrightcoveExperience"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="640" /><param name="height" value="360" /><param name="playerID" value="1866663937001" /><param name="playerKey" value="AQ~~,AAABIWNF7qE~,EJbsvFObVfKdSBX38G2Cxqi3Xa40uGGB" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="autoStart" value="false" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer"  value="title_168841" /><param name="linkBaseURL" value="http://www.etonline.com/media/video/exclusive_nick_gordon_still_wearing_wedding_ring_after_bobbi_kristina_death-168841/index.html" /><param name="includeAPI" value="true" /><param name="templateLoadHandler" value="myPlayerLoaded" /><param name="wmode" value="transparent" /></object></div>	
+
+			<section id="socialFloatVertHorz">
+				<span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1IqW1np' st_via='etnow'></span>			</section>
+
+			</%perl>
+			
+			<!-- Cached for 5 minutes --> <div class='item twocol noBtmMargin'><section class='tagblock wrapper grey_border_bottom'><p><a href='/celebs/bobbi_kristina_brown' class='arttags interstatecond'>Bobbi Kristina Brown</a><a href='/celebs/whitney_houston' class='arttags interstatecond'>Whitney Houston</a></p></section></div><!--  SLOTTED MORE FROM --><div class="OUTBRAIN" data-src="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/index.html" data-widget-id="AR_1" data-ob-template="etonline" ></div>
+<div class="OUTBRAIN" data-src="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/index.html" data-widget-id="AR_16" data-ob-template="etonline" ></div>
+<!-- /BLOCKS/COMMENTING.PHP ALTERED:07142014 -->
+
+<div class="item twocol">
+	<section class="livefyreblock wrapper">
+		<div id="livefyre"></div>			
+	</section>
+	<div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+</div>			
+			<div class="item twocol">
+				<section class="youmaylike wrapper">
+					<h2 class="uppercase interstateboldcond">You might also like</h2>
+					<span class="goldunderline"></span>
+					<div id='div-gpt-ad-etonline-news/article-5'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-5'); });</script></div>				</section>
+			</div>
+	</article>
+</section>
+
+<section class='col_c'><div class='item'><div class='ad-block-wrapper text-center'><div class='ad-unit medium-rectangle center-block'><div id='div-gpt-ad-etonline-news/article-2'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-2'); });</script></div></div></div></div><div class='item'><!-- /BLOCKS/NEWSLETTER1.PHP ALTERED: 07262014 -->
+
+<script>
+function GetXmlHttpObject1()
+	{
+		if (window.XMLHttpRequest)
+		  {
+			  // code for IE7+, Firefox, Chrome, Opera, Safari
+			  return new XMLHttpRequest();
+		  }
+		if (window.ActiveXObject)
+		  {
+			  // code for IE6, IE5
+			  return new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		return null;
+	}
+
+function processEmailOptin1()
+{
+
+        var xmlhttp = GetXmlHttpObject1();
+        var lfckv = document.getElementById("agreement-check1").checked
+
+        //alert(xmlhttp);
+        
+	if(lfckv)
+	{
+
+		var url;
+		var email = document.getElementById("email_input1").value;
+
+		if( email == "")
+		{
+			document.getElementById("email_results1").innerHTML = "Please enter your email address.";
+			document.getElementById("email_results1").style.display="block";
+		}
+		else
+		{
+			url = "/inc/process_email_optin.php?email="+ email +"&ip=10.25.64.67";
+
+			//alert(url);
+			document.getElementById('signup_form1').innerHTML = "<img src='http://www.etonline.com/inc/2010/08/23823617/ajax-loader.gif' />";
+
+			xmlhttp.onreadystatechange=function()
+				{
+					if(xmlhttp.readyState==4)
+					  {
+						if(xmlhttp.status == 200)
+						{
+							var res = xmlhttp.responseText;
+							//alert("here"+res);
+//MWH FOR TESTING IN DEV ONLY
+//res = "Success";
+							if(res.indexOf("Success") > -1)                                               
+							{
+     						           document.getElementById('df_thanks1').style.display = "block";							   
+							   document.getElementById('email_results1').innerHTML = "";
+							   document.getElementById("email_results1").style.display="none";
+              				}
+							else
+							{
+							   document.getElementById('df_error1').style.display = "block";
+							}
+						}
+					}
+				}
+				xmlhttp.open("GET",url,true);
+				xmlhttp.send();
+		
+			
+
+
+		}
+	
+
+	}
+	else
+	{
+		document.getElementById('email_results1').innerHTML = "Please Accept The Terms and Conditions before submitting the request";
+		document.getElementById("email_results1").style.display="block";
+	}
+}
+</script>
+
+
+
+<aside class="daily-first pink-bg diamond-lattice">
+	<div class="wrapper">
+		<h4>
+			<div for="email_input" class="interstateboldconditalic">
+				GET THE <span class="white-text">DAILY FIRST</span> NEWS
+			</div>
+		</h4>
+		<!-- <form action="post" role="form" class="inline-form footer-newsletter-form"> -->
+			<div class="input-group" style="margin-bottom: 10px;">
+				<input id="email_input1" name="email_input1" type="text" class="form-control email-input" placeholder="Your E-Mail Address">
+				<button type="submit" class="signup-btn" onclick="processEmailOptin1()">Sign Up</button>
+			</div>
+			<div class="input-group">
+				<p class="inputButton">
+					<input type="checkbox" name="agreement-check1" id="agreement-check1" >
+					<p for="agreement-check" style="font-size: 11px;">
+						By checking this box you acknowledge our <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy-Highlights?template=template_mobilepp&referer=mobilepp.com" target="_blank">Privacy Policy</a> and agree to the <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com&data=&cfs=default" target="_blank">Terms of Use</a>.
+					</p>
+				</p>
+			</div><!-- /input-group -->
+
+                <div id="signup_form1" style="display: none;"></div>
+		<!-- </form> -->
+	</div>
+<div id="df_thanks1" style="display:none;" class="nlwarning">
+		<p>THANK YOU</p>
+		</div>
+                <div id="df_error1" style="display:none;" class="nlwarning"></div>
+		<div id="email_results1" style="display:none;" class="nlwarning"></div>
+</aside></div><div class='item'><!-- /SLOTTED/LATESTVIDEO/FILE.MC ALTERED: 07262014 -->
+
+
+<section class="top-videos dot-matrix gold-bg" id="top-videos">
+	<div class="group-wrapper">
+		<div class="anchor-block group-header">
+			<h3 class="interstateboldconditalic">
+				<span class="white-text">Top</span>
+				<span class="">Videos</span>
+			</h3>
+		</div>
+		<a href='/news/169104_a_smiling_jessica_biel_and_justin_timberlake_step_out_together_for_the_first_time_post_baby/index.html' class='anchor-block square'><article><h2 class='title'>Justin Timberlake & Jessica Biel Step Out Together Since Son's Birth<span class='indicator'></span></h2><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/07/24169334/et_trending_justin300.jpg" alt="Justin Timberlake &amp; Jessica Biel Step Out Together Since Son&#39;s Birth" class="imgFade imgShift" height="288" width="288"><span class='overlayImg'></span></article></a><a href='/news/169112_taylor_kitsch_addresses_rachel_mcadams_dating_rumors/index.html' class='anchor-block landscape'><article><h4 class='title'>Taylor Kitsch Talks Rachel McAdams Dating Rumors<span class='indicator'></span></h4><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/07/24169346/et_Clip_TaylorKitch_073115_hulu_ren640.jpg" alt="Taylor Kitsch Talks Rachel McAdams Dating Rumors" class="imgFade imgShift" height="162" width="288"><span class='overlayImg'></span></article></a><a href='/tv/169129_limitless_sneak_peek_bradley_cooper_meets_his_successor/index.html' class='anchor-block landscape'><article><h4 class='title'>EXCLUSIVE: Bradley Cooper Meets His Successor in CBS' 'Limitless' <span class='indicator'></span></h4><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/07/24169375/et_Clip_Limitless_073115_hulu_ren640.jpg" alt="EXCLUSIVE: Bradley Cooper Meets His Successor in CBS&#39; &#39;Limitless&#39; " class="imgFade imgShift" height="162" width="288"><span class='overlayImg'></span></article></a>	</div>  
+</section>
+
+</div><div class='item'><div class="anchor-block group-header diamond-lattice gold-bg anchor-block" style="height: 55px;margin: 0;padding: 16.5px 16px; text-transform:uppercase;"><h3 class="interstateboldconditalic"><span class="white-text">Around</span> <span class="">the Web</span></h3></div>
+ 
+<div id="zergnet-widget-28862" style="position: relative;  top: -5px;"></div>
+</div><div class='item'>
+<section class="new-photos group-wrapper">
+	<div class="anchor-block photos-header">
+		<h3 class="interstateboldconditalic">
+			<span class="hot-pink">New</span>
+			<span class="">Photos</span>
+		</h3>
+	</div>
+	<a href='/gallery/167173_star_sightings_july_2015/index.html' class='anchor-block portrait'><article class=''><h2 class='title'>Star Sightings<span class='indicator'></span></h2><img src="/photo/2015/08/24169503/425_paul_mccartney_GettyImages-482613286.jpg" alt="Star Sightings" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a><a href='/news/159039_bobbi_kristina_brown_timeline/index.html' class='anchor-block landscape'><article class=''><h4 class='title'>Bobbi Kristina's Life in the Spotlight<span class='indicator'></span></h4><img src="/photo/2015/02/24129105/640_bobbi_kristina_brown_whitney_houston.jpg" alt="Bobbi Kristina&#39;s Life in the Spotlight" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a><a href='/gallery/125842_Hollywood_Hottest_Bikini_Bods/index.html' class='anchor-block landscape'><article class=''><h4 class='title'>Hollywood's Hottest Bikini Bods<span class='indicator'></span></h4><img src="/photo/2015/08/24169499/640_rihanna_bikini_instagram.jpg" alt="Hollywood&#39;s Hottest Bikini Bods" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a></section>
+</div><div class='item'><!-- /BLOCKS/WEREREADING.PHP ALTERED: 07262014 -->
+<section class="latest-news group-wrapper" id="latest-news">
+	<div class="anchor-block diamond-lattice heading-bg">
+		<h3 class="interstateboldconditalic group-header upperCaseTitle">
+			<span class="flat-gold">We're</span>
+			<span class="cool-mint">Reading</span>
+		</h3>
+	</div>
+<div class="OUTBRAIN" data-src="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/index.html" data-widget-id="SB_4" data-ob-template="etonline" ></div>
+</section>
+</div><div class='item'><!-- Cached for 5 minutes --> <div class="item">
+<div class="mostpopular partner-block">
+	<div target="_blank" class="diamond-lattice mint-bg anchor-block">
+		<h3 class="branding group-header interstateboldconditalic mint-trans-ltr-grad">
+		<span class="white-text">MOST</span>
+		<span class="">POPULAR</span>
+		</h3>
+
+</div>
+	<div class="group-wrapper">
+<p><a href='http://www.etonline.com/gallery/125842_Hollywood_Hottest_Bikini_Bods/' class='anchor-block' >Hollywood's Hottest Bikini Bods!</a></p><p><a href='http://www.etonline.com/news/169164_bobbi_kristina_brown_intimate_memorial_service_focuses_on_family_music_and_spirituality/' class='anchor-block' >Bobbi Kristina Brown's Intimate Memorial Service Focuses on Family, Music and Spirituality</a></p><p><a href='http://www.etonline.com/news/169123_bobbi_kristina_brown_s_family_gathers_for_wake_prepares_for_memorial_service/' class='anchor-block' >Bobbi Kristina Brown’s Family Gathers for Wake, Prepares for Memorial Service</a></p><p><a href='http://www.etonline.com/news/169161_bobbi_kristina_aunt_leolah_brown_thrown_out_of_funeral/' class='anchor-block' >Bobbi Kristina's Aunt Leolah Brown Thrown Out of Funeral After Outburst</a></p><p><a href='http://www.etonline.com/news/169157_family_and_friends_attend_bobbi_kristina_brown_s_memorial_service/' class='anchor-block' >Family and Friends Attend Bobbi Kristina Brown’s Memorial Service</a></p><p><a href='http://www.etonline.com/news/168747_kate_middleton_looks_gorgeous_despite_the_rain_first_official_outing_since_princess_charlotte_birth/' class='anchor-block' >Kate Middleton Looks Gorgeous Despite the Rain in First Official Outing Since Princess Charlotte's B</a></p></div>
+</div>
+</div><div class='item'><div class='ad-block-wrapper text-center'><div class='ad-unit medium-rectangle center-block'><div id='div-gpt-ad-etonline-news/article-3'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-3'); });</script></div></div></div></div></section><div class='ad-block-wrapper footerblock text-center'><div class='ad-unit leaderboard center-block'><div id='div-gpt-ad-etonline-news/article-4'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-4'); });</script></div></div></div>
+
+
+
+
+	</div><!-- end page wrapper -->
+
+<div id='div-gpt-ad-etonline-news/article-0' style='border: 0pt none; padding:0px; margin:0px; height:0px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-news/article-0'); });</script></div><!-- /BLOCKS/FOOTER.PHP ALTERED:08072014 -->
+
+<footer class="primary-footer">
+	<section class="asides-group dot-matrix black-bg">
+		<div class="container">
+
+		<!-- /BLOCKS/FOOTER-BLOCKS.PHP ALTERED:07262014 -->
+
+<div class="footer-block browse-et">
+	<h4>Browse ET</h4>
+	<nav>
+		<ul>
+			<li><a href="/news">News</a></li>
+			<li><a href="/tv">TV</a></li>
+			<li><a href="/movies">Movies</a></li>
+			<li><a href="/awards">Awards</a></li>
+			<li><a href="/fashion">Fashion</a></li>
+			<li><a href="/music">Music</a></li>
+			<li><a href="/gallery">Photos</a></li>
+			<li><a href="/video/index.html">Video</a></li>
+			<li><a href="/giveaways">Giveaways</a></li>
+			<li><a href="/newsletters">Newsletters</a></li>
+		</ul>
+	</nav>
+</div>
+
+<div class="footer-block connect-et">
+	<h4>Connect With ET</h4>
+	<ul>
+		<li><a href="http://www.facebook.com/EntertainmentTonight" target="_blank">Facebook</a></li>
+		<li><a href="https://twitter.com/#!/etnow" target="_blank">Twitter</a></li>
+		<li><a href="http://instagram.com/entertainmenttonight" target="_blank">Instagram</a></li>
+                <li><a href="http://entertainmenttonight.tumblr.com" target="_blank">Tumblr</a></li>
+		<li><a href="https://plus.google.com/+entertainmenttonight/posts" target="_blank">Google+</a></li>
+		<li><a href="http://www.youtube.com/entertainmenttonight" target="_blank">YouTube</a></li>
+		<li><a href="http://www.etonline.com/rss/">RSS</a></li>
+		<li><a href="http://www.etonline.com/etmobile">Mobile</a></li>
+		<li><a href="http://www.etonline.com/showfinder/">ET on TV</a></li>
+		<li><a href="http://www.cbsbrandstudio.com/advertising/" target="_blank">Advertise with Us</a></li>
+		<li><a href="/contact/" >Contact Us</a></li>
+	</ul>
+</div>
+
+<div class="footer-block sites-we-love">
+	<h4>Sites We Love</h4>
+	<ul>
+		<li><a href="http://www.cbsnews.com/" target="_blank">CBS News</a></li>
+		<li><a href="http://www.tvguide.com/" target="_blank">TV Guide</a></li>
+		<li><a href="http://www.rachaelrayshow.com/" target="_blank">Rachael Ray Show</a></li>
+		<li><a href="http://www.insideedition.com/" target="_blank">Inside Edition</a></li>
+		<li><a href="http://www.chow.com/" target="_blank">Chow</a></li>
+		<li><a href="http://www.last.fm/" target="_blank">last.fm</a></li>
+		<li><a href="http://www.metacritic.com/" target="_blank">Metacritic</a></li>
+		<li><a href="http://www.metrolyrics.com/" target="_blank">metrolyrics</a></li>
+		<li><a href="http://www.tv.com/" target="_blank">TV.com</a></li>
+		<li><a href="http://www.startswithyou.com/" target="_blank">Starts With You</a></li>
+	</ul>
+</div>
+
+<!-- CHECK FOR FOOTER --><!-- /BLOCKS/NEWSLETTER2.PHP ALTERED: 07262014 -->
+
+<script>
+function GetXmlHttpObject2()
+	{
+		if (window.XMLHttpRequest)
+		  {
+			  // code for IE7+, Firefox, Chrome, Opera, Safari
+			  return new XMLHttpRequest();
+		  }
+		if (window.ActiveXObject)
+		  {
+			  // code for IE6, IE5
+			  return new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		return null;
+	}
+
+function processEmailOptin2()
+{
+
+        var xmlhttp = GetXmlHttpObject2();
+        var lfckv = document.getElementById("agreement-check2").checked
+
+        //alert(xmlhttp);
+        
+	if(lfckv)
+	{
+
+
+		var url;
+		var email = document.getElementById("email_input2").value;
+
+		if( email == "")
+		{
+			document.getElementById("email_results2").innerHTML = "PLEASE ENTER YOUR EMAIL ADDRESS.";
+		}
+		else
+		{
+			url = "/inc/process_email_optin.php?email="+ email +"&ip=10.25.64.67";
+			//alert(url);
+			document.getElementById('signup_form2').innerHTML = "<img src='http://www.etonline.com/inc/2010/08/23823617/ajax-loader.gif' />";
+
+			xmlhttp.onreadystatechange=function()
+				{
+					if(xmlhttp.readyState==4)
+					  {
+						if(xmlhttp.status == 200)
+						{
+							var res = xmlhttp.responseText;
+							//alert("here"+res);
+//MWH FOR TESTING IN DEV ONLY
+//res = "Success";
+							if(res.indexOf("Success") > -1)                                               
+							{
+     						           document.getElementById('df_thanks2').style.display = "block";							   
+							   document.getElementById('email_results2').innerHTML = "";
+              				}
+							else
+							{
+							   document.getElementById('df_error2').style.display = "block";
+							}
+						}
+					}
+				}
+				xmlhttp.open("GET",url,true);
+				xmlhttp.send();
+		
+			
+
+
+		}
+	
+
+	}
+	else
+	{
+		document.getElementById('email_results2').innerHTML = "Please Accept The Terms and Conditions before submitting the request";
+	}
+}
+</script>
+
+<!-- /BLOCKS/NEWSLETTER2.PHP ALTERED:07262014 -->
+
+<aside class="footer-block">
+	<h4>
+		<label for="email_input2" class="cool-mint">
+			Newsletter
+		</label>
+	</h4>
+	<!-- <form action="post" role="form" class="inline-form footer-newsletter-form" _lpchecked="1"> -->
+		<div class="input-group" style="margin-bottom: 10px;">
+			<input id="email_input2" name="email_input2" type="text" class="form-control email-input" placeholder="Your E-Mail Address">
+			<button type="submit" class="signup-btn" onclick="processEmailOptin2()">Sign Up</button>
+		</div>
+		<div class="input-group">
+			<p class="inputButton">
+				<input type="checkbox" name="agreement-check2" id="agreement-check2">
+				<p for="agreement-check2" style="font-size: 11px;">
+					By checking this box you acknowledge our <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy-Highlights?template=template_mobilepp&referer=mobilepp.com" target="_blank">Privacy Policy</a> and agree to the <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com&data=&cfs=default" target="_blank">Terms of Use.</a>
+				</p>
+			</p>
+		</div>
+                <div id="signup_form2" style="display: none;"></div>
+		<div id="df_thanks2" style="display:none;"  class="nlwarning1">
+		<p>THANK YOU</p>
+		</div>
+                <div id="df_error2" style="display:none;"  class="nlwarning1"></div>
+		<div id="email_results2" class="nlwarning1"></div>
+	 <!-- </form> -->
+</aside>
+
+
+		</div>
+	</section>
+	<section class="center-block text-center legal">
+
+		<!-- /BLOCKS/ICON-BAR.PHP ALTERED:07262014 -->
+
+<section class="icon-bar">
+	<a href="http://www.facebook.com/EntertainmentTonight" target="_blank" class="genericon genericon-facebook-alt">
+		<!-- Facebook -->
+	</a>
+	<a href="http://instagram.com/etonline" target="_blank" class="genericon genericon-instagram">
+		<!-- Instagram -->
+	</a>
+	<a href="https://twitter.com/etnow" target="_blank" class="genericon genericon-twitter">
+		<!-- Twitter -->
+	</a>
+	<a href="https://plus.google.com/+entertainmenttonight/posts" target="_blank" class="genericon genericon-googleplus-alt">
+		<!-- Google + -->
+	</a>
+	<a href="http://www.youtube.com/entertainmenttonight" target="_blank" class="genericon genericon-youtube">
+		<!-- YouTube -->
+	</a>
+	<a href="http://www.pinterest.com/etonline" target="_blank" class="genericon genericon-pinterest">
+		<!-- Pinterest -->
+	</a>
+	<a href="http://www.etonline.com/rss/" class="genericon genericon-feed">
+		<!-- RSS -->
+	</a>
+	<a href="http://www.stumbleupon.com/channel/ETonline" target="_blank" class="genericon genericon-stumbleupon">
+		<!-- StumbleUpon -->
+	</a>
+	<a href="http://m.etonline.com/index.html" target="_blank" class="genericon genericon-tablet">
+		<!-- Kargo -->
+	</a>
+</section>
+<!-- /BLOCKS/LEGALESE.PHP ALTERED:07262014 -->
+
+	
+
+<h5 class="copyright">
+	CBS Television Distribution © 2015 CBS Studios Inc. All Rights Reserved <!-- it's ok to use unicode charaters in UTF-8 encoded documents, but the encoding must be set! -->
+</h5>
+<h6 class="anchor-strip">
+	<a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive--Terms-of-Use?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3DmobileTerms.com&popup=false&categories=CBS_Interactive%3AmTOU&template=template_mobileTerms&referer=mobileTerms.com" target="_blank">Terms of Use</a>&nbsp;|&nbsp;
+	<a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy?template=template_mobilePrivacy&referer=mobileprivacy.com" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;
+	<a href="http://www.etonline.com/newsdesk/tips2013.php" target="_blank">Submit a Tip</a>
+</h6>
+
+
+	</section>
+</footer><!-- /BLOCKS/MODAL.PHP ALTERED:07262014 -->
+
+<div class="modal fade" id="mega_nav" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<a href="#" class="anchor-block dismiss" data-dismiss="modal">
+					<span aria-hidden="true" class="genericon genericon-close"></span>
+				</a>
+			</div>
+			<div class="modal-body clearfix">
+				<!-- /slotted/meganav/file.mc altered: 07262014 -->
+
+<nav class='interstatebold mega-nav pull-left'>
+<ul>
+<li class='menu-item'>
+<a href='/news' class='anchor-block'>NEWS</a>
+<div id='NEWS' class='fly-out hidden-xs hidden-sm'>
+<a href='/news' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN NEWS</h3></a>
+<a href='/news/169173_prince_william_queen_elizabeth_look_regal_newly_released_portraits/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/08/24169512/300_prince_william_exhibit.jpg' alt='Prince William & Queen Elizabeth Look Regal in Newly Released Portraits -- See the Pics!'>
+<h4 class='media-heading'>Prince William & Queen Elizabeth Look Regal in Newly Released Portraits -- See the Pics!<span class='indicator'></span></h4>
+</a>
+<a href='/news/169172_mission_impossible_rogue_nation_scores_highest_opening_numbers_franchise_history/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/04/24146366/300_tom_cruise_MI5stunt.jpg' alt=''Mission: Impossible 5' Scores Highest Opening Numbers in Franchise History'>
+<h4 class='media-heading'>'Mission: Impossible 5' Scores Highest Opening Numbers in Franchise History<span class='indicator'></span></h4>
+</a>
+<a href='/news/169171_dave_grohl_responds_in_italian_after_1_000_musicians_play_foo_fighters_song_unison/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/06/24158941/300_Dave_Grohl_464298106.jpg' alt='Dave Grohl Responds in Italian After 1,000 Musicians Play Foo Fighters Song in Unison'>
+<h4 class='media-heading'>Dave Grohl Responds in Italian After 1,000 Musicians Play Foo Fighters Song in Unison<span class='indicator'></span></h4>
+</a>
+<a href='/news/169169_valerie_harper_replaced_nice_work_if_you_can_get_it_following_hospital_stay/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/news/2015/07/24169012/set_valerie_harper_300.jpg' alt='Valerie Harper Replaced in Play Following Hospital Stay'>
+<h4 class='media-heading'>Valerie Harper Replaced in Play Following Hospital Stay<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/tv' class='anchor-block'>TV</a>
+<div id='TV' class='fly-out hidden-xs hidden-sm'>
+<a href='/tv' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN TV</h3></a>
+<a href='/news/169133_bill_hader_somehow_manages_to_be_creepy_and_delightful_cut_snl_sketch/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/07/24169400/300_bill_hader_snl.jpg' alt='Bill Hader Somehow Manages to Be Creepy and Delightful in Cut 'SNL' Sketch'>
+<h4 class='media-heading'>Bill Hader Somehow Manages to Be Creepy and Delightful in Cut 'SNL' Sketch<span class='indicator'></span></h4>
+</a>
+<a href='/news/169155_kevin_bacon_and_jimmy_fallon_perfectly_channel_the_beach_boys_spot_on_parody/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/news/2015/07/24169476/300.jpg' alt='Kevin Bacon and Jimmy Fallon Channel The Beach Boys in Perfect Parody - Watch!'>
+<h4 class='media-heading'>Kevin Bacon and Jimmy Fallon Channel The Beach Boys in Perfect Parody - Watch!<span class='indicator'></span></h4>
+</a>
+<a href='/news/169137_coach_taylor_is_back_kyle_chandler_reprises_his_beloved_friday_night_lights_role_for_an_important_psa/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/07/24169429/300_coach_taylor_psa.jpg' alt='Coach Taylor Is Back! Kyle Chandler Reprises Beloved 'FNL' Role'>
+<h4 class='media-heading'>Coach Taylor Is Back! Kyle Chandler Reprises Beloved 'FNL' Role<span class='indicator'></span></h4>
+</a>
+<a href='/tv/169129_limitless_sneak_peek_bradley_cooper_meets_his_successor/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169377/et_Clip_Limitless_073115_300.jpg' alt='EXCLUSIVE: Bradley Cooper Meets His Successor in CBS' 'Limitless''>
+<h4 class='media-heading'>EXCLUSIVE: Bradley Cooper Meets His Successor in CBS' 'Limitless'<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/movies' class='anchor-block'>MOVIES</a>
+<div id='MOVIES' class='fly-out hidden-xs hidden-sm'>
+<a href='/movies' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN MOVIES</h3></a>
+<a href='/news/169172_mission_impossible_rogue_nation_scores_highest_opening_numbers_franchise_history/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/04/24146366/300_tom_cruise_MI5stunt.jpg' alt=''Mission: Impossible 5' Scores Highest Opening Numbers in Franchise History'>
+<h4 class='media-heading'>'Mission: Impossible 5' Scores Highest Opening Numbers in Franchise History<span class='indicator'></span></h4>
+</a>
+<a href='/news/169168_channing_tatum_closes_deal_to_star_gambit_despite_rumors/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/news/2015/07/24168731/set_channing_tatum_gambit_300.jpg' alt='Channing Tatum Closes Deal to Star in 'Gambit' Despite Rumors'>
+<h4 class='media-heading'>Channing Tatum Closes Deal to Star in 'Gambit' Despite Rumors<span class='indicator'></span></h4>
+</a>
+<a href='/news/169150_trainwreck_bloopers_are_super_nsfw/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/news/2015/07/24169463/300_lebron_trainwreck.jpg' alt='LeBron James Steals the Spotlight in Super NSFW 'Trainwreck' Bloopers'>
+<h4 class='media-heading'>LeBron James Steals the Spotlight in Super NSFW 'Trainwreck' Bloopers<span class='indicator'></span></h4>
+</a>
+<a href='/movies/169087_johnny_depp_creepy_as_whitey_bulger_black_mass/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/07/24169236/black_mass_300.jpg' alt='Johnny Depp Will Creep You Out in New 'Black Mass' Trailer'>
+<h4 class='media-heading'>Johnny Depp Will Creep You Out in New 'Black Mass' Trailer<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/awards' class='anchor-block'>AWARDS</a>
+<div id='AWARDS' class='fly-out hidden-xs hidden-sm'>
+<a href='/awards' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN AWARDS</h3></a>
+<a href='/news/168326_taylor_swift_ed_sheeran_and_beyonce_to_face_off_at_the_vmas/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24166772/300_taytay_vma_nomnoms.jpg' alt='Taylor! Ed! Bey! VMA Nominations Revealed'>
+<h4 class='media-heading'>Taylor! Ed! Bey! VMA Nominations Revealed<span class='indicator'></span></h4>
+</a>
+<a href='/awards/168324_2015_first_time_emmy_nominations/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/07/24166503/300_taraji_adrien_150720.jpg' alt='First-Time Emmy Nominees in 2015'>
+<h4 class='media-heading'>First-Time Emmy Nominees in 2015<span class='indicator'></span></h4>
+</a>
+<a href='/awards/168135_exclusive_how_caitlyn_jenner_chose_the_perfect_versace_gown_for_her_powerful_espys_moment/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24165882/300_et_c4caitlynstylist_071615.jpg' alt='The Story Behind Caitlyn Jenner's Gorgeous ESPYs Gown'>
+<h4 class='media-heading'>The Story Behind Caitlyn Jenner's Gorgeous ESPYs Gown<span class='indicator'></span></h4>
+</a>
+<a href='/awards/168121_the_11_best_emmy_nom_reactions_amy_schumer_ricky_gervais_more/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/07/24165867/300_ricky_amy_150716.jpg' alt='The 11 Best Emmy Nom Reactions: Amy Schumer, Ricky Gervais & More!'>
+<h4 class='media-heading'>The 11 Best Emmy Nom Reactions: Amy Schumer, Ricky Gervais & More!<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/fashion' class='anchor-block'>FASHION</a>
+<div id='FASHION' class='fly-out hidden-xs hidden-sm'>
+<a href='/fashion' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN FASHION</h3></a>
+<a href='/fashion/169138_get_your_first_look_at_melissa_mccarthy_chic_new_clothing_line/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169443/et_b02_McCarthy_073115_300.jpg' alt='Get Your First Look at Melissa McCarthy's Chic New Clothing Line!'>
+<h4 class='media-heading'>Get Your First Look at Melissa McCarthy's Chic New Clothing Line!<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/169139_inside_the_new_book_that_celebrates_the_beauty_every_woman/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169385/et_c06_CurvesNewBook_073115_300..jpg' alt='Meet the Curvy Models Celebrating the Beauty in Women of All Sizes'>
+<h4 class='media-heading'>Meet the Curvy Models Celebrating the Beauty in Women of All Sizes<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/155156_pics_fashion_friday_roundup/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/07/24169295/300_fashion_friday_150731.jpg' alt='PICS: Fashion Friday Roundup'>
+<h4 class='media-heading'>PICS: Fashion Friday Roundup<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/169099_why_gigi_hadid_is_glad_to_work_the_age_of_twitter_and_instagram/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/07/24169276/300_gigi_hadid_150731_spl1060530_001.jpg' alt='Why Gigi Hadid Is Glad to Work in the Age of Twitter and Instagram'>
+<h4 class='media-heading'>Why Gigi Hadid Is Glad to Work in the Age of Twitter and Instagram<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/music' class='anchor-block'>MUSIC</a>
+<div id='MUSIC' class='fly-out hidden-xs hidden-sm'>
+<a href='/music' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN MUSIC</h3></a>
+<a href='/news/169171_dave_grohl_responds_in_italian_after_1_000_musicians_play_foo_fighters_song_unison/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/06/24158941/300_Dave_Grohl_464298106.jpg' alt='Dave Grohl Responds in Italian After 1,000 Musicians Play Foo Fighters Song in Unison'>
+<h4 class='media-heading'>Dave Grohl Responds in Italian After 1,000 Musicians Play Foo Fighters Song in Unison<span class='indicator'></span></h4>
+</a>
+<a href='/news/169155_kevin_bacon_and_jimmy_fallon_perfectly_channel_the_beach_boys_spot_on_parody/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/news/2015/07/24169476/300.jpg' alt='Kevin Bacon and Jimmy Fallon Channel The Beach Boys in Perfect Parody - Watch!'>
+<h4 class='media-heading'>Kevin Bacon and Jimmy Fallon Channel The Beach Boys in Perfect Parody - Watch!<span class='indicator'></span></h4>
+</a>
+<a href='/music/169148_duran_duran_talks_paper_gods_album_working_with_lindsay_lohan/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169434/et_c02_DuranDuranSophie_073115_300.jpg' alt='Duran Duran Talks 'Paper Gods' Album & Working With Lindsay Lohan'>
+<h4 class='media-heading'>Duran Duran Talks 'Paper Gods' Album & Working With Lindsay Lohan<span class='indicator'></span></h4>
+</a>
+<a href='/news/169144_patrick_stewart_does_a_perfect_dramatic_reading_of_taylor_swift_style_is_ready_to_join_her_squad/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169419/300_et_intv_patrickstewart_073115.jpg' alt='Patrick Stewart Does a Perfect Dramatic Reading of Taylor Swift's 'Style''>
+<h4 class='media-heading'>Patrick Stewart Does a Perfect Dramatic Reading of Taylor Swift's 'Style'<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/gallery' class='anchor-block'>PHOTOS</a>
+<div id='PHOTOS' class='fly-out hidden-xs hidden-sm'>
+<a href='/gallery' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN PHOTOS</h3></a>
+<a href='/gallery/167173_star_sightings_july_2015/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/08/24169502/300_paul_mccartney_GettyImages-482613286.jpg' alt='Paul McCartney Rocks Out at Lollapalooza'>
+<h4 class='media-heading'>Paul McCartney Rocks Out at Lollapalooza<span class='indicator'></span></h4>
+</a>
+<a href='/gallery/162545_stars_as_cute_kids_the_most_adorable_tbts/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/gallery/2015/07/24169448/300_tbt_melissamccarthy.jpg' alt='Stars as Cute Kids: The Most Adorable #TBTs'>
+<h4 class='media-heading'>Stars as Cute Kids: The Most Adorable #TBTs<span class='indicator'></span></h4>
+</a>
+<a href='/gallery/144748_Stars_Share_Pics_of_Their_Cute_Kids/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/07/24169411/200_jlo_kids.jpg' alt=' Jennifer Lopez Snaps a Car Selfie With Her Kids — See the Cute Pic!'>
+<h4 class='media-heading'> Jennifer Lopez Snaps a Car Selfie With Her Kids — See the Cute Pic!<span class='indicator'></span></h4>
+</a>
+<a href='/gallery/131745_TV_and_Movie_Cast_Reunions/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/tv/2015/07/24169350/300_american_dreams_cast_reunion.jpg' alt=''American Dreams' Cast Reunites By the Beach'>
+<h4 class='media-heading'>'American Dreams' Cast Reunites By the Beach<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/video/index.html' class='anchor-block'>VIDEO</a>
+<div id='VIDEO' class='fly-out hidden-xs hidden-sm'>
+<a href='/video/index.html' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN VIDEO</h3></a>
+<a href='/media/video/inside_bobbi_kristina_brown_funeral_not_a_dry_eye_and_no_nick_gordon-169167/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/08/24169509/et_funeral_bobbie_final_080115300.jpg' alt='Inside Bobbi Kristina Brown's Funeral: 'Not a Dry Eye', And No Nick Gordon'>
+<h4 class='media-heading'>Inside Bobbi Kristina Brown's Funeral: 'Not a Dry Eye', And No Nick Gordon<span class='indicator'></span></h4>
+</a>
+<a href='/media/video/bobbi_kristina_brown_aunt_leolah_removed_from_funeral_says_whitney_houston_will_haunt-169162/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/08/24169492/et_bobbi_kristina_Leolah_080115300.jpg' alt='Bobbi Kristina Brown's Aunt Leolah Removed From Funeral, Says Whitney Houston Will 'Haunt''>
+<h4 class='media-heading'>Bobbi Kristina Brown's Aunt Leolah Removed From Funeral, Says Whitney Houston Will 'Haunt'<span class='indicator'></span></h4>
+</a>
+<a href='/media/video/bobbi_kristina_brown_friends_and_family_attend_funeral_georgia-169160/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/08/24169485/et_bobby_kristina_080115300.jpg' alt='Bobbi Kristina Brown's Friends and Family Attend Funeral in Georgia '>
+<h4 class='media-heading'>Bobbi Kristina Brown's Friends and Family Attend Funeral in Georgia <span class='indicator'></span></h4>
+</a>
+<a href='/media/video/bobbi_kristina_brown_family_attends_wake_plans_funeral_as_nick_gordon_begs_to_attend-169152/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/07/24169469/300_et_trending_bobbikris_073115.jpg' alt='Bobbi Kristina Brown's Family Attends Wake, Plans Funeral As Nick Gordon Begs to Attend'>
+<h4 class='media-heading'>Bobbi Kristina Brown's Family Attends Wake, Plans Funeral As Nick Gordon Begs to Attend<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item' class='anchor-block'><a href='/tag/celebs/' class='media anchor-block'>CELEBS</a><div id='celebs' class='fly-out'></div></li>
+</ul>
+</nav>
+			</div>
+		</div>
+		<div class="modal-footer clearfix">
+			<!-- /BLOCKS/MEGA-NAV/MODAL-BRANDING.PHP ALTERED:07262014 -->
+
+<span class="modalBranding">
+	<a href="/" class="modal-brand anchor-block noBackground">
+		<img src="/media/img/et-logo_08132014.png" alt="Entertainment Tonight" class="logo">
+	</a>
+</span>		</div>
+	</div>
+</div>
+
+<!-- /BLOCKS/FOOTER-SCRIPTS.PHP ALTERED:07262014 -->
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '145337045558621',
+      xfbml      : true,
+      version    : 'v2.1'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script src="/js/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js"></script>
+<script src="http://isotope.metafizzy.co/isotope.pkgd.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script async defer language='JavaScript' type='text/javascript' src='https://sadmin.brightcove.com/js/BrightcoveExperiences.js'></script>
+<script async defer type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script async defer type="text/javascript"src="/js/brightcove.js"></script>
+<script async defer type="text/javascript">window._taboola = window._taboola || [];_taboola.push({flush:true});</script>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script type="text/JavaScript" src="http://etonline.ep.livefyre.com/media/ZXRvbmxpbmUuZXAubGl2ZWZ5cmUuY29t/javascripts/customprofiles.js"></script>
+<script type="text/JavaScript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+                    <script type="text/javascript">
+                    //alert('here');
+                    var lf_config = [{
+                            "collectionMeta": "eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkJvYmJpIEtyaXN0aW5hIEJyb3duJ3MgRnJpZW5kIG9uIEhlciBGaW5hbCBEYXlzOiAnSSBQbGF5ZWQgSGVyIE1vbSdzIE11c2ljJyIsInVybCI6Imh0dHA6XC9cL3d3dy5ldG9ubGluZS5jb21cL25ld3NcLzE2ODg4N19ib2JiaV9rcmlzdGluYV9icm93bl9mcmllbmRfb25faGVyX2ZpbmFsX2RheXNfaV9wbGF5ZWRfaGVyX21vbV9zX211c2ljXC8iLCJjaGVja3N1bSI6ImZmYjNlOTY4NTQ5MTU1YjJkZmE2Njg1YjgzZGJmODgzIiwiYXJ0aWNsZUlkIjoiMTY4ODg3In0.vu-LbsggPz1cu0LGGsxhNrQSJYIcZRj8nxnW-8Uub7I",
+                            "checksum": "ffb3e968549155b2dfa6685b83dbf883",
+                            "siteId": "314418",
+                            "el": "livefyre",
+                            "articleId": "168887",
+                            "maxVisible": "10"
+                    }];
+                    var authDelegate = new fyre.conv.SPAuthDelegate({engage: {app:'cbstv.auth.fyre.co'}});
+                    var conv = fyre.conv.load({"network": "cbstvdistribution.fyre.co","authDelegate": authDelegate}, lf_config);
+                    processing=true;
+                    </script>
+                		<!-- <script type="text/javascript">
+		// <![CDATA[
+		var _mb_site_guid =
+		"2213dc46bada533d9c512c1b942f5eed71a1f37bd87456f4b55908d30fa6278c";
+		(function(d, t){
+		var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		mb.async = mb.src = '//cdn.linksmart.com/linksmart.js';
+		s.parentNode.insertBefore(mb, s);
+		}(document, 'script'));
+		// ]]>
+		</script> -->
+                
+		<script src="/js/custom.js"></script>
+</script>
+
+	<script language="javascript" type="text/javascript">
+	(function() {
+	var zergnet = document.createElement('script');
+	zergnet.type = 'text/javascript'; zergnet.async = true;
+	zergnet.src = 'http://www.zergnet.com/zerg.js?id=28862';
+	var znscr = document.getElementsByTagName('script')[0];
+	znscr.parentNode.insertBefore(zergnet, znscr);
+	})();
+	</script>
+
+
+<!-- OMNITURE TAG -->
+<script id='myscript' type='text/javascript' src='/includes/s_code.js'></script>
+<script language="JavaScript" type="text/javascript">
+    	s.campaign=""; //variable for campaign
+	s.channel="news:article";
+	s.pageName="Bobbi Kristina Brown's Friend on Her Final Days: 'I Played Her Mom's Music'";
+	s.server="www.etonline.com";
+	s.referrer=document.referer;
+	s.prop1="News";
+	s.pageURL="http://www.etonline.com/news/168887_bobbi_kristina_brown_friend_on_her_final_days_i_played_her_mom_s_music/";
+	var s_code=s.t();if(s_code)document.write(s_code);
+        console.log();
+</script>
+<script language="JavaScript" type="text/javascript"> if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-'); </script>
+<noscript><img src="http://cbs.112.2o7.net/b/ss/cbset/1/H.25.5--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+<!-- CHARTBEAT TAG -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION **/
+_sf_async_config.uid = 20200;
+_sf_async_config.domain = "etonline.com";
+_sf_async_config.sections = "News";
+_sf_async_config.authors = "Meredith B. Kile";
+_sf_async_config.useCanonical = true;
+(function(){
+	function loadChartbeat()
+	{
+		window._sf_endpt=(new Date()).getTime();
+		var e=document.createElement('script');
+		e.setAttribute('language','javascript');
+		e.setAttribute('type','text/javascript');
+		e.setAttribute('src',(("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat.js");
+		document.body.appendChild(e)
+	}
+	var oldonload=window.onload;
+	window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat()}
+})();
+</script>
+
+<!-- Auto link maker Apple Itunes -->
+<!-- makes all apple links into affiliate link -->
+
+<script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '1010l3go']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
+
+<!--BEGIN GOOGLE ANALYTICS TAG -->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-1072526-1','etonline.com');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<!-- QUANTCAST TAG-->
+<script type="text/javascript">_qoptions={qacct:"p-8aDQIJR0hCO6U"};</script><script type="text/javascript"src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-8aDQIJR0hCO6U.gif"style="display: none;"border="0"height="1"width="1"alt="Quantcast"/></noscript>
+
+<!--  BUZZFEED TAG 
+<div id="BF_WIDGET_1"></div><script type="text/javascript">(function(){BF_WIDGET_JS=document.createElement('script');BF_WIDGET_JS.type="text/javascript";BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=etonline.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb="+(new Date()).getTime();setTimeout(function(){document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1)})();</script>
+-->
+
+<!-- NIELSEN ONLINE SITECENSUS V6.0 TAG -->
+<script type="text/javascript"src="//secure-au.imrworldwide.com/v60.js"></script><script type="text/javascript">var pvar={cid:"inceptiondigital",content:"0",server:"secure-au"};var trac=nol_t(pvar);trac.record().post();</script><noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=inceptiondigital&amp;cg=0&amp;cc=1&amp;ts=noscript"width="1"height="1"alt=""/></div></noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7925dc8d76","applicationID":"4375141","transactionName":"bwMAYhdUXUJSVUxZV1ZJN0QMGl5EQF9bHwkMX1QPVGpCRFZFTFxXTgM9RABYVlxRU0pDZ1APEWkRQlxuXl9WRUxdFT1BDEFbbkFZWllWZxELWglcUlxAGVFeXF0eTF4RWF8=","queueTime":0,"applicationTime":236,"ttGuid":"","agentToken":"","atts":"Q0QDFF9OTkw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7925dc8d76","applicationID":"9145267","transactionName":"bwMAYhdUXUJSVUxZV1ZJN0QMGl1UREUXAQ4AXloBOldcU1FfZ1tKURUWXwtUbFNBWU9eZ14UC1MLUWxeXWlQVUpnAAtYBFlsVVJPS29RZxYOVxxQV25bU0pvVVcLPUU6WEZCWlUXWVZcAxoYDUFeXQ==","queueTime":0,"applicationTime":164,"atts":"Q0QDFF9OTkw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>  
+</html>

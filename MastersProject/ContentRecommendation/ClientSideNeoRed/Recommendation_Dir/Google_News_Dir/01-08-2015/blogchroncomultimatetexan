@@ -1,0 +1,1980 @@
+ <!DOCTYPE html><!-- responsive-base -->
+<html class="ui-mobile" lang="en-US"><head>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+	
+	
+	<title>
+		     Texans fans show excitement at first day of training camp - Ultimate Texans	</title>
+	
+    <!-- wroteOmniVars:  -->		<script type="text/javascript"> 
+			// Set some JS variables
+			omni_blogname = "Ultimate Texans";
+						omni_blogposttitle = "Texans fans show excitement at first day of training camp";
+			omni_blogID = '2348';
+			omni_blogusage = 'nichsite';
+			omni_blogauthortype = 'staff';	
+			omni_blogcategory = 'sports';
+			omni_blogcategory2 = 'Texans';
+
+						
+			omni_blognetwork = 'blog.chron.com';
+			omni_blogpath = '/ultimatetexans/';
+			omni_blogpagetype = 'post';
+			omni_blogpageID = '66293'
+
+
+			omni_blogauthor = 'Ultimate Texans';
+						
+		</script>
+		    
+            <script>
+             try {
+            var args = document.location.search.substring(1).split('&');
+            argsParsed = {};
+            for (var i = 0; i< args.length; i++) {
+                var arg = decodeURIComponent(args[i]);
+                if (arg.indexOf('=') == -1) {
+                    argsParsed[arg.trim()] = true;
+                } else {
+                    var kvp = arg.split('=');
+                    argsParsed[kvp[0].trim()] = kvp[1].trim();
+                }
+            }
+            var aps = {};
+            if (argsParsed.hasOwnProperty("s")) {
+                aps.key = 'keyword';
+                aps.values = argsParsed["s"].split('+');
+            } else if (argsParsed.hasOwnProperty("tsp")) {
+                 aps.key = 'keyword';
+                 aps.values = ['top_story_page'];
+            }
+            
+            
+            } catch(err){}
+        </script>
+        
+	
+		<script type="text/javascript" src="/wp-content/mu-plugins/is-mobile/set-web.js"></script>
+	<script type="text/javascript" src="http://blog.chron.com/ultimatetexans/wp-content/mu-plugins/is-mobile/is-mobile.js"></script>
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/chrome.js.php?h=' + (is_mobile ? "f5522304a79caad0c507f550d6b90f06" : "f2c8ba192b07a663a25a679d284ea4cf") + (is_mobile ? '&amp;view=mobile' : '') + '"></scr' + 'ipt>');
+window.responsive_base = window.responsive_base || {};
+window.responsive_base.nav_json = ""; 
+</script>
+
+		<script type="text/javascript">
+		(function() {
+			 
+
+			 
+			window.juiceHasLoaded = false;
+			
+						var prevDefinedEndDefineTagsFunction = window.onJuiceEvent_endDefineTags;
+			window.onJuiceEvent_endDefineTags=function() {
+								window.juiceHasLoaded = true;
+								prevDefinedEndDefineTagsFunction && prevDefinedEndDefineTagsFunction();
+			}
+		})();
+		</script>
+	<style>
+/* fix for bad header from wcm 7/23/15 EAR */
+
+section {
+min-height: auto;
+}
+
+/* Resize blog font entry - JLS July 10th  */
+#blogarticle .blogentrytext,  .entry p  {
+  font-family: "RobotoRegular", Arial, sans-serif;
+  font-size: 16px !important;
+  line-height: 26px !important;
+}
+
+.shsTotDgold {
+background-color: #00336a !important;
+}
+
+#shsMiniBody .shsTableTtlRow td {
+background-color: #00336a !important;
+}
+
+.widget-title-remainder {
+color: #00336a !important;
+}
+.search-submit {
+background-color: #00336a !important;
+}
+.#pagecontent a:link {
+color: #00336a !important;
+}
+.read-more {
+color: #00336a !important;
+}
+.edit-post-link a {
+color: #00336a !important;
+}
+.poll-results a {
+color: #00336a !important;
+}
+.shsNamD a {
+color: #00336a !important;
+}
+.shsTableTtlRow {
+color: #FFFFFF !important;
+}
+.catHolder a {
+color: #00336a !important;
+}
+.tagHolder a {
+color: #cb082f !important;
+}
+#sidebar a  {
+color: #00336a !important;
+}
+p a {
+color: #cb082f !important;
+}
+
+#sidebar .shsTable {
+  min-width:280px;
+}
+
+/* for TSN widget */
+#content-wrap .mobile_sports_widget th {
+background: #FFF !important;
+color: #000 !important;
+font-size: 10px !important;
+font-weight: bold;
+}
+.SNBigScore {
+padding: 4px !important;
+}
+</style>
+
+<style>#outer-wrap > .navigation-slider{background-color: #000000   !important;}#pagecontent .navigation-slider a:link{color: #ffffff !important;}#outer-wrap > .navigation-slider a:hover {color: #EA4A12   !important;}#pagecontent .navigation-slider a:visited{color: #ffffff   !important;}</style>
+
+<link rel="stylesheet" href="http://www.chron.com/css/hdn/modules/viafoura_comments.css" type="text/css" media="all" />
+
+<link rel="stylesheet" href="http://www.chron.com/css/modules/viafoura_comments.css" type="text/css" media="all" />
+
+
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/nfldraftdefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/nfldraft.css">			<script type="text/javascript"> 
+			hdn_contribute_forms_recaptcha_key = "6Ld-39QSAAAAACeu2QMDMJJz8MYwOwiBkQR7WuFv";
+			</script>
+		<!-- wroteOmniVars: 1 -->		<script type="text/javascript">
+						jQuery(document).ready(function() {
+				checkJuiceLoaded = function() {
+					if(window.juiceHasLoaded)
+						jQuery(document).trigger('JuiceFinishedLoadingEvent');	
+					else
+						setTimeout(checkJuiceLoaded, 100);
+				}
+				
+								checkJuiceLoaded();
+			});
+		</script>
+	<link rel="alternate" type="application/rss+xml" title="Ultimate Texans &raquo; Feed" href="http://blog.chron.com/ultimatetexans/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ultimate Texans &raquo; Comments Feed" href="http://blog.chron.com/ultimatetexans/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ultimate Texans &raquo; Texans fans show excitement at first day of training camp Comments Feed" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blog.chron.com\/ultimatetexans\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive_base_base-css'  href='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/css/base.css?ver=a64b917898c09e28969f322b048cc8f0' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_base-css'  href='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/css/responsive.css?ver=b65e02cdec61b5c723b3abe19f63a148' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_chron_base-css'  href='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-chron/css/base.css?ver=a054b64317b0200caecee6b61c43cb88' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_chron-css'  href='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-chron/css/responsive.css?ver=36627b7741a999556c9ae05d03b2dd61' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.fancybox.css-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-contribute-forms/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4;1d5a0a0378a781b2674300bd6459e950' type='text/css' media='screen' />
+<link rel='stylesheet' id='hdn_contribute_forms_css-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-contribute-forms/css/hdn-contribute-forms.css?ver=2012.0810;d4333c0d641db4c0b3a39af80c1fd39f' type='text/css' media='screen' />
+<link rel='stylesheet' id='stats-shsdefault-css'  href='http://hosted.stats.com/config/shsdefault.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stats-chron-shs-css'  href='http://chron.stats.com/shs.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stats-multidefault-css'  href='http://hosted.stats.com/config/multidefault.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stats-chron-multi-css'  href='http://chron.stats.com/multi.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hdn_wpg_gallery_style-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-wp-galleries/themes/hdn_responsive/galleria.hdn_responsive.css?ver=746f6293196a5425a0120857bea5fb86' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/wp-polls/polls-css.css?ver=2.69;e619fed4db9cedec2065f006d5b63713' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://blog.chron.com/ultimatetexans/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='chron_global-css'  href='http://www.chron.com/external/css/global.less.articlePages.r6.17.0.9.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ad_position_widget_named-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/ad_position_widget/css/named.css?ver=ff9fd6544112cdc13082904ae835a2fa' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1;ac25fb529183c5fef5887d02594d1828' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/css/jetpack.css?ver=3.6;00ae6af9c6f80225a2b1396df7cdafd6' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://blog.chron.com/ultimatetexans/wp-content/plugins/taxonomy-images/style.css?ver=0.8.0;b2bb7a8392e88bfedb10f85992541fa3' type='text/css' media='screen' />
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-includes/js/jquery/jquery.js?ver=1.11.2;4e2a6874f8b028fa23591492284a1643'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1;512b871a2830e44259bc3ce3343afcd0'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/jquery-conditional.js?ver=1.11.2;54e3f1603c986c336537d624142b5364'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/responsive-base-headscripts.js?ver=981970e7a8bd04279f115a1982073531'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/hdn_ndn_video.js?ver=18742b6103e85cdf274ebf41a017059c'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/hdn_ndn_video_resizer.js?ver=e6e5a57451e5cac7c9caeb663b56fbf3'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/hdn_aol_video_resizer.js?ver=b533067ef945d35f0ba23682a9f066d6'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-ndn-video/includes/hdn_ndn.js?ver=e25a4070306ada2f81edbc48f2416c07'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hdn_perfect_market = {"is_home":"","is_single":"1","blog_wide_setting":"","network_wide_setting":"<script src=\"http:\/\/widget.perfectmarket.com\/houstonchron\/load.js\"><\/script>","blog_wide_post_only_setting":"","network_wide_post_only_setting":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-perfect-market/perfect-market.js?ver=98dccb741aa4e16c63c48b822a0e922e'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-contribute-forms/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4;8bc36a08c46719377528d962966ce37c'></script>
+<script type='text/javascript' src='http://www.google.com/recaptcha/api/js/recaptcha_ajax.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://treg.hearstnp.com/treg.js'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-wp-galleries/galleria-1.3.3.js?ver=81b50d538d7fd5054db04c4850445e6a'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-wp-galleries/themes/hdn_responsive/galleria.hdn_responsive.min.js?ver=a5165856f5656740c576aa8830c68e19'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-wp-galleries/plugins/history/galleria.history.js?ver=62b0b254aa89eeee615e09a3eb618695'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/scripts.js?ver=7fdfe8a7eecf4bdaa03f0f23d0c1c143'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ad_position_widget = {"ysm_source_url":"http:\/\/images.chron.com\/CDC\/elf\/js\/ysmwrapper.js","ysm_override_url":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/plugins\/ad_position_widget\/js\/ysm_adfix.js","style_override_url":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/plugins\/ad_position_widget\/css\/ysm.css","page_url_tweaks":{"host":{"prepend":"m."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/ad_position_widget/js/ad_position_widget.js?ver=828180daba5d727ad8781b68c2ee646b'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/in_post_widgets.js?ver=10ad2e9bee090fc092c2996d6cd12605'></script>
+<script type='text/javascript' src='http://aps.hearstnp.com/scripts/loadAds.js?ver=2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hdnShareButtonsScriptLocalization = {"blog_id":"2348","template":"single"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/modules/sharedaddy/hdnShareButtonsScript.js?ver=3.6;611e2b299df1d662c45492054a0a0c89'></script>
+<link rel='prev' title='NFL Roundtable: Predicting the Texans&#8217; 2015 record' href='http://blog.chron.com/ultimatetexans/2015/08/nfl-roundtable-predicting-the-texans-2015-record/' />
+<link rel='next' title='Johnathan Joseph on Texans: &#8216;We’ve added pieces, and we’re working hard&#8217;' href='http://blog.chron.com/ultimatetexans/2015/08/johnathan-joseph-on-texans-weve-added-pieces-and-were-working-hard/' />
+<link rel='shortlink' href='http://blog.chron.com/ultimatetexans/?p=66293' />
+
+<div id="BF_WIDGET_WP" style="display:none;">&nbsp;</div>
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=chron.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById("BF_WIDGET_WP").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+	        
+
+<meta name='NextGEN' content='1.7.5' />
+<style type="text/css">.fullscreen .gallery-overlay-title-container .homeLink .icon { background: url("/wp-content/plugins/hdn-wp-galleries-redesigned/images/network_logos.svg") repeat 0 -29px } </style><link rel="canonical" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/">
+	<meta name="title" content="Texans fans show excitement at first day of training camp" />
+	<meta name="description" content="" />
+	
+	<meta property="vf:unique_id" content="wp_chron_blog_chron_com_ultimatetexans_2348_blogEntryId66293">
+	<script type="text/javascript">
+	//<![CDATA[
+		// define common vars elements (known by functions) where returned data goes (must be done after divs are built but before call to function		
+		var HDN = HDN || {
+			site: "chron"
+			, cookieDomain: "chron.com"
+			, domain: "chron.com"
+		};
+
+		try {
+			if(document.domain != HDN.domain)
+				document.domain = HDN.domain;
+		} catch(e) {
+			console.log(e);
+		}
+	
+		var HDNViafoura               = new Object();
+		HDNViafoura.all_entries       = {'rows': new Object(), 'ok': new Array()};
+				HDNViafoura.entry_id          = '66293';
+		HDNViafoura.file              = 'wp_chron_blog_chron_com_ultimatetexans_2348_blogEntryId66293';
+		HDNViafoura.full_filepath     = 'http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/';
+		HDNViafoura.details_page      = HDNViafoura.full_filepath;
+		HDNViafoura.success_page      = 'http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/';
+		HDNViafoura.isActive          = true;
+		HDNViafoura.addlink           = '<a href="'+HDNViafoura.success_page+'">Add Your Comment</a>';
+		HDNViafoura.viewlink          = '<a href="'+HDNViafoura.success_page+'">View Comments &raquo;</a>';
+		HDNViafoura.categories        = new Array(); // Currently we only store one category for blogs: the blogid.
+		HDNViafoura.categories[0]     = 'ultimatetexans';
+		HDNViafoura.categories[1]     = 'ultimatetexans';
+		HDNViafoura.article_thumbs    = new Array();
+			//]]>
+	</script>
+	<script type="text/javascript" src="http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-viafoura-sso-comments/js/commentcount.js"></script>
+	
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Texans fans show excitement at first day of training camp" />
+<meta property="og:url" content="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/" />
+<meta property="og:description" content="The actual NFL season hasn&#039;t started, but that doesn&#039;t mean Texans fans aren&#039;t getting rowdy for a little bit of football. The Texans reported to training camp on Saturday to thousands of fans show..." />
+<meta property="article:published_time" content="2015-08-01T15:55:03+00:00" />
+<meta property="article:modified_time" content="2015-08-01T19:52:22+00:00" />
+<meta property="og:site_name" content="Ultimate Texans" />
+<meta property="og:image" content="http://blog.chron.com/ultimatetexans/files/2015/08/20150801_TexansTrainingCamp_BTC_02.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="682" />
+<meta property="og:locale" content="en_US" />
+	
+	
+		
+	
+</head>
+
+<body id="page-body"  location ="sports"class="single single-post postid-66293 single-format-standard ui-mobile-viewport ui-overlay-c">
+	<script type="text/javascript">
+		document.getElementById('page-body').className += window.is_mobile ? ' body-mobile' : ' body-desktop';
+	</script>
+	<!--[if lt IE 9]>
+	<script type="text/javascript">
+	document.getElementById('page-body').className += ' old-ie';
+	</script>
+	<![endif]-->
+    
+    			<script type="text/javascript">
+				responsive_base.include.do_snippet('header');
+			</script>
+       <div id="page-wrap" class="group"> 
+  
+    
+    
+        <!-- ATM: Chron WordPress -->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzcxOC0=/amc.js\"></sc"+"ript>");
+//]]></script>	    
+	    	    
+	    
+    <div id="pagecontent" class="pagecontent" data-role="content">
+<div id="hdn_ad_position-1005" class="widget-ad-position-RM widget-container header-full-width-ad ad_position">		
+
+		<div class="hdn-ad-position ad-RM hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-RM">
+				<script type="text/javascript" id="RM-0-59037100-1438487366">window.ad_position_widget.place_named_ad('RM', 'RM-0-59037100-1438487366');</script>
+			</div>
+		</div>
+		</div><div id="hdn_ad_position-1006" class="widget-ad-position-A951 widget-container header-full-width-ad ad_position">		
+
+		<div class="hdn-ad-position ad-A951 hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-A951">
+				<script type="text/javascript" id="A951-0-59073900-1438487366">window.ad_position_widget.place_named_ad('A951', 'A951-0-59073900-1438487366');</script>
+			</div>
+		</div>
+		</div><div id="hdn_ad_position-1004" class="widget-ad-position-PAGEWIDE widget-container header-full-width-ad ad_position">		
+
+		<div class="hdn-ad-position ad-PAGEWIDE hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-PAGEWIDE">
+				<script type="text/javascript" id="PAGEWIDE-0-59105900-1438487366">window.ad_position_widget.place_named_ad('PAGEWIDE', 'PAGEWIDE-0-59105900-1438487366');</script>
+			</div>
+		</div>
+		</div><div id="nav-border" class=""></div>
+<div id="outer-wrap">
+<div class="branding-wide-extrawide-container">
+	<div id="branding" class="branding-wide-extrawide branding-hidetext branding-wide-extrawide-no-links" style="background-image: url(http://blog.chron.com/ultimatetexans/files/2014/05/ultimate_texans_header.jpg); height: 131px;">
+	    
+		
+	    <h2 class="blogname">
+	    	<a class="branding-wide-extrawide-link" href="http://blog.chron.com/ultimatetexans" ><span  >Ultimate Texans</span></a>
+	    </h2>
+	    <div class="branding-wide-extrawide-blogdescription blogdescription">
+	    	<p ></p>
+	    </div>
+	     
+	</div>    
+</div>
+<div class="navigation-slider"><ul id="menu-primary-navigation" class="menu"><li id="menu-item-3412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3412"><a href="http://blog.chron.com/ultimatetexans/">Home</a></li>
+<li id="menu-item-64116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64116"><a href="http://blog.chron.com/ultimatetexans/author/johnmcclain/">McClain</a></li>
+<li id="menu-item-64117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64117"><a href="http://blog.chron.com/ultimatetexans/author/dalerobertson/">Robertson</a></li>
+<li id="menu-item-39870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39870"><a href="http://blog.chron.com/ultimatetexans/author/briansmith/">Smith</a></li>
+<li id="menu-item-55846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55846"><a title="McClain&#8217;s Pick&#8217;Em Challenge" href="http://blog.chron.com/ultimatetexans/mcclains-pickem-challenge/">Pick&#8217;Em Challenge</a></li>
+<li id="menu-item-38483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38483"><a href="http://blog.chron.com/ultimatetexans/author/stephaniestradley/">Voices</a></li>
+<li id="menu-item-4567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4567"><a href="http://chron.stats.com/fb/teamstats.asp?team=34">Stats</a></li>
+<li id="menu-item-12337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12337"><a href="http://fangear.chron.com/Houston-Texans-NFL-Division-Champions-Gear-and-Collectibles-Fan-Gear_-641347137_PG.html?sourceid=texansdivchamps">Fan gear</a></li>
+<li id="menu-item-4954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4954"><a href="http://seatgeek.com/houston-texans-tickets">Tickets</a></li>
+<li id="menu-item-4577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4577"><a href="http://www.chron.com/sports">Sports</a></li>
+<li id="menu-item-52546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52546"><a href="http://www.houstonchronicle.com/sports/texans/">HoustonChronicle.com</a></li>
+</ul></div><div id="content-wrap" class="left">
+<div id="main" class="left main-singular">
+
+	
+				<div id="blogarticle">
+		<div class="post-66293 post type-post status-publish format-standard has-post-thumbnail hentry category-general" id="post-66293" data-post-id="66293">
+						<h1 class="blogtitle">Texans fans show excitement at first day of training camp</h1>
+						
+			
+<div class="meta ">
+
+	
+			
+		<span class="post-date">Posted on August 1, 2015</span>
+		<span class="post-on"> | </span>
+		<span class="post-author">By <a href="http://blog.chron.com/ultimatetexans/author/ultimatetexans/" title="Posts by Ultimate Texans" rel="author">Ultimate Texans</a></span>		
+	
+	
+
+</div>
+
+
+	
+			<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-hdnicon sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-66293" class="share-facebook sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=facebook" target="_blank" title="Share on Facebook"><span></span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-66293" class="share-twitter sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-66293" class="share-google-plus-1 sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=email" target="_blank" title="Click to email this to a friend"><span></span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/#print" target="_blank" title="Click to print"><span></span><span>Print</span></a></li><li class="share-hdn-comment"><a rel="nofollow" data-shared="" class="share-hdn-comment sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/#comments" target="_blank" title="Click to comment"><span></span><span class="vf-counter vf-widget" data-widget="counter" data-path="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/">&mdash;</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>			<div class="entry">
+				<p>
+
+
+<link media="all" href="http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-wp-galleries/themes/hdn_responsive/galleria.hdn_chron_responsive.css" type="text/css" rel="stylesheet"><div class="gallery clearfix">	
+	<div id="galleria_34711101" class="galleria">
+		<script type="text/javascript">var nggallery_data_34711 = new Array();		nggallery_data_34711[0] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_01.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_01.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_01.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[1] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_02.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_02.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_02.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[2] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_03.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_03.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_03.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[3] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_04.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_04.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_04.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[4] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_05.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_05.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_05.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans run to the entrance to line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[5] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_06.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_06.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_06.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans arrive to the first practice or Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[6] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_07.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_07.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_07.jpg","title":"TexansTrainingCamp","description":"A Houston Texans fan holds a photo of defensive end J.J. Watt as she waits for an autograph during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[7] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_08.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_08.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_08.jpg","title":"TexansTrainingCamp","description":"Houston Texans fan Mark Baughman watches practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[8] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_09.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_09.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_09.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt (99) warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[9] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_10.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_10.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_10.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterbacks Brian Hoyer (7), Ryan Mallett (15) and Tom Savage (3) warm up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[10] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_11.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_11.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_11.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end (99) runs a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[11] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_12.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_12.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_12.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker Brian Cushing puts on his helmet during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[12] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_13.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_13.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_13.jpg","title":"TexansTrainingCamp","description":"Houston Texans Brian Cushing warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[13] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_14.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_14.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_14.jpg","title":"TexansTrainingCamp","description":"Houston Texans players run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[14] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_15.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_15.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_15.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Ryan Mallett (15) is filmed by a \"Hard Knocks\" videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[15] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_16.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_16.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_16.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Ryan Mallett (15) is filmed by a \"Hard Knocks\" videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[16] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_17.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_17.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_17.jpg","title":"TexansTrainingCamp","description":"Houston Texans head coach Bill O'Brien, left, talks to Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[17] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_18.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_18.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_18.jpg","title":"TexansTrainingCamp","description":"Houston Texans guard Brandon Brooks wipes his face during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[18] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_19.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_19.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_19.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt (99) flips a ball around during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[19] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_20.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_20.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_20.jpg","title":"TexansTrainingCamp","description":"Houston Texans cornerback Jonathan Joseph (24) stretches during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[20] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_21.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_21.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_21.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker John Simon (51) reaches out for a ball caught by tight end Ryan Griffin (84) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[21] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_22.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_22.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_22.jpg","title":"TexansTrainingCamp","description":"Houston Texans running back Arian Foster is chased by linebacker Mike Mohammed during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[22] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_23.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_23.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_23.jpg","title":"TexansTrainingCamp","description":"Houston Texans running back Kenny Hilliard (38) runs the ball with linebacker Carlos Thompson giving chase during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[23] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_24.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_24.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_24.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker John Simon (51) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[24] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_25.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_25.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_25.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker Carlos Thompson (44) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[25] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_26.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_26.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_26.jpg","title":"TexansTrainingCamp","description":"Houston Texans cornerback Kevin Johnson (3) drops back in a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[26] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_27.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_27.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_27.jpg","title":"TexansTrainingCamp","description":"Houston Texans cornerback Kareem Jackson (25) catches a football during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[27] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_28.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_28.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_28.jpg","title":"TexansTrainingCamp","description":"Houston Texans safety Lonnie Ballentine (39) and safety Corey Moore run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[28] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_29.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_29.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_29.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker Brian Cushing (56) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[29] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_30.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_30.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_30.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterbacks Brian Hoyer (7) and Ryan Mallett (15) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[30] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_31.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_31.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_31.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterbacks Ryan Mallett (15) and Brian Hoyer (7) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[31] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_32.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_32.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_32.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Brian Hoyer (7) throws a pass to wide receiver Jaelen Strong (11) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[32] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_33.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_33.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_33.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver Jaelen Strong (11) reaches up to catch a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[33] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_34.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_34.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_34.jpg","title":"TexansTrainingCamp","description":"Houston Texans head coach Bill O'Brien calls a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[34] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_35.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_35.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_35.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Ryan Mallett (15) slaps hands with wide receiver Travis Labhart (19) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[35] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_36.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_36.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_36.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver DeAndre Hopkins (10) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[36] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_37.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_37.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_37.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver Nate Washington (85) makes a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[37] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_38.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_38.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_38.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver Nate Washington (85) hits the turf after making a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[38] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_39.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_39.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_39.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver Travis Labhart (19) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[39] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_40.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_40.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_40.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver Cecil Shorts III (18) leaps up for a catch with cornerback Darryl Morris (21) defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[40] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_41.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_41.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_41.jpg","title":"TexansTrainingCamp","description":"Houston Texan tight end Garrett Graham makes a catch against safety Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[41] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_42.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_42.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_42.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[42] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_43.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_43.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_43.jpg","title":"TexansTrainingCamp","description":"Houston Texans wide receiver EZ Nwachukwu (17) makes a catch with cornerback Jonathan Joseph defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[43] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_44.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_44.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_44.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans cheer as they watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[44] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_45.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_45.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_45.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[45] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_46.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_46.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_46.jpg","title":"TexansTrainingCamp","description":"Houston Texans running back Alfred Blue (28) runs with the ball during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[46] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_47.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_47.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_47.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Brian Hoyer (7) talks to running back Arian Foster (23) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[47] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_48.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_48.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_48.jpg","title":"TexansTrainingCamp","description":"Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[48] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_49.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_49.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_49.jpg","title":"TexansTrainingCamp","description":"Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[49] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_50.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_50.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_50.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":"Brett Coomer &#47; Houston Chronicle"};
+			nggallery_data_34711[50] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_51.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_51.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_51.jpg","title":"TexansTrainingCamp","description":"Houston Texans safety Eddie Pleasant (35) and wide receiver Keith Humphrey (12) run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[51] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_52.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_52.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_52.jpg","title":"TexansTrainingCamp","description":"A Hard Knocks crew shoots Houston Texans practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[52] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_53.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_53.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_53.jpg","title":"TexansTrainingCamp","description":"during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[53] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_54.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_54.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_54.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker Whitney Mercilus signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[54] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_55.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_55.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_55.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans wait for player to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[55] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_56.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_56.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_56.jpg","title":"TexansTrainingCamp","description":"Houston Texans linebacker Reshard Cliett (58) signs autographs during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[56] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_57.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_57.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_57.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt poses for a photo with fans during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[57] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_58.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_58.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_58.jpg","title":"TexansTrainingCamp","description":"Houston Texans fans wait for players to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[58] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_59.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_59.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_59.jpg","title":"TexansTrainingCamp","description":"Houston Texans quarterback Brian Hoyer signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[59] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_60.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_60.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_60.jpg","title":"TexansTrainingCamp","description":"Houston Texans head coach Bill O'Brien waves to the fans as he leaves the practice field following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+			nggallery_data_34711[60] = {"image":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_61.jpg","thumb":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/thumbs\/thumbs_20150801_texanstrainingcamp_btc_61.jpg","big":"http:\/\/blog.chron.com\/ultimatetexans\/wp-content\/blogs.dir\/2348\/files\/2015-texans-training-camp\/20150801_texanstrainingcamp_btc_61.jpg","title":"TexansTrainingCamp","description":"Houston Texans defensive end J.J. Watt signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer \/ Houston Chronicle )","link":"","credit":" Houston Chronicle"};
+	 	
+ 	</script>
+ 	
+ 					<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_01.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_01.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_01.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_02.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_02.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_02.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt (99) runs past the fans as he arrives to the practice field for the opening of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_03.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_03.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_03.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_04.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_04.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_04.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_05.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_05.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_05.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans run to the entrance to line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans run to the entrance to line up for the first practice of Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_06.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_06.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_06.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans arrive to the first practice or Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans arrive to the first practice or Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_07.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_07.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_07.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="A Houston Texans fan holds a photo of defensive end J.J. Watt as she waits for an autograph during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="A Houston Texans fan holds a photo of defensive end J.J. Watt as she waits for an autograph during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_08.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_08.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_08.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fan Mark Baughman watches practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fan Mark Baughman watches practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_09.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_09.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_09.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt (99) warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt (99) warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_10.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_10.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_10.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterbacks Brian Hoyer (7), Ryan Mallett (15) and Tom Savage (3) warm up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterbacks Brian Hoyer (7), Ryan Mallett (15) and Tom Savage (3) warm up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_11.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_11.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_11.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end (99) runs a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end (99) runs a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_12.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_12.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_12.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker Brian Cushing puts on his helmet during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker Brian Cushing puts on his helmet during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_13.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_13.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_13.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans Brian Cushing warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans Brian Cushing warms up during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_14.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_14.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_14.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans players run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans players run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_15.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_15.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_15.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Ryan Mallett (15) is filmed by a &quot;Hard Knocks&quot; videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Ryan Mallett (15) is filmed by a &quot;Hard Knocks&quot; videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_16.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_16.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_16.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Ryan Mallett (15) is filmed by a &quot;Hard Knocks&quot; videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Ryan Mallett (15) is filmed by a &quot;Hard Knocks&quot; videographer during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_17.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_17.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_17.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans head coach Bill O&#039;Brien, left, talks to Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans head coach Bill O&#039;Brien, left, talks to Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_18.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_18.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_18.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans guard Brandon Brooks wipes his face during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans guard Brandon Brooks wipes his face during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_19.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_19.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_19.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt (99) flips a ball around during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt (99) flips a ball around during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_20.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_20.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_20.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans cornerback Jonathan Joseph (24) stretches during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans cornerback Jonathan Joseph (24) stretches during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_21.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_21.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_21.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker John Simon (51) reaches out for a ball caught by tight end Ryan Griffin (84) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker John Simon (51) reaches out for a ball caught by tight end Ryan Griffin (84) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_22.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_22.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_22.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans running back Arian Foster is chased by linebacker Mike Mohammed during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans running back Arian Foster is chased by linebacker Mike Mohammed during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_23.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_23.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_23.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans running back Kenny Hilliard (38) runs the ball with linebacker Carlos Thompson giving chase during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans running back Kenny Hilliard (38) runs the ball with linebacker Carlos Thompson giving chase during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_24.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_24.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_24.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker John Simon (51) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker John Simon (51) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_25.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_25.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_25.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker Carlos Thompson (44) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker Carlos Thompson (44) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_26.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_26.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_26.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans cornerback Kevin Johnson (3) drops back in a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans cornerback Kevin Johnson (3) drops back in a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_27.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_27.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_27.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans cornerback Kareem Jackson (25) catches a football during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans cornerback Kareem Jackson (25) catches a football during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_28.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_28.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_28.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans safety Lonnie Ballentine (39) and safety Corey Moore run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans safety Lonnie Ballentine (39) and safety Corey Moore run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_29.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_29.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_29.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker Brian Cushing (56) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker Brian Cushing (56) hits a blocking dummy during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_30.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_30.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_30.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterbacks Brian Hoyer (7) and Ryan Mallett (15) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterbacks Brian Hoyer (7) and Ryan Mallett (15) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_31.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_31.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_31.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterbacks Ryan Mallett (15) and Brian Hoyer (7) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterbacks Ryan Mallett (15) and Brian Hoyer (7) drop back to pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_32.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_32.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_32.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Brian Hoyer (7) throws a pass to wide receiver Jaelen Strong (11) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Brian Hoyer (7) throws a pass to wide receiver Jaelen Strong (11) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_33.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_33.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_33.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver Jaelen Strong (11) reaches up to catch a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver Jaelen Strong (11) reaches up to catch a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_34.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_34.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_34.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans head coach Bill O&#039;Brien calls a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans head coach Bill O&#039;Brien calls a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_35.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_35.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_35.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Ryan Mallett (15) slaps hands with wide receiver Travis Labhart (19) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Ryan Mallett (15) slaps hands with wide receiver Travis Labhart (19) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_36.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_36.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_36.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver DeAndre Hopkins (10) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver DeAndre Hopkins (10) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_37.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_37.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_37.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver Nate Washington (85) makes a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver Nate Washington (85) makes a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_38.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_38.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_38.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver Nate Washington (85) hits the turf after making a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver Nate Washington (85) hits the turf after making a catch past cornerback A.J. Bouye (34) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_39.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_39.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_39.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver Travis Labhart (19) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver Travis Labhart (19) runs with the ball after making a catch during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_40.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_40.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_40.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver Cecil Shorts III (18) leaps up for a catch with cornerback Darryl Morris (21) defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver Cecil Shorts III (18) leaps up for a catch with cornerback Darryl Morris (21) defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_41.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_41.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_41.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texan tight end Garrett Graham makes a catch against safety Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texan tight end Garrett Graham makes a catch against safety Rahim Moore (26) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_42.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_42.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_42.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_43.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_43.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_43.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans wide receiver EZ Nwachukwu (17) makes a catch with cornerback Jonathan Joseph defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans wide receiver EZ Nwachukwu (17) makes a catch with cornerback Jonathan Joseph defending during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_44.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_44.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_44.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans cheer as they watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans cheer as they watch practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_45.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_45.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_45.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_46.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_46.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_46.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans running back Alfred Blue (28) runs with the ball during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans running back Alfred Blue (28) runs with the ball during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_47.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_47.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_47.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Brian Hoyer (7) talks to running back Arian Foster (23) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Brian Hoyer (7) talks to running back Arian Foster (23) during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_48.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_48.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_48.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_49.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_49.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_49.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linemen run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_50.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_50.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_50.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Brian Hoyer (7) throws a pass during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit="Brett Coomer &#47; Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_51.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_51.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_51.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans safety Eddie Pleasant (35) and wide receiver Keith Humphrey (12) run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans safety Eddie Pleasant (35) and wide receiver Keith Humphrey (12) run a drill during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_52.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_52.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_52.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="A Hard Knocks crew shoots Houston Texans practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="A Hard Knocks crew shoots Houston Texans practice during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_53.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_53.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_53.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_54.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_54.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_54.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker Whitney Mercilus signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker Whitney Mercilus signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_55.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_55.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_55.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans wait for player to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans wait for player to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_56.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_56.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_56.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans linebacker Reshard Cliett (58) signs autographs during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans linebacker Reshard Cliett (58) signs autographs during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_57.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_57.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_57.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt poses for a photo with fans during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt poses for a photo with fans during Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_58.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_58.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_58.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans fans wait for players to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans fans wait for players to sign autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_59.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_59.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_59.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans quarterback Brian Hoyer signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans quarterback Brian Hoyer signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_60.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_60.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_60.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans head coach Bill O&#039;Brien waves to the fans as he leaves the practice field following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans head coach Bill O&#039;Brien waves to the fans as he leaves the practice field following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        				<a href="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_61.jpg">
+                <img 
+                    src="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/thumbs/thumbs_20150801_texanstrainingcamp_btc_61.jpg",
+                    data-big="http://blog.chron.com/ultimatetexans/wp-content/blogs.dir/2348/files/2015-texans-training-camp/20150801_texanstrainingcamp_btc_61.jpg"
+                    data-title="TexansTrainingCamp"
+                    data-description="Houston Texans defensive end J.J. Watt signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    title="TexansTrainingCamp"
+                    alt="Houston Texans defensive end J.J. Watt signs autographs following practice at Texans training camp at the Methodist Training Center Saturday, Aug. 1, 2015, in Houston.  ( Brett Coomer / Houston Chronicle )"
+                    credit=" Houston Chronicle"
+                   
+                >
+         </a>
+
+		
+				
+        <script type="text/javascript">	jQuery(document).ready(function () { 
+	
+	Galleria.run('#galleria_34711101',
+			{
+				debug: false,
+				gallery_id: "galleria_34711101",
+				galleryTitle: "2015 Texans training camp",
+				//dataSource: nggallery_data_34711,
+				width: "832",
+				height: "0.5625",
+				imageCrop: false,
+				thumbCrop: false,
+				thumbnails: true,
+				autoplay: false,
+				showSharing: true,
+				clicknext: false,
+				showCounter: true,
+				imagePan: false,
+				_toggleInfo: false,
+				showImagenav: true,
+				lightbox:  false,
+				showInfo: true,
+				_showFullscreen: false,
+				_showPopout: false,
+				_showProgress: true,
+				_showTooltip: false,
+				transition: "fade",
+				transitionSpeed: "400",
+				thumbEventType: "click",
+				swipe: is_mobile || false
+			}
+		);});
+		
+		Galleria.ready(function() {
+	    	this.bind('thumbnail', function(e) {
+				e.thumbTarget.alt = e.galleriaData.description;
+			});
+			this.bind('image', function(e) {
+				e.imageTarget.alt = e.galleriaData.description;
+			});
+		});
+	
+	</script>
+	</div>
+</div>    
+	
+
+</p>
+		<div class="widget ad_position widget-ad-position-A300 widget-fake">
+				
+
+		<div class="hdn-ad-position ad-A300 hdn-ap-visible-mobile">
+			<div class="juice-ad-position juice-ad-position-A300">
+				<script type="text/javascript" id="A300-0-64379800-1438487366">window.ad_position_widget.place_named_ad('A300', 'A300-0-64379800-1438487366');</script>
+			</div>
+		</div>
+				</div>
+		<p>The actual NFL season hasn’t started, but that doesn’t mean Texans fans aren’t getting rowdy for a little bit of football.</p>
+<p>The Texans reported to training camp on Saturday to thousands of fans showing full support. The regular season starts September 13 at home against the Chiefs, but fans will get a taste of a game when the preseason starts on August 15 at NRG Stadium against the 49ers.</p>
+<div class="hnd-ndn-video-wrapper"><div class="ndn_embed"style="width:624px;height:340px;" data-config-widget-id="2" data-config-type="VideoPlayer/Single" data-config-tracking-group="90000" data-config-video-id="29470875" data-config-site-section="site_section_id"></div></div>
+
+								
+								
+			</div>
+            
+
+           <div class="catsandtags">
+			<div class="catHolder">Categories: <a href="http://blog.chron.com/ultimatetexans/category/general/" rel="category tag">General</a> </div>         </div>
+                
+                
+			
+		
+		
+					    <script type="text/javascript">
+            	jQuery(document).ready(function($){
+					(function(be){
+	            		if(!be || !window.is_mobile) return;
+	            		be = $($(be).prevAll('p, ul').get(5));
+	            		var sml = $('<a name="show-more" class="show-more-link"><div class="show-more-link-default"><span>Show More</span></div></a>');
+	            		sml.click(function(){
+	            			sml.fadeOut();
+	            			be.nextAll('.gallery').css({'opacity':'','height':'','margin':'','overflow':''});
+	            			be.nextAll(':not(.show-more-link)').slideDown();
+	            			$(document).trigger('show-more-single-after-show');
+	            					        				$(be.nextAll().prev().get(0)).after('<div class="widget ad_position clearfix widget-ad-position-S300 widget-fake">' + "<div id=\"S300\" class=\"S300 ad_deferrable hdn-ad-position\"><script type=\"text\/javascript\"> \/*<![CDATA[*\/ hearstPlaceAd(\"S300\"); \/*]]>*\/ <\/script><\/div>" + '</div>');
+								
+					        try {
+					            hearstRefreshInterstitialAds(['S300']);
+					        } catch (e) {}
+	            		});
+	            		be.nextAll('.gallery').css({'opacity':'0','height':'1','margin':'0','overflow':'hidden'});
+	            		be.nextAll().not('.gallery').hide().last().after(sml);
+	            	})($('.post .entry').children('p, ul').get(12));           		
+            	});
+            </script>		
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-hdnicon sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-66293" class="share-facebook sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=facebook" target="_blank" title="Share on Facebook"><span></span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-66293" class="share-twitter sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-66293" class="share-google-plus-1 sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=email" target="_blank" title="Click to email this to a friend"><span></span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/#print" target="_blank" title="Click to print"><span></span><span>Print</span></a></li><li class="share-hdn-comment"><a rel="nofollow" data-shared="" class="share-hdn-comment sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/#comments" target="_blank" title="Click to comment"><span></span><span class="vf-counter vf-widget" data-widget="counter" data-path="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/">&mdash;</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>		
+		<div class="only-desktop"></div>
+<div class="only-mobile">
+
+    <div id="blogauthor">
+    	<div class="blogauthor-meta">
+    		<span class="blogauthor-meta-name">Ultimate Texans</span>    	</div>
+	    	    <div class="blogauthor-social sharedaddy sd-sharing-enabled sd-fake">
+		    <div class="robots-nocontent sd-block sd-social sd-social-hdnicon sd-sharing" style="display: block;">
+		        <div class="sd-content">
+		            <ul>
+		            			                <li class="share-email share-service-visible">
+		                    <a rel="nofollow" class="share-email sd-button hdn-share-icon no-text" href="mailto:ultimatetexans@chron.com" title="Click to email Ultimate Texans">
+		                        <span></span>
+		                    </a>
+		                </li>
+		                		                <li class="share-rss share-service-visible">
+		                    <a rel="nofollow" class="share-rss sd-button hdn-share-icon no-text" href="http://blog.chron.com/ultimatetexans/author/ultimatetexans//feed/" title="Click to email Ultimate Texans">
+		                        <span></span>
+		                    </a>
+		                </li>
+		            			            </ul>
+		        </div>
+		    </div>
+		</div>
+	        </div>
+</div>
+<div style="clear:both;"> </div>			
+		</div>      
+        
+       
+        
+         			<div class="blogpost-outbrain clearfix">
+				<script type="text/javascript">
+				if(window.is_mobile)
+					document.write("<div class=\"OUTBRAIN\" data-src=\"http:\/\/blog.chron.com\/ultimatetexans\/2015\/08\/texans-fans-show-excitement-at-first-day-of-training-camp\/\" data-widget-id=\"MB_1\" data-ob-template=\"chron\" ><\/div> <script type=\"text\/javascript\" src=\"http:\/\/widgets.outbrain.com\/outbrain.js\"><\/script>");
+				else
+					document.write("<div class=\"OUTBRAIN\" data-src=\"http:\/\/blog.chron.com\/ultimatetexans\/2015\/08\/texans-fans-show-excitement-at-first-day-of-training-camp\/\" data-widget-id=\"AR_5\" data-ob-template=\"chron\" ><\/div>\r\n<script type=\"text\/javascript\" src=\"http:\/\/widgets.outbrain.com\/outbrain.js\"><\/script>\r\n\r\n<div class=\"OUTBRAIN\" data-src=\"http:\/\/blog.chron.com\/ultimatetexans\/2015\/08\/texans-fans-show-excitement-at-first-day-of-training-camp\/\" data-widget-id=\"AR_3\" data-ob-template=\"chron\" ><\/div>\r\n<script type=\"text\/javascript\" src=\"http:\/\/widgets.outbrain.com\/outbrain.js\"><\/script>\r\n\r\n\r\n\r\n<style>\r\n\t.adWrapper {\r\n\t\tfloat: left;\r\n\t\tmargin: 20px 0 0 0;\r\n\t\twidth: 100%;\r\n\t}\r\n\t.adContainer {\r\n\t\tfloat: left;\r\n\t\theight: 250px;\r\n\t\tmargin: 0 -moz-calc((100% - 600px)\/3);\r\n\t\tmargin: 0 -ms-calc((100% - 600px)\/3);\r\n\t\tmargin: 0 -o-calc((100% - 600px)\/3);\r\n\t\tmargin: 0 -webkit-calc((100% - 600px)\/3);\r\n\t\tmargin: 0 calc((100% - 600px)\/3);\r\n\t\twidth: 300px;\r\n               margin-bottom: 20px;\r\n\t}\r\n\t.adContainer:first-child {\r\n\t\tmargin-right: 0;\r\n\t}\r\n<\/style>\r\n");
+				</script>
+			</div>
+			            
+	
+		<a name="comments" class="comments-plugin2"></a><!-- /wp-content/plugins/hdn-viafoura-sso-comments/comments_tmpl.php -->
+<div id="comments" class="hdn-comments">
+	<div id="admin-bar" class="admin-bar janrain-comment-bar">
+	    <p class="signedout">you must be signed in to comment</p>
+	    <p class="signedin">You are currently Signed In</p>
+	    <a href="javascript:void(0)" id="treg_captureSignInLink" class="signInLink">Sign In <span class="arrow"></span></a>
+	    <a href="javascript:void(0)" id="treg_captureProfileLink" style="display: none;" onclick="treg.renderScreen(treg.screens.edit_profile)">Edit Profile</a>
+	    <a href="javascript:void(0)" id="treg_captureSignOutLink" class="signOutLink" onclick="treg.endSession(); window.location.reload(true);">Sign Out <span class="arrow"></span></a>
+	</div>
+	<script>
+	    $("#treg_captureSignInLink").click(function(){
+	        $("#treg_container").toggle();
+	        $(this).toggleClass("active");
+	    });
+	    HDN.getAtCookie();
+	</script>
+	<div id="treg_container" style="display: none;"></div>
+	<div id="hdn-vf-comments"></div>
+</div>
+<!-- e /wp-content/plugins/hdn-viafoura-sso-comments/comments_tmpl.php -->
+    <!--after comments ad-->
+    
+	<div class="post-after-comments-ad"><div id="text-45" class="widget-container widget_text">			<div class="textwidget"><div id="perf1nwa3e5q59d4e1h3lb8ugwfzqs"><a href="http://www.adobe.com/go/getflashplayer" target="_blank"> <img src="http://images.performgroup.com/namedImage/12637/install_flash.gif" alt="Get Adobe Flash player"></a></div> <script type="text/javascript" src="http://static.eplayer.performgroup.com/flash/js/swfobject.js"></script><script type="text/javascript" src="http://static.eplayer.performgroup.com/flash/js/performgroup.js"></script><script type="text/javascript">addResponsivePlayer('1nwa3e5q59d4e1h3lb8ugwfzqs', '', '', 'perf1nwa3e5q59d4e1h3lb8ugwfzqs', 'eplayer41', {age:1436456398000});</script></div>
+		</div><div id="hdn_ad_position-1002" class="widget-container ad_position">		
+				
+		
+		<div class="hdn-ad-position ad-google">
+			<script type="text/javascript">window.ad_position_widget.place_google_ad('desktop', '2199266218', '3675999412', 'chron');</script>
+		</div>
+		
+		
+		</div></div>    <!--after comments ad-->
+
+	</div>
+	    
+
+
+</div>
+	
+	<div id="sidebar" class="left">
+		
+	
+    <div id="polls-widget-6" class="widget widget_polls-widget"><h2>Polls</h2><div id="polls-374" class="wp-polls">
+	<form id="polls_form_374" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_374_nonce" name="wp-polls-nonce" value="e95c8b4f11" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="374" /></p>
+		<p><strong>What's your take on the Tom Brady situation?</strong></p><div id="polls-374-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-1220" name="poll_374" value="1220" /> <label for="poll-answer-1220">The NFL got the punishment right.</label></li>
+		<li><input type="radio" id="poll-answer-1221" name="poll_374" value="1221" /> <label for="poll-answer-1221">He got a raw deal from the league.</label></li>
+		<li><input type="radio" id="poll-answer-1222" name="poll_374" value="1222" /> <label for="poll-answer-1222">It doesn't matter because he'll win in court.</label></li>
+		</ul><p><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(374);" /></p><p class="poll-results"><a href="#ViewPollResults" onclick="poll_result(374); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-374-loading" class="wp-polls-loading"><img src="http://blog.chron.com/ultimatetexans/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+<ul><li><a href="">Polls Archive</a></li></ul></div><div id="search-0" class="widget widget_search"><h2>Blog <span class="widget-title-remainder">Search</span></h2><div class="search-container">
+	<form action="http://blog.chron.com/ultimatetexans/" class="search-form" method="get">
+    	<div class="search-description"><label for="s">Keyword search across all the entries in this blog.</label></div>
+        <div class="search-inputs">
+	        <input type="text" name="s" class="search-keywords" value="Keywords"/>
+	        <div class="search-submit">Search</div>
+	    </div>
+    </form>
+	    <div style="clear:both;"></div>
+</div>
+
+
+
+</div><div id="hdn_ad_position-2" class="widget-ad-position-A300 widget ad_position">		
+
+		<div class="hdn-ad-position ad-A300 hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-A300">
+				<script type="text/javascript" id="A300-0-72771800-1438487366">window.ad_position_widget.place_named_ad('A300', 'A300-0-72771800-1438487366');</script>
+			</div>
+		</div>
+		</div><div id="text-34" class="widget widget_text">			<div class="textwidget"><div class="OUTBRAIN" data-src="$permalink" data-widget-id="SB_2" data-ob-template="chron"></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script></div>
+		</div><div id="text-39" class="widget widget_text"><h2>Subscribe</h2>			<div class="textwidget"><p>Get Ultimate Texans sent to your inbox. <br>Sign up now!<br></p>
+
+<form action="http://whatcounts.com/bin/listctrl" method="POST">
+		<input type="hidden" name="slid" value="4EB045FEF69732587F88718473DF65BEB925A89BC167AF2D"><input type="hidden" name="cmd" value="subscribe"><input type="hidden" name="goto" value="http://blog.chron.com/ultimatetexans/"><input type="hidden" name="errors_to" value="http://blog.chron.com/ultimatetexans/"><table>
+<tr>
+<td colspan="2">Email: <input type="text" id="email" name="email" size="30"><br><br>
+</td>
+		</tr>
+<tr>
+<td width="150">
+<!-- Format:&nbsp; &nbsp; <label class="radio"><input type="radio" data-toggle="radio" id="format_html" name="format" value="html" checked="checked" /></label>
+				<label for="format_html" onclick="document.getElementById('format_html').checked = !document.getElementById('format_html').checked;return false;">HTML</label> -->
+			</td>
+			<td width="150" align="right">
+			        <input type="submit" value="Subscribe">
+</td>
+		</tr>
+</table>
+</form></div>
+		</div><div id="text-43" class="widget widget_text"><h2>Sports <span class="widget-title-remainder">Update</span></h2>			<div class="textwidget"><div class="ndn_embed" data-config-widget-id="29457" data-config-type="VideoLauncher/Slider300x250" data-config-tracking-group="90000"></div></div>
+		</div><div id="text-40" class="widget widget_text"><h2>Live <span class="widget-title-remainder">Scoreboard</span></h2>			<div class="textwidget"><span style="display: none;"></span>
+<!-- INCLUDE THESE STYLESHEET ONCE ON ANY PAGE YOU HAVE A STATS WIDGET -->
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/shsdefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/shs.css">
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/multidefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/multi.css">
+<script language="JavaScript">
+	var nowSTATS = new Date();
+	var nowSecsSTATS = nowSTATS.getTime();
+	document.write( '<scr'+'ipt language="javascript" SRC="http://chron.stats.com/multisport/today-byteam.js.asp?sport=fb&team=34&lang=en&random='+(nowSecsSTATS * Math.Random)+'"> <\/scr'+'ipt>' );
+</script></div>
+		</div><div id="text-37" class="widget widget_text"><h2>2015 <span class="widget-title-remainder">Schedule</span></h2>			<div class="textwidget"><span style="display: none;"></span>
+<!-- INCLUDE THESE STYLESHEET ONCE ON ANY PAGE YOU HAVE A STATS WIDGET -->
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/shsdefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/shs.css">
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/multidefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/multi.css">
+<script language="javascript" src="http://chron.stats.com/multisport/stats.js.asp?sport=fb&amp;type=schedrslt&amp;team=34&amp;lang=en&amp;logo=false"></script></div>
+		</div><div id="hdn_ad_position-3" class="widget ad_position">				
+		
+		
+			<script type="text/javascript">window.ad_position_widget.place_google_sidebar_ad('desktop', '9091907819', 'chron');</script>
+		
+		</div><div id="text-33" class="widget widget_text"><h2>Tweeting <span class="widget-title-remainder">the Texans</span></h2>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/Nick_Mathews/texans" data-widget-id="261887153154433026">Tweets from @Nick_Mathews/texans</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div><div id="hdn_ad_position-7" class="widget-ad-position-B300 widget ad_position">		
+
+		<div class="hdn-ad-position ad-B300 hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-B300">
+				<script type="text/javascript" id="B300-0-73119400-1438487366">window.ad_position_widget.place_named_ad('B300', 'B300-0-73119400-1438487366');</script>
+			</div>
+		</div>
+		</div>		<div id="recent-posts-5" class="widget widget_recent_entries">		<h2>Recent <span class="widget-title-remainder">Ultimate Texans Posts</span></h2>		<ul>
+					<li>
+				<a href="http://blog.chron.com/ultimatetexans/2015/08/texans-training-camp-smith-and-solomon-on-qb-battle/">Texans Training Camp: Smith and Solomon on QB battle</a>
+						</li>
+					<li>
+				<a href="http://blog.chron.com/ultimatetexans/2015/08/texans-get-to-work-with-three-players-on-the-pup-list/">Texans get to work with three players on the PUP list</a>
+						</li>
+					<li>
+				<a href="http://blog.chron.com/ultimatetexans/2015/08/vince-wilfork-finally-comes-through-on-promise-for-daughter-to-meet-j-j-watt/">Vince Wilfork finally comes through on promise for daughter to meet J.J. Watt</a>
+						</li>
+					<li>
+				<a href="http://blog.chron.com/ultimatetexans/2015/08/bill-obrien-applauds-cardinals-hire-of-female-coach/">Bill O&#8217;Brien applauds Cardinals&#8217; hire of female coach</a>
+						</li>
+					<li>
+				<a href="http://blog.chron.com/ultimatetexans/2015/08/texans-training-camp-houston-gets-first-day-of-practice-under-belt/">Texans Training Camp: Houston gets first day of practice under belt</a>
+						</li>
+				</ul>
+		</div><div id="hdn_ad_position-8" class="widget-ad-position-S300 widget ad_position">		
+
+		<div class="hdn-ad-position ad-S300 hdn-ap-visible-mobile hdn-ap-visible-desktop">
+			<div class="juice-ad-position juice-ad-position-S300">
+				<script type="text/javascript" id="S300-0-76625800-1438487366">window.ad_position_widget.place_named_ad('S300', 'S300-0-76625800-1438487366');</script>
+			</div>
+		</div>
+		</div><div id="text-46" class="widget widget_text"><h2>Player <span class="widget-title-remainder">Stats</span></h2>			<div class="textwidget"><span style="display: none;"></span>
+<!-- INCLUDE THESE STYLESHEET ONCE ON ANY PAGE YOU HAVE A STATS WIDGET -->
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/shsdefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/shs.css">
+<link rel="stylesheet" type="text/css" href="http://hosted.stats.com/config/multidefault.css">
+<link rel="stylesheet" type="text/css" href="http://chron.stats.com/multi.css">
+<script language="javascript" src="http://chron.stats.com/multisport/stats.js.asp?sport=fb&amp;type=teamstats&amp;team=34&amp;lang=en&amp;logo=false"></script></div>
+		</div></div>
+	
+	</div>	<div style="clear: both;"></div>
+
+<script>
+var HDN = HDN || {};
+HDN.ping = function(data) {
+var pingUrl = "http://p.ctpost.com/"
++ (data.type + "?" )
++ (data.id ? "i=" + escape(data.id) + "&" : "" )
++ (data.site ? "s=" + data.site + "&" : "" )
++ (data.channel ? "c=" + data.channel + "&" : "" )
++ (data.title ? "t=" + escape(data.title) + "&" : "" )
++ (data.url ? "u=" + escape(data.url) + "&" : "" )
++ "ts=" + Number(new Date())
+new Image().src = pingUrl;
+};
+HDN.ping( {
+	"url": window.location.href,
+	"id": "2348-66293",
+    "site": "chron",
+	"type": "blogEntry",
+	"title": "Texans fans show excitement at first day of training camp"
+});
+</script> 	<div id="archive-widget-presentation" style="display: none;">
+	 	<div class="archive-description">Browse previous blog posts by month and year of entry. You'll see all the posts for that time period.</div>
+		<div class="archive-dropdown">
+			<div class="archive-dropdown-item archive-dropdown-header">Select Month<span class="archive-dropdown-header-sprite"></span></div>
+			<div class="archive-dropdown-item archive-dropdown-more" style="display: none;"><span class="archive-dropdown-more-text">Show Earlier</span></div>
+		</div>
+	</div>
+ 
+		</div>		</div>
+		<script type="text/javascript">
+			//Mixed/bad jQuery code might rely on this existing, so make sure it does.
+			if(!window.$)
+				window.$ = window.jQuery;
+		</script>
+		
+        				<script type="text/javascript">
+					responsive_base.include.do_snippet('footer');
+				</script>
+				</div></div>		        	</div>
+	
+		
+				<script type="text/javascript">omni_blogauthor = "Ultimate Texans";</script>
+		<script language="javascript">jQuery(document).ready(function () {
+if (jQuery('body').hasClass('body-desktop')) {
+jQuery('#sporti3ngne5w7x98wold23eftunkinc5to').css('marginLeft','0px');
+}
+});
+</script>
+
+<script language="javascript">
+ jQuery(document).ready(function () {
+        jQuery('#modal_signin_form').on('submit', function (e) {
+            var jQuerythis = jQuery(this);
+
+            //prevent the form from submitting normally
+            e.preventDefault();
+
+            //show the default loading message while the jQuery.post request is sent
+            //jQuery.mobile.showPageLoadingMsg();
+
+            var data = jQuerythis.serialize()+'&_='+new Date().getTime()+'&callback=?';
+
+            jQuery.ajax({url: jQuerythis.attr('action'), data: data, dataType: 'jsonp'}).done(function (respObj) {
+                //jQuery.mobile.hidePageLoadingMsg();
+                if ( respObj.status == 'ok' ) {
+                    jQuery('#modal_signin_div').hide();
+                    jQuery('#modal_signin_password').val('');
+                    jQuery('#modal_signin_error_div').hide();
+                    var eventMsg = 'User was logged in successfully.';
+                    if (typeof(getAtUser) != 'undefined') {
+                        eventMsg = getAtUser();
+                    }
+                    jQuery.event.trigger({
+                        type: "hdnLoginSuccessful",
+                        message: eventMsg,
+                        time: new Date()
+                    });
+                } else {
+                    // We want to make sure the sign-in form is shown
+                    jQuery('#modal_signin_div').show()
+                    jQuery( "#modal_signin_error_div" ).html(respObj.message);
+                    jQuery( "#modal_signin_error_div" ).show();
+                    jQuery( "#modal_signin_data_span" ).html("");
+                }
+            });
+        });
+    });
+</script>		<div class='hdn_contribute_correction_form_wrapper' id='hdn_contribute_correction_form_wrapper' style="display:none" >
+			<div id='hdn_contribute_correction_form' class="hdn_contribute_form">
+			<form method='post' enctype='multipart/form-data' action=''class="hdn_contribute_form_form">
+				<div class='hdn_contribute_form_heading'>
+					<h3 class='hdn_contribute_form_title'>Send us a correction!</h3>
+					<span class='hdn_contribute_form_description'>Did we make a mistake? Complete the form to let us know.</span>
+				</div>
+				<div class='hdn_contribute_error'></div>
+				<div class='hdn_contribute_form_body'>
+					<input name='hdn_contribute_correction_name' id='hdn_contribute_correction_name' type='text' value='' class='hdn_contribute_field'  tabindex='1' placeholder='Name' />
+					<input name='hdn_contribute_correction_email' id='hdn_contribute_correction_email' type='text' value='' class='hdn_contribute_field'  tabindex='2' placeholder='Email Address' />
+					<select name='hdn_contribute_correction_type' id='hdn_contribute_correction_type'  class='hdn_contribute_field' tabindex='3' >
+						<option value='' selected='selected' class="placeholder">What type of error is it?</option>
+						<option value='Typographical or Moderation' >Typographical or Moderation</option>
+						<option value='Commenting or Moderation' >Commenting or Moderation</option>
+						<option value='Content Rights and Permissioning' >Content Rights and Permissioning</option>
+						<option value='Other Error' >Other Error</option>
+					</select>
+					<div class="hdn_contribute_textarea_wrapper">
+						<textarea name='hdn_contribute_correction_message' id='hdn_contribute_correction_message' class='hdn_contribute_field' tabindex='4' rows='5' cols='50' placeholder='Message'></textarea>
+						<div class="hdn_contribute_textarea_counter">0/1000 characters</div>
+					</div>
+					<div id="hdn_contribute_correction_captcha"></div>
+				</div>
+				<input type='submit' id='hdn_contribute_correction_submit' class='hdn_contribute_submit' value='Submit Correction' tabindex='6' />
+            	<input type='hidden' name='action' value='ContributeAjax-submit' />
+            	<input type='hidden' name='post_id' value='66293' />
+            	<input type='hidden' name='post_author' value='16380' />
+            	<input type='hidden' name='hdn_contribute_form_submit' value='correction_form' />
+			</form>
+			</div>
+		</div>
+			<div class='hdn_contribute_tip_form_wrapper' id='hdn_contribute_tip_form_wrapper'  style="display:none">
+			<div id='hdn_contribute_tip_form' class="hdn_contribute_form">
+			<form method='post' enctype='multipart/form-data' action='' class="hdn_contribute_form_form">
+				<div class='hdn_contribute_form_heading'>
+					<h3 class='hdn_contribute_form_title'>Send us a tip or link!</h3>
+					<span class='hdn_contribute_form_description'>Want to share a story idea with us? Know something we don't? Complete the form below to send us a news tip.</span>
+				</div>
+				<div class='hdn_contribute_error'></div>
+				<div class='hdn_contribute_form_body'>
+					<input name='hdn_contribute_tip_name' id='hdn_contribute_tip_name' type='text' value='' class='hdn_contribute_field'  tabindex='1' placeholder='Name' />
+					<input name='hdn_contribute_tip_email' id='hdn_contribute_tip_email' type='text' value='' class='hdn_contribute_field'  tabindex='2'  placeholder='Email Address' />
+					<input name='hdn_contribute_tip_subject' id='hdn_contribute_tip_subject' type='text' value='' class='hdn_contribute_field'  tabindex='3'  placeholder='Subject Line' />
+					<div class="hdn_contribute_textarea_wrapper">
+						<textarea name='hdn_contribute_tip_message' id='hdn_contribute_tip_message' class='hdn_contribute_field' tabindex='4' rows='5' cols='50'  placeholder='Message'></textarea>
+						<div class="hdn_contribute_textarea_counter">0/1000 characters</div>
+					</div>
+					<div id="hdn_contribute_tip_captcha"></div>
+				</div>
+				<input type='submit' id='hdn_contribute_tip_submit' class='hdn_contribute_submit' value='Submit Tip' tabindex='6' />
+            	<input type='hidden' name='action' value='ContributeAjax-submit' />
+            	<input type='hidden' name='post_id' value='66293' />
+            	<input type='hidden' name='post_author' value='16380' />
+            	<input type='hidden' name='hdn_contribute_form_submit' value='tip_form' />
+			</form>
+			</div>
+		</div>
+	<script id= "perfect_market_js" type="text/javascript">if(!window.is_mobile) document.write("<script src=\"http:\/\/widget.perfectmarket.com\/houstonchron\/load.js\"><\/script>");</script><script type="text/javascript" src="http://blog.chron.com/ultimatetexans/wp-content/themes/responsive-base/js/footer.js"></script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/blog.chron.com\/ultimatetexans\/2015\/08\/texans-fans-show-excitement-at-first-day-of-training-camp\/":66293};
+		window.WPCOM_jetpack = true;
+				window.WPCOM_site_ID = 51018176;
+			</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/ultimatetexans/2015/08/texans-fans-show-excitement-at-first-day-of-training-camp/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<div
+				class="g-recaptcha"
+				data-sitekey="6LcUUOISAAAAACcvgc8wFtiofqc9BvnQoXqqHeem"
+				data-theme="light"
+				data-type="image"
+				data-tabindex="0"></div>
+			<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en_US" async></script>
+			
+			<img style="float: right; display: none" class="loading" src="http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-includes/js/comment-reply.min.js?ver=1b1e9d1d12fcc51a151e7e0688bc695f'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ContributeAjax = {"ajaxurl":"http:\/\/blog.chron.com\/ultimatetexans\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-contribute-forms/js/hdn-contribute-forms.js?ver=2012.0810;3c0225789415c71c69bd53592f532dff'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/hdn-viafoura-sso-comments/js/viafouraFooter.js?ver=1.0;285112f419115b89ef4663b519a2738b'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/blog.chron.com\/ultimatetexans\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/wp-polls/polls-js.js?ver=2.69;029670a7d3e6425d72b01748a1b415b2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201531'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.6'></script>
+<script type='text/javascript' src='http://blog.chron.com/ultimatetexans/wp-content/plugins/jetpack/modules/sharedaddy/hdnSharing.js?ver=3.6;691e10ca8d7885867dcee62610fb6e56'></script>
+	<!-- Don't forget analytics -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7362bac70a","applicationID":"1492280","transactionName":"NlRaZBRTVhBRVRFQWA8eeVMSW1cNH0UMV1ANVA==","queueTime":0,"applicationTime":713,"atts":"GhNZElxJRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+
+</html>

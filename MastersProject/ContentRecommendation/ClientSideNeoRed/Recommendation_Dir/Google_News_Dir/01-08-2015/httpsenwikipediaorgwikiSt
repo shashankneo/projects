@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Stagefright (bug) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf16" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stagefright_(bug)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stagefright_(bug)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stagefright_(bug)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stagefright_(bug)" />
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stagefright_(bug)","wgTitle":"Stagefright (bug)","wgCurRevisionId":673943569,"wgRevisionId":673943569,"wgArticleId":47364085,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from July 2015","Articles containing potentially dated statements from July 2015","All articles containing potentially dated statements","Hacking in the 2010s","Software bugs","Android (operating system)","2015 in computer science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stagefright_(bug)","wgRelevantArticleId":47364085,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Stagefright_bug_logo.png/100px-Stagefright_bug_logo.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q20736433","wgVisualEditorToolbarScrollOffset":0});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf16/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stagefright_bug skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Stagefright (bug)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stagefright_bug_logo.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Stagefright_bug_logo.png/220px-Stagefright_bug_logo.png" width="220" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Stagefright_bug_logo.png/330px-Stagefright_bug_logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/f/f2/Stagefright_bug_logo.png 2x" data-file-width="350" data-file-height="228" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stagefright_bug_logo.png" class="internal" title="Enlarge"></a></div>
+Logo of the Stagefright bug</div>
+</div>
+</div>
+<p><b>Stagefright</b> is a remotely exploitable <a href="/wiki/Software_bug" title="Software bug">software bug</a> that affects versions <a href="/wiki/Android_Froyo" title="Android Froyo" class="mw-redirect">2.2 ("Froyo")</a> and newer of the <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> <a href="/wiki/Operating_system" title="Operating system">operating system</a>, and allows an attacker to perform arbitrary operations on the victim device through <a href="/wiki/Remote_code_execution" title="Remote code execution" class="mw-redirect">remote code execution</a> and <a href="/wiki/Privilege_escalation" title="Privilege escalation">privilege escalation</a>.<sup id="cite_ref-zimperium-protection_1-0" class="reference"><a href="#cite_note-zimperium-protection-1"><span>[</span>1<span>]</span></a></sup> <a href="/wiki/Computer_security" title="Computer security">Security</a> researchers demonstrate the bug with a <a href="/wiki/Proof_of_concept" title="Proof of concept">proof of concept</a> that sends specially crafted <a href="/wiki/Multimedia_Messaging_Service" title="Multimedia Messaging Service">MMS</a> messages to the victim device and in most cases requires no <a href="/wiki/End-user" title="End-user" class="mw-redirect">end-user</a> actions upon message reception to succeed, while using the phone number as the only target information. The underlying <a href="/wiki/Attack_vector" title="Attack vector" class="mw-redirect">attack vector</a> <a href="/wiki/Exploit_(computer_security)" title="Exploit (computer security)">exploits</a> certain <a href="/wiki/Integer_overflow" title="Integer overflow">integer overflow</a> <a href="/wiki/Vulnerability_(computing)" title="Vulnerability (computing)">vulnerabilities</a> in the Android's core component called "Stagefright",<sup id="cite_ref-cert_2-0" class="reference"><a href="#cite_note-cert-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>a<span>]</span></a></sup> which is a complex <a href="/wiki/Software_library" title="Software library" class="mw-redirect">software library</a> implemented in <a href="/wiki/C%2B%2B" title="C++">C++</a> as part of the <a href="/wiki/Android_Open_Source_Project" title="Android Open Source Project" class="mw-redirect">Android Open Source Project</a> (AOSP) and used as a backend engine for playing various multimedia formats such as <a href="/wiki/MP4" title="MP4" class="mw-redirect">MP4</a> files.<sup id="cite_ref-wired_6-0" class="reference"><a href="#cite_note-wired-6"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-zdnet_7-0" class="reference"><a href="#cite_note-zdnet-7"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-theguardian_8-0" class="reference"><a href="#cite_note-theguardian-8"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-zimperium-unicorn_10-0" class="reference"><a href="#cite_note-zimperium-unicorn-10"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Stagefright bug was discovered by Joshua Drake from the <a href="/wiki/Zimperium" title="Zimperium">Zimperium</a> security firm, and was publicly announced on July 27, 2015. Prior to the announcement, Joshua reported the bug to <a href="/wiki/Google" title="Google">Google</a> in April 2015, which incorporated a related <a href="/wiki/Bugfix" title="Bugfix" class="mw-redirect">bugfix</a> into its internal <a href="/wiki/Source_code" title="Source code">source code</a> repositories two days after the report. In July 2015, Evgeny Legerov, a Moscow-based security researcher, announced that he found two similar <a href="/wiki/Heap_overflow" title="Heap overflow">heap overflow</a> <a href="/wiki/Zero-day_vulnerability" title="Zero-day vulnerability" class="mw-redirect">zero-day vulnerabilities</a> in the Stagefright library, claiming that the library has been already exploited for a while.<sup id="cite_ref-zimperium-protection_1-1" class="reference"><a href="#cite_note-zimperium-protection-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>10<span>]</span></a></sup> As of July 2015<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;action=edit">[update]</a></sup>, the full public disclosure of the bug is announced for the <a href="/wiki/Black_Hat_Briefings" title="Black Hat Briefings">Black Hat</a> USA <a href="/wiki/Computer_security_conference" title="Computer security conference">computer security conference</a> on August 5, 2015, and for the <a href="/wiki/DEF_CON" title="DEF CON">DEFCON</a>&#160;23 <a href="/wiki/Hacker_(computer_security)" title="Hacker (computer security)">hacker</a> convention on August 7, 2015.<sup id="cite_ref-wired_6-1" class="reference"><a href="#cite_note-wired-6"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-zdnet_7-1" class="reference"><a href="#cite_note-zdnet-7"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-theguardian_8-1" class="reference"><a href="#cite_note-theguardian-8"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-zimperium-unicorn_10-1" class="reference"><a href="#cite_note-zimperium-unicorn-10"><span>[</span>9<span>]</span></a></sup> The bug has been provided with multiple <a href="/wiki/CVE_identifier" title="CVE identifier" class="mw-redirect">CVE identifiers</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>b<span>]</span></a></sup> which are collectively referred to as the Stagefright bug.<sup id="cite_ref-fortune_12-1" class="reference"><a href="#cite_note-fortune-12"><span>[</span>11<span>]</span></a></sup></p>
+<p>As of July 28, 2015<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;action=edit">[update]</a></sup>, only a few products have been actually <a href="/wiki/Patch_(computing)" title="Patch (computing)">patched</a> against the bug: <a href="/wiki/Blackphone" title="Blackphone">Blackphone</a>'s <a href="/wiki/PrivatOS" title="PrivatOS">PrivatOS</a> since its version 117, nightly releases of the <a href="/wiki/CyanogenMod" title="CyanogenMod">CyanogenMod</a>&#160;12.0 and 12.1,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>12<span>]</span></a></sup> and <a href="/wiki/Mozilla_Firefox" title="Mozilla Firefox" class="mw-redirect">Mozilla Firefox</a> since its version 38<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>13<span>]</span></a></sup> (this <a href="/wiki/Web_browser" title="Web browser">web browser</a> internally uses Android's Stagefright library).<sup id="cite_ref-zdnet_7-2" class="reference"><a href="#cite_note-zdnet-7"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-theguardian_8-2" class="reference"><a href="#cite_note-theguardian-8"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>14<span>]</span></a></sup> While Google maintains the Android's primary <a href="/wiki/Codebase" title="Codebase">codebase</a>, <a href="/wiki/Firmware" title="Firmware">firmware</a> updates for various Android devices are the responsibility of <a href="/wiki/Wireless_carrier" title="Wireless carrier" class="mw-redirect">wireless carriers</a> and <a href="/wiki/Original_equipment_manufacturer" title="Original equipment manufacturer">original equipment manufacturers</a> (OEMs). As a result, propagating patches to the actual devices often introduces long delays due to a large fragmentation between the manufacturers, device variants, Android versions, and various Android customizations performed by the manufacturers;<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>16<span>]</span></a></sup> furthermore, many older devices may never receive patched firmware at all. Thus, the nature of Stagefright bug highlights the technical and organisational difficulties associated with the propagation of Android patches.<sup id="cite_ref-zdnet_7-3" class="reference"><a href="#cite_note-zdnet-7"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>17<span>]</span></a></sup></p>
+<p>Certain <a href="/wiki/Vulnerability_mitigation" title="Vulnerability mitigation" class="mw-redirect">mitigations</a> exist for unpatched devices, including disabling the automatic retrieval of MMS messages and blocking the reception of <a href="/wiki/Text_message" title="Text message" class="mw-redirect">text messages</a> from unknown senders; however, these mitigations are not supported by all MMS applications (<a href="/wiki/Hangouts" title="Hangouts" class="mw-redirect">Hangouts</a>, for example, supports the former one). Further mitigation comes from some of the security features built into newer versions of Android that may help in making exploitation of the Stagefright bug more difficult; an example is the <a href="/wiki/Address_space_layout_randomization" title="Address space layout randomization">address space layout randomization</a> (ASLR) feature that was introduced in <a href="/wiki/Android_Ice_Cream_Sandwich" title="Android Ice Cream Sandwich">Android&#160;4.0 "Ice Cream Sandwich"</a> and fully enabled in <a href="/wiki/Android_Jelly_Bean" title="Android Jelly Bean">Android&#160;4.1 "Jelly Bean"</a>.<sup id="cite_ref-zimperium-protection_1-2" class="reference"><a href="#cite_note-zimperium-protection-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-cert_2-1" class="reference"><a href="#cite_note-cert-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-zdnet_7-4" class="reference"><a href="#cite_note-zdnet-7"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>18<span>]</span></a></sup> Thus, updating to the latest version of Android may help alleviate the issue, although as of July 28, 2015<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;action=edit">[update]</a></sup> it is unknown whether the latest releases of <a href="/wiki/Android_Lollipop" title="Android Lollipop">Android&#160;5.1 "Lollipop"</a> include actual patches against the Stagefright bug.<sup id="cite_ref-fortune_12-2" class="reference"><a href="#cite_note-fortune-12"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Monitor_padlock.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monitor_padlock.svg/31px-Monitor_padlock.svg.png" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monitor_padlock.svg/46px-Monitor_padlock.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monitor_padlock.svg/61px-Monitor_padlock.svg.png 2x" data-file-width="486" data-file-height="445" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Computer_security" title="Portal:Computer security">Computer security portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Android_version_history" title="Android version history">Android version history</a>&#160;–  a list and descriptions of the released versions of Android</li>
+<li><a href="/wiki/Phishing" title="Phishing">Phishing</a>&#160;–  the attempt to acquire sensitive information by masquerading as a trustworthy entity in an electronic communication</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Internally, the library is referred to as <span style="font-family: monospace, monospace;">libstagefright</span>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">The assigned <a href="/wiki/CVE_identifier" title="CVE identifier" class="mw-redirect">CVE identifiers</a> are CVE-2015-1538, CVE-2015-1539, CVE-2015-3824, CVE-2015-3826, CVE-2015-3827, CVE-2015-3828, and CVE-2015-3829.<sup id="cite_ref-fortune_12-0" class="reference"><a href="#cite_note-fortune-12"><span>[</span>11<span>]</span></a></sup></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 40em; -webkit-column-width: 40em; column-width: 40em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-zimperium-protection-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-zimperium-protection_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zimperium-protection_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-zimperium-protection_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.zimperium.com/how-to-protect-from-stagefright-vulnerability/">"How to Protect from StageFright Vulnerability"</a>. <i>zimperium.com</i>. July 30, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=How+to+Protect+from+StageFright+Vulnerability&amp;rft.date=July+30%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblog.zimperium.com%2Fhow-to-protect-from-stagefright-vulnerability%2F&amp;rft.jtitle=zimperium.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cert-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-cert_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cert_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Garret Wassermann (July 29, 2015). <a rel="nofollow" class="external text" href="https://www.kb.cert.org/vuls/id/924951">"Vulnerability Note VU#924951&#160;–  Android Stagefright contains multiple vulnerabilities"</a>. <a href="/wiki/CERT_(organisation)" title="CERT (organisation)" class="mw-redirect">CERT</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.au=Garret+Wassermann&amp;rft.aulast=Garret+Wassermann&amp;rft.btitle=Vulnerability+Note+VU%23924951%26nbsp%3B%26ndash%3B%26%2332%3B+Android+Stagefright+contains+multiple+vulnerabilities&amp;rft.date=July+29%2C+2015&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.kb.cert.org%2Fvuls%2Fid%2F924951&amp;rft.pub=CERT&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://source.android.com/devices/media.html">"Android Interfaces: Media"</a>. <i>source.android.com</i>. May 8, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Android+Interfaces%3A+Media&amp;rft.date=May+8%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsource.android.com%2Fdevices%2Fmedia.html&amp;rft.jtitle=source.android.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright">"platform/frameworks/av: media/libstagefright"</a>. <i>android.googlesource.com</i>. July 28, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=platform%2Fframeworks%2Fav%3A+media%2Flibstagefright&amp;rft.date=July+28%2C+2015&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fandroid.googlesource.com%2Fplatform%2Fframeworks%2Fav%2F%2B%2Fmaster%2Fmedia%2Flibstagefright&amp;rft.jtitle=android.googlesource.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wired-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-wired_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wired_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Michael Rundle (July 27, 2015). <a rel="nofollow" class="external text" href="http://www.wired.co.uk/news/archive/2015-07/27/stagefight-android-bug">"<span style="padding-left:0.2em;">'</span>Stagefright' Android bug is the 'worst ever discovered<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Michael+Rundle&amp;rft.au=Michael+Rundle&amp;rft.btitle=%27Stagefright%27+Android+bug+is+the+%27worst+ever+discovered%27&amp;rft.date=July+27%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wired.co.uk%2Fnews%2Farchive%2F2015-07%2F27%2Fstagefight-android-bug&amp;rft.pub=%27%27Wired%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zdnet-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-zdnet_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zdnet_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-zdnet_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-zdnet_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-zdnet_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Steven J. Vaughan-Nichols (July 27, 2015). <a rel="nofollow" class="external text" href="http://www.zdnet.com/article/stagefright-just-how-scary-is-it-for-android-users/">"Stagefright: Just how scary is it for Android users?"</a>. <a href="/wiki/ZDNet" title="ZDNet">ZDNet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Steven+J.+Vaughan-Nichols&amp;rft.au=Steven+J.+Vaughan-Nichols&amp;rft.btitle=Stagefright%3A+Just+how+scary+is+it+for+Android+users%3F&amp;rft.date=July+27%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.zdnet.com%2Farticle%2Fstagefright-just-how-scary-is-it-for-android-users%2F&amp;rft.pub=ZDNet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-theguardian-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-theguardian_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-theguardian_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-theguardian_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Alex Hern (July 28, 2015). <a rel="nofollow" class="external text" href="http://www.theguardian.com/technology/2015/jul/28/stagefright-android-vulnerability-heartbleed-mobile">"Stagefright: new Android vulnerability dubbed 'heartbleed for mobile<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.au=Alex+Hern&amp;rft.aulast=Alex+Hern&amp;rft.btitle=Stagefright%3A+new+Android+vulnerability+dubbed+%27heartbleed+for+mobile%27&amp;rft.date=July+28%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F28%2Fstagefright-android-vulnerability-heartbleed-mobile&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Mohit Kumar (July 27, 2015). <a rel="nofollow" class="external text" href="http://thehackernews.com/2015/07/android-phone-hacking.html">"Simple Text Message to Hack Any Android Phone Remotely"</a>. <i>thehackernews.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Simple+Text+Message+to+Hack+Any+Android+Phone+Remotely&amp;rft.aulast=Mohit+Kumar&amp;rft.au=Mohit+Kumar&amp;rft.date=July+27%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fthehackernews.com%2F2015%2F07%2Fandroid-phone-hacking.html&amp;rft.jtitle=thehackernews.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zimperium-unicorn-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-zimperium-unicorn_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zimperium-unicorn_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/">"Experts Found a Unicorn in the Heart of Android"</a>. <i>zimperium.com</i>. July 27, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Experts+Found+a+Unicorn+in+the+Heart+of+Android&amp;rft.date=July+27%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblog.zimperium.com%2Fexperts-found-a-unicorn-in-the-heart-of-android%2F&amp;rft.jtitle=zimperium.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">Thomas Fox-Brewster (July 30, 2015). <a rel="nofollow" class="external text" href="http://www.forbes.com/sites/thomasbrewster/2015/07/30/stagefright-vulnerabilties-ready-for-testing/">"Russian 'Zero Day' Hunter Has Android Stagefright Bugs Primed For One-Text Hacks"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Thomas+Fox-Brewster&amp;rft.au=Thomas+Fox-Brewster&amp;rft.btitle=Russian+%27Zero+Day%27+Hunter+Has+Android+Stagefright+Bugs+Primed+For+One-Text+Hacks&amp;rft.date=July+30%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fthomasbrewster%2F2015%2F07%2F30%2Fstagefright-vulnerabilties-ready-for-testing%2F&amp;rft.pub=%27%27Forbes%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fortune-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-fortune_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fortune_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fortune_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Robert Hackett (July 28, 2015). <a rel="nofollow" class="external text" href="http://fortune.com/2015/07/28/stagefright-google-android-security/">"Stagefright: Everything you need to know about Google's Android megabug"</a>. <i><a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Robert+Hackett&amp;rft.au=Robert+Hackett&amp;rft.btitle=Stagefright%3A+Everything+you+need+to+know+about+Google%27s+Android+megabug&amp;rft.date=July+28%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffortune.com%2F2015%2F07%2F28%2Fstagefright-google-android-security%2F&amp;rft.pub=%27%27Fortune%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://plus.google.com/+CyanogenMod/posts/7iuX21Tz7n8">"CyanogenMod: Recent Stagefright issues"</a>. <i>plus.google.com</i>. July 27, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=CyanogenMod%3A+Recent+Stagefright+issues&amp;rft.date=July+27%2C+2015&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fplus.google.com%2F%2BCyanogenMod%2Fposts%2F7iuX21Tz7n8&amp;rft.jtitle=plus.google.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://www.mozilla.org/en-US/security/advisories/mfsa2015-55/">"Buffer overflow and out-of-bounds read while parsing MP4 video metadata"</a>. <i>mozilla.org</i>. May 12, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Buffer+overflow+and+out-of-bounds+read+while+parsing+MP4+video+metadata&amp;rft.date=May+12%2C+2015&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.mozilla.org%2Fen-US%2Fsecurity%2Fadvisories%2Fmfsa2015-55%2F&amp;rft.jtitle=mozilla.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web">Thomas Fox-Brewster (July 27, 2015). <a rel="nofollow" class="external text" href="http://www.forbes.com/sites/thomasbrewster/2015/07/27/android-text-attacks/">"Stagefright: It Only Takes One Text To Hack 950 Million Android Phones"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Thomas+Fox-Brewster&amp;rft.au=Thomas+Fox-Brewster&amp;rft.btitle=Stagefright%3A+It+Only+Takes+One+Text+To+Hack+950+Million+Android+Phones&amp;rft.date=July+27%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fthomasbrewster%2F2015%2F07%2F27%2Fandroid-text-attacks%2F&amp;rft.pub=%27%27Forbes%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">Jamie Lendino (July 27, 2015). <a rel="nofollow" class="external text" href="http://www.extremetech.com/mobile/210906-950m-phones-at-risk-for-stagefright-text-hack-thanks-to-android-fragmentation">"950M phones at risk for 'Stagefright' text exploit thanks to Android fragmentation"</a>. <i>extremetech.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=950M+phones+at+risk+for+%27Stagefright%27+text+exploit+thanks+to+Android+fragmentation&amp;rft.au=Jamie+Lendino&amp;rft.aulast=Jamie+Lendino&amp;rft.date=July+27%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.extremetech.com%2Fmobile%2F210906-950m-phones-at-risk-for-stagefright-text-hack-thanks-to-android-fragmentation&amp;rft.jtitle=extremetech.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web">Jordan Minor (July 30, 2015). <a rel="nofollow" class="external text" href="http://www.pcmag.com/article2/0,2817,2488772,00.asp">"There's (Almost) Nothing You Can Do About Stagefright"</a>. <i><a href="/wiki/PC_Magazine" title="PC Magazine">PC Magazine</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.au=Jordan+Minor&amp;rft.aulast=Jordan+Minor&amp;rft.btitle=There%27s+%28Almost%29+Nothing+You+Can+Do+About+Stagefright&amp;rft.date=July+30%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C2817%2C2488772%2C00.asp&amp;rft.pub=%27%27PC+Magazine%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web">Phil Nickinson (July 27, 2015). <a rel="nofollow" class="external text" href="http://www.androidcentral.com/stagefright-exploit-what-you-need-know">"The 'Stagefright' exploit: What you need to know"</a>. <a href="/wiki/Android_Central" title="Android Central">Android Central</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.aulast=Phil+Nickinson&amp;rft.au=Phil+Nickinson&amp;rft.btitle=The+%27Stagefright%27+exploit%3A+What+you+need+to+know&amp;rft.date=July+27%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.androidcentral.com%2Fstagefright-exploit-what-you-need-know&amp;rft.pub=Android+Central&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Jon Oberheide (July 16, 2012). <a rel="nofollow" class="external text" href="https://www.duosecurity.com/blog/exploit-mitigations-in-android-jelly-bean-4-1">"Exploit Mitigations in Android Jelly Bean&#160;4.1"</a>. <i>duosecurity.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Exploit+Mitigations+in+Android+Jelly+Bean%26nbsp%3B4.1&amp;rft.au=Jon+Oberheide&amp;rft.aulast=Jon+Oberheide&amp;rft.date=July+16%2C+2012&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.duosecurity.com%2Fblog%2Fexploit-mitigations-in-android-jelly-bean-4-1&amp;rft.jtitle=duosecurity.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web">Michael Crider (July 28, 2015). <a rel="nofollow" class="external text" href="http://www.androidpolice.com/2015/07/28/google-representative-promises-a-stagefright-security-update-for-nexus-devices-starting-next-week/">"Google Promises a Stagefright Security Update For Nexus Devices Starting Next Week"</a>. <i>androidpolice.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStagefright+%28bug%29&amp;rft.atitle=Google+Promises+a+Stagefright+Security+Update+For+Nexus+Devices+Starting+Next+Week&amp;rft.aulast=Michael+Crider&amp;rft.au=Michael+Crider&amp;rft.date=July+28%2C+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.androidpolice.com%2F2015%2F07%2F28%2Fgoogle-representative-promises-a-stagefright-security-update-for-nexus-devices-starting-next-week%2F&amp;rft.jtitle=androidpolice.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></td>
+<td class="mbox-text plainlist">Wikiversity has learning materials about <i><b><a href="//en.wikiversity.org/wiki/Managing_risk_from_cyber_attacks" class="extiw" title="v:Managing risk from cyber attacks">Managing risk from cyber attacks</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.exploit-db.com/platform/?p=android">Exploits database for the Android platform</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html">CVE security vulnerabilities for the Google Android</a></li>
+<li>Google's Android codebase patches against the Stagefright bug: <a rel="nofollow" class="external text" href="https://android.googlesource.com/platform/frameworks/av/+/030d8d0%5E!/">patch #1</a>, <a rel="nofollow" class="external text" href="https://android.googlesource.com/platform/frameworks/av/+/5c134e6%5E!/">patch #2</a> and <a rel="nofollow" class="external text" href="https://android.googlesource.com/platform/frameworks/av/+/0e4e5a8%5E!/">patch #3</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hacking_in_the_2010s" title="Template:Hacking in the 2010s"><span title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hacking_in_the_2010s" title="Template talk:Hacking in the 2010s"><span title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hacking_in_the_2010s&amp;action=edit"><span title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Hacking in the 2010s</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Major incidents</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Operation_Aurora" title="Operation Aurora">Operation Aurora</a> (2010)</li>
+<li><a href="/wiki/February_2010_Australian_cyberattacks" title="February 2010 Australian cyberattacks">Australian cyberattacks</a> (2010)</li>
+<li><a href="/wiki/Operation_Payback" title="Operation Payback">Operation Payback</a> (2010)</li>
+<li><a href="/wiki/DigiNotar" title="DigiNotar">DigiNotar</a> (2011)</li>
+<li><a href="/wiki/Operation_Tunisia" title="Operation Tunisia">Operation Tunisia</a> (2011)</li>
+<li><a href="/wiki/2011_PlayStation_Network_outage" title="2011 PlayStation Network outage">2011 PlayStation Network outage</a> (2011)</li>
+<li><a href="/wiki/Operation_AntiSec" title="Operation AntiSec">Operation AntiSec</a> (2011)</li>
+<li><a href="/wiki/2012%E2%80%9313_Stratfor_email_leak" title="2012–13 Stratfor email leak">Stratfor email leak</a> (2012–13)</li>
+<li><a href="/wiki/2012_LinkedIn_hack" title="2012 LinkedIn hack">LinkedIn hack</a> (2012)</li>
+<li><a href="/wiki/2013_South_Korea_cyberattack" title="2013 South Korea cyberattack">South Korea cyberattack</a> (2013)</li>
+<li><a href="/wiki/2014_Snapchat_hack" title="2014 Snapchat hack" class="mw-redirect">Snapchat hack</a> (2013)</li>
+<li><a href="/wiki/Operation_Tovar" title="Operation Tovar">Operation Tovar</a> (2014)</li>
+<li><a href="/wiki/2014_celebrity_photo_hack" title="2014 celebrity photo hack">2014 celebrity photo hack</a> (2014)</li>
+<li><a href="/wiki/Heartbleed" title="Heartbleed">Heartbleed</a> (2014)</li>
+<li><a href="/wiki/Shellshock_(software_bug)" title="Shellshock (software bug)">Shellshock</a> (2014)</li>
+<li><a href="/wiki/POODLE" title="POODLE">POODLE</a> (2014)</li>
+<li><a href="/wiki/Sony_Pictures_Entertainment_hack" title="Sony Pictures Entertainment hack">Sony Pictures Entertainment hack</a> (2014)</li>
+<li><a href="/wiki/Office_of_Personnel_Management_data_breach" title="Office of Personnel Management data breach">Office of Personnel Management data breach</a> (2015)</li>
+<li><a href="/wiki/Hacking_Team#2015_data_breach" title="Hacking Team">Hacking Team</a> (2015)</li>
+<li><a href="/wiki/Ashley_Madison#Data_breach" title="Ashley Madison">Ashley Madison</a> (2015)</li>
+<li><strong class="selflink">Stagefright</strong> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Hacker_group" title="Hacker group">Groups</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anonymous_(group)" title="Anonymous (group)">Anonymous</a>
+<ul>
+<li><a href="/wiki/Timeline_of_events_associated_with_Anonymous" title="Timeline of events associated with Anonymous">associated events</a></li>
+</ul>
+</li>
+<li><a href="/wiki/CyberBerkut" title="CyberBerkut">CyberBerkut</a></li>
+<li><a href="/wiki/Bureau_121" title="Bureau 121">Bureau 121</a></li>
+<li><a href="/wiki/Derp_(hacker_group)" title="Derp (hacker group)">Derp</a></li>
+<li><a href="/wiki/Gay_Nigger_Association_of_America" title="Gay Nigger Association of America">GNAA</a></li>
+<li><a href="/wiki/Goatse_Security" title="Goatse Security">Goatse Security</a></li>
+<li><a href="/wiki/Hacking_Team" title="Hacking Team">Hacking Team</a></li>
+<li><a href="/wiki/Iranian_Cyber_Army" title="Iranian Cyber Army">Iranian Cyber Army</a></li>
+<li><a href="/wiki/Lizard_Squad" title="Lizard Squad">Lizard Squad</a></li>
+<li><a href="/wiki/LulzRaft" title="LulzRaft">LulzRaft</a></li>
+<li><a href="/wiki/LulzSec" title="LulzSec">LulzSec</a></li>
+<li><a href="/wiki/NullCrew" title="NullCrew">NullCrew</a></li>
+<li><a href="/wiki/PayPal_14" title="PayPal 14">PayPal 14</a></li>
+<li><a href="/wiki/PLA_Unit_61398" title="PLA Unit 61398">PLA Unit 61398</a></li>
+<li><a href="/wiki/RedHack" title="RedHack">RedHack</a></li>
+<li><a href="/wiki/Syrian_Electronic_Army" title="Syrian Electronic Army">Syrian Electronic Army</a></li>
+<li><a href="/wiki/TeaMp0isoN" title="TeaMp0isoN">TeaMp0isoN</a></li>
+<li><a href="/wiki/Tailored_Access_Operations" title="Tailored Access Operations">Tailored Access Operations</a></li>
+<li><a href="/wiki/UGNazi" title="UGNazi">UGNazi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Hacker_(term)" title="Hacker (term)">Individuals</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Donncha_O%27Cearbhaill" title="Donncha O'Cearbhaill">Donncha O'Cearbhaill</a></li>
+<li><a href="/wiki/Jeremy_Hammond" title="Jeremy Hammond">Jeremy Hammond</a></li>
+<li><a href="/wiki/Junaid_Hussain" title="Junaid Hussain">Junaid Hussain</a></li>
+<li><a href="/wiki/George_Hotz" title="George Hotz">George Hotz</a></li>
+<li><a href="/wiki/Guccifer" title="Guccifer">Guccifer</a></li>
+<li><a href="/wiki/Mercedes_Haefer" title="Mercedes Haefer">Mercedes Haefer</a></li>
+<li><a href="/wiki/Mustafa_Al-Bassam" title="Mustafa Al-Bassam">Mustafa Al-Bassam</a></li>
+<li><a href="/wiki/Hector_Xavier_Monsegur" title="Hector Xavier Monsegur" class="mw-redirect">Sabu</a></li>
+<li><a href="/wiki/Ryan_Ackroyd" title="Ryan Ackroyd">Ryan Ackroyd</a></li>
+<li><a href="/wiki/Topiary_(hacktivist)" title="Topiary (hacktivist)">Topiary</a></li>
+<li><a href="/wiki/The_Jester_(hacktivist)" title="The Jester (hacktivist)">The Jester</a></li>
+<li><a href="/wiki/Weev" title="Weev">weev</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Malware" title="Malware">Malware</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Careto_(malware)" title="Careto (malware)">Careto / The Mask</a></li>
+<li><a href="/wiki/CryptoLocker" title="CryptoLocker">CryptoLocker</a></li>
+<li><a href="/wiki/Dexter_(malware)" title="Dexter (malware)">Dexter</a></li>
+<li><a href="/wiki/Duqu" title="Duqu">Duqu</a></li>
+<li><a href="/wiki/FinFisher" title="FinFisher">FinFisher</a></li>
+<li><a href="/wiki/Flame_(malware)" title="Flame (malware)">Flame</a></li>
+<li><a href="/wiki/Gameover_ZeuS" title="Gameover ZeuS">Gameover ZeuS</a></li>
+<li><a href="/wiki/Mahdi_(malware)" title="Mahdi (malware)">Mahdi</a></li>
+<li><a href="/wiki/Metulji_botnet" title="Metulji botnet">Metulji botnet</a></li>
+<li><a href="/wiki/NSA_ANT_catalog" title="NSA ANT catalog">NSA ANT catalog</a></li>
+<li><a href="/wiki/R2D2_(trojan)" title="R2D2 (trojan)" class="mw-redirect">R2D2 (trojan)</a></li>
+<li><a href="/wiki/Shamoon" title="Shamoon">Shamoon</a></li>
+<li><a href="/wiki/Stars_virus" title="Stars virus">Stars virus</a></li>
+<li><a href="/wiki/Stuxnet" title="Stuxnet">Stuxnet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Android" title="Template:Android"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Android" title="Template talk:Android"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Android&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Android_(operating_system)_development_software" title="Category:Android (operating system) development software">Development</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_Runtime" title="Android Runtime">Android Runtime</a> (ART)</li>
+<li><a href="/wiki/Android_software_development" title="Android software development">Android software development</a></li>
+<li><a href="/wiki/Android_Studio" title="Android Studio">Android Studio</a></li>
+<li><a href="/wiki/Android_application_package" title="Android application package">Android application package</a> (APK)</li>
+<li><a href="/wiki/App_Inventor_for_Android" title="App Inventor for Android">App Inventor</a></li>
+<li><a href="/wiki/Dalvik_(software)" title="Dalvik (software)">Dalvik</a></li>
+<li><a href="/wiki/OpenBinder" title="OpenBinder">OpenBinder</a></li>
+<li><a href="/wiki/Android_Developer_Challenge" title="Android Developer Challenge">Developer Challenge</a></li>
+<li><a href="/wiki/Android_Developer_Lab" title="Android Developer Lab">Developer Lab</a></li>
+<li><a href="/wiki/Eclipse_(software)" title="Eclipse (software)">Eclipse</a></li>
+<li><a href="/wiki/Google_Developers" title="Google Developers">Google Developers</a></li>
+<li><a href="/wiki/Google_I/O" title="Google I/O">Google I/O</a></li>
+<li><a href="/wiki/Renderscript" title="Renderscript">Renderscript</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="21" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Android_robot.svg" class="image" title="Android logo"><img alt="Android logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/60px-Android_robot.svg.png" width="60" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/90px-Android_robot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png 2x" data-file-width="512" data-file-height="601" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Android_version_history" title="Android version history">Releases</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_Ice_Cream_Sandwich" title="Android Ice Cream Sandwich">Ice Cream Sandwich</a></li>
+<li><a href="/wiki/Android_Jelly_Bean" title="Android Jelly Bean">Jelly Bean</a></li>
+<li><a href="/wiki/Android_KitKat" title="Android KitKat">KitKat</a></li>
+<li><a href="/wiki/Android_Lollipop" title="Android Lollipop">Lollipop</a></li>
+<li><a href="/wiki/Android_M" title="Android M">M</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Derivatives</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_Auto" title="Android Auto">Android Auto</a></li>
+<li><a href="/wiki/Android_TV" title="Android TV">Android TV</a></li>
+<li><a href="/wiki/Android_Wear" title="Android Wear">Android Wear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Google_Nexus" title="Google Nexus">Nexus devices</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nexus_One" title="Nexus One">Nexus One</a></li>
+<li><a href="/wiki/Nexus_S" title="Nexus S">Nexus S</a></li>
+<li><a href="/wiki/Galaxy_Nexus" title="Galaxy Nexus">Galaxy Nexus</a></li>
+<li><a href="/wiki/Nexus_4" title="Nexus 4">Nexus 4</a></li>
+<li><a href="/wiki/Nexus_5" title="Nexus 5">Nexus 5</a></li>
+<li><a href="/wiki/Nexus_6" title="Nexus 6">Nexus 6</a></li>
+<li>Nexus 7
+<ul>
+<li><a href="/wiki/Nexus_7_(2012_version)" title="Nexus 7 (2012 version)">2012 version</a></li>
+<li><a href="/wiki/Nexus_7_(2013_version)" title="Nexus 7 (2013 version)">2013 version</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nexus_10" title="Nexus 10">Nexus 10</a></li>
+<li><a href="/wiki/Nexus_9" title="Nexus 9">Nexus 9</a></li>
+<li><a href="/wiki/Nexus_Q" title="Nexus Q">Nexus Q</a></li>
+<li><a href="/wiki/Nexus_Player" title="Nexus Player">Nexus Player</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Google_Experience_device" title="Google Experience device" class="mw-redirect">Google Play edition</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HTC_One_(2013)" title="HTC One (2013)">HTC One (M7)</a></li>
+<li><a href="/wiki/HTC_One_(M8)" title="HTC One (M8)">HTC One (M8)</a></li>
+<li><a href="/wiki/LG_G_Pad_8.3" title="LG G Pad 8.3">LG G Pad 8.3</a></li>
+<li><a href="/wiki/Moto_G_(1st_generation)" title="Moto G (1st generation)">Moto G</a></li>
+<li><a href="/wiki/Samsung_Galaxy_S4" title="Samsung Galaxy S4">Samsung Galaxy S4</a></li>
+<li><a href="/wiki/Sony_Xperia_Z_Ultra" title="Sony Xperia Z Ultra">Sony Xperia Z Ultra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Forks and distributions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AOKP" title="AOKP">AOKP</a></li>
+<li><a href="/wiki/Baidu_Yi" title="Baidu Yi">Baidu Yi</a></li>
+<li><a href="/wiki/Barnes_%26_Noble_Nook" title="Barnes &amp; Noble Nook">Barnes &amp; Noble Nook</a></li>
+<li><a href="/wiki/CyanogenMod" title="CyanogenMod">CyanogenMod</a></li>
+<li><a href="/wiki/LeWa_OS" title="LeWa OS">LeWa OS</a></li>
+<li><a href="/wiki/MIUI" title="MIUI">MIUI</a></li>
+<li><a href="/wiki/Meizu#Flyme_OS" title="Meizu">Flyme OS</a></li>
+<li><a href="/wiki/OPhone" title="OPhone">OPhone</a></li>
+<li><a href="/wiki/OmniROM" title="OmniROM">OmniROM</a></li>
+<li><a href="/wiki/Replicant_(operating_system)" title="Replicant (operating system)">Replicant</a></li>
+<li><a href="/wiki/XobotOS" title="XobotOS">XobotOS</a></li>
+<li><a href="/wiki/Fire_OS" title="Fire OS">Fire OS</a></li>
+<li><a href="/wiki/Nokia_X_family#Nokia_X_software_platform" title="Nokia X family">Nokia X Software Platform</a></li>
+<li><a href="/wiki/Ubuntu_for_Android" title="Ubuntu for Android">Ubuntu for Android</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Android_(operating_system)_software" title="Category:Android (operating system) software">Applications</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Earth</a></li>
+<li><a href="/wiki/Gmail" title="Gmail">Gmail</a></li>
+<li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">Google Chrome for Android</a></li>
+<li><a href="/wiki/Google_Goggles" title="Google Goggles">Goggles</a></li>
+<li><a href="/wiki/Google_Hangouts" title="Google Hangouts">Hangouts</a></li>
+<li><a href="/wiki/Google_Maps_(application)" title="Google Maps (application)" class="mw-redirect">Maps</a>
+<ul>
+<li><a href="/wiki/Google_Maps_Navigation" title="Google Maps Navigation">Navigation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Play" title="Google Play">Play</a>
+<ul>
+<li><a href="/wiki/Google_Play_Books" title="Google Play Books">Books</a></li>
+<li><a href="/wiki/Google_Play_Music" title="Google Play Music">Music</a></li>
+<li><a href="/wiki/Google_Play_Newsstand" title="Google Play Newsstand">Newsstand</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Sky" title="Google Sky">Sky</a></li>
+<li><a href="/wiki/Google_Talk" title="Google Talk">Talk</a></li>
+<li><a href="/wiki/Google_Voice" title="Google Voice">Voice</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">APIs</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Cloud_Messaging" title="Google Cloud Messaging">Google Cloud Messaging</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a></li>
+<li><a href="/wiki/Google_Play_Services" title="Google Play Services">Google Play Services</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google Search</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Alternative<br />
+user interfaces</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asus_Zen_UI" title="Asus Zen UI">Asus Zen UI</a></li>
+<li><a href="/wiki/Hive_UI" title="Hive UI">Hive UI</a></li>
+<li><a href="/wiki/HTC_Sense" title="HTC Sense">HTC Sense</a></li>
+<li><a href="/wiki/Optimus_UI" title="Optimus UI">LG Optimus UI</a></li>
+<li><a href="/wiki/TouchWiz" title="TouchWiz">Samsung TouchWiz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_Android_OS_articles" title="Index of Android OS articles">Index of articles</a></li>
+<li><a href="/wiki/List_of_free_and_open-source_Android_applications" title="List of free and open-source Android applications">Free and open-source applications</a></li>
+<li><a href="/wiki/List_of_Google_apps_for_Android" title="List of Google apps for Android">Google apps for Android</a></li>
+<li><a href="/wiki/List_of_features_in_Android" title="List of features in Android">Features</a></li>
+<li><a href="/wiki/List_of_Android_launchers" title="List of Android launchers">Launchers</a></li>
+<li><a href="/wiki/Android_lawn_statues" title="Android lawn statues">Lawn statues</a></li>
+<li><a href="/wiki/Android_rooting" title="Android rooting" class="mw-redirect">Rooting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Androidland" title="Androidland">Androidland</a></li>
+<li><a href="/wiki/Android_One" title="Android One">Android One</a></li>
+<li><a href="/wiki/Google" title="Google">Google</a></li>
+<li><a href="/wiki/Google_Cardboard" title="Google Cardboard">Google Cardboard</a></li>
+<li><a href="/wiki/Comparison_of_Java_and_Android_API" title="Comparison of Java and Android API">Java and Android API</a></li>
+<li><a href="/wiki/Material_Design" title="Material Design">Material Design</a></li>
+<li><a href="/wiki/XDA_Developers" title="XDA Developers">XDA Developers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1224
+CPU time usage: 0.335 seconds
+Real time usage: 0.390 seconds
+Preprocessor visited node count: 6221/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 81621/2097152 bytes
+Template argument size: 6699/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 2.88 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  307.680      1 - -total
+ 55.87%  171.911      2 - Template:Reflist
+ 44.53%  137.020     19 - Template:Cite_web
+ 21.58%   66.394     38 - Template:Date
+  8.69%   26.725      1 - Template:Use_mdy_dates
+  8.08%   24.870      2 - Template:Navbox
+  6.80%   20.925      1 - Template:Hacking_in_the_2010s
+  6.71%   20.652      4 - Template:DMCA
+  6.15%   18.923      3 - Template:As_of
+  5.86%   18.018      4 - Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47364085-0!*!0!!*!4!* and timestamp 20150731145913 and revision id 673943569
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;oldid=673943569">https://en.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;oldid=673943569</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hacking_in_the_2010s" title="Category:Hacking in the 2010s">Hacking in the 2010s</a></li><li><a href="/wiki/Category:Software_bugs" title="Category:Software bugs">Software bugs</a></li><li><a href="/wiki/Category:Android_(operating_system)" title="Category:Android (operating system)">Android (operating system)</a></li><li><a href="/wiki/Category:2015_in_computer_science" title="Category:2015 in computer science">2015 in computer science</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_July_2015" title="Category:Use mdy dates from July 2015">Use mdy dates from July 2015</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2015" title="Category:Articles containing potentially dated statements from July 2015">Articles containing potentially dated statements from July 2015</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stagefright+%28bug%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stagefright+%28bug%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stagefright_(bug)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Stagefright_(bug)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Stagefright_(bug)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stagefright_(bug)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stagefright_(bug)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stagefright_(bug)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stagefright_(bug)&amp;oldid=673943569" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stagefright_(bug)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q20736433" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stagefright_%28bug%29&amp;id=673943569" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stagefright+%28bug%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stagefright+%28bug%29&amp;oldid=673943569&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stagefright_(bug)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Stagefright_(Sicherheitsl%C3%BCcke)" title="Stagefright (Sicherheitslücke) – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Stagefright%E6%BC%8F%E6%B4%9E" title="Stagefright漏洞 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q20736433#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 July 2015, at 14:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stagefright_(bug)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_132x47.png 1.5x, https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"https://en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1080"});
+}</script>
+	</body>
+</html>

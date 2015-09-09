@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>PressTV-Iranian firms taken off UK sanctions list</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="PressTV-Iranian firms taken off UK sanctions list" />
+    <meta property="og:title" content="PressTV-Iranian firms taken off UK sanctions list" />
+    <meta property="og:description" content="Britain has removed two Iranian companies operating in the oil, gas and petrochemical sectors from its list of entities subject to asset freeze. " />
+    <meta property="og:type" content="article" />
+    <meta name="description" content="Britain has removed two Iranian companies operating in the oil, gas and petrochemical sectors from its list of entities subject to asset freeze. " />
+    <meta property="og:image" content="http://217.218.67.233/photo/20150730/ef48e4b1-4c17-4a10-aeee-21d0e3117e3b.jpg" />
+    <link rel="image_src" href="http://217.218.67.233/photo/20150730/ef48e4b1-4c17-4a10-aeee-21d0e3117e3b.jpg" />
+    <link rel="icon" href="/favicon.ico" type="image/ico" />    <link rel="stylesheet" href="/Content/icons.css">
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 10]><script src="/Scripts/modernizr-2.6.2.js"></script><![endif]-->
+</head><!-- Head -->
+<body>
+    <div id="breaking" class="breaking-navbar">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-24">
+                        <div class="ticker ticker-breaking block block-raw">
+                        <header><h2>Breaking News</h2></header>
+                        <section class="inner">
+                            <ul id="ul-breaking">
+
+                            </ul>
+                            <button type="button" class="close">&times;</button>
+                        </section>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header id="header" class="navbar">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-24">
+                    <div class="navbar-header">
+                        <h1><a href="/" class="navbar-brand header-logo">Press TV</a></h1>
+                        <div class="current-section"></div>
+                    </div>
+                    <div id="heaer-tools">
+                        <ul>
+                            <li><a href="/Default/Live" title="Watch Live"><i class="icon-monitor"></i><span class="">Watch Live</span></a></li>
+                            <li><a href="/Default/LiveAudio" title="Listen"><i class="icon-volume"></i>Listen</a></li>
+                            <li id="search" class="">
+                                <a href="#" title="Search"><i class="icon-search"></i></a>
+                                <form action="/Default/Search" method="get" class="">
+                                    <input type="text" name="q" class="form-control" placeholder="Search" />
+                                    <button type="submit" class="">Search</button>
+                                </form>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav id="menu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-24">
+                        <ul>
+                            <li class="haschild">
+                                <a href="/"><span>Home</span></a>
+                            </li>
+                            <li class="haschild">
+                                <a href="/Default/HSection/101"><span>Iran<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Section/10101">Politics</a></li>
+                                                                <li><a href="/Default/Section/10102">Economy</a></li>
+                                                                <li><a href="/Default/Section/10103">Energy</a></li>
+                                                                <li><a href="/Default/Section/10104">Nuclear Energy</a></li>
+                                                                <li><a href="/Default/Section/10105">Culture</a></li>
+                                                                <li><a href="/Default/Section/10106">Defence</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-19">
+                                                            <div>
+                                                                <span class="loading" data-loading="/callback/MenuLatest7/10101">Loading ...</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="haschild">
+                                <a href="#"><span>News<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/HSection/102">Middle East</a></li>
+                                                                <li><a href="/Default/HSection/104">Asia-Pacific</a></li>
+                                                                <li><a href="/Default/HSection/105">Africa</a></li>
+                                                                <li><a href="/Default/HSection/106">Europe</a></li>
+                                                                <li><a href="/Default/HSection/107">Americas</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-5">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Section/12001">Society</a></li>
+                                                                <li><a href="/Default/Section/12002">Arts</a></li>
+                                                                <li><a href="/Default/Section/12004">Business</a></li>
+                                                                <li><a href="/Default/Section/12005">Sports</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-14">
+                                                            <div>
+                                                                <span class="loading" data-loading="/callback/MenuLatest1">Loading ...</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/Default/HSection/108"><span>UK</span></a></li>
+                            <li><a href="/Default/HSection/103"><span>US</span></a></li>
+                            <li><a href="http://www.presstvdoc.com" target="_blank"><span>Docs</span></a></li>
+                            <li><a href="/Default/Videos/13012"><span>Videos</span></a></li>
+                                                        <li class="haschild">
+                                <a href="/Default/Shows"><span>Shows<i class="caret"></i> </span></a>
+                                <div class="child">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-24">
+                                                <div class="cont">
+                                                    <div class="row">
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15045">A Simple Question</a></li>
+                                                                <li><a href="/Default/Videos/15034">Africa Today</a></li>
+                                                                <li><a href="/Default/Videos/15024">Comment</a></li>
+                                                                <li><a href="/Default/Videos/15067">Economic Divide</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15031">Face to Face</a></li>
+                                                                <li><a href="/Default/Videos/15068">Hollywod Cut</a></li>
+                                                                <li><a href="/Default/Videos/15043">Infocus</a></li>
+                                                                <li><a href="/Default/Videos/15015">Iran</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15006">Iran Today</a></li>
+                                                                <li><a href="/Default/Videos/15062">Middle East Files</a></li>
+                                                                <li><a href="/Default/Videos/15064">Press Plus</a></li>
+                                                                <li><a href="/Default/Videos/15014">Reporter’s File</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-xs-6">
+                                                            <ul class="list-unstyled list-menu">
+                                                                <li><a href="/Default/Videos/15057">The Debate</a></li>
+                                                                <li><a href="/Default/Videos/15054">The Monarchy</a></li>
+                                                                <li><a href="/Default/Videos/15060">The Sun Will Rise</a></li>
+                                                            </ul>
+                                                            <div class="more">
+                                                                <a href="/Default/Shows"><i class="icon-right-small"></i>&nbsp;View more</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/Default/Photo"><span>Photos</span></a></li>
+                            <li class="rtl"><a href="/Farsi"><span>فارسی</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section id="mainbody">
+        <div class="container">
+            
+
+<div class="row">
+    <section id="main" class="col-xs-17">
+        <article id="item" class="block block-raw">
+            <div class="page-header">
+                <h2>Iranian firms taken off UK sanctions list</h2>
+            </div><!-- Item Header -->
+                <div id="item-tools" class="row">
+                    <div class="col-md-24 col-xs-24">
+                        <ol class="breadcrumb pull-left">
+<li><a href="/">Home</a></li><li><a href="/Default/HSection/101">Iran</a></li><li><a href="/Default/Section/10102">Economy</a></li>                        </ol>
+                        <div class="date pull-right" id="header-pubdate" data-id="422583">Thu Jul 30, 2015 6:19PM</div>
+                    </div>
+                </div><!-- Item Tools -->
+
+
+            <div class="item-image" id="mediaplayer">
+
+                                    <div class="image-holder">
+                        <img id="imgPlayback" src="http://217.218.67.233/photo/20150730/ef48e4b1-4c17-4a10-aeee-21d0e3117e3b.jpg" alt="Britain has removed two Iranian companies from its list of entities subject to asset freeze." />
+                    </div>
+            </div><!-- Item Image -->
+            <input type="hidden" id="inpShortCode" value="1vN3" />
+                            <div class="image-caption">
+                    <p>Britain has removed two Iranian companies from its list of entities subject to asset freeze.</p>
+                </div>
+            <div id="item-body" class="row">
+                <div id="item-main" class="col-md-24 col-xs-24">
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="item-text">
+                                <div class="sharing item-sharing">
+                                    <div id="" class="block social block-raw">
+                                        <span class="loading" data-loading="/callback/SocialSharings">Loading ...</span>
+                                    </div>
+                                </div>
+                                                                                    <p><strong>Britain has removed two Iranian companies operating in the oil, gas and petrochemical sectors from its list of entities subject to asset freeze.&nbsp;</strong></p><p>In a statement, the UK Treasury said Thursday it had taken Petropars Aria Kish Operation and Management (POMC) and Petropars Resources Engineering Kish (PRE) off its sanctions list. &nbsp;</p><p>The decision came after the two companies successfully applied to have their sanctions listings annulled before the General Court of the EU&nbsp;in May and the time to appeal the court ruling expired.&nbsp;</p><p>&ldquo;The 2-month-and-10-day period in which it was possible for the EU Council to appeal this decision has now passed, and accordingly HM Treasury has published a notice announcing their delisting,&rdquo; the UK Treasury&rsquo;s statement said.</p><p>The companies had argued that the council had made an error of assessment in deciding that they had provided&nbsp;support to the Iranian government to avoid sanctions. &nbsp;&nbsp;</p><p>In its May ruling, the General Court of the EU&nbsp;however&nbsp;dismissed the applications to annul the sanctions listings of two other Iranian energy companies --&nbsp;Petropars Iran Co. (PPI) and Petropars Oilfields Services Co. (POSCO).&nbsp;</p><p>The tribunal argued that the two companies were entirely owned by Petropars Ltd (PPL) which had allegedly helped the Iranian government circumvent the sanctions.</p><p>Petropars Ltd had minority shares in POMC and PRE where other shareholders had no interest in assisting the government, the court had said in its argument.</p><p>&ldquo;Therefore the Court annulled the sanctions listing of POMC and PRE but not PPI or POSCO,&rdquo; it added.&nbsp;</p><p>Under the Joint Comprehensive Plan of Action reached between Iran and the P5+1 earlier this month and endorsed by the EU and the UN Security Council, all sanctions on the Islamic Republic must be lifted.</p><p>Earlier this week, the European Union committed to removing Iran&rsquo;s former minister of defense, retired Brig. Gen. Ahmad Vahidi, from its sanctions list.&nbsp;</p><p>He is among a group of Iranian military officers, nuclear scientists and defense institutions set to be delisted in the wake of the finalized nuclear talks.</p>                                                    </div>
+                    </div>
+                </div>
+            </div><!-- Item Body -->
+                <div id="related" class="block related-thumbs">
+                    <header class="header-border red"><a class="disabled">Related Items</a></header>
+                    <div class="inner">
+                        <div class="clearfix"></div>
+                        <ul class="thumbs thumbs-vertical row">
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/01/29/395237/Iran-EU3-end-first-round-of-talks">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150129/5706a460-0a39-4fbd-b39d-028e58edd7bc.s.jpg" alt="Iran" />
+                                        </span>
+                                        <span class="title">Iran, EU3 end first round of talks</span>
+                                        <span class="desc">Iran and the EU3 end their first round of negotiations over Iran’s nuclear program in Istanbul.</span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/02/21/398571/Iran-negotiating-with-UK-over-NITC-ban----">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150221/6ecdf53d-394c-4f3c-8eb9-bfed0827ec0c.s.jpg" alt="IRAN NITC " />
+                                        </span>
+                                        <span class="title">Iran negotiating with UK over NITC ban    </span>
+                                        <span class="desc">Iran is going to negotiate with the UK to revise a decision to sanction its biggest tanker firm, NITC. </span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/06/30/418194/Iran-EU-P51-Vienna-">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150630/af2094df-4909-4c37-80c1-669b04ebfac7.s.jpg" alt="EU" />
+                                        </span>
+                                        <span class="title">EU extends Iran bans freeze for 7 days</span>
+                                        <span class="desc">The European Union extends a freeze on sanctions imposed against Iran over its nuclear program by one week.</span>
+                                    </a>
+                                </li>
+                                <li class="col-xs-6">
+                                    <a href="/Detail/2015/07/05/418884/Iran-European-Investors-Market-Investment">
+                                        <span class="img">
+                                            <img src="http://217.218.67.233/photo/20150705/7d1c6799-94a8-4bcb-bd8f-a225ce9e45ff.s.jpg" alt="IRAN ECONOMY " />
+                                        </span>
+                                        <span class="title">Iran says EU firms knocking on its doors</span>
+                                        <span class="desc">Iran says European companies are knocking on its doors to invest in its lucrative market.   
+</span>
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div><!-- Related Items -->
+                            <div class="row">
+                    <div class="col-md-24 col-xs-24">
+                        <div id="hypercomments_widget"></div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    var extid = "ptvdefaultdetail422583";
+                    _hcwp = window._hcwp || [];
+                    _hcwp.push({ widget: "Stream", widget_id: 26215, xid: extid, hc_disable: 1, quote_disable: 1, social: "google, facebook, twitter, openid", comments_level: 2 });
+                    (function () {
+                        if ("HC_LOAD_INIT" in window) return;
+                        HC_LOAD_INIT = true;
+                        var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+                        var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                        hcc.src = ("https:" == document.location.protocol ? "https" : "http") + "://w.hypercomments.com/widget/hc/26215/" + lang + "/widget.js";
+                        var s = document.getElementsByTagName("script")[0];
+                        s.parentNode.insertBefore(hcc, s.nextSibling);
+                    })();
+                </script>
+
+        </article><!-- Item -->
+    </section>
+
+    <aside id="sidebar" class="col-xs-7">
+        <div class="block social block-raw">
+            <span class="loading" data-loading="/callback/SocialNetworks">Loading ...</span>
+        </div>
+        <div id="headlines" class="block">
+            <span class="loading" data-loading="/callback/Latest">Loading ...</span>
+        </div>
+        <div>
+            <span class="loading" data-loading="/callback/Schedule">Loading ...</span>
+        </div>
+        <div>
+            <span class="loading" data-loading="/callback/Poll">Loading ...</span>
+        </div>
+        <div id="viewpoints" class="block block-raw">
+            <span class="loading11" data-loading="/callback/RelatedViewpoints/422583"></span>
+        </div><!-- Recommended Viewpoints -->
+        <div id="viewpoints" class="block block-raw">
+            <span class="loading11" data-loading="/callback/RelatedInterviews/422583"></span>
+        </div><!-- Recommended Interviews -->
+        <div>
+            <span class="loading" data-loading="/callback/TopHits">Loading ...</span>
+        </div>
+        <div class="block">
+            <div class="block-sidebar"></div>
+        </div>
+        
+
+<div class="block ads-carousel">
+    <div class="inner">
+        <div class="pages"></div>
+        <ul class="list-unstyle">
+            <li><a href="http://www.presstv.ir/Default/Yemen/110"><img src="http://217.218.67.233/static/79a564ea-2c54-4461-80a9-c105601885f4.jpg" alt="Saudi Aggression Against Yemen " /></a></li>
+            <li><a href="http://www.presstv.com/Default/IraqFightsAgainstTerrorists/113"><img src="http://217.218.67.233/static/370412b4-127e-4775-9517-c32bdc306bc9.jpg" alt="Iraq Fights Against Terrorists" /></a></li>
+            <li><a href="http://www.presstv.com/Default/WarOnSyria/112"><img src="http://217.218.67.233/static/3d220ee5-a131-415d-a9a8-41744cc97a9c.jpg" alt="War on Syria" /></a></li>
+        </ul>
+    </div>
+</div>
+    </aside><!-- Sidebar -->
+</div>
+<img src="/Submission/ViewCounter/422583" />
+
+
+        </div>
+    </section>
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div id="footer-menu" class="col-xs-24">
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/">News</a></dt>
+                            <dd><a href="/Default/HSection/101">Iran</a></dd>
+                            <dd><a href="/Default/HSection/102">Middle East</a></dd>
+                            <dd><a href="/Default/HSection/108">UK</a></dd>
+                            <dd><a href="/Default/HSection/103">US</a></dd>
+                            <dd><a href="/Default/HSection/104">Asia-Pacific</a></dd>
+                            <dd><a href="/Default/HSection/105">Africa</a></dd>
+                            <dd><a href="/Default/HSection/106">Europe</a></dd>
+                            <dd><a href="/Default/HSection/107">Americas</a></dd>
+
+                            <dd><a href="/Default/Section/12001">Society</a></dd>
+                            <dd><a href="/Default/Section/12002">Arts</a></dd>
+                            <dd><a href="/Default/Section/12004">Business</a></dd>
+                            <dd><a href="/Default/Section/12005">Sports</a></dd>
+
+                            <dd><a href="/Default/BreakingNews">Breaking News</a></dd>
+                            <dd><a href="/RSS/MRSS/1">RSS</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Default/Videos/13012">Video</a></dt>
+                            <dd><a href="/Default/Live">Watch Live</a></dd>
+                            <dd><a href="/Default/LiveAudio">Listen Live</a></dd>
+                            <dd><a href="/Default/Shows">Shows</a></dd>
+                            <dd><a href="/Default/Videos/13001">Video Reports</a></dd>
+                            <dd><a href="/Default/Videos/13002">Interviews</a></dd>
+                            <dd><a href="http://www.presstvdoc.com">Documentaries</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Detail/2014/12/31/390988/About-PressTV">About PressTV</a></dt>
+                            <dd><a href="/Detail/2014/12/31/390990/Privacy-Policy">Privacy Policy</a></dd>
+                            <!--<dd><a href="#">Terms of Use</a></dd>
+                            <dd><a href="#">Advertise with us</a></dd>
+                            <dd><a href="#">Go Mobile</a></dd>-->
+                            <dd><a href="/Default/Frequencies">Frequencies</a></dd>
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Detail/2014/12/31/390989/Contact-Press-TV">Contact Info</a></dt>
+                            <!--<dd><a href="#">Email</a></dd>-->
+                            <dd><a href="/Default/SMS">SMS</a></dd>
+                            <dd><a href="/Default/UReport">UReport</a></dd>
+                            <!--<dt ><a href="#">Stay Connected</a></dt>-->
+                            <dd class="border-left"><a href="https://www.facebook.com/PRESSTV?_fb_noscript=1" target="_blank"><i class="icon-facebook"></i>Facebook</a></dd>
+                            <dd><a href="https://twitter.com/#!/PressTV" target="_blank"><i class="icon-twitter"></i>Twitter</a></dd>
+                            <dd><a href="https://www.youtube.com/user/videosptv" target="_blank"><i class="icon-youtube-play"></i>Youtube</a></dd>
+                            <!--<dd><a href="#"><i class="icon-rss"></i>RSS</a></dd>
+                            <dd><a href="#"><i class="icon-podcast"></i>Podcasts</a></dd>
+                            <dd><a href="#"><i class="icon-newspaper"></i>Newsletter</a></dd>-->
+                        </dl>
+                    </div>
+                    <div class="row">
+                        <dl class="col-xs-24">
+                            <dt><a href="/Default/MediaServices">Media Services</a></dt>
+                        </dl>
+                    </div>
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-18">
+                        <div class="footer-brand">
+                            <a href="/" class="footer-logo">Press TV</a>
+                        </div>
+                        <div class="copyright-text">
+                            <small>&copy;&nbsp;Copyright 2015 Press TV. All rights reserved.</small>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="pull-right">
+                            <a class="top" href="#">Back to top <span class="caret caret-up"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/Scripts/jquery-1.11.1.min.js"></script>
+    <script src="/Scripts/jquery.carouFredSel-6.2.1-packed.js"></script>
+    <script src="/Scripts/Site.js"></script>
+<script>
+    
+    if (typeof fbc == 'function') {
+        fbc();
+    }
+
+</script>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//93.190.24.114/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//93.190.24.114/piwik.php?idsite=2" style="border:0;" alt="Stat" /></p></noscript>
+
+</body>
+</html>

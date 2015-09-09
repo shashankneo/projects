@@ -1,0 +1,2450 @@
+<!--[if IE ]>
+<!doctype html>
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<script src="//cdn.optimizely.com/js/1425218314.js"></script>
+        <script type="text/javascript">
+        // <![CDATA[
+        for(var i = 0; i < optimizely["activeExperiments"].length; i++){
+            var expid = optimizely["activeExperiments"][i];
+            var experimentname = optimizely.data.experiments[expid].name;
+            var variationname = optimizely.variationNamesMap[expid];
+            optimizely.$("head").prepend("<meta name=\"DCSext.opt\" content=\"" + experimentname + "-" + variationname +"\" />");
+        }
+        // ]]>
+    </script>
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+
+              var pageStartTime = Date.now();
+</script>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Pilot who died in CarFest plane crash named as Kevin Whyman - Telegraph</title>
+
+
+
+<meta name="description" content="Tributes paid to City worker and Cambridge graduate who died during aerial 
+  display at Cheshire festival founded by Chris Evans" />
+
+<meta name="keywords" content="CarFest, Oulton Park, Cheshire, chris evans, gnats, plane crash, Aviation,News" />
+
+<meta name="news_keywords" content="CarFest, Oulton Park, Cheshire, chris evans, gnats, plane crash"> 
+<meta name="parsely-page" content='{"title": "Pilot who died in CarFest plane crash named as Kevin Whyman ","link": "http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html","image_url": "http://i.telegraph.co.uk/multimedia/archive/03394/Kev-Whyman-Gnat-at_3394841k.jpg","type": "post","post_id": "11778114", "pub_date": "2015-08-01T16:59:02Z","section": "News","authors": ["Camilla Turner"],"tags": ["Story","Home","News","UK News","Celebrity news","Editor\u0027s Picks","Aviation","Camilla Turner"]}'/>
+    <meta property="article:publisher" content="143666524748" />
+
+    <meta property="article:subsection" content="Aviation" />
+
+                    <meta property="article:section" content="News" />
+
+                <meta property="article:tag" content="Home" />
+    <meta property="article:tag" content="News" />
+    <meta property="article:tag" content="UK News" />
+    <meta property="article:tag" content="Celebrity news" />
+    <meta property="article:tag" content="Editor\u0027s Picks" />
+    <meta property="article:tag" content="Aviation" />
+    <meta property="article:tag" content="Camilla Turner" />
+    <meta property="article:authorName" content="Camilla Turner" />
+
+    <meta property="article:contenttype" content="story" />
+                <meta property="article:imagecount" content="6" />
+
+
+            <meta property="article:videocount" content="1" />
+
+
+            <meta property="article:embedcount" content="3" />
+
+
+            <meta property="article:internallinkcount" content="2" />
+
+            <meta property="article:externallinkcount" content="4" />
+
+
+            <meta property="article:wordcount" content="781" />
+        <meta name="tmgads.zone" content="news.aviation" />
+<meta name="tmgads.channel" content="news" />
+<meta name="tmgads.section" content="news-aviation" />
+
+<meta name="tmgads.articleid" content="11778114" />
+<meta name="tmgads.videosrc" content="tmg" />
+						<meta name="tmgads.mostviewed" content="1" />
+		<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="Story" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="Story" />
+<meta name="tmgads.level" content="3" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="US" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="US" />
+
+
+
+<meta name="section-id" content="7075" />
+
+<meta name="last-modified" content="2015-08-01" />
+		<meta name="article-id" content="11778114" />
+		<meta name="title" content="Pilot who died in CarFest plane crash named as Kevin Whyman" />
+		<meta name="GSAMLC" content="news/airtransport" />
+<meta name="GSAChannel" content="news" />
+
+<meta name="GSAChannelName" content="News" />
+
+<meta name="GSACategory" content="airtransport" />
+	<meta name="GSASectionUniqueName" content="news-air_transport" />
+
+<meta name="GSAArticleType" content="Story" />
+	<meta name="DC.date.issued" content="2015-08-01" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta name="google" content="nositelinkssearchbox" />
+
+<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="Tributes paid to City worker and Cambridge graduate who died during aerial   display at Cheshire festival founded by Chris Evans" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Pilot who died in CarFest plane crash named as Kevin Whyman" />
+<meta property="og:url" content="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/03394/Kev-Whyman-Gnat-at_3394841k.jpg" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@Telegraph" />
+<meta name="twitter:image:src" content="http://i.telegraph.co.uk/multimedia/archive/03394/Kev-Whyman-Gnat-at_3394841k.jpg">
+	<meta name="twitter:creator" content="@camillahmturner" />
+<meta name="twitter:player" content="https://player.ooyala.com/player.swf?keepEmbedCode=true&amp;autoplay=1&amp;embedCode=JqZ3Rtdjo2IUmq_Kn8qhA8vKUEkPgaSk&amp;adSetCode=b20883587d124da4a8f29205f8be38ea" />
+	<meta name="twitter:player:height" content="315" /> <meta name="twitter:player:width" content="560"  /> <link rel="canonical" href="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<script type="text/javascript">
+var logo = function(param) {
+	document.onreadystatechange = function () {
+		if (document.readyState == "interactive") {
+			document.getElementById("logo").src = param;
+		}
+	}
+} 
+</script>
+
+<script type="text/javascript"> logo("/template/ver1-0/i/thetelegraph_344.gif"); </script>	
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for Aviation articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/news/aviation/rss" />
+
+<!-- Opta widget v2  -->
+	<script src="http://widget.cloud.opta.net/2.0/js/widgets.opta.js" id="myscript" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var tmgOptaCallback = function() {
+            //Add logic below that will be executed once the opta widget loads
+            $('.standings-container tr:even').addClass('odd'); //even rows for tables
+            $('.standings-container tr:odd').addClass('even'); //odd rows for tables
+         };
+
+        // <![CDATA[
+        var _optaCallbacks;
+
+        if (_optaParams) {
+            _optaCallbacks = _optaParams.callbacks;
+        }
+
+        if (_optaCallbacks) {
+            if( _optaCallbacks.indexOf(tmgOptaCallback) < 0) {
+            _optaCallbacks.push(tmgOptaCallback);
+            }
+        } else {
+            _optaCallbacks = [tmgOptaCallback];
+        }
+
+        var _optaParams = {
+            custID: 'ea84a6c1e3333c9d011be831766d51de',
+            anim:   'none',
+            language: 'en_GB',
+            timezone: 0,
+            callbacks: _optaCallbacks
+        };
+        // ]]>
+    </script>
+
+    <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        
+            var _optaCallbacks = _optaParams.callbacks;
+
+            if (_optaCallbacks) {
+                if (_optaCallbacks.indexOf(optaTeamLinkingCallback) < 0) {
+                    _optaCallbacks.push(optaTeamLinkingCallback);
+                }
+            } else {
+                _optaCallbacks = [optaTeamLinkingCallback];
+            }
+
+            _optaParams.callbacks = _optaCallbacks;
+        </script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.11.1.min.js"></script>
+
+<script>
+    jq1_11=$.noConflict(true);
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery.scrolldepth.js"></script>
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7226372-1']);
+    _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+    jq1_11.scrollDepth();
+</script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/news/aviation" />
+	<meta name="DCSext.Category" content="aviation" />
+							<meta name="WT.cg_s" content="aviation" />
+						<meta name="DCSext.Channel" content="news" />
+					<meta name="WT.cg_n" content="news" />
+						<meta name="DCSext.Content_Type" content="Story" />
+    <meta name="DCSext.Level" content="3" />
+	<meta name="DCSext.author" content="Camilla Turner" />
+			<meta name="DCSext.articleFirstPublished" content="2015-08-01 17:59" />
+	<meta name="DCSext.articleId" content="11778114" />
+
+	<meta name="DCSext.cmsSect" content="Home;News;UK_News;Celebrity_news;Editor's_Picks;Aviation;Camilla_Turner" />
+	
+	
+
+
+		
+
+		
+		  		
+					
+						
+					
+		  
+		
+
+		
+			<meta name="DCSext.cf" content="1"/>	
+			  	<meta name="DCSext.pd" content="1"/>
+			  
+		
+
+
+		<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-1c3d0c3b3e3b492ca058647975687e6b485ad5c8.js"></script>
+    <script type="text/javascript">
+//Events tracking for Google Analytics
+function trackGoogle() {
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {}
+}
+
+//External links tracking through Google Analytics
+function isLinkExternal(link) {
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, ''));
+        return !r.test(link);
+}
+$(document).ready(function() {
+    $(document).bind('click', function(e) {
+        var target = (window.event) ? e.srcElement : e.target;
+        while (target) {
+            if (target.href) break;
+            target = target.parentNode;
+        }
+        if (!target || !isLinkExternal(target.href)) return true;
+        var link = target.href;
+        link = '/outgoing/' + link.replace(/:\/\//, '/');
+        _gaq.push(['_trackPageview', link]);
+    });
+});
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7226372-1']);
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2015-08-02 04:52:59.871
+gs_channels="brand_safety_native_negative";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = '';
+  var qcResults = function(qc){
+    for (var i=0;i<=qc.segments.length-1;i++){
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id;
+    }
+  }
+    // ]]>
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/gpt.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<div bucket-id="mpu">
+</div><script src='http://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/youtube.js" type="text/javascript"></script>
+<script type="text/javascript">
+    document.domain = "telegraph.co.uk";
+</script>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+
+<body class="news newstyle-enabled">
+	<div id="fb-root"></div>
+
+<!-- invitationUrl contains the baseUrl for the invitation(paywall). The whole url is completed by the esi tags -->
+<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		<!-- default inviteUrl value is UK-->
+		var inviteUrl = "" + '/subscriptions/invitation/';
+		
+			
+				
+					var inviteUrl = "" + "/subscriptions/invitation-intl/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img width="20" height="20" border="0" alt="Hide this banner" src="/template/ver1-0/i/ieX.gif"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif" width="190" height="35" /></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("ban", "970x250,970x90,940x250,728x90,468x60", "adj", "", 2));</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="hidden" name="sort" value="relevant" checked="checked"/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  new">
+                                        Search - enhanced by OpenText</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Sunday 02 August 2015</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleOne"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/telegraphtv/">Video</a></li>
+							<li class="selected styleOne" id="menuItemstyleOne"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/fashion/">Fashion</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/motoring/">Cars</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/film">Film</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleOne">
+				<ul class="mainNav">
+						<li class="first styleOne"><a href="http://www.telegraph.co.uk/news/politics/">Politics</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/investigations/">Investigations</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/obituaries/">Obits</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/education/">Education</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/science/">Science</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/earth/">Earth</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/weather/">Weather</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/health/">Health</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/theroyalfamily/">Royal</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/celebritynews/">Celebrity</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/defence/">Defence</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/scotland/">Scotland</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/news/">News</a><span>&raquo;</span></li>
+					<li class="styleOne"><a href="http://www.telegraph.co.uk/news/aviation/">Aviation</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<div id="tmglBody" itemscope itemtype="http://schema.org/Article" >
+	<div class="access"><a name="article"></a></div>
+
+	<div class="twoThirdsThird2 gutterUnder">
+		<div class="twoThirds gutter" >
+			<script type="text/javascript" src="/template/ver1-0/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.multiselect.js"></script>
+
+<div class="storyHead">
+
+<h1 itemprop="headline name">Pilot who died in CarFest plane crash named as Kevin Whyman</h1>
+			<h2  itemprop="alternativeHeadline description">
+Tributes paid to City worker and Cambridge graduate who died during aerial 
+  display at Cheshire festival founded by Chris Evans 
+
+</h2>						
+	<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+
+    <div id="newGigyaShareTop-Holder">
+        <div id="newGigyaShareTop" class="newGigyaShare"></div>
+        <div class="GigyaBg1"></div>
+    </div>
+
+<!-- Opta Widget start -->
+	<!-- Opta Widget end -->
+	
+	<div class="artIntro">
+								<div class="gutterUnder">
+			<div class="videoPlayer" id='playerwrapper' style='width: 620px; height: 349px;'></div>
+    <script type="text/javascript">var sensitiveVideo = 1;</script>
+<script>
+var oplayer = null;
+if (typeof ooyala !== 'undefined') {
+	var ooyalaData = {
+	'targetId' : 'playerwrapper',
+	'width' : 620,
+	'height' : 349,
+	'vidEmbed' : 'JqZ3Rtdjo2IUmq_Kn8qhA8vKUEkPgaSk',
+	'autoPlay' : false,
+	'skipAdInt' : 20000,
+	'skipAdTxt' : 'skip advert',
+	'skipAdPos' : 'bottom right',
+	'volume' : 0.50,
+	'relatedVideo' : "http://cdn.api.ooyala.com/v2/assets?where=embed_code+in+%28%275kNXVtdjqn7FxpHx6VH2mVk6EScYJBBQ%27%2C%27JibTltdjpsRZxYRY-TewQrq033vuJh8D%27%29&api_key=RvbGU6Z74XE_a3bj4QwRGByhq9h2.WFFAb&expires=1640995199&signature=hH2Y0b9EtgiDY56KntMkJIsdNpaNMzDIRf4zJxaHAYY"
+	};
+	var oplayer = new ooyala.Player(ooyalaData);
+}
+</script></div>
+	</div>							
+					</div>
+<div class="oneHalf gutter artBodyWide">
+						<div class="story">
+		<div class="cl"> </div>
+		<div class="byline">
+		<div >
+
+			<div class="bylineImg">
+						<a href="http://www.telegraph.co.uk/journalists/camilla-turner/" ><img src="http://i.telegraph.co.uk/multimedia/archive/02929/camilla_turner_v2_2929224j.jpg" alt="Camilla Turner" border="0" width="60" height="60" ></a>
+					</div>
+				<p class="bylineBody">
+							By <a rel="author" title="Camilla Turner" href="http://www.telegraph.co.uk/journalists/camilla-turner/" >
+											Camilla Turner</a></p>
+
+					</div>
+		<p class="publishedDate">5:59PM BST 01 Aug 2015</p>
+		<meta itemprop="datePublished" content="2015-08-01"/><div class="bylineSocialButtons">
+					<a href="https://twitter.com/camillahmturner" class="twitter-follow-button" data-screen-name="camillahmturner" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow</a> 
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+			<div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="articleBody">
+
+	
+			  	
+					<div class="firstPar"><p> Tributes have been paid to Kevin Whyman, 39, who died when a plane crashed during an aerial display at a festival founded by the new Top Gear host Chris Evans on Saturday afternoon. </p></div><div class="secondPar"><p> Thousands of spectators watched in horror as his display plane plunged down to the ground while performing a stunt at CarFest, a three-day event held in Oulton Park, Cheshire. </p></div><div class="thirdPar"><p> <sup><strong><img version="b" refid="3394838" width="620" height="387" caption="Kevin Whyman" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/kevin-whyman_3394838b.jpg" photographer="" name="kevin-whyman" alttext="Kevin Whyman"> Kevin Whyman</strong></sup> </p></div><div class="fourthPar"><p> Whyman, a city worker and Cambridge University graduate, was one of the founders of the Gnat Display Team 2007. </p></div><div class="fifthPar"><p> He lived in London with his wife and young daughter. </p></div><div class="body"><p> Originally from Chester, he was sponsored by the Royal Navy through the sixth form and went on to complete a flying scholarship with the RAF. </p><p> He read Economics at Cambridge University, where he was a cox in the 1996 and 1997 Boat Races against Oxford, both of which Cambridge won. </p><p> <sup><strong><img version="b" refid="3394843" width="620" height="386" caption="Cambridge cox Kevin Whyman celebrates the win over Oxford during the annual University Boat Race on the River Thames" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/4577813_Boat_Race6_3394843b.jpg" photographer="Phil Cole" name="4577813_Boat Race6 Apr 1996  Cambridge cox Kevin Whyman celebrates the win over Oxford during th" credit="ALLSPORT" localcaption="Boat Race...6 Apr 1996:  Cambridge cox Kevin Whyman celebrates the win over Oxford during the annual University Boat Race on the River Thames.Mandatory Credit: Phil Cole/ALLSPORT"> Cambridge cox Kevin Whyman celebrates the win over Oxford during the annual University Boat Race on the River Thames in 1996 (Phil Cole/ALLSPORT)</strong></sup> </p><p> <img refid="3394848" version="b" width="620" height="387" caption="Cambridge cox Kevin Whyman is thrown into the River Thames as the crew celebrates Cambridge's fifth consecutive victory in the annual Oxford-Cambridge Boat Race on the River Thames" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/3365003_Cambridge__3394848b.jpg" photographer="STEPHEN BUTLER" name="3365003_Cambridge cox Kevin Whyman is thrown into the River Thames as the crew celebrates Cambri" credit="AP" localcaption="Cambridge cox Kevin Whyman is thrown into the River Thames as the crew celebrates Cambridge's fifth consecutive victory in the annual Oxford-Cambridge Boat Race on the River Thames in west London Saturday, March 29, 1997. Cambridge covered the 4.25 miles of the 143rd race in 17 minutes 38 seconds to beat Oxford by six seconds.. (AP Photo/ Stephen Butler)"> <sup><strong>Cambridge cox Kevin Whyman is thrown into the River Thames as the crew celebrates Cambridge's fifth consecutive victory in the annual Oxford-Cambridge Boat Race on the River Thames in 1997(AP Photo/ Stephen Butler)</strong></sup> </p><p> After graduating from Cambridge University, he joined the RAF and since 2001 he has worked in the City to work for investment banks. </p><p> The Gnat Display Team wrote on their Facebook page that Whyman will be "greatly missed by his family, the team, and many friends". </p><p>
+ <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+ <div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=939805816076256&amp;id=134724899917689" data-width="500"> 
+  <div class="fb-xfbml-parse-ignore"> 
+   <blockquote cite="https://www.facebook.com/permalink.php?story_fbid=939805816076256&amp;id=134724899917689"> 
+    <p>The Heritage Aircraft Trust, operator of the Gnat Display Team is very sad to announce the loss of one of its display...</p>Posted by 
+    <a href="https://www.facebook.com/pages/Gnat-Display-Team/134724899917689">Gnat Display Team</a> on&nbsp; 
+    <a href="https://www.facebook.com/permalink.php?story_fbid=939805816076256&amp;id=134724899917689">Saturday, August 1, 2015</a> 
+   </blockquote> 
+  </div> 
+ </div></p><p> RAF pilot Steve Whitnall said Whyman was a "fantastic guy". </p><p>
+ <blockquote class="twitter-tweet" lang="en-gb"> 
+  <p lang="en" dir="ltr">I am devastated about Kevin Whyman - he was a fantastic guy who I knew well in my school days. Such sad news and all thoughts to his family.</p>&#x2014; Steve Whitnall (@SteveWhitnall) 
+  <a href="https://twitter.com/SteveWhitnall/status/627530395056230400">August 1, 2015</a> 
+ </blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><p> Chris Evans is understood to have cancelled his Chitty Chitty Bang Bang track show, due to take place after the aerial display at CarFest, when he saw the plooms of smoke rise from the site of the crash. </p><p> "There was a tragic accident, the result of which was that one of the pilots involved in a synchro display lost his life,&#x201d; he said. </p><p> "Our condolences go out to his family who have been informed.&#x201d; </p><p>
+ <div class="videoPlayer"> 
+  <script type="text/javascript">
+tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+tmgAds.embedPlayer = {width:620,height:349,size:'620x349',vidSize:'620x415'};
+if(typeof(tmgAds.page.platform) != 'undefined' && tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {width:300,height:169,size:'300x169',vidSize:'300x235'};
+tmgAds.embedPlayer = {
+  'targetId'     : 'embedPlayerWrapper',
+  'platform'     : tmgAds.page.platform,
+  'width'        : tmgAds.embedPlayer.width,
+  'height'       : tmgAds.embedPlayer.height,
+  'size'         : tmgAds.embedPlayer.size,
+  'autoplay'     : 'false',
+  'vidEmbed'     : '5kNXVtdjqn7FxpHx6VH2mVk6EScYJBBQ',
+  'adTag'        : tmgAdsBuildAdTag("vid",tmgAds.embedPlayer.vidSize,"pfadx",";sv=1;vidsrc=tmg;vt=embed;dcmt=text/xml",3)
+}
+tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform='+tmgAds.page.platform+'&width='+tmgAds.embedPlayer.width+'&height='+tmgAds.embedPlayer.height+'&size='+tmgAds.embedPlayer.size+'&vidEmbed='+tmgAds.embedPlayer.vidEmbed+'&adTag='+encodeURIComponent(tmgAds.embedPlayer.adTag);
+tmgAds.embedPlayer.tmgEmbedPlayer = '<iframe src="'+tmgAds.embedPlayer.remotesrc+'&adobeDTM=live" width="'+tmgAds.embedPlayer.width+'" height="'+tmgAds.embedPlayer.height+'" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>';
+document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+</script> 
+ </div></p><p> "The police have also advised us that the best thing and the safest thing to do is to carry on with the event bearing in mind that there are 10,000 children here - and that is what we are going to do." </p><p> He said it would be "completely inappropriate" to speculate on how the accident happened at this stage. </p><p> <a id="11778031" href="/news/aviation/11778031/Spitfire-crashes-after-losing-power.html">&#x2022; <strong>Spitfire crashes after losing power</strong></a><strong> </strong> </p><p> The plane was from the Gnat Display Team which is owned by Heritage Aircraft Limited and based at North Weald airfield. </p><p> It is part of The Heritage Aircraft Trust, a charity dedicated to the restoration and conservation of classic historic aircraft. </p><p> <sup><strong><img version="b" refid="3394695" width="620" height="387" caption="The aerial display team in action over Oulton Park just before one of the planes is believed to have crashed" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/oulton-last-pic_3394695b.jpg" photographer="" name="oulton-last-pic" alttext="The aerial display team in action over Oulton Park just before one of the planes is believed to have crashed" copyright="Tim Edwards/WENN.com"> Gnat Display team at CarFest before the crash</strong></sup> </p><p> Festival organisers said: "An aircraft flying with the Gnat Display Team came down approximately one mile north of the site. </p><p> "The pilot has been confirmed as a fatality. We do not believe that any other person has been harmed in the incident. Our thoughts are with the family of the pilot and all those affected at this time.&#x201d; </p><p> <img refid="3394828" version="b" width="620" height="387" caption="Police forensic vans arrive at the scene of an aircraft crash in Tarpoley, Cheshire" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/Police-forensic-va_3394828b.jpg" photographer="" name="Police-forensic-vans-carfest-crash" alttext="Police forensic vans arrive at the scene of an aircraft crash in Tarpoley, Cheshire" copyright="Andrew Yates"> <sup><strong>Police forensic vans arrive at the scene of an aircraft crash in Tarpoley, Cheshire</strong></sup> </p><p> CarFest is three-day event, founded by Evans, which features classic cars, planes, food and music. </p><p> <a id="11778058" href="/news/aviation/11778058/Footage-shows-immediate-aftermath-of-plane-crash-at-Chris-Evans-CarFest.html">&#x2022; <strong>Dramatic footage shows moment plane nosedives at CarFest</strong></a><strong> </strong> </p><p> It describes itself as Evans's "dream of the perfect family festival", and raises money for BBC Children in Need. </p><p> An Air Accidents Investigation Branch (AAIB) spokesman said: "AAIB will be investigating and is sending a team to the site.&#x201d; </p></div>
+			  
+		<div class="cl"></div>
+</div>
+
+<script>
+		$('h3.was-h3, h3.was-h4, h3.was-h5, h5.fm-chart-title, h3.was-h6').prev('p:empty').css({'margin-top': '-20px'});
+		$('#mainBodyArea .storylist li').wrapInner('<span class="inner-li"></span>');
+  </script>
+</div><div id="followPlatforms">
+    
+    <div class="followFacebook social-media-iframe social-media-iframe-1">
+                            <div class="fb-page-container">
+                                <div id="fb-root"></div>
+                                <script>(function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1516273521924556";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                }(document, 'script', 'facebook-jssdk'));</script>
+                                <div class="fb-page" data-href="https://www.facebook.com/telegraph.co.uk" data-small-header="true" data-width="500" data-height="70" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/telegraph.co.uk"><a href="https://www.facebook.com/telegraph.co.uk">telegraph.co.uk</a></blockquote></div></div>
+                            </div>
+                        </div>
+                    <div class="followTwitter social-media-iframe social-media-iframe-2">
+                            <a href="https://twitter.com/telegraphnews" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @telegraphnews</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        </div>
+                    <div class="followYoutube social-media-iframe social-media-iframe-3">
+                            <script src="https://apis.google.com/js/platform.js"></script>
+                            <div class="g-ytsubscribe" data-channelid="UCPgLNge0xqQHWM5B5EFH9Cg" data-layout="full" data-count="hidden"></div>
+                        </div>
+                    </div>
+<div class="cl"></div><div class="isaSeason">
+			<div bucket-id="article_commercial_isa_01">
+				<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<a href="http://www.telegraph.co.uk/frontpagesignup" target="_blank"><image src="http://i.telegraph.co.uk/multimedia/archive/03324/11783_460x100_fron_3324906a.jpg"/></a></div>
+		</div></div>
+			    <div class="cl"></div>
+
+			<div class="cl"></div>
+
+			<div class="storyFt">
+				<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+    <div id="newGigyaShareBottom-HolderCenter">
+            <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+            <div class="GigyaBg1"></div>
+          </div>
+       <!-- <div id="newGigyaShareBottom-Holder">
+    <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+    <div class="GigyaBg"></div>
+</div>  -->
+<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" data-widget-id="AR_16" data-ob-template="telegraph"></div>
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" data-widget-id="AR_30" data-ob-template="telegraph"></div>						
+						<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>						
+					</div>
+				<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" data-widget-id="AR_4" data-ob-template="telegraph"></div>											
+					</div>				
+				
+	  	
+            <div class="summaryMedium artCommercial">
+                        <div bucket-id="article_commercial_06" >	
+	<div class="headerOne styleOne">
+				<!-- 10819452 -->
+				<p>
+							<span>Top news galleries</span>
+							</p></div>
+		<div class="gutterUnder noSummaryTopBorder">
+	
+			<div class="summary headlineImageLeft">
+			<!-- 11778089 -->
+			<h3>
+                    <a  href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html">The Queen's People</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/queen-queen-lead_3394893f.jpg" alt="Portrait of Queen Elizabeth II was taken by the British photographer Hugo Rittson Thomas, with a technique that involves the use of mirrors to show each sitter from all four sides " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>Striking new portraits of members of the Royal household
+</p></a>
+                </div><span class="comments">
+			            	<a href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html#disqus_thread" dsqid="11778089" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11777959 -->
+			<h3>
+                    <a  href="/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html">Declan Donnelly marries Ali Astall</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/donnelly-dec-thumb_3394760f.jpg" alt="Dec of Ant and Dec marries Ali Astall - " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html" 
+                         	 
+                         >
+							<p>
+Dec of Ant and Dec ties the knot in star-studded ceremony in Newcastle 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11753862 -->
+			<h3>
+                    <a  href="/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html">The world's most exclusive boarding schools</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03384/Beau-Soleil_3384708f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html" 
+                         	 
+                         >
+							<p>
+With private school fees at their least affordable since the 1960s, we take a 
+  look at some of the most expensive schools in the world 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11777777 -->
+			<h3>
+                    <a  href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html">Blue Moon</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/fullmoon_3394663f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>Second full moon in July lights up the night sky
+</p></a>
+                </div><span class="comments">
+			            	<a href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html#disqus_thread" dsqid="11777777" class="">Comments</a>
+			            </span>
+					<p class="shareCount shareCountId11777777"></p>	
+<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11765625 -->
+			<h3>
+                    <a  href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html">London Life by Colin O'Brien</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03388/london-life-11_3388904f.jpg" alt="London Life by Colin O'Brien" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html" 
+                         	 
+                         >
+							<p>
+London Life by Colin O'Brien
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html#disqus_thread" dsqid="11765625" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11776680 -->
+			<h3>
+                    <a  href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html">International Garden Photographer of the Year</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/Christine_Blanchin_3394211f.jpg" alt="Christine Blanchin dos Santos
+'Meteoroids'
+3rd Place" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics:</strong> The world&#700;s premier competition specialising in botanical 
+  photography
+</p></a>
+                </div><span class="comments">
+			            	<a href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html#disqus_thread" dsqid="11776680" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10925400 -->
+			<h3>
+                    <a  href="/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html">Animals under the knife</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/lion-operating-tab_3394291f.jpg" alt="A team of surgeons successfully remove the lens from a 330-pound male lion’s eye. 
+Joseph, a 17-year-old big cat, began squinting in May 2015 and staff at Big Cat Rescue in Tampa, Florida, knew they had to act fast. After he was sedated and brought onto the operating table they began the process of removing his lens." border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>All creatures great and small on the vet's operating table 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11767726 -->
+			<h3>
+                    <a  href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html">Every Premier League stadium ever: ranked</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03392/collage_3392111f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html" 
+                         	 
+                         >
+							<p>
+Counting down every single ground to have played host to Premier League 
+  football down the years (and one which is about to) 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html#disqus_thread" dsqid="11767726" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11756713 -->
+			<h3>
+                    <a  href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html">War vets pose for revealing nude photos</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03384/SUM_3384359f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html" 
+                         	 
+                         >
+							<p>
+Photographer Michael Stokes is raising money to publish a book of photos that 
+  confront traditional stereotypes of attractiveness by capturing wounded war 
+  veterans in revealing poses 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html#disqus_thread" dsqid="11756713" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11738585 -->
+			<h3>
+                    <a  href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html">The world's best steak restaurants</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03374/hawksmoorWEB_3374918f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html" 
+                         	 
+                         >
+							<p>
+Beef fanatics travel far and wide in search for that perfect, tender and rare 
+  steak. We have put together a list of the steakhouses most worth the journey
+</p></a>
+                </div><span class="comments">
+			            	<a href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html#disqus_thread" dsqid="11738585" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	</div>
+	</div>
+	</div>
+                
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'news';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+							google_hints="aviation";
+												
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-telegraph_uk_420x200&amp;event=noscript" alt=""/>
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=inactive<br>
+userCommentsState=sectionProperties<br>
+showComments=false<br>
+article.articleTypeName=tmglstory<br>-->
+
+		
+</div>
+			<div class="cl"></div>
+		</div>
+
+		<div class="oneThird">
+			<div class="articleSponsor">
+            <div bucket-id="article_sponsor_01" >	
+	<div
+					class="summary html mnHTML">
+					<!-- 11037298 -->
+                    <iframe allowTransparency="true" style="border:none; overflow:hidden; height:62px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTelegraph.co.uk&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true"> Telegraph on Facebook</iframe></div>
+			</div>
+	</div>
+
+    <div bucket-id="secondary_navigation_01">
+				<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script></div>
+		<div class="summaryMedium">
+		<div bucket-id="article_commercial_02">
+				<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script></div>
+		</div>
+	<div class="summaryPadding"></div>
+<div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("mpu", "300x250,300x600", "adj", "", 2));</script>
+	</div></div>
+</div>
+
+<div class="summaryMedium  gutterUnder  tps5 top-stories05">
+					<div bucket-id="top_stories_05" >	
+	<div class="headerOne styleOne">
+				<!-- 10816946 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/telegraphtv/"><span>Latest Video&#187;</span></a>
+							</p></div>
+		<div class="summaryMedium pictureGrid  oneThirdGrid">
+	<div class="summary picGrid-02">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/aviation/11778058/Footage-shows-immediate-aftermath-of-plane-crash-at-Chris-Evans-CarFest.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/Plane_crash_summar_3394789g.jpg" alt="Plane crash summary" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/aviation/11778058/Footage-shows-immediate-aftermath-of-plane-crash-at-Chris-Evans-CarFest.html">Witness films moment plane nosedives at CarFest</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-03">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/worldnews/northamerica/usa/11778397/Mourners-arrive-at-Bobbi-Kristinas-funeral.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03395/Bobbi_kristina_fun_3395011g.jpg" alt="Bobbi kristina funeral" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/worldnews/northamerica/usa/11778397/Mourners-arrive-at-Bobbi-Kristinas-funeral.html">Mourners arrive at Bobbi Kristina's funeral</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-04">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/uknews/defence/11777439/RAF-Typhoons-intercept-10-Russian-planes-on-single-patrol.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/Russia-jet-blue_3394567g.jpg" alt="RAF planes scrambled to intercept 10 Russian planes" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/uknews/defence/11777439/RAF-Typhoons-intercept-10-Russian-planes-on-single-patrol.html">RAF intercept 10 Russian jets in single patrol</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-05">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/newsvideo/viral-video/11776225/BBC-reporter-uses-hand-as-iPad-in-bizarre-bulletin-sign-off.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03393/reporter-ipad_3393892g.jpg" alt="BBC reporter Chris Mitchell pretends to use tablet" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/newsvideo/viral-video/11776225/BBC-reporter-uses-hand-as-iPad-in-bizarre-bulletin-sign-off.html">BBC reporter uses invisible iPad in bizarre bulletin sign-off</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-06">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/science/space/11775387/The-science-behind-a-Blue-Moon.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03393/blue-moon_3393521g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/science/space/11775387/The-science-behind-a-Blue-Moon.html">What is a Blue Moon and when do they occur?</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-07">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a  href="/sponsored/foodanddrink/summer-recipes/11770880/heston-blumenthal-pulled-beef-sandwich.html?WT.mc_id=tmgspk_edc_606052_11770880&amp;utm_source=tmgspk&amp;utm_medium=edc&amp;utm_content=606052&amp;utm_campaign=tmgspk_edc_606052_11770880"><img src="http://i.telegraph.co.uk/multimedia/archive/03391/Pulled-beef-burger_3391509g.jpg" alt="Pulled beef burger" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<span class="bannerheadline"> Sponsored by Waitrose</span>
+  					<h3>
+                    <a  href="/sponsored/foodanddrink/summer-recipes/11770880/heston-blumenthal-pulled-beef-sandwich.html?WT.mc_id=tmgspk_edc_606052_11770880&amp;utm_source=tmgspk&amp;utm_medium=edc&amp;utm_content=606052&amp;utm_campaign=tmgspk_edc_606052_11770880">Heston's pulled-beef sandwich</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="cl"> </div>
+	</div>
+</div>
+	</div>
+			<div class="summaryMedium gutterUnder">
+						<div bucket-id="widget_01">
+			
+                    
+                                <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<div class="headerOne styleOne">
+				<!-- 9625766 -->
+				<p>
+							<span>More from the web </span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 9880801 -->
+							<iframe width="300" height="350" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/newsmax/newsmax2015.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+                        
+		    </div>
+		</div>
+				<div class="adarea gutterUnder">
+			<div class="adsky">
+				<script type="text/javascript">
+     /* EPOCH time at the start of skyscraper Ad */
+     var startOfSkyscraper = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div class="InSkinHide" align="center">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2));</script>
+	</div></div></div>
+	
+			<div class="cl"></div>
+		</div>
+		
+	<div class="access">Advertisement</div>
+<div id="yell">
+	<div class="adyell InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2));</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+
+<div class="summaryMedium gutterUnder">
+	<div bucket-id="widget_02">
+			
+                    
+                                <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<div class="headerOne styleOne">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 9880801 -->
+							<iframe width="300" height="350" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/newsmax/newsmax2015.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+                        
+		    </div>
+		</div>
+<div class="summaryMedium gutterUnder">
+		<div bucket-id="editors_choice_01">
+				<div class="editorsChoice"><script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script></div></div></div>
+<div class="summaryMedium gutterUnder">
+						<div bucket-id="widget_03">
+			
+                    
+                                <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<div class="headerOne styleOne">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10213265 -->
+							<iframe width="300" height="340" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/Dunhill/Dunhill_News1.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+                        
+		    </div>
+		</div>
+				<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" data-widget-id="AR_3" data-ob-template="telegraph" ></div>
+<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					
+</script> 		 	
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+
+		<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+		</div>
+	
+	<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+						
+							<!-- 11255356 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/"> 
+				US News</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02626/obama_2626645f.jpg" alt="Barack Obama warns American dream is in danger of becoming a 'myth'" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                Latest and breaking stories from the United States</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11202156 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sport/football/"> 
+				Football</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/sport/football/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03089/rooneyget_3089939f.jpg" alt="" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                Catch up on all the latest football news</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11573074 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/news/worldnews/"> 
+				World News</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03285/Progress_17__3285797f.jpg" alt="Progress 17 supply vehicle departs from the International Space Station" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                The latest world news</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+
+		</div>
+	<!-- googleon: all -->
+</div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+</script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" class="spr" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/">News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/">UK News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/politics/">Politics</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/features/">Long Reads</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/wikileaks-files/">Wikileaks</a></li>								
+
+					<li><a  target="_parent" href="http://jobs.telegraph.co.uk/">Jobs</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/worldnews/">World News</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">USA</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/asia/china/">China</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/uknews/theroyalfamily/">Royal Family News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/celebritynews/">Celebrity news</a></li>								
+
+					<li><a  target="_parent" href="http://dating.telegraph.co.uk/s/a/4168">Dating</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/">Finance</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/education/">Education</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/defence/">Defence</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/">Weird News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/editors-choice/">Editor's Choice</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/financialservices/">Financial Services</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/picturegalleries/">Pictures</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/newsvideo/">Video</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/matt/">Matt</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/alex/">Alex</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/comment/">Comment</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://blogs.telegraph.co.uk">Blogs</a></li>								
+
+					<li><a  target="_parent" href="http://puzzles.telegraph.co.uk/">Crossword</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="/topics/about-us/3489870/Contact-Telegraph-Media-Group.html">Contact us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>								
+
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2015</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2015-8-2.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/news/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+	<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+</script>
+</div>
+<script type="text/javascript">
+    g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+var platforme = 'Facebook,Twitter,Pinterest,LinkedIn,Share,Email';
+</script>
+<script type="text/javascript">
+    var s = document.createElement('script');
+    s.type='text/javascript';
+    s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+    document.getElementsByTagName('head')[0].appendChild(s);
+
+    function onGigyaServiceReady(e) {
+        var s = document.createElement('script');
+        s.type='text/javascript';
+        s.src = "/template/ver1-0/js/shareTools1.js";
+        document.getElementsByTagName('head')[0].appendChild(s);
+	 	gigya.socialize.getProviderShareCounts({URL: 'www.telegraph.co.uk', callback:gigyaShareCountDisplay, context:{displayElementId:'shareCountId'} });
+	}
+</script>
+<script type="text/javascript" src="/template/utils/ooyala/scripts/ooyala.js"> </script>
+    <script src="/template/ver1-0/js/youtube.js" type="text/javascript"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "News, UK News, Celebrity news, Editor's Picks, Aviation, Camilla Turner";
+		
+			_sf_async_config.authors = "Camilla Turner";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-101665h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+			 width="1" height="1" alt="" />
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("inr", "1x1", "adj", "", 2));
+	document.write(tmgAdsBuildAdTag("tmg", "1x1", "adj", "", 2));
+	document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));</script>
+	</div><script type="text/javascript">_satellite.pageBottom();</script>
+    <script>
+
+    if(!( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )) {
+
+        /*
+         Read Next Widget Data
+         */
+        var readNextArticleList = [{"id":"11778597","title":"CEO who set firm&#39;s minimum wage at $70,000 hits hard times","url":"/news/worldnews/northamerica/usa/11778597/CEO-who-set-firms-minimum-wage-at-70000-hits-hard-times.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03395/Dan-Price_3395114g.jpg"},{"id":"11777843","title":"Scorching &#39;heat dome&#39; over Middle East sees temperatures soar to 165F in Iran","url":"/news/worldnews/middleeast/iran/11777843/Scorching-heat-dome-over-Middle-East-sees-temperatures-soar-to-165F-in-Iran.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/iran-iraq-heat_3394696g.jpg"},{"id":"11777011","title":"Duchess of Cambridge qualifies as advanced diver","url":"/news/uknews/kate-middleton/11777011/Duchess-of-Cambridge-qualifies-as-advanced-diver.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/duchess-of-cambrid_3394453g.jpg"},{"id":"11778497","title":"&#39;This is a global migration crisis&#39;","url":"/news/politics/11778497/This-is-a-global-migration-crisis.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03395/Migrants-calais_3395099g.jpg"},{"id":"11778114","title":"Pilot who died in CarFest plane crash named as Kevin Whyman","url":"/news/aviation/11778114/Pilot-who-died-in-CarFest-plane-crash-named-as-Kevin-Whyman.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/Kev-Whyman-Gnat-at_3394841g.jpg"},{"id":"11767119","title":"Cecil the lion&#39;s killer revealed as American dentist","url":"/news/worldnews/africaandindianocean/zimbabwe/11767119/Cecil-the-lions-killer-revealed-as-American-dentist.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03389/walt3_3389709g.jpg"},{"id":"11775016","title":"Blue moon: where and when to view the rare cosmic event set to light up the sky","url":"/news/science/space/11775016/Rare-super-Blue-Moon-to-light-up-summer-night-sky.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02597/GALLERYY-MOON_2597791g.jpg"},{"id":"11772187","title":"MH370 search: US intelligence suggests plane was taken off course - live","url":"/news/worldnews/asia/malaysia/11772187/MH370-debris-found-live.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03391/twitter_3391483g.jpg"},{"id":"11775911","title":"Long-haul air passengers at risk from cosmic rays, government fears ","url":"/news/science/science-news/11775911/Long-haul-air-passengers-at-risk-from-cosmic-rays-government-fears.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/01827/Solar-Flare_1827879g.jpg"},{"id":"11281213","title":"Men need nights out with the lads, scientists say","url":"/news/newstopics/howaboutthat/11281213/Men-need-nights-out-with-the-lads-scientists-say.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02792/pint_2792533g.jpg"},{"id":"11777587","title":"Cecil the lion: Walter Palmer &#39;used picture of its corpse&#39; to impress waitress","url":"/news/worldnews/africaandindianocean/zimbabwe/11777587/Cecil-the-lion-killing-Dentist-Walter-Palmer-used-picture-of-its-corpse-to-try-and-impress-waitress.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03393/walter-palmer-ceci_3393111g.jpg"},{"id":"11777887","title":"Bullet bounces off armadillo and puts triggerhappy Texan in hospital","url":"/news/worldnews/northamerica/usa/11777887/Bullet-bounces-off-armadillo-and-puts-triggerhappy-Texan-in-hospital.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/armadillo_3394687g.jpg"},{"id":"11778077","title":"The kingpins who get rich from deluge of nuisance calls","url":"/news/11778077/The-kingpins-who-get-rich-from-deluge-of-nuisance-calls.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/cold-calls_3394811g.jpg"},{"id":"9774217","title":"&#39;Tsunami bomb&#39; tested off New Zealand coast ","url":"/news/worldnews/australiaandthepacific/newzealand/9774217/Tsunami-bomb-tested-off-New-Zealand-coast.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02440/C7KXGG_2440211g.jpg"},{"id":"11777908","title":"British Airways crack down on hand luggage ","url":"/news/aviation/11777908/British-Airways-crack-down-on-hand-luggage-size.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02236/advice-baggage_2236595g.jpg"},{"id":"11771381","title":"Jack the Ripper identity: mystery ‘solved’ in new book","url":"/news/uknews/crime/11771381/Jack-the-Ripper-identity-mystery-solved-in-new-book.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03393/Wynne-Weston-Davie_3393959g.jpg"},{"id":"11777904","title":"Pilot dies in plane crash at CarFest in Oulton Park, Cheshire - as it happened, August 1, 2015","url":"/news/aviation/11777904/Reports-of-plane-crash-at-Cheshire-car-festival.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/Kev-Whyman-Gnat-at_3394841g.jpg"},{"id":"11778031","title":"Spitfire crashes after losing power","url":"/news/aviation/11778031/Spitfire-crashes-after-losing-power.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/spitfire_3394787g.jpg"},{"id":"11768761","title":"Ed Balls interview: &#39;I was here one day and gone the next&#39;&#39;","url":"/news/politics/labour/11768761/Ed-Balls-first-interview-since-labour-shadow-chancellors-shock-general-election-defeat.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03390/Ed_Balls_main_3390362g.jpg"},{"id":"11778396","title":"Theresa May and Bernard Cazeneuve: Migrants think our streets are paved with gold","url":"/news/uknews/immigration/11778396/Migrants-think-our-streets-are-paved-with-gold.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/calais-fence-best-_3394627g.jpg"},{"id":"11778312","title":"Bobbi Kristina Brown funeral: family squabble spills into public","url":"/news/worldnews/northamerica/usa/11778312/Bobbi-Kristina-Brown-funeral-family-squabble-spills-into-public.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/Leolah-Brown_3394905a.jpg"},{"id":"11771513","title":"How Jack the Ripper’s murders were motivated by love gone wrong","url":"/news/uknews/crime/11771513/How-Jack-the-Rippers-murders-were-motivated-by-love-gone-wrong.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/The-murder-of-Mary_3394058g.jpg"},{"id":"11774126","title":"J-Lo&#39;s sheer dress is a classic 46-year-old move","url":"/news/celebritynews/11774126/J-Los-sheer-dress-is-a-classic-46-year-old-move.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03392/71670315_Mandatory_3392917g.jpg"},{"id":"11773653","title":"Cecil the lion&#39;s killer Walter Palmer &#39;wanted to stalk an elephant next - but couldn&#39;t find one big enough&#39;","url":"/news/worldnews/africaandindianocean/zimbabwe/11773653/Cecil-the-lions-killer-Walter-Palmer-wanted-to-stalk-an-elephant-next-but-couldnt-find-one-big-enough.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03393/walter-palmer-ceci_3393111g.jpg"},{"id":"11769030","title":"&#39;Impossible&#39; rocket drive works and could get to Moon in four hours ","url":"/news/science/space/11769030/Impossible-rocket-drive-works-and-could-get-to-Moon-in-four-hours.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02320/FEAT-2708-Armstron_2320599g.jpg"},{"id":"11777888","title":"Street artists paint Mexican town colourful","url":"/news/worldnews/centralamericaandthecaribbean/mexico/11777888/Street-artists-paint-Mexican-town-colourful.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/0108_mural_summary_3394686g.jpg"},{"id":"11777477","title":"Wrestler &quot;Rowdy&quot; Roddy Piper dies, aged 61","url":"/news/worldnews/northamerica/usa/11777477/Wrestler-Rowdy-Roddy-Piper-dies.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03394/72077424_WWE_Hall__3394588g.jpg"},]
+;
+        var readNextCurrentArticleId = "11778114";
+
+        /*
+         Read Next Widget
+         */
+        var readNextWidget = (function(){
+
+            var settings = {
+                articleImage: "",
+                articleTitle: "",
+                articleUrl: "#",
+                articleId: "",
+                currentArticleId: "",
+                articleList: [],
+                articleListToSkip: [],
+                readNextCookieName: "tmg_read_next",
+                openButton: "#readNextOpen a",
+                closeButton: "#closeBtn a",
+                articleContainer: "#readNextArticleContainer",
+                widgetContainer: "#readNextWidget",
+                displayThumbnail: false,
+                panelOpen: false,
+                autoOpen: true
+            };
+
+            var renderTemplate = function() {
+                var template = '<div id="readNextWidget" style="display:none">' +
+                        '<div id="readNextOpen"><div class="topBar"></div><div id="readNextOpenInner"><a href="' + settings.articleUrl + '"><span>Next Story</span><span class="icn"></span></a></div></div>' +
+                        '<div id="readNextArticleContainer" style="display:none">' +
+                        '<div id="nextArticle"><div class="topBar"></div>' +
+                        '<div id="nextArticleWrapper">'+
+                        '<div id="nextArticleInnerWrapper">'+
+                        '<p id="readNextLabel">MOST VIEWED IN NEWS</p>';
+                        
+				if(settings.articleImage && settings.articleImage!="null" && settings.displayThumbnail){
+					template = template + '<a id="nextPageThumbnail" href="' + settings.articleUrl + '"><img src="'+ settings.articleImage +'"/></a>';
+				}
+                        
+				template = template + '<a id="nextPageTitle" href="' + settings.articleUrl + '"><span>' + settings.articleTitle + '</span></a></div></div>' +
+                        '</div>' +
+                        '<div id="closeBtn"><div class="topBar"></div><a href="#"><span></span></a></div>' +
+                        '</div>' +
+                        '<iframe style="border:none;position:absolute;top:0;left:0; height:100%;width:100%;z-index:-1;" id="iefix" src="about:blank"></iframe>' + //fix for IE bug
+                        '</div>';
+                return template;
+            };
+
+
+            var init = function(currentArticleId, articleList, displayThumbnail) {
+
+                settings.articleList = articleList;
+                settings.currentArticleId = currentArticleId;
+                settings.displayThumbnail = displayThumbnail;
+
+                settings.articleListToSkip = unescape($.cookie(settings.readNextCookieName)).split(',');
+
+                if ($.cookie(settings.readNextCookieName) != null) {
+                    chooseNextArticle(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                    updateCookieBasedOnArticleList(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                } else {
+                    chooseNextArticle(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                    createCookieBasedOnArticleList(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                }
+
+
+                if (settings.articleId != "") {
+
+                    $(renderTemplate()).appendTo("body");
+
+                    $("#nextArticleWrapper a, #readNextOpenInner a").click(function () {
+                        _gaq.push(['_trackEvent', 'wayfarer_read_next', 'click_headline', 'version_1']);
+
+                        getNavPos($(this).attr("href"), "wayfarerReadNext");
+                    });
+
+                    bindUIActions();
+
+                    var displayed = false;
+
+                    setTimeout(function () {
+                        if (!displayed) {
+                            displayed == true;
+                            readNextWidget.display();
+                        }
+
+                    }, 10000);
+
+                    $(window).scroll(function () {
+                        if (isScrolledIntoView("#tmg-related-links")) {
+                            if (!displayed) {
+                                displayed == true;
+                                readNextWidget.display();
+                            }
+                        }
+
+                        if(isScrolledIntoView("#shareBottom") || isScrolledIntoView("#newGigyaShareBottom")) {
+                            if(settings.autoOpen) {
+                                openArticleContainer();
+                            }
+                        }
+
+                        if($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            if(settings.autoOpen) {
+                                openArticleContainer();
+                            }
+                        }
+                    });
+                }
+            };
+
+            var display = function () {
+                $(settings.widgetContainer).fadeIn(2000, function () {
+                    //animation complete
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'display_closed', 'version_1']);
+                });
+            };
+
+            var bindUIActions = function () {
+                $(settings.openButton).mouseenter(function (event) {
+                    event.preventDefault();
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'hover_closed', 'version_1']);
+                    openArticleContainer();
+                });
+                $(settings.widgetContainer).mouseleave(function (event) {
+                    event.preventDefault();
+                    closeArticleContainer();
+                });
+                $(settings.closeButton).click(function (event) {
+                    event.preventDefault();
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'click_close', 'version_1']);
+                    updateCookie(settings.articleId, settings.articleListToSkip);
+                    closeArticleContainer();
+                    settings.autoOpen = false;
+                });
+            };
+
+            var openArticleContainer = function () {
+                if (!settings.panelOpen) {
+                	$("#readNextArticleContainer").show();//show/hide because height is calculated incorrectly for elements with display:none
+                    $("#readNextArticleContainer").hide();
+                    $(settings.articleContainer).toggle('slide', {direction: 'left'}, function () {
+                        //animation complete
+                        _gaq.push(['_trackEvent', 'wayfarer_read_next', 'display_open', 'version_1']);
+                    });
+                    settings.panelOpen = !settings.panelOpen;
+                    settings.autoOpen = false; //set auto open to false once user has viewed this once
+                }
+                return false;
+            };
+
+            var closeArticleContainer = function () {
+                if (settings.panelOpen) {
+                    $(settings.articleContainer).toggle('slide', {direction: 'left'}, function () {
+                        //animation complete
+                    });
+                    settings.panelOpen = !settings.panelOpen;
+                }
+                return false;
+            };
+
+
+            var isScrolledIntoView = function(elem) {
+                if($(elem).length) { //check if element exists
+                    var docViewTop = $(window).scrollTop();
+                    var docViewBottom = docViewTop + $(window).height();
+
+                    var elemTop = $(elem).offset().top;
+                    var elemBottom = elemTop + $(elem).height();
+
+                    return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+                } else {
+                    return false;
+                }
+            };
+
+            var unique = function(array) {
+                return array.filter(function (el, index, arr) {
+                    return index == arr.indexOf(el);
+                });
+            }
+
+            var createCookieBasedOnArticleList = function(currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if (article.id == currentArticleId) {
+                        articleListToSkip[0] = currentArticleId;
+                        $.cookie(settings.readNextCookieName, escape(articleListToSkip.join(',')), {path: '/', expires: 1, domain: 'telegraph.co.uk'});
+                        return true;
+                    }
+                });
+            }
+
+            var updateCookieBasedOnArticleList = function(currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if (article.id == currentArticleId) {
+                        updateCookie(currentArticleId, articleListToSkip);
+                        return true;
+                    }
+                });
+            }
+
+            var updateCookie = function(articleIdToSkip, articleListToSkip) {
+                articleListToSkip.push(articleIdToSkip);
+                articleListToSkip = unique(articleListToSkip);
+                $.cookie(settings.readNextCookieName, escape(articleListToSkip.join(',')), {path: '/', expires: 1, domain: 'telegraph.co.uk'});
+            }
+
+            var chooseNextArticle = function (currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if ((article.id != currentArticleId) && ($.inArray(article.id, articleListToSkip) === -1)) {
+
+                        //set article
+                        settings.articleTitle = article.title;
+                        settings.articleUrl = article.url;
+                        settings.articleId = article.id;
+						settings.articleImage = article.imgUrl;
+                        return true;
+                    }
+                });
+            }
+
+            //public API
+            return {
+                settings: settings,
+                init: init,
+                display: display,
+                openArticleContainer: openArticleContainer,
+                closeArticleContainer: closeArticleContainer
+            }
+        })();
+
+    };
+</script>
+</body>
+</html>
+
+<!-- googleon: all -->

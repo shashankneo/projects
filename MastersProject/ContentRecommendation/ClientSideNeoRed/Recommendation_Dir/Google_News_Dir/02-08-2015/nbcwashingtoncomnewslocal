@@ -1,0 +1,2035 @@
+
+	
+  
+  <!DOCTYPE html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="imagetoolbar" content="false">
+
+
+
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0">
+      
+<meta name="robots" content="noodp,noydir" />
+<meta property="fb:app_id" content="168641655540" />
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="NBC4 Washington" />
+<meta property="og:description" content="Donald Trump’s &quot;Trump Old Post Office&quot; hotel has just filed $10 million breach of contract lawsuit against famed chef José Andrés Friday, in DC federal court." />
+<meta property="og:title" content="Donald Trump Files $10 Million Lawsuit Against Jose Andres" />
+<meta property="og:url" content="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html"/>
+<meta property="og:image" content="http://media.nbcwashington.com/images/1200*675/GettyImages-481233084TheDonald72115.jpg" />
+
+
+
+<meta property="article:publisher" content="https://www.facebook.com/nbcwashingtondc" />
+
+<meta http-equiv="last-modified" content="2015-08-1@04:37:25 PDT" />
+
+
+<meta name="tp:preferredRuntimes" content="Flash,HTML5">
+<meta name="tp:preferredFormats" content="mpeg4,m3u,webm,ogg,flv,F4M">
+<meta name="tp:FlashBlacklist" content="None|None">
+
+<script src="http://www.nbcwashington.com/includes/jquery-1.8.2.min.js?r=2015-07-30" type="text/javascript"></script>
+<script src="http://www.nbcudigitaladops.com/hosted/global_header.js"></script>
+
+
+<script type="text/javascript">
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+// Stop older versions of IE from choking on calls to the console.
+if(typeof console == "undefined") {
+
+    console = {};
+    console.log = function(msg) {
+    // fail silently
+    }
+    
+    console.warn = function(msg) {
+    // fail silently
+    }
+    
+    console.error = function(msg) {
+    // fail silently
+    }
+    
+    console.info = function(msg) {
+    // fail silently
+    }
+
+}
+</script>
+
+
+
+ 
+<script type="text/javascript">
+  var nbc = {
+    brand:               "NBC4 Washington",           
+    cityName:            "Washington DC",            
+    domain:              "www.nbcwashington.com",           
+    host:                "nbcwashington.com",             
+    market:              "nbcwashington",           
+    gmtOffset:           "4",      
+    path:                "/news/local",             
+    sectionType:         "AlphaSection",   
+    section:             "news",         
+    subsection:          "local",      
+    subsectionPageTitle: "Local News",           
+    fullDomain:          "http://www.nbcwashington.com",       
+    fullPath:            "http://www.nbcwashington.com/news/local",             
+    env:                 "",           
+    siteKey:             "dc", 
+    mediaDomain:         "http://media.nbcwashington.com", 
+    debug:               false,                  
+    roadblockOrdNumber:  123600124,
+    defaultLat:          "38.91",    
+    defaultLong:         "-77.02",   
+    tremorKey:           "52289094b872c",                 tremorSyndKey:       "5239b2feaee2e",                 tremorHTMLKey:       "5239c44e7e9e1",                 tremorHTMLSyndKey:   "5239c48490096",                 htmlPreroll:          true,                      
+    
+    pdkPath:             "http://www.nbcwashington.com/assets/pdk5511",              
+    pdkAcct:             "Yh1nAC",               
+    
+    gmapKey:             "ABQIAAAAqVLuG7bZfizR7HmRA5SLvRRLTV21SW6BCwa9bo5RhgA9jOonqhS89nsZPivkWTFhuSHSArTNnI0OuQ",       
+    isMobile:            "false",       
+    contentID:           "320316391", 
+    desktopContScroll:   "true", 
+    mobileContScroll:    "true",
+    twitterVia:          "nbcwashington",
+    fbApiKey:            "f65d3e874bf3c281499884157f254d87",
+    callLetters:         "WRC",
+    mobileIntercept:     false,
+    mobileInterceptContent: 0,
+    mobileArticleGallery: true
+  };
+nbc.omniture = {firedRegistration: "test",ageRange: "",userGender: "",postalCode: "",playerType: "articleplayer",pageType: "article",suite:"nbculimdivisionprod,nbculimwashingtonprod"};
+
+var zoneSec = nbc.section.replace(/-/g,"_");
+var zoneSubsec = nbc.subsection.replace(/-/g,"_");
+nbc.zone = zoneSec + "-" + zoneSubsec + "-" + nbc.omniture.pageType;
+
+
+nbc.video = {fwSSID: "ots_wrc_news_local", fwNetworkID : "382114", config: {volume: 100 ,htmlPreRoll: true, htmlOmniture: false, tremorFlashKey: "52289094b872c",tremorFlashSyndKey: "5239b2feaee2e",tremorHTMLKey: "5239c44e7e9e1",tremorHTMLSyndKey: "5239c48490096"},pdkPath: "http://www.nbcwashington.com/assets/pdk5511",playerType: "articleplayer"};
+
+
+var partner_xfinity = false;
+
+
+var xfinityIsPersistant = false;
+var partnerXfinityValue = "";
+function getThePartnerCookie (cookieName) {
+    var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+    if(exp.test (document.cookie + ";")) {
+        exp.exec (document.cookie + ";");
+        return unescape(RegExp.$1);
+    }
+}
+if(getThePartnerCookie("partnerCookie")=="xfinity" && getThePartnerCookie("partnerSessionCookie")=="xfinity"){
+    xfinityIsPersistant = true;
+} else {
+    xfinityIsPersistant = false;
+}
+
+if(xfinityIsPersistant == true){
+    partnerXfinityValue = "xfinity";
+    console.log("partner xfinity");
+} else {
+    partnerXfinityValue = "";
+}
+    
+var _oSourceParam = "";
+nbc.getReferrer = function(useAgentString){
+  var capturedUA = null;
+  var subDomainPresent = false;
+  var capturedReferral = "";
+  if(useAgentString==true){
+    var capturedUA = window.navigator.userAgent;
+    if(capturedUA.indexOf("FBAN") != -1 || capturedUA.indexOf("FBAV") != -1 || capturedUA.indexOf("FBDV") != -1 || capturedUA.indexOf("FBSV") != -1){
+      var cameFromFBUA = true;
+      var finalRef = "facebook.com";
+    }
+  }
+  if(!cameFromFBUA){
+    var capturedReferral = document.referrer;
+    if(capturedReferral != ""){
+      friendlyRef = capturedReferral.match(/:\/\/(.[^/]+)/)[1];
+      rSplit = friendlyRef.split(".");
+      if(rSplit.length == 2){
+        subDomainPresent = false;
+      } else if(rSplit.length == 3){
+        subDomainPresent=true;
+      }
+      if(subDomainPresent == true){
+        finalRef = friendlyRef.replace(/^[^.]+\./g,"");
+      } else {
+        finalRef = friendlyRef;
+      }
+    } else if(_oSourceParam != ""){
+      var finalRef = "facebook.com";
+    } else {
+      finalRef="";
+    }
+  }
+  return finalRef;
+};
+
+nbc.gptParams = {};
+nbc.referrer = nbc.getReferrer(true);
+nbc.gptParams.gptZone = "news/local";
+
+nbc.gptParams.suitenumber ="2620";
+nbc.gptParams.suitename = "ots_dc_web";
+nbc.gptParams.slotData = [];
+
+nbc.gptParams.pageData = { stage:"false",  adtest:"", referrer:nbc.referrer, sensitive : "false",pagetype : "article",contentid : "320316391",feature : "Uncategorized",sponsor: "",searchkw: "",adContentType: "Article",zipcode : "20001", category: "",  partner: partnerXfinityValue };
+
+
+nbc.articlePage = {};
+nbc.articlePage.continuousScroll = false;
+nbc.articlePage.thisArticleID = 320316391;
+nbc.articlePage.targetedArticles = ['320387271', '320377241', '320291901', '320330351', '239489741', '320354511', '320365311', '320348541', '320268701', '320316391', '320248841', '320346971', '320342101', '320317391', '320335641', '320332101'];
+nbc.articlePage.ra = null;
+nbc.articlePage.foundSponsorCtype = "Link";
+
+
+nbc.loadVideoPlugins = ['akamaiHD','FreeWheel','comscore','conviva','captions','capcon','liveCaptions', 'streamsense'];
+
+
+
+var gigya_enabled = false;
+
+</script>
+ <script src="http://www.nbcwashington.com/includes/nbc.freewheelpolicy_map.js?r=2015-07-30" type="text/javascript"></script>
+
+ 
+
+
+            
+            
+<script type="text/javascript">
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement("script");gads.async = true;gads.type = "text/javascript";var useSSL = "https:" == document.location.protocol;gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";var node =document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads, node);})(); 
+</script>
+
+ <script src="http://www.nbcwashington.com/includes/nbc_gpt_renderengine.js?r=2015-07-30" type="text/javascript"></script>
+
+<script language="JavaScript">
+s_linkInternalFilters="javascript:,nbcwashington.com,media.nbcwashington.com,events.nbcwashington.com,tsn.nbcwashington.com,autos.nbcwashington.com";
+var nbcu_account="nbcuotsdivisionprod,nbcuotswashington";
+var nbcu_prop8 ="nbc";
+var nbcu_prop9 ="DC";
+var nbcu_prop10 ="WRC";nbc.callLetters = "WRC";
+nbc.contentType = "";
+//removing document.write once and for all
+//document.write('<s'+'cript src="http://www.nbcwashington.com/includes/ots_omniture_code.js"></s'+'cript>');
+</script>
+
+ <script src="http://www.nbcwashington.com/includes/ots_omniture_code.js?r=2015-07-30" type="text/javascript"></script>
+
+
+<!-- Load the PDK from a relative domain -->
+   <script type="text/javascript" src="http://www.nbcwashington.com/assets/pdk5511/pdk/tpPdk.js"></script>
+<script type="text/javascript">
+
+    // Iniitialize the global video object.
+    var nbcVideoPageUtils = {};
+    
+</script>
+        
+  <title>Donald Trump Files $10 Million Lawsuit Against Jose Andres  | NBC4 Washington</title>
+          <link rel="canonical" href="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" />
+      <link rel="vr:canonical" href="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" />
+        <meta name="description" content="Donald Trump’s &amp;quot;Trump Old Post Office&amp;quot; hotel has just filed $10 million breach of contract lawsuit against famed chef José Andrés Friday, in DC federal court." />
+  <meta itemprop="description" content="Donald Trump’s &amp;quot;Trump Old Post Office&amp;quot; hotel has just filed $10 million breach of contract lawsuit against famed chef José Andrés Friday, in DC federal court.">         <meta name="keywords" content="local news, washington dc news, maryland news, northern virginia news, breaking news, northwest washington, rockville, prince george's county, fairfax county, montgomery county, arlington county, metro, wmata, dc, nova, va, md" />
+  <meta itemprop="keywords" content="local news, washington dc news, maryland news, northern virginia news, breaking news, northwest washington, rockville, prince george's county, fairfax county, montgomery county, arlington county, metro, wmata, dc, nova, va, md"/>
+         <meta itemprop="name" content="Donald Trump Files $10 Million Lawsuit Against Jose Andres">     <meta name="title" content="Donald Trump Files $10 Million Lawsuit Against Jose Andres" />
+    <meta property="title" content="Donald Trump Files $10 Million Lawsuit Against Jose Andres"/>
+    <link rel="image_src" href="http://media.nbcwashington.com/images/133*75/GettyImages-481233084TheDonald72115.jpg" />
+  <meta itemprop="image" content="http://media.nbcwashington.com/images/133*75/GettyImages-481233084TheDonald72115.jpg"/>
+                       
+
+<link rel="shortcut icon" href="http://media.nbcwashington.com/designimages/favicon.ico" />
+
+
+
+
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_shared_global.css?r=2015-07-30C" type="text/css" />
+
+
+
+<!--startclickprintexclude-->
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_v3_global_alt_tv.css?r=2015-07-30" type="text/css" />
+
+<!--endclickprintexclude-->
+
+
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_v3.css?r=2015-07-30" type="text/css" />
+
+
+
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_article.css?r=2015-07-30" type="text/css" />
+<script type="text/javascript">var thisIsAGalleryPage = false;</script>
+<script type="text/javascript">
+  // mmModule is now deprecated, do not add to object.
+  mmModule = {}
+  mmModule.omni = "nbculimdivisionprod,nbculimwashingtonprod";
+  nbc.omniture.suite = "nbculimdivisionprod,nbculimwashingtonprod";
+</script>
+ <script src="http://www.nbcwashington.com/includes/jquery.validate190.min.js?r=2015-07-30" type="text/javascript"></script>
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/jqmodal2.css?r=2015-07-30" type="text/css" />
+
+    <script src="http://www.nbcwashington.com/includes/jqModal.js" type="text/javascript"></script>
+
+    <script src="http://www.nbcwashington.com/includes/jqDnR.js?r=2015-07-30" type="text/javascript"></script>
+
+    <script src="http://www.nbcwashington.com/includes/jquery.easing.1.3.js" type="text/javascript"></script>
+
+      
+        <script type="text/javascript" src="http://nbcwashington.us.intellitxt.com/ast/js/nbcuni/nbclocalnews.js"></script>
+   
+ <script src="http://www.nbcwashington.com/includes/utils.js?r=2015-07-30" type="text/javascript"></script>
+  <script src="http://www.nbcwashington.com/includes/nbc_carousel_v3.js?r=2015-07-30" type="text/javascript"></script>
+
+
+ <script src="http://www.nbcwashington.com/includes/nbctools.js?r=2015-07-30" type="text/javascript"></script>
+<script src="http://www.nbcwashington.com/includes/thePlatform-omniture-core.js?r=2015-07-30" type="text/javascript"></script>
+  <script src="http://www.nbcwashington.com/includes/swfobject-41.js" type="text/javascript"></script>
+    <script src="http://www.nbcwashington.com/includes/nbc_v3_major.js?r=2015-07-30" type="text/javascript"></script>
+    <script src="http://www.nbcwashington.com/includes/nbc_videoplayer_unified.js?r=2015-07-31" type="text/javascript"></script>
+     <script src="http://www.nbcwashington.com/includes/ots_omniture_tracker.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcwashington.com/includes/waypoints.min.2.0.4.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcwashington.com/includes/nbc_desktop_csTemplate.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcwashington.com/includes/nbc_typewriter.js?r=2015-07-30" type="text/javascript"></script>
+
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>    
+
+<script type="text/javascript">
+// Random number generator for DART
+var randDARTNumber=0;
+
+function genSetRandDARTNumber() {
+    randDARTNumber = Math.round(Math.random()*1000000000000);
+}
+
+genSetRandDARTNumber();
+
+</script>
+   <script type="text/javascript">
+if(U.readCookie("zipCode")) { 
+    weatherAdZipCode =  U.readCookie("zipCode");
+ }
+ else {
+    weatherAdZipCode = "20001";
+ }
+
+nbc.weather= {
+  validatedZip: "",
+  adZipCode:weatherAdZipCode
+ };
+</script>
+
+
+  
+<script type="text/javascript">
+   (function() {
+     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+     po.src = 'https://apis.google.com/js/plusone.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+   })();
+</script>
+
+<script type="text/javascript">
+ var nbcinfoTools = nbcinfoTools || new nbc.tools('nbcinfoTools');
+            nbcinfoTools.iframeChatter();
+</script>
+
+ <script src="http://www.nbcwashington.com/includes/jquery.zclip.min.js" type="text/javascript"></script>
+ 
+ <script src="http://www.nbcwashington.com/includes/jquery.carouFredSel-5.5.0-packed.js" type="text/javascript"></script>
+ <script src="http://www.nbcwashington.com/includes/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+  <script src="http://www.nbcwashington.com/includes/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://www.nbcwashington.com/templates/jquery.fancybox-1.3.4.css?r=2015-07-30" type="text/css" />
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript">
+// Get Cookie Value
+function getPartnerCookieValue (cookieName) {
+   var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+   if(exp.test (document.cookie + ";")) {
+      exp.exec (document.cookie + ";");
+      return unescape(RegExp.$1);
+   }
+}
+// Write Cookie
+function writePartnerCookie (CookieName, CookieValue, periodType, offset) {
+   var expireDate = new Date ();
+   offset = offset / 1;
+   var myPeriodType = periodType;
+   switch (myPeriodType.toLowerCase()) {
+      case "years": 
+         var year = expireDate.getYear();     
+         // Note some browsers give only the years since 1900, and some since 0.
+         if (year < 1000) year = year + 1900;     
+         expireDate.setYear(year + offset);
+      break;
+      case "months":
+         expireDate.setMonth(expireDate.getMonth() + offset);
+      break;
+      case "days":
+         expireDate.setDate(expireDate.getDate() + offset);
+      break;
+      case "hours":
+         expireDate.setHours(expireDate.getHours() + offset);
+      break;
+      case "minutes":
+         expireDate.setMinutes(expireDate.getMinutes() + offset);
+      break;
+      default:
+         // alert ("Invalid periodType parameter for writePartnerCookie()");
+      break;
+   }
+   try{
+      document.cookie = escape(CookieName ) + "=" + escape(CookieValue) + "; expires=" + expireDate.toGMTString() + "; path=/";
+         }catch(e){
+         }
+   try{
+      document.cookie = "partnerSessionCookie=xfinity; path=/";
+         }catch(ee){
+         }
+}
+</script>
+   <script type="text/javascript">
+    function checkPartnerCookie () {
+      if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+                           document.write('<scr'+'ipt src="http://shared.comcast.net/js-api/galacticvendor.js?signin=false&tab=email&profile=vendorcode&ft=true&id=xfinityNavBar"></scr'+'ipt>');         $(document).ready(function(){
+            $('body').addClass('xfinity');
+         });
+         xfinityOmniValue = "xfinity";// referenced in nbc_tracking_revamped
+      }
+    }
+   var xfinityOmniValue = "";
+    checkPartnerCookie();
+   </script>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300,100' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_global_rr.css?r=2015-07-30" type="text/css" />
+<script src="http://www.nbcwashington.com/includes/nbc_global_rr.js?r=2015-07-30" type="text/javascript"></script>
+ 
+
+<script type="text/javascript">
+var disableDownloadApp = false;
+</script>
+
+</head>
+<body id="article" class="article-dc dc news    nbc ">
+
+    <div id="adBackgroundContainer"></div>
+
+            <!-- \\ GPT out-of-page // -->
+<div id="gptoop" style="width:auto; height:auto; position:absolute; top:0px;"></div>
+<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('gptoop'); });
+</script>
+<!-- \\ GPT out-of-page // -->
+
+
+
+<script type="text/javascript">
+  var nbcfacebook = {
+    connected: "no"
+  };
+</script>
+
+
+
+<script>
+
+  function callTransitional() {
+    window.location.href = nbc.fullDomain + '/transitional_ad/transitional_ad.html';
+  }
+
+</script>
+<script language="javascript1.2">var trkcid=320316391;var partnerID=521042; var _hb=1;</script><script language="javascript1.2" src="http://www.nbcwashington.com/g/g/button/button_1.js"></script>
+ <script src="http://www.nbcwashington.com/includes/jquery.transit.js" type="text/javascript"></script>
+
+ <script src="http://www.nbcwashington.com/includes/nbc_articleGallery.js?r=2015-07-31D" type="text/javascript"></script>
+
+ <link rel="stylesheet" href="http://www.nbcwashington.com/templates/nbc_articleGallery.css?r=2015-07-30" type="text/css" />
+
+            
+
+<!-- // header \\ -->
+<div id="header">
+<!-- // masthead \\ -->
+                                    
+<div id="dd_wrap">
+<div class="dd_news dd_top_pos">
+   <div class="dd_div">    
+   <ul>   
+                    <li><a href="/news/local/"   title=""  name="&lpos=navigation hover&lid=local">Local</a></li>
+                         <li><a href="/news/national-international/"   title=""  name="&lpos=navigation hover&lid=u.s. & world">U.S. & World</a></li>
+                         <li><a href="/news/sports"   title=""  name="&lpos=navigation hover&lid=sports">Sports</a></li>
+                         <li><a href="/news/health"   title=""  name="&lpos=navigation hover&lid=health">Health</a></li>
+                         <li><a href="/news/local/287131541.html"   title=""  name="&lpos=navigation hover&lid=consumer">Consumer</a></li>
+                         <li><a href="/news/tech/"   title=""  name="&lpos=navigation hover&lid=tech">Tech</a></li>
+                         <li><a href="/news/weird/"   title=""  name="&lpos=navigation hover&lid=weird">Weird</a></li>
+                         <li class="last"><a href="/news/local/Watch-News4-Livestream-Gentzler-Handly-Kammerer-Vance--311048071.html"    title=""  name="&lpos=navigation hover&lid=watch live">Watch Live</a></li>
+           </ul>
+   </div>
+         <div class="dd_div right">
+          <span class="nav_blogs_hdr">Blogs</span>  
+         <ul class="franchise">   
+                                        <li><a href="/blogs/first-read-dmv/"   title="" name="&lpos=navigation hover&lid=first read - dmv">First Read - DMV</a></li>
+                                                 <li class="last"><a href="/blogs/capital-games/"   title="" name="&lpos=navigation hover&lid=capital games">Capital Games</a></li>
+                     </ul>
+   </div>
+   </div>
+<div class="dd_entertainment dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                                 <li><a href="/entertainment/entertainment-news"   title="" name="&lpos=navigation hover&lid=entertainment news">Entertainment News</a></li>
+                                                         <li><a href="/entertainment/the-scene"   title="" name="&lpos=navigation hover&lid=the scene">The Scene</a></li>
+                                                         <li class="last"><a href="/events"   title="" name="&lpos=navigation hover&lid=events">Events</a></li>
+                                     </ul>
+   </div>
+         <div class="dd_div right">  
+   <span class="nav_blogs_hdr">Blogs</span>  
+     <ul class="franchise">   
+                                                <li class="last"><a href="/blogs/worth-the-trip/"   title="" name="&lpos=navigation hover&lid=worth the trip">Worth The Trip</a></li>
+                     </ul>
+   </div>
+      </div>
+   <div class="dd_the-scene dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                        <li class="last"><a href="http://events.nbcwashington.com/"   title="" name="&lpos=navigation hover&lid=events">Events</a></li>
+                     </ul>
+   </div>
+            <div class="dd_div right">
+      <span class="nav_blogs_hdr">Blogs</span>    
+        <ul class="franchise">   
+          
+                                                       <li><a href="/on-air/shows/1st-Look-LXTV-Best-in-Food-Nightlife-Travel-167601135.html"   title="" name="&lpos=navigation hover&lid=1st look">1st Look</a></li>
+                                                                     <li><a href="/blogs/worth-the-trip/"   title="" name="&lpos=navigation hover&lid=worth the trip">Worth the Trip</a></li>
+                                                                     <li class="last"><a href="/blogs/open-house/"   title="" name="&lpos=navigation hover&lid=open house">Open House</a></li>
+                                </ul>
+      </div>
+      </div>
+<div class="dd_weather dd_top_pos">
+<div class="dd_div">    
+  <ul>   
+                                 <li><a href="/weather/"   title="" name="&lpos=navigation hover&lid=forecast">Forecast</a></li>
+                                         <li><a href="/weather/maps/"   title="" name="&lpos=navigation hover&lid=maps & radar">Maps & Radar</a></li>
+                                         <li><a href="/weather/severe-weather-alerts"   title="" name="&lpos=navigation hover&lid=weather alerts">Weather Alerts</a></li>
+                                         <li><a href="http://www.nbcwashington.com/weather/school-closings/"   title="" name="&lpos=navigation hover&lid=school closings">School Closings</a></li>
+                                         <li class="last"><a href="/weather/stories/"   title="" name="&lpos=navigation hover&lid=weather news">Weather News</a></li>
+              </ul>
+</div>
+</div>
+<div class="dd_offers dd_top_pos">
+<div class="dd_div">    
+  <ul>   
+                                              <li class="last"><a href="/on-air/contests/"   title="" name="&lpos=navigation hover&lid=contests">Contests</a></li>
+                      </ul>
+</div>
+      </div>
+<div class="dd_contact dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                         <li><a href="/contact-us/social-directory"   title="" name="&lpos=navigation hover&lid=social directory">Social Directory</a></li>
+                                                 <li><a href="/contact-us/about-us/"   title="" name="&lpos=navigation hover&lid=about us">About Us</a></li>
+                                                 <li><a href="/contact-us/community/"   title="" name="&lpos=navigation hover&lid=community">Community</a></li>
+                                                 <li><a href="/contact-us/tv-listings/"   title="" name="&lpos=navigation hover&lid=tv listings">TV Listings</a></li>
+                                                 <li><a href="https://sjobs.brassring.com/tgwebhost/searchresults.aspx?PartnerId=25354&SiteId=5108&Function=LinkQuery&LinkId=3385148"   title="" name="&lpos=navigation hover&lid=careers at news4">Careers at News4</a></li>
+                                                 <li class="last"><a href="/on-air/about-us/Internships-at-NBC4-89614052.html"   title="" name="&lpos=navigation hover&lid=internships">Internships</a></li>
+                     </ul>
+   </div>
+      </div>
+
+
+
+
+</div>
+<div id="masthead" style="position:relative;">  <div id="mastheadLinks" style="position:relative;">    <div id="mastheadLeftLinks">                  <div class="nojsv" id="logocont"><a href="/" title="NBC4 Washington" id="logo" target="_parent" name="&lpos=logo&lid=nbc4 washington"><img alt="NBC4 Washington " title="NBC4 Washington " src="http://media.nbcbayarea.com/designimages/nbcdc_logo_0714.png" /></a></div>                </div>    <script type="text/javascript">
+            //<![CDATA[
+            function createCookieHour(name, value) {
+              var date = new Date();
+              date.setTime(date.getTime() + (1 * 60 * 60 * 1000));
+              var expires = "; expires="+date.toGMTString();
+              document.cookie = name + "=" + value+expires + "; path=/";
+            }
+            $(document).ready(function() {
+              // U.log(" cookie for full site "+U.getQueryParam("fullSite"));
+              if(U.getQueryParam("fullSite") == "y") {
+                if(U.readCookie("mobileFullSite")) {
+                  // dont store cookie
+                }
+                else {
+                  createCookieHour('mobileFullSite', 'y');   
+                }
+              }
+            });   
+            //]]>  
+    </script>
+    <script type="text/javascript">
+      //<![CDATA[
+      $(document).ready(function(event) {
+        $("#sponsoredBackgrd").click(function(event) {
+          if( event.stopPropagation ) { event.stopPropagation(); } //For 'Good' browsers
+          else { event.cancelBubble = true; } //For IE
+        });
+      });
+      //]]> 
+    </script>  
+    <div id="mastheadRightLinks">
+                                              <div id="mastheadWeatherModule"></div>
+          <script type="text/javascript">
+          //<![CDATA[
+                if(typeof randomValue == "undefined") {
+                    randomValue = "&rndm=" + Math.random()*10000000000000000;
+                };
+                $(document).ready(function() {
+                                      if(U.readCookie("zipCode")) { 
+                      weatherZipCode =  U.readCookie("zipCode");
+                    }
+                    else {
+                      weatherZipCode = "20001";
+                    }
+                                    dataString="h=weather_home_widget&zipCode="+weatherZipCode +"&moduleType=header" + randomValue;
+                  var urlpost='http://www.nbcwashington.com/i/dispatcher/';
+                  jQuery.ajax({
+                    type: "GET",
+                    url: urlpost,
+                    data: dataString,
+                    cache:false,
+                    dataType: "html",
+                    success: function(data){
+                      trimdata = jQuery.trim(data);
+                                            $("#mastheadWeatherModule").html(trimdata);
+                      $("#mastheadWeatherModule1").show();
+                    }
+                  });
+                });
+                //]]>
+          </script>
+                                  <div id="ugcBox"><a href="/newsletters" name="&lpos=masthead&lid=Newsletters">Newsletters</a> | <a href="/ugc/" class="ugcLink" name="&lpos=masthead&lid=submit photos">Send Pics</a> | <a href="mailto:tips@nbcwashington.com?body=Thanks%20for%20contacting%20NBC4 Washington.%20Please%20use%20this%20e-mail%20to%20send%20us%20news%20tips.%20Be%20sure%20to%20include%20a%20phone%20number,%20so%20we%20can%20contact%20you%20quickly,%20if%20necessary.%20If%20your%20tip%20is%20urgent,%20call%20%20our%20news%20desk%20at%20202-885-4111." class="tipsLink">Tips</a></div>
+          <form id="searchForm" action="http://www.nbcwashington.com/results/" method="get" target="_parent">
+        <input type="text" tabindex="1" size="24" value="Search" name="keywords" id="searchText" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;" />
+        <input type="image" value="Go" src="http://media.nbcwashington.com/designimages/nbc_v3_search_mag.gif" class="submit" id="searchSubmit">
+      </form>
+    </div>   </div>
+</div>
+<!-- \\ masthead // -->
+
+    <!-- // nav \\ -->
+<div id="nav">
+  <ul>
+          <li class="navItem_home" id="navItem_0"><a target="_parent" class="home" title="Home" href="/" name="&lpos=section navigation&lid=home">home</a></li>
+                                                                                          <li id="navItem_1" class="navItem_news news first"><a href="/news/" title="News"  target="_parent" name="&lpos=section navigation&lid=news">news</a></li>
+                                                                                                    <li id="navItem_2" class="navItem_weather weather"><a href="/weather/" title="Weather"  target="_parent" name="&lpos=section navigation&lid=weather">Weather</a></li>
+                                                                                                    <li id="navItem_3" class="navItem_investigations investigations"><a href="/investigations" title="Investigations"  target="_parent" name="&lpos=section navigation&lid=investigations">Investigations</a></li>
+                                                                                                    <li id="navItem_4" class="navItem_entertainment entertainment"><a href="/entertainment/" title="Entertainment"  target="_parent" name="&lpos=section navigation&lid=entertainment">Entertainment</a></li>
+                                                                                                    <li id="navItem_5" class="navItem_aca aca"><a href="/traffic/" title="Traffic"  target="_parent" name="&lpos=section navigation&lid=traffic">Traffic</a></li>
+                                                                                                    <li id="navItem_6" class="navItem_contests contests"><a href="/on-air/contests" title="Contests"  target="_parent" name="&lpos=section navigation&lid=contests">Contests</a></li>
+                                                                                                    <li id="navItem_7" class="navItem_contact contact last"><a href="/contact-us/" title="Contact Us"  target="_parent" name="&lpos=section navigation&lid=contact">Contact Us</a></li>
+                      
+                  
+                                  <li class="watchTV"><a href="http://www.nbc.com/app_link/nbctve" name="&lpos=nav&lid=Watch Live TV Now" target="_blank">Watch Live TV Now</a></li>
+                                    
+        <li class="socialNavButtons">
+      <div id="followLinks">
+                                                <ul>
+              <li><a href="http://www.facebook.com/nbcwashingtondc" id="fbLink" target="_blank" name="&lpos=section navigation&lid=facebook button"></a></li>       
+              <li><a href="http://www.twitter.com/nbcwashington" id="twitterLink" target="_blank" name="&lpos=section navigation&lid=twitter button"></a></li>
+                            <li><a href="http://instagram.com/nbcwashington" id="instagramLink" target="_blank" name="&lpos=section navigation&lid=instagram button"></a></li>
+                          </ul>
+      </div>     </li>
+      </ul>
+</div>
+      <div id="sectionNav" class="subnav-item-dropnav local">
+        
+    <ul>  
+                                                                                            
+          <li><a href="/news/local/" title="Local"  class="local"  target="_parent" name="&lpos=subsection navigation&lid=local">Local</a></li>
+                                                                                                    
+          <li><a href="/news/national-international/" title="U.S. & World"  class="us-world"  target="_parent" name="&lpos=subsection navigation&lid=u.s. & world">U.S. & World</a></li>
+                                                                                                    
+          <li><a href="/news/sports" title="Sports"  class="sports"  target="_parent" name="&lpos=subsection navigation&lid=sports">Sports</a></li>
+                                                                                                    
+          <li><a href="/news/health" title="Health"  class="health"  target="_parent" name="&lpos=subsection navigation&lid=health">Health</a></li>
+                                                                                                    
+          <li><a href="/news/local/287131541.html" title="Consumer"  class="consumer"  target="_parent" name="&lpos=subsection navigation&lid=consumer">Consumer</a></li>
+                                                                                                    
+          <li><a href="/news/tech/" title="Tech"  class="tech"  target="_parent" name="&lpos=subsection navigation&lid=tech">Tech</a></li>
+                                                                                                    
+          <li><a href="/news/weird/" title="Weird"  class="weird"  target="_parent" name="&lpos=subsection navigation&lid=weird">Weird</a></li>
+                                                                                                    
+          <li><a href="/news/local/Watch-News4-Livestream-Gentzler-Handly-Kammerer-Vance--311048071.html" title="Watch Live"  class="watch-live"  target="_parent" name="&lpos=subsection navigation&lid=watch live">Watch Live</a></li>
+                                        <li class="front"><a>BLOGS:</a></li>
+                                                                                                                                                  <li class="blog-list-right"><a href="/blogs/first-read-dmv/" title="First Read - DMV"  class="first-read-dmv"  target="_parent" name="&lpos=subsection navigation&lid=first read - dmv">First Read - DMV</a></li>
+                                                                                                                                                                                    <li class="blog-list-right"><a href="/blogs/capital-games/" title="Capital Games"  class="capital-games"  target="_parent" name="&lpos=subsection navigation&lid=capital games">Capital Games</a></li>
+                  </ul>  
+  </div>
+           <script src="http://www.nbcwashington.com/includes/nbc_v3_top_nav_dropdown.js?r=2015-07-30" type="text/javascript"></script>
+
+  
+          
+
+
+
+
+
+
+
+          
+        
+        
+        
+                     
+
+<!-- GPT 3 -->
+  <div id="ad_hdr_2" class="ad">
+									
+
+
+
+	
+	<div id="leaderboard1" class="adSlot adLeaderboard" data-sizes="970,66|970,90|728,90" data-ord="1" data-pos="top" data-module="" data-gptcollapse="true"></div>
+
+
+
+</div>
+</div>
+
+
+
+<div id="stickyNav">
+            <div id="pHeader">
+                <div class="pLogo">
+                    <div class="img">
+                        <a href="/"><img alt=NBC4 Washington"  src="http://media.nbcbayarea.com/designimages/nbcdc_logo_0714.png"></a>
+                    </div>
+                    <ul>
+                                                                    <li id="navItem_1" data-navnum="1" class="navItem_1"><a href="/news/" title="News" name="&lpos=section navigation&lid=">News</a></li>
+                                                                                            <li id="navItem_2" data-navnum="2" class="navItem_2"><a href="/weather/" title="Weather" name="&lpos=section navigation&lid=">Weather</a></li>
+                                                                                            <li id="navItem_3" data-navnum="3" class="navItem_3"><a href="/investigations" title="Investigations" name="&lpos=section navigation&lid=">Investigations</a></li>
+                                                                                            <li id="navItem_4" data-navnum="4" class="navItem_4"><a href="/entertainment/" title="Entertainment" name="&lpos=section navigation&lid=">Entertainment</a></li>
+                                                                                            <li id="navItem_5" data-navnum="5" class="navItem_5"><a href="/traffic/" title="Traffic" name="&lpos=section navigation&lid=">Traffic</a></li>
+                                                                                            <li id="navItem_6" data-navnum="6" class="navItem_6"><a href="/on-air/contests" title="Contests" name="&lpos=section navigation&lid=">Contests</a></li>
+                                                                                            <li id="navItem_7" data-navnum="7" class="navItem_7 last"><a href="/contact-us/" title="Contact Us" name="&lpos=section navigation&lid=">Contact Us</a></li>
+                                                                    <li class="searchButton">
+                                                          <img src="http://media.nbcwashington.com/images/nbc-white-search.png" class="mag-grey">
+                                                    </li>
+                    </ul>
+                </div>
+                
+                <div class="search-field-bg" style="">
+                  <form id="stickyForm" action="http://www.nbcwashington.com/results/"  name="form_name" method="get">
+                      <input type="text" placeholder="Search..." value="Search" name="keywords" class="searchField" id="stickySearchField" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;">
+                      <input type="image" value="Go" src="http://media.nbcwashington.com/images/nbc-grey-search.png" class="submit" id="searchSubmitSticky" >
+                  </form>
+                </div>
+                                  <img width="12" height="12" alt="" src="http://media.nbcwashington.com/images/cancel-search-icon.png" class="stickySearchCancel">
+                                              
+      </div>
+    </div>
+
+<body id="article_0">
+
+
+
+        
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+                                                
+                                                
+                                                
+                                                                                                            
+                                                                                                                                                                                                                                            
+        
+    
+
+  
+    
+    
+  
+        
+
+  
+    
+    
+  
+    
+        
+
+
+
+
+            
+
+  
+                            
+    
+  
+                
+
+  
+                            
+    
+  
+                            
+
+
+
+        
+
+
+
+    
+
+
+    
+                                                                                                
+
+
+
+
+
+
+        
+        
+                        
+
+        
+        
+    
+                                
+
+        
+
+
+
+
+
+
+
+    
+                        
+                
+        
+                                        
+        
+                                
+                                                                                                                                                                            
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                            
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                            
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                            
+
+
+
+
+
+
+
+<section id="article-sec_0">
+            <div id="article_0" class="article_elements  medium  ">
+            <!--startclickprintinclude-->
+            <article id="article_0_elements">
+            <div id="article_0_headline_byline" class="headline_region">
+                                
+                
+                
+                                
+                <h1 class="headline" itemprop="headline">Donald Trump Files $10 Million Lawsuit Against Jose Andres</h1>
+                <h2 class="subtitle"></h2>
+                
+                <h3 class="byline">By
+
+                          <!--ARTICLE IN BLOGLAND-->
+               
+                                                                                                                                  <a href="/results/?keywords=%22Trey+Sherman%22&byline=y&sort=date">Trey Sherman</a>                   
+                  
+
+
+
+
+                </h3>
+
+                                <!--endclickprintinclude-->
+                <div class="socialNetworks">
+                      <div class="topShareLeft">
+                         <a href="#comments" class="viewComments">View Comments (<fb:comments-count href=http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html></fb:comments-count>)</a> <div style="float:left;"> | </div>                         <div class="emailArticle" onmouseout="return(ETMouseOut());" onmouseover="return(ETMouseOver());" onclick="nbc.updatePrintCall(this);return(ET());">Email</div>
+                         <div style="float:left;"> | </div>
+                         <div class="printArticle" onmouseout="return(PTMouseOut());" onmouseover="return(PTMouseOver());" onclick="nbc.updatePrintCall(this);return(PT());">Print</div>
+                      </div>
+                      <div class="topShareRight">
+                         <span class="twitter-share"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" data-via="nbcwashington"></a></span>
+                         <div class="fb-like" data-href="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" data-send="true" data-share="false" data-layout="button_count" data-width="160" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+                         <div class="fb-send" data-href="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html"></div>
+                         <div class="google-plus"><g:plusone size="medium"></g:plusone></div>
+                      </div>
+                </div>
+                <!--startclickprintinclude-->
+            </div>
+                        <!--endclickprintinclude-->
+            <div class="article rightrail">
+
+<div class="rail adunit rect1" data-size="300x250" style="position:relative;">
+
+
+
+
+
+
+        <span id="tp-ad-slot_300x250" class="_fwph freewheelRightRail">
+       <form id="_fw_form_tp-ad-slot_300x250" style="display:none">
+          <input type="hidden" name="_fw_input_tp-ad-slot_300x250" id="_fw_input_tp-ad-slot_300x250" value="w=300&h=250&envp=g_js">
+       </form>
+       <span id="_fw_container_tp-ad-slot_300x250" class="_fwac"></span>
+    </span>
+    	<div id="rect1" class="adSlot adRect" data-sizes="50,50|300,250|300,600" data-ord="1" data-pos="top" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div>
+	
+
+
+</div>
+
+  <div class="rail topstories">
+      <h3 id="storyListHeader-0" class="rightrail title"></h3><div class="blackdivider1"></div>
+      <ul id="storyList-0"></ul>
+        </div>
+  
+    <div class="rail weatherbug" style="margin: 25px 0;">
+  
+<div id="top-stories-weather">
+     
+ <div class="weather-module">
+     <div id="weather-module-data-0">
+        <div id="processingWeatherLoading">
+           <img alt="processing..." src="http://media.nbcwashington.com/designimages/nbc-ajax-loader.gif"/>
+         </div>
+    </div>
+ </div>  
+ 
+  <script src="http://www.nbcwashington.com/includes/nbc_weather_module.js?r=2015-07-30" type="text/javascript"></script>
+
+ <script type="text/javascript">
+//<![CDATA[
+/* Load weather data for the homepage */
+
+jQuery(document).ready(function() {
+  jQuery("#processingWeatherLoading").show();  
+  
+  if(U.readCookie("zipCode")) { 
+    weatherZipCode =  U.readCookie("zipCode");
+  } else {
+        weatherZipCode = "20001";
+  }
+  
+      dataString="h=weather_home_widget&zipCode="+weatherZipCode;
+    nbc_adIframePartner = "";
+  
+  var urlpost='/i/dispatcher/';
+  
+    jQuery.ajax({
+      type: "GET",
+      url: urlpost,
+      data: dataString,
+      cache:false,
+      dataType: "html",
+      
+      success: function(data){
+        trimdata = jQuery.trim(data);
+        jQuery("#weather-module-data-0").html(trimdata);
+        if( jQuery(".changeLocation").length > 0 ) {
+            nbcWeatherChangeLoc.init("#weather-module-data-0");
+        };
+        jQuery("#processingWeatherLoading").hide();
+        if(nbc.omniture.pageType == "article") {
+            nbc.weatherModuleUpdate.activateTracking(0);
+            if(nbc.market == "nbcphiladelphia") {
+                nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            }
+        } else {
+            nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            jQuery('#weather-module-data-0 .weather-module-wrapper a').click(function(e){
+                e.preventDefault();
+                var target = (jQuery(this).attr('target')) ? jQuery(this).attr('target') : '';
+                
+                var omniTrack = jQuery(this).data('tracking');
+                nbcu.linkTrackVars="eVar7";
+                nbcu.eVar7 = 'weather-rightrail|' + omniTrack;
+                
+                if(target.length > 0) {
+                    var targetURL = jQuery(this).attr('href');
+                    nbcu.tl(this,'o',nbcu.eVar7,null, function() {
+			            window.open(targetURL,target);
+			        });
+                } else {
+                    nbcu.tl(this,'o',nbcu.eVar7,null,'navigate');
+                }
+                
+            })
+        }
+      }
+    }); // END AJAX call
+}); // END document.ready
+//]]>
+</script>
+
+</div>
+
+  </div>
+    
+  <div class="rail adunit rect2" data-size="300x160">
+
+
+
+<div id="rectSmall1" class="adSlot adRectSmall" data-sizes="300,160" data-ord="1" data-pos="top" data-module="" style="width: 300px; height: 160px;"></div>
+
+</div>
+  
+      <div class="outbrain_rr" style="margin: 25px 0;">
+    <div class="OUTBRAIN" data-src="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" data-widget-id="SB_2" data-ob-template="NBCLocal"></div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+  </div>
+    
+                            
+        <div class="newsletterSignupBox">
+            <div class="nsBox">
+                <h3 class="rightrail title"><a href="/newsletters">NEWSLETTERS</a></h3><a href="/newsletters"><span style="display:block" class="icon envelope"></span></a>
+                <div class="blackdivider1"></div>
+                <h3 class="newsletter copy">Receive the latest local  updates in your inbox</h3>
+                <form method="post" id="newsletterBox-0" class="nsForm" name="ns-subscribe-form" class="validate" target="_blank" data-nsHandlerKey = "144">
+                    <fieldset>
+                        <input class="required nsEmail" name="EMAIL" type="text" value="" onfocus="nsu.clearSignup(this)" />
+                        <input class="nsSubscribe" name="subscribe" type="submit" value="SIGN UP" />
+                    </fieldset>
+                </form>
+            </div>
+            <div class="nsFooter"><a href="http://www.nbcwashington.com/privacy/" name="&lpos=Newsletter Sign Up&lid=Privacy Policy">Privacy Policy</a> | <a href="http://www.nbcwashington.com/newsletters/" name="&lpos=Newsletter Sign Up&lid=More Newsletters">More Newsletters</a></div>
+        </div>
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                
+                nbc.validateEmail = function(submittedAddr, currentArticle) {
+                    if( (submittedAddr.length > 0) && (submittedAddr != "Email") ) {
+                        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                        return emailReg.test(submittedAddr);
+                    } else {
+                        jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                        return false;
+                    }
+                }
+
+                nsu = {};
+                nsu.hasOmnitureFired = false;
+            
+                nsu.clearSignup = function(dasEle){
+                    var str=dasEle.value;
+                    var clearId = jQuery(dasEle).parent().parent().attr('id');
+                    if(str.toLowerCase() == "email" || str.toLowerCase() == "invalid email address" || str.toLowerCase() == "there was an error subscribing"){
+                        dasEle.value="";
+                        $('#' + clearId + " .nsEmail").css({"color":"#333"});
+                    }
+                }
+            
+                nsu.signUserUp = function(email, nsHandlerKey, currentArticle) {
+                    var isAddressValid = nbc.validateEmail(email, currentArticle);
+                    thisNewsletterID = nsHandlerKey;
+                    if(isAddressValid != true) {
+                        return false;
+                    } else {
+                        nsu.subscribeUser(email, nsHandlerKey, currentArticle);
+                    }
+                }
+            
+                
+                nsu.fireOmniValues = function() {
+                    nbcu.un = nbcu_account;
+                    nbcu.prop7 = 'News Newsletter Sign Up';
+                    nbcu.eVar7 = 'News Newsletter Sign Up';
+                    nbcu.events = 'event19';
+                    nbcu.linkTrackVars = 'prop7,eVar7,events';
+                    nbcu.linkTrackEvents = 'event19';
+                    U.log(nbcu.prop7 + ' | ' + nbcu.eVar7 + ' | ' + nbcu.events + ' | ' + nbcu.linkTrackVars);
+                    try {
+                    nbcu.tl(true,'o','News Newsletter Sign Up Complete');
+                    }
+                    
+                    catch(e) {
+                    U.log(e);
+                    }
+                    nsu.hasOmnitureFired = true;
+                    return false;
+                }
+            
+                nsu.subscribeUser = function(email, nsHandlerKey, currentArticle) {
+                    var ajaxUrl = "/i/dispatcher/?h=newsletter&subscribe=yes&email="+email+"&subscribeIds=" + nsHandlerKey;
+                    jQuery.ajax({
+                        type: 'POST',
+                        url: ajaxUrl,
+                        dataType: 'json',
+                        success: function(data) {
+                            if(data.status == 200) {
+                                nsu.fireOmniValues();
+                                jQuery('#newsletterBox-'+ currentArticle + '.nsForm').html('<span class="nsConfirm">Thank you for signing up!</span>');
+                            } else {
+                                if(nbc.env == "dev."){console.log(data.detailResponse)};
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                            }
+                        },
+                        error: function(data) {
+                            if(nbc.env == "dev."){console.log(data.detailResponse)};
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("There was an error subscribing");
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                        }
+                    });
+                }
+                
+                var currentArticle = 0;
+                var nsHandlerKey = "";
+                jQuery('#newsletterBox-'+ currentArticle + '.nsForm' ).submit(function() {
+                    nsHandlerKey = jQuery(this).attr('data-nsHandlerKey');
+                    capturedEmail = jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val();
+                    nsu.signUserUp(capturedEmail, nsHandlerKey, currentArticle);
+                    return false;
+                });
+            });    
+                
+        </script>
+            
+    <div class="rail adunit rect1" data-size="300x250">
+
+
+
+
+
+    	<div id="rect2" class="adSlot adRect" data-sizes="300,250" data-ord="2" data-pos="bottom" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div>
+	
+
+</div>
+
+</div>
+            <!--startclickprintinclude-->
+                        
+                        <div class="leadMediaRegion image">
+
+                        <div class="leadMediaThumbnail image" data-cid="198375011"><img itemprop="thumbnailUrl" src="http://media.nbcwashington.com/images/652*367/GettyImages-481233084TheDonald72115.jpg" width="100%"></div>
+                                            <div class="leadMediaCredit"><span>Bloomberg via Getty Images</span></div>
+                                      </div>
+                        <div class="leadMediaCaption">File - Donald Trump, president and chief executive of Trump Organization Inc. and 2016 U.S. presidential candidate, gestures while speaking during The Family Leadership Summit in Ames, Iowa, U.S., on Saturday, July 18, 2015.</div>
+            
+                         
+                <div class="dateline">Updated at 7:37 AM EDT on Saturday, Aug 1, 2015</div>            
+
+
+            <div id="at_0" class="articleText" itemprop="articleBody">
+
+                                                
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                        
+
+
+
+                
+                                
+                                                <p class="paragraph" data-pnum="1">The group developing Donald Trump's grand renovation of Washington's Old Post Office Pavilion has sued chef Jose Andres for $10 million, claiming Andres breached his contract to build a flagship restaurant in the hotel after Trump said Mexican immigrants bring drugs and crime.</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="2">Andres had a 10-year deal to open an almost 10,000-square-foot restaurant in the $200 million Trump International Hotel.</p>
+                                                                                    
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcwashington.com/news/local/Verizon-Strike-Possible-as-Contract-Deadline-Looms-320377241.html">Verizon Strike Possible as Contract Deadline Looms</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="3">But <a href="http://www.nbcwashington.com/news/local/Jose-Andres-Cancels-Plan-for-Restaurant-at-Trumps-Planned-DC-Hotel--312590091.html">Andres cut ties with the business magnate</a> July 8, after Trump's comments June 16. The comments led to <a href="http://www.nbcwashington.com/news/local/Dump-Trump-Protesters-Gather-in-Front-of-Trumps-Planned-DC-Hotel-312947141.html">protests outside the planned D.C. hotel.</a></p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="4">Andres&nbsp;<a href="http://www.washingtonpost.com/news/reliable-source/wp/2015/07/08/jose-andres-backs-out-of-restaurant-in-donald-trumps-hotel/">told the Washington Post</a> it would be &quot;impossible&quot; for him to open a restaurant in that location.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+    
+        
+        
+                        <div class="embedded gallery" data-cid="238427591" data-permloc="http://www.nbcwashington.com/news/national-international/top-news-photos-headline-photos-AP-weekly-updates-news-photos-238427591.html" data-galleyindex="0" data-title="Top News Photos of the Week">
+        <div class="galleryMask">
+        <h3 class="largeTitle">Top News Photos of the Week</h3>        <div class="videoOverlay"></div>
+                <img alt="[NATL-2015] Top News Photos of the Week" src="http://media.nbcwashington.com/images/620*349/GettyImages-482609076.jpg" width="100%">
+                </div>
+                <div class="icon gallery"></div>
+        </div>
+                
+    
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="5">Trump's developer alleges he has suffered millions of dollars in damages, including legal fees, the cost of hiring a new tenant and more. And the suit dryly says that Andres should have known Trump was going to say something that would raise hackles.</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="6">&quot;Mr. Andres' offense is curious in light of the fact that Mr. Trump's publicly shared views on immigration have remained consistent for many years, and Mr. Trump's willingness to frankly share his opinions is widely known,&quot; reads the suit, filed in federal court Friday.</p>
+                                                                                    
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcwashington.com/news/sports/Padres-Kennedy-Watches-Wife-Give-Birth-on-Facetime-Then-Pitches-320367971.html">Pitcher Watches Baby's Birth on FaceTime, Then Plays</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="7">Andres had praised Trump for his &quot;business acumen,&quot; when the agreement was announced in January, and said in a press release, &quot;I have long respected Donald Trump for his business acumen and am proud to partner with him to create a truly remarkable, fine dining restaurant in the city I have called home for many years.&quot;</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="8">The suit also notes that Andres left the deal more than a week after he was expected to present documents showing construction progress.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcwashington.com/news/national-international/Hot-Car-Deaths-Down-Parents-Still-Want-More-Being-Done--320269601.html">Advocates Want More Done to Curb Hot Car Deaths </a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="9">Trump sent a notice to Andres on July 17, giving him 10 days to produce the documents. The same day, Andres sent Trump a notice, alleging that Trump's speech had breached the sublease.</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="10">Andres also &quot;demanded that Trump's personal opinions not be &quot;repeated, restated, or further disseminated,&quot; according to the lawsuit.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcwashington.com/news/national-international/Trooper-in-Sandra-Bland-Arrest-Had-Been-Disciplined-320356181.html">Trooper in Sandra Bland Arrest Previously Disciplined</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="11">Trump's developer claims there are no provisions in the sublease that grant Andres the right to terminate the sublease based on offended feelings.</p>
+                    
+                
+                                                
+            
+            
+            
+                            <div class="dateline bottom">Published at 9:00 PM EDT on Jul 31, 2015</div>
+      
+                           <div class="articleAutoFooter"></div>
+                                               <h5 class="copyright">
+
+    
+        
+      
+
+</h5>
+                           <div id="article_0_outbrain_top" data-widget-id="AR_3" data-src="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" class="OUTBRAIN" data-ob-template="NBCLocal"></div>
+            <div id="article_0_outbrain_bot" data-widget-id="AR_4" data-src="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" class="OUTBRAIN" data-ob-template="NBCLocal"></div>
+            </div>
+                        </article>
+            <!--endclickprintinclude-->
+            <aside>
+
+            <div class="socialNetworks bottom">
+                      <div class="topShareLeft">
+
+                                 <a href="#comments" class="viewComments">View Comments (<fb:comments-count href=http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html></fb:comments-count>)</a> <div style="float:left;"> | </div>                                 <div class="emailArticle" onmouseout="return(ETMouseOut());" onmouseover="return(ETMouseOver());" onclick="nbc.updatePrintCall(this);return(ET());">Email</div>
+                                 <div style="float:left;"> | </div>
+                                 <div class="printArticle" onmouseout="return(PTMouseOut());" onmouseover="return(PTMouseOver());" onclick="nbc.updatePrintCall(this);return(PT());">Print</div>
+                      </div>
+                   </div>
+                                      <div id="article-comments" itemprop="comment">
+                      <a name="comments"><span id="article-comments-header">Leave Comments</span></a>
+                      <div class="fb-comments" data-href="http://www.nbcwashington.com/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html" data-num-posts="6" data-width="650" style="clear:both;"></div>
+
+                   </div>
+                                                         
+
+
+
+
+
+
+
+          
+        
+        
+        
+           
+                                      
+                               </aside>
+</section>
+<div id="contentTrigger" class="clear"></div>
+<div id="loader"></div>
+<div id="cScrollIndicatorRect">
+    <div class="cScrollIndicatorContainer"><span id="cScrollIndicator"></span></div>
+</div>
+<div id="upwardScrollFixedRect">
+    <div class="upwardScrollContainer"><span id="upwardScrollArrow"></span></div>
+</div>
+            <div id="footer">
+        <script async src='//www.adreadytractions.com/rt/677801?p=59021'></script>
+    <div id="footerDiv">
+    <div id="footerLinks">
+       <div class="footCol">
+         <ul class="news">
+           <li class="header"><a href="/news/" name="&lpos=footer&lid=news">News</a></li>
+                                      <li><a href="/news/local/" title="Local" name="&lpos=footer&lid=local">Local</a></li>
+                          <li><a href="/news/national-international/" title="U.S. & World" name="&lpos=footer&lid=u.s. & world">U.S. & World</a></li>
+                          <li><a href="/news/sports" title="Sports" name="&lpos=footer&lid=sports">Sports</a></li>
+                          <li><a href="/news/health" title="Health" name="&lpos=footer&lid=health">Health</a></li>
+                          <li><a href="/news/local/287131541.html" title="Consumer" name="&lpos=footer&lid=consumer">Consumer</a></li>
+                          <li><a href="/news/tech/" title="Tech" name="&lpos=footer&lid=tech">Tech</a></li>
+                          <li><a href="/news/weird/" title="Weird" name="&lpos=footer&lid=weird">Weird</a></li>
+                          <li><a href="/news/local/Watch-News4-Livestream-Gentzler-Handly-Kammerer-Vance--311048071.html" title="Watch Live" name="&lpos=footer&lid=watch live">Watch Live</a></li>
+                                                  <li><a href="/blogs/first-read-dmv/" title="First Read - DMV" name="&lpos=footer&lid=first read - dmv">First Read - DMV</a></li>
+                          <li><a href="/blogs/capital-games/" title="Capital Games" name="&lpos=footer&lid=capital games">Capital Games</a></li>
+                                 </ul>
+       </div>
+       <div class="footCol">
+         <ul class="weather">
+          <li class="header"><a href="/weather/" name="&lpos=footer&lid=weather">Weather</a></li>
+                                      <li><a href="/weather/" title="Forecast" name="&lpos=footer&lid=forecast">Forecast</a></li>
+                          <li><a href="/weather/maps/" title="Maps & Radar" name="&lpos=footer&lid=maps & radar">Maps & Radar</a></li>
+                          <li><a href="/weather/severe-weather-alerts" title="Weather Alerts" name="&lpos=footer&lid=weather alerts">Weather Alerts</a></li>
+                          <li><a href="http://www.nbcwashington.com/weather/school-closings/" title="School Closings" name="&lpos=footer&lid=school closings">School Closings</a></li>
+                          <li><a href="/weather/stories/" title="Weather News" name="&lpos=footer&lid=weather news">Weather News</a></li>
+                                             </ul>
+       </div>
+       <div class="footCol">
+         <ul class="entertainment">
+          <li class="header"><a href="/entertainment/" name="&lpos=footer&lid=entertainment">Entertainment</a></li>
+                                      <li><a href="/entertainment/entertainment-news" title="Entertainment News" name="&lpos=footer&lid=entertainment news">Entertainment News</a></li>
+                          <li><a href="/entertainment/the-scene" title="The Scene" name="&lpos=footer&lid=the scene">The Scene</a></li>
+                          <li><a href="/events" title="Events" name="&lpos=footer&lid=events">Events</a></li>
+                                                  <li><a href="/blogs/worth-the-trip/" title="Worth The Trip" name="&lpos=footer&lid=worth the trip">Worth The Trip</a></li>
+                                    <li style="margin-top:10px;border-top:1px dotted #A2C5F4;padding-top:10px;"><a href="http://www.cozitv.com" target="_blank" title="CoziTV.com" name="&lpos=footer&lid=CoziTV.com">CoziTV.com</a></li>
+         </ul>
+       </div>
+       <div class="footCol">
+        <ul class="contact-us">
+          <li class="header"><a href="/contact-us/" name="&lpos=footer&lid=contact us">Contact Us</a></li>
+                                <li><a href="/contact-us/social-directory" title="Social Directory" name="&lpos=footer&lid=social directory">Social Directory</a></li>
+                      <li><a href="/contact-us/about-us/" title="About Us" name="&lpos=footer&lid=about us">About Us</a></li>
+                      <li><a href="/contact-us/community/" title="Community" name="&lpos=footer&lid=community">Community</a></li>
+                      <li><a href="/contact-us/tv-listings/" title="TV Listings" name="&lpos=footer&lid=tv listings">TV Listings</a></li>
+                      <li><a href="https://sjobs.brassring.com/tgwebhost/searchresults.aspx?PartnerId=25354&SiteId=5108&Function=LinkQuery&LinkId=3385148" title="Careers at News4" name="&lpos=footer&lid=careers at news4">Careers at News4</a></li>
+                      <li><a href="/on-air/about-us/Internships-at-NBC4-89614052.html" title="Internships" name="&lpos=footer&lid=internships">Internships</a></li>
+                    <li><a href="https://sjobs.brassring.com/tgwebhost/searchresults.aspx?PartnerId=25354&SiteId=5108&Function=LinkQuery&LinkId=3385148" title="Careers" name="Careers" target="_blank">Careers</a></li>
+                                                           </ul>
+       </div> 
+       <div class="footCol last">
+        <ul class="traffic">
+         <li class="header"><a href="/traffic/" name="&lpos=footer&lid=traffic" name="&lpos=footer&lid=[natl-dc]donald trump files $10 million lawsuit against jose andres">Traffic</a></li>
+                                                         </ul>
+       </div>
+     </div>
+     <div id="footerLogo">
+      <div class="right">
+        <div id="leftShare">
+          <ul>
+            
+                                    <li><a href="http://www.facebook.com/nbcwashingtondc" id="fb_footer" name="&lpos=footer&lid=facebook"></a></li>
+            <li><a href="http://www.twitter.com/$twId" id="tw_footer" name="&lpos=footer&lid=twitter"></a></li>
+                                                      <li><a href="https://instagram.com/nbcwashington" id="instagram_footer" target="_blank" name="&lpos=section navigation&lid=instagram button"></a></li>
+                                   
+            <li><a href="/mobile/" id="ph_footer" name="&lpos=footer&lid=mobile"></a></li>
+            <li><a href="/rss/" id="rss_footer" name="&lpos=footer&lid=rss"></a></li>
+            <li style="border:0px;"><a href="/newsletters/" id="em_footer" name="&lpos=footer&lid=newsletters"></a></li>
+          </ul>  
+          </div>
+        <div class="leftTerms about">
+          <a href="/send-feedback/" name="&lpos=footer&lid=send feedback">Send Feedback</a><a>|</a><a href="/terms/" name="&lpos=footer&lid=Terms of service">Terms of service</a><a>|</a><a href="http://www.nbcuniversal.com/privacy/" name="&lpos=footer&lid=Privacy policy">Privacy policy</a>
+        </div>
+      </div>
+      <div class="left">
+          <div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming" target="_blank">FCC Independent Programming Report</a></div>
+          <div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/news-and-information-programming">FCC News and Information Programming Report</a></div>
+          <div class="leftTerms" style="width:358px;"><a href="/non-profit-reports/NBC-Non-Profit-News-Partnership-Reports-138336674.html" name="&lpos=footer&lid=non-profit news partnership reports">NBC Non-Profit News Partnership Reports</a></div>
+          
+                                                    <div class="leftTerms"><a href="https://stations.fcc.gov/station-profile/wrc-tv" target="_blank">WRC Public Inspection File</a></div>
+                              <div class="leftTerms"><a href="/21stCenturySolutions/" target="_blank">21st Century Solutions</a></div>
+                                                  
+                    <!-- Evidon tag cid: 908 pid: 209-->
+          <a id="_bapw-link" href="#" class="leftTerms" target="_blank" style="cursor:pointer !important;text-decoration:none !important;float:left;margin-top:10px;color: #B6D4EE;font: 11px arial;"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;"/><span style="vertical-align:middle !important">AdChoices</span></a>
+          <script type="text/javascript">
+          (function() {
+            var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 209); ev.setAttribute('data-ev-tag-ocid', 908);
+            ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+          })();
+          </script>
+       </div>
+       <div id="leftCopy">
+          &copy; 2015 NBCUniversal Media, LLC. All rights reserved.
+        </div>
+     </div>
+  </div>
+</div>
+<script type="text/javascript">
+if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+  $('body #footer').remove();
+  document.write('<iframe src="http://www.nbcwashington.com/templates/nbc_iframe_footer_xfinity" id="nbc_xfinity_footer" height="170" frameborder="0" scrolling="no" style="height:170px;width:100%;overflow:hidden;display:block;"></iframe>');
+};
+</script>
+            </div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    nbc.updateTopStories();
+    try {
+        if($("#article-sec_0 .embedded.gallery").length != 0 ){
+            var a2Galleries = 0;
+            $("#article-sec_0 .embedded.gallery").each(function(a, b) {
+                $(this).attr("id", "pgA2-" + a);
+                $(this).attr("data-galleyindex", a);
+                var thisA2GalleryTitle = $(this).data("title");
+                var thisA2GalleryID = parseInt($(this).data('cid'));
+                console.log("GALLERY CODE | "+thisA2GalleryID);
+                var thisA2GalleryURL = $(this).data("permloc");
+                console.log("GALLERY CODE | "+thisA2GalleryURL);
+                //thisA2GalleryID = thisA2GalleryID[thisA2GalleryID.length-1].replace(".html","");
+                thisA2GalleryTitle = thisA2GalleryTitle.replace('"','&quot;');
+                $("#pgA2-" + a).click(function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    if($(this).find(".pg_article").length == 0){
+                        pg.init("#pgA2-" + a, thisA2GalleryID, thisA2GalleryURL, thisA2GalleryTitle, true, "a2","", true);
+                        return false;
+                    }
+                });
+                a2Galleries = a2Galleries + 1;
+            });
+
+        }
+    } catch(e) {console.warn(e);}
+});
+</script>
+
+
+
+
+
+<script language="Javascript" >var js="0.0";</script><script language="Javascript1.0" >js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2" >js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4" >js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=320316391";_q+="&7=521042";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=320316391&7=521042&25=0&18=0.6626656407953728">
+</noscript>
+ 
+
+      
+
+ 
+
+
+
+            
+               
+
+
+
+
+
+                                                                                                                                  
+                        	                 			                                                                               
+        
+                                            
+	            		   		
+		                                                    	                 			                                                                           
+        
+                                                                                                                                                                                                                                                                                    
+	            		   		
+		                                                    	                 			                                                                           
+        
+                                                                                                                                                                                                                                                                              
+	            		   		
+		                               	                                    	             	             	             	             	             	             	             	             	             	             	             	             	             	             	             	             	             	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+
+
+ 
+
+
+
+
+
+
+
+
+      
+
+
+	
+		       
+
+
+  
+
+
+                    
+              
+                                                                                                                                                                                                                                                                                                                                                                                                                  
+                             
+
+
+
+
+  
+                            
+    
+   
+
+
+
+             
+
+
+
+
+
+
+                                                                                                      
+
+
+
+
+ 
+  
+
+
+ 
+          
+  
+        
+
+         
+  
+        
+  
+  
+
+             
+
+
+
+
+
+
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+
+
+      
+
+
+
+
+                                                                                                                                                                                                                    
+
+
+
+                                                                                                                                                                                                                                                                                                                            
+
+         
+      
+
+                                                                                                                                             
+                                                                                              
+
+
+                                                                                                                                                                                                                    
+
+
+
+            
+    
+        
+      
+            <script language="JavaScript">
+
+                    nbcu.pageName="news:local:detail content page";
+            nbcu.pageType=""; // used for 404 Error message page only
+nbcu_siteID="nbcwashington";
+nbcu.list1="weather:news newsletter sign up";
+nbcu.prop8=nbcu_prop8; // division
+nbcu.prop9=nbcu_prop9; // station market
+nbcu.prop10=nbcu_prop10; // call letters
+nbcu.prop21="320316391";// content id
+  nbcu.prop22="Donald Trump Files $10 Million Lawsuit Against Jose Andres"; // content title
+      nbcu.prop23="article"; // content type
+  nbcu.prop24=""; // content group
+nbcu.prop25="Trey Sherman"; // author name
+nbcu.prop26="08/01/2015";        nbcu.prop28=""; //content source
+nbcu.prop30 = "Washington DC";
+
+nbcu.eVar70 = "Jul 31, 2015";
+/* E-commerce Variables */
+if(typeof nbc.articlePage.continuousScroll !== "undefined") {
+  if(nbc.articlePage.continuousScroll) {
+      nbcu.eVar56 = "batch 1";
+        nbcu.eVar58 = "1";
+      nbcu.eVar57 = 1;
+      nbcu.events="event1,event2,event8,event18";; // filled with an event # as needed - example event1, or event19
+  } else {
+     nbcu.events="event2"; 
+  }
+} else {
+    nbcu.events="event2";
+}
+nbcu.eVar1 = 'Non-Registered'; // Registration   
+// Xfinity Omniture Value
+if(typeof xfinityOmniValue != "undefined") {
+if(xfinityOmniValue == "xfinity"){
+  nbcu.prop29=xfinityOmniValue;
+  nbcu.eVar29=xfinityOmniValue;
+} else{
+  nbcu.prop29="";
+  nbcu.eVar29="";
+}
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+      var s_code=nbcu.t();if(s_code)document.write(s_code)//-->
+   </script>
+<script language="JavaScript">if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')</script>
+
+        
+      <script src="http://www.nbcudigitaladops.com/hosted/global.js"></script>
+      <script type="text/javascript">
+  //<![CDATA[
+  
+  var _sf_async_config={uid:15527,domain:"www.nbcwashington.com"};
+  
+       _sf_async_config.path = "/news/local/Donald-Trump-Files-10-Million-Lawsuit-Against--320316391.html";
+    
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+  //for newsbeat
+      _sf_async_config.sections = "news,local";
+                  _sf_async_config.authors = "Trey Sherman";
+      }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+  
+  //]]> 
+  </script>
+  
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  
+  <div id="fb-root" style="display:none;"></div>
+    <script type="text/javascript">
+  //<![CDATA[
+  var api_key = "f65d3e874bf3c281499884157f254d87";
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : "168641655540", // App ID
+        version    : 'v2.0',
+        channelUrl : '//www.nbcwashington.com/templates/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+              FB.Event.subscribe('xfbml.render', function(){
+           if(nbc.articlePage.continuousScroll){
+               jQuery.waypoints('refresh');
+           }
+        });
+            // Additional initialization code here
+    };
+  
+    // Load the SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document));
+  //]]>
+  </script>
+   
+
+          
+    <!--Visual Revenue Reader Response Tracking Script (v6) -->
+  <script type="text/javascript">
+    var _vrq = _vrq || [];
+    _vrq.push(['id', 471]);
+    _vrq.push(['automate', false]);
+    _vrq.push(['track', function(){}]);
+    (function(d, a){
+      var s = d.createElement(a),
+      x = d.getElementsByTagName(a)[0];
+      s.async = true;
+      s.src = 'http://a.visualrevenue.com/vrs.js';
+      x.parentNode.insertBefore(s, x);
+    })(document, 'script');
+  </script>
+  <!-- End of VR RR Tracking Script - All rights reserved -->
+    <script type="text/javascript">
+    $("#masthead form#searchForm input#searchText, #searchPage #fullSearchForm input#fullSearchText").bind("keyup",function(){
+      this.value = this.value.replace(/[^a-zA-Z0-9\'\"\s\-]/g, '');
+  });
+  </script>
+    
+                <script src="http://content.dl-rms.com/rms/22387/nodetag.js"></script>
+             </body>
+</html>
+
+

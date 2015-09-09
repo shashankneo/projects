@@ -1,0 +1,1916 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 lte-ie9 isie" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js html-device--desktop" lang="en" itemscope itemtype="http://schema.org/NewsArticle" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Turkey &#x27;has no plans for ground troops&#x27; in Syria - ITV News</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"87de30ced4","applicationID":"4335979","transactionName":"dg1cERBZXVhdQh5EFVoQWwARGUJcV0c=","queueTime":0,"applicationTime":175,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+
+<!--[if lt IE 9&(!IEMobile)]>
+  <link href="/news/assets/application-lt-ie9-b519a4f809c485e0f25ca98a4ab2bef1.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <link href="/news/assets/application-752583418df7c96c6e6115232a7409e7.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rss" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="TheS07Qpy14onotADII74zONMYyL6q1yfbL1o7bzHdI=" name="csrf-token" />
+<script src="/news/assets/modernizr-a7419295f4f1209213d5240d42bdba86.js" type="text/javascript"></script>
+
+<script>ns_loadingtime1=(new Date()).getTime()</script>
+
+<meta name="description" content="Read Turkey &#x27;has no plans for ground troops&#x27; in Syria latest on ITV News. All the Monday 27th July 2015 news" />
+<meta name="keywords" content="Turkey &#x27;has no plans for ground troops&#x27; in Syria, Monday 27th July 2015, story, ITV News" />
+<meta name="canonical" content="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" />
+<meta name="apple-itunes-app" content="app-id=907113454">
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<meta property="fb:app_id" content="201017720004512">
+<meta property="fb:admins" content="222303292">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ITV News">
+<meta property="og:url" content="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/">
+<meta property="og:title" content="Turkey &#x27;has no plans for ground troops&#x27; in Syria">
+<meta property="og:description" content="There are no plans to send ground troops into Syria, the Turkish Prime Minister has said.
+
+The statement follows last week&#x27;s suicide bombing in the Turkish town of Suruc, to which the country responded with operations against Islamic State and PKK Kurdish militants in Iraq and Syria.
+
+
+
+
+">
+
+  <meta property="og:image" content="http://news.images.itv.com/image/file/725497/mobile_article_img.jpg">
+
+<!-- Twitter card -->
+<meta name="twitter:site" content="@itvnews">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Turkey &#x27;has no plans for ground troops&#x27; in Syria">
+<meta name="twitter:description" content="There are no plans to send ground troops into Syria, the Turkish Prime Minister has said.
+
+The statement follows last week&#x27;s suicide bombing in the Turkish town of Suruc, to which the country responded with operations against Islamic State and PKK Kurdish militants in Iraq and Syria.
+
+
+
+
+">
+
+  <meta property="twitter:image" content="http://news.images.itv.com/image/file/725497/mobile_article_img.jpg">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.itv.com/news/assets/mobile/high/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="shortcut icon" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+
+    <style>
+    #content__hero__image--85271 {
+      background-image: url('http://news.images.itv.com/image/file/725497/mobile_article_img.jpg');
+    }
+    @media (min-width: 37.5em) {
+      #content__hero__image--85271  {
+        background-image: url('http://news.images.itv.com/image/file/725497/image_update_img.jpg');
+      }
+    }
+    @media (min-width: 50em) {
+      #content__hero__image--85271  {
+        background-image: url('http://news.images.itv.com/image/file/725497/large_img.jpg');
+      }
+    }
+    </style>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <style>
+      #content__hero__image--85271  {
+        background-image: url('http://news.images.itv.com/image/file/725497/image_update_img.jpg');
+      }
+    </style>
+    <![endif]-->
+
+
+  <link rel="stylesheet" href="//www.itvstatic.com/assets/css/fonts.css">
+
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-f01986ac5b9472fd5801871aabf800be.css">
+  <!--<![endif]-->
+
+  <!--[if lt IE 9&(!IEMobile)]>
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-lt-ie9-f38f662f1a45ba9800ca31873113fea5.css">
+  <![endif]-->
+
+</head>
+
+<body class="stories-show " id="stories" data-action="show" data-ad-id="news.national.story">
+
+
+  <div id="itv-header-page-fragment" class="itv-page-fragment">
+  <div class="itv-glob-nav">
+    <header>
+      <div class="itv-glob-nav__inner">
+        <div class="itv-glob-nav__logo">
+          <a class="itv-glob-nav__logo-link icon--itv-glob-head-itv" href="/">ITV</a>
+        </div>
+
+        <nav>
+          <div class="itv-glob-nav__nav" id="skip_to_navigation">
+            <a class="itv-glob-nav__toggle" href="#" id="itv-glob-nav-dropdown">
+              <span class="itv-glob-nav__toggle-icon"></span>
+              <span class="itv-glob-nav__visuallyhidden">Toggle navigation</span>
+</a>
+            <ul class="itv-glob-nav__list">
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="https://www.itv.com/itvplayer/">Player</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvshows/">Shows</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvguide/">Guide</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/news/">News</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/sport/">Sport</a>
+              </li>
+              <li class="itv-glob-nav__item itv-glob-nav__item--with-dropdown">
+                <a class="itv-glob-nav__link itv-glob-nav__dropdown-toggler" href="#" id="itv-glob-nav-more-dropdown">More</a>
+
+                <ul class="itv-glob-nav__dropdown-list">
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.jmldirect.com/" rel="nofollow">Shop</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itv.com/games/" rel="nofollow">Games</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itvbingo.com/" rel="nofollow">Bingo</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        
+          <div id="itv-glob-search" class="itv-glob-search  itv-glob-search--no-mobile">
+            <button id="itv-glob-search-toggle" class="itv-glob-search__toggle icon--itv-glob-search-alt-white">Search</button>
+            <form name="search_search" class="itv-glob-search__form" method="get" action="/news/search/">
+              <div class="itv-glob-search__field">
+                <input class="itv-glob-search__input" id="q" name="q" placeholder="Search" type="text" />
+                <button class="itv-glob-search__button icon--itv-glob-search-alt-white" type="submit">Search</button>
+              </div>
+            </form>
+          </div>
+      </div>
+    </header>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    !function(){function e(e,t,n){e&&(e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n))}function t(e){return function(t){n(t,e.parentNode)}}function n(e,t){var n=t.className,a=/\b ? is-open\b/;for(m=0;m<c.length;m++)t!==c[m].parentNode&&(c[m].parentNode.className=c[m].parentNode.className.replace(a,""));t.className=n.match(a)?n.replace(a,""):n+" is-open",e.preventDefault?e.preventDefault():e.returnValue=!1}var a=document.forms.search_search,c=[document.getElementById("itv-glob-nav-dropdown"),document.getElementById("itv-glob-nav-more-dropdown")],o=!!a,r="placeholder"in document.createElement("input");if(o){if(!r){var l=a.q,u=l.getAttribute("placeholder");l.value=u,e(l,"focus",function(){l.value==u&&(l.value="")}),e(l,"blur",function(){""==l.value&&(l.value=u)})}c.push(document.getElementById("itv-glob-search-toggle"))}var d,s,m,v,i,g=["click","touchstart"];for(m=0;m<c.length;m++)for(s=c[m],d=t(s),i=0;i<g.length;i++)v=g[i],e(s,v,d)}(),function(){var e=document.getElementById("itv-header-page-fragment");e&&document.createElementNS&&document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect&&(e.className=e.className+" svg")}();
+</script>
+
+  
+  
+      <div class="background-takeover-container">
+        <div class="background-takeover">
+          <script src="http://tom.itv.com/itv/jserver/random=42777/site=itv/area=news.national.story/position=1/adtype=any/size=pagetakeover/contentid=2015.07.27.turkey.has.no.plans.for.ground.troops.in.syria/viewid=1438548900"></script>
+        </div>
+      </div>
+    
+
+
+  <div class="header-apron">
+    
+  </div>
+
+  <nav class="main-nav ">
+  <ul class="main-nav__inner">
+    <li class="main-nav__item">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--news"><img alt="News" src="/news/assets/icons/itv-news-bed4fe0b312ab6c9b3118a0107bfa4aa.svg" /></a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--bordered">Top stories</a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Your area
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner region-selector">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/" class="main-nav__item-link is-active">National</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/border/" class="main-nav__item-link ">Border</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/tyne-tees/" class="main-nav__item-link ">Tyne Tees</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/calendar/" class="main-nav__item-link ">Calendar</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/granada/" class="main-nav__item-link ">Granada</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/" class="main-nav__item-link ">Central</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/anglia/" class="main-nav__item-link ">Anglia</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/london/" class="main-nav__item-link ">London</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/meridian/" class="main-nav__item-link ">Meridian</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/wales/" class="main-nav__item-link ">Wales</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/west/" class="main-nav__item-link ">West Country (E)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/westcountry/" class="main-nav__item-link ">West Country (W)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/channel/" class="main-nav__item-link ">Channel</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Topics
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/world/" class="main-nav__item-link ">World</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/politics/" class="main-nav__item-link ">Politics</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/election2015/" class="main-nav__item-link ">Election 2015</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/unspun/" class="main-nav__item-link ">Unspun</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/business/" class="main-nav__item-link ">Business</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/money/" class="main-nav__item-link ">Money</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/health/" class="main-nav__item-link ">Health</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/education/" class="main-nav__item-link ">Education</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/entertainment/" class="main-nav__item-link ">Entertainment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/royal/" class="main-nav__item-link ">Royal</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/technology/" class="main-nav__item-link ">Technology</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/sport/" class="main-nav__item-link ">Sport</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/and-finally/" class="main-nav__item-link ">And Finally</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/environment/" class="main-nav__item-link ">Environment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/science/" class="main-nav__item-link ">Science</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/travel/" class="main-nav__item-link ">Travel</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/religion/" class="main-nav__item-link ">Religion</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/economy/" class="main-nav__item-link ">Economy</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/weather/" class="main-nav__item-link ">Weather</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/countryside/" class="main-nav__item-link ">Countryside</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/employment/" class="main-nav__item-link ">Employment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/animals/" class="main-nav__item-link ">Animals</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/consumer/" class="main-nav__item-link ">Consumer</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/weather/" class="main-nav__item-link main-nav__item-link--bordered">Weather</a>
+    </li>
+
+  </ul>
+</nav>
+
+
+  <a id="containerTarget" class="visuallyhidden" tabindex="-1" href="#containerTarget">Main page content</a>
+
+  
+
+
+  
+
+  <div role="main" class="site-container clearfix content-right ">
+    
+
+
+
+
+
+
+
+
+
+<div class="container container--grey container--with-sidebar container--grey-tall container--no-border">
+
+  <div class="content content--with-sidebar">
+
+    <div class="content__main">
+
+        <div class="content__hero content__hero--with-image">
+          <div id="content__hero__image--85271" class="content__hero__image"></div>
+        </div>
+
+
+      <div class="content__main__responsive content__main__responsive--no-space">
+        <div class="content__main__responsive__inner">
+
+          <article class="story">
+
+            <div class="story__labels">
+              <ol class="labels labels--grow">
+                <li class="labels__item labels__item--update-count">
+                  15 updates
+                </li>
+                <li class="labels__item labels__item--time">
+                  <time datetime="2015-07-27T09:31:16+01:00">
+                    27 July 2015 at  9:31am
+                  </time>
+                </li>
+              </ol>
+            </div>
+
+
+            <header class="story__header">
+              <h1 class="story__title">
+                
+                Turkey &#x27;has no plans for ground troops&#x27; in Syria
+</h1>
+              <div class="story__header-summary">
+                <p>There are no plans to send ground troops into Syria, the Turkish Prime Minister has said.</p>
+
+<p>The statement follows last week&#39;s suicide bombing in the Turkish town of Suruc, to which the country responded with operations against Islamic State and PKK Kurdish militants in Iraq and Syria.</p>
+
+              </div>
+
+              <ul class="share share--with-background">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkey &#x27;has no plans for ground troops&#x27; in Syria&amp;url=http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+            </header>
+
+            <article class="stream">
+
+              <header class="stream-header">
+                <h2 class="stream-header__text">Live updates</h2>
+              </header>
+
+              <div class="content__main__responsive__inner">
+
+                <div id="stream" class="stream__updates" data-channelname=updates-story-85271 data-more_in_stream="true">
+
+  <div class="stream__updates__content">
+      <article id="turkish-airstrikes-on-kurdish-targets-in-northern-iraq_497138" class="update" data-key="Update:497138">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-29T09:51:51+01:00">
+             9:51 am, Wed 29 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/">Turkish airstrikes on Kurdish targets in northern Iraq
+</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>Turkish air strikes hit six Kurdish militant targets in Turkey and northern Iraq overnight, a statement from the prime minister&#39;s office said.</p>
+
+<p>Turkish authorities have also detained a total of 1,302 people in 39 provinces as part of a crackdown targeting members of Islamic State, the Kurdistan Workers Party (PKK) and illegal leftist groups, the statement said.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkish airstrikes on Kurdish targets in northern Iraq
+&amp;url=http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-29/turkish-airstrikes-on-kurdish-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="nato-to-discuss-turkish-military-operations_496830" class="update" data-key="Update:496830">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-28T06:07:42+01:00">
+             6:07 am, Tue 28 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/">Nato to discuss Turkish military operations</a></h2>
+  </header>
+
+  <div class="item__content">
+    <figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.1875%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="he Dag military post which was attacked by Islamic State militants on July 23." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/726445/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/726445/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/726445/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="he Dag military post which was attacked by Islamic State militants on July 23." src="http://news.images.itv.com/image/file/726445/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">he Dag military post which was attacked by Islamic State militants on 23 July. <cite>Credit:  Reuters/Murad Sezer</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>Turkey has called a meeting of its Nato allies to discuss threats to its security as well as its airstrikes on so-called Islamic State fighters and Kurdish forces.</p>
+
+<p>The conference in Brussels will see the allies discuss joint US and Turkish plans or a military campaign to push the radical group out of a strip of Syrian territory along the Turkish border, <a href="http://www.itv.com/news/2015-07-27/america-and-turkey-are-working-on-plans-to-sweep-islamic-state-fighters-from-a-strip-of-land-along-the-turkish-border/" target="_blank"><strong>creating an &quot;Islamic State-free zone&quot;</strong></a>.</p>
+
+<p>In what could be a problematic development for Nato, Turkish foreign minister Mevlut Cavusoglu has refused to draw a distinction between the Islamic State group and the PKK.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Nato to discuss Turkish military operations&amp;url=http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-28/nato-to-discuss-turkish-military-operations/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article class="update ad-update any js-ad">
+      <div class="ad mpu any" data-key="Update:496830">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=819/site=itv/area=news.national.story/position=1/adtype=any/size=300x250/categories=world/topics=turkey/contentid=2015.07.28.nato.to.discuss.turkish.military.operations/viewid=4304"></script>
+      </div>
+    </article>
+      <article id="turkey-denies-bombing-kurdish-fighters-instead-of-is_496623" class="update" data-key="Update:496623">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-27T10:16:39+01:00">
+            10:16 am, Mon 27 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/">Turkey denies bombing Kurdish fighters instead of IS</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>Turkey did not bomb Kurdish fighters in northern Syria, a foreign ministry official has said.</p>
+
+<p>It follows <a href="http://www.itv.com/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/" target="_blank"><strong>claims by the Kurdish People&#39;s Protection Unit</strong></a> militia that the Turkish army shelled its positions in a village on the outskirts of the IS-held town of Jarablus.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkey denies bombing Kurdish fighters instead of IS&amp;url=http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-denies-bombing-kurdish-fighters-instead-of-is/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="turkey-investigating-claims-kurdish-fighters-targeted_496613" class="update" data-key="Update:496613">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-27T09:47:58+01:00">
+             9:47 am, Mon 27 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/">Turkey investigating claims Kurdish fighters targeted</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>Claims that the Turkish military has been <a href="http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/" target="_blank"><strong>targeting Kurdish fighters</strong></a> instead of Islamic State insurgents are being investigated by the Government.</p>
+
+<p>A Turkish government official said the political wing of the Kurdish People&#39;s Protection Unit was outside the scope of its current military operations.</p>
+
+<p>The official said: &quot;The ongoing military operation seeks to neutralise imminent threats to Turkey&#39;s national security and continues to target Islamic State in Syria and the PKK in Iraq.&quot;</p>
+
+<p>It follows claims from Kurdish fighters that the Turkish army had shelled its positions in a village on the outskirts of the IS-held town of Jarablus, in north-western Syria.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkey investigating claims Kurdish fighters targeted&amp;url=http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-investigating-claims-kurdish-fighters-targeted/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is_496592" class="update" data-key="Update:496592">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-27T08:08:10+01:00">
+             8:08 am, Mon 27 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/">YPG fighters accuse Turkey of targeting them instead of IS</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>Kurdish fighters have accused Turkey of deliberately targeting them instead of focusing on the &quot;terrorists&quot; of the so-called Islamic State.</p>
+
+<p>The Kurdish People&#39;s Protection Unit (YPG) militia claimed the Turkish army had shelled its positions in a village on the outskirts of the IS-held town of Jarablus, in north-western Syria.</p>
+
+<p>In a statement, the fighters urged Ankara to halt its &quot;aggression&quot; against their group.</p>
+
+<p>It comes after Turkish F-16 fighter jets reportedly hit Kurdistan Workers Party (PKK) targets in northern Iraq yesterday, as part of an ongoing operation against both Kurdish militants and Islamic State.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=YPG fighters accuse Turkey of targeting them instead of IS&amp;url=http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-27/ypg-fighters-accuse-turkey-of-targeting-them-instead-of-is/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="turkey-has-no-plans-to-send-ground-troops-into-syria_496539" class="update" data-key="Update:496539">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-27T00:57:01+01:00">
+            12:57 am, Mon 27 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/">Turkey has &#x27;no plans to send ground troops into Syria&#x27;</a></h2>
+  </header>
+
+  <div class="item__content">
+    <figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.01253427340384%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Turkish Prime Minister Ahmet Davutoglu" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/725373/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/725373/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/725373/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Turkish Prime Minister Ahmet Davutoglu" src="http://news.images.itv.com/image/file/725373/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Turkish Prime Minister Ahmet Davutoglu <cite>Credit: Reuters</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>There are no plans to send ground troops into Syria, the Turkish Prime Minister has said.</p>
+
+<p>In an interview with Turkish media, Prime Minister Ahmet Davutoglu also said he agrees with US plans to provide air cover for moderate rebels fighting the so-called Islamic State there.</p>
+
+<p>Mr Davutoglu is also reported as saying that the Syrian Kurdish PYD  could &quot;have a place in the new Syria&quot; if it did not disturb  Turkey, cut all relations with President Bashar al-Assad&#39;s administration and cooperated with opposition forces</p>
+
+</div>
+<div class="item__content-block item__content-block--markdown">
+  <p><a href="http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/" target="_blank"><strong>More: Nato to meet to discuss security at Turkey&#39;s request</strong></a></p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkey has &#x27;no plans to send ground troops into Syria&#x27;&amp;url=http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-27/turkey-has-no-plans-to-send-ground-troops-into-syria/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article class="update ad-update any js-ad">
+      <div class="ad mpu any" data-key="Update:496539">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=84295/site=itv/area=news.national.story/position=2/adtype=any/size=300x250/categories=world/topics=turkey/contentid=2015.07.27.turkey.has.no.plans.to.send.ground.troops.into.syria/viewid=31628"></script>
+      </div>
+    </article>
+      <article id="turkish-fighter-jets-hit-pkk-targets-in-northern-iraq_496536" class="update" data-key="Update:496536">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-26T19:43:12+01:00">
+             7:43 pm, Sun 26 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/">Turkish fighter jets &#x27;hit PKK targets in northern Iraq&#x27;</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>Turkish F-16 fighter jets have reportedly hit Kurdistan Workers Party (PKK) targets in northern Iraq on Sunday, Turkish security sources have said.</p>
+
+<p>It confirmed it will be the latest attack in Ankara&#39;s operation against Kurdish militants and Islamic State.</p>
+
+<p>The warplanes, which hit targets in Hakurk, northern Iraq, were scrambled from the air base in Diyarbakir, the sources said.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkish fighter jets &#x27;hit PKK targets in northern Iraq&#x27;&amp;url=http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-26/turkish-fighter-jets-hit-pkk-targets-in-northern-iraq/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="nato-to-meet-to-discuss-security-at-turkeys-request_496519" class="update" data-key="Update:496519">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-26T18:11:48+01:00">
+             6:11 pm, Sun 26 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/">Nato to meet to discuss security at Turkey&#x27;s request</a></h2>
+  </header>
+
+  <div class="item__content">
+    <div class="item__content-block item__content-block--markdown">
+  <p>NATO ambassadors will meet on Tuesday to discuss security at the request of Turkey after <a href="http://www.itv.com/news/story/2015-07-21/suspect-identified-over-turkey-suicide-bomb-attack/" target="_blank">last week&#39;s suicide bombing</a> there and Turkish security operations against Islamic State and PKK Kurdish militants in Iraq and Syria.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Nato to meet to discuss security at Turkey&#x27;s request&amp;url=http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-26/nato-to-meet-to-discuss-security-at-turkeys-request/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="turkey-calls-for-nato-to-discuss-is-and-pkk-strikes_496518" class="update" data-key="Update:496518">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-26T17:59:30+01:00">
+             5:59 pm, Sun 26 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/">Turkey calls for Nato to discuss IS and PKK strikes</a></h2>
+  </header>
+
+  <div class="item__content">
+    <figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.1875%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Air strike on IS militants " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/725278/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/725278/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/725278/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Air strike on IS militants " src="http://news.images.itv.com/image/file/725278/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Turkey wants Nato to discuss its security operations against IS and the PKK. <cite>Credit: Reuters</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>Turkey has asked Nato to hold an extraordinary  council meeting next week to discuss its recent security operations against Islamic State and PKK Kurdish militants, the foreign ministry has said.</p>
+
+<p>The meeting is likely to be held on Tuesday, it said in a 
+statement. </p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/turkey/">Turkey</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Turkey calls for Nato to discuss IS and PKK strikes&amp;url=http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-26/turkey-calls-for-nato-to-discuss-is-and-pkk-strikes/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+      <article id="air-strikes-continue-against-is-in-iraq-and-syria_496381" class="update" data-key="Update:496381">
+
+  <header class="update__header">
+    <section class="update__labels">
+      <ol class="labels">
+
+
+
+        <li class="labels__item labels__item--time">
+          <time datetime="2015-07-25T17:22:49+01:00">
+             5:22 pm, Sat 25 Jul 2015
+          </time>
+        </li>
+
+      </ol>
+    </section>
+
+    <h2 class="update__title"><a href="/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/">Air strikes continue against IS in Iraq and Syria
+</a></h2>
+  </header>
+
+  <div class="item__content">
+    <figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:56.00000000000001%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Map of Turkey, Syria and Iraq" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/724750/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/724750/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/724750/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Map of Turkey, Syria and Iraq" src="http://news.images.itv.com/image/file/724750/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">The United States and allies have targeted Islamic State with 22 air strikes in Iraq and nine in Syria. <cite>Credit: Google Maps</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>The United States and allies have targeted Islamic State militants with 22 air strikes in Iraq on Friday and nine in Syria, the Command Joint Task Force
+said.</p>
+
+<p>Seven of the strikes were near the Iraqi city of Fallujah 
+and hit bridges, a bomb-making facilities and other strategic targets. </p>
+
+<p>Others hit targets near the cities of Al Huwayjah, Bayji,
+Habbaniyah, Makmur, Mosul, Ramadi, Sinjar and Tel Afar and hit 
+tactical units, weapons and other assets.</p>
+
+<p>In Syria, IS fighting positions, tactical units and equipment 
+were targeted by air strikes near Al Hasakah, Ar Raqqah, Dayr Az and 
+Kobani, a statement from The Command Joint Task Force said.</p>
+
+</div>
+
+  </div>
+
+
+
+    <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/iraq/">Iraq</a>
+        </li>
+        <li class="tag-list__tag">
+          <a href="/news/topic/syria/">Syria</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+  <div class="update__share">
+    <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Air strikes continue against IS in Iraq and Syria
+&amp;url=http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2015-07-25/air-strikes-continue-against-is-in-iraq-and-syria/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+  </div>
+
+</article>
+
+  </div>
+  
+  <a href="/news/story/2015-07-27/turkey-has-no-plans-for-ground-troops-in-syria/?page=2" class="button-link--load-more" id="loadMore">Load more updates</a>
+
+  <a href="#top" class="back-to-top">
+  <span class="visuallyhidden">Back to top</span>
+</a>
+</div>
+
+
+              </div>
+
+            </article>
+
+              <section class="content-listing content-listing--highlights">
+      <h2 class="content-listing__title">
+        Latest ITV News reports
+      </h2>
+
+    <div class="content-listing__columns columns">
+      <ul class="content-listing__items">
+          <li class="content-listing__item content-listing__item--highlight column">
+            <article class="content-listing__item-content">
+
+              <a href="/news/2015-07-24/turkey-resume-air-strikes-on-islamic-state-tonight/">
+                <div class="content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Map of Turkey/Syria border" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/724406/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/724406/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/724406/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/724406/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Map of Turkey/Syria border" src="http://news.images.itv.com/image/file/724406/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+</a>
+              <div class="content-listing__item-details">
+                <h3 class="content-listing__item-title">
+                  <a href="/news/2015-07-24/turkey-resume-air-strikes-on-islamic-state-tonight/" class="content-listing__item-link">Turkey resume air strikes on Islamic State</a>
+                </h3>
+                  <p class="content-listing__item-summary">
+                    Turkey have resumed air strikes on so-called Islamic State targets in Syria.
+                  </p>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+
+          </article>
+
+        </div>
+      </div>
+
+    </div>
+
+    <aside class="content__aside">
+  <div class="content__aside__inner">
+      <div class="add-sidebar any js-ad">
+    
+      <div class="ad mpu any" data-key="Story:85271">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=38072/site=itv/area=news.national.story/position=1/adtype=any/size=300x250/categories=world/topics=turkey/contentid=2015.07.27.turkey.has.no.plans.for.ground.troops.in.syria/viewid=1438548900"></script>
+      </div>
+    
+  </div>
+
+      <section class="small-content-listing small-content-listing--top-stories">
+    <h2 class="small-content-listing__title">
+      Top stories
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/theresa-may-and-bernard-cazeneuve-call-on-eu-nations-over-migrant-crisis/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="May and Cazeneuve call on EU over migrant crisis " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730698/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730698/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730698/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730698/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="May and Cazeneuve call on EU over migrant crisis " src="http://news.images.itv.com/image/file/730698/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/theresa-may-and-bernard-cazeneuve-call-on-eu-nations-over-migrant-crisis/" class="small-content-listing__item-link">May and Cazeneuve call on EU over migrant crisis </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/doping-claims-among-many-as-third-of-olympic-and-world-championships-medals-including-55-golds-according-to-report/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="&#x27;Doping claim in Olympic and world championships medals&#x27;" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730704/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730704/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730704/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730704/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="&#x27;Doping claim in Olympic and world championships medals&#x27;" src="http://news.images.itv.com/image/file/730704/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/doping-claims-among-many-as-third-of-olympic-and-world-championships-medals-including-55-golds-according-to-report/" class="small-content-listing__item-link">&#x27;Doping claim in Olympic and world championships medals&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/labours-lord-soley-suspend-rogue-peers-immediately/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Labour&#x27;s Lord Soley: Suspend rogue peers immediately " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730694/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730694/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730694/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730694/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Labour&#x27;s Lord Soley: Suspend rogue peers immediately " src="http://news.images.itv.com/image/file/730694/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/labours-lord-soley-suspend-rogue-peers-immediately/" class="small-content-listing__item-link">Labour&#x27;s Lord Soley: Suspend rogue peers immediately </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/downton-abbey-the-movie-would-be-wonderful-producer-says/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Downton Abbey the movie &#x27;would be wonderful&#x27; - producer " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730699/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730699/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730699/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730699/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Downton Abbey the movie &#x27;would be wonderful&#x27; - producer " src="http://news.images.itv.com/image/file/730699/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/downton-abbey-the-movie-would-be-wonderful-producer-says/" class="small-content-listing__item-link">Downton Abbey the movie &#x27;would be wonderful&#x27; - producer </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/church-of-england-bishop-slams-cameron-for-describing-migrants-as-a-swarm/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Bishop criticises PM for describing migrants as &#x27;swarm&#x27; " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730695/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730695/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730695/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730695/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Bishop criticises PM for describing migrants as &#x27;swarm&#x27; " src="http://news.images.itv.com/image/file/730695/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/church-of-england-bishop-slams-cameron-for-describing-migrants-as-a-swarm/" class="small-content-listing__item-link">Bishop criticises PM for describing migrants as &#x27;swarm&#x27; </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="http://www.itv.com/news/story/2015-08-01/plane-crashes-at-carfest-motoring-event-during-display/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Festival to continue despite pilot death in stunt plane crash" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730703/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730703/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730703/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730703/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Festival to continue despite pilot death in stunt plane crash" src="http://news.images.itv.com/image/file/730703/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  <span class="play-brightcove-video  video--is-small"><span class="visuallyhidden">Play video</span></span>
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="http://www.itv.com/news/story/2015-08-01/plane-crashes-at-carfest-motoring-event-during-display/" class="small-content-listing__item-link">Festival to continue despite pilot death in stunt plane crash</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/unseen-lowry-painting-to-go-on-show-to-the-public-for-the-first-time/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Lowry painting to be shown to public for the first time" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730706/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730706/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730706/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730706/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Lowry painting to be shown to public for the first time" src="http://news.images.itv.com/image/file/730706/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/unseen-lowry-painting-to-go-on-show-to-the-public-for-the-first-time/" class="small-content-listing__item-link">Lowry painting to be shown to public for the first time</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-08-02/emmerdale-star-anthony-quinlan-reveals-he-split-his-trousers-in-front-of-cast-and-crew-during-filming/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Emmerdale star says he split his trousers during filming" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730693/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730693/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730693/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730693/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Emmerdale star says he split his trousers during filming" src="http://news.images.itv.com/image/file/730693/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-08-02/emmerdale-star-anthony-quinlan-reveals-he-split-his-trousers-in-front-of-cast-and-crew-during-filming/" class="small-content-listing__item-link">Emmerdale star says he split his trousers during filming</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-08-01/three-members-of-bin-laden-family-killed-in-private-jet-crash/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Three members of Bin Laden family killed in private jet crash " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730194/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730194/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730194/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730194/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Three members of Bin Laden family killed in private jet crash " src="http://news.images.itv.com/image/file/730194/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-08-01/three-members-of-bin-laden-family-killed-in-private-jet-crash/" class="small-content-listing__item-link">Three members of Bin Laden family killed in private jet crash </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="http://www.itv.com/news/story/2015-08-01/declan-donnelly-to-tie-the-knot-with-ali-astall-in-newcastle/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Declan Donnelly seals marriage to Ali Astall with a kiss" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/730687/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/730687/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/730687/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/730687/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Declan Donnelly seals marriage to Ali Astall with a kiss" src="http://news.images.itv.com/image/file/730687/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="http://www.itv.com/news/story/2015-08-01/declan-donnelly-to-tie-the-knot-with-ali-astall-in-newcastle/" class="small-content-listing__item-link">Declan Donnelly seals marriage to Ali Astall with a kiss</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+    
+    
+  </div>
+</aside>
+
+
+  </div>
+
+</div>
+
+  </div>
+
+    <div class="ad-onebyone any">
+      
+      <script src="http://tom.itv.com/itv/jserver/random=48364/site=itv/area=news.national.story/position=1/adtype=any/size=1x1/categories=world/topics=turkey/contentid=2015.07.27.turkey.has.no.plans.for.ground.troops.in.syria/viewid=1438548900"></script>
+    
+    </div>
+
+  <div class="itv-page-fragment">
+  <div class="itv-glob-foot" id="skip_to_footer">
+    <footer>
+      <div class="itv-glob-foot__inner">
+        <div class="itv-glob-foot__channels itv-glob-foot__block">
+          <nav>
+            <ul class="itv-glob-foot__channels-list">
+              <li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv">ITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv2/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv2">ITV2</span>
+</a>              </li><!--
+              --><li class="itv-glob-foot__channels-item">
+                  <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itvplayer/itvbe/">
+                    <span class="itv-glob-foot__channel itv-glob-foot__channel--itvbe icon--itv-glob-foot-itvbe">ITVBE</span>
+</a>                </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv3/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv3">ITV3</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv4/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv4">ITV4</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/citv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-citv">CITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/">
+                  <span class="itv-glob-foot__channel itv-glob-foot__channel--player icon--itv-glob-foot-itv-player">ITV Player</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/encore/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-encore itv-glob-foot__channel--encore">ITV Encore</span>
+</a>              </li>
+
+            </ul>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__links itv-glob-foot__block">
+          <nav>
+            <div class="itv-glob-foot__columns">
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">ITV Presents</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/beontv/">Be on TV</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/mobile/">Mobile</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.signedstories.com/" rel="nofollow">Signed Stories</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Corporate</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvplc.com/">ITV Plc</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvjobs.com/">Jobs</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/presscentre/">Press Centre</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvmedia.co.uk/">ITV Media</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/commissioning/">Commissioning</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Information</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/help/">Help</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/contactus/">Contact Us</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/termsconditions/" rel="nofollow">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/privacy/" rel="nofollow">Privacy Policy</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__legal">
+          <section>
+            <p class="itv-glob-foot__cookies">
+              By using this site, you agree we can set and use cookies.
+              For more details of these cookies and how to disable them,
+              see our <a href="http://www.itv.com/cookies/">cookie policy</a>.
+            </p>
+
+            <p class="itv-glob-foot__copyright">
+              &copy; Copyright ITV plc 2015
+            </p>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+    <script type="text/javascript">
+    !function(){var o,e=document.createElement("div");e.className;var i=document.location.hostname.split(".").slice(-2).join("."),t=document.cookie.replace(/(?:(?:^|.*;\s*)Itv.CookiePolicy\s*\=\s*([^;]*).*$)|^.*$/,"$1"),c=function(o){document.cookie="Itv.CookiePolicy=accepted; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i,e.parentElement.removeChild(e),o.preventDefault?o.preventDefault():o.returnValue=!1};"accepted"!==t&&("notified"!==t&&(document.cookie="Itv.CookiePolicy=notified; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i),e.innerHTML='      <div class="itv-page-fragment">        <div id="itv-glob-cookie-policy" class="itv-glob-cook">          <div class="itv-glob-cook__inner">            <div class="itv-glob-cook__columns">              <div class="itv-glob-cook__header">                <h2 class="itv-glob-cook__title">                  Cookies on the ITV website                </h2>              </div>              <div class="itv-glob-cook__body">                <div class="itv-glob-cook__content">                  <p class="itv-glob-cook__message">                    ITV websites use cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them, see our <a href="http://www.itv.com/cookies/">cookie policy</a>.                  </p>                </div>                <div class="itv-glob-cook__cta">                  <a href="#" id="itv-glob-accept-cookie-policy" class="itv-glob-cook__cta-accept">                    <span class="itv-glob-cook__check icon--itv-glob-cook-tick"></span>Continue                  </a>                </div>              </div>            </div>          </div>        </div>      </div>',document.body.insertBefore(e,document.body.firstChild),o=document.getElementById("itv-glob-accept-cookie-policy"),o.addEventListener&&o.addEventListener("click",c,!1),o.attachEvent&&o.attachEvent("onclick",c))}();
+</script>
+
+
+  <!-- for facebook like button - don't delete me -->
+  <div id="fb-root"></div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/news/assets/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="http://js.pusher.com/1.11.2/pusher.min.js" type="text/javascript"></script>
+  <script src="/news/assets/application-3d15058f7e309ba68de8bfe6c0c89372.js" type="text/javascript"></script>
+
+  
+
+  <!-- mathiasbynens.be/notes/async-analytics-snippet -->
+<script>
+  // google analytics code - don't delete me
+  var _gaq=[['_setAccount','UA-17825253-1']];
+    _gaq.push(['_setPageGroup', "1", "Story"]);
+    _gaq.push(['_setPageGroup', "2", "World"]);
+    _gaq.push(['_setPageGroup', "3", "Turkey"]);
+    _gaq.push(['_setPageGroup', "5", "National"]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,"script"));
+</script>
+  <script>
+
+    (function () {
+      var d = new Image(1, 1);
+      d.onerror = d.onload = function () {
+        d.onerror = d.onload = null;
+      };
+      d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+
+    function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"><'+'/p>');}; sitestat("//ned.itv.com/itv/itv/s?news.national.story.2015-07-27.turkey-has-no-plans-for-ground-troops-in-syria.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2015-07-27&itv_sitesection5=turkey-has-no-plans-for-ground-troops-in-syria&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews");
+
+    var nedstat_twitter_share = "//ned.itv.com/itv/itv/s?news.national.story.2015-07-27.turkey-has-no-plans-for-ground-troops-in-syria.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2015-07-27&itv_sitesection5=turkey-has-no-plans-for-ground-troops-in-syria&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=twittershare&itv_eventtype=twitterbutton&ns_type=hidden";
+    var nedstat_fb_share = "//ned.itv.com/itv/itv/s?news.national.story.2015-07-27.turkey-has-no-plans-for-ground-troops-in-syria.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2015-07-27&itv_sitesection5=turkey-has-no-plans-for-ground-troops-in-syria&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=fbshare&itv_eventtype=fbbutton&ns_type=hidden";
+
+  </script>
+  <noscript>
+    <div>
+      <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+      <p><img src="//ned.itv.com/itv/itv/s?news.national.story.2015-07-27.turkey-has-no-plans-for-ground-troops-in-syria.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2015-07-27&itv_sitesection5=turkey-has-no-plans-for-ground-troops-in-syria&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews" height="1" width="1" alt="*"></p>
+    </div>
+  </noscript>
+
+  <!-- Prompt IE 6 users to install Chrome Frame. -->
+  <!--[if lt IE 7 ]>
+    <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+  <!-- <script src="/news/assets/softclick-8447e086017ff6eeedfdef2e8316f1aa.js"></script> -->
+
+    <script src="/news/assets/sitestat-e7cb657a1afde57defac6b7de95bc7b1.js"></script>
+  <script>ns_loadingtime2=(new Date()).getTime()</script>
+</body>
+</html>

@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+
+<!-- hearst/article/article_header.tpl -->
+<html>
+    <head><!-- eid:article.6419782 -->        <!--[if IE 8]><meta http-equiv="x-ua-compatible" content="IE=7"><![endif]-->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <!-- generated at 2015-08-01 22:45:45 on prodwcm7 running vr6.19.0.16 -->
+        <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, width = device-width">
+        <!-- Hotfix Top freeform -->
+        
+        
+<!-- noGen: item_header_hotfix_top -->
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_global.r6.19.0.16.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_local.r6.19.0.16.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/external/css/global.ie8.r6.19.0.16.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="/external/css/global.article_print.r6.19.0.16.css" media="all" />
+        <script type="text/javascript" src="/js/jquery-1.8.1.min.js"></script>
+        <script type="text/javascript" src="/external/js/global.header.r6.19.0.16.js"></script>
+        <script type="text/javascript" src="http://treg.hearstnp.com/treg.js"></script>
+        <!-- hearst/common/omniture.tpl -->
+<script type="text/javascript">
+    // <![CDATA[
+    // document.domain = "hearstnp.com";
+    var requestTime = new Date(1438487145 * 1000);
+
+                                
+                    
+                    
+        
+        // bizobject variables
+        var omni_channelPath = "Sports :: Texans";
+                var omni_title = "HBO ready to pull back the curtain at Texans camp";
+                var omni_bizObjectId = "6419782";
+        var omni_className = "article";
+        var omni_publicationDate = "2015-08-02 01:12:00";
+        var omni_sourceSite="chron";
+
+                    // article specific variables
+            var omni_authorName = "By David Barron";
+            var omni_authorTitle = "";
+            var omni_pageNumber = "7";
+            var omni_breakingNewsFlag = "";
+            var omni_localNewsFlag = "1";
+            var omni_premiumStatus = "isPremium";
+            var omni_premiumEndDate = "2037-01-01 06:00:00";
+            var omni_originalSource = "HC";
+                    
+        var omni_paywallSite = "1";
+
+        // ]]>
+</script>
+<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<!-- e hearst/common/omniture.tpl -->        
+        <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
+        
+        <!--[if lt IE 9]><script src="/js/respond.min.js"></script><![endif]-->
+        
+    		<!-- Bing Webmaster Tools verification -->
+		<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7" />
+        <title>HBO ready to pull back the curtain at Texans camp - Houston Chronicle</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico?v=2" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png"/>
+
+    <link rel="canonical" href="http://www.houstonchronicle.com/sports/texans/article/HBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php" />
+
+    
+    
+    
+            <meta name="author.name" content="By David Barron" />
+        <meta name="author.title" content="" />
+        <meta name="date.release" content="2015/01/08" />
+        <meta name="time.release" content="20:12" />
+        <meta name="publisher" content="Houston Chronicle" />
+        <meta name="sections" content="Sports,Texans" />
+        <meta name="subject" content="" />
+        <meta name="news_keywords" content="" />
+                
+        <script type="text/javascript" src="/js/hdn/omniture/video.js"></script>
+        
+    <meta property="og:title" content="HBO ready to pull back the curtain at Texans camp" />
+            <meta property="og:description" content="NFL Films director Matt Dissinger is a veteran of eight seasons of &quot;Hard Knocks,&quot; the workplace drama that happens to focus on one of the most emotional, closely watched workplaces in American culture. He has seen a lot and knows what to expect. But even Dissinger, standing a few feet away from one of his camera crews Saturday morning at the Texans' practice field outside NRG Stadium, was amazed at the astonishing synergy that has emerged between Texans fans and the team's most visible player, J.J. Watt. Having witnessed three hours of fans screaming Watt's name during practice and clamoring for autographs afterward, Dissinger said, &quot;I don't think I've ever seen anything like this, to be honest." />
+                        <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.houstonchronicle.com/sports/texans/article/HBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php" />
+    <meta property="og:image" content="http://ww3.hdnux.com/photos/40/02/53/8399578/3/rawImage.jpg" />
+    <meta property="og:site_name" content="Houston Chronicle" />
+        <!-- Twitter card metadata  -->
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@houstonchron" />
+        <meta name="twitter:creator" content="@" />
+    
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+
+
+                <meta property="fb:app_id" content="653292111352579"/>
+    
+<!-- e /business/templates/hearst/home/header_fbpage.tpl--><!-- templates/hearst/home/viafouraHeadMeta.tpl -->
+<meta property="vf:unique_id" content="premiumchron-article-6419782" />
+<meta property="vf:section" content="sports">
+<!-- e templates/hearst/home/viafouraHeadMeta.tpl -->        <script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+        <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<!-- CSS/JS Hotfix freeform -->
+
+<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.13324 -->
+<style>
+/* JANRAIN/TREG HEADER HOTFIX FOR HOUSTONCHRONICLE - HIDES PAYWALL ELEMENTS UNTIL TREG LOADS - CPREM-2411*/
+.pw-content #treg_container.loggedout { border: none; }
+.subscrib_msg.hello,
+.activate_account_section,
+.signin-dis.signin_blurb { display: none; }/* hide all elements until treg loads and displays them. */
+.article-body .pw-blocks.pw-block-3.pw-block-last { border: none; }/*removes the borders on pw-blocks until treg loads with the other elements */
+.pw-content .pw-blocks { min-width: 680px; }/* keeps the pay wall "block/box" open as wide as it was, when the long text element is hidden */
+
+/* JANRAIN/TREG LAUNCH ISSUE FIXES */
+#requiredFields.janrain-capture-ui h1 {
+  font-family: "Dispatch",arial,helvetica,sans-serif;
+  color: #222;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+</style>
+    </head>
+    <body id="home" class=" sports sports-texans">
+    <!-- ux/chron/tmpl/article_omniture.php -->
+
+<!-- Adobe TagManager: Houston Premium -->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzk4My0=/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe TagManager -->
+
+<!-- e ux/chron/tmpl/article_omniture.php -->        <div id="container" class="article_page">
+            <!-- ux/premiumchron/templates/hearst/home/header_branding.tpl -->
+ <div id="header"> 	<!-- ux/premiumchron/templates/hearst/common/admin_bar.tpl -->
+<div class="header-top">
+    <ul class="ht-links">
+        <li class="ht-link-item ht-branding"><a href="http://chron.com/" target="_blank"><img src="/img/utils/spacer.png" /></a></li>
+        <li class="ht-link-item"><a href="http://chron.com/cars/" target="_blank">Autos</a></li>
+        <li class="ht-link-item"><a href="http://chron.com/jobs/" target="_blank">Jobs</a></li>
+        <li class="ht-link-item"><a href="http://chron.com/homes/" target="_blank">Real Estate</a></li>
+        <li class="ht-weather">
+            <span>
+                <a class="weather-ico" href="http://weather.chron.com/US/TX/Houston.html" target="_blank"></a>
+                <a class="ht-temp" href="http://weather.chron.com/US/TX/Houston.html" target="_blank"></a>
+            </span>
+        </li>
+    </ul>
+    <ul class="ht-right-links signed-out">
+        <li class="ht-ed">
+            <span><a href="/e-edition/">eNewspaper</a></span>
+        </li>
+        <li class="ht-saved">
+
+
+            <span><a href="https://myaccount.houstonchronicle.com/dssSubscribe.aspx?z=00000&amp;pid=114,176&amp;return=http://www.houstonchronicle.com/sports/texans/article/HBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php">Subscribe</a></span>
+        </li>
+        <li class="ht-user"><a href="/profile">Profile</a></li>
+    </ul>
+</div>
+<!-- e ux/premiumchron/templates/hearst/common/admin_bar.tpl -->
+	            <div class="header-branding section">
+            	<div class="menu-btn">
+					<a id="menuBtn" class="hdn-analytics"><span class="hdn-analytics-data">visit|hamburger-menu|hamburger-menu|0</span></a>
+				</div>
+            	<div class="wrap-center">
+                	<a class="logo-link" href="/"></a>
+                	<h1 class="section-title">
+													<a class="color-link" href="/sports/texans/">
+								Texans
+							</a>
+											</h1>
+                </div>
+            </div>
+<!-- END ux/premiumchron/templates/hearst/home/header_branding.tpl -->
+<!-- business/templates/hearst/home/HNavigation.tpl -->
+<!-- hearst/home/navigation.tpl -->
+
+	<!-- ux/premiumchron/templates/hearst/home/navigation_main.tpl -->
+
+<!-- ux/premiumchron/templates/hearst/common/dynamic_nav.tpl -->
+
+    
+<div id="navMenu" class="nav-menu">
+    <div class="nav-search">
+        
+        <form class="search-form" action="/search/" method="get">
+                      <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="firstRequest" value="1" />
+            <input type="hidden" name="searchindex" value="gsa" />
+                    <fieldset>
+            <input class="form-input" id="search" name="query" type="text" value="" placeholder="Search">
+            <input class="search-btn" value="" name="search" type="submit" />
+          </fieldset>
+        </form>
+    </div>
+    <ul class="nav-menu-list">
+                                                                <li id="Ho-link" class="menu-item childless hdn-analytics">
+                    <div class="nav-label">
+                        <span class="hdn-analytics-data">visit|Home|navigation|1</span>
+                        <a href="/"  class="hdn-analytics">
+                            <span class="hdn-analytics-data">visit|Home|navigation|1</span>
+                            <span class="section-link">Home</span>
+                        </a>
+                    </div>
+                </li>
+                                                                                    <li id="Lo-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Local|navigation|2</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/local/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local|navigation|2</span>
+                                <span class="section-link">Local</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/local/houston/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Houston|navigation|1</span>
+                                <div class="nav-label">Houston</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/bayou-city-history/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Bayou City History|navigation|2</span>
+                                <div class="nav-label">Bayou City History</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/politics-policy/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Politics & Policy|navigation|3</span>
+                                <div class="nav-label">Politics & Policy</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/education/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Education|navigation|4</span>
+                                <div class="nav-label">Education</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/education/campus-chronicles/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Campus Chronicles|navigation|5</span>
+                                <div class="nav-label">Campus Chronicles</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.houstonchronicle.com/local/texas/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Texas|navigation|6</span>
+                                <div class="nav-label">Texas</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/investigations/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-HC Investigations|navigation|7</span>
+                                <div class="nav-label">HC Investigations</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/politics/texas-take/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Texas Take|navigation|8</span>
+                                <div class="nav-label">Texas Take</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.houstonchronicle.com/local/transportation/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Transportation|navigation|9</span>
+                                <div class="nav-label">Transportation</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.houstonchronicle.com/neighborhood/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Neighborhoods|navigation|10</span>
+                                <div class="nav-label">Neighborhoods</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/the-observation-post/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-The Observation Post|navigation|11</span>
+                                <div class="nav-label">The Observation Post</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/columnists/native-texan/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Native Texan|navigation|12</span>
+                                <div class="nav-label">Native Texan</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.legacy.com/obituaries/houstonchronicle/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Local-Obituaries|navigation|13</span>
+                                <div class="nav-label">Obituaries</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="US-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|US & World|navigation|3</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/us-world/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World|navigation|3</span>
+                                <span class="section-link">US & World</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/us-world/us/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-US News|navigation|1</span>
+                                <div class="nav-label">US News</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/world/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-World News|navigation|2</span>
+                                <div class="nav-label">World News</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/space/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Space|navigation|3</span>
+                                <div class="nav-label">Space</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/science-environment/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Science & Environment|navigation|4</span>
+                                <div class="nav-label">Science & Environment</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/us-world/politics-policy/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Politics & Policy|navigation|5</span>
+                                <div class="nav-label">Politics & Policy</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://video.houstonchronicle.com/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|US & World-Video|navigation|6</span>
+                                <div class="nav-label">Video</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Sp-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Sports|navigation|4</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/sports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports|navigation|4</span>
+                                <span class="section-link">Sports</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/sports/texans/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Texans|navigation|1</span>
+                                <div class="nav-label">Texans</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/astros/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Astros|navigation|2</span>
+                                <div class="nav-label">Astros</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/rockets/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Rockets|navigation|3</span>
+                                <div class="nav-label">Rockets</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/dynamo/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Dynamo & Dash|navigation|4</span>
+                                <div class="nav-label">Dynamo & Dash</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/college-sports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-College Sports|navigation|5</span>
+                                <div class="nav-label">College Sports</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/hs-sports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-HS Sports|navigation|6</span>
+                                <div class="nav-label">HS Sports</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/insider/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Inside Houston Sports|navigation|7</span>
+                                <div class="nav-label">Inside Houston Sports</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/outdoors/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Outdoors|navigation|8</span>
+                                <div class="nav-label">Outdoors</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/sports/more-sports/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-More Sports|navigation|9</span>
+                                <div class="nav-label">More Sports</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://seatgeek.com/houston-texas-sports-tickets" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Sports-Buy Tickets|navigation|10</span>
+                                <div class="nav-label">Buy Tickets</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Bu-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Business|navigation|5</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/business/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business|navigation|5</span>
+                                <span class="section-link">Business</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/business/energy/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Energy|navigation|1</span>
+                                <div class="nav-label">Energy</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/local/prognosis/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Prognosis|navigation|2</span>
+                                <div class="nav-label">Prognosis</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/real-estate/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Real Estate|navigation|3</span>
+                                <div class="nav-label">Real Estate</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/real-estate/deal-of-the-week/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Deal of the Week|navigation|4</span>
+                                <div class="nav-label">Deal of the Week</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/outside-the-boardroom/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Outside the Boardroom|navigation|5</span>
+                                <div class="nav-label">Outside the Boardroom</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/medical/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Medical|navigation|6</span>
+                                <div class="nav-label">Medical</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/retail/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Retail|navigation|7</span>
+                                <div class="nav-label">Retail</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/technology/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Technology|navigation|8</span>
+                                <div class="nav-label">Technology</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/personal-finance/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Personal Finance|navigation|9</span>
+                                <div class="nav-label">Personal Finance</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/top-workplaces/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Top Workplaces|navigation|10</span>
+                                <div class="nav-label">Top Workplaces</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/chron-100/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Chronicle 100|navigation|11</span>
+                                <div class="nav-label">Chronicle 100</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/business/bloomberg/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Business-Bloomberg|navigation|12</span>
+                                <div class="nav-label">Bloomberg</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Op-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Opinion|navigation|6</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/opinion/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion|navigation|6</span>
+                                <span class="section-link">Opinion</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/opinion/editorials/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Editorials|navigation|1</span>
+                                <div class="nav-label">Editorials</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/outlook/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Outlook|navigation|2</span>
+                                <div class="nav-label">Outlook</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/letters/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Letters to the Editor|navigation|3</span>
+                                <div class="nav-label">Letters to the Editor</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/columnists/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Columnists|navigation|4</span>
+                                <div class="nav-label">Columnists</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/opinion/corrections/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Opinion-Corrections|navigation|5</span>
+                                <div class="nav-label">Corrections</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Ar-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Arts & Entertainment|navigation|7</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/entertainment/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment|navigation|7</span>
+                                <span class="section-link">Arts & Entertainment</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="http://www.houstonchronicle.com/entertainment/movies-tv-and-books/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment-Movies, TV & Books|navigation|1</span>
+                                <div class="nav-label">Movies, TV & Books</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/music-theater-and-arts/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment-Music, Theater & Fine Arts|navigation|2</span>
+                                <div class="nav-label">Music, Theater & Fine Arts</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/restaurants-bars/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment-Restaurants & Bars|navigation|3</span>
+                                <div class="nav-label">Restaurants & Bars</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/top-100-restaurants/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment-Top 100 Restaurants|navigation|4</span>
+                                <div class="nav-label">Top 100 Restaurants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.chron.com/entertainment/comics-games/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Arts & Entertainment-Comics & Games|navigation|5</span>
+                                <div class="nav-label">Comics & Games</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Fl-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Flavor|navigation|8</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/flavor/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor|navigation|8</span>
+                                <span class="section-link">Flavor</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/entertainment/restaurants-bars/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Restaurants & Bars|navigation|1</span>
+                                <div class="nav-label">Restaurants & Bars</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/food/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Food & Cooking|navigation|2</span>
+                                <div class="nav-label">Food & Cooking</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/flavor/drink/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Wine, Beer & Spirits|navigation|3</span>
+                                <div class="nav-label">Wine, Beer & Spirits</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/restaurants-bars/barbecue/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Barbecue|navigation|4</span>
+                                <div class="nav-label">Barbecue</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/entertainment/top-100-restaurants/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Top 100 Restaurants|navigation|5</span>
+                                <div class="nav-label">Top 100 Restaurants</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/flavor/essays/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Essays|navigation|6</span>
+                                <div class="nav-label">Essays</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/food/recipes/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Flavor-Recipes|navigation|7</span>
+                                <div class="nav-label">Recipes</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Li-link" class="menu-item hdn-analytics">
+                    <span class="hdn-analytics-data">visit|Lifestyle|navigation|9</span>
+                        <div class="nav-label">
+                            <span class="arrow expand"></span>
+                            <a href="/lifestyle/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle|navigation|9</span>
+                                <span class="section-link">Lifestyle</span>
+                            </a>
+                        </div>
+                                        <ul class="nav-submenu-list">
+                                                                  <li>
+                            <a href="/lifestyle/escapes/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Escapes|navigation|1</span>
+                                <div class="nav-label">Escapes</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/health/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Healthy Living|navigation|2</span>
+                                <div class="nav-label">Healthy Living</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/life-and-arts/home-and-garden/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Home & Garden|navigation|3</span>
+                                <div class="nav-label">Home & Garden</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/life-and-arts/religion-and-life-passages/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Religion & Life Passages|navigation|4</span>
+                                <div class="nav-label">Religion & Life Passages</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/society/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Society|navigation|5</span>
+                                <div class="nav-label">Society</div>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/lifestyle/style/" class="hdn-analytics">
+                                <span class="hdn-analytics-data">visit|Lifestyle-Style|navigation|6</span>
+                                <div class="nav-label">Style</div>
+                            </a>
+                        </li>
+                                                              </ul>
+                                    </li>
+                                                                                    <li id="Gr-link" class="menu-item childless hdn-analytics">
+                    <div class="nav-label">
+                        <span class="hdn-analytics-data">visit|Gray Matters|navigation|10</span>
+                        <a href="/local/gray-matters/"  class="hdn-analytics">
+                            <span class="hdn-analytics-data">visit|Gray Matters|navigation|10</span>
+                            <span class="section-link">Gray Matters</span>
+                        </a>
+                    </div>
+                </li>
+                                                                                    <li id="Ne-link" class="menu-item childless hdn-analytics">
+                    <div class="nav-label">
+                        <span class="hdn-analytics-data">visit|Newsletters|navigation|11</span>
+                        <a href="/newsletters/"  class="hdn-analytics">
+                            <span class="hdn-analytics-data">visit|Newsletters|navigation|11</span>
+                            <span class="section-link">Newsletters</span>
+                        </a>
+                    </div>
+                </li>
+                                                                                    <li id="Ar-link" class="menu-item childless hdn-analytics">
+                    <div class="nav-label">
+                        <span class="hdn-analytics-data">visit|Archive|navigation|12</span>
+                        <a href="/archive/search/"  class="hdn-analytics">
+                            <span class="hdn-analytics-data">visit|Archive|navigation|12</span>
+                            <span class="section-link">Archive</span>
+                        </a>
+                    </div>
+                </li>
+                                        </ul>
+</div>
+<!-- e ux/premiumchron/templates/hearst/common/dynamic_nav.tpl -->
+
+</div> 
+<!--e /ux/chron/templates/hearst/home/navigation_main.tpl -->
+<!-- e hearst/home/navigation.tpl -->
+<!-- e business/templates/hearst/home/HNavigation.tpl -->
+<!-- end hearst/article/types/article_header.tpl -->
+
+
+
+    <!-- design/article/premium_story_page.tpl -->
+             
+    <div id="content">
+    <div class="article-wrap">
+        <!-- ux/premiumchron/templates/hearst/article/premium_share_alertbox.tpl -->
+
+
+<!-- e ux/premiumchron/templates/hearst/article/premium_share_alertbox.tpl -->
+        <div class="zone zone-1">
+            <div class="article-body">
+        <!-- article/types/premium_story_header.tpl -->
+<div class="article-head">
+    <h3 class="section-name">Texans</h3>
+    <h2 class="headline">HBO ready to pull back the curtain at Texans camp</h2>
+    <h3 class="subhead">Viewers to getinside insightsinto Texans via'Hard Knocks'</h3>    <!-- hearst/common/author_name.tpl -->
+<p class="byline">By <a href="/author/david-barron/">David Barron</a></p>
+<!-- e hearst/common/author_name.tpl -->
+    <span class="datestamp">
+        <span class="published">August 1, 2015</span>
+            <span class="updated updated">Updated: August 1, 2015 10:23pm</span>
+        </span>
+</div> <!-- /article-head -->
+
+<!-- end premium_story_header.tpl -->
+        <div class="article-share">
+        <!-- hearst/article/prem_article_share.tpl -->
+
+<div class="social-links " social-url="http%3A%2F%2Fwww.houstonchronicle.com%2Fsports%2Ftexans%2Farticle%2FHBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php%3Ft%3Da75a99dbd6%26cmpid%3D" social-hashId="" social-blurb="%20NFL%20Films%20director%20Matt%20Dissinger%20is%20a%20veteran%20of%20eight%20seasons%20of%20%22Hard%20Knocks%2C%22%20the%20workplace%20drama%20that%20happens%20to%20focus%20on%20one%20of%20the%20most%20emotional%2C%20closely%20watched%20workplaces%20in%20American%20culture.%20He%20has%20seen%20a%20lot%20and%20knows%20what%20to%20expect.%20But%20even%20Dissinger%2C%20standing%20a%20few%20feet%20away%20from%20one%20of%20his%20camera%20crews%20Saturday%20morning%20at%20the%20Texans%27%20practice%20field%20outside%20NRG%20Stadium%2C%20was%20amazed%20at%20the%20astonishing%20synergy%20that%20has%20emerged%20between%20Texans%20fans%20and%20the%20team%27s%20most%20visible%20player%2C%20J.J.%20Watt.%20Having%20witnessed%20three%20hours%20of%20fans%20screaming%20Watt%27s%20name%20during%20practice%20and%20clamoring%20for%20autographs%20afterward%2C%20Dissinger%20said%2C%20%22I%20don%27t%20think%20I%27ve%20ever%20seen%20anything%20like%20this%2C%20to%20be%20honest.%20" media-url="http%3A%2F%2Fww3.hdnux.com%2Fphotos%2F40%2F02%2F53%2F8399578%2F3%2FrawImage.jpg" social-title="HBO%20ready%20to%20pull%20back%20the%20curtain%20at%20Texans%20camp">
+    <ul class="right">
+        <li class="socialIcon print">
+            <a class="hdn-analytics" href="javascript:hst_print();">
+                <span class="hdn-analytics-data">print_article|article-6419782|article-share-premium|7</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon comments">
+            <a class="hdn-analytics" href="#comments">
+                <span class="hdn-analytics-data">comments_jump|article-6419782|article-share-premium|1</span>
+                <span class="icon"></span>
+            </a>
+            <div class="viafoura">
+                <span class="vf-counter vf-widget" data-widget="counter"></span>
+            </div>
+        </li>
+    </ul>
+    <ul class="left">
+        <li class="socialIcon email" share-id="email">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">email_share|article-6419782|article-share-premium|1</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon facebook" share-id="facebook">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">facebook_share|article-6419782|article-share-premium|2</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon twitter" share-id="twitter">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">twitter_share|article-6419782|article-share-premium|3</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon pinterest" share-id="pinterest">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">pinterest_share|article-6419782|article-share-premium|4</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon reddit" share-id="reddit">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">reddit_share|article-6419782|article-share-premium|5</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon google" share-id="google">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">google_share|article-6419782|article-share-premium|6</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+                <li class="socialIcon amazon" share-id="amazon">
+           <script type="text/javascript">
+              amzn_assoc_ad_type = 'shopnshare';
+              amzn_assoc_tracking_id = 'trackingid';
+              amzn_assoc_marketplace = 'amazon';
+              amzn_assoc_region = 'US';
+              amzn_assoc_placement = 'contextual2';
+              amzn_assoc_linkid = "linkid";
+           </script>
+           <script src='http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&source=ac' type='text/javascript'></script>
+        </li>
+            </ul>
+</div>
+<!-- e hearst/article/prem_article_share.tpl -->
+        </div>
+        <!-- article/types/premium_story.tpl -->
+        
+        
+    
+    <div class="article-text">
+        <!-- hearst/article/types/premium_story_body.tpl -->
+
+<a name="asset-photo-8399578"></a><div class="asset_photo asset-photo portrait" data-config-asset-position="6"><!-- photo float --><img id="premiumchron-photo-8399578" src="http://ww3.hdnux.com/photos/40/02/53/8399578/3/460x1240.jpg" alt="Texans quarterback Ryan Mallett, right, could play a major role on HBO's &quot;Hard Knocks&quot; this season as he competes for the starting gig. Photo: Brett Coomer, Staff / © 2015 Houston Chronicle" /><div class="asset_info_container asset-info-container"><!-- design/gallery/caption_redesign.tpl -->
+					<span class="credit">
+											Photo: Brett Coomer, Staff
+									</span>
+			
+<!-- e design/gallery/caption_redesign.tpl --><!-- hearst/article/prem_article_share.tpl -->
+
+<div class="social-links " social-url="http%3A%2F%2Fwww.houstonchronicle.com%2Fsports%2Ftexans%2Farticle%2FHBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php%3Ft%3Da75a99dbd6%26cmpid%3D" social-hashId="%23asset-photo-8399578" social-blurb="Texans%20quarterback%20Ryan%20Mallett%2C%20right%2C%20could%20play%20a%20major%20role%20on%20HBO%27s%20%26quot%3BHard%20Knocks%26quot%3B%20this%20season%20as%20he%20competes%20for%20the%20starting%20gig." media-url="http%3A%2F%2Fww3.hdnux.com%2Fphotos%2F40%2F02%2F53%2F8399578%2F3%2F960x960.jpg" social-title="HBO%20ready%20to%20pull%20back%20the%20curtain%20at%20Texans%20camp">
+    <ul class="right">
+        <li class="socialIcon print">
+            <a class="hdn-analytics" href="javascript:hst_print();">
+                <span class="hdn-analytics-data">print_article_embed|photo-8399578|article-6419782|7</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon comments">
+            <a class="hdn-analytics" href="#comments">
+                <span class="hdn-analytics-data">comments_jump_embed|photo-8399578|article-6419782|1</span>
+                <span class="icon"></span>
+            </a>
+            <div class="viafoura">
+                <span class="vf-counter vf-widget" data-widget="counter"></span>
+            </div>
+        </li>
+    </ul>
+    <ul class="left hidden">
+        <li class="socialIcon email" share-id="email">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">email_share_embed|photo-8399578|article-6419782|1</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon facebook" share-id="facebook">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">facebook_share_embed|photo-8399578|article-6419782|2</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon twitter" share-id="twitter">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">twitter_share_embed|photo-8399578|article-6419782|3</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon pinterest" share-id="pinterest">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">pinterest_share_embed|photo-8399578|article-6419782|4</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon reddit" share-id="reddit">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">reddit_share_embed|photo-8399578|article-6419782|5</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+        <li class="socialIcon google" share-id="google">
+            <a class="hdn-analytics"
+                href=""
+                onclick="return false;">
+                <span class="hdn-analytics-data">google_share_embed|photo-8399578|article-6419782|6</span>
+                <span class="icon"></span>
+            </a>
+        </li>
+                <li class="socialIcon amazon" share-id="amazon">
+           <script type="text/javascript">
+              amzn_assoc_ad_type = 'shopnshare';
+              amzn_assoc_tracking_id = 'trackingid';
+              amzn_assoc_marketplace = 'amazon';
+              amzn_assoc_region = 'US';
+              amzn_assoc_placement = 'contextual2';
+              amzn_assoc_linkid = "linkid";
+           </script>
+           <script src='http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&source=ac' type='text/javascript'></script>
+        </li>
+            </ul>
+</div>
+<!-- e hearst/article/prem_article_share.tpl --><div class="share-toggle"><span class="icon"></span></div></div><!-- /asset_info_container --><!-- design/gallery/caption_redesign.tpl -->
+				<div class="caption ">
+                        									Texans quarterback Ryan Mallett, right, could play a major role on HBO's "Hard Knocks" this season as he competes for the starting gig.
+			
+		</div>
+		<div class="caption-truncated" style="display:none;">Texans quarterback Ryan Mallett, right, could play a major role on...</div>
+	
+<!-- e design/gallery/caption_redesign.tpl --></div><!-- /photo float --><p>NFL Films director Matt Dissinger is a veteran of eight seasons of "Hard Knocks," the workplace drama that happens to focus on one of the most emotional, closely watched workplaces in American culture. He has seen a lot and knows what to expect.</p>
+
+<!-- e premium_hearst/article/types/premium_story_body.tpl -->
+    </div>
+            
+                    <!-- hearst/widgets/paywallLogin/jainrain.tpl -->
+
+<style>
+.article-body .pw-content.signin_form_container {width: 78.9%;}
+.article-body .pw-content.signin_form_container p {width: 100%;}
+</style>
+
+<div class="pw-content signin_form_container">
+    <div class="pw-blocks pw-block-3 pw-block-last">
+        <!-- Sign In / Sign Up -->
+        <div id="treg_container"></div>
+        <!-- Already a subscriber  -->
+        <div class="subscrib_msg hello">
+            <p class="bold-italic">
+                                                    To continue reading this story, you will need to be a digital subscriber to HoustonChronicle.com.
+                            </p>
+        </div>
+        
+        <div class="activate_account_section">
+            <form action="https://myaccount.houstonchronicle.com/dssmatch.aspx" method="get">
+                <ul class="activate_account_items">
+                    <li class="activate_item">
+                        
+                                                    Houston Chronicle subscribers have FREE access to all premium digital products.
+                                                
+                    </li>
+                    <li class="activate_item">
+                        <input type="hidden" name="return" value="http://www.houstonchronicle.com/sports/texans/article/HBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php"/>
+                        <input class="btn-dark" name="commit" type="submit" value="Activate Account" />
+                    </li>
+                </ul>
+            </form>
+        </div>
+        
+        <!-- Terms and Conditions -->
+        
+        <p class="signin-dis signin_blurb ">By logging in, you agree to the <a href="/terms_of_use/">Terms and Conditions</a> and <a href="/privacy_policy/">Privacy Policy</a>.</p>
+        
+    </div>
+
+    <!-- Subscribe Promo -->
+    <div class="signin_item pw-block-2">
+        <div class="form-wrap">
+            <ul class="subscribe_banner_section">
+                <li class="subscribe_item item_a">
+                                    <div class="offer_blurb">Get your <span class="blurb_highlight">All Digital Pass</span> to Houston insider news and analysis</div>
+                                </li>
+                <li class="subscribe_item item_b">
+                    <div class="subscribe_btn_wrap">
+                        <div class="subscribe_btn">
+                                                    <a href="https://myaccount.houstonchronicle.com/dssSubscribe.aspx?z=00000&amp;pid=114,176&amp;return=http://www.houstonchronicle.com/sports/texans/article/HBO-ready-to-pull-back-the-curtain-at-Texans-camp-6419782.php">SUBSCRIBE</a>
+                                                </div>
+                        <div class="subscribe_btn_icon"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- e jainrain.tpl -->
+                                            <div class="solo_single narrow-only" style="margin:0"></div>
+    <!-- e /hearst/article/types/premium_story.tpl -->
+                    	
+<!-- hearst/article/premium_author_module.tpl --> 
+<div class="author-wrap">
+        	<div class="authorinfo noborder last">
+    			        	<img src="http://ww3.hdnux.com/photos/21/63/71/4669042/3/premium_author_module.jpg" alt="David Barron" />
+	        			<h2 class="name">
+				<a href="/author/david-barron/">David Barron</a>
+			</h2>
+			<p class="title">Reporter, Houston Chronicle</p>
+		</div>
+    </div>
+<!-- hearst/article/premium_author_module.tpl -->				
+                    </div>
+        </div>
+        <!-- END Article Body-->
+        <div class="zone zone-1" style="clear:both">
+                    </div>
+        <!-- /zone 1-->
+        <div class="zone zone-3">
+        </div>
+    </div>
+    <div class="zone zone-5">
+        <!-- src/business/widgets/hearst/collection/widget.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-19498-premium_article_featured_articles"><!-- collections/premium_article_featured_articles.tpl -->
+<!-- collection.premium_article_featured_articles.19498 -->
+<div class="collection article-sections">
+        <div class="column-outer-wrap">
+                                                                <div class="column-wrap ">
+                                                        <div class="column odd firstcolumn">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/lifestyle/">Lifestyle</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/life/article/Riding-the-Wave-For-downtown-Midtown-revelers-6417375.php">
+    <img src="http://ww1.hdnux.com/photos/40/00/53/8391412/3/premium_article_featured_articles.jpg"
+        alt="Colette King, right, laughs with her friend Corie Villarreal, a bride-to-be, as they ride the Wave Bus Saturday, July 25, 2015, in Houston. The pair were part of a small group riding the bus around downtown for the night. ( Jon Shapley / Houston Chronicle )" border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/life/article/Riding-the-Wave-For-downtown-Midtown-revelers-6417375.php">For downtown/Midtown revelers, jitney is way to go</a></h2>
+                                </div>
+                                                                                                <div class="column even ">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/sports/columnists/mcclain/">John McClain</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/sports/columnists/mcclain/article/After-busy-offseason-J-J-Watt-is-ready-to-roll-6418733.php">
+    <img src="http://ww2.hdnux.com/photos/40/01/54/8395569/3/premium_article_featured_articles.jpg"
+        alt="Houston Texans defensive end J.J. Watt fields questions from the media during a press conference on Friday, July 31, 2015, in Houston. The Houston Texans open training camp Aug. 1, 2015. (AP Photo/Bob Levey)" border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/sports/columnists/mcclain/article/After-busy-offseason-J-J-Watt-is-ready-to-roll-6418733.php">After busy offseason, J.J. Watt is ready to roll</a></h2>
+                                </div>
+                                                </div>
+                                                                                        <div class="column-wrap column-wrap-last">
+                                                        <div class="column odd ">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/local/houston/">Houston</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/news/houston-texas/houston/article/Hard-to-draw-conclusions-about-pot-in-Bland-s-6418565.php">
+    <img src="http://ww4.hdnux.com/photos/37/74/52/8374939/3/premium_article_featured_articles.jpg"
+        alt="Sandra Bland, in orange jumpsuit, during second suicide screening." border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/news/houston-texas/houston/article/Hard-to-draw-conclusions-about-pot-in-Bland-s-6418565.php">Hard to draw conclusions about pot in Bland's blood, experts say</a></h2>
+                                </div>
+                                                                                                <div class="column even lastcolumn">
+                                                                                                                                                                            <div class="header">
+                                                        <h4 class="kicker-link"><a   href="/lifestyle/health/">Health</a></h4>
+                                                </div>
+                                                                                                                          <!-- common/display_image.tpl -->
+<a class="without_u  "
+    href="/news/health/article/Ebola-vaccine-UTMB-researcher-helped-create-6418711.php">
+    <img src="http://ww1.hdnux.com/photos/40/01/72/8396428/3/premium_article_featured_articles.jpg"
+        alt="Dr. Thomas Ksiazek, now at the University of Texas Med­ical Branch, helped develop the vaccine.﻿" border="0" />
+    </a>
+    <!-- e display_image.tpl -->
+                                        <h2 class="headline"><a   href="/news/health/article/Ebola-vaccine-UTMB-researcher-helped-create-6418711.php">Ebola vaccine UTMB researcher helped create called 'game-changer'</a></h2>
+                                </div>
+                                                </div>
+                                                </div>
+</div>
+<!-- end premium_article_featured_articles.tpl -->
+</div>    
+
+
+<!-- e src/business/widgets/hearst/collection/widget.tpl -->    </div><!-- /zone-5 -->
+    <!-- END Section Highlights Collection -->
+
+</div>
+
+
+    <!-- e design/article/premium_story_page.tpl --><!-- src/business/templates/hearst/common/footer.tpl -->
+
+                      <!-- templates/hearst/home/viafouraFooterJS.tpl -->
+<script>
+        
+    
+    (function (v, s) {
+        v.type = 'text/javascript';
+        v.async = !0;
+        v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+        s.parentNode.insertBefore(v, s)
+    }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+
+    $(document).ready(function () {
+        if ($('#hdn-vf-comments').length) {HDN.authOnReady('premium',false)}
+        var vfDomains = {};
+        $('body').find('div.viafoura span.vf-counter[data-path^="http://"]').each(function () {
+            var matches = $(this).attr('data-path').match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+            var domain = matches && matches[1];
+            if (!!domain) {
+                vfDomains[domain.replace(/^m\./, 'www.')] = 1;
+            }
+        });
+        for (d in vfDomains) {
+            HDN.getVfCommentCount(undefined,d,1);
+        }
+    });
+    
+</script>
+<!-- e templates/hearst/home/viafouraFooterJS.tpl -->
+        
+<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.11335 -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<div class="hc_sitefooter">
+<div class="lock1200">
+   <div class="hcsf_header">
+    <a href="http://www.houstonchronicle.com"><img src="/img/modules/sitefooter/footer_logo.png" /></a>
+    <div class="toplink"><a href="#container"><span class="topLinkText">Top</span></a></div>
+   </div>
+   <ul class="hcsf_links">
+    <li class="hcsf_about"> 
+     <h3>About</h3>
+     <ul class="hcsf_linklist">
+      <li><a href="http://www.hearst.com/newspapers/houston-chronicle.php">Our Company</a></li>
+      <li><a class="ad-choice" href="http://www.aboutads.info/choices/"><span class="ad-link"></span> Ad Choices </a></li>
+      <li><a href="https://hearstnewspaperscareerlinks.silkroad.com/">Careers</a></li> 
+      <li><a href="/terms_of_use/">Terms of Use</a></li>
+      <li><a href="http://hearstmediahouston.com/">Advertising</a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/privacy_policy#your_rights">Your Privacy Rights</a></li>
+                                                <li><a href="/privacy_policy/#caprivacyrights">Your California Privacy Rights</a></li>
+     </ul>
+    </li>
+   </ul>
+   <ul class="hcsf_links">
+    <li class="hcsf_contact"> 
+     <h3>Contact</h3>
+     <ul class="hcsf_linklist">
+      <li><a href="/archive/">Archives</a></li>
+      <li><a href="/customer_service">Customer Service</a></li>
+      <li><a href="/faq">Frequently Asked Questions</a></li>
+      <li><a href="/newsroom_contacts">Newsroom Contacts</a></li>
+     </ul>
+    </li>
+   </ul>
+   <ul class="hcsf_links">
+    <li class="hcsf_connect desktop"> 
+     <h3>Connect</h3>
+     <ul class="hcsf_linklist">
+      <li><a href="http://www.houstonchronicle.com/newsletters">Newsletters</a></li>
+      <li><a class="fb-link" href="https://www.facebook.com/chroncom">Facebook</a></li>
+      <li><a class="twtr-link" href="https://twitter.com/houstonchron">Twitter</a></li> 
+      <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle">LinkedIn</a></li>
+      <li><a class="pin-link" href="http://pinterest.com/houstonchron/">Pinterest</a></li>
+      <li><a class="gplus-link" href="https://plus.google.com/+houstonchronicle">Google+</a></li>
+     </ul>
+    </li>
+    <li class="hcsf_connect mobile"> 
+     <h3>Connect</h3>
+     <ul class="hcsf_linklist">
+      <li><a class="fb-link" href="https://www.facebook.com/chroncom"></a></li>
+      <li><a class="twtr-link" href="https://twitter.com/houstonchron"></a></li> 
+      <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle"></a></li>
+      <li><a class="pin-link" href="http://pinterest.com/houstonchron/"></a></li>
+      <li><a class="gplus-link" href="https://plus.google.com/+houstonchronicle"></a></li>
+     </ul>
+    </li>
+   </ul>
+   <div class="copyright-wrap">
+    <img src="/img/modules/sitefooter/hst_copy_logo.png" />
+    <p class="copyright">&copy; 2013 Hearst Newspapers, LLC.</p>
+   </div>
+</div>
+  </div>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpONkFfGVBeVlAcGhEMEQ==","queueTime":0,"applicationTime":17,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body></html>
+<!-- e src/business/templates/hearst/common/footer.tpl -->

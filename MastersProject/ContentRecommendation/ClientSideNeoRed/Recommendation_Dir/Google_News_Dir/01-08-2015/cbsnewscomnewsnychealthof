@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<html><head data-ad='{"gpt":{"targeting":{"device":"desktop","ptype":"news_item","cid":"nyc-health-official-expects-more-legionnaires-disease-cases","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentTop":{"sizes":[[381,211]],"position":"top"},"sponsorContentSmallTop":{"sizes":[[301,151]],"position":"top"},"sponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top"},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileBanner1":{"sizes":[[320,50]],"position":1},"mobileBanner2":{"sizes":[[320,50]],"position":2},"mobileBanner3":{"sizes":[[320,50]],"position":3},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"mobileIncrementalBanner1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner2":{"sizes":[[300,250]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner5":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner6":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner8":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner9":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner11":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner12":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner13":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner14":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner15":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner16":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner17":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner18":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner19":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner20":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","mpu_middle","marquee300_middle","button_middle","mpu_bottom","leader_bottom","button_bottom"]},"containerId":"55bd93643415e","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"health","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-plus-top-55bd93643415e","mpu-middle-55bd93643415e","resource-center-top-55bd93643415e","mpu-bottom-55bd93643415e","intromercial-55bd93643415e","leader-plus-top-55bd93643415e","leader-bottom-55bd93643415e"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"useFirstPageTargeting":true}'><!-- Fly Version: prod-1.11 88e9000a93e0a1ce03e38bf907b508edfc1c2d97 (cbsnews prod_alt) --><title>NYC health official expects more Legionnaires' disease cases - CBS News</title><meta charset="UTF-8"><meta name="robots" content="index, follow"><meta name="description" content="Outbreak in the Bronx has killed four people and sickened dozens; health official says it&amp;#039;s &amp;quot;likely that there will be more cases&amp;quot;"><meta name="keywords" content="centers for disease control and prevention, public health, legionnaires, disease, new york city, health, legionnaires disease, new york"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIHWFZbGwsEUFhQBgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><meta name="twitter:creator" content="CBS News"><meta name="twitter:title" content="NYC health official expects more Legionnaires' disease cases"><meta name="twitter:description" content="Outbreak in the Bronx has killed four people and sickened dozens; health official says it's &quot;likely that there will be more cases&quot;"><meta name="twitter:image" content="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/02/374c9c37-401f-41cf-9752-3371923e0519/thumbnail/620x350/e93ffa8d41f22349d6e18db036f850ff/legionnaires-disease.jpg"><meta property="og:image" content="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/02/374c9c37-401f-41cf-9752-3371923e0519/thumbnail/620x350/e93ffa8d41f22349d6e18db036f850ff/legionnaires-disease.jpg"><meta property="og:title" content="NYC health official expects more Legionnaires' disease cases"><meta property="og:description" content="Outbreak in the Bronx has killed four people and sickened dozens; health official says it's &quot;likely that there will be more cases&quot;"><meta property="article:author" content=""><meta property="article:publisher" content="https://www.facebook.com/CBSHealth"><meta itemprop="thumbnailUrl" content="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/02/374c9c37-401f-41cf-9752-3371923e0519/thumbnail/620x350/e93ffa8d41f22349d6e18db036f850ff/legionnaires-disease.jpg"><meta name="news_keywords" content="centers for disease control and prevention, public health, legionnaires, disease, new york city, health, legionnaires disease, new york"><link rel="alternate" href="android-app://com.treemolabs.apps.cbsnews/http/www.cbsnews.com/news/nyc-health-official-expects-more-legionnaires-disease-cases/"><link rel="canonical" href="http://www.cbsnews.com/news/nyc-health-official-expects-more-legionnaires-disease-cases/"><link rel="shortcut icon" type="image/x-icon" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/favicon.ico"><link rel="apple-touch-icon" sizes="144x144" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon-precomposed" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/apple-touch-icon-precomposed.png"><script src="//fonts.cbsnews.com/hzk1prl.js" async defer id="typekitScript"></script><script>
+		if (typeof Typekit !== 'undefined') {
+			Typekit.load();
+		} else {
+			(function(d) {
+				var html = d.documentElement,
+					timeout = setTimeout(function(){
+							html.className = html.className.replace(/\bwf-loading\b/g,"") + " wf-inactive";
+						}, 3000),
+					tk = d.getElementById('typekitScript'),
+					hasLoaded = false, lastKnownState;
+				html.className += " wf-loading";
+				tk.onload = tk.onreadystatechange=function(){
+					lastKnownState = this.readyState;
+
+					if (hasLoaded || lastKnownState && lastKnownState != "complete" && lastKnownState != "loaded") {
+						return;
+					}
+
+					hasLoaded = true;
+					clearTimeout(timeout);
+					try{
+						Typekit.load()
+					}catch(e){}
+				};
+		  })(document);
+		}
+	</script><link rel="stylesheet" href="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/main.desktop.css"><!--[if IE 8]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/desktop/ie8.css" />
+    <![endif]--><!--[if IE]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/css/desktop/ie.css" />
+    <![endif]--><!--[if lt IE 9]>
+    <script src="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/js/libs/html5shiv-printshiv.js"></script>
+    <![endif]--><script>
+	var require = {"baseUrl":"http://cbsnews4.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/cbsnewscore/js-build","config":{"version":{"fly/libs/easy-xdm":"2.4.19.3","fly/libs/jquery.widget":"1.9.2","fly/libs/jquery.cookie":"1.2","fly/libs/jquery.throttle-debounce":"1.1","fly/libs/omniture.s-code":"1.0","fly/libs/urs":"1.0","fly/utils/data-prefix":"1.0","fly/utils/data-selector":"1.0","fly/utils/function-natives":"1.0","fly/utils/guid":"1.0","fly/utils/log":"1.0","fly/utils/object-helper":"1.0","fly/utils/string-helper":"1.0","fly/utils/string-vars":"1.0","fly/utils/url-helper":"1.0","fly/managers/components":"1.0","fly/managers/cookie":"1.0","fly/managers/debug":"1.0","fly/managers/ad":"2.0","fly/managers/gpt":"4.1","fly/managers/geo":"1.0","fly/managers/image-resolution":"1.0","fly/managers/social-authentication":"1.0","fly/managers/tracking":"1.0","fly/managers/user":"1.0","fly/components/accordion":"1.0","fly/components/alert":"1.0","fly/components/base":"1.0","fly/components/carousel":"1.0","fly/components/credspark":"1.0","fly/components/dependent-field":"1.0","fly/components/dropdown":"1.0","fly/components/form-validate":"1.0","fly/components/iframe-messenger":"1.0","fly/components/image-gallery":"1.0","fly/components/livefyre-conversation":"1.0","fly/components/livefyre-commentcount":"1.0","fly/components/loading":"1.0","fly/components/load-more":"1.0","fly/components/nrelate":"1.0","fly/components/modal":"1.0","fly/components/modal-async":"1.0","fly/components/modal-iframe":"1.0","fly/components/social-button":"1.0","fly/components/social-counts":"1.0","fly/components/social-links":"1.0","fly/components/tabs":"1.0","fly/managers/clicktale":"1.0","fly/components/poll":"1.0","fly/managers/history":"1.0","fly/components/scrollbar":"1.0","fly/components/fixate":"1.0","fly/components/image-gallery-thumb":"1.0"}},"shim":{"tealium":["jquery"]},"map":{"*":{"gpt":"//www.googletagservices.com/tag/js/gpt.js","typekit":"//fonts.cbsnews.com/hzk1prl.js","livefyre":"//zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js","livefyre-commentcount":"//zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js","nrelate":"//c7.static.nrcdn.com/common_js/0.52.1/nr_loader.min.js","urs":"//urs.cbsnews.com/sdk/urs.js","recirc":"//ddlmj2furo6f2.cloudfront.net/addontrain/recommendations/53f6c74c1344a01ee2000139.js","tealium":"//tags.tiqcdn.com/utag/cbsi/cbsnewssite/prod/utag.js","credspark":"//www.credspark.com/embed.js","yad":"https://s.yimg.com/uq/syndication/yad.js","newsgator":"//nmp.newsgator.com/ngbuzz/load.ashx/buzz"}}};
+</script><script src="http://cbsnews3.cbsistatic.com/fly/88e9000a93e0a1ce03e38bf907b508edfc1c2d97/bundles/flyjs/js/libs/require-2.1.2.js" data-main="main.desktop" async defer></script><script>
+        // Source: https://gist.github.com/jcxplorer/823878/
+        // Licence: Public Domain
+        function UUIDv4 (){var b="",a,c;for(a=0;32>a;a++){c=16*Math.random()|0;if(8==a||12==a||16==a||20==a)b+="-";b+=(12==a?4:16==a?c&3|8:c).toString(16)}return b};
+
+        var __tealium_data_guid = UUIDv4(),
+                utag_data = {"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articleId":"3cf25eae-53cc-44e7-832d-c4cfce1732e3","articlePubDate":"2015-08-02 02:07:01","articleTitle":"nyc health official expects more legionnaires\u0027 disease cases","articleType":"content_article","deviceType":"desktop","isDev":"2","pageType":"news_item","siteHier":["health"],"siteSection":"health","siteType":"responsive web","topicId":"8846860a-758d-11e2-9d12-0018fe8a00b0","topicName":"health","bkSiteId":3330,"limit":4,"articleSource":"cbs\/ap","siteName":"cbsnews","tealium":{"profile":"cbsnewssite","env":"prod"}};
+        utag_data.pageViewGuid = __tealium_data_guid;
+    </script><script>
+var _vrq = _vrq || [];
+_vrq.push(['automate', 'false' ]);
+</script></head><body data-tracking='{"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articleId":"3cf25eae-53cc-44e7-832d-c4cfce1732e3","articlePubDate":"2015-08-02 02:07:01","articleTitle":"nyc health official expects more legionnaires\u0027 disease cases","articleType":"content_article","deviceType":"desktop","isDev":"2","pageType":"news_item","siteHier":["health"],"siteSection":"health","siteType":"responsive web","topicId":"8846860a-758d-11e2-9d12-0018fe8a00b0","topicName":"health","bkSiteId":3330,"limit":4,"articleSource":"cbs\/ap","siteName":"cbsnews","tealium":{"profile":"cbsnewssite","env":"prod"}}' data-ad='{"gpt":{"targeting":{"device":"desktop","ptype":"news_item","cid":"nyc-health-official-expects-more-legionnaires-disease-cases","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentTop":{"sizes":[[381,211]],"position":"top"},"sponsorContentSmallTop":{"sizes":[[301,151]],"position":"top"},"sponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top"},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileBanner1":{"sizes":[[320,50]],"position":1},"mobileBanner2":{"sizes":[[320,50]],"position":2},"mobileBanner3":{"sizes":[[320,50]],"position":3},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77]],"position":"top"},"mobileIncrementalBanner1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner2":{"sizes":[[300,250]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner5":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner6":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner8":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner9":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner11":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner12":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner13":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner14":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner15":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner16":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner17":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner18":{"sizes":[[300,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner19":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileIncrementalBanner20":{"sizes":[[320,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","mpu_middle","marquee300_middle","button_middle","mpu_bottom","leader_bottom","button_bottom"]},"containerId":"55bd93643415e","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"health","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-plus-top-55bd93643415e","mpu-middle-55bd93643415e","resource-center-top-55bd93643415e","mpu-bottom-55bd93643415e","intromercial-55bd93643415e","leader-plus-top-55bd93643415e","leader-bottom-55bd93643415e"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"useFirstPageTargeting":true}' data-img-res='{"breakpoint":620,"cookieName":"fly_img","breakpointOptions":null,"pixelRatio":1,"pixelRatioOptions":[1]}' data-component="livefyreCommentcount" data-user='{"environment":"LIVE","secureHost":"secure-fly.cbsnews.com","appId":1501}' data-cms-edit='{"url":"http:\/\/hub-cms.cbsnews.com\/content\/article\/3cf25eae-53cc-44e7-832d-c4cfce1732e3"}' class="desktop
+ article">
+        
+    <!-- src/CbsNews/CoreBundle/Resources/views/Layout/default.desktop.html.twig -->
+
+                <!-- comscorekw=health -->
+    
+
+    
+    <div id="fb-root"></div>
+                    <div id="intromercial-55bd93643415e" class="ad-intromercial" data-ad="intromercial" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing intromercial-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("intromercial-55bd93643415e");
+    </script></div>
+
+    	<div class="body-container">
+
+                    <img src="http://dw.cbsi.com/levt/ria/e.gif?event=log&amp;siteid=162&amp;mapp=hi-pagetracker&amp;comptyp=pagetype&amp;comp=article_single&amp;riaevent=view&amp;s6=top&amp;s7=desktop" border="0" height="1" width="1" alt="" class="tracking-gif"><!-- src/CbsNews/CoreBundle/Resources/views/Core/header.html.twig --><header class="site-header "><div id="breakingNewsBanner" data-component="ticker">
+        <include src="http://oaktree.cbsnews.com/feedfiles/breakingnews.desktop.html" onerror="continue"></include></div>
+    
+
+        
+    <div class="supplemental">
+    <div class="container">
+        <div class="col-9">
+            
+        <nav class="site-shows"><ul class="items"><li><a class="selected module-click-tracking" href="/" data-tracking="site header-show-nav|CBS News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|CBS News"}'>CBS News</a></li>
+                                <li><a class="module-click-tracking" href="/evening-news/" data-tracking="site header-show-nav|CBS Evening News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|CBS Evening News"}'>CBS Evening News</a></li>
+                                <li><a class="module-click-tracking" href="/cbs-this-morning/" data-tracking="site header-show-nav|CBS This Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|CBS This Morning"}'>CBS This Morning</a></li>
+                                <li><a class="module-click-tracking" href="/48-hours/" data-tracking="site header-show-nav|48 Hours" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|48 Hours"}'>48 Hours</a></li>
+                                <li><a class="module-click-tracking" href="/60-minutes/" data-tracking="site header-show-nav|60 Minutes" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|60 Minutes"}'>60 Minutes</a></li>
+                                <li><a class="module-click-tracking" href="/sunday-morning/" data-tracking="site header-show-nav|Sunday Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|Sunday Morning"}'>Sunday Morning</a></li>
+                                <li><a class="module-click-tracking" href="/face-the-nation/" data-tracking="site header-show-nav|Face The Nation" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|Face The Nation"}'>Face The Nation</a></li>
+                                <li><a class="module-click-tracking" href="http://www.cbsnews.com/live/?ftag=CNMdaef904" data-tracking="site header-show-nav|CBSN" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Show-nav|CBSN"}'>CBSN</a></li>
+            </ul></nav></div>
+        
+        <div class="col-3">
+            <form class="site-search" method="get" action="/search/">
+    <div class="search-wrapper" data-component="placeholder">
+        <input class="query" type="search" name="q" maxlength="255" placeholder="Search"></div>
+    <button class="submit core-search-header" type="submit">GO</button>
+</form>
+<ul class="login-wrapper logged-in"><li>
+        <!--<li class="site-section-tab"><a href="https://secure-fly.cbsnews.com/user/registration/" data-user-show="register"><span>Join</span></a></li>-->
+                     <a class="site-login" href="#" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Channel Button"}'><span class="text">Log In</span></a>
+                <div class="menu-wrapper sign-in">
+            <span class="hover-padding"></span>
+            <span class="arrow"></span>
+            <ul class="login"><li><a data-user-show="login" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Login"}'>Log In</a></li>
+                    <li><a data-user-show="register" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Join CBSNews"}'>Join CBSNews.com</a></li>
+                    <li class="social-icons">
+                        <span class="sign-in-with">Sign in with</span>
+                                                    <span class="social-site facebook" data-user-social="facebook" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  facebook"}'>&nbsp;</span>
+                                                    <span class="social-site googleplus" data-user-social="googleplus" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  googleplus"}'>&nbsp;</span>
+                                                    <span class="social-site yahoo" data-user-social="yahoo" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  yahoo"}'>&nbsp;</span>
+                                                    <span class="social-site twitter" data-user-social="twitter" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  twitter"}'>&nbsp;</span>
+                                            </li>
+                            </ul></div>
+    </li>
+</ul></div>
+    </div>
+</div>
+    <div class="primary content-inverse">
+        <div class="container">
+                         <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|Branding"}'>CBSNews.com - Breaking News</a></div>
+                        <nav class="site-sections"><ul class="items"><li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/video\/section"}'><a href="/videos/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Video"}'><span>Video</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/us\/section"}'><a href="/us/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|US"}'><span>US</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/world\/section"}'><a href="/world/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|World"}'><span>World</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/politics\/section"}'><a href="/politics/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Politics"}'><span>Politics</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/entertainment\/section"}'><a href="/entertainment/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Entertainment"}'><span>Entertainment</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/health\/section"}'><a href="/health/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Health"}'><span>Health</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/moneywatch\/section"}'><a href="/moneywatch/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|MoneyWatch"}'><span>MoneyWatch</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/tech\/section"}'><a href="/tech/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|SciTech"}'><span>SciTech</span></a>
+                                                    </li>
+                                                                                                                                                                                                <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/crime\/section"}'><a href="/crimesider/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Crime"}' data-vanity-rewritten="true"><span>Crime</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  "><a href="http://www.cbssports.com/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Sports"}'><span>Sports</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/pictures\/section"}'><a href="/pictures/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|Photos"}'><span>Photos</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  dropdown" data-component="moreDropdown" data-more-dropdown-options='{"event":"hover"}'><a href="#" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More"}'><span>More</span></a>
+                                                            <div class="dropdown-content dropdown-menu">
+                                    <div class="listing-basic">
+                                        <ul class="items col-3"><li class="label"><h4 class="label">Blogs</h4></li>
+                                                                                                                                                <li><a href="/politics/battleground/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Blogs-Battleground" }' class="title"><span>Battleground</span></a></li>
+                                                                                                                                                                                                <li><a href="/politics/white-house/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Blogs-The WH" }' class="title"><span>The WH</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul><ul class="items col-3"><li class="label"><h4 class="label">Web Shows</h4></li>
+                                                                                                                                                                                                                                                                                                                                        <li><a href="/60-minutes/overtime/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Web Shows-60 Overtime" }' class="title"><span>60 Overtime</span></a></li>
+                                                                                                                                                                                                <li><a href="/face-the-nation/face-to-face/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Web Shows-Face to Face" }' class="title"><span>Face to Face</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul><ul class="items col-3"><li class="label"><h4 class="label">Resources</h4></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/mobile/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Resources-Mobile" }' class="title"><span>Mobile</span></a></li>
+                                                                                                                                                                                                <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Resources-Radio" }' class="title"><span>Radio</span></a></li>
+                                                                                                                                                                                                <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Resources-Local" }' class="title"><span>Local</span></a></li>
+                                                                                                                                                                                                <li><a href="/in-depth/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/nyc-health-official-expects-more-legionnaires-disease-cases/ Flyout-nav|More-Resources-In Depth" }' class="title"><span>In Depth</span></a></li>
+                                                                                                                                    </ul></div>
+                                </div>
+                                                    </li>
+                                    </ul></nav></div>
+    </div>
+    
+        </header><div id="mantle_skin" class="content-primary article-page default">
+                                                <div id="leader-plus-top-55bd93643415e" class="ad-leader-plus-top" data-ad="leader-plus-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-plus-top-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-plus-top-55bd93643415e");
+    </script></div>
+
+    
+                <div itemscope itemtype="http://schema.org/Article">
+	  <meta itemprop="genre" content="News"><meta itemprop="sourceOrganization" content="CBS News"><meta itemprop="articleSection" content="Health"><meta itemprop="alternativeHeadline" content="NYC health official expects more Legionnaires' disease cases"><meta itemprop="description" content="Outbreak in the Bronx has killed four people and sickened dozens; health official says it's &quot;likely that there will be more cases&quot;"><meta itemprop="datePublished" content="August 1, 2015, 10:07 PM"></div>
+    <div class="container">
+    <div class="row">
+                    <div class="row">
+        <div class="col-12">
+                                                    
+                                                        
+                                            
+    
+
+
+    
+                                                                    </div>
+            </div>
+                <div class="row">
+        <div class="col-12">
+                                            <div class="row">
+                                    <div class="col-8">
+                                                    
+                                                        
+                                            
+    <!-- src/CbsNews/ArticleBundle/Resources/views/Single/article.desktop.html.twig -->
+<article class="article "><header><div class="byline">
+                                                               
+                                            <span class="source">CBS/AP</span>
+                    <span class="time">August 1, 2015, 10:07 PM</span></div>
+        
+        <h1 class="title" itemprop="headline">NYC health official expects more Legionnaires' disease cases</h1>
+
+		
+    </header><div class="article-image" itemprop="image">
+                <figure class="image gallery related-gallery"><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/02/374c9c37-401f-41cf-9752-3371923e0519/thumbnail/620x350/e93ffa8d41f22349d6e18db036f850ff/legionnaires-disease.jpg" alt="" height="350" width="620"></span>
+                                        <figcaption><div class="caption">
+                                <p>Legionella bacteria, which causes Legionnaires's disease, is seen through a microscope.</p>
+                            </div>
+                                                                            <div class="credit">
+                                CBS New York
+                            </div>
+                                            </figcaption></figure></div>
+            
+        
+
+<div class="social sharebar_expanded inline-sharebar theme-light " data-component="sharebar">
+
+
+    <ul data-component="socialCounts" data-social-counts-options='{"title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","showZeros":false}'><li class="std-social">
+            <a href="#postComments" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Comments"}' id="std-comments"><span class="livefyre-commentcount comment-count" data-lf-site-id="323201" data-lf-article-id="3cf25eae-53cc-44e7-832d-c4cfce1732e3" data-lf-format="fullTextWithoutZero"></span></a>
+        </li>
+                
+        <li class="std-social std-facebook" data-dropdown-toggle>
+           <a class="sharebar-facebook" data-item="trigger" data-counts data-popup="facebook" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Facebook"}'>
+                <span class="social-count social-icon"></span>
+           </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","facebookAppId":"79439656165","location":"top"}'>
+                    <div class="social-button" data-button="facebook"></div>
+                </div>
+           </div>   Shares
+        </li>
+
+        <li class="std-social std-twitter" data-dropdown-toggle>
+           <a class="sharebar-twitter" data-item="trigger" data-counts data-popup="twitter" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Twitter"}'>
+                <span class="social-icon"></span>
+
+           </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","via":"cbsnews","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"top"}'>
+                    <div class="social-button" data-button="twitter"></div>
+                </div>
+           </div>  Tweets
+        </li>
+
+        <li class="std-social std-stumble" data-dropdown-toggle>
+            <a class="sharebar-stumble" data-item="trigger" data-counts data-popup="stumbleupon" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|StumbleUpon"}'>
+                <span class="social-icon count"></span>
+                Stumble
+            </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"top"}'>
+                    <div class="social-button" data-button="stumbleupon"></div>
+                </div>
+           </div>
+        </li>
+
+        <li class="std-social last std-email">
+            <span class="emailImage btnImage"></span>
+            <a href="mailto:?subject=Your%20friend%20has%20shared%20a%20CBSNews%20link%20with%20you&amp;body=NYC%20health%20official%20expects%20more%20Legionnaires%27%20disease%20cases%0Dhttp%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fnyc-health-official-expects-more-legionnaires-disease-cases" title="Email" class="sharebar-email">
+                <span class="social-icon"></span>
+                Email
+            </a>
+        </li>
+
+        <!-- MORE DROPDOWN -->
+        <li class="extra-social" data-dropdown-toggle>
+           <a class="sharebar-more" data-item="trigger">More +</a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"top"}'>
+                    <ul><li class="googlePlusOneShareBtn">
+                            <div class="social-button" data-button="googleplus" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-Google"}'></div>
+                        </li>
+                        <li class="linkedInShareBtn">
+                            <div class="social-button" data-button="linkedin" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-LinkedIn"}'></div>
+                        </li>
+                        <li class="redditShare">
+                            <div class="social-button" data-button="reddit" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-Reddit"}'></div>
+                        </li>
+                    </ul></div>
+           </div>
+        </li>
+
+    </ul></div>
+    
+
+
+    <div class="entry" itemprop="articleBody" id="article-entry">
+
+        
+        <p><strong></strong><strong>NEW YORK --</strong> A New York City health official says it is likely doctors will diagnose more cases of <a href="http://www.cbsnews.com/news/legionnaires-disease-new-york-city-health-officials-source-of-outbreak/" target="_blank">Legionnaires' disease in the Bronx</a> in the coming days, amid an outbreak that has killed four and sickened dozens.</p><p>Dr. Jay Varma, deputy commissioner for disease control in the city's health department, told The Associated Press on Saturday that people who live or work in the South Bronx, where the disease-causing bacteria have been found, could be at risk.</p><p></p><div class="shortcode-gallery shortcode small left" id="shortcode-video">
+    <a data-open="modalAsync" data-modal-async-url="/videos/0cd05357-a22e-4091-8dc8-fd7526559be0/xhr" data-modal-options='{"position": "absolute", "checkIE": "true"}' data-omniture-track="trackVideoOverlayView" data-omniture-track-data='{"siteSection":"CBS This Morning","siteHier":["CBS This Morning"],"pageType":"video","mediaTitle":"Dozens in NYC sickened in unusual Legionnaire\u0027s outbreak","mediaId":"0cd05357-a22e-4091-8dc8-fd7526559be0","mediaType":"content_video","topicId":["46046528-758d-11e2-9d12-0018fe8a00b0"],"topicName":["CBS This Morning"]}' href="/videos/dozens-in-nyc-sickened-in-unusual-legionnaires-outbreak">
+        <figure class="gallery overlay-video"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/31/b1757eff-2b26-4b45-a7b8-3772c67982cd/thumbnail/220x140/2415942eba3dcb9fbaf564305f9f1a14/ctm0731moro428414640x360.jpg" alt="" height="140" width="220"></span>
+
+            <figcaption><div class="meta">
+                    <span class="count">Play</span>
+                    <span class="label">Video</span>
+                </div>
+                <span class="topic">CBS This Morning</span>
+                <h3 class="title">Dozens in NYC sickened in unusual Legionnaire's outbreak</h3>
+                <p class="dek">
+                                            Officials are racing to find all the sources of a widening Legionnaire&rsquo;s disease outbreak in New York City. Forty-six cases have been reported in...
+                                    </p>
+            </figcaption></figure></a>
+</div><p>"It's certainly possible and likely that there will be more cases of this disease identified over the next few days," he said. "And those will be due to people who were exposed to this infection before the cleaning process began."</p><p>City officials have said they inspected 17 cooling towers in the area and found five that tested positive for legionella bacteria. They have all since been cleaned.</p><p>Health Commissioner Dr. Mary Bassett said earlier this week the outbreak has nothing to do with the city's water towers or drinking water, <a href="http://newyork.cbslocal.com/2015/08/01/legionnaires-disease-outbreak-death/" target="_blank">CBS New York reported</a>. </p><p>"There is no worry about our water supply. We are concerned about cooling towers, which release warm mist. The water supply in the South Bronx remains entirely safe," she said.</p><p>Legionnaires' disease is caused when water tainted with a certain bacteria is inhaled into the lungs. Symptoms include headache, fatigue, loss of appetite, confusion and diarrhea and usually appear appear two to 10 days after exposure to legionella bacteria.</p><p>"We do think that the work we have done to identify contaminated towers and decontaminate them will remove the risk of future infection," Varma said.</p><p>But he cautioned that people may have been exposed before the cooling towers were cleaned, meaning more cases of Legionnaires' disease could pop up in the next few days.</p><p>"We know that this is an exposure that can occur to people who are outside the building," he said. "The risk is to people who are living in those communities close to where these cooling towers are or people who are working in those neighborhoods."</p><p>Varma said Legionnaires' disease is easily diagnosed and treated with antibiotics, but can pose a serious risk to anyone with an underlying medical condition.</p><p>"It takes two things: It takes being exposed to a cooling tower that is generating this contaminated mist and it takes having some factor that makes you more susceptible to get pneumonia. So it's very difficult to know who was exposed and who will get sick," he said. "Our hope, of course, is that no one else becomes sick from this disease and of course we hope no one dies from it."</p><p>There have been 2,400 cases nationwide this year and more than 130 in New York City, according to the Centers for Disease Control and Prevention.</p>
+    </div>
+
+	
+    
+
+            <div class="copyright">
+                                        &copy; 2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+                    </div>
+    
+    
+
+             	
+
+<div class="social sharebar_expanded inline-sharebar theme-light " data-component="sharebar">
+
+
+    <ul data-component="socialCounts" data-social-counts-options='{"title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","showZeros":false}'><li class="std-social">
+            <a href="#postComments" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Comments"}' id="std-comments"><span class="livefyre-commentcount comment-count" data-lf-site-id="323201" data-lf-article-id="3cf25eae-53cc-44e7-832d-c4cfce1732e3" data-lf-format="fullTextWithoutZero"></span></a>
+        </li>
+                
+        <li class="std-social std-facebook" data-dropdown-toggle>
+           <a class="sharebar-facebook" data-item="trigger" data-counts data-popup="facebook" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Facebook"}'>
+                <span class="social-count social-icon"></span>
+           </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","facebookAppId":"79439656165","location":"bottom"}'>
+                    <div class="social-button" data-button="facebook"></div>
+                </div>
+           </div>   Shares
+        </li>
+
+        <li class="std-social std-twitter" data-dropdown-toggle>
+           <a class="sharebar-twitter" data-item="trigger" data-counts data-popup="twitter" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Twitter"}'>
+                <span class="social-icon"></span>
+
+           </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","via":"cbsnews","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"bottom"}'>
+                    <div class="social-button" data-button="twitter"></div>
+                </div>
+           </div>  Tweets
+        </li>
+
+        <li class="std-social std-stumble" data-dropdown-toggle>
+            <a class="sharebar-stumble" data-item="trigger" data-counts data-popup="stumbleupon" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|StumbleUpon"}'>
+                <span class="social-icon count"></span>
+                Stumble
+            </a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"bottom"}'>
+                    <div class="social-button" data-button="stumbleupon"></div>
+                </div>
+           </div>
+        </li>
+
+        <li class="std-social last std-email">
+            <span class="emailImage btnImage"></span>
+            <a href="mailto:?subject=Your%20friend%20has%20shared%20a%20CBSNews%20link%20with%20you&amp;body=NYC%20health%20official%20expects%20more%20Legionnaires%27%20disease%20cases%0Dhttp%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fnyc-health-official-expects-more-legionnaires-disease-cases" title="Email" class="sharebar-email">
+                <span class="social-icon"></span>
+                Email
+            </a>
+        </li>
+
+        <!-- MORE DROPDOWN -->
+        <li class="extra-social" data-dropdown-toggle>
+           <a class="sharebar-more" data-item="trigger">More +</a>
+           <div class="share-dropdown" data-dropdown-el="content">
+                <span class="triangle triangle-outer"></span>
+                <span class="triangle triangle-inner"></span>
+                <div class="dropdown-container" data-component="socialButton" data-social-button-options='{"mode":"horizontal","title":"NYC health official expects more Legionnaires\u0027 disease cases","description":"Outbreak in the Bronx has killed four people and sickened dozens; health official says it\u0027s \u0022likely that there will be more cases\u0022","url":"http:\/\/www.cbsnews.com\/news\/nyc-health-official-expects-more-legionnaires-disease-cases","location":"bottom"}'>
+                    <ul><li class="googlePlusOneShareBtn">
+                            <div class="social-button" data-button="googleplus" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-Google"}'></div>
+                        </li>
+                        <li class="linkedInShareBtn">
+                            <div class="social-button" data-button="linkedin" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-LinkedIn"}'></div>
+                        </li>
+                        <li class="redditShare">
+                            <div class="social-button" data-button="reddit" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social Flyout|More-Reddit"}'></div>
+                        </li>
+                    </ul></div>
+           </div>
+        </li>
+
+    </ul></div>
+            
+
+</article><div class="module module-listing module-bulk ">
+                                                                                                   
+    <div class="listing-full-focus-with-label ">
+    <ul class="items"><li>
+
+   <div data-item="recirc" data-yad="f062d64e-6893-3d93-a0a7-11f6dfbf0c2b"></div></li>
+                </ul></div>                                                        </div>
+                                                                                
+                                                        
+                                                                        
+
+<section class="section module-rem"><div class="row">
+        <div class="col-4">
+            <h2 class="title">Featured in Health</h2>
+                                                                                                
+
+<div class="listing-full ">
+    <ul class="media-list items"><li class="">
+    <a href="/news/how-to-fight-insect-bites-this-summer/">
+        <figure class="media-block img-inset" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Large Image"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/04/10/afaff966-9618-4285-8b61-c65e6b4baabd/thumbnail/300x190/9321c3a1728b9eddf4c4013b9080d210/mosquito.jpg" alt="" height="190" width="300"></span>
+        </figure><h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Headline"}'>How to fight insect bites this summer</h3>
+
+        <p class="dek" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Body"}'>
+Climate change could increase the risk from mosquitoes and ticks; here's what you need to know before you go outside this summer</p>
+            </a>
+</li>
+
+                            
+                                                
+
+
+
+    
+
+<li class="">
+    <a href="/news/one-thing-to-add-to-your-diet-if-you-want-to-lose-weight/">
+        <figure class="media-block img-inset" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Large Image"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/02/16/6b666b28-b99a-46ad-9ac5-e18e979147c3/thumbnail/300x190/c26aeeeca7a88b582dac3bcafb64a009/istock000020432447large.jpg" alt="" height="190" width="300"></span>
+        </figure><h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Headline"}'>One thing to add to your diet if you want to lose weight</h3>
+
+        <p class="dek" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Body"}'>
+Instead of following a complex diet plan, this one simple change can make a significant difference</p>
+            </a>
+</li>
+
+                </ul></div>                     </div>
+
+        <div class="col-4">
+            <h2 class="title">Popular</h2>
+
+            <div class="YAD-e7d6fab1-2952-3e8f-9b1b-93cc834e78b9" data-yad="e7d6fab1-2952-3e8f-9b1b-93cc834e78b9"></div>
+        </div>
+    </div>
+</section><div id="comments" class="comments ">
+    <a name="postComments"></a>
+			<h2 class="title"><span class="livefyre-commentcount comment-count" data-lf-site-id="323201" data-lf-article-id="3cf25eae-53cc-44e7-832d-c4cfce1732e3" data-lf-format="NumberOnlyNotZero"></span> Comments</h2>
+	
+	        	
+    <div id="livefyreConversation" data-component="livefyreConversation" data-livefyre-conversation-options='{"globalConfig":{"network":"cbsnews.fyre.co"},"commentStreamConfigs":{"siteId":323201,"articleId":"3cf25eae-53cc-44e7-832d-c4cfce1732e3","el":"livefyreConversation","checksum":"58fb36287fb80b067821d5d2175863c9","disableAvatars":"true","collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6Ik5ZQyBoZWFsdGggb2ZmaWNpYWwgZXhwZWN0cyBtb3JlIExlZ2lvbm5haXJlcycgZGlzZWFzZSBjYXNlcyIsInVybCI6Imh0dHA6XC9cL3d3dy5jYnNuZXdzLmNvbVwvbmV3c1wvbnljLWhlYWx0aC1vZmZpY2lhbC1leHBlY3RzLW1vcmUtbGVnaW9ubmFpcmVzLWRpc2Vhc2UtY2FzZXNcLyIsImNoZWNrc3VtIjoiNThmYjM2Mjg3ZmI4MGIwNjc4MjFkNWQyMTc1ODYzYzkiLCJhcnRpY2xlSWQiOiIzY2YyNWVhZS01M2NjLTQ0ZTctODMyZC1jNGNmY2UxNzMyZTMifQ.nbI6fJO_DYXdfnAlBGuQ7l2ezbXbZkTQmH9KF8y5OoM","anonymousFlaggingEnabled":false}}'></div></div>
+
+
+                                                                    </div>
+            <div class="col-4">
+                                                    
+                                    <!-- Component template not found: familyName: editorial typeName: mixed_editorial - view: null -->
+                                                            
+                                                        
+                                                
+
+                    <div id="mpu-plus-top-55bd93643415e" class="ad-mpu-plus-top" data-ad="mpu-plus-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-plus-top-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-plus-top-55bd93643415e");
+    </script></div>
+                                                                                                            
+                                                        
+                                            
+
+
+<div class="module module-listing">
+    <h2 class="module-heading title">Most Popular</h2>
+
+    
+<div class="listing-mini-number ">
+    <ul class="media-list items"><li>
+    <a href="/news/allegiant-air-pilot-pleads-atc-make-emergency-landing-closed-airport/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-1"}'>01</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-1"}'>Allegiant Air pilot pleads with tower to make emergency landing</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-1"}'>150173</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-1"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/media/you-probably-pay-too-much-for-these-9-things/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-2"}'>02</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-2"}'>You probably pay too much for these 9 things</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-2"}'>133483</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-2"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/woman-killed-alleged-serial-killer-neal-falls-recounts-final-fight/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-3"}'>03</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-3"}'>Woman who killed alleged serial killer recounts final fight</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-3"}'>99647</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-3"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/bobbi-kristina-brown-dead-at-22/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-4"}'>04</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-4"}'>Bobbi Kristina Brown dead at 22</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-4"}'>73745</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-4"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/samuel-dubose-death-cincinnati-officer-traffic-stop-murder-charges-body-cam-video/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-5"}'>05</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-5"}'>Murder charges for officer who fatally shot driver in traffic stop</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-5"}'>73278</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-5"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                </ul></div></div>                                                                                
+                                                        
+                                            
+
+
+
+    
+    
+<div class="module module-mobile-apps download-app">
+        <h2 class="module-heading title"><span class="span-title">Watch CBSN Live</span></h2>
+        <a href="http://cbsn.cbsnews.com/?ftag=CNM647193a">
+        <figure><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/2015/02/27/9a77d295-1a09-4d2b-b817-2484edd8ef16/5780a305f2e8f89d33858173d333a58b/promocbsn.jpg" alt=""></span>
+                    </figure></a>
+    <div class="promo-feature">
+                <p class="dek">Watch CBS News anytime, anywhere with the new 24/7 digital news network.  Stream CBSN live or on demand for FREE on your TV, computer, tablet, or smartphone.</p>
+        <a href="http://cbsn.cbsnews.com/?ftag=CNM647193a" class="btn-rounded">Watch Now</a>
+    </div>
+</div>
+                                                                                
+                                                        
+                                            
+
+                    <div id="mpu-middle-55bd93643415e" class="ad-mpu-middle" data-ad="mpu-middle" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-middle-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-middle-55bd93643415e");
+    </script></div>
+                                                                                    
+                                                        
+                                            
+            
+<div class="listing-media-feature" data-component="carousel" data-carousel-options='{"autoplayDelay":0,"transitionDuration":0}'>
+    <div class="viewport" data-item="viewport">
+        <ul class="canvas" data-item="canvas"><li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/california-wildfires-force-hundreds-to-evacuate/" title="California wildfires force hundreds to evacuate">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-1"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/2e41bc7e-81ac-447c-bb27-5ce9acff4ee5/thumbnail/300x190/2348b9933499e12c8dcdd6c881e47c60/enevanswildfires428869640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-1"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-1"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-1"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-1"}'>California wildfires force hundreds to evacuate</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/high-speed-chases-claim-innocent-lives/" title="High-speed chases claim innocent lives">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-2"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/31/bc301a68-3cdf-4d63-a5e8-0333265ef9bd/thumbnail/300x190/964bfb0920b3f9dcfad833d0f2db9398/envillafrancahighspeedchases428695640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-2"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-2"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-2"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-2"}'>High-speed chases claim innocent lives</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/malaysia-airlines-flight-370-search-focuses-on-remote-island/" title="Malaysia Airlines Flight 370 search focuses on remote island">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-3"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/24b359a9-a69f-4e87-9b97-cefe8767afcd/thumbnail/300x190/bbaa01d9cbb89060437c1ab210f4e20a/envigliottamh370428885640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-3"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-3"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-3"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-3"}'>Malaysia Airlines Flight 370 search focuses on remote island</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/oceanographer-on-investigation-of-debris-likely-linked-to-malaysia-airlines-flight-370/" title="Oceanographer on investigation of debris likely linked to MH370">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-4"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/31/23b8b413-adc0-4f5b-9374-c411257617e1/thumbnail/300x190/6b170bc1dd0bfedfc69d7800e674a176/ctm0731mh370analysis428368640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-4"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-4"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-4"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-4"}'>Oceanographer on investigation of debris likely linked to MH370</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/lions-death-prompts-zimbabwe-to-suspend-hunting/" title="Lion's death prompts Zimbabwe to suspend hunting">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-5"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/a6775abd-3d2d-4e5b-8a96-581c36eedee2/thumbnail/300x190/b0457c2ed1507fb1646efbe42820c5ee/enduncanlions428876640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-5"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-5"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-5"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-5"}'>Lion's death prompts Zimbabwe to suspend hunting</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/feds-warn-of-possible-drone-terror-attacks-in-u-s/" title="Feds warn of possible drone terror attacks in U.S.">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-6"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/60986fd4-36cb-4e6f-876b-ce3e8e646700/thumbnail/300x190/1c964a2e5cc1e3dadd099566d93becdd/enpeguesdrones428871640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-6"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-6"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-6"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-6"}'>Feds warn of possible drone terror attacks in U.S.</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/muslim-comedian-aims-to-change-minds-with-laughter/" title="Muslim comedian aims to change minds with laughter">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-7"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/08/01/36535294-c43c-4337-b4c9-43aca966afc0/thumbnail/300x190/bf38c165ab3cb8559115164005fce2bd/endahlercomic1428892640x360.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-7"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-7"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-7"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-7"}'>Muslim comedian aims to change minds with laughter</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                    </ul><div class="paging">
+            <a class="prev" data-to="prev" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Left-6"}'>Previous</a>
+            
+            <a class="next" data-to="next" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Right-6"}'>Next</a>
+        </div>
+    </div>
+</div>    
+                                                                                
+                                                        
+                                            
+
+
+<div class="module module-listing" id="module-right-rail-most-shared">
+    <h2 class="module-heading title">Most Shared</h2>
+
+    
+<div class="listing-mini-sub ">
+    <ul class="media-list items"><li>
+    <a href="/news/bobbi-kristina-brown-remembered-by-the-stars/">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Image-1"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/02/13/0b491f4e-778a-4b06-95c9-b72ce5bb37e3/thumbnail/60x60g2/08f836181b2a5c10de0c34a960231e9f/ap55050192109-1240.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Headline-1"}'>Stars react to death of Bobbi Kristina Brown
+            </h4>
+                                                </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/us-marines-mia-tarawa-atoll-wwii-repatriated-mark-noah-history-flights/">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Image-2"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/27/9c4e2f50-3cc9-4975-a327-4dfd592df266/thumbnail/60x60/728d271f5b6a5db0d3820d4e88664696/tarawa-repatriation-ceremony.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Headline-2"}'>U.S. Marines killed in WWII battle finally headed home
+            </h4>
+                                                </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/8-year-old-boy-england-with-cerebral-palsy-triathlon-inspires-finish-line/">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Image-3"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/30/d7028c35-cd7d-4d5f-a305-e397cd640863/thumbnail/60x60/91e052a0a5f34469d3d3338bec8340e5/bailey-matthews.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Headline-3"}'>8-year-old with cerebral palsy inspires with emotional triathlon finish
+            </h4>
+                                                </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/cecil-the-lion-man-accused-of-illegally-killing-lion-convicted-in-2006-bear-hunt/">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Image-4"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/28/d324c894-60d8-444e-80b5-7a3bfdb97139/thumbnail/60x60/fd6baafb7d6d640b9a83d25d8c9208e6/en0728patta.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Headline-4"}'>American accused of killing African lion convicted in '06 bear hunt
+            </h4>
+                                                </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/mia-farrow-puts-lion-dentists-address-on-twitter-faces-backlash/">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Image-5"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/30/be468a15-aa1a-4332-bade-fda2837b98dc/thumbnail/60x60/6642a13356e79496d0a1a5286f71272f/gettyimages-453350766.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Shared|Headline-5"}'>Mia Farrow faces backlash for posting lion dentist's address
+            </h4>
+                                                </div>
+    </a>
+</li>
+
+                        </ul></div></div>
+
+
+                                                                                
+                                                        
+                                            
+            
+<div class="listing-media-feature" data-component="carousel" data-carousel-options='{"autoplayDelay":0,"transitionDuration":0}'>
+    <div class="viewport" data-item="viewport">
+        <ul class="canvas" data-item="canvas"><li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/photos-of-the-week-july-25-july-31-2015/" title="Photos of the week">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-1"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/31/b5a17e03-3189-43ed-baef-1d790c5d0171/thumbnail/300x190/a0c8368518f5782198b42ac4273a7e82/rtx1lrb6.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-1"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-1"}'>39</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-1"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-1"}'>Photos of the week</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/scenes-from-lollapalooza-2015/" title="Scenes from Lollapalooza 2015">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-2"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/08/01/60678791-29e0-4756-92c7-4ff1c10f38f6/thumbnail/300x190/555ffa550eb554379d816f78d9185204/lollapalooza-2015-paul-mccartney-alabama-shakes-getty-482632622594screen.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-2"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-2"}'>20</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-2"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-2"}'>Scenes from Lollapalooza 2015</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/wildfires-in-the-west/" title="Wildfires in the West">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-3"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/06/22/708c1ab4-74de-4dd1-b6ab-4d6069209659/thumbnail/300x190/c3c5469ba3782d1b5475ee0bb204cead/rtx1gm6u.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-3"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-3"}'>38</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-3"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-3"}'>Wildfires in the West</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/migrant-crisis-calais-eurotunnel-channel-crossing/" title="Eurotunnel migrant crisis">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-4"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/30/abb271b0-9308-4ca3-ad76-ff95fef21fae/thumbnail/300x190/8b6e4610c68bf3e702eb019ac339e828/gettyimages-482316922.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-4"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-4"}'>24</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-4"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-4"}'>Eurotunnel migrant crisis</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/drought-dries-up-lake-mead/" title="Lake Mead drying up">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-5"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/29/d55fc9fb-4fb0-4380-bddc-f326ddd2f85b/thumbnail/300x190/7f5553f58c17100154bf6201297e3030/rtx1bw0d.jpg" alt="" height="190" width="300"></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-5"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-5"}'>25</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-5"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-5"}'>Lake Mead drying up</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                    </ul><div class="paging">
+            <a class="prev" data-to="prev" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Left-8"}'>Previous</a>
+            
+            <a class="next" data-to="next" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Right-8"}'>Next</a>
+        </div>
+    </div>
+</div>    
+                                                                                
+                                                        
+                                            
+
+                    <div id="resource-center-top-55bd93643415e" class="ad-resource-center-top" data-ad="resource-center-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing resource-center-top-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("resource-center-top-55bd93643415e");
+    </script></div>
+                                                                                    
+                                                        
+                                            
+
+
+<div class="module module-listing" id="module-right-rail-most-discussed">
+    <h2 class="module-heading title">Most Discussed</h2>
+
+    
+<div class="listing-mini-sub ">
+    <ul class="media-list items"><li>
+    <a href="/news/obama-outrageous-gop-attacks-far-too-commonplace/">
+        <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/27/6651da47-16ff-4d14-9b03-3e05c5cff4e4/thumbnail/60x60/d7d983402dae81ab931de91d0aef7c5f/gettyimages-482121104.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Obama talks about slings from Trump, Huckabee
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="fb5cef6f-5d04-481d-8c0d-552bd67264b3" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/samuel-dubose-death-cincinnati-officer-traffic-stop-murder-charges-body-cam-video/">
+        <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/29/21ab9ebe-8269-4689-91ac-460227e1b1c6/thumbnail/60x60/244701663ba2f38bbd7d32e7603c52d5/policevid.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Murder charges for officer who fatally shot driver in traffic stop
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="61ebe6c9-98d0-444e-9f5f-af9b2fde3e1d" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/trump-lawyer-you-cannot-rape-your-spouse/">
+        <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/28/814c1745-36d4-4059-b78c-e807528ce2bf/thumbnail/60x60/6fc41a1ef444a60564c8a310b6fc38b3/ctm0728trumprape426846640x360.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Donald Trump's lawyer apologizes for spousal rape comments
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="e93e0067-5300-4919-aa1a-d6307473291b" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/samuel-dubose-traffic-stop-death-officer-ray-tensing-pleads-not-guilty-in-slaying-of-motorist/">
+        <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/30/370ae590-d154-4b2f-b861-55af2b8be75b/thumbnail/60x60/72a7032dbb48367e13c1c109464bbce1/tensingap661019513192.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Ex-cop pleads not guilty in traffic stop slaying
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="0498e25c-5cef-410c-8523-2a39d47566b8" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+    <a href="/news/can-congress-defund-planned-parenthood/">
+        <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/27/b5bf6b7e-febc-45ba-841d-7d31b8ef68cf/thumbnail/60x60/759f6728cc4118687f5a8a453dc595e1/ap824771336561.jpg" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Can Congress defund Planned Parenthood?
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="6ddd61c6-fde5-4eaf-ba62-0813ca097dc4" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                        </ul></div></div>
+
+
+                                                                                
+                                                        
+                                            
+
+                    <div id="mpu-bottom-55bd93643415e" class="ad-mpu-bottom" data-ad="mpu-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-bottom-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-bottom-55bd93643415e");
+    </script></div>
+                                                                                    
+                                                        
+                                            
+
+
+
+    
+    
+<div class="module module-mobile-apps download-app">
+        <h2 class="module-heading title"><span class="span-title">New Android App</span></h2>
+        <a href="https://play.google.com/store/apps/details?id=com.treemolabs.apps.cbsnews">
+        <figure><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/2015/04/03/63a01718-2c93-474a-9c82-1f32cff03558/a7384b9647c3862bb65c33524247d7ba/promocbsn-android.jpg" alt=""></span>
+                    </figure></a>
+    <div class="promo-feature">
+                <p class="dek">For your Android phone and tablet, download the FREE redesigned app, featuring CBSN, live 24/7 news.</p>
+        <a href="https://play.google.com/store/apps/details?id=com.treemolabs.apps.cbsnews" class="btn-rounded">Download</a>
+    </div>
+</div>
+                                                                    </div>
+                                </div>
+                        </div>
+            </div>
+        </div>
+</div>
+
+
+            <div id="leader-bottom-55bd93643415e" class="ad-leader-bottom" data-ad="leader-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-bottom-55bd93643415e for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-bottom-55bd93643415e");
+    </script></div>
+
+        </div>
+
+    
+            <img src="http://dw.cbsi.com/levt/ria/e.gif?event=log&amp;siteid=162&amp;mapp=hi-pagetracker&amp;comptyp=pagetype&amp;comp=article_single&amp;riaevent=view&amp;s6=bottom&amp;s7=desktop" border="0" height="1" width="1" alt="" class="tracking-gif"><footer class="site-footer content-inverse"><div class="container">
+                        <div class="row">
+            <div class="col-2 link-block">
+                <h5 class="title">CBSNews.com</h5>
+
+                <ul class="items"><li><a href="/sitemap/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Site Map"}'>Site Map</a></li>
+                    <li><a href="https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cbsnews.com" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Help"}'>Help</a></li>
+                                        <li><a href="http://audienceservices.cbs.com/feedback/feedback.htm" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Contact Us"}'>Contact Us</a></li>
+
+                    <li><a href="/team/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|CBS Bios"}' data-vanity-rewritten="true">CBS Bios</a></li>
+                    <li><a href="https://cbs.avature.net/cbsnewscareers" data-omniture-track-data='{"clickProperty": "Site Footer|Careers"}'>Careers</a></li>
+                    <li><a href="/news/cbs-news-internship-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Internships"}'>Internships</a></li>
+                    <li><a href="/news/cbs-news-associates-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Development Programs"}'>Development Programs</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">CBS Interactive</h5>
+
+                <ul class="items"><li><a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Privacy Policy"}'>Privacy Policy</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Ad Choice"}'>Ad Choice</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Terms of Use"}'>Terms of Use</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/eula" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Mobile User Agreement"}'>Mobile User Agreement</a></li>
+                    <li><a href="http://www.cbscorporation.com/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|About CBS"}'>About CBS</a></li>
+                    <li><a href="http://www.cbsinteractive.com/advertise/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Advertise"}'>Advertise</a></li>
+                    <li><a href="http://cbsimedia.cbs.com/captioning/info.html" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Closed Captioning"}'>Closed Captioning</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">Follow Us</h5>
+
+                <ul class="items"><li><a href="https://www.facebook.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Facebook"}'>Facebook</a></li>
+                    <li><a href="http://twitter.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Twitter"}'>Twitter</a></li>
+                    <li><a href="http://www.cbsnews.com/rss/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|RSS"}'>RSS</a></li>
+                    <li><a href="/newsletters/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Email Newsletters"}'>Email Newsletters</a></li>
+                    <li><a href="http://www.youtube.com/user/CBSNewsOnline" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|YouTube"}'>YouTube</a></li>
+                    <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Radio News"}'>CBS Radio News</a></li>
+                    <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Local"}'>CBS Local</a></li>
+                </ul></div>
+
+            <div class="col-4 push-2">
+                <div class="site-brand">
+                    <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer-Branding"}'>CBS News</a></div>
+
+                    <p class="copyright">Copyright &copy; 2015 CBS Interactive Inc.<br>All rights reserved.</p>
+                </div>
+
+                <form class="site-search" action="/search/" method="get" data-component="search" data-search-options='{"path":"\/search\/","param":"q"}'>
+                    <input type="search" class="query" maxlength="255" name="q" placeholder="Search..."><button type="submit" class="submit core-search-footer">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</footer></div> 
+	<div id="get-app-banner" data-component="getAppBanner">
+	<a id="get-app-banner--text-container" class="get-app-banner--anchor" target="_blank">
+		<span id="get-app-banner--subheader" class="get-app-banner--span">The all&nbsp;new</span>
+        <br><span id="get-app-banner--header" class="get-app-banner--span">CBS News App
+            <span id="get-app-banner--android" class="get-app-banner--device">for Android<sup>&reg;</sup></span>
+            <span id="get-app-banner--ipad" class="get-app-banner--device">for iPad<sup>&reg;</sup></span>
+            <span id="get-app-banner--iphone" class="get-app-banner--device">for iPhone<sup>&reg;</sup></span>
+        </span>
+        <br><span id="get-app-banner--description" class="get-app-banner--span">Fully redesigned. Featuring CBSN, 24/7&nbsp;live&nbsp;news.</span>
+		<span id="get-app-banner--cta" class="get-app-banner--span">Get the App</span>
+	</a>
+	<a id="get-app-banner--close" class="get-app-banner--anchor">&#9587;</a>
+</div>
+
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8178a7f262","applicationID":"8449215","transactionName":"ZAZXNkNRCkEHBxAMX11MdAFFWQtcSSIIHHxaFVAESEIBcBMKAAlVCS9cFFRWHUADXgcKXkUGRxFQRA1dCA==","queueTime":0,"applicationTime":1268,"atts":"SEFUQAtLGU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body></html>

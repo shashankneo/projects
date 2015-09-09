@@ -1,0 +1,1046 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE 7]><html class="ie7" lang="en"><![endif]--><!--[if IE 8]><html class="ie8" lang="en"><![endif]--><!--[if IE 9]><html class="ie9" lang="en"><![endif]--><!--[if gt IE 9]><!--><html lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns#"><script src="//www.wsbtv.com/dolphin/js/"></script><title>Funeral for Bobbi Kristina Brown ends in outburst | www.wsbtv.com</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DVFJACgQIXVlSAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"aaf23b031f","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"MQYHNRZYCkZVBxcKVghMIxQKWhBcWwpMAVwSFwATB1gHXVFKFQpcERBfIwFNEFBGMgoGTkgEABU=","applicationID":"2789804","errorBeacon":"bam.nr-data.net","applicationTime":7}</script><meta name="google-site-verification" content="K3uJP50FN9kMBDgcmsFtcHHtphN7sHwGm5bn9_nl5Tg" /><meta name="apple-mobile-web-app-title" content="wsb-tv" /><!-- templates/common/web/includes/extended_meta.html --><meta name="description" content="A group of family and loved ones gathered in Fulton County Saturday to say goodbye to 22-year-old Bobbi Kristina Brown." /><meta name="keywords" content="wsbblurb" /><meta name="cmg_revpath" content="/re/292/3011443/news/news/local/bobbi-kristinas-private-funeral-underway/nnBQQ/" /><meta property="og:title" content="Funeral for Bobbi Kristina Brown ends in outburst" /><meta property="og:url" content="http://www.wsbtv.com/news/news/local/bobbi-kristinas-private-funeral-underway/nnBQQ/" /><meta property="og:description" content="A group of family and loved ones gathered in Fulton County Saturday to say goodbye to 22-year-old Bobbi Kristina Brown." /><link rel="image_src" href="http://media.cmgdigital.com/shared/theme-assets/202015/www.wsbtv.com_705c61066106421bb054337d3eb73541.png" /><meta property="vr:canonical" content="http://www.wsbtv.com/news/news/local/bobbi-kristinas-private-funeral-underway/nnBQQ/" /><meta property="og:type" content="article" /><meta property="og:image" content="http://media.cmgdigital.com/shared/img/photos/2015/08/01/13/2e/CLU7MZrWwAAOHVu.jpg" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Funeral for Bobbi Kristina Brown ends in outburst" /><meta name="twitter:description" content="Family members gathered for the private service for the daughter of Whitney Houston and Bobby Brown at Saint James United Methodist Church in Alpharetta." /><meta name="twitter:image" content="http://media.cmgdigital.com/shared/lt/lt_cache/resize/120x120/img/photos/2015/08/01/c7/01/bobbi_kristina.jpg" /><meta name="twitter:site" content="@wsbtv" /><link rel="canonical" href="http://www.wsbtv.com/news/news/local/bobbi-kristinas-private-funeral-underway/nnBQQ/" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.wsbtv.com/news/news/local/bobbi-kristinas-private-funeral-underway/nnBQQ/" /><link rel="shortcut icon" href="http://media.cmgdigital.com/shared/theme-assets/202015/www.wsbtv.com_a50eba62317f4c8a936d5ea252acac0e.ico" /><link rel="apple-touch-icon" href="http://media.cmgdigital.com/shared/theme-assets/202015/www.wsbtv.com_0f17ab3bb31749da9296e7247b80d02b.png" /><link href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/core.css?version=2015-08-01" rel="stylesheet" type="text/css" media="screen" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/layout.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/utility.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/modules.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/typography.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/widgets.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/font-awesome.min.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/site/www_wsbtv_com/css/site.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/theme-assets/202015/www.wsbtv.com_929a14b669d24f21a1d90ff7f0216ea0.css?version=2015-08-01" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/css/print.css?version=2015-08-01" type="text/css" media="print" charset="utf-8" /><style type="text/css">
+        .cmHeaderWrap,
+        .cmNavigation,
+        .cmSubHeaderWrap,
+        .cmBodyWrap,
+        .cmInnerFooterWrap,
+        .cmOuterFooterWrap{min-width:970px}
+        .cmContainer9{width:970px}
+    </style><!-- dtm header code --><script src="//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-955a88171a72d1092a9b3dcf545f3ab3620c8792.js"></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/core.wired.js?version=2015-08-01"></script><script type="text/javascript" src="http://www.wsbtv.com/dolphin/js/"></script><script>
+    cmg.mediaurl = 'http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/';
+    cmg.site_meta = {
+        domain: 'www.wsbtv.com',
+        media_type: 'tv',
+        site_name: 'wsb-tv',
+        premium_status: ''
+    };
+    var marimo_url = '/marimo/';
+    var site_domain = 'www.wsbtv.com';
+    cmg.ajax_include_url = '/common/ajax-include/';
+
+    
+    
+        cmg.janrain_capture_server = 'https://users.cmgdigital.com';
+        cmg.janrain_js_url = 'widget-cdn.rpxnow.com/load/login.cmgdigital.com';
+        cmg.janrain_app_id = '6z4jnndkpe6dmfx7vdg4c7hkmz';
+        cmg.janrain_federate_server = 'https://sso.cmgdigital.com';
+        cmg.janrain_client_id = "rg4bktw48cnxtd3hevdm2uygh9hd63d9" || 'qyynzpmgrk4kgx5yg2kfurbnk639qfcf';
+    
+
+    
+    
+</script><script>
+    cmg.query(document).ajaxError(function(evnt, jqxhr) {
+        var error;
+        try { error = JSON.parse(jqxhr.responseText); }
+        catch(e) { error = jqxhr.responseText; }
+        console && console.error && console.error('ajax error:', error);
+    });
+    
+    cmg.error_dialog = function(msg) {
+        cmg.query('<div/>').addClass('cmErrorDialog')
+            .text(msg = msg || 'Oops, something went wrong. Please reload the page and try again.')
+            .appendTo('body');
+    };
+    cmg.get_cookie = function get_cookie(name) {
+        var cookie_array = document.cookie.split(';');
+        var cookie_regex = new RegExp('^ *' + name + '="?([^"]+)"?');
+        for (var x in cookie_array) {
+            if(!cookie_array.hasOwnProperty(x)) continue;
+            var match = cookie_array[x].match(cookie_regex);
+            if(match){
+                return match[1];
+            }
+        }
+    };
+    cmg.parse_qs = function parse_qs(str) {
+        if (!str) { return {}; }
+        if (str[0] === '?') { str = str.slice(1); }
+        var ret = {};
+        var query_args = str.split('&');
+        for (var key in query_args) {
+            if (!query_args.hasOwnProperty(key)) { continue; }
+            var tuple = query_args[key].split('=');
+            ret[tuple[0]] = tuple[1];
+        }
+        return ret;
+    };
+    
+    cmg.query.ajax_includes = function(fun) { cmg.query(document).bind('ajax_includes', fun); };
+    
+    var metrics_signin = 0;
+
+    
+    cmg.query.ajaxSetup({ cache: true });
+</script><script>
+
+cmg.update_auth_message = function() {
+    var id = '#cmJanrainAuthLinks';
+    var cookie = cmg.query.cookie('ur_name', {path:'/'});
+    if (typeof cookie === 'string') {
+        if (cookie.length > 15) {
+            cookie = cookie.slice(0,12) + '...';
+        }
+        // This kill the quotes that are returned by janrain on the screen name
+        var clean_cookie = cookie.replace(/"/g,"");
+        this.query.cookie('ur_name', clean_cookie);
+        
+        
+            this.query(id+' .cmUserAuthed a:first-child').text(clean_cookie);
+        
+
+        this.query(id+' .cmUserAuthed').show();
+        this.query(id+' .cmUserAnonymous').hide();
+    } else {
+        this.query(id+' .cmUserAuthed').hide();
+        this.query(id+' .cmUserAnonymous').show();
+    }
+    this.query('#cmHeaderUserRegistration').css('visibility', 'visible');
+};
+</script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/loginClient/lib/loginClient.js"></script><script>
+    janrain.init();
+    janrain.on('cmg_ready', cmg._(cmg.update_auth_message).bind(cmg));
+    </script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.cmfullwidth.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/cmnav.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.core.min.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.widget.min.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.mouse.min.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.position.min.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.datepicker.min.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/writeCapture.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.writeCapture.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/mustache.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/marimo.js"></script><script>marimo.init(cmg.query);</script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/widgets/comments.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/widgets/moderation.js"></script><style id="cm-adutil-styles"></style><script>(function(){var $jsi={};if(flipper.is_active('yieldbot')){window.ybotq=window.ybotq||[];}else{window.ybotq={push:function(cb){cb();}};}}());</script><script async defer src="//www.googletagservices.com/tag/js/gpt.js"></script><script>
+    var googletag = googletag || {},
+        ybotq = ybotq || [];
+
+    googletag.cmd = googletag.cmd || [];
+    cmg.harmony = Harmony();
+    cmg.ads.size.expand();
+
+    ybotq.push(function () {
+        googletag.cmd.push(function () {
+            var urlparams,
+                pubads = googletag.pubads();
+
+            pubads.set('page_url', location.href);
+            pubads.collapseEmptyDivs(true);
+
+            
+        });
+    });
+</script><script>
+    if (marimo.$('html').is('[class^=ie]')) {
+        cmg.query(document).ready(function(){
+            setTimeout(cmg.writeCaptureForceFlush, 500);
+        });
+    }
+    cmg.writeCaptureForceFlush = function (t) {
+        t = t || 1000;
+        for (var cb in __document_write_ajax_callbacks__) {
+            if (__document_write_ajax_callbacks__.hasOwnProperty(cb)) {
+                __document_write_ajax_callbacks__[cb]();
+            }
+        }
+        if (Object.keys(__document_write_ajax_callbacks__).length > 0) {
+            window.setTimeout(cmg.writeCaptureForceFlush, 1000);
+            } else {
+            window.setTimeout(cmg.writeCaptureForceFlush, t + 1000);
+        }
+    };
+    cmg.query(document).ready(function(){
+        cmg.query(document).on('click', 'a.cmNeedsNext', function(e){
+            e.preventDefault();
+            var new_url = url_with_next(cmg.query(this).attr('href'));
+            window.location = new_url;
+        });
+        cmg.query(document).on('submit', 'form.cmNeedsNext', function(e){
+            add_next_params(cmg.query(this));
+        });
+    });
+    cmg.query.ajax_includes(function() {
+        cmg.query('.cmNeedsNext').each(function() {
+            add_next_params(cmg.query(this));
+        });
+    });
+    function add_next_params(el) {
+        
+        var attr = el.attr('action') ? 'action' : 'href';
+        var existing_url = el.attr(attr);
+        el.attr(attr, url_with_next(existing_url));
+    }
+    function url_with_next(url) {
+        
+
+        
+        url = url.replace(/\?next=?&/, '?').replace(/&next=?&/, '&').replace(/[?&]next=?$/, '').replace(/[?&]next=?#/, '#');
+
+        var next_param = get_param('next', url);
+        if(next_param)  // Johnny 5
+            return url;
+
+        var connector = (url.match(/\?/)) ? "&" : "?";
+        var next_val = window.location.pathname + window.location.search + window.location.hash;
+        return url + connector + 'next=' + encodeURIComponent(next_val);
+    }
+    function get_param(name, url){
+        var m = RegExp('[?&]' + name + '=([^&^#]*)').exec(url);
+        return m && decodeURIComponent(m[1].replace(/\+/g, ' '));
+    }
+</script><script>
+    
+    cmg.query(function() {
+        var NUM_RETRIES = 3;
+        var URL_ATTR = 'data-href';
+        var REPLACE_SELECTOR = 'span.cmAjaxInclude';
+        var urls = [];
+        cmg.query(REPLACE_SELECTOR).each(function(){
+            url = cmg.query(this).attr(URL_ATTR);
+            if (url) {
+                urls.push(url);
+            }
+        });
+        if (urls.length > 0) {
+            var retriesLeft = NUM_RETRIES;
+            var settings = {
+                type: "GET",
+                url: cmg.ajax_include_url,
+                cache: false,
+                data: { urls: JSON.stringify(urls) },
+                dataType: 'json',
+                success: function(data, textStatus, xhr) {
+                    errorUrls = [];
+                    cmg.query.each(data, function(url, response) {
+                        if (response.status === 200) {
+                            var span = cmg.query(REPLACE_SELECTOR + '[' + URL_ATTR + '="' + url + '"]');
+                            span.replaceWith(response.content);
+                        } else {
+                            errorUrls.push(url);
+                        }
+                    });
+
+                    
+                    if (errorUrls.length > 0) {
+                        settings.data.urls = JSON.stringify(errorUrls);
+                        settings.error();
+                    }
+
+                    if (errorUrls.length === 0 || retriesLeft === 0) {
+                        cmg.query(document).trigger('ajax_includes');
+                    }
+                },
+                error: function(xhr, textStatus, errorThrown) {
+                    if (retriesLeft > 0) {
+                        retriesLeft -= 1;
+                        cmg.query.ajax(settings);
+                    }
+                }
+            };
+            cmg.query.ajax(settings);
+        }
+    });
+</script><!--Visual Revenue Reader Response Tracking Script (v6) --><script>
+        var _vrq = _vrq || [];
+        _vrq.push(['id', 475]);
+        _vrq.push(['automate', true]);
+        _vrq.push(['track', function () {}]);
+        (function (d, a) {
+            var s = d.createElement(a),
+                x = d.getElementsByTagName(a)[0];
+            s.async = true;
+            s.src = 'http://a.visualrevenue.com/vrs.js';
+            x.parentNode.insertBefore(s, x);
+        })(document, 'script');
+    </script><!-- End of VR RR Tracking Script - All rights reserved --><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/chartbeat_topwidget.js"></script><script src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/ndn_script_injector.js"></script><!-- Begin comScore Tag --><script type="text/javascript">
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6035944" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035944&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- begin google analytics --><script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', "UA-12967665-17"]);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script><!-- end google analytics -->
+
+
+
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.ui.dialog.min.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/jquery.cmlightbox.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/cmwidgets.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/rotator.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/modernizr.js"></script>
+<script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/qualtrics.js?zid=ZN_6zNoqwXoD95ULK5&rate=100"></script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+
+
+
+
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+
+
+
+
+    
+    
+
+    
+    
+        <div id="writecapture99281164"></div><script type="text/javascript">
+    marimo.emit('writecapture99281164_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE            $NEWLINE            $NEWLINE                $BEGINSCRIPT src=\"http://widget.perfectmarket.com/coxmedia/load.js\">$ENDSCRIPT$NEWLINE            $NEWLINE        ", "id": "writecapture99281164", "widget_prototype": "writecapture_widget"});
+</script><meta name="news_keywords" content="wsbblurb"/></head><body id="story_3011443" class="cmBody story_detail theme-background-color theme-background-image"><script type="text/javascript">
+        marimo.add_widgets([]);
+        
+        marimo.make_request();
+        marimo.emit('widgets_added');
+    </script><!-- begin jstrials_header block --><div id="writecapture64217038"></div><script type="text/javascript">
+    marimo.emit('writecapture64217038_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE            $NEWLINE                $NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE    $NEWLINE    $NEWLINE        $NEWLINE    $NEWLINE$NEWLINE            $NEWLINE        ", "id": "writecapture64217038", "widget_prototype": "writecapture_widget"});
+</script><!-- end jstrials_header block --><!-- retargeting header --><!-- end retargeting header --><div id="fb-root"></div><script type="text/javascript">
+    window.fbAsyncInit = function() {
+      cmg.query(document).ready(function() {
+          cmg.query(document).trigger("fb_loaded");
+      });
+
+    };
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script><!-- begin body_wrap_outer block --><!-- begin ad_rp06 block --><div class="adgeletti-ad-div RP06 bp-0px-infinity" id="adgeletti-ad-div-RP06-0px-infinity" style="display:none"></div><!-- end ad_rp06 block --><!-- begin ad_rp07 block --><div class="adgeletti-ad-div RP07 bp-0px-infinity" id="adgeletti-ad-div-RP07-0px-infinity" style="display:none"></div><!-- end ad_rp07 block --><!-- begin cmHeaderWrap block --><!-- header000.html --><div id="cmSiteSwitchHead" class="cmSiteSwitch" style="display:none"><a href="http://wsbtv.com/mobilesite?return=%2Fnews%2Fnews%2Flocal%2Fbobbi-kristinas-private-funeral-underway%2FnnBQQ%2F" class="cmMobileSiteLink" onClick="s.tl(this,'o','view mobile - top');"><p><span>View mobile site</span></p></a></div><noscript><div id="cmSiteSwitchHeadNS" class="cmSiteSwitch"><a href="http://wsbtv.com/mobilesite?return=%2Fnews%2Fnews%2Flocal%2Fbobbi-kristinas-private-funeral-underway%2FnnBQQ%2F" class="cmMobileSiteLink"><p><span>View mobile site</span></p></a></div></noscript><script type="text/javascript">
+var mobUserAgentPttn = new RegExp("iphone|ipod|android|blackberry|symbian|nokia|sonyericsson|sie-|opera\ mini|portalmmm/|windows\ ce|windows\ phone|iemobile|up.browser|up.link|802sh|alcatel-|amoi-|attws|au-mic|audiovox|avantgo|benq|cdm-|ericsson|ericy-|gs308|hitachi-p300|htc-|i-2100|kwc-|lg-|lg/u|lge-|lge/u|lowestcd|mo0|mobilephone|mot-|motorola|n5-10|nec-|opwv|owg1|palm|panasonic|pg-c|philips|pls|pm-|pn-215|profile/midp|qci-|rl-|rpt-httpclient|sagem|samsung|sanyo|sch-a|sch-n|scp-|sec-|sendox|sgh|sharp|smartphone|spha|v60t|vi600|vk530|vm4050|vodafone|wapper|wildseed|winwap-pro".replace(/ /g, "\\s"), "i");
+var mobBlacklistPttn = new RegExp("^/(ads|alerts|answers|audioclips|bands|categories|categories|events|documents|drinkspecials|events|features|forums|instruments|maps|mp3|lsp|onthestreet|places|playlists|podcasts|polls|pr|qa|questionnaires|recipes|restaurants|restaurants|specials|search|songs|special_coverage|staff|stories|traffic|tumble)".replace(/ /g, "\\s"), "i");
+
+if(mobUserAgentPttn.test(navigator.userAgent) && !mobBlacklistPttn.test(location.pathname)){
+    document.getElementById('cmSiteSwitchHead').style.display = "block";
+}
+</script><div class="cmMainContainer"><div class="cmContainer9"><div class="cmHeaderWrap cmCol9"><!-- begin cmHeaderWrap block --><!-- header001.html --><div class="cmHeaderCap cmClearfix theme-header-cap-background theme-header-cap-font-color theme-header-cap-link-color"><div class="cmHeaderCapInner"><div class="cmHeaderCap001"><p>Follow us on</p><ul class="cmSocialMediaLinks cmFloatLeft"><li><a href="http://www.facebook.com/wsbtv"><span class="sprite sharing iconFacebook">&nbsp;</span></a></li><li><a href="http://twitter.com/wsbtv"><span class="sprite sharing iconTwitter">&nbsp;</span></a></li><li><a href="https://plus.google.com/+wsbtv/"><span class="sprite sharing iconGooglePlus">&nbsp;</span></a></li></ul></div><div class="cmHeaderCap005"><p>Saturday, Aug. 1, 2015 | 11:43 p.m.</p></div><div class="cmHeaderCap010"></div><div class="cmHeaderCap020"><div id="cmHeaderUserRegistrationContainer"><div id="cmHeaderUserRegistration"><div id="cmJanrainAuthLinks"><p class="cmUserAuthed">
+                    Hi, <a href="/profile/edit/private"></a> (<a class="capture_end_session cmLogout" href="/auth/logout">not you?</a>) | <a href="/profile/edit/private">Member Center</a> | <a class="capture_end_session cmLogout" href="/auth/logout">Sign Out</a></p><p class="cmUserAnonymous"><a href="#" class="cmOpenJanrainModal">Sign In | Register</a></p></div></div></div></div></div></div><div id="cmHeaderMainContainer" class="cmClearfix theme-header-background"><div id="cmHeaderLogoContainer"><a href="/" title="www.wsbtv.com"><img src="http://media.cmgdigital.com/shared/theme-assets/202015/www.wsbtv.com_705c61066106421bb054337d3eb73541.png" name="cmHeaderLogo" id="cmHeaderLogo"
+        alt="WSB Atlanta" /></a></div><div id="cmWeatherWidgetLarge"></div><script type="text/javascript">
+            
+            function weather_jsonp_cb(data) {
+                var html = data['html'];
+                if (html) {
+                    cmg.query('#cmWeatherWidgetLarge').html(html);
+                }
+            }
+            var widget_path = '/weather/large-widget/';
+            
+            var request_url = 'http://' + site_domain + widget_path;
+            cmg.query.ajax({
+                url: request_url,
+                method:'GET',
+                accepts:'text/javascript',
+                data: {format:'jsonp', callback:'weather_jsonp_cb'},
+                dataType:'script',
+                error: function() { },
+                success: function() {
+                    
+                }
+            });
+        </script><div id="cmSearchForm" class="cmFloatRight cmClearfix"><form action="/search/" method="get" class="search_form" autocomplete="off"><p><input type="text" id="q" name="q" value=""><button type="submit">Search</button><script type="text/javascript">
+            cmg.query(function(){
+                var search_fields = document.querySelectorAll("[name=q]");
+
+                for (var i=0; i < search_fields.length; i++) {
+                    search_fields[i].setAttribute("value", cmg.utility.loc_query('q'));
+                }
+            });
+        </script></p></form></div></div><!-- header003.html --><div class="cmNavigation cmLeftFloat cmClearfix theme-navigation-background"><ul class="cmSiteNav"><li class="cmPrimaryNavMenu"><a href="/">Home</a></li><li class="cmPrimaryNavMenu"><a href="/s/news/">News</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/news/">Local &amp; Regional</a></li><li class="cmSubNavMenu"><a href="/s/news/nation-world/">National News</a></li><li class="cmSubNavMenu"><a href="/s/news/county-by-county/">County By County<span>&raquo;</span></a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/news/atlanta/">City of Atlanta</a></li><li class="cmSubNavMenu"><a href="/s/news/carroll/">Carroll County</a></li><li class="cmSubNavMenu"><a href="/s/news/cherokee/">Cherokee County</a></li><li class="cmSubNavMenu"><a href="/s/news/clarke/">Clarke County</a></li><li class="cmSubNavMenu"><a href="/s/news/clayton/">Clayton County</a></li><li class="cmSubNavMenu"><a href="/s/news/cobb/">Cobb County</a></li><li class="cmSubNavMenu"><a href="/s/news/coweta/">Coweta County</a></li><li class="cmSubNavMenu"><a href="/s/news/dekalb/">DeKalb County</a></li><li class="cmSubNavMenu"><a href="/s/news/douglas/">Douglas County</a></li><li class="cmSubNavMenu"><a href="/s/news/fayette/">Fayette County</a></li><li class="cmSubNavMenu"><a href="/s/news/forsyth/">Forsyth County</a></li><li class="cmSubNavMenu"><a href="/s/news/fulton/">Fulton County</a></li><li class="cmSubNavMenu"><a href="/s/news/gwinnett/">Gwinnett County</a></li><li class="cmSubNavMenu"><a href="/s/news/hall/">Hall County</a></li><li class="cmSubNavMenu"><a href="/s/news/henry/">Henry County</a></li><li class="cmSubNavMenu"><a href="/s/news/newton/">Newton County</a></li><li class="cmSubNavMenu"><a href="/s/news/paulding/">Paulding County</a></li><li class="cmSubNavMenu"><a href="/s/news/rockdale/">Rockdale County</a></li><li class="cmSubNavMenu"><a href="/s/news/spalding/">Spalding County</a></li></ul></li><li class="cmSubNavMenu"><a href="/s/news/2investigates/">2 Investigates</a></li><li class="cmSubNavMenu"><a href="/s/news/newsvideos/">News Videos</a></li><li class="cmSubNavMenu"><a href="/s/news/politics-government/">Politics</a></li><li class="cmSubNavMenu"><a href="/s/news/crimestoppers/">Crime Stoppers</a></li><li class="cmSubNavMenu"><a href="/s/downtown-stadium-project/">Downtown Stadium Project</a></li><li class="cmSubNavMenu"><a href="/s/news/local/cheating-scandal/">APS Cheating Scandal</a></li><li class="cmSubNavMenu"><a href="/s/ebola-in-atlanta/">Ebola</a></li><li class="cmSubNavMenu"><a href="http://abcnews.go.com/">ABCNews.com</a></li><li class="cmSubNavMenu"><a href="/s/news/ipad/">Channel 2 Action News iPad App</a></li><li class="cmSubNavMenu"><a href="/s/news/weblinks/">Web Links</a></li><li class="cmSubNavMenu"><a href="http://share.wsbtv.com/Home.aspx">Share photos/videos</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/weather/">Weather</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/weather/">Current Conditions</a></li><li class="cmSubNavMenu"><a href="/s/weather/5day/">5 Day Forecast</a></li><li class="cmSubNavMenu"><a href="/s/weather/interactive-radar/">Interactive Radar</a></li><li class="cmSubNavMenu"><a href="/s/weather/personal-forecast/">Hour By Hour Microcast</a></li><li class="cmSubNavMenu"><a href="/s/weather/video-forecast/">Video Forecast</a></li><li class="cmSubNavMenu"><a href="/weather/fish-and-game/">Fish &amp; Game</a></li><li class="cmSubNavMenu"><a href="/news/news/local/atlanta-pollen-county/nfZrX/">Pollen Count</a></li><li class="cmSubNavMenu"><a href="/s/air-quality/">Air Quality Index</a></li><li class="cmSubNavMenu"><a href="/s/weather/national-maps/">National Maps</a></li><li class="cmSubNavMenu"><a href="http://www.wsbtv.com/weather/30301/">Travel Forecast</a></li><li class="cmSubNavMenu"><a href="/s/weather/hurricane/">Hurricane Tracker</a></li><li class="cmSubNavMenu"><a href="/radarscope/">Radarscope</a></li><li class="cmSubNavMenu"><a href="http://www.wsbtv.com/school-closings/search/">School Closings</a></li><li class="cmSubNavMenu"><a href="http://wsbtvweatherapp.com/">Download Weather App</a></li><li class="cmSubNavMenu"><a href="/s/weather/personal-forecast/">Email &amp; Text Alerts</a></li><li class="cmSubNavMenu"><a href="http://share.wsbtv.com/Home.aspx">Send Weather Photos/Videos</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/video-center/">Video</a></li><li class="cmPrimaryNavMenu"><a href="/s/traffic/">Traffic</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/traffic/">Interactive Maps</a></li><li class="cmSubNavMenu"><a href="/news/news/traffic/channel-2-wsb-tv-launches-iphone-traffic-app/nJJrR/">WSB-TV Traffic App</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/news/2investigates/">2 Investigates</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/news/dekalb-investigation/">DeKalb Corruption</a></li><li class="cmSubNavMenu"><a href="/s/stolen-houses/">Stolen Houses</a></li><li class="cmSubNavMenu"><a href="/s/narconon/">Narconon of Georgia</a></li><li class="cmSubNavMenu"><a href="/s/news/atlanta-va/">Atlanta VA Investigation</a></li><li class="cmSubNavMenu"><a href="/form/submit-a-tip-to-channel-2-action-news-investigates-1/">Submit a tip</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/sports/home/">Sports</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/sports/home/">Sports Home</a></li><li class="cmSubNavMenu"><a href="/s/sports/highschoolfootball/">High School Football</a></li><li class="cmSubNavMenu"><a href="/s/sports/atlanta-braves/">Braves</a></li><li class="cmSubNavMenu"><a href="/s/sports/atlanta-falcons/">Falcons</a></li><li class="cmSubNavMenu"><a href="/s/sports/atlanta-hawks/">Hawks</a></li><li class="cmSubNavMenu"><a href="/s/sports/georgia-bulldogs/">University Of Georgia</a></li><li class="cmSubNavMenu"><a href="/s/sec/">SEC Sports</a></li><li class="cmSubNavMenu"><a href="/s/sports/georgia-tech/">Georgia Tech</a></li><li class="cmSubNavMenu"><a href="/s/acc/">ACC Sports</a></li><li class="cmSubNavMenu"><a href="/s/sports/college-sports/">College Sports</a></li><li class="cmSubNavMenu"><a href="/s/sports/nascar/">NASCAR</a></li><li class="cmSubNavMenu"><a href="/weblogs/zach-klein-sports-blog/">Zach Klein&#39;s Blog</a></li><li class="cmSubNavMenu"><a href="/weblogs/anthony-amey-sports-blog/">Anthony Amey&#39;s Blog</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/consumer/">Consumer</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/consumer/">Consumer Home</a></li><li class="cmSubNavMenu"><a href="/s/consumer/clark-howard/">Clark Howard</a></li><li class="cmSubNavMenu"><a href="/s/news/recalls/">Recalls</a></li><li class="cmSubNavMenu"><a href="/s/news/health/">Health</a></li><li class="cmSubNavMenu"><a href="/s/childhood-obesity/">Childhood Obesity</a></li><li class="cmSubNavMenu"><a href="/s/affordable-care-act/">Affordable Care Act</a></li><li class="cmSubNavMenu"><a href="http://northside.com/healthcast/">Northside Healthcasts</a></li><li class="cmSubNavMenu"><a href="/s/travel/">Travel</a></li><li class="cmSubNavMenu"><a href="/s/gas-prices/">Gas Prices</a></li><li class="cmSubNavMenu"><a href="/s/automotive/">Autos</a></li><li class="cmSubNavMenu"><a href="/s/houseandhome/">Real Estate</a></li><li class="cmSubNavMenu"><a href="/s/news/restaurant-inspections/">Restaurant Inspections</a></li><li class="cmSubNavMenu"><a href="/s/jobs/">Jobs</a></li><li class="cmSubNavMenu"><a href="/sponsors/daily2">The Daily 2</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/nelsonsnews/">Entertainment</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/nelsonsnews/">Nelson&#39;s News</a></li><li class="cmSubNavMenu"><a href="http://hottopics.tv/">Hot Topics</a></li><li class="cmSubNavMenu"><a href="/s/closeups/">Monica&#39;s Closeups</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/celebrities-tv/">Celebrities &amp; TV</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/atlanta-events">Events</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/atlanta-restaurants-food">Food &amp; Restaurants</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/atlanta-movies">Movies</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/atlanta-music">Music</a></li><li class="cmSubNavMenu"><a href="http://www.accessatlanta.com/games/">Games</a></li><li class="cmSubNavMenu"><a href="/s/doctor-oz/">Dr. Oz</a></li><li class="cmSubNavMenu"><a href="/s/programming/">WSB-TV Programming</a></li><li class="cmSubNavMenu"><a href="/listings/">What&#39;s On WSB-TV</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/contests/">Contests</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/contests/">WSB-TV Contests</a></li><li class="cmSubNavMenu"><a href="/lottery/">Georgia Lottery</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/community/">Community</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/community/">Family 2 Family</a></li><li class="cmSubNavMenu"><a href="/s/community/">People 2 People</a></li><li class="cmSubNavMenu"><a href="/s/news/education/">Education</a></li><li class="cmSubNavMenu"><a href="/s/community/high-q/">High Q</a></li><li class="cmSubNavMenu"><a href="/s/lifestyles/green-living/">Living Green</a></li><li class="cmSubNavMenu"><a href="/s/beingbullied/">Being Bullied</a></li><li class="cmSubNavMenu"><a href="/s/community/hiddentreasures/">Georgia&#39;s Hidden Treasures</a></li><li class="cmSubNavMenu"><a href="/coxconservesheroes/">Cox Conserves Heroes</a></li><li class="cmSubNavMenu"><a href="/s/social-media-and-your-kids/">Social Media &amp; Your Kids</a></li><li class="cmSubNavMenu"><a href="/s/civil-rights-museum/">Center for Civil Rights</a></li></ul></li><li class="cmPrimaryNavMenu"><a href="/s/about-us/">About Us</a><ul class="cmSubNav"><li class="cmSubNavMenu"><a href="/s/about-us/staff/">Action News Staff</a></li><li class="cmSubNavMenu"><a href="/listings/">What&#39;s On WSB-TV</a></li><li class="cmSubNavMenu"><a href="/about-us/metv">MeTV Atlanta</a></li><li class="cmSubNavMenu"><a href="/about-us/metv-lafftv">Laff TV</a></li><li class="cmSubNavMenu"><a href="/about-us/tours">Tour WSB-TV</a></li><li class="cmSubNavMenu"><a href="/about-us/speakersbureau/">Speakers Bureau</a></li><li class="cmSubNavMenu"><a href="https://www.facebook.com/wsbtv">WSB-TV on Facebook</a></li><li class="cmSubNavMenu"><a href="https://twitter.com/wsbtv">WSB-TV on Twitter</a></li><li class="cmSubNavMenu"><a href="http://www.youtube.com/user/Channel2ActionNews">WSB-TV on YouTube</a></li><li class="cmSubNavMenu"><a href="http://www.coxmediagroup.com/atlanta/">Advertise With Us</a></li><li class="cmSubNavMenu"><a href="/news/news/wsb-tv-closed-captioning-hotline/nkXzx/">Closed Captioning</a></li><li class="cmSubNavMenu"><a href="/contact-us/">Contact Us</a></li><li class="cmSubNavMenu"><a href="http://coxenterprises.com/careers.aspx">Careers at Cox</a></li><li class="cmSubNavMenu"><a href="/news/online/site-information/wsb-tvchannel-2-action-news-internship-opportuniti/nD2QG/">Internships</a></li></ul></li></ul></div><script type="text/javascript">
+    /* <![CDATA[ */
+        cmg.query("ul.cmSiteNav").cmfullwidth(); /* distribute the primary nav items asap to stop the pop */
+    /* ]]> */
+    </script><div class="cmCol9 cmFirst cmLast cmClearfix"><div class="cmPencilAd"><!-- pencil ad --></div></div><!-- end header003.html --><!-- header004.html --><div class="cmCol9 cmFirst cmLast cmClearfix"><div id="cmAlertBar"><!-- alert bar --></div></div><!-- header005.html --><div class="cmCol9 cmFirst cmLast cmClearfix"><div class=""><!-- header005 --></div></div><!-- end cmHeaderWrap block --></div><!-- begin cmSubHeaderWrap block> --><div class="cmSubHeaderWrap cmCol9"><div class="adgeletti-ad-div PB01 bp-0px-infinity" id="adgeletti-ad-div-PB01-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div HP00 bp-0px-infinity" id="adgeletti-ad-div-HP00-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div HP01 bp-0px-infinity" id="adgeletti-ad-div-HP01-0px-infinity" style="display:none"></div></div><!-- end cmSubHeaderWrap block --><div class="cmBodyWrap cmCol9"><!-- retargeting body --><!-- Doubleclick Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2SMLG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2SMLG');</script><!-- End Doubleclick Tag Manager --><!-- end retargeting body --><!-- begin cmBodyWrap block --><!-- center "content well" --><div class="cmCol6"><div class="cmBreadcrumb"><ul><li><a href="/"></>Home</a></li><li>&nbsp;&nbsp;&#62;&nbsp;&nbsp;<a href="/categories/news/">News</a></li><li>&nbsp;&nbsp;&#62;&nbsp;&nbsp;<a href="/s/news/">Local</a></li></ul><div class="adgeletti-ad-div PB00 bp-0px-infinity" id="adgeletti-ad-div-PB00-0px-infinity" style="display:none"></div></div><div class="cmTimeStamp"><p>Posted: 12:12 p.m. Saturday, Aug. 1, 2015</p></p></div><h1 class="cmLargerH1">Funeral for Bobbi Kristina Brown ends in outburst</h1><h2 class="cmLargerH2"></h2><div class="cmToolBox"><ul><li><!-- requires http://w.sharethis.com/button/buttons.js --><script type="text/javascript">
+    var switchTo5x=false;
+    if (typeof stLight != 'undefined') {
+        stLight.options({
+            publisher: "c05913fd-d628-465f-b30e-89feef788ec7",
+            embeds:'true',
+            onhover:'false'
+        });
+    }
+</script><span class="st_email_hcount" displayText="Email"></span><span class="st_facebook_hcount" displayText="Facebook"></span><span class="st_twitter_hcount" displayText="Tweet" st_via=""></span><span class="st_sharethis_hcount" displayText="ShareThis" st_via=""></span></li></ul></div><div id="cmArticleWell"><div class="cmLeadRelatedVideo cmLeadLargeVideo"><div class="cmLeadRelatedVideoOembed cmDarkBoxShadow"><div class="oembed oembed-video provider-brightcove " style="width: 615px;height: 392px;"><!-- Start of Brightcove Player --><div style="display:none"></div><object id="myExperience4392767888001" class="BrightcoveExperience"><param name="width" value="100%" /><param name="height" value="100%" /><param name="playerID" value="836827756001" /><param name="playerKey" value="AQ~~,AAAAFIvhljk~,Nz7UFI321EYSAUsYGYx5WAk9m9XiXaY8" /><param name="@videoPlayer" value="4392767888001" /><!-- params for Universal Player API --><param name="includeAPI" value="true" /><param name="templateLoadHandler" value="cmg.brightcove.player11625059.onTemplateLoad" /><param name="templateReadyHandler" value="cmg.brightcove.player11625059.onTemplateReady" /><param name="wmode" value="transparent" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="dynamicStreaming" value="true" /><param name="linkBaseURL" value="http://www.wsbtv.com/videos/news/funeral-for-bobbi-kristina-brown-ends-in-outburst/vDX8kr/" /><param name="htmlFallback" value="true" /><param name="autoStart" value="false" /></object><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C
+found at https://accounts.brightcove.com/en/terms-and-conditions/.
+--><script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/vendor/ExternalAd_BC_Prod.js"></script><script type="text/javascript">
+    
+    
+    
+    
+    
+    
+    
+
+    
+        if(typeof cmg !== 'undefined' && typeof cmg.brightcove !== 'undefined'){
+            cmg.brightcove.init();
+        }
+    
+
+    
+
+    if (flipper.is_active('ComScore_Enable')) {
+        var CMGcomScore4392767888001 = new CMGcomScore('myExperience4392767888001', '4392767888001');
+    }
+</script><!-- Load additional single-player functionality --><script>(function(){var $jsi={'brightcove_autoadvance':'','cmgcomscore_id':4392767888001,'vendorvideo_id':11625059,};if(!window.cmg.brightcove){window.cmg.brightcove={init:function(){}};}
+var ns='player'+$jsi.vendorvideo_id;var isPlaylist=window["bcPlayer"+$jsi.vendorvideo_id+"_isPlaylist"];var isMobile=cmg.query('body').hasClass('cm_mobBody');window.cmg.brightcove[ns]={vendorVideoId:$jsi.vendorvideo_id,currentVideoId:'',firstPlay:true,playlistPosition:0,playlist:[],next:function(){var bc=cmg.brightcove[ns];if(bc.playlist.length){if(bc.playlistPosition==bc.playlist.length-1){bc.playlistPosition=0;}else{for(var i=0;i<bc.playlist.length;i++){if(bc.playlist[i].id==bc.currentVideoId){bc.playlistPosition=i;break;}}
+bc.playlistPosition++;}
+bc.currentVideoId=bc.playlist[bc.playlistPosition].id;bc.videoPlayer.loadVideoByID(bc.currentVideoId);}else{bc.videoPlayer.play();}},getRelatedVideos:function(callback){var bc=cmg.brightcove[ns];cmg.query.get('/videos/bc_related/'+bc.vendorVideoId,function(data){if(data.items.length){bc.playlist=bc.playlist.concat(data.items);}else{bc.playlist=[];}
+if(callback){callback();}}).fail(function(data){bc.playlist=[];if(callback){callback();}});},onTemplateLoad:function(evt){var bc=cmg.brightcove[ns];bc.player=brightcove.api.getExperience(evt);APIModules=brightcove.api.modules.APIModules;mediaEvent=brightcove.api.events.MediaEvent;if(flipper.is_active('ComScore_Enable')){window['CMGcomScore'+$jsi.cmgcomscore_id].o.on_template_loaded(evt);}},onTemplateReady:function(evt){var bc=cmg.brightcove[ns];if(!bc.videoPlayer){bc.videoPlayer=bc.player.getModule(APIModules.VIDEO_PLAYER);bc.videoPlayer.addEventListener(mediaEvent.PROGRESS,function(event){bc.onProgress(event);});bc.videoPlayer.addEventListener(mediaEvent.CHANGE,function(event){bc.onChange(event);});var is_in_right_rail=cmg.query('.cmRightRail #'+evt.target.experience.id).length>0;if(!is_in_right_rail){cmg.brightcove.setup_media_events(evt);}
+bc.videoPlayer.getCurrentVideo(function(videoDTO){bc.currentVideoId=videoDTO.id;if(!bc.playlist.length){bc.playlist.push({id:videoDTO.id,name:videoDTO.displayName});}});}
+if(flipper.is_active('ComScore_Enable')){window['CMGcomScore'+$jsi.cmgcomscore_id].o.on_template_ready(evt);}},onProgress:function(e){var bc=cmg.brightcove[ns];if($jsi.brightcove_autoadvance&&!isMobile&&!isPlaylist){if(((e.duration-e.position)<.25)&&bc.playlist.length){if(bc.firstPlay){bc.videoPlayer.pause();bc.firstPlay=false;bc.getRelatedVideos(bc.next);}else{bc.next();}}}},onChange:function(e){var bc=cmg.brightcove[ns];if($jsi.brightcove_autoadvance&&!isMobile&&!isPlaylist){bc.videoPlayer.getCurrentVideo(function(videoDTO){bc.currentVideoId=videoDTO.id;});}}};}());</script><script type="text/javascript">
+        
+            cmg.query(brightcove.createExperiences);
+        
+    </script><!-- End of Brightcove Player --></div></div><div class="cmClear"></div></div><div class="cmRelated"><h3 class="cmRelatedHeader">Related</h3><div class="cmModule"><div class="cmMedia"><!-- requires javascript/jquery.ui.dialog.min.js --><!-- requires javascript/jquery.cmlightbox.js --><!-- requires javascript/cmwidgets.js --><div class="cmElementEnlarge"><a id="lba1_7813964" data-asset_id="7813964" href="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2015/08/01/13/2e/CLU7MZrWwAAOHVu.jpg" title="Click To View Larger"
+                    
+                        onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Bobbi Kristina funeral held at Alpharetta church');"
+                    
+                    class="dtm-event--nongalleryphoto"
+                    data-content-type=""
+                    >View Larger</a><span class="sprite sharing iconIncrease">&nbsp;</span></div><div class="cmRelatedImage"><a id="lba2_7813964" data-asset_id="7813964" href="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2015/08/01/13/2e/CLU7MZrWwAAOHVu.jpg" title="Click to View Larger"><img height="141" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/01/13/2e/CLU7MZrWwAAOHVu.jpg" width="188" class="cmDarkBoxShadow dtm-event--nongalleryphoto" alt="Bobbi Kristina funeral held at Alpharetta church photo"
+                            data-content-type="medleyphoto"
+                                
+                                    onclick="fire_omniture_event(cmg.s_coxnews, 'event10', 'Bobbi Kristina funeral held at Alpharetta church');"
+                                
+                                title="Bobbi Kristina funeral held at Alpharetta church" /></a></div><div class="cmCaption">Bobbi Kristina funeral held at Alpharetta church</div></div></div><div class="cmModule cmAdSponsoredLinksBox"><h3 class="cmRelatedHeader">Sponsored Links</h3><ul><li><div class="adgeletti-ad-div TL1 bp-0px-infinity" id="adgeletti-ad-div-TL1-0px-infinity" style="display:none"></div></li><li><div class="adgeletti-ad-div TL2 bp-0px-infinity" id="adgeletti-ad-div-TL2-0px-infinity" style="display:none"></div></li><li><div class="adgeletti-ad-div TL3 bp-0px-infinity" id="adgeletti-ad-div-TL3-0px-infinity" style="display:none"></div></li><li><div class="adgeletti-ad-div TL4 bp-0px-infinity" id="adgeletti-ad-div-TL4-0px-infinity" style="display:none"></div></li></ul></div></div><p class="cmDateline">NORTH FULTON COUNTY, Ga. &#8212; </p><div class="cmArticle cmOembedContainer"><p>A group of family and loved ones gathered in Fulton County Saturday to say goodbye to 22-year-old Bobbi Kristina Brown.</p><p>She died Sunday, July 26, surrounded by family, according to a statement by the Houston family.</p><p>A short line of cars followed the hearse that took Bobbi Kristina Brown’s body to St. James United Methodist Church in Alpharetta Saturday.</p><p>During the funeral, one of Brown’s relatives reportedly interrupted the service.</p><p>Entertainment Tonight's Kevin Frazier told Channel 2 Action News Leolah Brown stood up and made an outburst as Bobbi Kristina Brown’s aunt, Pat Houston, was speaking.</p><p>Leolah Brown then walked outside to address the media.</p><p>“Whitney will haunt Pat Houston from the grave,” Leolah Brown said.</p><p>Frazier also told Channel 2 Action News that entertainer Tyler Perry tried to calm the situation with Brown inside the church. </p><p>Bobbi Kristina Brown was <a href="http://www.wsbtv.com/news/news/local/bobbi-kristina-brown-found-unresponsive-roswell-ho/nj2Wy/">found face down in a bathtub</a> at her Roswell home the morning of Jan. 31.</p><p>Brown’s boyfriend and another friend told police they found her in the bathtub and started CPR. Police took over life-saving measures until rescue crews arrived.<br /> <br />Brown was taken to North Fulton Hospital and was eventually taken to Emory University Hospital, where she spent months.</p><p>She was moved to hospice care in June. </p></div></div><div class="cmToolBox"><ul><li><!-- requires http://w.sharethis.com/button/buttons.js --><script type="text/javascript">
+    var switchTo5x=false;
+    if (typeof stLight != 'undefined') {
+        stLight.options({
+            publisher: "c05913fd-d628-465f-b30e-89feef788ec7",
+            embeds:'true',
+            onhover:'false'
+        });
+    }
+</script><span class="st_email_hcount" displayText="Email"></span><span class="st_facebook_hcount" displayText="Facebook"></span><span class="st_twitter_hcount" displayText="Tweet" st_via=""></span><span class="st_sharethis_hcount" displayText="ShareThis" st_via=""></span></li></ul></div><div class="cm_mobNewsletterSignup"><div class="cmNewsletterSignupContainer"><h1>Sign up for our WSB TV Daily Headlines Newsletter</h1><div class="cmNewsletterSignupMessage"></div><form class="cmNewsletterSignup"><input name="category_path" type="hidden" value="/News/Local"/><input name="email" type="text"/><button value="Signup">Sign Up</button></form></div><script>(function(){var $jsi={};function isEmail(email){var regex=/^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;return regex.test(email);}
+cmg.query(document).ready(function($){var module_selector='.cmNewsletterSignup',msg=$('.cmNewsletterSignupMessage');if($jsi.rightrail){module_selector='.cmNewsletterSignupRightRail',msg=$('.cmNewsletterSignupMessageRightRail');}
+$(module_selector).submit(function(event){var email=$(module_selector+' input[name="email"]').val();if(isEmail(email)){var data=$(this).serializeArray();$.ajax({type:'POST',url:'/newsletters/signup/',data:data,success:function(resp){if(resp.errors){msg.html(resp.errors);msg.addClass('cmErrorBox round');}else{var subs='';$.each(resp.subscriptions,function(key,val){subs+='<li>'+val+'</li>';});msg.html('<h1>Thank You for Subscribing!</h1><p>Your newsletter will be arriving soon.</p>');msg.removeClass('cmErrorBox');$(module_selector).hide();}}});}else{alert('Please enter a valid e-mail address.');}
+event.preventDefault();return false;});});}());</script></div><div id="cmPerfectMarketBannerAd" class="cmAd cmAdContextual cmAdPerfectMarket"></div><div class="cmClear"></div><!-- comments disabled --><div class="cmClear">&nbsp;</div><div id="cmPerfectMarketFeaturedArticles" class="cmAd cmAdContextual cmAdPerfectMarket"></div><div id="cmPerfectMarketBlockAd" class="cmAd cmAdContextual cmAdPerfectMarket"></div><div class="cmClear">&nbsp;</div><script id="cmRelatedPhotoData" type="text/javascript" charset="utf-8">
+    has_related_photos = true;
+    num_photos = 1;
+    related_photos_ids = ["photo_7813964"];
+    related_photos = {
+        photo_7813964: {
+            id: 7813964,
+            prev_ptr:0,
+            next_ptr:0,
+            title: "Bobbi Kristina funeral held at Alpharetta church",
+            source_url: "",
+            credit_photographer: "",
+            credit_source: "",
+            get_mycapture_url: "",
+            caption: "",
+            detail_url: "http://www.wsbtv.com/photo/news/local/bobbi\u002Dkristina\u002Dfuneral\u002Dheld\u002Dalpharetta\u002Dchurch/pCmQTj/",
+            photo_url: "http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/908/img/photos/2015/08/01/13/2e/CLU7MZrWwAAOHVu.jpg", 
+            photo_width: 908,
+            comment_block: ""
+            }
+        };
+</script></div><div class="cmCol3"><!-- right "rail" --><div class="cmCol3 cmFirst cmRightRail"><div class="cmFeedUtilities cmModule"><ul><li class="sprite iconEmail"><a href="/newsletters/signup/">Newsletters</a></li><li class="sprite iconRss"><a href="/rss/">RSS Feeds</a></li><li class="sprite iconMobile"><a href="http://www.mogreet.com/clients/229/v2/cmg-subscriptions.rb?property=wsbtv.com">Mobile</a></li></ul></div><div class="adgeletti-ad-div RP01 bp-0px-infinity" id="adgeletti-ad-div-RP01-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div RP02 bp-0px-infinity" id="adgeletti-ad-div-RP02-0px-infinity" style="display:none"></div><div class="cmModule" data-vr-zone="Third Party Tease 47817"><div id="writecapture11852151"></div><script type="text/javascript">
+    marimo.emit('writecapture11852151_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": " <div data-vr-contentbox><img src=\"http://media.cmgdigital.com/shared/img/photos/2013/11/05/27/59/Trending_Stories.jpg\" alt=\"Trending on wsbtv.com\"> $NEWLINE<br/>$NEWLINE<style type=\"text/css\">$NEWLINE.cbTopWidget li{background: url(\"http://media.cmgdigital.com/shared/media/web/common/images/sprites/sprites.png\") no-repeat 0 -2543px;padding: 0 0 5px 15px;}$NEWLINE</style>$NEWLINE<div class=\"cbTopWidget\" id=\"cbTopWidget\"></div>$NEWLINE$BEGINSCRIPT type=\"text/javascript\" language=\"javascript\">new chartbeat_topwidget('cbTopWidget', 'wsbtv.com', '5', '3aadc9b3c7af92e02bd1aada5e9eecf8');$ENDSCRIPT$NEWLINE</div> ", "id": "writecapture11852151", "widget_prototype": "writecapture_widget"});
+</script></div><div class="adgeletti-ad-div RP09 bp-0px-infinity" id="adgeletti-ad-div-RP09-0px-infinity" style="display:none"></div><div class="cmModule" data-vr-zone="Video Playlist 47818"><h3 class="cmModuleHeader cmRightRailHeader">Local News Videos</h3><div class="cmTease cmTeaseCol3" data-vr-contentbox><div class="oembed oembed-video provider-brightcove " style="width: 300px;height: 324px;"><!-- Start of Brightcove Player --><div style="display:none"></div><object id="myExperience1117057524001" class="BrightcoveExperience"><param name="width" value="100%" /><param name="height" value="100%" /><param name="playerID" value="836881587001" /><param name="playerKey" value="AQ~~,AAAAFIvhljk~,Nz7UFI321EYoDFWhcIAZKj2ZX6ZuGWU-" /><param name="@videoList" value="1117057524001" /><!-- params for Universal Player API --><param name="includeAPI" value="true" /><param name="templateLoadHandler" value="cmg.brightcove.player242.onTemplateLoad" /><param name="templateReadyHandler" value="cmg.brightcove.player242.onTemplateReady" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="dynamicStreaming" value="true" /><param name="bgcolor" value="#FFFFFF" /><param name="htmlFallback" value="true" /><param name="autoStart" value="false" /></object><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C
+found at https://accounts.brightcove.com/en/terms-and-conditions/.
+--><script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/vendor/ExternalAd_BC_Prod.js"></script><script type="text/javascript">
+    
+    
+    
+    
+    
+    
+    
+
+    
+        if(typeof cmg !== 'undefined' && typeof cmg.brightcove !== 'undefined'){
+            cmg.brightcove.init();
+        }
+    
+
+    
+        
+        var bcPlayer242_isPlaylist = true;
+    
+
+    if (flipper.is_active('ComScore_Enable')) {
+        var CMGcomScore1117057524001 = new CMGcomScore('myExperience1117057524001', '1117057524001');
+    }
+</script><!-- Load additional single-player functionality --><script>(function(){var $jsi={'brightcove_autoadvance':'','cmgcomscore_id':1117057524001,'vendorvideo_id':242,};if(!window.cmg.brightcove){window.cmg.brightcove={init:function(){}};}
+var ns='player'+$jsi.vendorvideo_id;var isPlaylist=window["bcPlayer"+$jsi.vendorvideo_id+"_isPlaylist"];var isMobile=cmg.query('body').hasClass('cm_mobBody');window.cmg.brightcove[ns]={vendorVideoId:$jsi.vendorvideo_id,currentVideoId:'',firstPlay:true,playlistPosition:0,playlist:[],next:function(){var bc=cmg.brightcove[ns];if(bc.playlist.length){if(bc.playlistPosition==bc.playlist.length-1){bc.playlistPosition=0;}else{for(var i=0;i<bc.playlist.length;i++){if(bc.playlist[i].id==bc.currentVideoId){bc.playlistPosition=i;break;}}
+bc.playlistPosition++;}
+bc.currentVideoId=bc.playlist[bc.playlistPosition].id;bc.videoPlayer.loadVideoByID(bc.currentVideoId);}else{bc.videoPlayer.play();}},getRelatedVideos:function(callback){var bc=cmg.brightcove[ns];cmg.query.get('/videos/bc_related/'+bc.vendorVideoId,function(data){if(data.items.length){bc.playlist=bc.playlist.concat(data.items);}else{bc.playlist=[];}
+if(callback){callback();}}).fail(function(data){bc.playlist=[];if(callback){callback();}});},onTemplateLoad:function(evt){var bc=cmg.brightcove[ns];bc.player=brightcove.api.getExperience(evt);APIModules=brightcove.api.modules.APIModules;mediaEvent=brightcove.api.events.MediaEvent;if(flipper.is_active('ComScore_Enable')){window['CMGcomScore'+$jsi.cmgcomscore_id].o.on_template_loaded(evt);}},onTemplateReady:function(evt){var bc=cmg.brightcove[ns];if(!bc.videoPlayer){bc.videoPlayer=bc.player.getModule(APIModules.VIDEO_PLAYER);bc.videoPlayer.addEventListener(mediaEvent.PROGRESS,function(event){bc.onProgress(event);});bc.videoPlayer.addEventListener(mediaEvent.CHANGE,function(event){bc.onChange(event);});var is_in_right_rail=cmg.query('.cmRightRail #'+evt.target.experience.id).length>0;if(!is_in_right_rail){cmg.brightcove.setup_media_events(evt);}
+bc.videoPlayer.getCurrentVideo(function(videoDTO){bc.currentVideoId=videoDTO.id;if(!bc.playlist.length){bc.playlist.push({id:videoDTO.id,name:videoDTO.displayName});}});}
+if(flipper.is_active('ComScore_Enable')){window['CMGcomScore'+$jsi.cmgcomscore_id].o.on_template_ready(evt);}},onProgress:function(e){var bc=cmg.brightcove[ns];if($jsi.brightcove_autoadvance&&!isMobile&&!isPlaylist){if(((e.duration-e.position)<.25)&&bc.playlist.length){if(bc.firstPlay){bc.videoPlayer.pause();bc.firstPlay=false;bc.getRelatedVideos(bc.next);}else{bc.next();}}}},onChange:function(e){var bc=cmg.brightcove[ns];if($jsi.brightcove_autoadvance&&!isMobile&&!isPlaylist){bc.videoPlayer.getCurrentVideo(function(videoDTO){bc.currentVideoId=videoDTO.id;});}}};}());</script><script type="text/javascript">
+        
+            cmg.query(brightcove.createExperiences);
+        
+    </script><!-- End of Brightcove Player --></div><h2><a href="/videos/news/local-news-videos/lHK/">Local News Videos</a><span class="cmSpriteContentType 
+ video"></span></h2><p class="cmTeaseSummary"></p><p class="cmTeaseShare"></p></div></div><div class="cmModule" data-vr-zone="Partner List"><h4>From Our News Partners</h4><ul class="cmPartnerList"><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.krmg.com/news/news/weird-news/man-rolls-underneath-moving-train-wild-dangerous-s/nnBRm/?icmp=cmgcontent_internallink_relatedcontent_2014_partners1">Man rolls underneath moving train in wild, dangerous stunt</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.actionnewsjax.com/news/news/world/australian-official-calls-cats-tsunamis-violence-a/nnBQB/?icmp=cmgcontent_internallink_relatedcontent_2014_partners2">Australian official calls cats ‘tsunamis of violence and death’</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsoctv.com/gallery/news/photos-confederate-flag-rally-stone-mountain-park-/gCWC6/#7814506?icmp=cmgcontent_internallink_relatedcontent_2014_partners3">Photos: Confederate flag rally at Stone Mountain Park</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.journal-news.com/news/lifestyles/must-see-photo-hawks-exchanging-food-midair-goes-v/nnBMy/?bsn4nV?icmp=cmgcontent_internallink_relatedcontent_2014_partners4">Must-see: Photo of hawks exchanging food in midair goes viral</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/gallery/news/photos-scenes-funeral-bobbi-kristina/gCWC5/?icmp=cmgcontent_internallink_relatedcontent_2014_partners5">Photos: Scenes from the funeral of Bobbi Kristina</a></li></ul></div><div class="cmModule cmCenter"><div class="fb-like-box" data-href="http://www.facebook.com/wsbtv" data-width="293" data-height="255" data-show-faces="true" data-stream="false" data-header="false"></div></div><div class="cmModule" data-vr-zone="Manual List 47819"><!-- requires javascript/rotator.js --><!-- requires javascript/modernizr.js --><div class="cmTease cmTeaseCol3 cmTeaseListHeadline"><h2>Latest Headlines</h2><ul class="cmTeaseHdlnList"><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/stone-mountain-park-prepares-confederate-flag-rall/nnBJp/">Hundreds gather for pro-Confederate flag rally</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/gallery/news/local/stuff-bus-2015/gCWDM/">PHOTOS: Stuff The Bus 2015</a><span class="cmSpriteContentType 
+ photo"></span></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/neighbors-raise-health-concerns-bloody-mess-left-d/nnBJt/">Neighbors raise health concerns as bloody mess left for days</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/teen-dies-ropes-course-accident-adventure-park/nm959/">Teen dies in ropes course accident at adventure park</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/stones-thrown-mans-truck-because-confederate-flag-/nnBBP/">Stones thrown a man's truck because of Confederate flag mural</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/wwe-hall-famer-roddy-piper-dies-61/nnBDP/">WWE Hall of Famer Roddy Piper dies at 61</a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/norcross-restaurant-fails-second-inspection-year/nm99q/">Norcross restaurant fails second inspection this year </a></li><li class="sprite iconListBullet" data-vr-contentbox><a href="http://www.wsbtv.com/news/news/local/civil-rights-group-meet-discuss-confederate-flags-/nm9rG/">Civil rights groups meet to discuss Confederate flags, Stone Mountain</a></li></ul><div class="cmTeaseListMore"><a href="http://www.wsbtv.com/list/news/home-page-top-headlines/mCpw/"><span>&#62;&nbsp;</span>More
+        </a></div></div></div><div class="adgeletti-ad-div RP03 bp-0px-infinity" id="adgeletti-ad-div-RP03-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div RP04 bp-0px-infinity" id="adgeletti-ad-div-RP04-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div RP05 bp-0px-infinity" id="adgeletti-ad-div-RP05-0px-infinity" style="display:none"></div><div class="adgeletti-ad-div RP08 bp-0px-infinity" id="adgeletti-ad-div-RP08-0px-infinity" style="display:none"></div><div class="cmModule" data-vr-zone="Link 47820"><div class="cmTease cmClearfix cmTeaseCol3 cmTeasePhotoTop" data-vr-contentbox><!-- requires javascript/jquery.ui.dialog.min.js --><!-- requires javascript/jquery.cmlightbox.js --><!-- requires javascript/cmwidgets.js --><!-- requires javascript/modernizr.js --><div class="cmTeasePhoto cmRelatedImage"><a href="/s/news/weblinks/"><img height="73" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/292/img/photos/2012/05/29/90/9e/web_links_300x75.jpg" width="292" class="cmDarkBoxShadow cmPhotoBorderWhite" title="Web Links" alt="Web Links" /></a></div><h2><a href="/s/news/weblinks/">Did You See It On Channel 2?</a></h2><div class="cmTeaseSummary">
+            
+
+
+
+
+Click here for a complete list of websites and links mentioned on Channel 2 Action News. 
+
+        </div><p class="cmTeaseShare"></p></div></div><div class="cmModule" data-vr-zone="Third Party Tease 47821"><div id="writecapture31358049"></div><script type="text/javascript">
+    marimo.emit('writecapture31358049_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": " <div data-vr-contentbox><A HREF=\"http://www.wsbtv.com/lottery/\"><img src=\"http://media.cmgdigital.com/shared/img/photos/2011/09/30/lotterybanner.jpg\"></A><br/>$NEWLINE$NEWLINE</div> ", "id": "writecapture31358049", "widget_prototype": "writecapture_widget"});
+</script></div></div></div><!-- end cmBodyWrap block --></div><div class="cmClear">&nbsp;</div><div class="cmInnerFooterWrap cmCol9"><!-- begin cmFooterWrap block --><!-- footer001.html --><!-- footer002.html --><div id="cmFooterContainer"><div class="cmOuterFooterWrap theme-footer-background theme-footer-color"><div id="cmFooterSiteMap" class="cmClearFix"><div class="cmSiteMapColumn cmLeftFloat"><h4>News</h4><ul class="cmSiteMapList"><li><a href="/s/news/">Local News</a></li><li><a href="/s/news/nation-world/">National/World News</a></li><li><a href="/s/news/newsvideos">News Video</a></li><li><a href="/s/news/politics-government/">Local Government News</a></li><li><a href="/s/traffic/">Traffic</a></li><li><a href="/s/nelsonsnews/">Nelson's News</a></li><li><a href="/s/family-2-family/">Family 2 Family</a></li></ul></div><div class="cmSiteMapColumn cmLeftFloat"><h4>Severe Weather Team 2</h4><ul class="cmSiteMapList"><li><a href="/s/weather/">Weather</a></li><li><a href="/s/weather/interactive-radar/">Storm Tracker 2 HD</a></li><li><a href="/s/weather/5day/">5 Day Forecast</a></li></ul><br /><h4>Sports</h4><ul class="cmSiteMapList"><li><a href="/s/sports/home">Sports Zone</a></li><li><a href="/s/sports/atlanta-braves">Atlanta Braves</a></li><li><a href="/s/sports/atlanta-falcons">Atlanta Falcons</a></li><li><a href="/s/sports/atlanta-hawks">Atlanta Hawks</a></li><li><a href="/s/sports/college-sports/">College Sports</a></li><li><a href="/s/sports/highschoolfootball/">High School Football</a></li></ul></div><div class="cmSiteMapColumn cmLeftFloat"><h4>Marketplace</h4><ul class="cmSiteMapList"><li><a href="/s/jobs/" target="_blank"title="Jobs">Jobs</a></li><li><a href="/s/automotive/" target="_blank"title="Autos">Autos</a></li><li><a href="http://www.coxmediagroup.com/atlanta/" target="_blank"title="Advertise">Advertise</a></li></ul></div><div class="cmSiteMapColumn cmLeftFloat"><h4>Advertisers and Sponsors</h4><ul class="cmSiteMapList"><li><a href="http://www.wsbtv.oodle.com" target="_blank">Free Classifieds</a></li><li><a href="http://www.autotrader.com" target="_blank"title="Cars at Autotrader">Cars at Autotrader</a></li><li><a href="http://www.kudzu.com" target="_blank"title="Local Services at Kudzu">Local Services at Kudzu</a></li><li><a href="https://www.valpak.com/" target="_blank" title="Coupons at Valpak">Coupons at Valpak</a></li></ul><h4>About Us</h4><ul class="cmSiteMapList"><li><a href="/s/about-us/">About WSBTV</a></li><li><a href="/listings/">What's on WSBTV</a></li><li><a href="/eeoc/">EEOC Statement</a></li><li><a href="https://stations.fcc.gov/station-profile/wsb-tv">WSB-TV Public File</a></li><li><a href="/fcc">WSB-TV Public File Contact / Program Director</a></li></ul></div></div><div class="cmClear"><br /></div><div class="cmFooterTerms"><p>&#169; 2015 <a href="http://www.coxmediagroup.com" target="_blank">Cox Media Group</a>. By using this website,
+    you accept the terms of our <a href="/visitor_agreement/">Visitor Agreement</a> and <a href=
+    "/privacy_policy/">Privacy Policy</a>, and understand your options regarding <a href=
+    "/privacy_policy/#ad-choices">Ad Choices</a><img border="0" src=
+    "http://media.cmgdigital.com/shared/img/photos/2012/02/29/d3/da/ad_choices_logo.png"
+    alt="AdChoices" style="margin: 0 0 -4px 4px;" />.<br />This station is part of Cox Media Group Television<br />Learn about <a href="http://www.coxmediagroup.com/careers/" target="_blank">careers at Cox Media Group</a></p></div></div></div><!-- end cmFooterWrap block --></div><div class="cmClear">&nbsp;</div></div></div><!-- begin cmFooterContainer block --><!-- outer_footer001.html --><div id="cmSiteSwitchFoot" class="cmSiteSwitch" style="display:none"><a href="http://wsbtv.com/mobilesite?return=%2Fnews%2Fnews%2Flocal%2Fbobbi-kristinas-private-funeral-underway%2FnnBQQ%2F" class="cmMobileSiteLink" onClick="s.tl(this,'o','view mobile - bottom');"><p><span>View mobile site</span></p></a></div><noscript><div id="cmSiteSwitchFootNS" class="cmSiteSwitch"><a href="http://wsbtv.com/mobilesite?return=%2Fnews%2Fnews%2Flocal%2Fbobbi-kristinas-private-funeral-underway%2FnnBQQ%2F" class="cmMobileSiteLink"><p><span>View mobile site</span></p></a></div></noscript><script type="text/javascript">
+var mobUserAgentPttn = new RegExp("iphone|ipod|android|blackberry|symbian|nokia|sonyericsson|sie-|opera\ mini|portalmmm/|windows\ ce|windows\ phone|iemobile|up.browser|up.link|802sh|alcatel-|amoi-|attws|au-mic|audiovox|avantgo|benq|cdm-|ericsson|ericy-|gs308|hitachi-p300|htc-|i-2100|kwc-|lg-|lg/u|lge-|lge/u|lowestcd|mo0|mobilephone|mot-|motorola|n5-10|nec-|opwv|owg1|palm|panasonic|pg-c|philips|pls|pm-|pn-215|profile/midp|qci-|rl-|rpt-httpclient|sagem|samsung|sanyo|sch-a|sch-n|scp-|sec-|sendox|sgh|sharp|smartphone|spha|v60t|vi600|vk530|vm4050|vodafone|wapper|wildseed|winwap-pro".replace(/ /g, "\\s"), "i");
+var mobBlacklistPttn = new RegExp("^/(ads|alerts|answers|audioclips|bands|categories|categories|events|documents|drinkspecials|events|features|forums|instruments|maps|mp3|lsp|onthestreet|places|playlists|podcasts|polls|pr|qa|questionnaires|recipes|restaurants|restaurants|specials|search|songs|special_coverage|staff|stories|traffic|tumble)".replace(/ /g, "\\s"), "i");
+
+if(mobUserAgentPttn.test(navigator.userAgent) && !mobBlacklistPttn.test(location.pathname)){
+    document.getElementById('cmSiteSwitchFoot').style.display = "block";
+}
+</script><!-- end cmFooterContainer block --><!-- end body_wrap_outer block --><!-- begin analytics block --><span style="display:none;" id="cm_s_code"></span><!-- SiteCatalyst code version: H.25.5.
+        Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+        More info available at http://www.omniture.com --><script type="text/javascript">//<![CDATA[
+            
+            
+            
+
+            
+            var cx_siteName = "wsb-tv";
+            var cx_rsID = "coxwsbtv";
+            var cx_marketpath = "ga: atlanta";
+            var cx_medium = "tv";
+
+            var s_account = cx_rsID;
+
+            
+            if (("prod" == "prod") &&
+                (!((/www.prod.wsbtv/.test(window.location.host))
+                || (/m.prod.wsbtv/.test(window.location.host))))) {
+                    if (cx_medium == "radio" || cx_medium == "tv" || cx_medium == "newspaper" ) {
+                        s_account = s_account+",coxglobal";
+                    }
+                }
+            else {
+                
+                s_account = "coxradiodev,coxnewspaperdev,coxtvdev";
+            }
+        //]]></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/web/common/javascript/AppMeasurement.js"></script><script type="text/javascript" src="http://media.cmgdigital.com/shared/media/2015-07-30-09-31-30/bower_libs/omniture_utilities/omniture_utilities.min.js"></script><script type="text/javascript">//<![CDATA[
+
+        (function() { "use strict";
+
+            
+            cmg.s_coxnews.siteName=cx_siteName;
+            cmg.s_coxnews.linkInternalFilters = "javascript:,doubleclick.net,alt.coxnewsweb.com,legacy.com,uclick.com,signin.cmgdigital.com,www.wsbtv.com,outbrain.com";
+            cmg.s_coxnews.server = window.location.host;
+            cmg.s_coxnews.prop13 = cmg.s_coxnews.eVar13 = document.title.replace("| www.wsbtv.com", "");
+
+            if (metrics_signin == 1) {
+                cmg.s_coxnews.prop22 = cmg.s_coxnews.eVar22 = "gur";
+            }
+
+            
+            cmg.s_coxnews.prop63 = cmg.s_coxnews.eVar63 = location.protocol + '//' + location.host + location.pathname + location.search;
+
+            
+            if (cmg.s_coxnews.prop13.length == 0) {
+                cmg.s_coxnews.prop13 = cmg.s_coxnews.eVar13 = "no page title available";
+            }
+            cmg.s_coxnews.hier3 = cmg.s_coxnews.channel = cmg.s_coxnews.eVar56 = "no category";
+
+            
+
+            
+            if(cx_medium=="radio" || cx_medium=="tv" || cx_medium=="newspaper") {
+                cmg.s_coxnews.hier1 = cx_marketpath+"|"+cx_medium+"|"+cx_siteName;
+                cmg.s_coxnews.hier2 = cx_medium+"|"+cx_marketpath+"|"+cx_siteName;
+                
+                var search_page_re = new RegExp(cmg.s_coxnews.server+"\/search");
+                var search_match = search_page_re.exec(window.location);
+                
+                if (cmg.s_coxnews.hasOwnProperty('getQueryParam')) {
+                    var queryParam = cmg.s_coxnews.getQueryParam;
+                } else {
+                    var queryParam = cmg.s_coxnews.Util.getQueryParam;
+                }
+                if(search_match !== null && typeof cx_no_results !== 'undefined'){
+                    cmg.s_coxnews.eVar1 = queryParam('q');
+                    if(cx_no_results){
+                        cmg.s_coxnews.events = "event13,event14";
+                        cmg.s_coxnews.prop46 = "no";
+                    } else {
+                        cmg.s_coxnews.events = "event13";
+                        cmg.s_coxnews.prop46 = "yes";
+                    }
+                    if (queryParam("searchType") == "web") {
+                        cmg.s_coxnews.eVar45=cmg.s_coxnews.prop45 = "web";
+                    } else {
+                        cmg.s_coxnews.eVar45=cmg.s_coxnews.prop45 = "site";
+                    }
+                }
+                if (cx_medium == "radio") {
+                    cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "";
+                }
+                else if (cx_medium == "tv") {
+                    cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "tv";
+                }
+                else if (cx_medium == "newspaper") {
+                   cmg.s_coxnews.eVar43=cmg.s_coxnews.prop43 = "newspaper";
+                }
+            }
+
+            
+            
+cmg.s_coxnews.hier3 = "news|local";
+cmg.s_coxnews.list1 = "wsbblurb";
+cmg.s_coxnews.prop21 = "wsb-tv";
+cmg.s_coxnews.eVar21 = "wsb-tv";
+cmg.s_coxnews.prop16 = "non-mobile site";
+cmg.s_coxnews.eVar16 = "non-mobile site";
+cmg.s_coxnews.prop22 = "article";
+cmg.s_coxnews.eVar22 = "article";
+cmg.s_coxnews.prop23 = "";
+cmg.s_coxnews.eVar23 = "";
+cmg.s_coxnews.prop42 = "wsb-tv";
+cmg.s_coxnews.eVar42 = "wsb-tv";
+cmg.s_coxnews.prop14 = "local";
+cmg.s_coxnews.eVar14 = "local";
+cmg.s_coxnews.prop4 = "";
+cmg.s_coxnews.eVar4 = "";
+cmg.s_coxnews.prop5 = "";
+cmg.s_coxnews.eVar5 = "";
+cmg.s_coxnews.prop6 = "";
+cmg.s_coxnews.eVar6 = "";
+cmg.s_coxnews.prop7 = "24";
+cmg.s_coxnews.eVar7 = "24";
+cmg.s_coxnews.prop17 = "";
+cmg.s_coxnews.eVar17 = "";
+cmg.s_coxnews.prop1 = "1057";
+cmg.s_coxnews.eVar12 = "1057";
+cmg.s_coxnews.prop2 = "";
+cmg.s_coxnews.eVar2 = "";
+cmg.s_coxnews.prop3 = "";
+cmg.s_coxnews.eVar3 = "";
+cmg.s_coxnews.pageName = "/re/292/3011443/news/news/local/bobbi-kristinas-private-funeral-underway/nnbqq/";
+cmg.s_coxnews.eVar55 = "/re/292/3011443/news/news/local/bobbi-kristinas-private-funeral-underway/nnbqq/";
+cmg.s_coxnews.prop33 = "3011443";
+cmg.s_coxnews.eVar33 = "3011443";
+cmg.s_coxnews.channel = "news";
+cmg.s_coxnews.eVar56 = "news";
+
+            var revpathArray = document.getElementsByName("cmg_revpath");
+            var pathNameStr = "";
+            if(revpathArray.length > 0 && revpathArray[0].content !== ""){
+                pathNameStr = revpathArray[0].content;
+            } else {
+                pathNameStr = window.location.pathname.split(/[#?]/)[0];
+                if(pathNameStr === "/"){
+                    pathNameStr = "/homepage/";
+                }
+            }
+            if(cmg.s_coxnews.prop22 == "404 page"){
+                pathNameStr = "/404_page" + pathNameStr;
+            }
+
+            if(pathNameStr.length > 99){
+                pathNameStr = pathNameStr.substr(0,98) + "/";
+            }
+
+            
+                cmg.s_coxnews.pageName = cmg.s_coxnews.eVar55 = pathNameStr.toLowerCase();
+            
+
+            
+
+            var authPromise = null;
+
+            function authType(status) {
+                if (!status) {
+                    return "non-subscriber";
+                }
+
+                var type = cmg.authorization.auth_type();
+                var map = {
+                    staff: "staff user",
+                    medleyopenhouse: "open house subscriber",
+                    mg2: "subscriber"
+                };
+
+                return map[type] || type;
+            }
+
+            if (cmg.site_meta && cmg.site_meta.media_type === 'premium') {
+
+                authPromise = new Promise(function(resolve) {
+                    var auth_url = 'http://www.wsbtv.com/profile/janus-auth/';
+                    cmg.authorization.check(auth_url, function(json) {
+                        resolve();
+                        var auth = json && json.authorized;
+
+                        if (cmg.site_meta.premium_status === 'premium') {
+                            cmg.s_coxnews.eVar52 = cmg.s_coxnews.prop52 = auth ? "full page" : "stubbed";
+                        }
+
+                        cmg.s_coxnews.eVar48 = cmg.s_coxnews.prop48 = authType(auth);
+                    });
+                });
+
+                authPromise = Promise.race([
+                    authPromise,
+                    new Promise(function(resolve) { setTimeout(resolve, 5000); })
+                ]);
+
+            } else {
+                
+                if (cmg.site_meta && cmg.site_meta.premium_status === 'premium') {
+                    cmg.s_coxnews.eVar52=cmg.s_coxnews.prop52 = "stubbed";
+                }
+            }
+            
+            
+            
+
+            
+            var cookie = cmg.query.cookie('ur_metrics');
+            if (cookie) {
+                
+                if (cookie.charAt(0) === '"') {
+                    cookie = cookie.slice(1, -1);
+                }
+                
+                var cpp = {"prop2": {"start": 25, "length": 50}, "eVar2": {"start": 25, "length": 50}, "eVar12": {"start": 0, "length": 4}, "prop6": {"start": 18, "length": 5}, "prop4": {"start": 8, "length": 5}, "prop5": {"start": 13, "length": 5}, "eVar3": {"start": 4, "length": 4}, "prop7": {"start": 23, "length": 2}, "eVar5": {"start": 13, "length": 5}, "prop1": {"start": 0, "length": 4}, "eVar7": {"start": 23, "length": 2}, "eVar6": {"start": 18, "length": 5}, "eVar4": {"start": 8, "length": 5}, "prop3": {"start": 4, "length": 4}};
+                for (var prop in cpp) {
+                    cmg.s_coxnews[prop] = cmg.query.trim(cookie.substr(cpp[prop].start, cpp[prop].length));
+                }
+            }
+
+            
+            for (var key in cmg.s_coxnews) {
+                if (cmg.s_coxnews[key] && key.match(/prop|eVar|hier/) !== null) {
+                    cmg.s_coxnews[key] = cmg.s_coxnews[key].toLowerCase();
+                }
+            }
+
+            Promise.resolve(authPromise).then(function() {
+                cmg.query(document).ready(function () {
+                    if (typeof(cmg.metrics_consolidator) !== "undefined") {
+                        
+
+                        cmg.metrics_consolidator.apply_on_ready(cmg_t, 'base');
+                    } else {
+                        cmg_t();
+                    }
+
+                    function cmg_t() {
+                        
+                        var s_code = cmg.s_coxnews.t();
+                        if (s_code) { cmg.query('#cm_s_code').text(s_code); }
+                    }
+                });
+            });
+
+        })();
+
+        //]]></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="https://coxnet.112.2o7.net/b/ss/coxwsbtv/1/H.25.1--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><script>
+        cmg.cbp = {
+            category: '/News/Local',
+            author: ''
+        };
+        if (!flipper.is_active('DTMmetrics_Enable')) {
+            if (cmg.cbp.category === '') {
+                // no story object, use omniture variables
+                switch (cmg.s_coxnews.eVar22) {
+                    case 'homepage':
+                        cmg.cbp.category = 'homepage';
+                        break;
+                    case 'section front':
+                        cmg.cbp.category = cmg.s_coxnews.eVar56;
+                        break;
+                    case 'blog entry':
+                        cmg.cbp.category = cmg.s_coxnews.eVar41;
+                        cmg.cbp.author = cmg.s_coxnews.eVar23;
+                        break;
+                }
+            }
+        }else{
+            if (cmg.cbp.category === '') {
+                switch ('article') {
+                        case 'homepage':
+                            cmg.cbp.category = 'homepage';
+                            break;
+                        case 'section front':
+                            cmg.cbp.category = 'News';
+                            break;
+                        case 'blog entry':
+                            cmg.cbp.category = '';
+                            cmg.cbp.author = '';
+                            break;
+                }
+            }
+        }
+
+        var isMobile = window.location.host.indexOf('m.') === 0,
+            domain = 'wsbtv.com';
+
+        var _sf_async_config = {
+            uid: 31585,
+            domain: isMobile ? 'm.' + domain : domain,
+            path: location.pathname,
+            sections: cmg.cbp.category,
+            authors: cmg.cbp.author,
+            playerdomain: 'c.brightcove.com',
+            // Remove | url from page title.
+            title: document.title.replace(/ *\|.*/, '')
+        };
+        // Chartbeat boilerplate
+    (function(){function a(){window._sf_endpt=(new Date()).getTime();var c=document.createElement("script");c.setAttribute("language","javascript");c.setAttribute("type","text/javascript");c.setAttribute("src","//static.chartbeat.com/js/chartbeat.js");document.body.appendChild(c)}var b=window.onload;window.onload=(typeof window.onload!="function")?a:function(){b();a()}}());
+    </script><!-- Quantcast Tag --><script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct:"p-38KriKc8Foyx-",
+            labels:".tv"
+        });
+    </script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-38KriKc8Foyx-.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!-- End Quantcast tag --><!-- Qualtrics Tag --><!-- requires javascript/qualtrics.js?zid="{{qz_id}}"&rate="{{qz_samplerate}}" --><div id="qualtrics_zone"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div><noscript><a target="_blank" href="http://www.qualtrics.com/enterprise-feedback-management">Enterprise Feedback Management</a><br/><a target="_blank" href="http://www.qualtrics.com/survey-software">Survey Software</a><br/></noscript><!-- End Qualtrics tag --><!-- end analytics block --><!-- begin jstrials footer block --><div id="writecapture35902926"></div><script type="text/javascript">
+    marimo.emit('writecapture35902926_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE            $NEWLINE                $NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE$NEWLINE    $NEWLINE    $NEWLINE        <!-- Doubleclick Code for Retargeting Tag -->$NEWLINE$BEGINSCRIPT type=\"text/javascript\">$NEWLINE/* <![CDATA[ */$NEWLINEvar google_conversion_id = 984779612;$NEWLINEvar google_custom_params = window.google_tag_params;$NEWLINEvar google_remarketing_only = true;$NEWLINE/* ]]> */$NEWLINE$ENDSCRIPT$NEWLINE$BEGINSCRIPT type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">$NEWLINE$ENDSCRIPT$NEWLINE<noscript>$NEWLINE<div style=\"display:inline;\">$NEWLINE<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/984779612/?value=0&amp;guid=ON&amp;script=0\"/>$NEWLINE</div>$NEWLINE</noscript>$NEWLINE<!-- https://browser-update.org/ -->$NEWLINE$BEGINSCRIPT> $NEWLINEvar $buoop = {c:2,reminderClosed:168,newwindow:true}; $NEWLINEfunction $buo_f(){ $NEWLINE var e = document.createElement(\"script\"); $NEWLINE e.src = \"//browser-update.org/update.min.js\";  $NEWLINE document.body.appendChild(e);$NEWLINE};$NEWLINEtry {document.addEventListener(\"DOMContentLoaded\", $buo_f,false)}$NEWLINEcatch(e){window.attachEvent(\"onload\", $buo_f)}$NEWLINE$ENDSCRIPT$NEWLINE    $NEWLINE$NEWLINE            $NEWLINE        ", "id": "writecapture35902926", "widget_prototype": "writecapture_widget"});
+</script><!-- end jstrials footer block --><!-- retargeting footer --><!-- Google Code for Remarketing Tag --><!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+---------------------------------------------------><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 973256721;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973256721/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><!-- Begin Adify tag for beacon ID#10136662--><script type="text/javascript"><!--
+ sr_actioncode = 0;
+ sr_actionvalue = 10136662;
+--></script><script type="text/javascript">
+ document.write("<scr"+"ipt type='text/javascr"+"ipt' src='"+(location.protocol.indexOf('https')>-1 ? "https://" : "http://")+"beacon.afy11.net/srbeacon.js?behavioralGroupId=10136662'>");
+ document.write("</scr"+"ipt>");
+</script><!-- End Adify tag for beacon ID#10136662--><!-- end retargeting footer --><!-- parker_test --><!-- parker enable ==  --><!-- janrain widget templates --><div style="display:none;" id="signIn"><div class="capture_header"><h1>Sign In / Register</h1></div><div class="capture_signin"><h2>Sign in with your existing account</h2>
+                {* loginWidget *} <br /></div><div class="capture_backgroundColor"><div class="capture_signin"><h2>Sign in with your email</h2>
+                            {* #userInformationForm *}
+                                {* traditionalSignIn_emailAddress *}
+                                {* traditionalSignIn_password *}
+                                <div class="capture_form_item">
+                                        {* traditionalSignIn_signInButton *}
+                                    <a href="#" data-capturescreen="forgotPassword" id="forgotPasswordLink">Forgot your password?</a></div>
+                            {* /userInformationForm *}
+                </div></div><div class="capture_newUser capture_signin"><h2>New User?</h2><a href="#" class="capture_btn capture_primary" data-capturescreen="traditionalRegistration">Create a New Account</a></div></div><div style="display:none;" id="returnSocial"><div class="capture_header"><h1>Sign In / Register</h1></div><div class="capture_signin"><h2>Welcome Back {* welcomeName *}</h2>
+                {* loginWidget *}
+                <div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div></div></div><div style="display:none;" id="returnTraditional"><div class="capture_header"><h1>Sign In / Register</h1></div><div class="capture_backgroundColor"><div class="capture_signin"><h2>Welcome back. Please sign in</h2>
+                    {* #userInformationForm *}
+                        {* traditionalSignIn_emailAddress *}
+                        {* traditionalSignIn_password *}
+                        <div class="capture_form_item">
+                            {* traditionalSignIn_signInButton *}
+                            <a href="#" data-capturescreen="forgotPassword" id="forgotPasswordLink">Forgot your password?</a></div><div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div>
+                    {* /userInformationForm *}
+                </div></div></div><div style="display:none;" id="socialRegistration" class="capture_lrg_footer"><div class="capture_header"><h1>You're Almost Done!</h1></div><div class="capture_signup"><h2>Select a display name and password</h2>
+                {* #socialRegistrationForm *}
+                    {* socialRegistration_displayName *}
+                    {* socialRegistration_emailAddress *}
+                    {* traditionalRegistration_password *}
+                    {* traditionalRegistration_passwordConfirm *}
+                    <h2>Tell us about yourself</h2>
+                    {* registration_firstName *}
+                    {* registration_lastName *}
+                    {* registration_postalZip *}
+                    {* registration_birthday *}
+                    {* registration_gender *}
+                    <div class="capture_form_item"><label>*Indicates Required Field</label></div>
+                    {* agreeToTerms *}
+                    <div class="capture_footer"><div class="capture_left">
+                            {* backButton *}
+                        </div><div class="capture_right">
+                        {* socialRegistration_signInButton *}
+                        </div></div>
+                {* /socialRegistrationForm *}
+            </div></div><div style="display:none;" id="traditionalRegistration"><div class="capture_header"><h1>Create a New Account</h1></div><div class="capture_signup"><h2>Select a display name and password</h2><p>Already have an account? <a href="#" data-capturescreen="signIn">Sign In</a></p>
+                {* #registrationForm *}
+                    {* traditionalRegistration_displayName *}
+                    {* traditionalRegistration_emailAddress *}
+                    {* traditionalRegistration_password *}
+                    {* traditionalRegistration_passwordConfirm *}
+                    <h2>Tell us about yourself</h2>
+                    {* registration_firstName *}
+                    {* registration_lastName *}
+                    {* registration_postalZip *}
+                    {* registration_birthday *}
+                    {* registration_gender *}
+                    <div class="capture_form_item"><label>*Indicates Required Field</label></div>
+                    {* agreeToTerms *}
+                    <div class="capture_footer"><div class="capture_left">
+                            {* createAccountButton *}
+                        </div></div>
+                {* /registrationForm *}
+            </div></div><div style="display:none;" id="traditionalRegistrationBlank"><div class="capture_header"><h1>Create a New Account</h1></div><div class="capture_signup"><p>Already have an account? <a href="#" data-capturescreen="signIn">Sign In</a></p>
+                {* #registrationFormBlank *}
+                    {* registration_firstName *}
+                    {* registration_lastName *}
+                    {* traditionalRegistration_displayName *}
+                    {* traditionalRegistration_emailAddressBlank *}
+                    {* registration_birthday *}
+                    {* registration_gender *}
+                    {* registration_postalZip *}
+                    {* traditionalRegistration_passwordBlank *}
+                    {* traditionalRegistration_passwordConfirmBlank *}
+                    <div class="capture_form_item"><label>*Indicates Required Field</label></div>
+                    {* agreeToTerms *}
+                    <div class="capture_footer"><div class="capture_left">
+                            {* backButton *}
+                        </div><div class="capture_right">
+                        {* createAccountButton *}
+                        </div></div>
+                {* /registrationForm *}
+            </div></div><div style="display:none;" id="registrationSuccess"><div class="capture_header"><h1>Thank you for registering!</h1></div><div class="capture_success"><p>We have sent you a confirmation email. Please check your email and click on the link to activate your account.</p><div class="capture_footer"><span onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</span></div></div></div><div style="display:none;" id="registrationSuccessConfirmed"><div class="capture_header"><h1>Thank you for registering!</h1></div><div class="capture_success"><p>We look forward to seeing you frequently. Visit us and sign in to update your profile, receive the latest news and keep up to date with mobile alerts.</p><div class="capture_footer"><span onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</span></div></div></div><div style="display:none;" id="forgotPassword"><div class="capture_header"><h1>Create a new password</h1></div><div class="retrieve_password"><p>Don't worry, it happens. We'll send you a link to create a new password.</p>
+                {* #forgotPasswordForm *}
+                    {* forgotPassword_emailAddress *}
+                    <div class="capture_footer"><div class="capture_left">
+                            {* backButton *}
+                        </div><div class="capture_right">
+                            {* forgotPassword_sendButton *}
+                        </div></div>
+                {* /forgotPasswordForm *}
+            </div></div><div style="display:none;" id="forgotPasswordSuccess"><div class="capture_header"><h1>Email sent</h1></div><div class="retrieve_password"><p>We have sent you an email with a link to change your password.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div></div><div style="display:none;" id="forgotPasswordSuccess"><div class="capture_header"><h1>Create a new password</h1></div><div class="retrieve_password"><p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div></div><div style="display:none;" id="mergeAccounts">
+            {* mergeAccounts *}
+        </div><div style="display:none;" id="traditionalAuthenticateMerge"><div class="capture_header"><h1>Sign in to complete account merge</h1></div><div class="capture_signin">
+            {* #tradAuthenticateMergeForm *}
+                {* traditionalSignIn_emailAddress *}
+                {* mergePassword *}
+                <div class="capture_footer"><div class="capture_left">
+                        {* backButton *}
+                    </div><div class="capture_right">
+                        {* traditionalSignIn_signInButton *}
+                    </div></div>
+             {* /tradAuthenticateMergeForm *}
+            </div></div><div style="display:none;" id="resendVerification"><div class="capture_header"><h1>Resend Email Verification</h1></div><div class="retrieve_password"><p>To sign in you must verify your email address. Fill out the form below and we'll send you an email to verify.</p>
+                {* #resendVerificationForm *}
+                    {* resendVerification_emailAddress *}
+                    <div class="capture_fox_buttoncol">
+                        {* newPasswordFormButton *}
+                    </div>
+                 {* /resendVerificationForm *}
+            </div></div><div style="display:none;" id="resendVerificationSuccess"><div class="capture_header"><h1>Your Verification Email Has Been Sent</h1></div><div class="retrieve_password"><p>Check your email for a link to verify your email address.</p><div class="capture_footer"><a href="#" data-capturescreen="signIn" class="capture_btn capture_primary">Sign in</a></div></div></div><script>
+        cmg.query(function () {
+            cmg.query('#adgeletti-ad-div-PB00-0px-infinity')
+                .prepend('<span>Sponsored By:</span>');
+        });
+    </script><script>
+    ybotq.push(function () {
+        googletag.cmd.push(function () {
+            var conf = {"slots": [{"instance_id": 0, "targeting": {"ad_slot": "HP00", "breakpoint": "0px-infinity"}, "sizes": [[120, 90]], "companion": true, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-HP00-0px-infinity", "name": "HP00"}, {"instance_id": 0, "targeting": {"ad_slot": "PB01", "breakpoint": "0px-infinity"}, "sizes": [[950, 30], [970, 250], [728, 90], [970, 30]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-PB01-0px-infinity", "name": "PB01"}, {"instance_id": 0, "targeting": {"ad_slot": "RP01", "breakpoint": "0px-infinity"}, "sizes": [[300, 600], [300, 250], [300, 1050]], "companion": true, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP01-0px-infinity", "name": "RP01"}, {"instance_id": 0, "targeting": {"ad_slot": "RP02", "breakpoint": "0px-infinity"}, "sizes": [[300, 100]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP02-0px-infinity", "name": "RP02"}, {"instance_id": 0, "targeting": {"ad_slot": "RP03", "breakpoint": "0px-infinity"}, "sizes": [[300, 250], [300, 100]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP03-0px-infinity", "name": "RP03"}, {"instance_id": 0, "targeting": {"ad_slot": "RP04", "breakpoint": "0px-infinity"}, "sizes": [[300, 100]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP04-0px-infinity", "name": "RP04"}, {"instance_id": 0, "targeting": {"ad_slot": "RP05", "breakpoint": "0px-infinity"}, "sizes": [[300, 100]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP05-0px-infinity", "name": "RP05"}, {"instance_id": 0, "targeting": {"ad_slot": "RP06", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP06-0px-infinity", "name": "RP06"}, {"instance_id": 0, "targeting": {"ad_slot": "RP07", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP07-0px-infinity", "name": "RP07"}, {"instance_id": 0, "targeting": {"ad_slot": "RP09", "breakpoint": "0px-infinity"}, "sizes": [[300, 250]], "companion": true, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-RP09-0px-infinity", "name": "RP09"}, {"instance_id": 0, "targeting": {"ad_slot": "TL1", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-TL1-0px-infinity", "name": "TL1"}, {"instance_id": 0, "targeting": {"ad_slot": "TL2", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-TL2-0px-infinity", "name": "TL2"}, {"instance_id": 0, "targeting": {"ad_slot": "TL3", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-TL3-0px-infinity", "name": "TL3"}, {"instance_id": 0, "targeting": {"ad_slot": "TL4", "breakpoint": "0px-infinity"}, "sizes": [[1, 1]], "companion": false, "breakpoint": "0px-infinity", "total_count": 1, "adunit": "12523293/www.wsbtv.com-wired/news/local", "id": "adgeletti-ad-div-TL4-0px-infinity", "name": "TL4"}], "targeting": {"obj_type": "292", "obj_id": "3011443", "topics": ["wsbblurb"], "type_name": "story", "sky": "Scattered Clouds", "mediatype": "tv", "environ": "prod", "temp_range": "80 to 84"}},
+                srmset,
+                loaded = false;
+
+            
+            function makeAdCalls() {
+                cmg.ads.size.bind();
+                
+                googletag.enableServices();
+                cmg.harmony.show.breakpoint('0px-infinity');
+            }
+
+            
+            function postload() {
+                cmg.harmony.load({
+                    slots: cmg.ads.conf.flush()
+                });
+                cmg.query(window).trigger('ads/ready');
+                cmg.harmony.trigger('ready');
+            }
+
+            
+                cmg.harmony.load(conf);
+                makeAdCalls();
+                cmg.query(window).trigger('ads/ready');
+                cmg.harmony.trigger('ready');
+            
+        });
+    });
+</script><!--
+/* -----===== Begin Ad Logs =====----- */
+
+Taxonomy
+----------
+news/local
+
+Targeting
+----------
+{
+  "obj_type": "292", 
+  "obj_id": "3011443", 
+  "topics": [
+    "wsbblurb"
+  ], 
+  "type_name": "story", 
+  "sky": "Scattered Clouds", 
+  "mediatype": "tv", 
+  "environ": "prod", 
+  "temp_range": "80 to 84"
+}
+
+Ad slots in this page
+----------
+[u'TL3', u'TL2', u'TL1', u'PB00', u'PB01', u'TL4', u'HP00', u'HP01', u'RP02', u'RP03', u'RP01', u'RP06', u'RP07', u'RP04', u'RP05', u'RP08', u'RP09']
+
+Slot size and breakpoint configuration
+----------
+Slot HP00 (1) displays sizes [[120, 90]] at 0px-infinity
+Slot PB01 (1) displays sizes [[950, 30], [970, 250], [728, 90], [970, 30]] at 0px-infinity
+Slot RP01 (1) displays sizes [[300, 600], [300, 250], [300, 1050]] at 0px-infinity
+Slot RP02 (1) displays sizes [[300, 100]] at 0px-infinity
+Slot RP03 (1) displays sizes [[300, 250], [300, 100]] at 0px-infinity
+Slot RP04 (1) displays sizes [[300, 100]] at 0px-infinity
+Slot RP05 (1) displays sizes [[300, 100]] at 0px-infinity
+Slot RP06 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot RP07 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot RP09 (1) displays sizes [[300, 250]] at 0px-infinity
+Slot TL1 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot TL2 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot TL3 (1) displays sizes [[1, 1]] at 0px-infinity
+Slot TL4 (1) displays sizes [[1, 1]] at 0px-infinity
+
+System Messages
+----------
+Adgeletti version 2.9.4
+Harmony version 1.7.0
+
+/* -----====== End Ad Logs ======----- */
+--><div id="writecapture11521704"></div><script type="text/javascript">
+    marimo.emit('writecapture11521704_ready');
+    marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE            $NEWLINE            $NEWLINE                $BEGINSCRIPT src=\"http://widget.perfectmarket.com/coxmedia/load.js\">$ENDSCRIPT$NEWLINE            $NEWLINE        ", "id": "writecapture11521704", "widget_prototype": "writecapture_widget"});
+</script><!-- dtm footer code --><script type="text/javascript">
+            if (window._satellite) {
+                _satellite.pageBottom();
+            }
+        </script></body></html>

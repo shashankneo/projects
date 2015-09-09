@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link rel="shortcut icon" href="http://www.programmableweb.com/sites/default/files/pwfav.png" type="image/png" />
+<meta name="news_keywords" content="Backend-as-a-Service, API Strategy, Mobile, Nordic APIs" />
+<meta name="msvalidate.01" content="A831B864E788CA09524699B47E05A41D" />
+<meta name="description" content="The API-first strategy for mobile development offers versatility, scalability and speed of development for mobile applications, and outweighs the mobile-first approach." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.programmableweb.com/news/why-you-need-api-driven-baas-strategy/elsewhere-web/2015/08/01" />
+<link rel="shortlink" href="http://www.programmableweb.com/node/143866" />
+<link rel="author" href="http://plus.google.com/" />
+<meta property="og:site_name" content="ProgrammableWeb" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.programmableweb.com/news/why-you-need-api-driven-baas-strategy/elsewhere-web/2015/08/01" />
+<meta property="og:title" content="Why You Need An API-driven BaaS Strategy" />
+<meta property="og:description" content="The API-first strategy for mobile development offers versatility, scalability and speed of development for mobile applications, and outweighs the mobile-first approach." />
+<meta property="og:image" content="http://www.programmableweb.com/sites/default/files/pw-200-200.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@programmableweb" />
+<meta name="twitter:site:id" content="17413602" />
+<meta name="twitter:url" content="http://www.programmableweb.com/news/why-you-need-api-driven-baas-strategy/elsewhere-web/2015/08/01" />
+<meta name="twitter:title" content="Why You Need An API-driven BaaS Strategy" />
+<meta name="twitter:image:src" content="http://i62.tinypic.com/sqo181.png" />
+<meta name="twitter:image:width" content="65" />
+<meta name="twitter:image:height" content="65" />
+  <title>Why You Need An API-driven BaaS Strategy | ProgrammableWeb</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700' rel='stylesheet' type='text/css'>
+  <link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__BpslL--KiOc_QnQrhviVMPXpBSmHLNp9ff4LWq27cmw__pazg4WOy57xRFvemZsWP2rmDJyeGNg-Lf0hiZDkBdFk__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all" />
+<style>.url-textfield{display:none !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__mP-m9hv-MZtwkU1_OS3BbPO_ALMp02dfxZO8KeqHdxg__-kzkQ-c4nPjr7950xcRWYP6XJuCp1-qZ2HuMaIt58Sk__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__18yrF3VJNWK4pilBus5xqx17YVKoKCBKvBtN-nSbldg__4KeCprTV4jG4YbwRIFi_B_GsUMZ4p4IPgv_WgP20jHU__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__iTeQCF9IJHXuHl8_xsd9FbNIEmq69YxsirbRM3-KpzU__QM7N7VXII_C1h7s7_xaevvt6XyfjCBhgmq6Iab3DuHQ__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__kEBoJVmXyg32Oc05W-3w2VjQj5yW1kBAMFk4Unw4i_I__rrU2jM_Sk8i2ihD7nX3mM8iGncz9LLnkx7b7tAA6xSQ__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all" />
+  <script src="http://www.programmableweb.com/sites/all/modules/contrib/respondjs/lib/respond.min.js?ns14gv"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__02H9twOb-uSO3PQpdEasEVkGDqPEVTrp2R9uPdx-ocA__aX8qRrJ9mej3Qy9_vfXiUOe19Gh3gaLOw_rnpYS8Qkw__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script>window.CKEDITOR_BASEPATH = "/sites/all/libraries/ckeditor/"</script>
+<script src="http://www.programmableweb.com/sites/all/modules/contrib/lightbox2/js/lightbox.js?1438488848"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__m8-gyZWvU3cthWfYAt3ndFmrtg5lUi4wtIJjIA0UHOw__CmC7FeOcf7XuIdOuBVWjTHhfJi3kLYhDcnAOxFCKNe0__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-208396-5", "auto");ga("set", "dimension1", "backend_as_a_service,api_strategy,mobile");ga("set", "dimension2", "Elsewhere on The Web");ga("set", "dimension3", "Saturday, August 1, 2015 - 09:52");ga("set", "dimension4", "Martin W Brennan");ga("send", "pageview");</script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__2iZEb4TJ1Dw1qlmPGD37OKNLBizj9rD9g-AUGsRp2Gg__ucrzvlhrBRxqQCwW-U0EmS_oweY-MtIAJS6WETCOAlE__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pw_bootstrap","theme_token":"AEabsgfYGEei0KImKSEw6ndXETmJR3-Ll-_mJqNCvkA","js":{"sites\/all\/modules\/contrib\/respondjs\/lib\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/media\/js\/media.core.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/media\/js\/util\/json2.js":1,"sites\/all\/modules\/contrib\/media\/js\/util\/ba-debug.min.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/contrib\/visualization\/js\/visualization.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"0":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/jgrowl\/jquery.jgrowl.min.js":1,"sites\/all\/modules\/contrib\/nicemessages\/js\/nicemessages.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/custom\/pw_common\/js\/pw_common.js":1,"sites\/all\/modules\/custom\/pw_articles\/js\/pw_articles.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/contrib\/media\/js\/media.popups.js":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"sites\/all\/modules\/contrib\/ajaxblocks\/ajaxblocks.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.infinitescroll.min.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/manual-trigger.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/viewsinfinitescroll.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/perfect-scrollbar.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/custom.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/contrib\/picture\/picture.js":1,"sites\/all\/modules\/contrib\/ckeditor\/plugins\/media\/library.js":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/contrib\/ckeditor\/includes\/ckeditor.utils.js":1,"sites\/all\/libraries\/ckeditor\/ckeditor.js":1,"sites\/all\/modules\/custom\/pw_ad\/js\/pw_adzerk.js":1,"sites\/all\/modules\/custom\/pw_ad\/js\/pw_adzerk_native_api_ads.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/pw_tabs.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/media\/css\/media.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/custom\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/libraries\/jgrowl\/jquery.jgrowl.min.css":1,"sites\/all\/modules\/contrib\/nicemessages\/css\/nicemessages_positions.css":1,"sites\/all\/modules\/contrib\/nicemessages\/css\/nicemessages_drupal.css":1,"sites\/all\/modules\/contrib\/nicemessages\/css\/shadows.css":1,"sites\/all\/modules\/contrib\/sharebar\/css\/sharebar.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.editor.css":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.field_ui.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/pw_bootstrap\/less\/style.less":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"flexslider":{"optionsets":{"flexslider_pw_research_center":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"15000","directionNav":true,"controlNav":false,"prevText":"\/Pre","nextText":"\/Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"visualization":"flexslider_pw_research_center"}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"nicemessages":{"position":"center","items":[]},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Top Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"adzerkVarSet":{"primary_audience":"developer","primary_channel":"programmableweb","primary_category":"backend-as-a-service","secondary_category":"api+strategy, mobile","related_companies":"nordic+apis","related_languages":"","products":""},"common":{"pageCategory":["backend_as_a_service","api_strategy","mobile"],"contentType":"elsewhere_on_the_web","publishDate":"Saturday, August 1, 2015 - 09:52","author":"Martin W Brennan"},"media":{"browserUrl":"\/media\/browser?render=media-popup","styleSelectorUrl":"\/media\/-media_id-\/format-form?render=media-popup","dialogOptions":{"dialogclass":"media-wrapper","modal":true,"draggable":false,"resizable":false,"minwidth":500,"width":670,"height":280,"position":"center","overlay":{"backgroundcolor":"#000000","opacity":0.4},"zindex":10000}},"ckeditor":{"input_formats":{"filtered_html":{"customConfig":"\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"\n[\n    [\u0027Source\u0027],\n    [\u0027Cut\u0027,\u0027Copy\u0027,\u0027Paste\u0027,\u0027PasteText\u0027,\u0027PasteFromWord\u0027,\u0027-\u0027,\u0027SpellChecker\u0027, \u0027Scayt\u0027],\n    [\u0027Undo\u0027,\u0027Redo\u0027,\u0027Find\u0027,\u0027Replace\u0027,\u0027-\u0027,\u0027SelectAll\u0027,\u0027RemoveFormat\u0027],\n    [\u0027Image\u0027,\u0027Media\u0027,\u0027Flash\u0027,\u0027Table\u0027,\u0027HorizontalRule\u0027,\u0027Smiley\u0027,\u0027SpecialChar\u0027],\n    [\u0027Maximize\u0027, \u0027ShowBlocks\u0027],\n    \u0027\/\u0027,\n    [\u0027Format\u0027],\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027Strike\u0027,\u0027-\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027],\n    [\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027-\u0027,\u0027Outdent\u0027,\u0027Indent\u0027,\u0027Blockquote\u0027],\n    [\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027-\u0027,\u0027BidiLtr\u0027,\u0027BidiRtl\u0027],\n    [\u0027Link\u0027,\u0027Unlink\u0027,\u0027Anchor\u0027, \u0027Linkit\u0027]\n]\n    ","enterMode":1,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"t","ss":"2","loadPlugins":[],"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.styles.js","contentsCss":["http:\/\/www.programmableweb.com\/sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css","http:\/\/www.programmableweb.com\/sites\/all\/libraries\/ckeditor\/contents.css"]},"full_html":{"customConfig":"\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"[\n    [\u0027Format\u0027,\u0027BGColor\u0027,\u0027TextColor\u0027,\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027-\u0027,\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027Link\u0027,\u0027Unlink\u0027,\u0027Image\u0027,\u0027SpecialChar\u0027,\u0027Anchor\u0027,\u0027Source\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027,\u0027Blockquote\u0027,\u0027Font\u0027,\u0027Table\u0027,\u0027Media\u0027,\u0027MediaEmbed\u0027,\u0027CreateDiv\u0027,\u0027PasteFromWord\u0027,\u0027RemoveFormat\u0027,\u0027Maximize\u0027,\u0027Iframe\u0027,\u0027DrupalPageBreak\u0027]\n]","enterMode":2,"shiftEnterMode":1,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"f","ss":"2","loadPlugins":{"counter":{"name":"counter","desc":"Plugin to count symbols, symbols without blanks and words","path":"\/sites\/all\/modules\/contrib\/ckeditor\/plugins\/counter\/","buttons":false,"default":"f"},"drupalbreaks":{"name":"drupalbreaks","desc":"Plugin for inserting Drupal teaser and page breaks.","path":"\/sites\/all\/modules\/contrib\/ckeditor\/plugins\/drupalbreaks\/","buttons":{"DrupalBreak":{"label":"DrupalBreak","icon":"images\/drupalbreak.png"},"DrupalPageBreak":{"label":"DrupalPageBreak","icon":"images\/drupalpagebreak.png"}},"default":"t"},"media":{"name":"media","desc":"Plugin for inserting images from Drupal media module","path":"\/sites\/all\/modules\/contrib\/ckeditor\/plugins\/media\/","buttons":{"Media":{"label":"Media","icon":"images\/icon.gif"}},"default":"f"},"mediaembed":{"name":"mediaembed","desc":"Plugin for inserting Drupal embeded media","path":"\/sites\/all\/modules\/contrib\/ckeditor\/plugins\/mediaembed\/","buttons":{"MediaEmbed":{"label":"MediaEmbed","icon":"images\/icon.png"}},"default":"f"}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"js_conf":{"allowedContent":true,"extraPlugins":"\u0027image2\u0027"},"stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.styles.js","contentsCss":["http:\/\/www.programmableweb.com\/sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css","http:\/\/www.programmableweb.com\/sites\/all\/libraries\/ckeditor\/contents.css"]},"user_html":{"customConfig":"\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"[\r\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027Link\u0027,\u0027Unlink\u0027]\r\n]","enterMode":1,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"f","ss":"2","loadPlugins":{"drupalbreaks":{"name":"drupalbreaks","desc":"Plugin for inserting Drupal teaser and page breaks.","path":"\/sites\/all\/modules\/contrib\/ckeditor\/plugins\/drupalbreaks\/","buttons":{"DrupalBreak":{"label":"DrupalBreak","icon":"images\/drupalbreak.png"}},"default":"t"}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.styles.js","contentsCss":["http:\/\/www.programmableweb.com\/sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css"]}},"plugins":[],"textarea_default_format":{"edit-comment-body-und-0-value":"user_html"},"module_path":"\/sites\/all\/modules\/contrib\/ckeditor","editor_path":"\/sites\/all\/libraries\/ckeditor\/","pagebreak":true,"ajaxToken":"uv2HW6XJVLbTKenzFRAo4G5kzLdPM5wqDbv3cedc6vA","xss_url":"\/ckeditor\/xss","theme":"pw_bootstrap","elements":{"edit-comment-body-und-0-value":"user_html"},"autostart":{"edit-comment-body-und-0-value":true}},"tagmap":[],"ajaxblocks":"blocks=pw_homepage-usermenus\u0026path=node\/143866\u0026google_editors_picks=true","bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-143866 node-type-elsewhere-on-the-web" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <script>
+// Klaviyo script
+if (Drupal.settings.user !== undefined) {
+  var _learnq = _learnq || [];
+  _learnq.push(['account', 'gmh6f2']);
+  _learnq.push(['identify', {
+    '$id' : Drupal.settings.user.uid,
+    '$email' : Drupal.settings.user.email,
+    '$first_name' : Drupal.settings.user.first_name,
+    '$last_name' : Drupal.settings.user.last_name,
+    'Created At' : Drupal.settings.user.created
+  }]);
+}
+(function () {
+  var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
+  b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
+  var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
+})();
+
+// GTM script
+if (Drupal.settings.common !== undefined && Drupal.settings.common.pageCategory !== undefined) {
+  dataLayer = [{
+    'event':'pageload',
+    'pageCategory': Drupal.settings.common.pageCategory
+  }];
+  var google_tag_params = {
+    section: Drupal.settings.common.pageCategory,
+    pagetype: ' ',
+    membertype: ' '
+  };
+  if (Drupal.settings.common.contentType !== undefined) {
+    dataLayer.push({'contentType': Drupal.settings.common.contentType});
+    google_tag_params.contenttype = Drupal.settings.common.contentType;
+  }
+  if (Drupal.settings.common.publishDate !== undefined) {
+    dataLayer.push({'publishDate': Drupal.settings.common.publishDate});
+    google_tag_params.publishdate = Drupal.settings.common.publishDate;
+  }
+  if (Drupal.settings.common.author !== undefined) {
+    dataLayer.push({'author': Drupal.settings.common.author});
+    google_tag_params.author = Drupal.settings.common.author;
+  }
+}
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-5T6CSN');</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2BDGD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N2BDGD');</script>
+<!-- End Google Tag Manager -->  <noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T6CSN" height="0"
+          width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<div id="fb-root"></div>
+<div class="header">
+  <div class="header-top-most hidden-xs hidden-sm visible-md visible-lg">
+    <div class="container clearfix">
+      <div class="row">
+        <div class="col-md-12">
+                        <div class="region region-header-top">
+    <section id="block-block-1" class="block block-block follow-news-alert clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><p><a href="/faq#Follow" target="" title="Follow ProgrammableWeb to get API news and alerts as they break">Follow ProgrammableWeb to get API news and alerts as they break</a></p>
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-follow" class="block block-menu clearfix">
+
+        <div class="block-title">+Follow</div>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.facebook.com/programmableweb" id="facebook" class="facebook">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/programmableweb" id="twitter" class="twitter">Twitter</a></li>
+<li class="leaf"><a href="http://www.linkedin.com/company/programmableweb" id="linkedin" class="linkedin">Linkedin</a></li>
+<li class="leaf"><a href="https://plus.google.com/104429355606978314379/posts" id="googleplus" class="googleplus">Google</a></li>
+<li class="last leaf"><a href="http://feeds.feedburner.com/ProgrammableWeb" id="rss" class="rss">Rss</a></li>
+</ul>
+</section> <!-- /.block -->
+<section id="block-menu-menu-share" class="block block-menu clearfix">
+
+        <div class="block-title">Share</div>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/" title="Programmable Web" id="facebook" class="facebook facebook_popup">Facebook</a></li>
+<li class="leaf"><a href="/" title="Programmable Web" id="twitter" class="twitter twitter_popup">Twitter</a></li>
+<li class="leaf"><a href="/" title="Programmable Web" id="linkedin" class="linkedin linkedin_popup">Linkedin</a></li>
+<li class="leaf"><a href="/" title="Programmable Web" id="googleplus" class="googleplus googleplus_popup">Google</a></li>
+<li class="leaf"><a href="/" title="Programmable Web" id="rss" class="rss reddit_popup">Reddit</a></li>
+<li class="last leaf"><a href="/" id="email" class="email fallowemail">Email</a></li>
+</ul>
+</section> <!-- /.block -->
+<section id="block-pw-homepage-usermenus" class="block block-pw-homepage pull-right col-md-2 signup clearfix">
+
+      
+  <div id="block-pw_homepage-usermenus-ajax-content" class="ajaxblocks-wrapper"><script type="text/javascript"></script><noscript><div class="usermenus">
+  <ul class="menu">
+		    <li class="first leaf active"><a href="/user/register?destination=node/143866%3Fgoogle_editors_picks%3Dtrue">Sign In/Sign Up</a></li>
+      </ul>
+</div>
+
+</noscript></div>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="header-bottom-most navbar navbar-default ">
+    <div class="container clearfix " style="width: auto;">
+      <div class="row">
+
+        <div class="toggle-container hidden-lg hidden-md visible-xs visible-sm">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <div class="logo-container">
+                      <a class="logo navbar-btn pull-right"
+               href="/" title="">
+              <img src="http://www.programmableweb.com/sites/default/files/pw-logo.png"
+                   alt="ProgrammableWeb Mashup & API Directory"/>
+            </a>
+                  </div>
+
+        <div
+          class="col-md-8 col-sm-1 col-xs-1 hidden-xs hidden-sm visible-md visible-lg">
+                        <div class="region region-header-right">
+    <section id="block-superfish-1" class="block block-superfish clearfix">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-menu-top-menu sf-horizontal sf-style-default sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-1314-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/category/all/news" id="testid" class="sf-depth-1 menuparent">API News</a><ul><li id="menu-1321-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/category/all/news" class="sf-depth-2">News</a></li><li id="menu-1322-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=analysis" class="sf-depth-2">Analysis</a></li><li id="menu-1323-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=howto" class="sf-depth-2">How-To</a></li><li id="menu-2574-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=review" class="sf-depth-2">Reviews</a></li><li id="menu-1324-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=elsewhere_on_the_web" class="sf-depth-2">Elsewhere On The Web</a></li><li id="menu-1325-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=press_release" class="sf-depth-2">Announcements</a></li></ul></li><li id="menu-1315-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/apis/directory" class="sf-depth-1 menuparent">API Directory</a><ul><li id="menu-1326-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/apis/directory?order=created&amp;sort=desc" class="sf-depth-2">Most Recent</a></li><li id="menu-1327-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/category/all/apis?order=field_popularity" class="sf-depth-2">Most Popular</a></li><li id="menu-1328-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/category/all/apis?data_format=21173%2C21190&amp;order=created&amp;sort=desc" class="sf-depth-2">REST/JSON Support</a></li><li id="menu-1329-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/add/api" id="addAnApi" class="sf-depth-2">Add An API</a></li></ul></li><li id="menu-1316-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/api-provider" class="sf-depth-1 menuparent">For API Providers</a><ul><li id="menu-1332-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/category/all/news?target_audience=13008" class="sf-depth-2">API Provider News</a></li><li id="menu-1330-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/add/api" class="sf-depth-2">Add An API</a></li><li id="menu-1331-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/faq#Claim_API" class="sf-depth-2">Claim An API</a></li><li id="menu-1333-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/faq#Mashups" class="sf-depth-2">Showcase An App</a></li><li id="menu-1334-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/faq#Press_Release" class="sf-depth-2">Feature Your Press Release</a></li><li id="menu-1335-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/content/advertise-us" class="sf-depth-2">Promote Your API</a></li></ul></li><li id="menu-1317-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/developers" class="sf-depth-1 menuparent">For Developers</a><ul><li id="menu-1336-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/category/all/news?target_audience=13007" class="sf-depth-2">Developer News</a></li><li id="menu-1337-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/faq#Mashups" class="sf-depth-2">Promote Your App on PW</a></li><li id="menu-1338-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/category/all/apis?order=created&amp;sort=desc" class="sf-depth-2">Search APIs</a></li><li id="menu-1339-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/category/all/news?articletypes=howto" class="sf-depth-2">How-Tos &amp; Source Code</a></li></ul></li><li id="menu-1320-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/apis/directory" class="sf-depth-1 menuparent">Listings</a><ul><li id="menu-1340-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/mashups/directory?order=created&amp;sort=desc" class="sf-depth-2">Mashups and Apps</a></li><li id="menu-1341-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/category/all/sdk?order=created&amp;sort=desc" class="sf-depth-2">Frameworks, Libraries, SDKs</a></li><li id="menu-1342-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/category/all/how-to?order=created&amp;sort=desc" class="sf-depth-2">Off-site How-To&#039;s &amp; Source</a></li><li id="menu-1343-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/faq#Mashups" class="sf-depth-2">Add an App Or Mashup</a></li><li id="menu-1344-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/faq#List_SDK" class="sf-depth-2">Add a link to a Framework, Library, or SDK</a></li><li id="menu-1345-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/faq#add_how_to" class="sf-depth-2">Add a Link To A How-To/Source Code</a></li></ul></li><li id="menu-2646-1" class="last even sf-item-6 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/forum" class="sf-depth-1 menuparent">Forum</a><ul><li id="menu-2659-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/forum/comments-programmableweb-articles" class="sf-depth-2">Comments on Articles</a></li><li id="menu-2660-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/forum/random-conversations" class="sf-depth-2">Start or Join a Conversation</a></li><li id="menu-2661-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/forum/apis" class="sf-depth-2">Comments on APIs</a></li><li id="menu-2662-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/forum/mashups" class="sf-depth-2">Comments on Mashups</a></li></ul></li></ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+
+      </div>
+    </div>
+    <!-- container-->
+
+    <div
+      class="container clearfix visible-xs hidden-sm hidden-md hidden-md hidden-lg">
+      <div class="row">
+
+        <div class="navbar-collapse collapse">
+          <nav role="navigation">
+                                                    <div class="region region-navigation">
+    <section id="block-menu-menu-mobile-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first expanded dropdown"><a href="/category/all/news" data-target="#" class="dropdown-toggle" data-toggle="dropdown">API News <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/category/all/news">News</a></li>
+<li class="leaf"><a href="/category/all/news?articletypes=analysis">Analysis</a></li>
+<li class="leaf"><a href="/category/all/news?articletypes=howto">How-To</a></li>
+<li class="leaf"><a href="/category/all/news?articletypes=review">Reviews</a></li>
+<li class="leaf"><a href="/category/all/news?articletypes=elsewhere_on_the_web">Elsewhere On The Web</a></li>
+<li class="last leaf"><a href="/category/all/news?articletypes=press_release">Announcements</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/apis/directory" data-target="#" class="dropdown-toggle" data-toggle="dropdown">API Directory <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/apis/directory?order=created&amp;sort=desc">Most Recent</a></li>
+<li class="leaf"><a href="/category/all/apis?order=field_popularity">Most Popular</a></li>
+<li class="leaf"><a href="/category/all/apis?data_format=18239%2C18244&amp;order=created&amp;sort=desc">REST/JSON Support</a></li>
+<li class="last leaf"><a href="/add/api">Add an API</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/api-provider" data-target="#" class="dropdown-toggle" data-toggle="dropdown">For API Providers <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/category/all/news?target_audience=13008">API Provider News</a></li>
+<li class="leaf"><a href="/add/api">Add An API</a></li>
+<li class="leaf"><a href="/faq#Claim_API">Claim An API</a></li>
+<li class="leaf"><a href="/faq#Showcase_An_App">Showcase An App</a></li>
+<li class="leaf"><a href="/faq#Press_Release">Feature Your Press Release</a></li>
+<li class="last leaf"><a href="/content/advertise-us">Promote Your API</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/developers" data-target="#" class="dropdown-toggle" data-toggle="dropdown">For Developers <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/category/all/news?target_audience=13007">Developer News</a></li>
+<li class="leaf"><a href="/faq#promote">Promote Your App on PW</a></li>
+<li class="leaf"><a href="/category/all/apis?order=created&amp;sort=desc">Search APIs</a></li>
+<li class="last leaf"><a href="/category/all/news?articletypes=howto">How-Tos &amp; Source Code</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/apis/directory" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Listings <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/mashups/directory?order=created&amp;sort=desc">Mashups and Apps</a></li>
+<li class="leaf"><a href="/category/all/sdk?order=created&amp;sort=desc">Frameworks, Libraries, SDKs</a></li>
+<li class="leaf"><a href="/category/all/how-to?order=created&amp;sort=desc">Off-site How-To&#039;s &amp; Source</a></li>
+<li class="leaf"><a href="/faq#add_app">Add an App Or Mashup</a></li>
+<li class="leaf"><a href="/faq#List_SDK">Add a link to a Framework, Library, or SDK</a></li>
+<li class="last leaf"><a href="/faq#add_how_to">Add a Link To A How-To/Source Code</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/forum" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Forum <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/forum/comments-programmableweb-articles">Comments on Articles</a></li>
+<li class="leaf"><a href="/forum/random-conversations">Start or Join a Conversation</a></li>
+<li class="leaf"><a href="/forum/apis">Comments on APIs</a></li>
+<li class="last leaf"><a href="/forum/mashups">Comments on Mashups</a></li>
+</ul></li>
+<li class="last leaf"><a href="/user/register" id="loginMenu">Sign In / Sign Up</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                      </nav>
+        </div>
+
+      </div>
+    </div>
+    <!-- container-->
+
+  </div>
+</div>
+
+<!-- header ended -->
+<div class="top-ad-wrapper">
+  <div class="container top-ad">
+    <div class="row">
+                <div class="region region-top-ad">
+    <section id="block-block-28" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div id="adzerk-top-leaderboard" style="padding-bottom: 10px;">
+<div id="azk16406">&nbsp;</div>
+</div>
+
+</section> <!-- /.block -->
+  </div>
+        <!-- /#content_bottom -->
+          </div>
+  </div>
+</div>
+<div class="main">
+  <div class="main-container container">
+    <div class="white-bg"></div>
+
+    <header role="banner" id="page-header" class="center-block">
+      
+          </header>
+    <!-- /#page-header -->
+
+    <div class="row">
+
+      
+      <section class="col-sm-12 col-md-8" id="main-section-content">
+                                <a id="main-content"></a>
+                        
+                                  <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article class="node-article-profile">
+  <div class="article-head">
+    <div class="deprecated">
+                </div>
+    <div class="tags"><a href="/category/all/news?articletypes=elsewhere_on_the_web">Elsewhere On The Web</a>, <a href="/category/backend-service">Backend-as-a-Service</a>, <a href="/category/api-strategy">API Strategy</a>, <a href="/category/mobile">Mobile</a></div>
+
+        <header>
+              <h1>Why You Need An API-driven BaaS Strategy</h1>
+          </header>
+      <div class="clearfix"></div>
+    
+    <a href="/profile/martinwb">Martin W Brennan</a>, Contributing Writer
+        <footer class="submitted">Aug. 01 2015, 04:10PM EDT</footer>
+    
+          <div class="node-social-media"><div class="socialmain"><div id="facebook_social_sidebar" class="facebook_popup expend first"><div class="facebook_icon" id="facebook_id" >Share via Facebook</div></div><div id="twitter_social_sidebar" class="twitter_popup expend"><div class="facebook_icon" id="twitter_id" >Share via Twitter</div></div><div id="linkedin_social_sidebar" class="linkedin_popup expend"><div class="facebook_icon" id="linkedin_id" >Share via Linkedin</div></div><div id="googleplus_social_sidebar" class="googleplus_popup expend"><div class="facebook_icon" id="googleplus_id" >Share via Google+</div></div><div id="reddit_social_sidebar" class="reddit_popup expend"><div class="facebook_icon" id="reddit_id" >Share via Reddit</div></div><div id="email_social_sidebar" class="email_popup expend last"><div class="facebook_icon" id="mail_id" >Share via Mail</div></div></div></div>
+     </div>
+
+  
+    <div class="pull-left node_article_thumbnail">
+      </div>
+  
+  <div>
+    <div class="field field-name-field-article-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>There are currently two opposing trends in mobile development, claims Jennifer Riggins in her <a href="http://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/">post</a> on the Nordic APIs blog. While the mobile-first approach is useful if you are targeting only iOS users, it can hinder quick development for future audiences on other platforms, so Riggins encourages developers to adopt the API-first approach for its versatility, scalability and speed of development.</p>
+<p>Where mobile-first focusses on building a landing page website and then building the product in iOS, API-first begins with the API, which allows websites and apps on different platforms to be built on top of the same basic conditions. The <a href="http://www.programmableweb.com/news/appcelerator-announces-arrow-to-extend-their-mbaas-platform/2015/04/02">BaaS</a> (Backend as a Service) strategy is a way for developers to link their application and software to cloud-based storage, making it easier to link with <a href="http://www.programmableweb.com/news/realvnc-to-provide-sdk-to-invoke-remote-control-software/2015/04/06">SDKs</a> and quickly reach subscribers across many different devices.</p>
+<p>BaaS does have the downsides of being very data-centric, a reliance on the client to deal with the logic, and the increased security risk of every client being in an untrusted environment. However, it does eliminate boilerplate code and redundant stack setup for each app from within a single model.</p>
+<p>According to market research firm Markets and Markets, BaaS will be worth $7.7bn by 2017, so there is clearly a lot of confidence in this approach. And when considering that it allows developers to build, deploy and manage the entire API lifecycle from this single source, and that providers are offering SDK support for more languages, it is difficult to argue against an API-driven BaaS strategy.</p>
+</div></div></div>  </div>
+
+	<div class="clearfix"></div>
+  
+  <section id="block-block-34" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div class="article_add">
+<div class="adzerk-native-ads" id="apis" zone="126188">
+<div class="native-ads-container">
+<div class="ads-logo">Promoted</div>
+</div>
+<div class="premium-ad" divname="ad1"> </div>
+<div class="premium-ad" divname="ad2"> </div>
+<div class="premium-ad" divname="ad3"> </div>
+</div>
+</div>
+
+</section> <!-- /.block -->
+	<div class="related-wrapper">
+
+		<div class="related-content pull-left">
+			<!-- Related Contents... -->
+		  			<label>Related Content on ProgrammableWeb</label>
+			<div class="related-term">
+			  <h3></h3><ul id="related-content-list"><li class="first"><a href="/news/why-ctos-must-design-developers-mind/elsewhere-web/2015/07/31" id="ra_1" class="ra-1">Why CTOs Must Design with Developers in Mind</a></li>
+<li><a href="/news/api-craft-conference-starts-july-27-detroit/2015/07/23" id="ra_2" class="ra-2">API Craft Conference Starts July 27 in Detroit</a></li>
+<li><a href="/news/appery.io-integrates-ionic-sdk-hybrid-mobile-app-development/2015/07/21" id="ra_3" class="ra-3">Appery.io Integrates Ionic SDK for Hybrid Mobile App Development</a></li>
+<li><a href="/news/how-chicago-transportation-uses-google-maps-api-to-coordinate-infrastructure/elsewhere-web/2015/07/20" id="ra_4" class="ra-4">How Chicago Transportation Uses Google Maps API to Coordinate Infrastructure</a></li>
+<li class="last"><a href="/news/twitter-founder-admits-error-over-api-rate-limits/elsewhere-web/2015/07/19" id="ra_5" class="ra-5">Twitter Founder Admits Error Over API Rate Limits</a></li>
+</ul>			</div>
+					</div>
+
+    <div class="related-terms pull-left">
+		  <!-- Related APIs -->
+		  		  <!-- Related Companies -->
+		  		    <label>Related Companies</label>
+		    <div class="related-term"><a href="/search/Nordic%20APIs">Nordic APIs</a></div>
+		  		  <!-- Related Languages/Platforms -->
+		  		  <!-- Related Frameworks, libraries and SDKs -->
+		  		  <!-- Findout more about... -->
+		  		    <label>Find out more about...</label>
+		    <div class="related-term"><a href="/category/backend-service">Backend-as-a-Service</a>, <a href="/category/api-strategy">API Strategy</a>, <a href="/category/mobile">Mobile</a></div>
+		  		 </div>
+
+  </div>
+  <div class="clearfix"></div>
+
+  <section id="original-article-content" class="original-article-content">
+	  <div class="block-title"><span>Original Article</span></div>
+	  <h4><a href="http://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/"><div class="field field-name-field-article-headline-on-actual field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Why You Should Build Apps With An API Backend – BaaS</div></div></div></a></h4>
+	  <div class="author-details">
+              <div class="article-author"><div class="field field-name-field-article-author-s-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jennifer Riggins</div></div></div></div>
+        <div class="divider-vertical"></div>
+      	  <div class="url-to-home"><a href="http://nordicapis.com/"><div class="field field-name-field-name-of-host-site field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Nordic APIs</div></div></div></a></div>
+	  </div>
+  </section>
+
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+        <h2 class="coments-title">
+      <a name="comments"> Comments</a>
+    </h2>
+    <div id="comments" class="comment-wrapper">
+  
+      <!-- <h2 class="title comment-form">Add new comment</h2> -->
+    <form class="comment-form" action="/comment/reply/143866" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper form-group" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-type-textarea form-item-comment-body-und-0-value form-item form-group">
+  <label class="element-invisible" for="edit-comment-body-und-0-value">Comment <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full form-control ckeditor-mod form-textarea required" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-fcTXLEVN6qBiWvSSSaT58o1sFFubn5JBZPr2k3G7y0Y" />
+<input type="hidden" name="form_id" value="comment_node_elsewhere_on_the_web_form" />
+<div class="url-textfield"><div class="form-type-textfield form-item-url form-item form-group">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" class="form-control form-text" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+</div>
+</div><div id="post_comment"><button class="btn btn-default form-submit" id="edit-submit" name="op" value="Post Comment" type="submit">Post Comment</button>
+</div></div></form>  
+  
+</div>
+  </div>
+
+</article>
+
+</section> <!-- /.block -->
+  </div>
+      </section>
+
+              <aside class="col-sm-4" role="complementary">
+            <div class="region region-sidebar-second">
+    <section id="block-pw-common-right-sidebar-accordion" class="block block-pw-common sidebar-accordion clearfix">
+
+      
+   <div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#accordion" href="#search_block">
+        <h4 class="panel-title">
+          API Directory Search          <span class="glyphicon minus"></span>
+        </h4>
+      </a>
+    </div>
+    <div id="search_block" class="panel-collapse collapse in">
+      <div class="panel-body">
+        <div class="container-inline"><form action="/news/why-you-need-api-driven-baas-strategy/elsewhere-web/2015/08/01?google_editors_picks=true" method="post" id="pw-search-small-form" accept-charset="UTF-8"><div><div id="edit-search-text-top" class="form-type-item form-item form-group">
+ <span>Search over 13,800 APIs updated daily</span>
+</div>
+<div class="input-group"><div class="form-type-textfield form-item-term form-item form-group">
+ <input placeholder="Search APIs, mashups, developers" class="form-control form-text" type="text" id="edit-term" name="term" value="" size="60" maxlength="128" />
+</div>
+</div><button class="btn btn-primary form-submit" id="edit-submit--2" name="op" value="search" type="submit">search</button>
+<span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span><input type="hidden" name="form_build_id" value="form-Dv9ycY1yK8QkbeSUPfOPVrT4iBB7K4Au9-c1kDSpm20" />
+<input type="hidden" name="form_id" value="pw_search_small_form" />
+</div></form></div>      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#accordion" href="#browsebycat">
+        <h4 class="panel-title">
+          Browse by Category          <span class="glyphicon plus"></span>
+        </h4>
+      </a>
+    </div>
+    <div id="browsebycat" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="view view-by-category view-id-by_category view-display-id-block view-dom-id-741282bf9ec901051aa39a37fdc78cac">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/travel">Travel (1,110)</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/financial">Financial (1,468)</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/mapping">Mapping (4,485)</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/music">Music (1,131)</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/sports">Sports (627)</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/food">Food (368)</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/gambling">Gambling (58)</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/weather">Weather (382)</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/category">
+    Browse all categories  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#accordion" href="#newestapi">
+        <h4 class="panel-title">
+          Newest APIs          <span class="glyphicon plus"></span>
+        </h4>
+      </a>
+    </div>
+    <div id="newestapi" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block view-dom-id-ff60b61e581c64c7e471e6ce990a72c6">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/national-agricultural-statistics-service-vegscape">National Agricultural Statistics Service VegScape </a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/national-agricultural-statistics-service-quick-stats">National Agricultural Statistics Service Quick Stats</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/key-captcha">Key Captcha</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/2captcha">2Captcha</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/quick-email-verification">Quick Email Verification </a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/text-marketer-sending-sms">Text Marketer Sending SMS </a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/uc-berkeley-coolclimate">UC Berkeley CoolClimate </a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/active-popular-activity-search">Active Popular Activity Search </a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/category/all/apis">
+    See more...  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#accordion" href="#latestmashups">
+        <h4 class="panel-title">
+          Latest Mashups          <span class="glyphicon plus"></span>
+        </h4>
+      </a>
+    </div>
+    <div id="latestmashups" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block_1 view-dom-id-287a97ee34d636b7de0e93f7f3994a67">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/data-visualizer-hack-alchemyapi">Data Visualizer Hack with AlchemyAPI</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/yahoo-boss">Yahoo BOSS </a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/athenaeum">Athenaeum</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/sdmx-sax-faces">SDMX-SAX Faces</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/placeprint">placeprint</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/windshield-repair-tech">Windshield Repair Tech </a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/ifixit-ios">iFixit iOS</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/jobjolly">jobjolly</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/category/all/mashups">
+    See more...  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+  </div>
+
+</div>
+
+</section> <!-- /.block -->
+<section id="block-block-10" class="block block-block advert addapi extra-margin clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><p><a class="addanapi" href="/add/api" title="Add an API">Add an API + </a></p>
+
+</section> <!-- /.block -->
+<section id="block-views-visualization-block" class="block block-views clearfix">
+
+        <div class="block-title"><span>PW Research Center</span></div>
+    
+  <div class="view view-visualization view-id-visualization view-display-id-block view-dom-id-088a36edd912d5188520300f4e2fac1c">
+            <div class="view-header">
+      <!--smart_paging_autop_filter--><!--smart_paging_filter--><p>Our data. Your PowerPoints. Use our API research for your next presentation.  <a href="/api-research">See all</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div  id="visualization" class="flexslider">
+  <ul class="slides"><li id="flexslider_pw_research_center_slider_1" >  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-3-Thumbnail-12-small.png?itok=TVuRAZlx" width="301" height="131" alt="" /></a></div>  </div></li>
+<li id="flexslider_pw_research_center_slider_2" >  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-2-Thumbnail-08.png?itok=TV2RvUEH" width="301" height="131" alt="" /></a></div>  </div></li>
+<li id="flexslider_pw_research_center_slider_3" >  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-1-Thumbnail-04.png?itok=bdymiFvN" width="301" height="131" alt="" /></a></div>  </div></li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-block-21" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div id="adzerk-top-mrec">
+<div id="azk5965">&nbsp;</div>
+</div>
+
+</section> <!-- /.block -->
+<section id="block-block-22" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div id="adzerk-right-side-1">
+<div id="azk26869"></div>
+</div>
+
+</section> <!-- /.block -->
+<section id="block-block-25" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div id="adzerk-bottom-mrec">
+<div id="azk19861">&nbsp;</div>
+</div>
+
+</section> <!-- /.block -->
+  </div>
+        </aside>  <!-- /#sidebar-second -->
+      
+    </div>
+    <!-- row end here-->
+
+    <div class="row">
+    	          </div>
+
+  </div>
+  <!-- main-container End Here-->
+</div> <!-- main end here -->
+<div class="bottom-ad-wrapper">
+  <div class="container bottom-ad">
+    <div class="row">
+                <div class="region region-bottom-ad">
+    <section id="block-block-26" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div id="adzerk-bottom-leaderboard" style="padding-top: 10px;">
+<div id="azk99048">&nbsp;</div>
+</div>
+
+</section> <!-- /.block -->
+  </div>
+        <!-- /#content_bottom -->
+          </div>
+  </div>
+</div>
+<footer class="footer">
+    <div class="footer-bottom-most">
+    <div class="container clearfix">
+      <div class="row">
+        <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="region region-footer-one">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <!--smart_paging_autop_filter--><!--smart_paging_filter--><div class="block-title">About ProgrammableWeb</div>
+<p><a href="http://www.programmableweb.com/about">As the the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.</a></p>
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-footer-five" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://advertising.programmableweb.com/">Advertise</a></li>
+<li class="leaf"><a href="/contact-us">Contact</a></li>
+<li class="last leaf"><a href="/write-for-us">Write For Us</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+        <div class="col-md-2 col-sm-6 col-xs-6">
+                        <div class="region region-footer-two">
+    <section id="block-menu-menu-footer-one" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><span class="block-title nolink">Directories &amp; Listings</span></li>
+<li class="leaf"><a href="/apis/directory" id="ftr-apidir">API Directory</a></li>
+<li class="leaf"><a href="/category/all/mashups?order=created&amp;sort=desc" id="ftr-ma">Mashups and Applications</a></li>
+<li class="leaf"><a href="/category/all/sdk?order=created&amp;sort=desc" id="ftr-frm">Frameworks, Libraries, SDKs</a></li>
+<li class="leaf"><a href="/category/all/how-to?order=created&amp;sort=desc" id="ftr-howto">How To&#039;s, Source Code</a></li>
+<li class="last leaf"><a href="/add/api" id="ftr-addapi">Add an API</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+        <div class="col-md-2 col-sm-6 col-xs-6">
+                        <div class="region region-footer-three">
+    <section id="block-menu-menu-footer-two" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><span class="block-title nolink">Subscribe or Follow</span></li>
+<li class="leaf"><a href="/faq#Newsletter" id="ftr-dn">Daily Newsletter</a></li>
+<li class="leaf"><a href="/faq#Track" id="ftr-tast">Track APIs &amp; Search Terms</a></li>
+<li class="leaf"><a href="http://www.twitter.com/programmableweb" id="ftr-twt">Twitter</a></li>
+<li class="leaf"><a href="https://www.facebook.com/programmableweb" id="ftr-fb">Facebook</a></li>
+<li class="leaf"><a href="https://plus.google.com/104429355606978314379/" id="ftr-g">Google+</a></li>
+<li class="last leaf"><a href="http://www.linkedin.com/company/programmableweb" id="ftr-linkedin">LinkedIn</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+        <div class="col-md-2 col-sm-6 col-xs-6">
+                        <div class="region region-footer-four">
+    <section id="block-menu-menu-footer-three" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><span class="block-title nolink">ProgrammableWeb</span></li>
+<li class="leaf"><a href="/about" id="ftr-abt">About ProgrammableWeb</a></li>
+<li class="leaf"><a href="/user/register" id="ftr-reglog">Register/Login</a></li>
+<li class="leaf"><a href="/write-for-us" id="ftr-write">Write for Us (we pay!)</a></li>
+<li class="leaf"><a href="/faq" id="ftr-faq">FAQ</a></li>
+<li class="leaf"><a href="/contact-us" id="ftr-contact">Contact Us</a></li>
+<li class="last leaf"><a href="http://www.apihub.com/programmable-web/api/programmable-web-api" id="ftr-pwapi">ProgrammableWeb&#039;s API</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+        <div class="col-md-2 col-sm-6 col-xs-6">
+                        <div class="region region-footer-five">
+    <section id="block-menu-menu-footer-four" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><span class="block-title nolink">Business &amp; Legal</span></li>
+<li class="leaf"><a href="/terms" id="ftr-terms">Site Terms of Service</a></li>
+<li class="leaf"><a href="http://www.apihub.com/programmable-web/api/programmable-web-api/support/legal" id="ftr-apiterms">API Terms of Service</a></li>
+<li class="last leaf"><a href="/privacy" id="ftr-privacy">Privacy Policy</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</footer>  <script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__dNuf7AU9o64nKkzU-jNk0JiZuFnQ_0h6m6P_p7gVWCE__ol1Nxq2Gw-Ln4ixHKEDaYaaHF7YsvgkA9I2rUAgalew__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script src="http://www.programmableweb.com/sites/all/libraries/ckeditor/ckeditor.js?ns14gv"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__9ToplfBlhA23dQrWF6aGWTlF8LRe0MxrY_Rm0d18Jmk__aWSyKnoGnOnOJAPgFDQqBJ92vG2SauloPQCVLr7-Srk__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"84fed1df20","applicationID":"6952159","transactionName":"Y1xRNxcEXEMCV0xeDVoWcgARDF1eTFpXUwdrSVIEADpEWQZD","queueTime":0,"applicationTime":731,"ttGuid":"","agentToken":"","atts":"TxtSQV8eT00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

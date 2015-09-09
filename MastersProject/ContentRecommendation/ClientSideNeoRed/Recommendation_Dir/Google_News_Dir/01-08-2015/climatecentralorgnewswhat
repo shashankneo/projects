@@ -1,0 +1,698 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>What Has Changed Since Climate Talks in Copenhagen? | Climate Central</title>
+<meta name="description" content="Is the world better suited for a climate agreement in this year&#039;s Paris talks than it was in 2009 in Copenhagen?">
+<meta name="keywords" content="climate change, global warming, climate scientist, global warming facts, causes of global warming, effects of global warming, global climate change, agw, anthropogenic global warming, climate change facts, recent climate change">
+<meta name="news_keywords" content="climate change, global warming, climate scientist, global warming facts, causes of global warming, effects of global warming, global climate change, agw, anthropogenic global warming, climate change facts, recent climate change">
+<meta name="twitter:description" content="Is the world better suited for a climate agreement in this year&#039;s Paris talks than it was in 2009 in Copenhagen?">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@climatecentral">
+
+	<meta name="twitter:title" content="What Has Changed Since Climate Talks in Copenhagen?">
+	<meta property="og:title" content="What Has Changed Since Climate Talks in Copenhagen?">
+
+
+	<meta property="og:image" content="http://assets.climatecentral.org/images/made/8_1_15_Ensia_CC_obama_copenhagan_climatetalks_470_245_s_c1_c_c.jpg">
+	<meta property="og:image:width" content="470">
+	<meta property="og:image:height" content="245">
+	<meta name="twitter:image" content="http://assets.climatecentral.org/images/made/8_1_15_Ensia_CC_obama_copenhagan_climatetalks_470_245_s_c1_c_c.jpg">
+
+
+
+	<meta name="date" content="2015-08-01">
+	
+<meta content='5fecfdbc7abba92a63dd2fe9faddcd49' name='RepostUsAPIKey'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/assets/css/screen/main.css?v=1438269257" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/assets/css/screen/fancybox.css?v=1428607533" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/assets/css/screen/ccslider.css?v=1414056390" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/assets/css/print/print.css?v=1414056390" type="text/css" media="print">
+<!--[if lt IE 9]>
+	<style type="text/css">
+		.slider-caption {
+			background: transparent;
+			-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000)"; /* IE8 */
+			filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000);   /* IE6 & 7 */
+			zoom: 1;
+		}
+	</style>
+<![endif]-->
+<!--[if IE 9]><link rel="stylesheet" href="/assets/css/screen/patches/win-ie9.css?v=1414056390" type="text/css" media="screen, projection"><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/screen/patches/win-ie-all.css?v=1414056390" type="text/css" media="screen, projection"><![endif]-->
+<!--[if lte IE 7]><link rel="stylesheet" href="/assets/css/screen/patches/win-ie7.css?v=1414056389" type="text/css" media="screen, projection"><![endif]-->
+<!--[if lte IE 6]>
+	<link rel="stylesheet" href="/assets/css/screen/patches/win-ie6-below.css?v=1414056390" type="text/css" media="screen, projection">
+	<script type="text/javascript" src="/assets/js/ddpng.js?v=1414056386"></script>
+<![endif]-->
+<link rel="shortcut icon" href="/assets/img/favicon.ico"> 
+<link href="http://feeds.feedburner.com/climatecentral/djOO" type="application/rss+xml" title="Climate Central - News, Blogs & Features" rel="alternate">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.easing.1.3.min.js?v=1414056386"></script>
+<script type="text/javascript" src="/assets/js/jquery.ccslider-3.0.1.min.js?v=1414056388"></script>
+<script type="text/javascript" src="/assets/js/fancybox.js?v=1428607533"></script>
+<script type="text/javascript" src="/assets/js/fancybox-media.js?v=1428607533"></script>
+<script type="text/javascript" src="/assets/js/core.js?v=1428607535"></script>
+<script type="text/javascript" src="/assets/js/flowplayer-3.2.13.min.js?v=1436884871"></script>
+<script type="text/javascript" src="/assets/js/jquery.cookie.js?v=1414056388"></script>
+<script type="text/javascript" src="/assets/js/collapsables.js?v=1414056387"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'50a5b017-12cf-402f-bebb-c453f7cb9492', onhover:false, shorten:false});</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4974354-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body id="www-climatecentral-org" class="sect-breaking collapsed">
+
+<div id="page">
+	
+	<div id="header" class="cleared">
+
+		<h1><a href="http://www.climatecentral.org/"><img src="/assets/img/logo-climate-central3.png" alt="Climate Central" id="logo"></a></h1>
+		<div id="tagline"><em>Researching and reporting the<br> science and impacts of climate change</em></div>
+		
+		<hr class="splitter">
+
+		<div class="collapse-head collapse-open">
+			<div class="collapse-head-x-circle"></div>
+			<span class="collapse-head-x">&#215;</span>
+			<span class="collapse-head-plus">&#43;</span>
+		</div>
+
+		<div class="home-about" class="cleared">
+			<ul>
+				<li>
+					<h4>Who We Are</h4>
+					<p>An independent organization of leading scientists and journalists researching and reporting the facts about our changing climate and its impact on the American public.</p>
+				</li>
+				<li>
+					<h4>What We Do</h4>
+					<p>Climate Central surveys and conducts scientific research on climate change and informs the public of key findings. Our scientists publish and our journalists report on climate science, energy, sea level rise . . . . <a href="http://www.climatecentral.org/what-we-do#wwd">Read More</a></p>
+				</li>
+				<li>
+					<h4>About Our Expertise</h4>
+					<p>Members of the Climate Central staff and board are among the most respected leaders in climate science. Staff members are authorities in communicating climate and weather links, sea level rise, climate . . . . <a href="http://www.climatecentral.org/what-we-do/people">Read More</a></p>
+				</li>
+			</ul>
+		</div>
+
+		<div id="nav">
+			<ul>
+				<li><a href="http://www.climatecentral.org/" class="top">Home</a></li>
+				<li class="current"><a href="http://www.climatecentral.org/news" class="top">News</a></li>
+				
+				<li><a href="http://www.climatecentral.org/reports" class="top">Reports</a></li>
+				<li>
+					<a href="http://www.climatecentral.org/gallery" class="top">Gallery</a>
+					<ul>
+<li class="first"><a href="http://www.climatecentral.org/gallery/interactives/">Interactives</a></li>
+<li><a href="http://www.climatecentral.org/gallery/graphics/">Graphics</a></li>
+<li><a href="http://www.climatecentral.org/gallery/maps/">Maps</a></li>
+<li class="last"><a href="http://www.climatecentral.org/gallery/collections/">Collections</a></li>
+</ul>
+				</li>
+				<li>
+					<a href="http://www.climatecentral.org/videos" class="top">Videos</a>
+					<ul>
+<li class="first"><a href="http://www.climatecentral.org/videos/extreme-weather/">Extreme Weather</a></li>
+<li><a href="http://www.climatecentral.org/videos/states-of-change/">States of Change</a></li>
+<li><a href="http://www.climatecentral.org/videos/on-the-media/">On the Media</a></li>
+<li><a href="http://www.climatecentral.org/videos/climate-in-context/">Climate in Context</a></li>
+<li class="last"><a href="http://www.climatecentral.org/videos/news-and-reports/">News and Reports</a></li>
+</ul>
+				</li>
+				<li>
+					<a href="http://www.climatecentral.org/library" class="top">Library</a>
+					<ul>
+						<li><a href="/news/a-look-at-our-first-book-global-weirdness/">Our Book</a></li>
+						<li class="first"><a href="http://www.climatecentral.org/library/publications/">Publications</a></li>
+<li><a href="http://www.climatecentral.org/library/faqs/">FAQs</a></li>
+<li class="last"><a href="http://www.climatecentral.org/library/climopedia/">Climopedia</a></li>
+
+					</ul>
+				</li>
+				<li class="soc-nav"><a href="http://www.climatecentral.org/states-of-change" class="top">States of Change</a></li>
+				<li>
+					<a href="http://www.climatecentral.org/topics" class="top">Topics</a>
+					<ul>
+						<li><a href="http://www.climatecentral.org/topics/climate-statistics/">Climate Statistics</a></li><li><a href="http://www.climatecentral.org/topics/basics/">Basics</a></li><li><a href="http://www.climatecentral.org/topics/causes/">Causes</a></li><li><a href="http://www.climatecentral.org/topics/impacts/">Impacts</a></li><li><a href="http://www.climatecentral.org/topics/responses/">Responses</a></li><li><a href="http://www.climatecentral.org/topics/trends/">Trends</a></li><li><a href="http://www.climatecentral.org/topics/projections/">Projections</a></li><li><a href="http://www.climatecentral.org/topics/extremes/">Extremes</a></li><li><a href="http://www.climatecentral.org/topics/energy/">Energy</a></li>
+					</ul>
+				</li>
+				<li id="nav-about" class="last">
+					<a href="http://www.climatecentral.org/what-we-do" class="top">What We Do</a>
+					<ul>
+						<li class="sub-level-0"><a href="/what-we-do/">Mission Statement</a></li>
+						<li class="sub-level-0"><a href="/what-we-do/#wwd">What We Do</a></li>
+						<li class="sub-level-0"><a href="/what-we-do/people">Board</a></li>
+						<li class="sub-level-0"><a href="/what-we-do/people#staff">Staff</a></li>
+						<li class="first" id="nav-15238"><a href="http://www.climatecentral.org/what-we-do/our-programs/">Our Programs</a>
+<ul>
+<li class="first" id="nav-15305"><a href="http://www.climatecentral.org/what-we-do/our-programs/climate-science/">Climate Science</a></li>
+<li id="nav-15243"><a href="http://www.climatecentral.org/what-we-do/our-programs/energy/">Energy</a></li>
+<li id="nav-16141"><a href="http://www.climatecentral.org/what-we-do/our-programs/climatematters/">Climate Matters</a></li>
+<li id="nav-15290"><a href="http://www.climatecentral.org/what-we-do/our-programs/sea-level-rise/">Sea Level Rise</a></li>
+</ul>
+</li>
+<li id="nav-361"><a href="http://www.climatecentral.org/what-we-do/history/">History</a></li>
+<li id="nav-8175"><a href="http://www.climatecentral.org/what-we-do/funding/">Funding</a></li>
+<li id="nav-362"><a href="http://www.climatecentral.org/what-we-do/for-the-media/">For the Media</a></li>
+<li id="nav-363"><a href="http://www.climatecentral.org/what-we-do/legal/">Legal</a></li>
+<li id="nav-10575"><a href="http://www.climatecentral.org/what-we-do/jobs/">Jobs</a></li>
+<li id="nav-17659"><a href="http://www.climatecentral.org/what-we-do/climate-services/">Climate Services</a></li>
+<li class="last" id="nav-17696"><a href="http://www.climatecentral.org/what-we-do/press/">Press Releases</a></li>
+
+					</ul>
+				</li>
+			</ul>
+		</div><!-- /#nav -->
+
+		<div id="social-media">
+			<div class="icons">
+				<a href="http://twitter.com/climatecentral" class="sm-tw">Twitter</a>
+				<a href="http://www.facebook.com/climatecentral" class="sm-fb">Facebook</a>
+				<a href="http://www.youtube.com/user/climatecentraldotorg" class="sm-yt">YouTube</a>
+				<a href="http://vimeo.com/user865812/videos" class="sm-vm">Vimeo</a>
+				<a href="http://pinterest.com/climatecentral/" class="sm-pi">Pinterest</a>
+				<a href="http://feeds.feedburner.com/climatecentral/djOO" class="sm-rss">RSS</a>
+			</div>
+			<form method="post" action="http://climatecentral.createsend.com/t/y/s/qjrkkk/">
+				<fieldset>
+					<div>
+						<label for="header-email">Email Updates</label>
+						<input type="text" class="search-field" onfocus="this.value=''" value="Your email goes here." id="header-email" name="cm-qjrkkk-qjrkkk">
+						<input type="image" src="/assets/img/masthead/sm-submit.png" alt="Subscribe" class="subscribe-image">
+					</div>
+				</fieldset>
+			</form>
+		</div><!-- /#social-media -->
+	
+		<div id="search-form">
+			<form action="http://www.climatecentral.org/search" method="get">
+				<fieldset>
+					<div>
+						<input type="text" value="Search" class="search-field" onfocus="this.value=''" name="q" maxlength="100">
+						<input type="image" class="search-image" alt="Search" src="/assets/img/masthead/search-submit.png">
+					</div>
+				</fieldset>
+			</form>
+		</div><!-- /#search-form -->
+
+		<ul id="nav-utility">
+			<li id="support-our-work"><a href="https://climatecentral47041.thankyou4caring.org/sslpage.aspx?pid=298">Support Our Work</a></li>
+		</ul>
+		
+	</div><!-- /#header -->
+
+            <div id="section">
+                <img src="/assets/img/cube-N-lrg.png" alt="News Section">
+                <div id="section-lead">
+                    <ul>
+                        <li class="last"><a href="http://www.climatecentral.org/news/">News</a></li>
+                    </ul>
+                                        
+                        <div class="desc">Stories from Climate Central's Science Journalists and Content Partners</div>
+                    
+
+                    <div class="rss"><a href="http://feeds.feedburner.com/ClimateCentral-News">Subscribe to our News via RSS</a></div>
+                </div><!-- /end #section-lead -->
+                <div id="nav-section" class="mod">
+                    <div id="menus" class="mod">
+	<ul class="nav-categories">
+		<li>
+			<strong>Categories</strong>
+			<ul> 
+												
+						<li><a href="http://www.climatecentral.org/news/category/show/basics">Basics</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/biofuels">Biofuels</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/business">Business</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/carbon-storage">Carbon Storage</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/causes">Causes</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/climate">Climate</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/climate-statistics">Climate Statistics</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/drought">Drought</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/efficiency">Efficiency</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/energy">Energy</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/extreme-weather">Extreme Weather</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/extremes">Extremes</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/flooding">Flooding</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/flora-and-fauna">Flora & Fauna</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/food-and-agriculture">Food & Agriculture</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/fossil-fuels">Fossil Fuels</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/geoengineering">Geoengineering</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/greenhouse-gases">Greenhouse Gases</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/health">Health</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/heat">Heat</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/hurricanes">Hurricanes</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/impacts">Impacts</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/landscapes">Landscapes</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/nuclear">Nuclear</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/oceans-and-coasts">Oceans & Coasts</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/policy">Policy</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/projections">Projections</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/renewable-energy">Renewable Energy</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/responses">Responses</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/sea-level">Sea Level</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/snow-and-ice">Snow & Ice</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/society">Society</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/solutions">Solutions</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/states-of-change">States of Change</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/trends">Trends</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/water">Water</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/weather">Weather</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/wildfires">Wildfires</a></li>
+					
+										</ul>
+		</li>
+	</ul>					
+	<ul class="nav-places">
+		<li>
+			<strong>Places</strong>
+			<ul>  
+												
+						<li><a href="http://www.climatecentral.org/news/category/show/antarctic">Antarctic</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/arctic-and-greenland">Arctic & Greenland</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/global">Global</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/international">International</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/mid-atlantic">Mid-Atlantic</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/midwest">Midwest</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/new-england">New England</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/pacific-northwest">Pacific Northwest</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/plains">Plains</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/rockies">Rockies</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/south">South</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/southwest">Southwest</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/united-states">United States</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/us-national">US National</a></li>
+					
+									
+						<li><a href="http://www.climatecentral.org/news/category/show/west">West</a></li>
+					
+				  
+						</ul>
+		</li>
+	</ul>
+</div><!-- /end #menus -->
+                </div><!-- /end #nav-section -->
+            </div><!-- /end #section -->
+
+            <div id="main" class="alt-color">
+                <div id="content">
+                        
+               
+
+                    <article>
+                    <h1>What Has Changed Since Climate Talks in Copenhagen?</h1>
+
+                    <ul class="metadata">
+                                                <li>
+                            <em>Published:</em> August 1st, 2015
+                            
+                        </li>
+                    </ul><!-- /end .metadata -->
+
+<div class="share-this-new modified">
+	<span class="st_twitter_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?" st_via="ClimateCentral"></span>
+	<span class="st_facebook_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="st_pinterest_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?" st_summary="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="st_linkedin_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="st_googleplus_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="st_tumblr_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="st_email_hcount" st_url="http://www.climatecentral.org/news/what-has-changed-since-copenhagen-19292" st_title="What Has Changed Since Climate Talks in Copenhagen?"></span>
+	<span class="share-print"><a href="javascript:print();"><i class="fa fa-print"></i></a></span>
+	<span class="share-rss"><a href="http://feeds.feedburner.com/climatecentral/djOO"><i class="fa fa-rss"></i></a></span>
+	<div class="clear"></div>
+</div><!-- /end .share-this -->
+
+
+
+                    
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                    
+                    
+                                      
+
+                        
+
+                        
+
+                        
+
+						
+
+						
+
+                        
+
+                        
+                            <p><em>By Fiona Harvey,&nbsp;<a href="http://ensia.com/features/as-we-prepare-for-the-un-climate-talks-a-look-at-whats-changed-since-copenhagen/" target="_blank">Ensia</a></em></p>
+
+<p>This year will mark the most important negotiations on climate change since the 15th gathering of the Conference of the Parties to the United Nations Framework Convention on Climate Change talks in Copenhagen in 2009, COP 15. Those talks ended up with progress on several important fronts, such as getting developed and developing countries to jointly agree on emissions targets for the first time, but were marred by scenes of chaos in the final hours and bitter recriminations among governments.</p>
+
+<p>
+                                <span class="imgleft" style="width:720px;">
+                                    
+                                        <img src="http://assets.climatecentral.org/images/made/8_1_15_Ensia_CC_obama_copenhagan_climatetalks_720_480_s_c1_c_c.jpg" alt="" width="720" height="480" />
+                                    
+                                    President Obama briefs European leaders following a multilateral meeting at the United Nations Climate Change Conference in Copenhagen, Denmark, Dec. 18, 2009.&nbsp;<br />
+Credit: <a href="https://www.flickr.com/photos/whitehouse/4198219356/in/photolist-7oYYmm-7oYXsJ-7aDXTq-7hbFuo-7nfT5m-7oV63t-juTnFV-7ka5zZ-7nhnrk-7xeLL3-7d3LMm-7pEqEy-78sddQ-7dDQ49-7r8iBp-7nRfAY-7madW9-6tRoMH-6azWcM-516Pax-7n3E7Y-71DpBy-7nsca2-eF6cPD-7nKCUg-7nw7CQ-7oV7bB-7a5TiY-7oYX2S-7o78iy-9M8n7L-7NtBqD-7nzTK8-7pk5DP-7nG8n6-7nuKd3-7cYVCB-7r8iX8-a2NLgA-7S1pBj-7rcemA-dnjGVu-dnknN4-7rcevU-7rceEq-7r8jbg-7oDrLe-7kPDuZ-oQVvmU-875F8y" target="_blank">The White House</a>/flickr
+                                </span>
+                            </p>
+
+<p>No one wants to repeat the experience of Copenhagen &mdash; least of all the French government, which, as host to this year&rsquo;s gathering, is determined to wring commitments from governments well in advance of the start of the talks in order to be sure of getting a deal.</p>
+
+<p>The world has changed markedly since 2009, with key developments in science, geopolitical shifts and a new focus on climate change that all put this year&rsquo;s crunch conference in a far different context from the last one. As we prepare for COP 21, it&rsquo;s worth examining some of the most important of these changes and considering how those differences might influence the tenor of the talks and, ultimately, the outcome.</p>
+
+<h3><strong>New Knowledge</strong></h3>
+
+<p>First is the expansion of our scientific knowledge. Thanks to ongoing work from thousands of researchers around the world, we now know even more than we did in 2009 about the workings of climate change, its probable future impacts and what we need to do to avoid the most damaging consequences.</p>
+
+<p>That is the good news. The bad news is that the warnings from leading scientists are growing ever more urgent.</p>
+
+<p>Copenhagen was informed by the <a href="http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm" target="_blank">Fourth Assessment Report</a> of the Intergovernmental Panel on Climate Change, the body of the world&rsquo;s leading climate scientists, which summarized the state of our knowledge at that time. The 2007 report found that global warming was occurring with a 90 percent certainty that the cause was largely our burning of fossil fuels and disruption of natural systems. It also set out predictions for future warming and its consequences. Temperatures would rise by between about 1.8&deg;C (3.2&deg;F) to about 4&deg;C (7&deg;F) by the end of the century, the scientists posited. This would take warming to more than the symbolically important 2&deg;C (3.6&deg;F) over preindustrial levels that scientists estimate is a probable key threshold of the climate system, beyond which aspects of climate change are likely to become catastrophic and irreversible.</p>
+
+<p>The <a href="http://www.ipcc.ch/report/ar5/wg1/" target="_blank">most recent IPCC report</a> was published in three parts in 2013 and 2014, with summaries meant to help inform policy-makers. The findings strengthened the science reported in 2007, with an elevated certainty &mdash; now 95 percent &mdash; that warming has a human cause and refinements on projections for changes in sea level, ice melt, upper atmosphere warming and other parameters.</p>
+
+<p>Two things stood out above the other findings: an examination of the so-called &ldquo;pause&rdquo; in global warming, so much talked about in recent years, and estimates of the world&rsquo;s &ldquo;carbon budget,&rdquo; or the amount of greenhouse gas that can safely be released into the atmosphere if the 2&deg;C limit is not to be exceeded.</p>
+
+<p>On the &ldquo;pause,&rdquo; the IPCC warned that there was still too little data to decide the cause of the slight slowdown in the upward march of global temperatures in the past 10 to 15 years. Periods of slower rise in temperatures are to be expected because of natural variations, it noted, and there may be other causes. &ldquo;Each of the last three decades has been successively warmer at the Earth&rsquo;s surface than any preceding decade since 1850,&rdquo; the report observed. &ldquo;In the northern hemisphere, 1983 to 2012 was likely the warmest 30-year period of the last 1,400 years.&rdquo; Temperature trends could only be reliably observed over periods of about 30 years, the scientists said.</p>
+
+<p>The IPCC&rsquo;s estimate of a carbon budget found that about half of the carbon that we can emit and stay within 2&deg;C has already been released into the atmosphere.&nbsp;<a href="http://www.theguardian.com/environment/2015/jun/04/global-warming-hasnt-paused-study-finds" target="_blank">New science on the pause</a> has come forward that was not in time to be included in the IPCC report. This includes studies showing that a likely cause is the increased absorption of heat by the oceans. Further studies will undoubtedly follow: This year&rsquo;s temperatures are once again breaking records, indicating the pause may be ending.</p>
+
+<p>The IPCC&rsquo;s estimate of a carbon budget found that about half of the carbon that we can emit and stay within 2&deg;C has already been released into the atmosphere. This is crucial because, for the first time, it gives a clear idea of what we can safely do in producing further emissions. On current trends, we would use up the remaining budget in about three decades.</p>
+
+<p>In the context of the COP talks, carbon budgets are highly controversial, because they suggest that the atmosphere could be &ldquo;carved up&rdquo; into finite portions of carbon emissions that could be allocated to rich and poor nations. That issue is fraught with notions of equity that will be impossible to resolve before Paris, and perhaps ever. However, even if policy-makers refuse to be bound to considerations of a carbon budget, the issue &mdash; and the IPCC&rsquo;s calculation &mdash; will loom over the talks.</p>
+
+<p>One further note on the IPCC: The impact of the Fourth Assessment Report on the 2009 talks was marred by the <a href="http://www.factcheck.org/2009/12/climategate/" target="_blank">&ldquo;Climategate&rdquo; scandal</a> that erupted just before the summit. Hackers found emails from IPCC scientists supposedly showing them disguising key data, and quickly afterward a handful of flaws were found in the report itself. Although the errors did not have large ramifications &mdash; and, as the scientists noted, were few relative to the overall length and complexity of the report &mdash; they were damaging to the IPCC&rsquo;s public image.</p>
+
+<p>The IPCC has learned from this experience, and no errors have yet been reported in the latest update. It remains to be seen whether hackers and their backers have further tricks up their sleeves ahead of Paris.</p>
+
+<p>
+                                <span class="imgright" style="width:400px;">
+                                     
+                                        <a href="http://assets.climatecentral.org/images/made/6_11_15_Brian_CO2KeelingCCStyle_1050_700_s_c1_c_c.png" class="fancybox-media">
+                                    
+                                        <img src="http://assets.climatecentral.org/images/made/6_11_15_Brian_CO2KeelingCCStyle_400_267_s_c1_c_c.png" alt="" width="400" height="267" />
+                                     
+                                        </a>
+                                    
+                                    <strong>Click image to enlarge</strong>
+                                </span>
+                            </p>
+
+<h3><strong>Emissions Trends</strong></h3>
+
+<p>At the same time scientific warnings on the need to make urgent cuts in emissions have intensified, global emissions have continued to rise in most of the intervening years. The International Energy Agency reported a small fall in emissions from energy in 2009, after the financial crisis. Afterward, the upward trend resumed until 2013, when falling coal use in China resulted in a stalling of emissions growth. It remains to be seen whether this was a temporary blip or a more concerted &ldquo;decoupling&rdquo; of carbon from economic growth.</p>
+
+<p>Another important emissions milestone was reached recently: China&rsquo;s per capita carbon emissions exceeded those of Europe for the first time. Per capita emissions are important because many in the developing world regard them as a fairer measure than gross aggregate emissions, so for China to join the rich club in this respect marks yet further divergence of its interests from many smaller developing countries.</p>
+
+<p>While emissions have risen since Copenhagen, technology has also advanced. Renewable energy sources have come down rapidly in price, to make wind and solar, at least in the most favorable cases, competitive with fossil fuel electricity generation. The widespread use of fracking in the U.S. has meant the world&rsquo;s second biggest emitter is on track to reducing the intensity of its emissions from energy use. However, the rise of fracking should be viewed with caution: Poorly managed fracking facilities can leak methane, a potent greenhouse gas; and shale oil, to which many frackers are turning, is much more emissions-intensive than shale gas. Meanwhile, on a separate energy front, the turning away from nuclear energy in Japan and Germany after the 2011 Fukushima incident is raising concerns that these countries will be forced to use more fossil fuels, chiefly coal. The full implications of this have yet to be seen.</p>
+
+<h3><strong>Political, Economic and Social Shifts</strong></h3>
+
+<p>The world has moved on politically as well since the Copenhagen talks. The clearest sign of this came in the joint announcement late last year of commitments on greenhouse gas emissions from the U.S. and China, the world&rsquo;s two biggest emitters. The U.S. will reduce its emissions by 26 to 28 percent by 2025, while China will target a peaking of its emissions by 2030.</p>
+
+<p>This development marks a clear difference from Copenhagen: The willingness of China to share a stage with the U.S. and to talk about a peak year herald significant progress toward reaching a deal.</p>
+
+<p>Businesses are taking note, with many preparing to announce new climate initiatives ahead of Paris.&nbsp;On economics, too, we have seen more studies arguing that tackling climate change can be a boon to economies and showing how to achieve the changes necessary to stay within the carbon budget while enjoying the fruits of prosperity. The <a href="http://newclimateeconomy.net/" target="_blank">New Climate Economy project</a>, led by Felipe Calderon, ex-president of Mexico, has been a key mover in this debate. Climate finance &mdash; the assistance provided by rich countries to poorer ones to help them cut emissions and adapt to the effects of climate change &mdash; has also ramped up, with development banks taking a leading role and leveraging private sector funds.</p>
+
+<p>Businesses are taking note, with many preparing to announce <a href="http://www.reuters.com/article/2015/07/27/us-usa-climatechange-business-idUSKCN0Q127B20150727" target="_blank">new climate initiatives</a> ahead of Paris. The insurance industry, which takes a long-term view of risks, has been pushing for action. Recently, six major European oil and gas companies offered to collaborate on a carbon price. While some might argue these businesses may have motives other than concern for the world&rsquo;s poor under global warming, the actions they take could be significant.</p>
+
+<p>Other positive signals in the last year have included massive rallies, such as last year&rsquo;s People&rsquo;s Climate March in New York, and the growing movement urging individuals, institutions and businesses to divest from fossil fuels. That movement is likely to gather further pace before the Paris meeting.</p>
+
+<p>
+                                <span class="imgleft" style="width:720px;">
+                                    
+                                        <img src="http://assets.climatecentral.org/images/made/8_1_15_Ensia_CC_peoplesclimatemarch_climatetalks_720_479_s_c1_c_c.jpg" alt="" width="720" height="479" />
+                                    
+                                    More than 400,000 people walk in the People&#39;s Climate March, which filled up the streets of New York City in Sept. 2014.<br />
+Credit: Light <a href="https://www.flickr.com/photos/40969298@N05/15383366315/in/photolist-prnLRH-prmpG7-phCKix-p4r3b1-piTLeE-p1qCQu-pkDRjk-piTHyE-p41RSU-pki6yi-pkhHt2-pkDFD8-pkeiiV-p41F3M-pkhGHz-p4r3BG-pkU4t3-pkUhcu-pnFnbb-p4qFXV-pkDhuH-p3SsrQ-pk5vJV-p4r7Qw-p4qQsS-pnrW78-p9TQ3X-pkfDf6-p4ocah-p4rq73-pku3Bb-pkUeHG-pr6cPZ-piTUc3-p3Nzxn-p43AhQ-p6f9aJ-pkeXEe-pkU4N1-p8q2Cc-p4r15N-p9T3k7-pkhStF-pk2wzP-pitHkS-pkeA8g-p4rDbi-pkhEKF-pifCXQ-p4rpCY" target="_blank">Brigading</a>/flickr
+                                </span>
+                            </p>
+
+<p>Prominent public figures have also been playing an increasing role, with the most significant intervention, the encyclical Pope Francis released this spring, emphasizing the moral dimension of tackling climate change. The move attracted applause but also criticism from some climate skeptics who accused the pope of interfering in a matter of science.</p>
+
+<p>Moreover, this fall, in advance of the Paris talks, the U.N. and world governments are preparing to set out <a href="http://ensia.com/voices/we-know-what-sustainable-development-should-look-like-now-lets-do-it/">Sustainable Development Goals</a> to take over for the Millennium Development Goals that expire this year. The SDGs will have climate change not as an add-on, but as a core issue, because of its wide-ranging effects on issues from water scarcity to agricultural productivity, gender equity and human migration. The effort going into the SDGs, which are viewed as crucial by development experts, will have a beneficial effect on the battle against climate change.</p>
+
+<h3><strong>Perceptions and Trends</strong></h3>
+
+<p>While many of the developments in the past six years appear to bode well for Paris, there have also developed a number of perceptions that could jeopardize both an agreement and our ability to tackle climate change.</p>
+
+<p>Most important was that of Copenhagen itself, which was widely painted as a total failure, despite the progress achieved there. The talks have never managed to throw off that shroud of negativity, and this puts the stakes at Paris as high as they can be. If COP 21 fails, it is hard to see how the U.N. process can limp on.</p>
+
+<p>The perception of a pause in global warming is another serious problem, because it has allowed climate skeptics to claim that warming is not happening or is happening so slowly that it is not worth bothering about. This has now become common currency for many people. Scientists are clear that this analysis is not accurate: The world is still heating up, and there are good reasons to think the small slowdown in the rise in temperatures is temporary, probably caused by the absorption of heat by the oceans.</p>
+
+<p>Among the mechanisms developed to help us reduce emissions, carbon trading once took pride of place. But the U.N.&rsquo;s <a href="http://unfccc.int/kyoto_protocol/mechanisms/clean_development_mechanism/items/2718.php" target="_blank">Clean Development Mechanism</a> &mdash; by which rich countries offset their emissions by financing projects such as solar power and wind farms in the poor world &mdash; has suffered a series of blows and is looking moribund, following the near-collapse of the EU&rsquo;s emissions trading scheme. If such offsets are to continue to 2020 and beyond, they badly need a shot in the arm at Paris. Otherwise, new means of channeling climate funds must be proven to work.</p>
+
+<p>
+                                <span class="imgleft" style="width:500px;">
+                                    
+                                        <img src="http://assets.climatecentral.org/images/made/8_1_15_Ensia_CC_copenhagan_cop15_climatetalks_500_333_s_c1_c_c.jpg" alt="" width="500" height="333" />
+                                    
+                                    Secretary-General Ban Ki-moon (center left) attends a resumed session of the UN Climate Change Conference in Copenhagen in Dec. 2009.<br />
+Credit:&nbsp;<a href="https://www.flickr.com/photos/un_photo/4196130071/in/photolist-7oNghc-7oZbTG-7oYYmm-7oYXsJ-7aDXTq-7hbFuo-7nfT5m-7oV63t-juTnFV-7ka5zZ-7nhnrk-7xeLL3-7d3LMm-7pEqEy-78sddQ-7dDQ49-7r8iBp-7nRfAY-7madW9-6tRoMH-6azWcM-516Pax-7n3E7Y-71DpBy-7nsca2-eF6cPD-7nKCUg-7nw7CQ-7oV7bB-7a5TiY-7oYX2S-7o78iy-9M8n7L-7NtBqD-7nzTK8-7pk5DP-7nG8n6-7nuKd3-7cYVCB-7r8iX8-a2NLgA-7S1pBj-7rcemA-dnjGVu-dnknN4-7rcevU-7rceEq-7r8jbg-7oDrLe-7kPDuZ" target="_blank">UN Photo/Mark Garten</a>/flickr
+                                </span>
+                            </p>
+
+<p>Yet another trend that differentiates the setting for COP 21 from that of COP 15 is the recent increase in coal consumption. &ldquo;Party time for coal&rdquo; is how one energy trader has characterized the past few years, as tumbling prices and rising use have led to a resurgence in the fortunes of this carbon-intensive fuel in many parts of the world. The result has been, particularly in poor countries, the building of more inefficient, old-style coal-fired power stations. Leading bodies such as the International Energy Agency and the OECD have warned that this is probably the most serious threat to tackling climate change, and it may not be solved by the Paris talks. When new coal-fired power stations are built, they are likely to continue operating for as long as half a century, locking the world in to high levels of emissions.</p>
+
+<p>Finally, two years after Copenhagen, the world passed an important milestone: Human population reached 7 billion. The sheer complexity of ensuring all are fed, have decent lives and opportunities, and are lifted out of poverty increases as our numbers increase. Many scientists argue it is perfectly possible to achieve these goals without breaking through climate thresholds, but it will be tough.</p>
+
+<p>In the lead-up to Paris, the most valuable commodity will be the willingness of the world&rsquo;s governments to come to a deal. Whether this has changed since the Copenhagen talks remains to be seen. Many of the signs are pointing in that direction, but ultimately the choice of whether to listen to scientists, citizens and businesses lies with ministers and their leaders.</p>
+
+<p><em>Reprinted from&nbsp;<a href="http://ensia.com/" target="_blank">Ensia</a>&nbsp;with permission.</em></p>
+                            
+                        
+
+                    
+
+                                        <ul class="metadata metadata-last">
+                        <li> Posted in <a href="http://www.climatecentral.org/news/category/show/impacts">Impacts</a>, <a href="http://www.climatecentral.org/news/category/show/responses">Responses</a>, <a href="http://www.climatecentral.org/news/category/show/climate">Climate</a>, <a href="http://www.climatecentral.org/news/category/show/policy">Policy</a>, <a href="http://www.climatecentral.org/news/category/show/energy">Energy</a>, <a href="http://www.climatecentral.org/news/category/show/international">International</a></li>
+                    </ul><!-- /end .metadata -->
+                    </article>
+                    
+					<script>
+	$(function() {
+		commentAjax('#article-comments', 19292, '/news/what-has-changed-since-copenhagen-19292/#article-comments');
+	});
+</script>
+<div id="article-comments"></div>
+
+                            
+            </div><!-- /end #content -->
+
+            <div id="additional">
+                
+                <div class="archive mod">
+                    <h2 class="title">Archives</h2>
+                    <ul>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2015">2015</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2014">2014</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2013">2013</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2012">2012</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2011">2011</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2010">2010</a></li>
+                        
+                            <li><a href="http://www.climatecentral.org/news/archive/2009">2009</a></li>
+                        
+                    </ul>
+                </div><!-- /end .archive -->    
+                
+                
+                <div class="mod">
+	<h2 class="title"><a href="http://www.climatecentral.org/gallery">Gallery</a></h2>
+	
+		<a href="http://www.climatecentral.org/gallery/graphics/skating_on_thin_arctic_ice_winter"><img src="http://assets.climatecentral.org/images/made/thin_ice_skater_winter_HD_177_100_s_c1_c_c.jpg" alt="Skating on Thin Arctic Ice: Winter" width="177" height="100" /></a>
+		<small class="caption">Submarine and satellite data since 1980 show steady shrinking </small>
+	
+	<p class="more"><a href="http://www.climatecentral.org/gallery">View Gallery</a></p>
+</div><!-- /end .mod -->
+
+            </div><!-- /end #additional -->
+
+
+
+	</div><!-- /#main -->
+
+	<div id="footer">
+
+		<h1><a href="http://www.climatecentral.org/"><img src="/assets/img/logo-climate-central-footer.png" alt="Climate Central" id="logo-footer"></a></h1>
+		<form action="http://climatecentral.createsend.com/t/y/s/qjrkkk/" method="post">
+			<fieldset>
+				<div>
+					<label for="footer-email">Email Updates</label>
+					<input type="text" name="cm-qjrkkk-qjrkkk" id="footer-email" value="Your email goes here." onFocus="this.value=''" class="search-field">
+					<input type="image" class="subscribe-image" alt="Subscribe" src="/assets/img/masthead/footer-submit.png">
+				</div>
+			</fieldset>
+		</form>
+
+		<ul>
+			<li class="first">Copyright &copy; 2015 Climate Central.</li>
+			<li><a href="http://www.climatecentral.org/contact" class="contact">Contact</a></li>
+			<li><a href="http://www.climatecentral.org/login" class="login">Login</a></li>
+			<li><a href="http://www.climatecentral.org/what-we-do/legal#terms_of_use" class="tos">Terms</a></li>
+			<li><a href="http://www.climatecentral.org/what-we-do/legal#content_licensing" class="licensing">Content Licensing</a></li>
+			<li><a href="http://www.climatecentral.org/what-we-do/legal#privacy_policy" class="privacy">Privacy</a></li>
+			<li class="last"><a href="http://www.climatecentral.org/sitemap" class="site-map">Site Map</a></li>
+		</ul>
+
+	</div><!-- /#footer -->
+
+</div><!-- /#page -->
+
+<div id="trailer"></div><!-- /#trailer -->
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:17283,domain:"climatecentral.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<script type="text/javascript">
+	$('#nav-15238 a').first().append('&nbsp;&nbsp;&raquo;');
+	$('#nav-15238 a').first().click(function(e) {
+		e.preventDefault();
+		return false;
+	});
+	
+		$(document).ready(function() {$(".fancybox-media").fancybox();});
+	
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a3e7ccce82","applicationID":"4640796","transactionName":"ZwYDbUVQXUZWUUQMXl5MNEteHmxGQ1NEDFJvAABaX1RsXVZcVAlUQk0RUUc=","queueTime":0,"applicationTime":0,"atts":"S0EAGw1KTkg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

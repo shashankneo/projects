@@ -1,0 +1,1881 @@
+<!--[if IE ]>
+<!doctype html>
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<script src="//cdn.optimizely.com/js/1425218314.js"></script>
+        <script type="text/javascript">
+        // <![CDATA[
+        for(var i = 0; i < optimizely["activeExperiments"].length; i++){
+            var expid = optimizely["activeExperiments"][i];
+            var experimentname = optimizely.data.experiments[expid].name;
+            var variationname = optimizely.variationNamesMap[expid];
+            optimizely.$("head").prepend("<meta name=\"DCSext.opt\" content=\"" + experimentname + "-" + variationname +"\" />");
+        }
+        // ]]>
+    </script>
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+
+              var pageStartTime = Date.now();
+</script>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Video: Calais crisis causes misery for Kent's long-suffering residents and businesses - Telegraph</title>
+
+
+
+<meta name="description" content="Operation Stack has turned the Garden of England into the Car Park of England" />
+
+<link rel="image_src" href="http://i.telegraph.co.uk/multimedia/archive/03394/kent-lorries-calai_3394489g.jpg" /><meta name="keywords" content="calais, kent, operation stack, channel tunnel, chaos, migrants, delays, latest, Immigration,UK News,News" />
+
+<meta name="news_keywords" content="calais, kent, operation stack, channel tunnel, chaos, migrants, delays, latest"> 
+<meta name="parsely-page" content='{"title": "Calais crisis causes misery for Kent\u0027s long-suffering residents and businesses ","link": "http://www.telegraph.co.uk/news/uknews/immigration/11777067/Calais-crisis-causes-misery-for-Kents-long-suffering-residents-and-businesses.html","image_url": "http://i.telegraph.co.uk/multimedia/archive/03394/kent-lorries-calai_3394489k.jpg","type": "post","post_id": "11777067", "pub_date": "2015-07-31T18:40:35Z","section": "News","authors": ["Gordon Rayner"],"tags": ["Video","Home","News","UK News","Telegraph TV","News Video","Gordon Rayner","Immigration"]}'/>
+    <meta property="article:publisher" content="143666524748" />
+
+    <meta property="article:subsection" content="Immigration" />
+
+                    <meta property="article:section" content="News" />
+
+                <meta property="article:tag" content="Home" />
+    <meta property="article:tag" content="News" />
+    <meta property="article:tag" content="UK News" />
+    <meta property="article:tag" content="Telegraph TV" />
+    <meta property="article:tag" content="News Video" />
+    <meta property="article:tag" content="Gordon Rayner" />
+    <meta property="article:tag" content="Immigration" />
+    <meta property="article:authorName" content="Gordon Rayner" />
+
+    <meta property="article:contenttype" content="video" />
+                <meta property="article:imagecount" content="3" />
+
+
+            <meta property="article:videocount" content="0" />
+
+
+            <meta property="article:embedcount" content="3" />
+
+
+            <meta property="article:internallinkcount" content="3" />
+
+            <meta property="article:externallinkcount" content="0" />
+
+
+            <meta property="article:wordcount" content="950" />
+        <meta name="tmgads.zone" content="news.uknews.immigration" />
+<meta name="tmgads.channel" content="news" />
+<meta name="tmgads.section" content="news-uknews-immigration" />
+
+<meta name="tmgads.articleid" content="11777067" />
+<meta name="tmgads.videosrc" content="tmg" />
+	<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="video" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="video" />
+<meta name="tmgads.level" content="4" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="US" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="US" />
+
+
+
+<meta name="section-id" content="5580" />
+
+<meta name="last-modified" content="2015-07-31" />
+		<meta name="article-id" content="11777067" />
+		<meta name="title" content="Calais crisis causes misery for Kent's long-suffering residents and businesses" />
+		<meta name="GSAMLC" content="news/uknews/immigration" />
+<meta name="GSAChannel" content="news" />
+
+<meta name="GSAChannelName" content="News" />
+
+<meta name="GSACategory" content="uknews" />
+	<meta name="GSAGenre" content="immigration" />
+	<meta name="GSASectionUniqueName" content="news-uknews-immigration" />
+
+<meta name="GSAArticleType" content="Video" />
+	<meta name="DC.date.issued" content="2015-07-31" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta name="google" content="nositelinkssearchbox" />
+
+<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="Operation Stack has turned the Garden of England into the Car Park of England" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Calais crisis causes misery for Kent's long-suffering residents and businesses" />
+<meta property="og:url" content="http://www.telegraph.co.uk/news/uknews/immigration/11777067/Calais-crisis-causes-misery-for-Kents-long-suffering-residents-and-businesses.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/03394/kent-lorries-calai_3394489k.jpg" />
+<meta property="og:type" content="video.other" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@Telegraph" />
+<meta name="twitter:image:src" content="http://i.telegraph.co.uk/multimedia/archive/03394/kent-lorries-calai_3394489k.jpg">
+	<meta name="twitter:creator" content="@gordonrayner" />
+<meta name="twitter:player" content="https://player.ooyala.com/player.swf?keepEmbedCode=true&amp;autoplay=1&amp;embedCode=drMXBtdjogmMRbdY6vXRN-pfdU_v6Ump&amp;adSetCode=b20883587d124da4a8f29205f8be38ea" />
+	<meta name="twitter:player:height" content="315" /> <meta name="twitter:player:width" content="560"  /> <link rel="canonical" href="http://www.telegraph.co.uk/news/uknews/immigration/11777067/Calais-crisis-causes-misery-for-Kents-long-suffering-residents-and-businesses.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<script type="text/javascript">
+var logo = function(param) {
+	document.onreadystatechange = function () {
+		if (document.readyState == "interactive") {
+			document.getElementById("logo").src = param;
+		}
+	}
+} 
+</script>
+
+<script type="text/javascript"> logo("/template/ver1-0/i/thetelegraph_344.gif"); </script>	
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for Immigration articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/news/uknews/immigration/rss" />
+
+<!-- Opta widget v2  -->
+	<script src="http://widget.cloud.opta.net/2.0/js/widgets.opta.js" id="myscript" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var tmgOptaCallback = function() {
+            //Add logic below that will be executed once the opta widget loads
+            $('.standings-container tr:even').addClass('odd'); //even rows for tables
+            $('.standings-container tr:odd').addClass('even'); //odd rows for tables
+         };
+
+        // <![CDATA[
+        var _optaCallbacks;
+
+        if (_optaParams) {
+            _optaCallbacks = _optaParams.callbacks;
+        }
+
+        if (_optaCallbacks) {
+            if( _optaCallbacks.indexOf(tmgOptaCallback) < 0) {
+            _optaCallbacks.push(tmgOptaCallback);
+            }
+        } else {
+            _optaCallbacks = [tmgOptaCallback];
+        }
+
+        var _optaParams = {
+            custID: 'ea84a6c1e3333c9d011be831766d51de',
+            anim:   'none',
+            language: 'en_GB',
+            timezone: 0,
+            callbacks: _optaCallbacks
+        };
+        // ]]>
+    </script>
+
+    <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        
+            var _optaCallbacks = _optaParams.callbacks;
+
+            if (_optaCallbacks) {
+                if (_optaCallbacks.indexOf(optaTeamLinkingCallback) < 0) {
+                    _optaCallbacks.push(optaTeamLinkingCallback);
+                }
+            } else {
+                _optaCallbacks = [optaTeamLinkingCallback];
+            }
+
+            _optaParams.callbacks = _optaCallbacks;
+        </script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.11.1.min.js"></script>
+
+<script>
+    jq1_11=$.noConflict(true);
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery.scrolldepth.js"></script>
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7226372-1']);
+    _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+    jq1_11.scrollDepth();
+</script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/news/uknews/immigration" />
+	<meta name="DCSext.Genre" content="immigration" />
+								<meta name="DCSext.Category" content="uknews"/>
+									<meta name="WT.cg_s" content="uknews"/>
+								<meta name="DCSext.Channel" content="news" />
+					<meta name="WT.cg_n" content="news" />
+						<meta name="DCSext.Content_Type" content="Video" />
+    <meta name="DCSext.Level" content="4" />
+	<meta name="DCSext.author" content="Gordon Rayner" />
+			<meta name="DCSext.articleFirstPublished" content="2015-07-31 19:40" />
+	<meta name="DCSext.articleId" content="11777067" />
+
+	<meta name="DCSext.cmsSect" content="Home;News;UK_News;Telegraph_TV;News_Video;Gordon_Rayner;Immigration" />
+	
+	
+
+
+		
+
+		
+		  		
+					
+						
+					
+		  
+		
+
+		
+			<meta name="DCSext.cf" content="1"/>	
+			  	<meta name="DCSext.pd" content="1"/>
+			  
+		
+
+
+		<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-1c3d0c3b3e3b492ca058647975687e6b485ad5c8.js"></script>
+    <script type="text/javascript">
+//Events tracking for Google Analytics
+function trackGoogle() {
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {}
+}
+
+//External links tracking through Google Analytics
+function isLinkExternal(link) {
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, ''));
+        return !r.test(link);
+}
+$(document).ready(function() {
+    $(document).bind('click', function(e) {
+        var target = (window.event) ? e.srcElement : e.target;
+        while (target) {
+            if (target.href) break;
+            target = target.parentNode;
+        }
+        if (!target || !isLinkExternal(target.href)) return true;
+        var link = target.href;
+        link = '/outgoing/' + link.replace(/:\/\//, '/');
+        _gaq.push(['_trackPageview', link]);
+    });
+});
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7226372-1']);
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2015-08-02 04:47:07.295
+gs_channels="marks_and_spencer";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = '';
+  var qcResults = function(qc){
+    for (var i=0;i<=qc.segments.length-1;i++){
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id;
+    }
+  }
+    // ]]>
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/gpt.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<div bucket-id="mpu">
+</div><script src='http://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/youtube.js" type="text/javascript"></script>
+<script type="text/javascript">
+    document.domain = "telegraph.co.uk";
+</script>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+
+<body class="news newstyle-enabled">
+	<div id="fb-root"></div>
+
+<!-- invitationUrl contains the baseUrl for the invitation(paywall). The whole url is completed by the esi tags -->
+<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		<!-- default inviteUrl value is UK-->
+		var inviteUrl = "" + '/subscriptions/invitation/';
+		
+			
+				
+					var inviteUrl = "" + "/subscriptions/invitation-intl/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img width="20" height="20" border="0" alt="Hide this banner" src="/template/ver1-0/i/ieX.gif"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif" width="190" height="35" /></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("ban", "970x250,970x90,940x250,728x90,468x60", "adj", "", 2));</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="hidden" name="sort" value="relevant" checked="checked"/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  new">
+                                        Search - enhanced by OpenText</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Sunday 02 August 2015</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleOne"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/telegraphtv/">Video</a></li>
+							<li class="selected styleOne" id="menuItemstyleOne"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/fashion/">Fashion</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/motoring/">Cars</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/film">Film</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleOne">
+				<ul class="mainNav">
+						<li class="first styleOne"><a href="http://www.telegraph.co.uk/news/politics/">Politics</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/investigations/">Investigations</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/obituaries/">Obits</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/education/">Education</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/science/">Science</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/earth/">Earth</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/weather/">Weather</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/health/">Health</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/theroyalfamily/">Royal</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/celebritynews/">Celebrity</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/defence/">Defence</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/scotland/">Scotland</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/news/">News</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/news/uknews/">UK News</a><span>&raquo;</span></li>
+					<li class="styleOne"><a href="http://www.telegraph.co.uk/news/uknews/immigration/">Immigration</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<div id="tmglBody">
+	<div class="access"><a name="article"></a></div>
+	
+	<div class="twoThirdsThird2 gutterUnder">
+	
+	<div class="twoThirds gutter">
+			<div class="storyHead">
+                <h1>Calais crisis causes misery for Kent's long-suffering residents and businesses</h1>
+				<h2>
+Operation Stack has turned the Garden of England into the Car Park of England
+
+</h2>
+				<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+
+    <div id="newGigyaShareTop-Holder">
+        <div id="newGigyaShareTop" class="newGigyaShare"></div>
+        <div class="GigyaBg1"></div>
+    </div>
+
+<div class="gutterUnder">
+			<div class="videoPlayer" id='playerwrapper' style='width: 620px; height: 349px;'></div>
+    <script>
+var oplayer = null;
+if (typeof ooyala !== 'undefined') {
+	var ooyalaData = {
+	'targetId' : 'playerwrapper',
+	'width' : 620,
+	'height' : 349,
+	'vidEmbed' : 'drMXBtdjogmMRbdY6vXRN-pfdU_v6Ump',
+	'autoPlay' : true,
+	'skipAdInt' : 20000,
+	'skipAdTxt' : 'skip advert',
+	'skipAdPos' : 'bottom right',
+	'volume' : 0.50,
+	'relatedVideo' : "http://cdn.api.ooyala.com/v2/assets?where=embed_code+in+%28%27hqMzJtdjosirOyo3nqRrw-CJvdXYG58-%27%2C%27trczBtdjpW_AgY5dFJ9tdbmrBoXJk1vd%27%2C%27hhODlsdjomJzQhn08vO2nrQEzyGu9EoT%27%29&api_key=RvbGU6Z74XE_a3bj4QwRGByhq9h2.WFFAb&expires=1640995199&signature=pNwhE63fzbt2KA5OxgHCX1hdkrTM89egBaDU%2BVlH41o"
+	};
+	var oplayer = new ooyala.Player(ooyalaData);
+}
+</script></div>
+	</div>
+			
+			<div class="oneHalf gutter artBodyWide">
+						<div class="story">
+							<div class="cl"> </div>
+		<div class="byline">
+		<div >
+
+			<div class="bylineImg">
+						<a href="http://www.telegraph.co.uk/journalists/" ><img src="http://i.telegraph.co.uk/multimedia/archive/01757/Rayner_60_1757362j.jpg" alt="Gordon Rayner" border="0" width="60" height="60" ></a>
+					</div>
+				<p class="bylineBody">
+							By <a rel="author" title="Gordon Rayner" href="http://www.telegraph.co.uk/journalists/gordon-rayner/" >
+											Gordon Rayner</a>, <span >Chief Reporter</span>, <span >video source APTN</span></p>
+
+					</div>
+		<p class="publishedDate">7:40PM BST 31 Jul 2015</p>
+		<meta itemprop="datePublished" content="2015-07-31"/><div class="bylineSocialButtons">
+					<a href="https://twitter.com/gordonrayner" class="twitter-follow-button" data-screen-name="gordonrayner" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow</a> 
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+			<div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="articleBody">
+
+	
+			  	
+					<div class="firstPar"><p> Westenhanger Castle, near Folkestone, was once the home of King Canute, and for Sarah Poole it seemed like the business opportunity of a lifetime when she took over the lease at the start of the year. </p></div><div class="secondPar"><p> Six months on, her fledgling wedding and events business has been &#x201c;crippled&#x201d; by the chaos of <a href="http://www.telegraph.co.uk/news/uknews/road-and-rail-transport/11775079/Operation-Stack-on-M20-What-is-it-and-how-does-it-work.html">Operation Stack</a>, which has turned Kent&#x2019;s roads into a lorry park because of the cross-Channel delays caused by the <a href="http://www.telegraph.co.uk/news/politics/david-cameron/11777026/David-Cameron-warns-Calais-chaos-may-last-all-summer-as-he-tries-to-get-a-grip-on-the-crisis.html">migrant crisis at Calais</a>. </p></div><div class="thirdPar"><p> Hers is just one among countless businesses in the county that are feeling the economic effects of Channel Tunnel closures, while people living in the east of Kent feel trapped in their homes because of the 24-hour a day traffic jams on local roads. </p></div><div class="fourthPar"><p> <sup><img refid="3394491" version="b" width="620" height="387" caption="Westenhanger Castle" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/Westenhanger-Castl_3394491b.jpg" photographer="" name="Westenhanger-Castle" alttext="Westenhanger Castle" copyright="Daniel Jones/The Telegraph"> </sup><br><sup>Westenhanger Castle near Folkestone (Daniel Jones/The Telegraph)</sup> </p></div><div class="fifthPar"><p> "We had a wedding ceremony on Friday and reception,&#x201d; said Ms Poole, 36. &#x201c;The bride was an hour late due to all the traffic and many of the guests were late as well. We had to put the ceremony back. </p></div><div class="body"><p> "We also have a wedding reception planned for Saturday. The bride and groom and their families are coming from the Rochester area. </p><p> "The drive should take them 45 minutes but due to Operation Stack it is taking more than two hours. </p><p> "We have already had a wedding booking for next year cancelled because they are worried about Operation Stack.&#x201d; </p><p> <sup><img refid="3393347" version="b" width="620" height="387" caption="Two migrants cling to the roof of a freight truck as it leaves the Eurotunnel terminal in Folkestone" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03393/Calais_Two-migrant_3393347b.jpg" photographer="" name="Calais Two-migrants-Folkestone" alttext="Two migrants cling to the roof of a freight truck as it leaves the Eurotunnel terminal on July 31, 2015 in Folkestone" copyright="Getty Images"> </sup><br><sup>Two migrants cling to the roof of a freight truck as it leaves the Eurotunnel terminal in Folkestone (Getty)</sup> </p><p> Ms Poole employs 15 people at the 10th century castle and organises weddings, conferences, meetings, team building events and parties. </p><p> <iframe data-id="0319d77f-fc9a-4aed-8983-801b4cf4e27b" src="http://s3.eip.telegraph.co.uk/breakoutCards/0319d77f-fc9a-4aed-8983-801b4cf4e27b.html" width="220" height="259" class="tg-card" frameborder="0" scrolling="no" style="float:left;margin:0 20px 10px 0;" id="player1"></iframe><script src="http://s3.eip.telegraph.co.uk/assets/_scripts/embed-card.js"></script></p><p> She said: &#x201c;It has been crippling. We are a young, small business. Hotels and bed &amp; breakfasts are noticing it as well. There has been a drop in people coming to the area because they cannot guarantee getting here." </p><p> She now fears the region could face a long term downturn. </p><p> "This is meant to be the Garden of England but we are now the Car Park of England,&#x201d; she said. "If I could get the Prime Minister down here I would. I want him to come down and all of the Cabinet to see what is happening and what we are having to put up with." </p><p> Vanessa Challess&#x2019;s problems are rather more immediate. The 39 year-old is eight months pregnant with her third child, and having been in labour for just 90 minutes last time around fears giving birth by the roadside on her way to hospital because of queues caused by Operation Stack. </p><p> The lawyer lives in Maidstone, 18 miles from the William Harvey Hospital in Ashford, where traffic forced off the M20 is turning the A20 into a no-go zone. </p><p> She said: &#x201c;To get to the William Harvey from here when Stack is on could take two to three hours. </p><p> &#x201c;I am genuinely worried, I&#x2019;m now considering whether I should prepare for a home birth but I am classed as high risk. It&#x2019;s absolutely hellish. We know the back roads but they get as clogged up as the M20.&#x201d; </p><p> Jenny Chessman, who lives on the Orchard Heights estate in Ashford, said: &#x201c;We're prisoners on our own estate... people are using every other route to try to get around the problem. </p><p> "There are so many lorries causing absolute chaos." </p><p> From pubs to osteopaths to funeral directors, Operation Stack is leeching money out of Kent businesses by the hour. </p><p> Mandy Moore, 48, who runs the Duke's Head pub in Sellindge said: "The weekend just gone was the worst because of people trying to get away on holiday. </p><p> "We had people who had booked tables for lunch and dinner who simply couldn't get here because of the traffic. Others were turning up over an hour late because of the problem. </p><p> "A two minute drive for an elderly person takes half an hour during Operation Stack. </p><p>
+ <div class="videoPlayer"> 
+  <script type="text/javascript">
+tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+tmgAds.embedPlayer = {width:620,height:349,size:'620x349',vidSize:'620x415'};
+if(typeof(tmgAds.page.platform) != 'undefined' && tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {width:300,height:169,size:'300x169',vidSize:'300x235'};
+tmgAds.embedPlayer = {
+  'targetId'     : 'embedPlayerWrapper',
+  'platform'     : tmgAds.page.platform,
+  'width'        : tmgAds.embedPlayer.width,
+  'height'       : tmgAds.embedPlayer.height,
+  'size'         : tmgAds.embedPlayer.size,
+  'autoplay'     : 'false',
+  'vidEmbed'     : '9wbzNtdjqoVPzSfV66AEXrXRWskYAvPK',
+  'adTag'        : tmgAdsBuildAdTag("vid",tmgAds.embedPlayer.vidSize,"pfadx",";vidsrc=tmg;vt=embed;dcmt=text/xml",3)
+}
+tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform='+tmgAds.page.platform+'&width='+tmgAds.embedPlayer.width+'&height='+tmgAds.embedPlayer.height+'&size='+tmgAds.embedPlayer.size+'&vidEmbed='+tmgAds.embedPlayer.vidEmbed+'&adTag='+encodeURIComponent(tmgAds.embedPlayer.adTag);
+tmgAds.embedPlayer.tmgEmbedPlayer = '<iframe src="'+tmgAds.embedPlayer.remotesrc+'&adobeDTM=live" width="'+tmgAds.embedPlayer.width+'" height="'+tmgAds.embedPlayer.height+'" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>';
+document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+</script> 
+ </div></p><p> "People are missing hospital and doctors' appointments and what concerns me is the emergency services. </p><p> "If someone needed urgent medical attention or if there was a fire, I'd dread to think what could happen." </p><p> Francesca Murphy, an osteopath in Hollingbourne, Maidstone near junction eight of the M20, said patients could not get to their appointments. </p><p> "It's having an effect on the practice with patients cancelling," she said. "I'm losing money and losing business." </p><p> <sup><img refid="3394486" version="b" width="620" height="387" caption="Two illegal immigrants found hiding in a lorry and arrested in Ashford, Kent" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/03394/Two-illegal-immigr_3394486b.jpg" photographer="" name="Two-illegal-immigrants-arrest-kent" alttext="Two illegal immigrants found hiding in a lorry and arrested in Ashford, Kent" copyright="Grant Falvey/LNP"> </sup><br><sup>Two illegal immigrants found hiding in a lorry and arrested in Ashford, Kent (LNP)</sup> </p><p> Linda Farrier, an undertaker in Dover, said mourners had been unable to get to funerals because of congestion, and Richard Price, a 60-year-old farmer, said Operation Stack has disrupted his harvest. </p><p> He said: "I have a combine harvester sitting in the field which was expensive to buy sitting idle for long periods of time because of the delays in getting the crops back to the grain store at the farm. </p><p> "It is delaying harvest. To do a round trip from combine harvester to grain store and back again would normally take three quarters of an hour but during Stack you can add at least half an hour to that.&#x201d; </p><p> <iframe data-id="d1a201b3-8428-40cd-bbfb-02cbe369fcb1" src="http://s3.eip.telegraph.co.uk/breakoutCards/d1a201b3-8428-40cd-bbfb-02cbe369fcb1.html" width="540" height="259" class="tg-card" frameborder="0" scrolling="no" style="float:left;margin:0 0 10px 0;" id="player2"></iframe><script src="http://s3.eip.telegraph.co.uk/assets/_scripts/embed-card.js"></script> </p></div>
+			  
+		<div class="cl"></div>
+</div>
+
+<script>
+		$('h3.was-h3, h3.was-h4, h3.was-h5, h5.fm-chart-title, h3.was-h6').prev('p:empty').css({'margin-top': '-20px'});
+		$('#mainBodyArea .storylist li').wrapInner('<span class="inner-li"></span>');
+  </script>
+</div>
+                        <div id="followPlatforms">
+    
+    <div class="followFacebook social-media-iframe social-media-iframe-1">
+                            <div class="fb-page-container">
+                                <div id="fb-root"></div>
+                                <script>(function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1516273521924556";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                }(document, 'script', 'facebook-jssdk'));</script>
+                                <div class="fb-page" data-href="https://www.facebook.com/telegraph.co.uk" data-small-header="true" data-width="500" data-height="70" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/telegraph.co.uk"><a href="https://www.facebook.com/telegraph.co.uk">telegraph.co.uk</a></blockquote></div></div>
+                            </div>
+                        </div>
+                    <div class="followTwitter social-media-iframe social-media-iframe-2">
+                            <a href="https://twitter.com/telegraphnews" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @telegraphnews</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        </div>
+                    <div class="followYoutube social-media-iframe social-media-iframe-3">
+                            <script src="https://apis.google.com/js/platform.js"></script>
+                            <div class="g-ytsubscribe" data-channelid="UCPgLNge0xqQHWM5B5EFH9Cg" data-layout="full" data-count="hidden"></div>
+                        </div>
+                    </div>
+<div class="cl"></div><div class="isaSeason">
+			<div bucket-id="article_commercial_isa_01">
+				<script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<a href="http://www.telegraph.co.uk/frontpagesignup?utm_source=bottomarticle&amp;utm_medium=banner&amp;utm_campaign=email"><img src="http://i.telegraph.co.uk/multimedia/archive/03288/11783_460x100_fron_3288884a.jpg"/></a></div>
+		</div></div>			        
+				<div class="cl"></div>
+<!-- googleoff: index -->
+
+            <div class="storyFt">
+			
+				<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+    <div id="newGigyaShareBottom-HolderCenter">
+            <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+            <div class="GigyaBg1"></div>
+          </div>
+       <!-- <div id="newGigyaShareBottom-Holder">
+    <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+    <div class="GigyaBg"></div>
+</div>  -->
+
+	  	
+            <div class="summaryMedium artCommercial">
+                        <div bucket-id="article_commercial_06" >	
+	<div class="headerOne styleOne">
+				<!-- 10819452 -->
+				<p>
+							<span>Top news galleries</span>
+							</p></div>
+		<div class="gutterUnder noSummaryTopBorder">
+	
+			<div class="summary headlineImageLeft">
+			<!-- 11778089 -->
+			<h3>
+                    <a  href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html">The Queen's People</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/queen-queen-lead_3394893f.jpg" alt="Portrait of Queen Elizabeth II was taken by the British photographer Hugo Rittson Thomas, with a technique that involves the use of mirrors to show each sitter from all four sides " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>Striking new portraits of members of the Royal household
+</p></a>
+                </div><span class="comments">
+			            	<a href="/news/picturegalleries/royalty/11778089/The-Queens-People-New-exhibition-by-photographer-Hugo-Rittson-Thomas.html#disqus_thread" dsqid="11778089" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11777959 -->
+			<h3>
+                    <a  href="/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html">Declan Donnelly marries Ali Astall</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/donnelly-dec-thumb_3394760f.jpg" alt="Dec of Ant and Dec marries Ali Astall - " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/celebritynews/11777959/Ant-and-Decs-Declan-Donnelly-marries-Ali-Astall-in-pictures.html" 
+                         	 
+                         >
+							<p>
+Dec of Ant and Dec ties the knot in star-studded ceremony in Newcastle 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11753862 -->
+			<h3>
+                    <a  href="/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html">The world's most exclusive boarding schools</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03384/Beau-Soleil_3384708f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/education/educationpicturegalleries/11753862/The-worlds-most-exclusive-boarding-schools.html" 
+                         	 
+                         >
+							<p>
+With private school fees at their least affordable since the 1960s, we take a 
+  look at some of the most expensive schools in the world 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11777777 -->
+			<h3>
+                    <a  href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html">Blue Moon</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/fullmoon_3394663f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>Second full moon in July lights up the night sky
+</p></a>
+                </div><span class="comments">
+			            	<a href="/news/science/space/11777777/Blue-moon-lights-up-the-night-sky-around-the-world-in-pictures.html#disqus_thread" dsqid="11777777" class="">Comments</a>
+			            </span>
+					<p class="shareCount shareCountId11777777"></p>	
+<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11765625 -->
+			<h3>
+                    <a  href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html">London Life by Colin O'Brien</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03388/london-life-11_3388904f.jpg" alt="London Life by Colin O'Brien" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html" 
+                         	 
+                         >
+							<p>
+London Life by Colin O'Brien
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/culturepicturegalleries/11765625/London-Life-by-Colin-OBrien.html#disqus_thread" dsqid="11765625" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11776680 -->
+			<h3>
+                    <a  href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html">International Garden Photographer of the Year</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/Christine_Blanchin_3394211f.jpg" alt="Christine Blanchin dos Santos
+'Meteoroids'
+3rd Place" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics:</strong> The world&#700;s premier competition specialising in botanical 
+  photography
+</p></a>
+                </div><span class="comments">
+			            	<a href="/gardening/11776680/International-Garden-Photographer-of-the-Year-2015.html#disqus_thread" dsqid="11776680" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10925400 -->
+			<h3>
+                    <a  href="/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html">Animals under the knife</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03394/lion-operating-tab_3394291f.jpg" alt="A team of surgeons successfully remove the lens from a 330-pound male lion’s eye. 
+Joseph, a 17-year-old big cat, began squinting in May 2015 and staff at Big Cat Rescue in Tampa, Florida, knew they had to act fast. After he was sedated and brought onto the operating table they began the process of removing his lens." border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/earth/10925400/Animals-on-the-operating-table-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>All creatures great and small on the vet's operating table 
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11767726 -->
+			<h3>
+                    <a  href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html">Every Premier League stadium ever: ranked</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03392/collage_3392111f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html" 
+                         	 
+                         >
+							<p>
+Counting down every single ground to have played host to Premier League 
+  football down the years (and one which is about to) 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/sport/11767726/Ranking-all-54-stadiums-in-Premier-League-history.html#disqus_thread" dsqid="11767726" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11756713 -->
+			<h3>
+                    <a  href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html">War vets pose for revealing nude photos</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03384/SUM_3384359f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html" 
+                         	 
+                         >
+							<p>
+Photographer Michael Stokes is raising money to publish a book of photos that 
+  confront traditional stereotypes of attractiveness by capturing wounded war 
+  veterans in revealing poses 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/men/the-filter/11756713/Wounded-servicemen-pose-for-revealing-nude-photos.html#disqus_thread" dsqid="11756713" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11738585 -->
+			<h3>
+                    <a  href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html">The world's best steak restaurants</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03374/hawksmoorWEB_3374918f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html" 
+                         	 
+                         >
+							<p>
+Beef fanatics travel far and wide in search for that perfect, tender and rare 
+  steak. We have put together a list of the steakhouses most worth the journey
+</p></a>
+                </div><span class="comments">
+			            	<a href="/foodanddrink/foodanddrinkpicturegalleries/11738585/The-worlds-best-steak-restaurants.html#disqus_thread" dsqid="11738585" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	</div>
+	</div>
+	</div>
+                
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'news';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+							google_hints="uknews,immigration"; 
+												
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-telegraph_uk_420x200&amp;event=noscript" alt=""/>
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+<!-- googleon: index -->
+
+
+<!-- googleoff: all -->
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=inactive<br>
+userCommentsState=sectionProperties<br>
+showComments=false<br>
+article.articleTypeName=tmglvideo<br>-->
+
+		
+</div>
+			<div class="cl"></div>
+		</div>	
+	
+		
+		<div class="oneThird">
+		    <div class="articleSponsor">
+            <div bucket-id="article_sponsor_01" >	
+	<div
+					class="summary html mnHTML">
+					<!-- 11037298 -->
+                    <iframe allowTransparency="true" style="border:none; overflow:hidden; height:62px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTelegraph.co.uk&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true"> Telegraph on Facebook</iframe></div>
+			</div>
+	</div>
+
+    <div class="videoArt videoPadding">
+	<div class="summaryMedium gutterUnder">
+		<div class="related_links_video" >
+		
+		<div class="headerOne  styleOne">
+					<p>
+						
+								Related Video
+							</p>
+				</div>
+			<div class="summary">
+	<div id="summarySmall">
+		<!-- imagePosition: left, columnContext: oneThird -->
+<div class="picleft containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/uknews/immigration/11775110/CCTV-Suspected-Calais-migrants-escape-lorry-in-West-Midlands.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03393/migrant_lorry_west_3393394g.jpg" alt="migrant lorry west midlands" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/uknews/immigration/11775110/CCTV-Suspected-Calais-migrants-escape-lorry-in-West-Midlands.html">Calais migrants slice out of lorry in UK</a>
+                </h3>
+
+	<p class="date">31 Jul 2015</p>
+	</div>
+	<div class="cl"></div>
+</div>
+
+
+
+<div class="summary">
+	<div id="summarySmall">
+		<!-- imagePosition: left, columnContext: oneThird -->
+<div class="picleft containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/uknews/immigration/11774942/Migrants-break-through-French-police-line-at-Channel-Tunnel.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03393/migrants_summary_i_3393292g.jpg" alt="migrants summary image 2" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/uknews/immigration/11774942/Migrants-break-through-French-police-line-at-Channel-Tunnel.html">Migrants break through police line in Calais</a>
+                </h3>
+
+	<p class="date">31 Jul 2015</p>
+	</div>
+	<div class="cl"></div>
+</div>
+
+
+
+<div class="summary">
+	<div id="summarySmall">
+		<!-- imagePosition: left, columnContext: oneThird -->
+<div class="picleft containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/uknews/immigration/11772410/David-Cameron-blames-Calais-crisis-on-swarm-of-migrants.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03392/cameron_migrants_3392035g.jpg" alt="cameron migrants" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/uknews/immigration/11772410/David-Cameron-blames-Calais-crisis-on-swarm-of-migrants.html">Cameron blames Calais crisis on 'swarm' of migrants</a>
+                </h3>
+
+	<p class="date">30 Jul 2015</p>
+	</div>
+	<div class="cl"></div>
+</div></div>
+</div>
+  <div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("mpu", "300x250,300x600", "adj", "", 2));</script>
+	</div></div>
+</div>
+
+<div class="summaryMedium">
+			<div id="editorsChoiceVideo">
+					<div class="headerOne styleOne">
+				<!-- 6639321 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/telegraphtv/"><span>Watch More&#187;</span></a>
+							</p></div>
+		<div class="oneSixth">
+						<div class="summary">
+	<div class="summarySmall">
+		<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/sport/football/teams/manchester-united/11768510/Angel-Di-Maria-The-players-who-were-better-at-No.7-at-Manchester-United.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03393/beckscomp_3393319g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/sport/football/teams/manchester-united/11768510/Angel-Di-Maria-The-players-who-were-better-at-No.7-at-Manchester-United.html">The No.7 players who were better than Di Maria</a>
+                </h3>
+
+	<p class="date">31 Jul 2015</p>
+	</div>
+</div>
+
+
+
+</div>
+
+					<div class="oneSixth">
+						<div class="summary">
+	<div class="summarySmall">
+		<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton playButton-140" style="width: 140px; height: 87px;"><a class=" imageParsely" href="/news/worldnews/africaandindianocean/zimbabwe/11771011/What-we-know-about-Walter-Palmer-Cecil-the-lions-killer.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03391/walter-palmer-spli_3391418g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="playBtt playBtt"></span><span class="playBttTop"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/worldnews/africaandindianocean/zimbabwe/11771011/What-we-know-about-Walter-Palmer-Cecil-the-lions-killer.html">Why did Walter Palmer kill Cecil the lion?</a>
+                </h3>
+
+	<p class="date">31 Jul 2015</p>
+	</div>
+</div>
+
+
+
+</div>
+					<div class="cl"></div>
+				</div>
+
+			</div>
+
+	<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/uknews/immigration/11777067/Calais-crisis-causes-misery-for-Kents-long-suffering-residents-and-businesses.html" data-widget-id="SF_2" data-ob-template="telegraph" ></div>
+		<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					</script>
+	</div>
+
+<div class="summaryMedium gutterUnder">
+	<div bucket-id="widget_01">
+			
+                    
+                                <script type="text/javascript">
+        var optaTeamLinkingCallback = function () {
+            var teamMapping = {
+                "team-3": "arsenal",
+                "team-7": "aston-villa",
+                "team-90": "burnley",
+                "team-8": "chelsea",
+                "team-31": "crystal-palace",
+                "team-11": "everton",
+                "team-88": "hull-city",
+                "team-13": "leicester-city",
+                "team-14": "liverpool",
+                "team-43": "manchester-city",
+                "team-1": "manchester-united",
+                "team-4": "newcastle-united",
+                "team-52": "queens-park-rangers",
+                "team-20": "southampton",
+                "team-110": "stoke-city",
+                "team-56": "sunderland",
+                "team-80": "swansea-city",
+                "team-6": "tottenham-hotspur",
+                "team-35": "west-bromwich-albion",
+                "team-21": "west-ham"
+            };
+
+            for (var team in teamMapping) {
+                $('.fixtures dl.matches dt.match span.' + team).
+                        add('.standings-container table tr.' + team + ' td.team').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .team-name').
+                        add('.fixtures-plus table tr.scoreline td.' + team + ' .relative-holder').each(function () {
+                            var textNode = $(this).contents().filter(function () {
+                                return ( this.nodeType === 3 );
+                            }).last();
+
+                            var link = document.createElement('a');
+                            var text = document.createTextNode(textNode.text());
+                            link.appendChild(text);
+                            link.setAttribute('class', 'opta-team-linking');
+                            link.setAttribute('href', 'http://www.telegraph.co.uk/sport/football/teams/' + teamMapping[team]);
+                            link.onclick = function () {
+                                var menuSec = "opta-" + $('meta[name="GSASectionUniqueName"]').attr("content");
+                                $.cookie('tmg_navPos', menuSec, { path: '/', domain: 'telegraph.co.uk'});
+                            };
+
+                            textNode.replaceWith(link);
+                        });
+            }
+        };
+
+        </script>
+<div class="headerOne styleOne">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10874641 -->
+							<iframe width="300" height="400" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/Barnebys/2014/Barnebys_US_300x400.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+                        
+		    </div>
+		</div>
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+		
+	</div>
+	
+<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/uknews/immigration/11777067/Calais-crisis-causes-misery-for-Kents-long-suffering-residents-and-businesses.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+						
+							<!-- 11255356 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/"> 
+				US News</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02626/obama_2626645f.jpg" alt="Barack Obama warns American dream is in danger of becoming a 'myth'" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                Latest and breaking stories from the United States</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11202156 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sport/football/"> 
+				Football</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/sport/football/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03089/rooneyget_3089939f.jpg" alt="" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                Catch up on all the latest football news</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11573074 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/news/worldnews/"> 
+				World News</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03285/Progress_17__3285797f.jpg" alt="Progress 17 supply vehicle departs from the International Space Station" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                The latest world news</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/news/worldnews/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+	</div>
+
+</div>
+<!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+</script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" class="spr" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/">News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/">UK News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/politics/">Politics</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/features/">Long Reads</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/wikileaks-files/">Wikileaks</a></li>								
+
+					<li><a  target="_parent" href="http://jobs.telegraph.co.uk/">Jobs</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/worldnews/">World News</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">USA</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/asia/china/">China</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/uknews/theroyalfamily/">Royal Family News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/celebritynews/">Celebrity news</a></li>								
+
+					<li><a  target="_parent" href="http://dating.telegraph.co.uk/s/a/4168">Dating</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/">Finance</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/education/">Education</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/defence/">Defence</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/">Weird News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/editors-choice/">Editor's Choice</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/financialservices/">Financial Services</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/picturegalleries/">Pictures</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/newsvideo/">Video</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/matt/">Matt</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/alex/">Alex</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/comment/">Comment</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://blogs.telegraph.co.uk">Blogs</a></li>								
+
+					<li><a  target="_parent" href="http://puzzles.telegraph.co.uk/">Crossword</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="/topics/about-us/3489870/Contact-Telegraph-Media-Group.html">Contact us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>								
+
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2015</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2015-8-2.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/news/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+	<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+</script>
+</div>
+<script type="text/javascript">
+    g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+var platforme = 'Facebook,Twitter,Pinterest,LinkedIn,Share,Email';
+</script>
+<script type="text/javascript">
+    var s = document.createElement('script');
+    s.type='text/javascript';
+    s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+    document.getElementsByTagName('head')[0].appendChild(s);
+
+    function onGigyaServiceReady(e) {
+        var s = document.createElement('script');
+        s.type='text/javascript';
+        s.src = "/template/ver1-0/js/shareTools1.js";
+        document.getElementsByTagName('head')[0].appendChild(s);
+	 	gigya.socialize.getProviderShareCounts({URL: 'www.telegraph.co.uk', callback:gigyaShareCountDisplay, context:{displayElementId:'shareCountId'} });
+	}
+</script>
+<script type="text/javascript" src="/template/utils/ooyala/scripts/ooyala.js"> </script>
+    <script src="/template/ver1-0/js/youtube.js" type="text/javascript"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "News, UK News, Telegraph TV, News Video, Gordon Rayner, Immigration";
+		
+			_sf_async_config.authors = "Gordon Rayner";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-101665h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+			 width="1" height="1" alt="" />
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<div bucket-id="mpu">
+<script type="text/javascript">
+	document.write(tmgAdsBuildAdTag("inr", "1x1", "adj", "", 2));
+	document.write(tmgAdsBuildAdTag("tmg", "1x1", "adj", "", 2));
+	document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));</script>
+	</div><script type="text/javascript">_satellite.pageBottom();</script>
+    </body>
+</html>
+
+<!-- googleon: all -->

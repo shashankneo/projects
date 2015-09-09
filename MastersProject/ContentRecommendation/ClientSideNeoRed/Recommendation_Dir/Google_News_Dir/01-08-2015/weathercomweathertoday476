@@ -1,0 +1,1573 @@
+
+
+  
+    
+  
+
+
+
+   
+
+
+       <!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 8]><html class="ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 9]><html class="ie ie-9 lt-ie10" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 10)|(gt IEMobile 7)]><html class="ie ie-10" lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+  <!--[if !IE]><!--><html lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+  <script>var windowRenderStartTime = (new Date()).getTime();</script>
+  <title></title>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="fragment" content="!" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="shortcut icon" href="http://www.weather.com/apple-touch-icon.png" type="image/png" />
+<script src="//tags.crwdcntrl.net/c/2215/cc.js?ns=_cc2215" id="LOTCC_2215"defer></script><meta name="google-site-verification" content="OL0_MNVhexxZbhCV49eYUaMO8fGOX-dqPg2URebnHhk" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="description" content="Redmond, WA weather forecast and weather conditions. Today’s and tonight’s Redmond, WA weather forecast plus Doppler radar from weather.com." /><meta name="keywords" content="Redmond, WA weather, Redmond, WA weather forecast, Redmond, WA weather conditions, Redmond, WA forecast" /><meta name="robots" content="follow, index" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.weather.com/weather/today/l/Redmond+WA+USWA0367:1:US" /><meta property="og:site_name" content="The Weather Channel" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.weather.com/weather/today/l/Redmond+WA+USWA0367:1:US?_escaped_fragment_" /><meta property="og:image" content="http://s.w-x.co/240x180_twc_default.png" />
+<meta property="og:image:secure_url" content="https://s.w-x.co/240x180_twc_default.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@weatherchannel" />
+<meta name="twitter:url" content="http://www.weather.com/weather/today/l/Redmond+WA+USWA0367:1:US?_escaped_fragment_" /><meta name="twitter:image:src" content="http://s.w-x.co/240x180_twc_default.png" />
+<link rel="alternate" media="only screen and (max-width: 600px)" href="http://m.weather.com/weather/today/Redmond+WA+USWA0367:1:US" /><meta name="adsmetrics_zone" value="local_forecasts/today" />
+<meta name="metrics_levels" value="LOCALWX/TODAY/NA/FORECAST" />
+<meta name="pagecode" value="today-forecast" />
+<meta name="tb:canonical" content="http://www.weather.com/weather/today/l/Redmond+WA+USWA0367:1:US" /><meta name="tb:page-template" content="today page" />
+<meta name="tb:page-dashboard" content="today" />
+<meta name="tb:audited-clicks" content="true" />
+  <link type="text/css" rel="stylesheet" href="http://www.weather.com/sites/acquia-prod/files/advagg_css/css__b2ApNmzhoeYbI6tt4TiacrnsEo6pOjMsuaFYyqoAiks__s3gktIkVtCBJsEaDEWrnNkZ_o-e6dWqFjlwLsGgM-xQ__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.weather.com/sites/acquia-prod/files/advagg_css/css__0mVbs8bjHXf9-PfbojEbSWQspoyxYUJy_rtnYAf-2yk__eOOWiyryawAw5AuWttKUGmJ6pc_qKtEXVNbnNEX_AVA__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.weather.com/sites/acquia-prod/files/advagg_css/css__e3KYBoBiP5hdmRUxLqe1UUUA_JvpkmgfJIvoXVgpePM__riOv-YFrHT5SLP_os5RHPyYR6mgNtC2JHu8U8l7Y6II__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.weather.com/sites/acquia-prod/files/advagg_css/css__XpSlUMnTHo-OnbwOhjQQKzzM29k7lcoAYdcRQkchYGA__JOTmt4zVi-zKCBa_vUWkwPZ1fJoFnvGRT4zOD2ZGgKo__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.weather.com/sites/acquia-prod/files/advagg_css/css__6QGAWV4yE80rB6tQ27p-jPjS6cAo0thXAeGYuHKthDk__uxgg9xR6mDVdXi_AWxFErBQtLqxboSgwJrXkfD9XHOM__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.css" media="all" />
+  <script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__9MbgYh_eU83wGTi6_3K11QEKiUPK1cMaZq_AJgRPc8w__EyHAh1hUCsNRzYMjZHT1L2rBCxPpAPAHT3UBJ191S-I__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script>
+        window['adrum-app-key'] = 'AD-AAB-AAA-FCA';
+        window['appdynamics_percentage'] = 10;
+        window['deferred_ads'] = {
+            enabled: 1 == true,
+            timeout: 1000,
+            targetPages: 'weather/5day,weather/map/interactive'
+        };
+    </script>
+<script>
+      // For angular apps
+      window.twc = window.twc || {};
+      // For core apps
+      window.TWC = window.TWC || {};
+      window.TWC.Tealium={
+        'url'   : '//tags.tiqcdn.com/utag/weather/twc/prod/utag.js'
+      };
+      window.TWC.AWS={
+        'sqs_url_prefix': 'https://sqs.us-east-1.amazonaws.com/',
+        'aws_acct'    : '747624766027',
+        'aws_queue'   : 'events_web_beacons',
+        'aws_bk'      : 'AKIAIR4OK3IKGQLCLMZQ',
+        'aws_tk'      : '/HImigBMiKPYC8r+S/cTCFqKKTpUvPpGah8xzq/a',
+        'aws_acct_ai' : '747624766027',
+        'aws_queue_ai': 'events_web_impressions',
+        'aws_bk_ai'   : 'AKIAJ3LHMO2UUXDG3DTQ',
+        'aws_tk_ai'   : 'B9QsmPA1HUE67LaPRZ2JLXEwouC9Gw77tLVswX2w'
+      };
+      window.TWC.Video={
+      ais : {
+        'platformid'      : 'urn:weather:com:sp:prod:1',
+        'responsetarget'  : 'aisreturnprod'
+        }
+      },
+       window.TWC.profile={
+        'base_url'  : 'https://profile.weather.com'
+      };</script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__v_DpleRnkLt-ttI0PoKJT5YAd84ejLg-Zc5ju2yx3J4__aFMHxvxm1aIWV-XlMsbc0z6HSLuRjG5jmM5VwRWi1Sc__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script>
+          window.explicit_location = "USWA0367:1:US";
+          window.explicit_location_obj = {"locType":1,"locId":"USWA0367","procTm":"20150727122410","PollenIds":{"tree":"KSEA","grass":"KTDO","ragweed":"KSEA"},"_arptNear":["SEA","YVR","PDX"],"_arptNearDist":[{"key":"SEA:9:US","dist":16},{"key":"PDX:9:US","dist":119}],"_gprId":"NAM","active":1,"arptId":"BFI","cityNm":"REDMOND","cliStn":"457470","clsRad":"SEA","cntryCd":"US","cntyFips":"53033","cntyId":"WAC033","cntyNm":"KING","coopId":"72793061","dmaCd":819,"dySTAct":"Y","dySTInd":"Y","elev":37,"epaId":"wa001","gmtDiff":-8.0,"idxId":"WA52","isBoatBeach":true,"lat":47.68,"long":-122.13,"lsRad":"we","mrnZoneId":"PZZ135","obsStn":"KBFI","offShoreId":"PZZ176","pllnId":"SEA","primTecci":"T72793061","prsntNm":"Redmond, WA","regSat":"nw","secObsStn":"KRNT","siteId":"US","skiId":"804","ssRad":"nw","stCd":"WA","tertObsStn":"KSEA","tideId":"W9447130","tmZnAbbr":"PDT","tmZnNm":"Pacific Daylight Time","ultRad":"SEA","wmId":"2S9","zipCd":"98073","zoneId":"WAZ556","zoneNm":"Bellevue and Vicinity","_skiNear":[{"key":"804:11:US","tLifts":5,"dist":43},{"key":"466:11:US","tLifts":25,"dist":44},{"key":"124:11:US","tLifts":11,"dist":46},{"key":"266:11:US","tLifts":10,"dist":47},{"key":"494:11:US","tLifts":8,"dist":55},{"key":"427:11:US","tLifts":10,"dist":62},{"key":"284:11:CA","tLifts":5,"dist":73},{"key":"1385:11:US","tLifts":2,"dist":78},{"key":"275:11:US","tLifts":9,"dist":78}],"_dstDates":{"startDate":"2015-03-08T10:00:00.000Z","endDate":"2015-11-01T09:00:00.000Z"},"stNm":"Washington","_country":"United States Of America"};
+          </script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__97z3JLZSUuylzlksrc3Ua8PHOZCaeq1RfpEAUZZyNOY__FIas1q0aZWRSxzQbWAiyVwsNZBW4ZpH9U3akm4BXJ7o__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__VZYxBXpHnAgCcO87h5zbIfXRkwvf49lqE9gHn9_ufns__x7WmtW10ZhaZx9oss4PAhX34Ky78ltYUAIDfWq81Pkg__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script src="//cdn.optimizely.com/js/177031030.js"></script>
+<script src="/foresee/foresee-trigger.js?v=1142014"></script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__zVxPpaU3F3_x9__3U7f7xPas9xsQ5iGYE7uV3v6B4Ek__duoWs_4U0Bo4D7sx2Sg09-8LJgpycJR9kTnDb4NstjQ__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__3hNWr-SnIKSHoSn2VnMz2JjjKcatfEtbKk2C-Z6SxBk__Vx_DMCjzSIf1VcNyt85UF49B1wuNrHBQjeWe7AOORMw__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script>window.googletag = window.googletag || {};googletag.cmd = googletag.cmd || [];</script>
+<script>
+      window.TWC.Configs={
+        'dsx' :{
+          'host':   '//dsx.weather.com/',
+          'apiKey': '7bb1c920-7027-4289-9c96-ae5e263980bc',
+          'locale': (TWC && TWC.Titan && TWC.Titan.locale) || 'en_US' || 'en_US'
+        },
+        'debug' : 0,
+        'disable_lazyload': 0
+      };
+      // Disable console.log/debug/info
+      if (!TWC.Configs.debug) {
+        window.console = window.console || {};
+        console.log = function(){};
+        console.debug = function(){};
+        console.info = function(){};
+      }
+      TWC.pco=TWC.initpco(
+        jQuery,
+        {page:{
+          'ampm':       'pm',
+          'timezone':   'EDT',
+          'serverdate': '08/01/2015',
+          'servertime': '22:51:20',
+          'locale':     'en',
+          'serverhrs':  '22',
+          'lang':       'en',
+          'serverday':  'Sat'
+        },ad:{}},
+        null,
+        null,
+        '{"error":"LOCATION_UNAVAILABLE"}'
+      );
+
+      (function($){
+        if (window.deferred_ads.targetPages.length > 0) {
+            var matchFound = false;
+            var targetPagesList = window.deferred_ads.targetPages.split(',');
+            for (var i = 0; i < targetPagesList.length; i++) {
+                var regexp = new RegExp(targetPagesList[i], 'i');
+                if (regexp.test(window.location.href)) {
+                    matchFound = true;
+                    break;
+                }
+            }
+
+            // no match found if broke out of loop early
+            // set deferred_ads.enabled to false
+            if (!matchFound) {
+                window.deferred_ads.enabled = false;
+            }
+        }
+
+        if (window.deferred_ads.enabled) {
+            setTimeout(function () {
+                if (TWC.Events.getEvent('window_loadReady').state() !== 'resolved') {
+                    TWC.Events.getEvent('window_loadReady').resolve();
+                    console.debug('window_loadReady resolved via callback');
+                }
+            }, window.deferred_ads.timeout);
+
+            $(window).load(function () {
+                if (TWC.Events.getEvent('window_loadReady').state() !== 'resolved') {
+                    TWC.Events.getEvent('window_loadReady').resolve();
+                    console.debug('window_loadReady resolved via window load');
+                }
+            });
+        } else {
+            TWC.Events.getEvent('window_loadReady').resolve();
+        }
+
+        TWC.Events.ifReady(['window_loadReady', 'utag_dataReady']).done(function(){
+          TWC.PcoUtils.setTiming('tealiumStart', (new Date()).getTime());
+          if (!window.callPhantom) {
+            $.ajax({
+              'url': TWC.Tealium.url,
+              'dataType':'script',
+              'success': void(0),
+              'cache': true
+            });
+          }
+        });
+
+      })(jQuery);</script>
+<script></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","twc":{"contexts":{"loc":{"is_page_loc":true},"is_page_loc":true,"%loc":{"location_id":"PLACEHOLDER"}},"variant":"big","adConfigs":{"sponsored_native_story":{"Sponstory_AnheuserBusch _SummerTwist":{"native_story":"anheuserbusch,summertwist"},"Sponstory_Febreeze_SpringClean":{"native_story":"febreeze,springclean"},"Sponstory_Kingsford_Grilling":{"native_story":"kingsford,grilling"},"Sponstory_Quaker_RealMom":{"native_story":"quaker,realmom"},"Sponstory_ServePro_Preparedness":{"native_story":"servepro,preparedness"},"Sponstory_StateFarm_2015":{"native_story":"statefarm,statefarm"},"Sponstory_Thermacell_Camp":{"native_story":"thermacell,camp"},"Sponstory_Travelers_ThinkSafe":{"native_story":"travelers,thinksafe"},"Sponstory_TruGreen_BackyardHero":{"native_story":"trugreen,backyardhero"},"Sponstory_Volvo_OutOfBounds":{"native_story":"volvo,outbounds"}}},"instance":{"8b464c0d-f497-4c26-874c-4980f8849745":{"bg_type":"weather","default_video_image":"\/sites\/all\/themes\/radix\/images\/backgrounds\/default_32_gi.jpg","default_weather_image":"\/sites\/all\/themes\/radix\/images\/backgrounds\/default_32_gi.jpg","image_override":"","scheduled_image_override":"http:\/\/s.w-x.co\/4thjuly_day_1600x700.dark__0.jpg","startDate":"20150704","endDate":"20150705","module_version":"1.0.5"},"fce541cb-00da-45d8-811b-3fc90db36cd5":{"module_id":"header-menu","main_menu_links":[{"title":"Forecasts","link_url":"\/weather\/today\/l\/{{dynamicLocId}}","target":"_self","left":[{"title":"Today\u0027s Forecast","link_url":"\/weather\/today\/l\/{{dynamicLocId}}","target":"_self"},{"title":"National Forecast","link_url":"\/forecast\/news\/national-forecast-20141009","target":"_self"},{"title":"Alerts","link_url":"\/storms\/alerts","target":"_self"},{"title":"Severe Weather","link_url":"\/storms\/severe","target":"_self"},{"title":"Safety \u0026 Preparedness ","link_url":"\/safety\/before","target":"_self"},{"title":"Road Ready","link_url":"\/safety\/auto","target":"_self"},{"title":"Tornado Central","link_url":"\/storms\/tornado","target":"_self"},{"title":"Commuter Forecast","link_url":"\/forecast\/commuter?layers=driving","target":"_self"},{"title":"NEW Allergy Tracker","link_url":"\/forecast\/allergy\/l\/{{dynamicLocId}}","target":"_self"},{"title":"Pollen Forecast","link_url":"\/forecast\/pollen\/l\/{{dynamicLocId}}","target":"_self"}],"right":[{"title":"Continuing Flood Threat From Bill","link_url":"\/storms\/hurricane\/news\/tropical-storm-bill-flooding-heavy-rain-threat","target":"_self","icon":"","asset_id":"4cd2f4bd-a9f8-4ebf-8315-abbf46d3e03b","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/FLOOD_THREAT2.png?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Severe Storm Risk in East, Midwest, Plains","link_url":"\/storms\/tornado\/news\/severe-weather-tracker-page","target":"_self","icon":"","asset_id":"d4e4a99f-6c88-448e-a645-4f767381b35d","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/LightningStrike.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Excessive Heat Grips the Southwest","link_url":"\/forecast\/regional\/news\/death-valley-120-degree-heat","target":"_self","icon":"","asset_id":"a1146480-3e59-4c58-b24b-89cbfe877846","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/dct_swheat_prim.png?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Southeast Heat Breaks Records","link_url":"\/forecast\/regional\/news\/southeast-heat-humidity-building-mid-june","target":"_self","icon":"","asset_id":"98e04730-9e4c-442d-8db2-6f722eb0a515","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/se-heat.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"Maps","link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}","target":"_self","left":[{"title":"Weather In Motion\u00ae","link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}?animation=true","target":"_self"},{"title":"Severe Alerts","link_url":"\/storms\/alerts","target":"_self"},{"title":"Current Temps","link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}?layers=0090,0120\u0026zoom=8","target":"_self"},{"title":"Regional Satellite ","link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}?layers=ussat\u0026zoom=6","target":"_self"},{"title":"World Satellite","link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}?layers=sat\u0026zoom=1\u0026baseMap=h","target":"_self"},{"title":"Commuter Forecast","link_url":"\/forecast\/commuter?layers=driving","target":"_self"},{"title":"Forecast Maps","link_url":"\/maps\/tendayforecast","target":"_self"},{"title":"Classic Weather Maps","link_url":"\/maps\/currentusweather","target":"_self"}],"right":[{"title":"Current Weather","link_url":"\/maps\/current","target":"_self","icon":"","asset_id":"a263fcd2-224b-4968-8371-bd28e674e644","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/curwx_320x180.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Health Maps","link_url":"\/maps\/health","target":"_self","icon":"","asset_id":"d222ac30-e592-45a2-8eac-24785796aff1","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/277x187_pollencast.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Traffic Conditions","link_url":"\/forecast\/commuter?layers=traffic,radar","target":"_self","icon":"","asset_id":"a3533f5f-9315-48d5-9c58-dd6b8e7cc872","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/Commuter_Thumb_160-90_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Weekly Planner","link_url":"\/maps\/planner","target":"_self","icon":"","asset_id":"c71f5f4b-4f5d-4110-8cb1-40a3f7d11e43","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/static_weekly_planner_thumbnail_160x90_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"Video","link_url":"\/news\/weather\/video\/hurricane-guillermo-heads-towards-hawaii-0","asset_id":"5191b2d3-a9a2-41a5-9e80-f9ae182bdcd0","target":"_self","left":[{"title":"Road Ready","link_url":"\/safety\/auto","asset_id":"165eb1ab-e2e2-43fe-a05c-fa5c77c51720","target":"_self"},{"title":"Uncharted","link_url":"\/series\/uncharted","asset_id":"80ce14e2-a709-4f5f-9c9f-ad6a018bd008","target":"_self"},{"title":"Weather Films","link_url":"\/series\/weatherfilms","asset_id":"054b1992-c1ac-4324-b78c-f2fa98f59b11","target":"_self"},{"title":"TV Shows","link_url":"\/tv","asset_id":"3499d8f1-bfe1-4081-9882-394a4dca0fae","target":"_self"},{"title":"Web Series","link_url":"\/series","target":"_self"},{"title":"All Video","link_url":"\/video","target":"_self"}],"right":[{"title":"It Got Close, They Didn\u0027t Expect What Happened Next","link_url":"\/tv\/shows\/wake-up-with-al\/video\/clumsy-cheetah-falls-through-sunroof-kenya?pl=pl-hot-list","target":"_self","icon":"","asset_id":"2f69aa01-2581-4fe8-b1c2-e5f8e3a179f7","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/cheeat.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Muddy Hill Causes Epic Fails","link_url":"\/series\/great-outdoors\/video\/atlantans-fall-on-muddy-hill-during-festival?pl=pl-hot-list","target":"_self","icon":"","asset_id":"d50dbd63-cc97-4817-a201-422beeb469d2","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/falldowna.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Red Glowing Lake Will Drop Your Jaw","link_url":"\/series\/great-outdoors\/video\/mars-like-saltwater-lake-in-crimea-glows-red?pl=pl-hot-list","target":"_self","icon":"","asset_id":"cbcfe854-bfd4-444c-b560-7f80f939a474","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/mars_8.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Molten Metal + Lava Lamp = THIS","link_url":"\/series\/warp\/video\/see-what-happens-when-molten-aluminum-hits-a-lava-lamp?pl=pl-hot-list","target":"_self","icon":"","asset_id":"7e0aa1a8-302a-4617-b44b-84f4b71af4ea","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/lavalamp_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"Photos","link_url":"\/slideshows","target":"_self","left":[{"title":"All Photos","link_url":"\/slideshows","target":"_self"},{"title":"Fan Photos","link_url":"\/photos","target":"_self"},{"title":"Upload Your Photos","link_url":"\/photos\/collection\/ugc","target":"_self"},{"title":"Photo Contest","link_url":"\/photos\/contest","target":"_self"}],"right":[{"title":"Earthquake Causes Mass Devastation","link_url":"\/news\/news\/nepal-earthquake-avalanche-photos","target":"_self","icon":"","asset_id":"c7b7aa8b-59a3-4f9b-86dc-a7750765a11e","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/070nepal_earthquake_Apr27_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"The Best of the Best","link_url":"\/travel\/news\/amazing-america-national-parks","target":"_self","icon":"","asset_id":"0f7d008d-7d1a-42bd-b60d-f5532f20c816","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/38GrandCanyonNationalPark2_1.JPG?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"This Photo is Deeply Troublesome","link_url":"\/climate-weather\/drought\/news\/california-drought-photos-april","target":"_self","icon":"","asset_id":"8a92c2dd-c677-411a-9190-2c70db1309c9","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/52aerialcalifapril62015_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"The Prettiest Beaches in the World","link_url":"\/travel\/news\/best-beaches-world","target":"_self","icon":"","asset_id":"270d93fc-0f7b-436f-974f-ab7fa2ebd903","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/bestbeaches_mayabeachkophiphi_1.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"News","link_url":"\/news","target":"_self","left":[{"title":"All News","link_url":"\/news","target":"_self"},{"title":"Travel","link_url":"\/travel","target":"_self"},{"title":"Health","link_url":"\/health","target":"_self"},{"title":"Science","link_url":"\/science","target":"_self"},{"title":"Environment","link_url":"\/science\/environment","target":"_self"},{"title":"Home \u0026 Garden","link_url":"\/home-garden","target":"_self"},{"title":"Sports \u0026 Recreation","link_url":"\/sports-recreation","target":"_self"},{"title":"Winter Storm Central","link_url":"\/storms\/winter","target":"_self"},{"title":"Hurricane Central","link_url":"\/storms\/hurricane","target":"_self"},{"title":"Tornado Central","link_url":"\/storms\/tornado","target":"_self"}],"right":[{"title":"Pope Francis Speaks Out on Climate Change","link_url":"\/science\/environment\/news\/pope-francis-climate-change-encyclical","target":"_self","icon":"","asset_id":"ce58a75b-093d-4ee8-8841-34fe0316d9d5","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/pope-encyclical.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"State-by-State Updates on Tropical Storm Bill","link_url":"\/safety\/floods\/news\/texas-oklahoma-flooding-tropical-system","target":"_self","icon":"","asset_id":"1590d977-5037-4245-9071-c3f09922838c","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/map_specnewsdct-87_ltst_4namus_enus_650x366.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Volcano May Be on the Verge of Violent Eruption","link_url":"\/news\/news\/indonesia-mount-sinabung-powerful-eruption-possible","target":"_self","icon":"","asset_id":"dc6bbca9-209c-4108-8a90-e80ce00066b9","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/IndonesiaVolcano_June17_650.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Residents Evacuated as Fire Burns ","link_url":"\/news\/news\/kearny-arizona-wildfire-brush-fire","target":"_self","icon":"","asset_id":"6659ba27-77bb-49b6-9867-d8f5cf34ddeb","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/ArizonaBrushFire_320.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"Live TV ","link_url":"\/tv\/the-weather-channel-live\/video\/watch-the-weather-channel-live?pl=pl-live-tv-now","target":"_self","left":[{"title":"All TV","link_url":"\/tv","target":"_self"},{"title":"Personalities","link_url":"\/tv\/personalities","target":"_self"},{"title":"Experts","link_url":"\/tv\/\/personalities","target":"_self"},{"title":"Shows","link_url":"\/tv","target":"_self"},{"title":"TV Schedule","link_url":"\/tv\/the-weather-channel-live\/news\/tv-schedule","target":"_self"}],"right":[{"title":"\u0022Fat Guys in the Woods,\u0022 Sundays @ 9P","link_url":"\/tv\/shows\/fat-guys-in-the-woods","target":"_self","icon":"","asset_id":"4b2b4efe-c9ca-412f-8714-a5ff24e51a1f","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/FatGuys-KeyArt-03_1.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Weekdays 7AM ET \/ Weekends 5AM ET","link_url":"\/tv\/shows\/amhq","target":"_self","icon":"","asset_id":"48977ae8-2d77-43dd-8059-bdacdfa448b5","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/AMHQ_7Days_980x551_1.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"\u0022Wake Up With Al,\u0022 Mornings @ 5AM ET ","link_url":"\/tv\/shows\/wake-up-with-al","target":"_self","icon":"","asset_id":"033f606d-aff0-4869-815e-3d767fb38e66","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/wuwa_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"\u0022Tornado Alley,\u0022 Mondays @ 10P","link_url":"\/tv\/shows\/tornado-alley\/news\/tornado-alley-season-two-premiere","target":"_self","icon":"","asset_id":"6ce7e124-38dd-4618-a9af-2b7ae65043fe","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/TALOGO_0.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]},{"title":"Hurricanes","link_url":"\/storms\/hurricane","target":"_self","left":[{"title":"Hurricane Central","link_url":"\/storms\/hurricane","target":"_self"},{"title":"Hurricane Videos","link_url":"\/storms\/hurricane\/video\/why-has-hurricane-season-been-so-quiet","target":"_self"},{"title":"Hurricane Safety","link_url":"\/safety\/hurricane","target":"_self"}],"right":[{"title":"Flood Threat From Bill Continues","link_url":"\/storms\/hurricane\/news\/tropical-storm-bill-flooding-heavy-rain-threat","target":"_self","icon":"","asset_id":"a5e460d9-8002-4b7a-b49a-2de373142e63","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/bill-vis-18jun15-1pET.png?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Bill: Latest News and Impacts","link_url":"\/storms\/hurricane\/news\/tropical-storm-bill-impacts","target":"_self","icon":"","asset_id":"2b827f35-ae76-4e74-a2d4-cf1983606965","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/HurricaneBill029.JPG?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"Hurricane Carlos Recap","link_url":"\/storms\/hurricane\/news\/tropical-storm-hurricane-carlos-mexico-june2015","target":"_self","icon":"","asset_id":"e2ad893f-e055-44bb-a00f-c7f022b0d8be","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/carlos-recap.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},{"title":"2015 Hurricane Season Outlook","link_url":"\/storms\/hurricane\/news\/hurricane-season-forecast-atlantic-2015-noaa-weather-channel-csu","target":"_self","icon":"","asset_id":"1a727707-5277-4e53-9658-e01dce955c59","src":"http:\/\/dsx.weather.com\/\/util\/image\/w\/hur-season-forecasts.jpg?v=at\u0026w=155\u0026h=114\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"}]}],"module_version":"1.0.34"},"3d531e8a-a46b-46d9-aac0-08f91b5752c9":{"module_id":"DL","page_notification_message":"We\u0027re sorry, you\u0027re using a browser that is no longer supported. Please \u003Ca href=\u0022http:\/\/browsehappy.com\/\u0022 target=\u0022_blank\u0022\u003Eupgrade your browser\u003C\/a\u003E to improve your experience.","page_notification_alert_classname":"alert-warning","page_notification_persist":0,"page_notification_condition_classname":"lt-ie9","page_notification_condition_element":"html","module_version":"1.0.0"},"0e7cb267-efce-43f5-992d-ff2fc462cc9e":{"module_id":"header-saved-locations","module_version":"1.0.36"},"cc8941bf-7c89-467a-84fe-22422798b491":{"place_holder":"Search City, Zip, or Place (Disney World)","loc_type":{"1":"1","5":"5","9":"9","11":"11","13":"13","19":"19"},"module_id":"hdr","minChar":"3","suppress_recent_searches":"false","module_version":"1.0.21"},"7503f6f0-b3ac-492a-89d5-ac20a49c5462":{"module_id":"social_sharing","providers":{"facebook":"facebook","twitter":"twitter","googleplus":"googleplus","reddit":"reddit","pinterest":"pinterest","email":"email","qq":0,"sina":0},"position":"auto","module_version":"1.4.19"},"d65cf5d0-8e39-4f2f-95cc-45efa8058968":{"title":"{{pageLocName}} Weather","module_version":"1.0.8"},"682e809e-db57-47b4-8e9b-5d5d82041865":{"twclocation":"%loc","locID":"","module_id":"alertBanner","showPollen":1,"module_version":"1.0.9"},"55779295-3446-4a91-b476-5226ffad7be6":{"twclocation":"loc","module_id":"current-conditions","module_version":"1.0.21"},"e24a23e3-e4e3-43b2-9baa-44ef62667e8a":{"params":{"module_id":"inPageNav","theme":"dark","menuLinks":"5b785eab-4517-465f-8ab4-d8303c6f01f3","show_dropDown":1,"dropdown_title":"More Forecasts","dropdownMenu_links":"f4e78ef3-0a19-4757-acbf-8b7e1de5badf","show_dropDown2":1,"dropdownMenu_links2":"3d2f95b0-6671-49e2-98bf-b9c78d2d004f","tzOffsetOverrride":""},"menuLinks":{"menu_header_title":null,"linklist_title":{"value":"Local Suite Nav","format":null,"safe_value":"Local Suite Nav"},"links":[{"link_title":"Today","link_image":null,"link_tool_tip":null,"link_type":null,"link_url":"\/weather\/today\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-06-25 18:30:00","value2":"2014-06-25 18:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Hourly","link_image":null,"link_tool_tip":null,"link_type":null,"link_url":"\/weather\/hourbyhour\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-04-15 20:30:00","value2":"2014-04-15 20:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"5 Day","link_image":null,"link_tool_tip":null,"link_type":"default","link_url":"\/weather\/5day\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-01-23 03:15:00","value2":"2014-01-23 03:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"10 Day","link_image":null,"link_tool_tip":null,"link_type":"default","link_url":"\/weather\/tenday\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-01-23 03:15:00","value2":"2014-01-23 03:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"4th of July","link_image":null,"link_tool_tip":null,"link_type":null,"link_url":"\/weather\/holiday\/4th-of-july\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2015-06-25 16:45:00","value2":"2015-07-03 23:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Weekend","link_image":null,"link_tool_tip":null,"link_type":null,"link_url":"\/weather\/weekend\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-04-15 20:30:00","value2":"2014-04-15 20:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Maps","link_image":null,"link_tool_tip":null,"link_type":null,"link_url":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-06-25 18:45:00","value2":"2014-06-25 18:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Monthly","link_image":null,"link_tool_tip":"Monthly","link_type":null,"link_url":"\/weather\/monthly\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2015-01-13 17:15:00","value2":"2015-01-13 17:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false}]},"dropdownLinks1":{"menu_header_title":{"value":"HISTORICAL WEATHER","format":null,"safe_value":"HISTORICAL WEATHER"},"linklist_title":{"value":"Local Suite Nav Dropdown","format":null,"safe_value":"Local Suite Nav Dropdown"},"links":[{"link_title":"Yesterday","link_image":"http:\/\/s.w-x.co\/weather_underground_icon_1.png","link_tool_tip":null,"link_type":"default","link_url":"http:\/\/www.wunderground.com\/monthlyweather\/?monthlydata=yesterday\u0026locid={{dynamicLocId}}","link_visible_between":{"value":"2014-06-04 03:15:00","value2":"2014-06-04 03:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":true}]},"dropdownLinks2":{"menu_header_title":{"value":"Specialty Forecasts","format":null,"safe_value":"Specialty Forecasts"},"linklist_title":{"value":"Local Suite Nav Dropdown 1","format":null,"safe_value":"Local Suite Nav Dropdown 1"},"links":[{"link_title":"NEW Allergy Tracker","link_image":null,"link_tool_tip":"Haircast","link_type":"default","link_url":"\/forecast\/allergy\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-09-24 18:45:00","value2":"2014-09-24 18:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Pollen Forecast","link_image":null,"link_tool_tip":"Pollen Forecast","link_type":null,"link_url":"\/forecast\/pollen\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2015-02-27 17:30:00","value2":"2015-02-27 17:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Farming","link_image":null,"link_tool_tip":"Farming Forecast","link_type":"default","link_url":"\/forecast\/agriculture\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-07-17 17:45:00","value2":"2014-07-17 17:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Fishing","link_image":null,"link_tool_tip":"Fishing Forecast","link_type":"default","link_url":"\/forecast\/fishing\/l\/{{dynamicLocId}}","link_visible_between":{"value":"2014-09-24 17:45:00","value2":"2014-09-24 17:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Flu Reports","link_image":null,"link_tool_tip":null,"link_type":"default","link_url":"\/health\/cold-flu\/state\/{{dynamiclocation.stCd}}","link_visible_between":{"value":"2014-09-24 20:00:00","value2":"2014-09-24 20:00:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false}]},"module_version":"1.0.2"},"f5e32f64-da8c-4590-82f8-08483cc40a98":{"ignore_processing":0,"limit":"4","module_id":"topStories1","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"2","template_config_available":0,"query_method":"cm_queryset","content_media_queryset":"101","query_count":6,"queries":[{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/i.imwx.com\/images\/maps\/truvu\/map_specnewsdct-119_ltst_4namus_enus_320x180.jpg","link_url":"\/storms\/hurricane\/news\/hurricane-tropical-storm-guillermo-pacific-hawaii","title":"Impacts Uncertain, But Hawaii Is In The Cone","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/s.w-x.co\/dolphin_6.jpg","link_url":"\/series\/crazimals\/video\/dolphin-head-butts-swimmer-in-ireland?pl=pl-editor-picks","title":"The Dolphin Video We Can\u0027t Stop Watching ","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/s.w-x.co\/python2_0.jpg","link_url":"\/science\/nature\/news\/giant-python-captured-florida","title":"Florida Has Thousands Of Them","options":{"new_tab":0,"nofollow":0,"icon":"image","attribution":"","waitFlag":false}}},{"options":{"query_type":"cms_query"},"cms_query":{"country":{"enabled":0,"other":"","source":"page"},"dma":{"enabled":"1","other":"","source":"page"},"gpr":{"enabled":0,"other":"","source":"page"},"region":{"enabled":0,"other":"","source":"page_4"},"state":{"enabled":0,"other":"","source":"page"},"primary_collection":"","keyword":"affiliateoverride","limit":"1","start_index":0,"type":{"video":"video"},"sort_param":"sort_publishdate","use_teaser_title":"0","show_provider":"1"}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/s.w-x.co\/voyager_0.jpg","link_url":"\/series\/warp\/video\/voyagers-golden-record-for-aliens-now-available-on-soundcloud","title":"Could This Be Our First Contact?","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"cms_query"},"cms_query":{"country":{"enabled":0,"other":"","source":"page"},"dma":{"enabled":"1","other":"","source":"page"},"gpr":{"enabled":0,"other":"","source":"page"},"region":{"enabled":0,"other":"","source":"page_4"},"state":{"enabled":0,"other":"","source":"page"},"primary_collection":"","keyword":"affiliatevideo","limit":"1","start_index":0,"type":{"video":"video"},"sort_param":"sort_recent","use_teaser_title":"0","show_provider":"1"}}],"disable_lazyload":1,"module_version":"2.1.67"},"23edbeaf-45cf-4921-be71-9a37a5fc5999":{"ignore_processing":0,"limit":"4","module_id":"topStories2","include_ad":1,"selectedadpos":"WX_SponsoredStories","ad_index":"2","template_config_available":0,"query_method":"cm_queryset","content_media_queryset":"106","query_count":6,"queries":[{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1413935.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","link_url":"\/series\/crazimals\/video\/swallows-no-match-for-this-baby-elephant","title":"The Cutest Thing You\u0027ll See All Day","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1365113.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","link_url":"\/tv\/shows\/wake-up-with-al\/video\/two-guys-dont-know-how-to-play-frisbee-in-bosnian?pl=pl-editor-picks","title":"These Guys Have No Idea What They\u0027re Doing ","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/dsx.weather.com\/\/util\/image\/w\/980-solar-flare-3.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","link_url":"\/science\/space\/news\/solar-storm-1859-less-than-day-to-prepare-global-disruption-impact","title":"Earth Might Have Only a Few Hours\u0027 Warning","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"cms_query"},"cms_query":{"country":{"enabled":0,"other":"","source":"page"},"dma":{"enabled":"1","other":"","source":"page"},"gpr":{"enabled":0,"other":"","source":"page"},"region":{"enabled":0,"other":"","source":"page_4"},"state":{"enabled":0,"other":"","source":"page"},"primary_collection":"","keyword":"affiliatevideo","limit":"1","start_index":0,"type":{"video":"video"},"sort_param":"sort_publishdate","use_teaser_title":"0","show_provider":"1"}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/dsx.weather.com\/\/util\/image\/w\/007twcwhitepines.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","link_url":"\/travel\/news\/abandoned-hotels-and-resorts-photos-20140219","title":"No One Came, and Now They\u0027re Abandoned ","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"cms_query"},"cms_query":{"country":{"enabled":0,"other":"","source":"page"},"dma":{"enabled":"1","other":"","source":"page"},"gpr":{"enabled":0,"other":"","source":"page"},"region":{"enabled":0,"other":"","source":"page_4"},"state":{"enabled":0,"other":"","source":"page"},"primary_collection":"","keyword":"affiliateoverride","limit":"1","start_index":0,"type":{"video":"video"},"sort_param":"sort_recent","use_teaser_title":"0","show_provider":"1"}}],"disable_lazyload":1,"module_version":"2.1.67"},"c9d1f8af-05cc-4048-93fc-6357a2ee6d28":{"module_id":"localMap","startDayIdx":"0","endDayIdx":"0","daysOfWeek":"","module_version":"1.0.48"},"118b600d-66e6-4d2e-bd11-dee43e843eab":{"twclocation":"loc","module_id":"next-6-hours","module_version":"1.0.8"},"cd758a2b-cc88-47ab-b930-5d955ea6d8f2":{"selectedadpos":["WX_DriverUnit"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"7822f328-318f-4129-9a11-1b74c83ae15b":{"twclocation":"loc","module_id":"farming_almanac","module_version":"1.0.5"},"d32aebc8-2a0f-4e48-9146-22f02eeb9818":{"twclocation":"loc","module_id":"sun_moon","locID":"","deepVert":"generic","module_version":"1.0.17"},"6299c862-a6ec-41e3-8ccb-5060ed497d22":{"ignore_processing":1,"limit":"5","module_id":"localVideo","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"0","template_config":{"header":"Latest Weather \u0026 News","see_more_text":"","see_more_link":"","subtitle":""},"query_method":"cm_manual","content_media_queryset":"","query_count":"1","queries":[{"cms_query":{"type":{"image":"image"},"start_index":"","limit":"","sort_param":"sort_recent","primary_collection":"","keyword":"","dma":{"enabled":0,"source":"page","other":""},"region":{"enabled":0,"source":"page_4","other":""},"gpr":{"enabled":0,"source":"page","other":""},"state":{"enabled":0,"source":"page","other":""},"country":{"enabled":0,"source":"page","other":""}},"options":{"query_type":"cms_query","waitFlag":false}}],"module_version":"2.1.67"},"eb9150ce-9654-4ecd-b24b-c85917cd4182":{"ignore_processing":0,"limit":"5","module_id":"topPicks","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"0","template_config":{"header":"Top Picks","see_more_text":"","see_more_link":"","subtitle":""},"query_method":"cm_queryset","content_media_queryset":"26","query_count":5,"queries":[{"options":{"query_type":"linker"},"linker":{"description":"Find out how to get out of a hydroplane or fishtail.","variants":{"10":"http:\/\/dsx.weather.com\/\/util\/image\/w\/ThinkstockPhotos122582413.jpg?v=at\u0026w=650\u0026h=356\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","9":"http:\/\/dsx.weather.com\/\/util\/image\/w\/ThinkstockPhotos122582413.jpg?v=at\u0026w=485\u0026h=273\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","8":"http:\/\/dsx.weather.com\/\/util\/image\/w\/ThinkstockPhotos122582413.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","4":"http:\/\/dsx.weather.com\/\/util\/image\/w\/ThinkstockPhotos122582413.jpg?v=at\u0026w=85\u0026h=64\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},"link_url":"\/safety\/auto\/news\/extreme-weather-driving-quiz","title":"What Would You Do NEXT?","options":{"new_tab":0,"nofollow":0,"icon":"","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"If you\u0027re a photographer, you\u0027ll want to do this. ","image_url":"http:\/\/dsx.weather.com\/util\/image\/w\/photocontestTOPPICKS.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","link_url":"\/photos\/contest","title":"It\u0027s Amazing Out There -- Here Are Photos to Prove It","options":{"new_tab":0,"nofollow":0,"icon":"image","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"When severe weather hits, people aren\u0027t the only ones in need of rescue. ","variants":{"10":"http:\/\/dsx.weather.com\/\/util\/image\/w\/animalrescueprimary02.jpg?v=at\u0026w=650\u0026h=356\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","9":"http:\/\/dsx.weather.com\/\/util\/image\/w\/animalrescueprimary02.jpg?v=at\u0026w=485\u0026h=273\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","8":"http:\/\/dsx.weather.com\/\/util\/image\/w\/animalrescueprimary02.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","4":"http:\/\/dsx.weather.com\/\/util\/image\/w\/animalrescueprimary02.jpg?v=at\u0026w=85\u0026h=64\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},"link_url":"\/tv\/shows\/responding-by-storm\/news\/best-animal-rescues","title":"She\u0027s Lucky They Found Her","options":{"new_tab":0,"nofollow":0,"icon":"","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"Check out Meteorologist Ari Sarsalari who is having a little fun with dry ice outside of The Weather Channel headquarters. ","variants":{"10":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1394149.jpg?v=at\u0026w=650\u0026h=356\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","9":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1394149.jpg?v=at\u0026w=485\u0026h=273\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","8":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1394149.jpg?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","4":"http:\/\/dsx.weather.com\/\/util\/image\/v\/D-1394149.jpg?v=at\u0026w=85\u0026h=64\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},"link_url":"\/tv\/shows\/three-scientists-walk-into-a-bar\/video\/what-dry-ice-and-coins-can-do","title":"Don\u0027t Try This At Home","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"Allergy season got off to a slow start, but the pollen has officially arrived.","variants":{"10":"http:\/\/dsx.weather.com\/\/util\/image\/w\/04spring-allergy-cities-15.JPG?v=at\u0026w=650\u0026h=356\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","9":"http:\/\/dsx.weather.com\/\/util\/image\/w\/04spring-allergy-cities-15.JPG?v=at\u0026w=485\u0026h=273\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","8":"http:\/\/dsx.weather.com\/\/util\/image\/w\/04spring-allergy-cities-15.JPG?v=at\u0026w=320\u0026h=180\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0","4":"http:\/\/dsx.weather.com\/\/util\/image\/w\/04spring-allergy-cities-15.JPG?v=at\u0026w=85\u0026h=64\u0026api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"},"link_url":"\/health\/news\/worst-spring-allergy-cities","title":"Hate Allergies? Don\u0027t Go Here","options":{"new_tab":0,"nofollow":0,"icon":"","attribution":"","waitFlag":false}}}],"module_version":"2.1.67"},"8ef587f5-0dd7-4927-83b1-bed946eee40c":{"module_id":"deliveryUnit","hpdu":[{"link_title":"Commuter Forecast ","link_image":"http:\/\/s.w-x.co\/commuter-cast-1.png","link_tool_tip":"Commuter Forecast ","link_no_follow":"0","link_new_tab":"0","link_type":"default","link_url":"\/forecast\/commuter","link_description":"Now with future start time to help plan your trip","link_visible_between":{"value":"2014-10-27 11:15:00","value2":"2014-10-27 11:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_CommuterFcstSpotlight"},{"link_title":"Driving Hazards","link_image":"http:\/\/s.w-x.co\/ddi-optimized.jpg","link_tool_tip":"Driving Hazards","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/forecast\/commuter?layers=driving","link_description":"See dangerous road conditions near you","link_visible_between":{"value":"2014-10-01 18:15:00","value2":"2014-10-01 18:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_DDISpotlight"},{"link_title":"Farming Forecast","link_image":"http:\/\/s.w-x.co\/farming-optimized.jpg","link_tool_tip":"Farmers\u0027 Forecast","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/forecast\/agriculture\/l\/{{dynamicLocId}}","link_description":"Get your daily and seasonal outlooks","link_visible_between":{"value":"2014-10-09 18:30:00","value2":"2014-10-09 18:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_FarmingSpotlight"},{"link_title":"Responding By Storm","link_image":"http:\/\/s.w-x.co\/responding-optimized.jpg","link_tool_tip":"Responding By Storm","link_no_follow":"0","link_new_tab":"0","link_type":"image","link_url":"\/tv\/shows\/responding-by-storm\/","link_description":"Follow the first response team","link_visible_between":{"value":"2014-10-01 18:30:00","value2":"2014-10-01 18:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_StormRespondSpotlight"},{"link_title":"Safety \u0026 Preparedness","link_image":"http:\/\/s.w-x.co\/safety-prep-spring-optimized.jpg","link_tool_tip":"Safety \u0026 Preparedness","link_no_follow":"0","link_new_tab":"0","link_type":"image","link_url":"\/safety\/before","link_description":"Are you ready for the next storm?","link_visible_between":{"value":"2014-10-01 18:30:00","value2":"2014-10-01 18:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_WeatherReadySpotlight"},{"link_title":"Disney Theme Parks","link_image":"http:\/\/s.w-x.co\/disney-walt-disney-then-now-optimized.jpg","link_tool_tip":"Disney Theme Parks","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/travel\/disney","link_description":"Experience amazing family adventures at Disney","link_visible_between":{"value":"2014-10-09 18:45:00","value2":"2014-10-09 18:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Official Gear","link_image":"http:\/\/s.w-x.co\/ll-bean-optimized.jpg","link_tool_tip":"Official Gear","link_no_follow":"0","link_new_tab":"1","link_type":"image","link_url":"http:\/\/www.llbean.com\/outdoorsOnline\/weatherChannel\/index.html","link_description":"Protecting our experts who predict weather","link_visible_between":{"value":"2014-10-01 17:00:00","value2":"2014-10-01 17:00:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":true,"selectedadpos":"WX_CobrandSpotlight"},{"link_title":"NEW Allergy Tracker","link_image":"http:\/\/s.w-x.co\/allergy-tracker-girl-dog-graphic.jpg","link_tool_tip":"New Allergy Tracker","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/forecast\/allergy\/l\/{{dynamicLocId}}","link_description":"See what\u0027s impacting your allergies today","link_visible_between":{"value":"2015-02-01 17:15:00","value2":"2015-02-01 17:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_AllergyTrackerSpotlight"},{"link_title":"Pollen Forecast","link_image":"http:\/\/s.w-x.co\/pollen-forecast-optimized.jpg","link_tool_tip":"Pollen Forecast","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/forecast\/pollen\/l\/{{dynamicLocId}}","link_description":"See your current pollen outlook and historical trends","link_visible_between":{"value":"2015-02-01 13:15:00","value2":"2015-02-01 13:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_PollenCastSpotlight"},{"link_title":"Weather Ventures","link_image":"http:\/\/s.w-x.co\/wx-ventures-spring-optimized.jpg","link_tool_tip":"Weather Ventures","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/sports-recreation\/weather-ventures","link_description":"Get inspired by amazing outdoor adventures","link_visible_between":{"value":"2015-03-01 11:30:00","value2":"2015-03-01 11:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_WeatherVenturesSpotlight"},{"link_title":"Activate Weather Alerts","link_image":"http:\/\/s.w-x.co\/UP-login-sign-up-v1.jpg","link_tool_tip":"Activate Weather Alerts","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"http:\/\/profile.weather.com\/","link_description":"Customize your weather experience","link_visible_between":{"value":"2015-04-01 14:00:00","value2":"2015-04-01 14:00:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"Road Ready","link_image":"http:\/\/s.w-x.co\/road-ready-275x250.jpg","link_tool_tip":null,"link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/safety\/auto","link_description":"How to stay safe when driving in inclement weather","link_visible_between":{"value":"2015-04-01 13:15:00","value2":"2015-04-01 13:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false,"selectedadpos":"WX_WeatherReadyAutoSpotlight"},{"link_title":"Ask Sam","link_image":"http:\/\/s.w-x.co\/AskSam_TWCPromotion_WithSam_270x250.jpg","link_tool_tip":"Ask Sam","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/asksamc","link_description":"Sam Champion Answers YOUR Questions LIVE at 10AM #asksamc","link_visible_between":{"value":"2015-06-10 07:00:00","value2":"2015-06-10 10:30:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"It\u0027s Amazing Out There 2015 Photo Contest","link_image":"http:\/\/s.w-x.co\/2015-toyota-photo-contest-delivery-unit.jpg","link_tool_tip":"It\u0027s Amazing Out There 2015 Photo Contest","link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/photos\/contest","link_description":"Vote for your favorite photo!","link_visible_between":{"value":"2015-06-01 16:45:00","value2":"2015-08-14 11:45:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false},{"link_title":"New Maps","link_image":"http:\/\/s.w-x.co\/production-250x275-HP-Promo-Maps-4.png","link_tool_tip":null,"link_no_follow":"0","link_new_tab":"0","link_type":null,"link_url":"\/maps\/usdopplerradar","link_description":"Check out updated Classic Maps including World Maps, Health Maps, and more","link_visible_between":{"value":"2015-07-29 11:15:00","value2":"2015-09-30 11:15:00","timezone":"America\/New_York","timezone_db":"America\/New_York","date_type":"datetime"},"open_link_new_tab":false}],"module_version":"1.0.15"},"cfad4067-c1c0-42e8-83aa-eae35f659ea7":{"ignore_processing":0,"limit":"5","module_id":"photos","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"0","template_config_available":1,"template_config":{"header":"Photos","see_more_text":"","see_more_link":"\/slideshows","subtitle":""},"query_method":"cm_manual","content_media_queryset":"","query_count":"1","queries":[{"cms_query":{"type":{"article":"article"},"start_index":"","limit":"","sort_param":"sort_recent","show_provider":0,"use_teaser_title":0,"primary_collection":"","keyword":"photos","dma":{"enabled":0,"source":"page","other":""},"region":{"enabled":0,"source":"page_4","other":""},"gpr":{"enabled":0,"source":"page","other":""},"state":{"enabled":0,"source":"page","other":""},"country":{"enabled":0,"source":"page","other":""}},"options":{"query_type":"cms_query","waitFlag":false}}],"module_version":"2.1.67"},"c412f38b-f9ad-4a72-a3b4-e53e381c7084":{"module_id":"seo-links","subnav1":"e1a1abc7-6d2a-43fe-a1b0-2ba1adcae339","subnav2":"3694d9f4-af61-4f23-b1bf-d5512c180ea2","module_version":"1.0.7"},"99ed2a59-4bed-4681-a6d6-bf827569073b":{"module_id":"footer","imapsFooter":0,"locID":"","footer_social":"6c62d050-5307-4338-946a-1864f2db90a8","footer_company":"d91e49ea-0e6e-47f2-9d51-048d0cce2945","footer_explore":"39f75148-bcb2-4332-a218-264726e676b0","footer_legal":"d7807947-6dba-4175-b161-89c62294cc2a","module_version":"1.0.26"},"0395dc8c-cb81-462e-a8b9-dabc6b52009f":{"selectedadpos":["WX_Hidden"],"refresh":0,"adtype":"default","module_version":"1.0.4"},"b8857f69-a5d9-415a-9df8-abc7c5917ed2":{"selectedadpos":["WX_WindowShade"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"b22b5a16-53f3-493d-a0b2-052633a022ae":{"module_id":"cobrand_headers","locID":"","module_version":"1.0.4"},"e396e991-1175-4ad3-8c74-9e3a18fbec7b":{"module_version":"1.0.9"},"ac49560a-8441-4e1a-89e0-a0094cd87010":{"content_well":"\u003Cscript\u003E\nif (window.explicit_location){\n\tvar elem=document.querySelector(\u0027[rel=\u0022canonical\u0022]\u0027);\n\tif (!elem){\n\t\telem=document.getElementsByTagName(\u0027head\u0027)[0];\n\t}\n\tvar hreflangtags={\n\t\u0022x-default\u0022: \u0022http:\/\/www.weather.com\/weather\/today\/l\/\u0022,\n\t\u0022en_GB\u0022:\u0022http:\/\/uk.weather.com\/weather\/today\/\u0022,\n\t\u0022en_IN\u0022:\u0022http:\/\/in.weather.com\/weather\/today\/\u0022,\n\t\u0022es\u0022:\u0022http:\/\/espanol.weather.com\/weather\/today\/\u0022,\n\t\u0022ar_AE\u0022:\u0022http:\/\/ar.weather.com\/%D8%AD%D8%A7%D9%84%D8%A7%D9%8B\/\u0022,\n\t\u0022ca_ES\u0022:\u0022http:\/\/ca.weather.com\/ara_mateix\/\u0022,\n\t\u0022cs_CZ\u0022:\u0022http:\/\/cs.weather.com\/pr%C3%A1v%C4%9B_te%C4%8F\/\u0022,\n\t\u0022da_DK\u0022:\u0022http:\/\/da.weather.com\/lige_nu\/\u0022,\n\t\u0022de_DE\u0022:\u0022http:\/\/de.weather.com\/aktuelle_Lage\/\u0022,\n\t\u0022el_GR\u0022:\u0022http:\/\/el.weather.com\/%CF%84%CF%8E%CF%81%CE%B1\/\u0022,\n\t\u0022fa_IR\u0022:\u0022http:\/\/fa.weather.com\/%D9%87%D9%85%DB%8C%D9%86%E2%80%8C%D8%AD%D8%A7%D9%84%D8%A7\/\u0022,\n\t\u0022fi_FI\u0022:\u0022http:\/\/fi.weather.com\/juuri_nyt\/\u0022,\n\t\u0022fr\u0022:\u0022http:\/\/fr.weather.com\/conditions_actuelles\/\u0022,\n\t\u0022hi_IN\u0022:\u0022http:\/\/hi.weather.com\/%E0%A4%85%E0%A4%AD%E0%A5%80\/\u0022,\n\t\u0022hr_HR\u0022:\u0022http:\/\/hr.weather.com\/trenuta%C4%8Dno\/\u0022,\n\t\u0022hu_HU\u0022:\u0022http:\/\/hu.weather.com\/%C3%A9ppen_most\/\u0022,\n\t\u0022in_ID\u0022:\u0022http:\/\/id.weather.com\/saat_ini\/\u0022,\n\t\u0022he\u0022:\u0022http:\/\/he.weather.com\/%D7%9B%D7%A2%D7%AA\/\u0022,\n\t\u0022ja_JP\u0022:\u0022http:\/\/ja.weather.com\/%E7%8F%BE_%E5%9C%A8\/\u0022,\n\t\u0022ko\u0022:\u0022http:\/\/ko.weather.com\/%EC%A7%80%EA%B8%88_%ED%98%84%EC%9E%AC\/\u0022,\n\t\u0022ms_MY\u0022:\u0022http:\/\/ms.weather.com\/sekarang\/\u0022,\n\t\u0022nl_NL\u0022:\u0022http:\/\/nl.weather.com\/op_dit_moment\/\u0022,\n\t\u0022no_NO\u0022:\u0022http:\/\/no.weather.com\/akkurat_n%C3%A5\/\u0022,\n\t\u0022pl_PL\u0022:\u0022http:\/\/pl.weather.com\/w_tej_chwili\/\u0022,\n\t\u0022pt_BR\u0022:\u0022http:\/\/br.weather.com\/agora\/\u0022,\n\t\u0022pt_PT\u0022:\u0022http:\/\/pt.weather.com\/agora\/\u0022,\n\t\u0022ro_RO\u0022:\u0022http:\/\/ro.weather.com\/chiar_acum\/\u0022,\n\t\u0022ru_RU\u0022:\u0022http:\/\/ru.weather.com\/%D0%BF%D1%80%D1%8F%D0%BC%D0%BE_%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81\/\u0022,\n\t\u0022sk_SK\u0022:\u0022http:\/\/sk.weather.com\/pr%C3%A1ve_teraz\/\u0022,\n\t\u0022sv_SE\u0022:\u0022http:\/\/sv.weather.com\/just_nu\/\u0022,\n\t\u0022th_TH\u0022:\u0022http:\/\/th.weather.com\/%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B9%89\/\u0022,\n\t\u0022tr_TR\u0022:\u0022http:\/\/tr.weather.com\/%C5%9Fimdi\/\u0022,\n\t\u0022uk_UA\u0022:\u0022http:\/\/ukr.weather.com\/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE_%D0%B7%D0%B0%D1%80%D0%B0%D0%B7\/\u0022,\n\t\u0022vi_VN\u0022:\u0022http:\/\/vi.weather.com\/ngay_l%C3%BAcn%C3%A0y\/\u0022,\n\t\u0022zh_CN\u0022:\u0022http:\/\/zh.weather.com\/%E5%8D%B3_%E6%97%B6\/\u0022,\n\t\u0022zh_HK\u0022:\u0022http:\/\/zhhk.weather.com\/%E7%8F%BE%E5%9C%A8\/\u0022,\n\t\u0022zh_TW\u0022:\u0022http:\/\/zhtw.weather.com\/%E7%AB%8B%E5%8D%B3\/\u0022\n\t};\n\t\n\tfor (tag in hreflangtags) {\n\t\t   var linkEle=document.createElement(\u0022link\u0022);\n\t\t   linkEle.setAttribute(\u0022hreflang\u0022, tag);\n\t\t   linkEle.setAttribute(\u0022href\u0022, hreflangtags[tag] + window.explicit_location);\n\t\t   linkEle.setAttribute(\u0022rel\u0022, \u0022alternate\u0022);\n\t\t   elem.parentNode.appendChild(linkEle);\n\t\t   \n\t}\nvar androidDeepLink=document.createElement(\u0022link\u0022);\nvar hrefLink=\u0022android-app:\/\/com.weather.Weather\/weather\/tendayDetail\/\u0022 + window.explicit_location;\nandroidDeepLink.setAttribute(\u0022rel\u0022, \u0022alternate\u0022);\nandroidDeepLink.setAttribute(\u0022href\u0022, hrefLink);\nelem.parentNode.appendChild(androidDeepLink);\n}\n\u003C\/script\u003E","module_version":"1.0.7"},"205b30be-775f-45bb-93b4-ca73e6893912":{"twclocation":"loc","module_id":"americas_best_communities","clickthrough":"http:\/\/www.americasbestcommunities.com\/","module_version":"1.0.4"},"95a0e006-c56b-4816-b902-7f576e211eec":{"selectedadpos":["WX_Top300Variable"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"20ff8b22-e6ba-4adc-a4b5-f5f0d04cc2ac":{"module_id":"nearby_locs","numItems":"4","locType":"4","showWeatherData":"true","zoomLevel":"6","targetUrl":"\/weather\/today\/l\/","headline":"Weather Around the Area","moreLinkText":"Temperature Map","moreLinkUrl":"\/weather\/map\/interactive\/l\/{{dynamicLocId}}?layers=0090,0120\u0026zoom=10","module_version":"1.0.2"},"4915ba21-7d8c-492a-a6d1-4b29852aa97a":{"selectedadpos":["WX_Mid300"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"b657c846-e361-4334-8b47-66b3b59c5c19":{"title":"Recommended for You","paid_first":1,"placement_org":"Today Right Rail Thumbnail Org","placement_paid":"Today Right Rail Thumbnail Paid","module_version":"1.0.17"},"bc963847-8fc2-4413-827c-516d1f0674fb":{"selectedadpos":["WX_PaidSearch"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"e2bf2611-832c-45ee-9539-75b5446527d2":{"module_id":"mostPopular","module_title":"Most Popular","module_title_url":"","asset_list":"most-popular-articles-and-videos","image_promotion":0,"total_results":"5","module_version":"1.0.18"},"e2f9b99f-9cc4-40f3-b826-99e6e1aa770e":{"ignore_processing":0,"limit":"4","module_id":"ourFavorite","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"0","template_config_available":1,"template_config":{"header":"Our Favorite Things","see_more_text":"","see_more_link":"","subtitle":""},"query_method":"cm_queryset","content_media_queryset":"151","query_count":4,"queries":[{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"http:\/\/s.w-x.co\/D-1404152.jpg","link_url":"\/tv\/shows\/amhq\/video\/watch-surfer-go-over-top-of-wave","title":"The Most Epic Wipeout Ever? Watch Surfer Go Over TOP of Wave. ","options":{"new_tab":0,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"","link_url":"https:\/\/www.youtube.com\/watch?v=SYkqDGnx02E","title":"Don\u0027t Ever Get Caught in The Rain Again... ","options":{"new_tab":1,"nofollow":0,"icon":"video","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"","link_url":"\/photos\/contest","title":"Pick Your Favorite Photo! ","options":{"new_tab":0,"nofollow":0,"icon":"image","attribution":"","waitFlag":false}}},{"options":{"query_type":"linker"},"linker":{"description":"","image_url":"","link_url":"\/tv\/the-weather-channel-live\/news\/tv-schedule","title":"What\u0027s On TV Now? ","options":{"new_tab":0,"nofollow":0,"icon":"image","attribution":"","waitFlag":false}}}],"module_version":"2.1.67"},"b3082bd3-6bc6-40fe-9b6c-2560ae389091":{"selectedadpos":["WX_Bot300"],"refresh":0,"adtype":"default","ad_view_beacon":1,"module_version":"1.0.4"},"cf2fc89c-10c9-4b16-9272-2e281e2527d1":{"ignore_processing":0,"limit":"5","module_id":"media","include_ad":0,"selectedadpos":"WX_SponsoredStories","ad_index":"0","template_config_available":1,"template_config":{"header":"Take Us With You","see_more_text":"","see_more_link":"","subtitle":""},"query_method":"cm_manual","content_media_queryset":"","query_count":"3","queries":[{"linker":{"image_url":"http:\/\/s.w-x.co\/320x180_apps_landing_teaser_2.jpg","title":"Always be prepared: Download The Weather Channel app and be prepared no matter the weather","description":"","link_url":"\/apps","options":{"new_tab":0,"nofollow":0,"icon":"none","attribution":""}},"options":{"query_type":"linker","waitFlag":false}},{"linker":{"image_url":"","title":"Sign up for weather alerts","description":"","link_url":"https:\/\/profile.weather.com\/#\/profile\/alerts","options":{"new_tab":0,"nofollow":0,"icon":"none","attribution":""}},"options":{"query_type":"linker","waitFlag":false}},{"linker":{"image_url":"","title":"Save the locations you check most","description":"","link_url":"\/life\/profile","options":{"new_tab":0,"nofollow":0,"icon":"none","attribution":""}},"options":{"query_type":"linker","waitFlag":false}}],"module_version":"2.1.67"}},"modules":{"background_wx_and_video":["8b464c0d-f497-4c26-874c-4980f8849745"],"header_main_menu":["fce541cb-00da-45d8-811b-3fc90db36cd5"],"page_notifications":["3d531e8a-a46b-46d9-aac0-08f91b5752c9"],"header_savedlocations":["0e7cb267-efce-43f5-992d-ff2fc462cc9e"],"search":["cc8941bf-7c89-467a-84fe-22422798b491"],"social_sharing":["7503f6f0-b3ac-492a-89d5-ac20a49c5462"],"title":["d65cf5d0-8e39-4f2f-95cc-45efa8058968"],"local_alert_ticker":["682e809e-db57-47b4-8e9b-5d5d82041865"],"current_conditions":["55779295-3446-4a91-b476-5226ffad7be6"],"local_suite_nav":["e24a23e3-e4e3-43b2-9baa-44ef62667e8a"],"content_media":["f5e32f64-da8c-4590-82f8-08483cc40a98","23edbeaf-45cf-4921-be71-9a37a5fc5999","6299c862-a6ec-41e3-8ccb-5060ed497d22","eb9150ce-9654-4ecd-b24b-c85917cd4182","cfad4067-c1c0-42e8-83aa-eae35f659ea7","e2f9b99f-9cc4-40f3-b826-99e6e1aa770e","cf2fc89c-10c9-4b16-9272-2e281e2527d1"],"unified_map":["c9d1f8af-05cc-4048-93fc-6357a2ee6d28"],"forecast_next_6_hours":["118b600d-66e6-4d2e-bd11-dee43e843eab"],"admodule":["cd758a2b-cc88-47ab-b930-5d955ea6d8f2","0395dc8c-cb81-462e-a8b9-dabc6b52009f","b8857f69-a5d9-415a-9df8-abc7c5917ed2","95a0e006-c56b-4816-b902-7f576e211eec","4915ba21-7d8c-492a-a6d1-4b29852aa97a","bc963847-8fc2-4413-827c-516d1f0674fb","b3082bd3-6bc6-40fe-9b6c-2560ae389091"],"farming_almanac":["7822f328-318f-4129-9a11-1b74c83ae15b"],"sun_moon":["d32aebc8-2a0f-4e48-9146-22f02eeb9818"],"delivery_units":["8ef587f5-0dd7-4927-83b1-bed946eee40c"],"seo_links":["c412f38b-f9ad-4a72-a3b4-e53e381c7084"],"footer":["99ed2a59-4bed-4681-a6d6-bf827569073b"],"cobrand_headers":["b22b5a16-53f3-493d-a0b2-052633a022ae"],"breaking_now":["e396e991-1175-4ad3-8c74-9e3a18fbec7b"],"wxnode_opencontent_well":["ac49560a-8441-4e1a-89e0-a0094cd87010"],"americas_best_communities":["205b30be-775f-45bb-93b4-ca73e6893912"],"nearby_locs":["20ff8b22-e6ba-4adc-a4b5-f5f0d04cc2ac"],"taboola_module":["b657c846-e361-4334-8b47-66b3b59c5c19"],"most_popular":["e2bf2611-832c-45ee-9539-75b5446527d2"]},"files":{"social_sharing":{"sites\/all\/modules\/custom\/angularmods\/modules\/social_sharing\/social_sharing.controller.js":{"group":7,"weight":12}},"content_media":{"sites\/all\/modules\/custom\/angularmods\/modules\/content_media\/content_media.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/content_media\/content_media.directive.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/content_media\/local_video_integration.controller.js":{"group":7,"weight":12}},"unified_map":{"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/unified_map.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/translations\/unified_map.en_us.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/translations\/unified_map.fr_fr.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/unified_map_current.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/static_maps.directive.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/ginsu_overlay.directive.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/unified_map.value.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/unified_map_type.value.js":{"group":7,"weight":11}},"forecast_next_6_hours":{"sites\/all\/modules\/custom\/angularmods\/modules\/forecast_next_6_hours\/forecast_next_6_hours.controller.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/forecast_next_6_hours\/translations\/forecast_next_6_hours.en_us.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/forecast_next_6_hours\/translations\/forecast_next_6_hours.fr_fr.js":{"group":7,"weight":13}},"farming_almanac":{"sites\/all\/modules\/custom\/angularmods\/modules\/farming_almanac\/farming_almanac.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/farming_almanac\/translations\/farming_almanac.en_us.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/farming_almanac\/translations\/farming_almanac.fr_fr.js":{"group":7,"weight":13}},"sun_moon":{"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/sun_moon.controller.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/sun_moon.directive.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/sun_moon_theme.factory.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/accordion.directive.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/translations\/sun_moon.en_us.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/translations\/sun_moon.fr_fr.js":{"group":7,"weight":13}},"delivery_units":{"sites\/all\/modules\/custom\/angularmods\/modules\/delivery_units\/delivery_units.controller.js":{"group":7,"weight":10},"sites\/all\/modules\/custom\/angularmods\/modules\/delivery_units\/delivery_unit_ad.directive.js":{"group":7,"weight":11}},"seo_links":{"sites\/all\/modules\/custom\/angularmods\/modules\/seo_links\/seo_links.controller.js":{"group":7,"weight":12}},"footer":{"sites\/all\/modules\/custom\/angularmods\/modules\/footer\/footer.controller.js":{"group":7,"weight":11}},"taboola_module":{"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/vendor\/taboola_loader.js":{"group":7,"weight":-15},"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/taboola_module.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/translations\/taboola_module.en_us.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/translations\/taboola_module.fr_fr.js":{"group":7,"weight":13}},"most_popular":{"sites\/all\/modules\/custom\/angularmods\/modules\/most_popular\/most_popular.controller.js":{"group":7,"weight":12},"sites\/all\/modules\/custom\/angularmods\/modules\/most_popular\/translations\/most_popular.en_us.js":{"group":7,"weight":13},"sites\/all\/modules\/custom\/angularmods\/modules\/most_popular\/translations\/most_popular.fr_fr.js":{"group":7,"weight":13}}}},"dsxField":{"baseUrl":"https:\/\/dsx.weather.com","apikey":"7bb1c920-7027-4289-9c96-ae5e263980bc"},"wxnode_slideshow":{"endpoint":"\/wxnode\/ajax\/slideshows"},"angularmods":{"active":["header_main_menu","page_notifications","header_savedlocations","search","social_sharing","title","local_alert_ticker","current_conditions","local_suite_nav","content_media","unified_map","forecast_next_6_hours","farming_almanac","sun_moon","delivery_units","seo_links","footer","cobrand_headers","breaking_now","americas_best_communities","nearby_locs","taboola_module","most_popular"]},"ajaxPageState":{"js":{"sites\/all\/themes\/radix\/js\/jquery.placeholder.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/angular\/angular.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/angular\/angular-touch.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/translate\/angular-translate.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/lab\/lab.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/angular\/i18n\/angular-locale_en.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pf_drupal_translate\/pf_drupal_translate.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ng_sanitize\/..\/..\/..\/assets\/angular\/angular-sanitize.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/shared_module\/shared_module.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/config\/config.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/instance\/instance.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/model\/model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_modal\/twc_modal.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_keypress\/twc_keypress.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/pco.config.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/metrics_control\/metrics_control.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_microdata\/twc_microdata.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_ups_alert\/twc_ups_alert.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/back_button_broadcast\/back_button_broadcast.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/alert_factory\/alert_factory.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/app_config\/app.config.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/xweb.webloc.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/base_search_controller\/base_search_controller.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_typeahead\/twc_typeahead.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_input_error_state\/twc_input_error_state.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_reference\/twc_reference.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/fast_button\/fastbutton\/google.fastbutton.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/fast_button\/fast_button.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/anim\/vendor\/anim_modified\/anim.modified.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_css_anim\/twc_css_anim.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.plrecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/google_map\/google_map.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_constant\/twc_constant.constant.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.pollen.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/primary_pollen_type\/primary_pollen_type.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.idrecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.esrecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/allergy\/allergy.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/location_name\/location_name.filter.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.ncrecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.farmingalmanacrecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/mouse\/mouse.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/inview\/vendor\/jquery.inview\/jquery.inview.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_events\/twc_events.run.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ad_control\/ad_control.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/linker_factory\/linker_factory.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_select_text\/twc_select_text.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_placeholder\/twc_placeholder.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/provider_rules\/provider_rules.value.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/provider_rules\/provider_rules.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_logger\/twc_logger.config.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/track_str\/track_str.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/track_str\/track_str_action_tracker.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/media_asset_factory\/media_asset.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_tooltip\/twc_tooltip.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_logger\/twc_logger.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/q.loc.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.berecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.loc.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.morecord.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/from_str\/from_str.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_ellipsis\/twc_ellipsis.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/filters\/module_filters.filter.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_ellipsis\/vendor\/jquery.dotdotdot.min.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/class\/class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/remove_padding\/remove_padding.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/collections\/collections.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/in_view_beacon\/in_view_beacon.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/pco.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/pco.run.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.user.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.device.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.twclog.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.performance.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.page.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.ad.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.savedLocation.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.profile.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.metrics.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pco\/models\/pco.products.model.class.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/notify\/notify.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/map\/map.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/location_name\/twc_location_name.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/util\/util.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_social_sharing\/twc_social_sharing.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_social_sharing\/twc_social_sharing.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_social_sharing\/twc_social_sharing.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/mobile_header_display_ctr\/mobile_header_display_ctr.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/loc_util\/loc_util.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/right_now\/right_now.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dom_event_origin_verifier\/dom_event_origin_verifier.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/social_links\/social_links.directives.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/page_metatags\/page_metatags.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/mouse_broadcast\/mouse_broadcast.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/custom_event\/custom_event.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/throttled_events\/throttle.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/drupal_settings\/drupal_settings.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/throttled_events\/on_resize.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsx_date\/dsx_date.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.response.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/base.model.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pagecache\/pagecache.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.promise.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.cache.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.config.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/dsxclient.utils.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/promise_pool\/promise_pool.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/httpclient\/httpclient.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsx_date\/dsx_date.config.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/page_notifications\/page_notifications.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.alertsarea.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.alertlocations.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/slide_toggle\/slide_toggle.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/modified_vendor\/idangerous.swiper.modified.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/moon_icon\/moon_icon.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/responsive_menu\/responsive_menu.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ui_modal\/vendor\/ui-bootstrap-modal-tpls-0.12.0.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ui_modal\/ui_modal.init.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ui_modal\/dialog.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ui_tooltip\/ui_tooltip.init.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/ui_tooltip\/vendor\/ui-bootstrap-tooltip-tpls-0.12.0.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.fifteendayforecast.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/wxd.astro.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/cs.datetime.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/astro_icon\/astro_icon.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/delivery_units\/delivery_units.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/cms.breakingnow.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/module_status\/module_status.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wxicon\/wxicon.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wxicon\/wxicon.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/cms.assetlist.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsx_date\/dsx_date.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/error_handler\/error_handler.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/preload\/preload.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/cms.affiliatevideos.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/dsxclient\/models\/v2\/cms.a.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/sqs_beacons\/sqs_beacons.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_main_menu\/header_main_menu.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/page_notifications\/page_notifications.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/page_notifications\/page_notifications.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_savedlocations\/header_savedlocations.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/search\/search.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/search\/translations\/search.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_typeahead\/twc_alias.value.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/social_sharing\/social_sharing.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/title\/title.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/local_alert_ticker\/local_alert_ticker.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/current_conditions\/current_conditions.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/current_conditions\/translations\/current_conditions.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/local_suite.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/wxcard.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/wxcard.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/carousel.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/translations\/local_suite.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/right_now\/translations\/right_now.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/local_suite_nav\/local_suite_nav.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/local_suite_nav\/translations\/local_suite_nav.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/unified_map.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/unified_map\/translations\/unified_map.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pollen_data\/pollen_data.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/pollen_data\/pollen_data.value.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/forecast_next_6_hours\/forecast_next_6_hours.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/forecast_next_6_hours\/translations\/forecast_next_6_hours.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/farming_almanac\/farming_almanac.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/farming_almanac\/translations\/farming_almanac.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/sun_moon.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/sun_moon\/translations\/sun_moon.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/highcharts.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/highcharts-themes.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/translations\/highcharts.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/seo_links\/seo_links.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/seo_links\/translations\/seo_links.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/footer\/footer.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/footer\/translations\/footer.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/cobrand_headers\/cobrand_headers.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/breaking_now\/breaking_now.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/americas_best_communities.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_social_sharing\/translations\/twc_social_sharing.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/americas_best_communities.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/americas_best_communities.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/americas_best_communities.values.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/translations\/americas_best_communities.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/nearby_locs\/nearby_locs.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/nearby_locs\/translations\/nearby_locs.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wx_data\/wxdata.factory.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/taboola_module.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wx_data\/translations\/wx_data.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/module_status\/translations\/module_status.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wx_data\/wxdata.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/taboola_module\/translations\/taboola_module.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/most_popular\/most_popular.app.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/most_popular\/translations\/most_popular.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/content_media\/content_media.app.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/error_handler\/translations\/error_handler.en_us.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_main_menu\/header_main_menu.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/search\/search.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/local_suite_nav\/local_suite_nav.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/vendor\/highcharts_4.0.3_patched_424.src.modified.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/breaking_now\/mock\/responses.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/nearby_locs\/nearby_locs.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_main_menu\/header_main_menu.directives.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/title\/title.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/local_alert_ticker\/local_alert_ticker.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/current_conditions\/current_conditions.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/content_media\/content_media.ad.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/cobrand_headers\/cobrand_headers.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/cobrand_headers\/cobrand_headers.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/breaking_now\/breaking_now.directive.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_savedlocations\/header_savedlocations.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/current_conditions\/translations\/current_conditions.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/local_suite\/translations\/local_suite.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/right_now\/translations\/right_now.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/translations\/highcharts.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/vendor\/highcharts-icon-fonts.modified.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/highcharts\/vendor\/Highcharts-4.0.3\/js\/highcharts-more.src.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/breaking_now\/breaking_now.controller.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/twc_social_sharing\/translations\/twc_social_sharing.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/americas_best_communities\/translations\/americas_best_communities.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wx_data\/translations\/wx_data.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/error_handler\/translations\/error_handler.fr_fr.js":1,"sites\/all\/modules\/custom\/angularmods\/modules\/header_savedlocations\/header_savedlocations.directives.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/jquery.cookie.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/jquery.jqplugin.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/jStorage.js":1,"sites\/all\/themes\/radix\/js\/domready.min.js":1,"sites\/all\/themes\/radix\/js\/twc.eq.min.js":1,"sites\/all\/themes\/radix\/js\/modernizr.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/app_dynamics\/app_dynamics_config.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/app_dynamics\/adrum.js":1,"\/\/cdn.optimizely.com\/js\/177031030.js":1,"\/foresee\/foresee-trigger.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/core-utils.js":1,"sites\/all\/themes\/radix\/js\/webfont-loader.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/tealium_utag_data\/tealium_utag_data.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/amznslots\/twc_amznslots.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/criteo\/twc_criteo.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/wfxtg\/wfxtg.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/lotame\/twc_lotame.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/node-rules.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/node.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/profile.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/page.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/product.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/user.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/device.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/wx.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/ad.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/metrics.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/twclog.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/nodes\/performance.js":1,"sites\/all\/themes\/radix\/plugins\/layouts\/vegas\/..\/..\/..\/js\/viewport-changes.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/aws-sdk\/aws-sdk.min.js":1,"sites\/all\/modules\/custom\/angularmods\/assets\/pco\/pco.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/background_utils\/ad_background.util.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/background_utils\/weather_background.util.js":1,"sites\/all\/modules\/custom\/angularmods\/app\/shared\/background_utils\/hero_background.util.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/features\/tf_full_html\/tf_full_html.js":1}}});</script>
+    <script>
+    // drupalSettingsReady event is here to indicate that Drupal.settings is ready
+    window.TWC = window.TWC || {};
+    TWC.Events = TWC.Events || {};
+    TWC.Events.drupalSettingsReady = TWC.Events.drupalSettingsReady || jQuery.Deferred();
+    TWC.Events.drupalSettingsReady.resolve();
+    TWC.pageTitle = "{{dynamicLocName}} Weather Forecast and Conditions - weather.com" || "The Weather Channel";
+    TWC.pageDescription = jQuery('meta[name="description"]').attr('content') || "";
+  </script>
+</head>
+
+<body  class="html not-front not-logged-in page-weather page-weather-today page-weather-today-l page-weather-today-l-template  section-weather">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page">
+
+  <div class="l-main l-content" role="main">
+            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+                              <div id="wx-wrapper"><!-- Wrapper in master JSP -->
+  <div class="panel-display vegas clearfix " >
+
+          <header id="wx-top-wrap" class="page-header container panel-panel clearfix">
+        <div class="page-header-inner container-inner panel-panel-inner">
+          <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="0395dc8c-cb81-462e-a8b9-dabc6b52009f" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "><div id="WX_Hidden" style="line-height:0;display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="b8857f69-a5d9-415a-9df8-abc7c5917ed2" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_WindowShade" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="mayberry clearfix" id="mini-panel-breaking_now_and_cobrand_header_">
+      <div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init cobrand_headers" data-twc-controller="twc_cobrand_headers_controller" data-module-name="cobrand_headers" instance="b22b5a16-53f3-493d-a0b2-052633a022ae"><div data-ng-non-bindable="true">
+<!-- This module uses the directive mainly. So we just need to call the directive and the directive decides which cobrand template to load -->
+<div data-wx-co-brand-header></div>
+</div></div>  </div>
+</div>
+<div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init breaking_now" data-twc-controller="twc_breaking_now_controller" data-module-name="breaking_now" instance="e396e991-1175-4ad3-8c74-9e3a18fbec7b"><div data-ng-non-bindable="true"><div data-tb-region="breaking" data-tb-region-item>
+    <div data-breaking-now></div>
+</div></div></div>  </div>
+</div>
+</div>
+  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="ac49560a-8441-4e1a-89e0-a0094cd87010" data-module-name="wxnode_opencontent_well" class="wxnode_opencontent_well"><div data-ng-non-bindable="true"><div class="open-content-well-container">
+  <script>
+if (window.explicit_location){
+	var elem=document.querySelector('[rel="canonical"]');
+	if (!elem){
+		elem=document.getElementsByTagName('head')[0];
+	}
+	var hreflangtags={
+	"x-default": "http://www.weather.com/weather/today/l/",
+	"en_GB":"http://uk.weather.com/weather/today/",
+	"en_IN":"http://in.weather.com/weather/today/",
+	"es":"http://espanol.weather.com/weather/today/",
+	"ar_AE":"http://ar.weather.com/%D8%AD%D8%A7%D9%84%D8%A7%D9%8B/",
+	"ca_ES":"http://ca.weather.com/ara_mateix/",
+	"cs_CZ":"http://cs.weather.com/pr%C3%A1v%C4%9B_te%C4%8F/",
+	"da_DK":"http://da.weather.com/lige_nu/",
+	"de_DE":"http://de.weather.com/aktuelle_Lage/",
+	"el_GR":"http://el.weather.com/%CF%84%CF%8E%CF%81%CE%B1/",
+	"fa_IR":"http://fa.weather.com/%D9%87%D9%85%DB%8C%D9%86%E2%80%8C%D8%AD%D8%A7%D9%84%D8%A7/",
+	"fi_FI":"http://fi.weather.com/juuri_nyt/",
+	"fr":"http://fr.weather.com/conditions_actuelles/",
+	"hi_IN":"http://hi.weather.com/%E0%A4%85%E0%A4%AD%E0%A5%80/",
+	"hr_HR":"http://hr.weather.com/trenuta%C4%8Dno/",
+	"hu_HU":"http://hu.weather.com/%C3%A9ppen_most/",
+	"in_ID":"http://id.weather.com/saat_ini/",
+	"he":"http://he.weather.com/%D7%9B%D7%A2%D7%AA/",
+	"ja_JP":"http://ja.weather.com/%E7%8F%BE_%E5%9C%A8/",
+	"ko":"http://ko.weather.com/%EC%A7%80%EA%B8%88_%ED%98%84%EC%9E%AC/",
+	"ms_MY":"http://ms.weather.com/sekarang/",
+	"nl_NL":"http://nl.weather.com/op_dit_moment/",
+	"no_NO":"http://no.weather.com/akkurat_n%C3%A5/",
+	"pl_PL":"http://pl.weather.com/w_tej_chwili/",
+	"pt_BR":"http://br.weather.com/agora/",
+	"pt_PT":"http://pt.weather.com/agora/",
+	"ro_RO":"http://ro.weather.com/chiar_acum/",
+	"ru_RU":"http://ru.weather.com/%D0%BF%D1%80%D1%8F%D0%BC%D0%BE_%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81/",
+	"sk_SK":"http://sk.weather.com/pr%C3%A1ve_teraz/",
+	"sv_SE":"http://sv.weather.com/just_nu/",
+	"th_TH":"http://th.weather.com/%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B9%89/",
+	"tr_TR":"http://tr.weather.com/%C5%9Fimdi/",
+	"uk_UA":"http://ukr.weather.com/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE_%D0%B7%D0%B0%D1%80%D0%B0%D0%B7/",
+	"vi_VN":"http://vi.weather.com/ngay_l%C3%BAcn%C3%A0y/",
+	"zh_CN":"http://zh.weather.com/%E5%8D%B3_%E6%97%B6/",
+	"zh_HK":"http://zhhk.weather.com/%E7%8F%BE%E5%9C%A8/",
+	"zh_TW":"http://zhtw.weather.com/%E7%AB%8B%E5%8D%B3/"
+	};
+	
+	for (tag in hreflangtags) {
+		   var linkEle=document.createElement("link");
+		   linkEle.setAttribute("hreflang", tag);
+		   linkEle.setAttribute("href", hreflangtags[tag] + window.explicit_location);
+		   linkEle.setAttribute("rel", "alternate");
+		   elem.parentNode.appendChild(linkEle);
+		   
+	}
+var androidDeepLink=document.createElement("link");
+var hrefLink="android-app://com.weather.Weather/weather/tendayDetail/" + window.explicit_location;
+androidDeepLink.setAttribute("rel", "alternate");
+androidDeepLink.setAttribute("href", hrefLink);
+elem.parentNode.appendChild(androidDeepLink);
+}
+</script></div>
+</div></div>  </div>
+</div>
+        </div>
+      </header>
+        <div id="wx-local-wrap" class="container clearfix">
+      <div id="wx-local-bg"></div>
+              <header class="header container panel-panel content-header clearfix">
+          <div class="header-inner container-inner panel-panel-inner">
+            <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="8b464c0d-f497-4c26-874c-4980f8849745" data-module-name="background_wx_and_video" class="background_wx_and_video"><placeholder type='static'><!-- Array
+(
+    [bg_type] => weather
+    [default_video_image] => /sites/all/themes/radix/images/backgrounds/default_32_gi.jpg
+    [default_weather_image] => /sites/all/themes/radix/images/backgrounds/default_32_gi.jpg
+    [image_override] => 
+    [scheduled_image_override] => http://s.w-x.co/4thjuly_day_1600x700.dark__0.jpg
+    [startDate] => 20150704
+    [endDate] => 20150705
+)
+ --></placeholder></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-main_menu_v0_1">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="header_main_menu" data-twc-controller="twc_header_main_menu_controller" data-module-name="header_main_menu" instance="fce541cb-00da-45d8-811b-3fc90db36cd5"><nav class="wx-nav-main center-col">
+  <ul data-document-click-listener class="header-main-menu-links">
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('0')"
+             data-on-mouse-out="hideMegaMenu('0')"
+             id="Forecasts"
+             class="linklist-default"
+             data-twc-href="/weather/today/l/{{dynamicLocId}}"
+             target="_self"
+             data-from-str="main-menu_0">
+            Forecasts          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav1"
+               data-ng-mouseover="showMegaMenu('0')"
+               data-ng-mouseout="hideMegaMenu('0')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/weather/today/l/{{dynamicLocId}}"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="today's-forecast_1">
+                      Today's Forecast                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/forecast/news/national-forecast-20141009"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="national-forecast_2">
+                      National Forecast                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/alerts"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="alerts_3">
+                      Alerts                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/severe"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="severe-weather_4">
+                      Severe Weather                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/safety/before"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="safety-&-preparedness-_5">
+                      Safety & Preparedness                     </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/safety/auto"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="road-ready_6">
+                      Road Ready                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/tornado"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="tornado-central_7">
+                      Tornado Central                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/forecast/commuter?layers=driving"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="commuter-forecast_8">
+                      Commuter Forecast                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/forecast/allergy/l/{{dynamicLocId}}"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="new-allergy-tracker_9">
+                      NEW Allergy Tracker                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/forecast/pollen/l/{{dynamicLocId}}"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="pollen-forecast_10">
+                      Pollen Forecast                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('1')"
+             data-on-mouse-out="hideMegaMenu('1')"
+             id="Maps"
+             class="linklist-default"
+             data-twc-href="/weather/map/interactive/l/{{dynamicLocId}}"
+             target="_self"
+             data-from-str="main-menu_1">
+            Maps          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav2"
+               data-ng-mouseover="showMegaMenu('1')"
+               data-ng-mouseout="hideMegaMenu('1')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/weather/map/interactive/l/{{dynamicLocId}}?animation=true"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="weather-in-motion®_1">
+                      Weather In Motion®                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/alerts"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="severe-alerts_2">
+                      Severe Alerts                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/weather/map/interactive/l/{{dynamicLocId}}?layers=0090,0120&zoom=8"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="current-temps_3">
+                      Current Temps                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/weather/map/interactive/l/{{dynamicLocId}}?layers=ussat&zoom=6"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="regional-satellite-_4">
+                      Regional Satellite                     </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/weather/map/interactive/l/{{dynamicLocId}}?layers=sat&zoom=1&baseMap=h"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="world-satellite_5">
+                      World Satellite                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/forecast/commuter?layers=driving"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="commuter-forecast_6">
+                      Commuter Forecast                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/maps/tendayforecast"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="forecast-maps_7">
+                      Forecast Maps                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/maps/currentusweather"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="classic-weather-maps_8">
+                      Classic Weather Maps                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('2')"
+             data-on-mouse-out="hideMegaMenu('2')"
+             id="Video"
+             class="linklist-default"
+             data-twc-href="/news/weather/video/hurricane-guillermo-heads-towards-hawaii-0"
+             target="_self"
+             data-from-str="main-menu_2">
+            Video          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav3"
+               data-ng-mouseover="showMegaMenu('2')"
+               data-ng-mouseout="hideMegaMenu('2')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/safety/auto"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="road-ready_1">
+                      Road Ready                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/series/uncharted"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="uncharted_2">
+                      Uncharted                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/series/weatherfilms"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="weather-films_3">
+                      Weather Films                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="tv-shows_4">
+                      TV Shows                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/series"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="web-series_5">
+                      Web Series                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/video"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="all-video_6">
+                      All Video                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('3')"
+             data-on-mouse-out="hideMegaMenu('3')"
+             id="Photos"
+             class="linklist-default"
+             data-twc-href="/slideshows"
+             target="_self"
+             data-from-str="main-menu_3">
+            Photos          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav4"
+               data-ng-mouseover="showMegaMenu('3')"
+               data-ng-mouseout="hideMegaMenu('3')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/slideshows"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="all-photos_1">
+                      All Photos                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/photos"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="fan-photos_2">
+                      Fan Photos                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/photos/collection/ugc"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="upload-your-photos_3">
+                      Upload Your Photos                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/photos/contest"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="photo-contest_4">
+                      Photo Contest                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('4')"
+             data-on-mouse-out="hideMegaMenu('4')"
+             id="News"
+             class="linklist-default"
+             data-twc-href="/news"
+             target="_self"
+             data-from-str="main-menu_4">
+            News          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav5"
+               data-ng-mouseover="showMegaMenu('4')"
+               data-ng-mouseout="hideMegaMenu('4')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/news"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="all-news_1">
+                      All News                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/travel"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="travel_2">
+                      Travel                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/health"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="health_3">
+                      Health                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/science"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="science_4">
+                      Science                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/science/environment"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="environment_5">
+                      Environment                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/home-garden"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="home-&-garden_6">
+                      Home & Garden                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/sports-recreation"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="sports-&-recreation_7">
+                      Sports & Recreation                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/winter"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="winter-storm-central_8">
+                      Winter Storm Central                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/hurricane"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="hurricane-central_9">
+                      Hurricane Central                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/tornado"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="tornado-central_10">
+                      Tornado Central                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('5')"
+             data-on-mouse-out="hideMegaMenu('5')"
+             id="Live TV "
+             class="linklist-default"
+             data-twc-href="/tv/the-weather-channel-live/video/watch-the-weather-channel-live?pl=pl-live-tv-now"
+             target="_self"
+             data-from-str="main-menu_5">
+            Live TV           </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav6"
+               data-ng-mouseover="showMegaMenu('5')"
+               data-ng-mouseout="hideMegaMenu('5')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="all-tv_1">
+                      All TV                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv/personalities"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="personalities_2">
+                      Personalities                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv//personalities"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="experts_3">
+                      Experts                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="shows_4">
+                      Shows                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/tv/the-weather-channel-live/news/tv-schedule"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="tv-schedule_5">
+                      TV Schedule                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+            <li>
+          <!-- The main navigation link-->
+          <a data-twc-custom-click="showMegaMenu('6')"
+             data-on-mouse-out="hideMegaMenu('6')"
+             id="Hurricanes"
+             class="linklist-default"
+             data-twc-href="/storms/hurricane"
+             target="_self"
+             data-from-str="main-menu_6">
+            Hurricanes          </a>
+          <!-- Sub-navigation links -->
+          <div class="wx-subnav-wrap wx-subNav7"
+               data-ng-mouseover="showMegaMenu('6')"
+               data-ng-mouseout="hideMegaMenu('6')"
+               style="left: auto; display: none;">
+            <ul class="wx-subnav left">
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/hurricane"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="hurricane-central_1">
+                      Hurricane Central                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/storms/hurricane/video/why-has-hurricane-season-been-so-quiet"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="hurricane-videos_2">
+                      Hurricane Videos                    </a>
+                  </li>
+                                <li class="main-menu-drop-down-link">
+                    <a data-twc-href="/safety/hurricane"
+                       class="main-menu-drop-down-link_anchor"
+                       data-from-str="hurricane-safety_3">
+                      Hurricane Safety                    </a>
+                  </li>
+                          </ul>
+            <!--== Removing Images (lighter on page load) ==-->
+          </div>
+        </li>
+      </ul>
+  <ul class="wx-header-tools" data-ng-cloak>
+    <li class="wx-sign-in"
+        data-ng-show="showHideMyProfileButton()"
+        data-ng-mouseover="showMyProfileLinks()"
+        data-ng-mouseleave="hideMyProfileLinks()"
+        data-ng-click="myProfileClickToggle()"
+      >
+
+      <span class="wx-iconfont-global wx-icon-profile"></span>
+      <span class="label">My Profile</span>
+      <span class="wx-iconfont-global wx-icon-arrow-down wx-icon-small"></span>
+      <ul class="wx-signedin" data-ng-show="myProfileLinksShown">
+        <li class="wx-signin-mnglocs">
+          <a data-from-str="hdr_mnglocs" href="/life/profile ">Manage Locations</a>
+        </li>
+        <li class="wx-signin-mngalerts">
+          <a data-from-str="hdr_mngalerts" rel="nofollow" href="https://profile.weather.com/#/profile/alerts">Manage Alerts</a>
+        </li>
+        <li class="wx-signin-myprofile">
+          <a data-from-str="hdr_myprofile" rel="nofollow" href="https://profile.weather.com/#/profile/manage">Edit Profile</a>
+        </li>
+        <li class="wx-signin-signout">
+          <a data-from-str="hdr_signout" rel="nofollow" href="https://profile.weather.com/#/signout">Sign Out</a>
+        </li>
+      </ul>
+    </li>
+    <li class="wx-sign-in" data-ng-hide="hideSignInButton()">
+      <div data-from-str="hdr_signin">
+          <span class="login" data-ng-click="signIn()">
+            <span class="wx-iconfont-global wx-icon-profile"></span>Log In
+          </span>
+          <span class="forward-slash">/</span>
+          <span class="signup" data-ng-click="signUp()">Sign up</span>
+      </div>
+    </li>
+  </ul>
+</nav>
+
+<div data-twc-modal
+     width="{{modal.width}}"
+     height="{{modal.height}}"
+     show-it="show"
+     header=""
+     body='<iframe src="{{iframeSrc}}" width="100%" height="{{modal.height}}"></iframe>'
+     dialog-template="/sites/all/modules/custom/angularmods/modules/header_main_menu/templates/ups_modal.html"
+     footer="<a href=''>sign in</a>">
+</div>
+</div>  </div>
+</div>
+<div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init page_notifications" data-twc-controller="twc_page_notifications_controller" data-module-name="page_notifications" instance="3d531e8a-a46b-46d9-aac0-08f91b5752c9"><div data-ng-non-bindable="true"><div data-ng-if="pageNotificationSettings.showNotification" data-page-notification data-alert-class="{{pageNotificationSettings.className}}" data-ng-cloak><div data-ng-bind-html="pageNotificationSettings.message"></div></div>
+</div></div>  </div>
+</div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div id="wx-header" class="mini-panel-display header-container container wx-masthead center-col">
+  <div class="header-container-inner container-inner clearfix">
+    <div class="header-content-wrap">
+
+      <div class="branding">
+        <div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <a id="wx-twc-logo" href="/" title="The Weather Channel - weather.com" from="hdr_logo"><img id="wx-twc-logo-img" src="http://s.w-x.co/TWC_logo_100x100.gif" /></a>  </div>
+</div>
+      </div>
+
+              <div class="wx-nav-utility column-content-region header-row-1 clearfix panel-panel">
+          <div class="column-content-region-inner panel-panel-inner">
+            <div class="panel-pane content width-75 float-left      column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content  ">
+    <div class="header_savedlocations" data-twc-controller="twc_header_savedlocations_controller" data-module-name="header_savedlocations" instance="0e7cb267-efce-43f5-992d-ff2fc462cc9e"><div data-ng-non-bindable="true"><div class="wx-user-locs">
+    <div data-user-locations="visibleLocationsBlock.items"
+         data-other-locs-tab-open="showOtherLocsTab"
+         data-settings="settings" data-type="visible">
+    </div>
+    <div data-other-locations-dropdown class="wx-additional-user-locs"
+         data-ng-show="showOtherLocsTab"
+         data-ng-class="{open:showOtherLocsTab}"
+         data-ng-mouseover="showOtherLocs($event)"
+         data-ng-mouseout="hideOtherLocs($event)">
+
+        <div data-user-locations="otherLocationsBlock.items"
+             data-from-attrs="hiddenlocations"
+             data-other-locs-tab-open="showOtherLocsTab"
+             data-settings="settings" data-type="not_visible">
+        </div>
+    </div>
+</div>
+</div></div>  </div>
+</div>
+<div class="panel-pane content width-25 float-left      column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content  ">
+    <div class="search" data-twc-controller="twc_search_controller" data-module-name="search" instance="cc8941bf-7c89-467a-84fe-22422798b491"><div data-ng-non-bindable="true"><section class="unified-search">
+    <span data-twc-typeahead data-items="results" data-term="term" data-search="search(term)"
+          data-select="selectItem(item, enter)" data-pattern=""
+          data-placeholder-text="{{'headerSearch.SEARCH_CITY_ZIP_PLACE' | translate}}"
+          data-validate-class="js-error-state"
+          data-input-class="input--search"
+          data-container-class="input-rebase">
+        <div data-ng-show="hasResults()">
+            <div class="menu" data-ng-cloak>
+                <div data-ng-switch="resultType()">
+                    <div class="animate-switch" data-ng-switch-when="Recent">
+                        <h3 class="heading--search" data-ng-bind-template="{{'headerSearch.RECENT_SEARCHES' | translate}}"></h3>
+                        <ul class="recent">
+                            <li data-twc-typeahead-item="item" data-ng-repeat="item in results | limitTo:10" class="results">
+                                <p class="name" data-ng-bind="getPresName($index)"></p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="animate-switch" data-ng-switch-when="Search">
+                        <!-- <h3>Results</h3> -->
+                        <ul class="results">
+                            <li data-twc-typeahead-item="item" data-ng-repeat="item in results | limitTo:10" class="results">
+                                <p class="name" data-ng-bind="getPresName($index)"></p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="animate-switch" data-ng-switch-when="NoResult">
+                      <p class="result-status" data-ng-bind-template="{{'headerSearch.NO_RESULT' | translate}}"></p>
+                    </div>
+                    <div class="animate-switch" data-ng-switch-when="Suppressed">
+                    </div>
+                    <div class="animate-switch" data-ng-switch-default>
+                      <p class="result-status" data-ng-bind-template="{{'headerSearch.SEARCHING' | translate}}.."></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </span>
+</section>
+</div></div>  </div>
+</div>
+          </div>
+        </div>
+          </div> <!-- end header-content-wrap -->
+
+</div> 
+</div> <!-- end wx-header -->
+
+  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init social_sharing" data-twc-controller="twc_social_sharing_controller" data-module-name="social_sharing" instance="7503f6f0-b3ac-492a-89d5-ac20a49c5462" data-template-file="/sites/all/modules/custom/angularmods/modules/social_sharing/templates/social_sharing.html"></div>  </div>
+</div>
+          </div>
+        </header>
+            <div class="local-wrap-inner center-col">
+                  <div class="content-row-1 panel-panel clearfix">
+            <div class="content-row-1-inner panel-panel-inner">
+              <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="title-alert-container mini-panel-display mini-panel container" data-eq-pts="pane-tablet: 400, pane-desktop: 1000">
+  <div class="title-alert-container-inner container-inner">
+
+      <div class="column-content-region primary left left-row-1 panel-panel">
+      <div class="column-content-region-inner panel-panel-inner">
+        <div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init title" data-twc-controller="twc_title_controller" data-module-name="title" instance="d65cf5d0-8e39-4f2f-95cc-45efa8058968"><div data-ng-non-bindable="true"><div class="location-title" >
+    <h1 data-ng-bind-template="{{title}}"></h1>
+</div></div></div>  </div>
+</div>
+      </div>
+    </div>
+        <div class="column-content-region secondary right right-row-1 panel-panel">
+      <div class="column-content-region-inner panel-panel-inner">
+        <div class="panel-pane content width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init local_alert_ticker" data-twc-controller="twc_local_alert_ticker_controller" data-module-name="local_alert_ticker" instance="682e809e-db57-47b4-8e9b-5d5d82041865"><div data-ng-non-bindable="true"><div data-ng-show="priority">
+
+    <h2 class="wx-alert-text {{getPriorityAlertCss()}}" data-ng-class="hasMultiple() ? 'wx-multi-alerts' : ''">
+        <a data-ng-href="{{priority.url}}" class="wx-alert-link" data-from-str="{{modulefromstring}}_link_1_{{priority.fromStr}}">
+            <span class="wx-alert-description" data-ng-bind="priority.description"></span>
+            <span class="wx-alert-time" data-ng-if="priority.validStartTime"
+                  data-ng-bind-template="from {{priority.validStartTime.day}}, {{priority.validStartTime.time}}{{priority.validStartTime.amPm}}"></span>
+            <span class="wx-alert-time" data-ng-if="priority.validEndTime"
+                  data-ng-bind-template="until {{priority.validEndTime.day}}, {{priority.validEndTime.time}}{{priority.validEndTime.amPm}}"></span>
+        </a>
+        <span class="wx-button-toggle" data-ng-if="bulletins.length > 1" data-ng-click="$event.stopPropagation();toggleShowMenu();">
+            <span class="wx-button-caption">{{ bulletins.length }}</span>
+            <span aria-hidden="true" class="wx-iconfont-global wx-icon-arrow-down-2" data-ng-class="{'wx-icon-arrow-up-2':isOpen, 'wx-icon-arrow-down-2':!isOpen}"></span>
+        </span>
+    </h2>
+
+    <div is-loading="{{isLoading}}"
+         data-ng-if="bulletins.length > 1">
+
+        <ul class="wx-alert-list" data-ng-hide="!getShowMenu()">
+            <li data-ng-if="!$first" data-ng-repeat="bulletin in bulletins">
+                <h2 class="wx-alert-text {{getAlertCss(bulletin)}}" data-ng-attr-style="z-index: {{bulletins.length - $index}}">
+                    <a data-ng-href="{{bulletin.url}}" class="wx-alert-link" data-from-str="{{modulefromstring}}_link_{{$index+1}}_{{bulletin.fromStr}}" data-ng-click="toggleShowMenu(false)">
+                        <span class="wx-alert-description" data-ng-bind="bulletin.description"></span>
+                        <span class="wx-alert-time" data-ng-show="bulletin.validStartTime"
+                              data-ng-bind-template="from {{bulletin.validStartTime.day}}, {{bulletin.validStartTime.time}}{{bulletin.validStartTime.amPm}}"></span>
+                        <span class="wx-alert-time" data-ng-show="bulletin.validEndTime"
+                              data-ng-bind-template="until {{bulletin.validEndTime.day}}, {{bulletin.validEndTime.time}}{{bulletin.validEndTime.amPm}}"></span>
+                    </a>
+                </h2>
+            </li>
+        </ul>
+    </div>
+
+</div></div></div>  </div>
+</div>
+      </div>
+    </div>
+  
+  </div>
+</div>
+  </div>
+</div>
+            </div>
+          </div>
+                          <div class="content-row-2 panel-panel clearfix">
+            <div class="content-row-2-inner panel-panel-inner">
+              <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init current_conditions" data-twc-controller="twc_current_conditions_controller" data-module-name="current_conditions" instance="55779295-3446-4a91-b476-5226ffad7be6"><div data-ng-non-bindable="true"><section class="ls-mod wx-weather local-suite" data-module-status="status" data-module-status-theme="'dark'">
+  <div data-set-layout>
+
+    <!-- Right Now (displayed when obs are not 204-ing -->
+    <div class="obs-data" data-module-status="obsStatus" data-module-status-theme="'dark'">
+        <div ng-if="obsIsAvailable()" data-right-now="obs"
+             data-nowcast="nowCast"
+             data-is-local-suite="true"
+             data-right-now-datetime="datetime"
+             data-module-id="moduleId"
+             data-show-details-table="true"></div>
+
+        <!-- Obs Unavailable Error Message (displayed when MORecord is status 204) -->
+        <div data-ng-if="!obsIsAvailable()" class="obs-unavailable right-now">
+            <p class="timestamp-updated" data-dsxdate data-datetime="datetime.getDateTimeISO()"
+               data-timezone="datetime.getTimeZoneAbbr()" data-format="'h:mm a z'" data-placeholder="''"></p>
+            <div class="explainer-text">
+                <span class="not-reported" data-ng-bind-template="{{'current_conditions.OBS_UNAVAILABLE' | translate}}"></span>
+                <span class="check-back" data-ng-bind-template="{{'current_conditions.CHECK_BACK_SOON' | translate}}"></span>
+            </div>
+            <a data-ng-href="/weather/hourbyhour/l/{{locId}}" data-from-str="hourly" class="details-button">
+                <span data-ng-bind-template="{{'current_conditions.NEXT_FEW_HOURS' | translate}}"></span>
+                <span class="wx-iconfont-global wx-icon-arrow-right wx-icon-small"></span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Weather Cards (always display if status is DEFAULT -->
+    <div data-ng-if="layout === 'card'">
+      <section class="forecast" data-module-status="forecastStatus" data-module-status-theme="'dark'">
+        <a href="" data-wxcard-current-conditions class="wxcard-toggle"
+           data-ng-repeat="daypart in rollingForecast"
+           data-ng-click="toggleCardClickHandler();">
+          <div data-wxcard-summary="daypart"></div>
+          <div data-wxcard-details="daypart"></div>
+        </a>
+      </section>
+    </div>
+    <div data-ng-if="layout === 'list'" data-eq-pts="table-md:525">
+      <section data-accordion-cards class="forecast today" data-module-status="forecastStatus" data-module-status-theme="'dark'">
+        <div data-wxcard-legend="daypart" data-ng-hide="isOpenCard()"></div>
+        <a href="" class="wxcard-toggle weather-table daypart-table"
+           data-ng-repeat="daypart in rollingForecast">
+          <div data-ng-click="openCard($index+1, true)" data-ng-hide="isOpenCard()" data-wxcard-summary="daypart" data-wxcard-index="$index" data-layout="{{layout}}"></div>
+          <div data-ng-show="isOpenCard($index+1)" data-ng-click="openCard($index+1, true)" data-wxcard-details="daypart"></div>
+        </a>
+      </section>
+    </div>
+
+  </div>
+</section>
+</div></div>  </div>
+</div>
+            </div>
+          </div>
+                      </div>
+    </div>
+
+    
+    <div id="wx-mid-wrap" class="container clearfix center-col">
+      <div id="wx-main" class="content-container grid-12 panel-panel clearfix">
+        <div class="content-container-inner">
+                      <div class="content-row-4 grid-12 panel-panel clearfix">
+              <div class="content-row-4-inner panel-panel-inner">
+                <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init local_suite_nav" data-twc-controller="twc_local_suite_nav_controller" data-module-name="local_suite_nav" instance="e24a23e3-e4e3-43b2-9baa-44ef62667e8a"><nav ng-if="pageNav.linksReady" class="{{pageNav.theme}}" role="navigation" aria-labelled-by="page-nav-label">
+    <h2 id="page-nav-label" class="accessible-text">Forecast Navigation</h2>
+    <div class="toggle-layout">
+        <button class="toggle-card" data-ng-class="{ 'active': layout === 'card' }" data-ng-click="changeLayout('card')">
+                <span class="wx-iconfont-global wx-icon-card-view">
+                    <span class="accessible-text">Switch to carousel view</span>
+                </span>
+        </button>
+        <button class="toggle-list" data-ng-class="{ 'active': layout === 'list' }" data-ng-click="changeLayout('list')">
+                <span class="wx-iconfont-global wx-icon-list-view">
+                    <span class="accessible-text">Switch to table view</span>
+                </span>
+        </button>
+    </div>
+    <ul class="page-nav" data-responsive-menu menu-control="{{pageNav.getPathOfLink(pageNav.currPath)}}">
+        <li data-menu-item="{{pageNav.getPathOfLink(link.link_url)}}"
+            data-ng-repeat="link in pageNav.menuLinks.links">
+            <a class="linklist-{{link.link_type}}"
+               data-ng-href="{{link.link_url}}"
+               data-from-str="{{link.link_title}}_{{$index+1}}"
+               data-module-id="{{pageNav.moduleId}}"
+               target="{{link.open_link_new_tab ? '_blank' : ''}}">
+                <img data-ng-if="link.link_image"
+                     data-ng-src="{{link.link_image}}"
+                     class="wx-nav-content-img"
+                     alt="{{link.link_title}}"/>
+                <span data-ng-bind-template="{{link.link_title}}"></span>
+            </a>
+        </li>
+        <li data-more-menu-item>
+            <a data-track-str="{{moduleId}}_showMoreNav" href="">
+                <span class="full-text" data-translate="local_suite_nav.SUBNAV_FULL"></span>
+                <span class="short-text" data-translate="local_suite_nav.SUBNAV_SHORT"></span>
+                <span class="wx-iconfont-global wx-icon-arrow-down-2"></span></a>
+            <ul>
+                <li class="link-list" data-ng-if="pageNav.dropdownLinks1">
+                    <h3 data-ng-if="pageNav.dropdownLinks1.menu_header_title"
+                        data-ng-bind-template="{{pageNav.dropdownLinks1.menu_header_title.value}}"></h3>
+                    <ul data-overflow-target>
+                        <li data-ng-repeat="link in pageNav.dropdownLinks1.links"
+                            class="dropdown-nav-links">
+                            <a class="linklist-{{link.link_type}}"
+                               data-ng-href="{{link.link_url}}"
+                               data-from-str="{{link.link_title}}_{{$index+1}}"
+                               data-module-id="{{pageNav.moduleId}}"
+                               target="{{link.open_link_new_tab ? '_blank' : ''}}">
+                                <img class="wx-dd-nav-content-img"
+                                     alt="{{link.link_title}}"
+                                     data-ng-if="link.link_image != null"
+                                     data-ng-src="{{link.link_image}}" />
+                                <span data-ng-bind-template="{{link.link_title}}"></span>
+                            </a>
+                        </li>
+                    </ul>
+
+                </li>
+                <li class="link-list" data-ng-if="pageNav.dropdownLinks2">
+                    <h3 data-ng-if="pageNav.dropdownLinks2.menu_header_title"
+                        data-ng-bind-template="{{pageNav.dropdownLinks2.menu_header_title.value}}"></h3>
+                    <ul>
+                        <li data-ng-repeat="link in pageNav.dropdownLinks2.links"
+                            class="dropdown-nav-links">
+                            <a class="linklist-{{link.link_type}}"
+                               data-ng-href="{{link.link_url}}"
+                               data-from-str="{{link.link_title}}_{{$index+1}}"
+                               data-module-id="{{pageNav.moduleId}}"
+                               target="{{link.open_link_new_tab ? '_blank' : ''}}">
+                                <img class="wx-dd-nav-content-img"
+                                     alt="{{link.link_title}}"
+                                     data-ng-if="link.link_image != null"
+                                     data-ng-src="{{link.link_image}}" />
+                                <span data-ng-bind-template="{{link.link_title}}"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+    </ul>
+
+</nav>
+</div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left      column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content  ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="f5e32f64-da8c-4590-82f8-08483cc40a98"><div data-ng-non-bindable="true"><div data-remove-pane-padding class="wx-module wx-corsican-small-module" data-tb-region="{{content_media.pageName}}_{{content_media.moduleId}}">
+  <ul data-ng-if="content_media.status === content_media.status_codes.DEFAULT">
+    <li class="{{$even ? 'wx-module-odd' : 'wx-module-even'}}" data-ng-repeat="corsican in content_media.corsicans" data-ng-class="{true: 'wx-module-four-mod'}[(($index + 1) % 4 === 0)]" data-tb-region-item>
+        <div class="wx-list-container">
+            <div class="wx-inner" style="" data-vr-contentbox="">
+                <div class="wx-image-wrapper">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-media intrinsic-16x9" data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="{{corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)}}">
+                        <img height="100" width="177" data-ng-src="{{corsican.getVariant('8')}}">
+                        <span data-ng-class="{true:'wx-faded-bg'}[corsican.showProvider]">
+                            <span data-ng-if="(corsican.options && corsican.options.icon === 'video') || corsican.getType() === 'video'" aria-hidden="true" class="wx-iconfont-global wx-icon-video"></span>
+                            <span data-ng-if="(corsican.options && corsican.options.icon === 'image')" aria-hidden="true" class="wx-iconfont-global wx-icon-photo"></span>
+                            <span data-ng-if="corsican.showProvider" data-ng-bind="corsican.getTrimmedProviderName()" class="provider-name"></span>
+                        </span>
+                    </a>
+                </div>
+                <h3 class="wx-content" data-ng-class="{true: 'new-tab-icon-hover'}[corsican.options.iconhover]">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-content-header" data-ng-class="{true : 'clipped'}[corsican.options && corsican.options.attribution.length > 0]" data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="{{corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)}}">
+                        <div class="wx-title-wrapper">
+                            <p class="wx-title" data-ng-bind="corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)"></p>
+                        </div>
+                    </a>
+                    <!-- Attribution should not be clickable -->
+                    <span data-ng-if="corsican.options && corsican.options.attribution" class="wx-attribution" data-ng-bind="corsican.options.attribution"></span>
+                    <a data-ng-mouseenter="corsican.options.iconhover = true" data-ng-mouseleave="corsican.options.iconhover = false" data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}"  data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}">
+                        <span data-ng-if="corsican.options && corsican.options.new_tab" class="wx-iconfont-global wx-icon-new-window"></span>
+                    </a>
+                </h3>
+            </div>
+            <div class="wx-inner wx-ad-container wx-fade-out" data-ng-if="content_media.settings.include_ad && $index==content_media.settings.ad_index" style="" data-vr-contentbox="">
+                <div class="wx-image-wrapper">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-media" href="javascript:void();" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="">
+                        <img alt="" height="100" width="177" src="">
+                    </a>
+                </div>
+                <h3 class="wx-content" data-ng-class="{true: 'new-tab-icon-hover'}[corsican.options.iconhover]">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-content-header" data-ng-class="{true : 'clipped'}[corsican.options && corsican.options.attribution.length > 0]" href="javascript:void();" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="">
+                        <div class="wx-title-wrapper">
+                            <p class="wx-title" ></p>
+                        </div>
+                    </a>
+                    <!-- Attribution should not be clickable -->
+                    <span  class="wx-attribution" ></span>
+                    <a data-ng-mouseenter="corsican.options.iconhover = true" data-ng-mouseleave="corsican.options.iconhover = false" data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}"  href="javascript:void()" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}">
+                        <span data-ng-if="corsican.options && corsican.options.new_tab" class="wx-iconfont-global wx-icon-new-window"></span>
+                    </a>
+                </h3>
+            </div>
+          </div>
+        <div class="ng-hide wx-links-sponsored" data-ng-if="content_media.settings.include_ad && $index==content_media.settings.ad_index" id="{{content_media.settings.selectedadpos}}"></div>
+    </li>
+  </ul>
+</div>
+</div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left      column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content  ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="23edbeaf-45cf-4921-be71-9a37a5fc5999"><div data-ng-non-bindable="true"><div data-remove-pane-padding class="wx-module wx-corsican-small-module" data-tb-region="{{content_media.pageName}}_{{content_media.moduleId}}">
+  <ul data-ng-if="content_media.status === content_media.status_codes.DEFAULT">
+    <li class="{{$even ? 'wx-module-odd' : 'wx-module-even'}}" data-ng-repeat="corsican in content_media.corsicans" data-ng-class="{true: 'wx-module-four-mod'}[(($index + 1) % 4 === 0)]" data-tb-region-item>
+        <div class="wx-list-container">
+            <div class="wx-inner" style="" data-vr-contentbox="">
+                <div class="wx-image-wrapper">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-media intrinsic-16x9" data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="{{corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)}}">
+                        <img height="100" width="177" data-ng-src="{{corsican.getVariant('8')}}">
+                        <span data-ng-class="{true:'wx-faded-bg'}[corsican.showProvider]">
+                            <span data-ng-if="(corsican.options && corsican.options.icon === 'video') || corsican.getType() === 'video'" aria-hidden="true" class="wx-iconfont-global wx-icon-video"></span>
+                            <span data-ng-if="(corsican.options && corsican.options.icon === 'image')" aria-hidden="true" class="wx-iconfont-global wx-icon-photo"></span>
+                            <span data-ng-if="corsican.showProvider" data-ng-bind="corsican.getTrimmedProviderName()" class="provider-name"></span>
+                        </span>
+                    </a>
+                </div>
+                <h3 class="wx-content" data-ng-class="{true: 'new-tab-icon-hover'}[corsican.options.iconhover]">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-content-header" data-ng-class="{true : 'clipped'}[corsican.options && corsican.options.attribution.length > 0]" data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="{{corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)}}">
+                        <div class="wx-title-wrapper">
+                            <p class="wx-title" data-ng-bind="corsican.override_title || corsican.getTitle(corsican.showTeaserTitle)"></p>
+                        </div>
+                    </a>
+                    <!-- Attribution should not be clickable -->
+                    <span data-ng-if="corsican.options && corsican.options.attribution" class="wx-attribution" data-ng-bind="corsican.options.attribution"></span>
+                    <a data-ng-mouseenter="corsican.options.iconhover = true" data-ng-mouseleave="corsican.options.iconhover = false" data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}"  data-ng-href="{{corsican.getMediaUrl()}}" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}">
+                        <span data-ng-if="corsican.options && corsican.options.new_tab" class="wx-iconfont-global wx-icon-new-window"></span>
+                    </a>
+                </h3>
+            </div>
+            <div class="wx-inner wx-ad-container wx-fade-out" data-ng-if="content_media.settings.include_ad && $index==content_media.settings.ad_index" style="" data-vr-contentbox="">
+                <div class="wx-image-wrapper">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-media" href="javascript:void();" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="">
+                        <img alt="" height="100" width="177" src="">
+                    </a>
+                </div>
+                <h3 class="wx-content" data-ng-class="{true: 'new-tab-icon-hover'}[corsican.options.iconhover]">
+                    <a data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}" class="wx-content-header" data-ng-class="{true : 'clipped'}[corsican.options && corsican.options.attribution.length > 0]" href="javascript:void();" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}" title="">
+                        <div class="wx-title-wrapper">
+                            <p class="wx-title" ></p>
+                        </div>
+                    </a>
+                    <!-- Attribution should not be clickable -->
+                    <span  class="wx-attribution" ></span>
+                    <a data-ng-mouseenter="corsican.options.iconhover = true" data-ng-mouseleave="corsican.options.iconhover = false" data-twc-rel="corsican" target="{{corsican.options && corsican.options.new_tab ? '_blank' : '_self'}}"  href="javascript:void()" data-from-str="link-{{$index + 1}}_{{content_media.weatherView}}">
+                        <span data-ng-if="corsican.options && corsican.options.new_tab" class="wx-iconfont-global wx-icon-new-window"></span>
+                    </a>
+                </h3>
+            </div>
+          </div>
+        <div class="ng-hide wx-links-sponsored" data-ng-if="content_media.settings.include_ad && $index==content_media.settings.ad_index" id="{{content_media.settings.selectedadpos}}"></div>
+    </li>
+  </ul>
+</div>
+</div></div>  </div>
+</div>
+              </div>
+            </div>
+                                <div class="content-row-5 grid-12 panel-panel clearfix">
+              <div class="content-row-5-inner panel-panel-inner">
+                <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init unified_map" data-twc-controller="twc_unified_map_controller" data-module-name="unified_map" instance="c9d1f8af-05cc-4048-93fc-6357a2ee6d28" data-template-file="/sites/all/modules/custom/angularmods/modules/unified_map/templates/unified_map_current.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init forecast_next_6_hours" data-twc-controller="twc_forecast_next_6_hours_controller" data-module-name="forecast_next_6_hours" instance="118b600d-66e6-4d2e-bd11-dee43e843eab" data-template-file="/sites/all/modules/custom/angularmods/modules/forecast_next_6_hours/templates/forecast_next_6_hours.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="cd758a2b-cc88-47ab-b930-5d955ea6d8f2" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_DriverUnit" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init farming_almanac" data-twc-controller="twc_farming_almanac_controller" data-module-name="farming_almanac" instance="7822f328-318f-4129-9a11-1b74c83ae15b" data-template-file="/sites/all/modules/custom/angularmods/modules/farming_almanac/templates/farming_almanac.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init sun_moon" data-twc-controller="twc_sun_moon_controller" data-module-name="sun_moon" instance="d32aebc8-2a0f-4e48-9146-22f02eeb9818" data-template-file="/sites/all/modules/custom/angularmods/modules/sun_moon/templates/sun_moon.html"></div>  </div>
+</div>
+              </div>
+            </div>
+                                <div class="content-row-6 grid-12 panel-panel clearfix">
+              <div class="content-row-6-inner panel-panel-inner">
+                <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="6299c862-a6ec-41e3-8ccb-5060ed497d22" data-template-file="/sites/all/modules/custom/angularmods/modules/content_media/templates/media_local_video_integration.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="eb9150ce-9654-4ecd-b24b-c85917cd4182" data-template-file="/sites/all/modules/custom/angularmods/modules/content_media/templates/media_extended_news_content.html"></div>  </div>
+</div>
+              </div>
+            </div>
+                                <div class="content-row-7 grid-12 panel-panel clearfix">
+              <div class="content-row-7-inner panel-panel-inner">
+                <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init delivery_units" data-twc-controller="twc_delivery_units_controller" data-module-name="delivery_units" instance="8ef587f5-0dd7-4927-83b1-bed946eee40c" data-template-file="/sites/all/modules/custom/angularmods/modules/delivery_units/templates/global_delivery_units_template.html"></div>  </div>
+</div>
+              </div>
+            </div>
+                                <div class="content-row-8 grid-12 panel-panel clearfix">
+              <div class="content-row-8-inner panel-panel-inner">
+                <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="cfad4067-c1c0-42e8-83aa-eae35f659ea7" data-template-file="/sites/all/modules/custom/angularmods/modules/content_media/templates/media_extended_news_content.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init seo_links" data-twc-controller="twc_seo_links_controller" data-module-name="seo_links" instance="c412f38b-f9ad-4a72-a3b4-e53e381c7084"><div data-ng-non-bindable="true"><div class="topic-links-wrapper fifty-fifty">
+  <div class="topic-links-container">
+    <h3 class="topic-links-title">
+      FEATURES    </h3>
+    <hr>
+    <div class="topic-links-list ">
+      <h4 class="topic-link"><a href="/forecast/allergy/l/{{dynamicLocId}}" data-from-str="section1-1" target="_self" >NEW Allergy Tracker</a></h4><h4 class="topic-link"><a href="/forecast/pollen/l/{{dynamicLocId}}" data-from-str="section1-2" target="_self" >Pollen Forecast</a></h4><h4 class="topic-link"><a href="/home-garden/home" data-from-str="section1-3" target="_self" >Weekend Project</a></h4><h4 class="topic-link"><a href="/tv/shows/responding-by-storm" data-from-str="section1-4" target="_self" >Responding by Storm</a></h4><h4 class="topic-link"><a href="/travel/disney" data-from-str="section1-5" target="_self" >Disney</a></h4><h4 class="topic-link"><a href="/forecast/agriculture/l/{{dynamicLocId}}" data-from-str="section1-6" target="_self" >Farming Forecast</a></h4><h4 class="topic-link"><a href="/forecast/fishing/l/{{dynamicLocId}}" data-from-str="section1-7" target="_self" >Fishing Forecast</a></h4><h4 class="topic-link"><a href="/photos/contest" data-from-str="section1-8" target="_self" >Enter Photo Contest</a></h4>    </div>
+  </div>
+  <div class="topic-links-container hr-style-override padding-override"><h3 class="topic-links-title">ADDITIONAL COVERAGE</h3><hr><div class="topic-links-list"><h4 class="topic-link"><a href="http://profile.weather.com/#/" data-from-str="section2-1" target="_self" >Activate Weather Alerts</a></h4><h4 class="topic-link"><a href="/travel" data-from-str="section2-2" target="_self" >Travel</a></h4><h4 class="topic-link"><a href="/health" data-from-str="section2-3" target="_self" >Health</a></h4><h4 class="topic-link"><a href="/science" data-from-str="section2-4" target="_self" >Science</a></h4><h4 class="topic-link"><a href="/sports-recreation" data-from-str="section2-5" target="_self" >Sports & Recreation</a></h4><h4 class="topic-link"><a href="/home-garden" data-from-str="section2-6" target="_self" >Home & Garden</a></h4><h4 class="topic-link"><a href="/safety/auto" data-from-str="section2-7" target="_self" >Road Ready</a></h4><h4 class="topic-link"><a href="/safety/before" data-from-str="section2-8" target="_self" >Safety & Preparedness</a></h4></div></div></div></div></div>  </div>
+</div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+      <!-- end #wx-main -->
+
+              <div id="wx-rail" class="right-rail sidebar container panel-panel  grid-12 clearfix">
+          <div class="right-rail-inner container-inner panel-panel-inner">
+            <div class="panel-pane content module-padding width-100 float-left     americas-best-communities-pane column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content  ">
+    <div class="twc-init americas_best_communities" data-twc-controller="twc_americas_best_communities_controller" data-module-name="americas_best_communities" instance="205b30be-775f-45bb-93b4-ca73e6893912"><div data-ng-non-bindable="true"><div twc-americas-best-communities community="{{presentationName}}" clickthrough="clickthrough"></div>
+</div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="95a0e006-c56b-4816-b902-7f576e211eec" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_Top300Variable" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init nearby_locs" data-twc-controller="twc_nearby_locs_controller" data-module-name="nearby_locs" instance="20ff8b22-e6ba-4adc-a4b5-f5f0d04cc2ac"><div data-ng-non-bindable="true">
+<section class="content-module"
+         data-module-status="status"
+         data-hide-on-error="true"
+         data-loading-indicator="true"
+         data-ng-class="{'has-more-link': nearbyLocs.hasMoreLinks, 'min-locs' : nearbyLocs.shortlistedLocations.length === 1, 'no-wx-data': !nearbyLocs.showWeatherData}">
+  <header class="content-module-header">
+    <h2 class="main-heading" data-ng-bind="nearbyLocs.headline"></h2>
+  </header>
+  <h3 class="content-module-body" data-ng-repeat="loc in nearbyLocs.shortlistedLocations track by $index">
+    <a class="link-text" data-ng-href="{{getUrl(loc)}}" data-from-str="wxAround_{{$index+1}}">
+      <span data-ng-if="nearbyLocs.showWeatherData && dataLoaded" data-wxicon data-sky-code="loc.skyCode"></span>
+      <span class="temp" title="{{loc.temp()}}" data-ng-if="nearbyLocs.showWeatherData && dataLoaded" data-wx-temperature="loc.temp()" data-show-temp-unit="$index === 0"></span>
+    <span class="nearby-label">
+      <span class="label-main" title={{getLinkText(loc)}} data-ng-bind="getLinkText(loc)"></span>
+    </span>
+      <span data-ng-if="nearbyLocs.showWeatherData && loc.totalB > 0 && dataLoaded" class="wx-alert-badge" aria-label="loc.totalB" data-ng-class="loc.alertStyle" data-ng-bind="loc.totalB"></span>
+    </a>
+  </h3>
+  <footer data-ng-if="nearbyLocs.moreLinkText">
+    <a class="link-text map" title="{{nearbyLocs.moreLinkText}}" data-ng-href="{{nearbyLocs.moreLinkUrl}}" data-from-str="wxAround_moreLink">
+      <span data-ng-bind="nearbyLocs.moreLinkText" aria-label="nearbyLocs.moreLinkText"></span>
+      <span class="wx-iconfont-global wx-icon-arrow-right"></span>
+    </a>
+  </footer>
+</section>
+
+</div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="4915ba21-7d8c-492a-a6d1-4b29852aa97a" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_Mid300" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init taboola_module" data-twc-controller="twc_taboola_module_controller" data-module-name="taboola_module" instance="b657c846-e361-4334-8b47-66b3b59c5c19" data-template-file="/sites/all/modules/custom/angularmods/modules/taboola_module/templates/4-items_right-rail.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="bc963847-8fc2-4413-827c-516d1f0674fb" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_PaidSearch" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init most_popular" data-twc-controller="twc_most_popular_controller" data-module-name="most_popular" instance="e2bf2611-832c-45ee-9539-75b5446527d2" data-template-file="/sites/all/modules/custom/angularmods/modules/most_popular/templates/most_popular.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="e2f9b99f-9cc4-40f3-b826-99e6e1aa770e" data-template-file="/sites/all/modules/custom/angularmods/modules/content_media/templates/media_marketing_content.html"></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div data-instance="b3082bd3-6bc6-40fe-9b6c-2560ae389091" data-module-name="admodule" class="admodule"><div id="wrapper_" class="wx-adWrapper "  data-in-view-beacon data-beacon-name=""><div id="WX_Bot300" class="wx-module wx-gptADS" style="display:none;"></div></div></div>  </div>
+</div>
+<div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init content_media" data-twc-controller="twc_content_media_controller" data-module-name="content_media" instance="cf2fc89c-10c9-4b16-9272-2e281e2527d1" data-template-file="/sites/all/modules/custom/angularmods/modules/content_media/templates/media_marketing_content.html"></div>  </div>
+</div>
+          </div>
+        </div>
+      
+    </div>
+    <!-- end wx-mid-wrap -->
+
+          <footer id="wx-bottom-wrap" class="footer container panel-panel clearfix">
+        <div class="footer-inner container-inner panel-panel-inner">
+          <div class="panel-pane content module-padding width-100 float-left    column"
+  data-eq-pts="pane: 1, pane-xs: 230, pane-sm: 300, pane-md: 465, pane-lg: 630px, pane-xl: 795">
+  <div class="pane-content ">
+    <div class="twc-init footer" data-twc-controller="twc_footer_controller" data-module-name="footer" instance="99ed2a59-4bed-4681-a6d6-bf827569073b"><div data-ng-non-bindable="true">
+<div class="footer-wrapper">
+
+  <div class="footer-social-container center-col">
+    <ul>
+    <li class="link title">Connect With Us</li><li class="social-icons"><a href=https://www.facebook.com/TheWeatherChannel class="wx-iconfont-global wx-icon-facebook" title="Like Us" target="_blank" data-from-str="social_primary_1"></a></li><li class="social-icons"><a href=http://www.twitter.com/weatherchannel class="wx-iconfont-global wx-icon-twitter" title="Follow Us" target="_blank" data-from-str="social_primary_2"></a></li><li class="social-icons"><a href=https://plus.google.com/+TheWeatherChannel/posts class="wx-iconfont-global wx-icon-google-plus" title="Add Us" target="_blank" data-from-str="social_primary_3"></a></li><li class="social-icons"><a href=http://instagram.com/weatherchannel class="wx-iconfont-global wx-icon-instagram" title="Follow us on Instagram" target="_blank" data-from-str="social_primary_4"></a></li><li class="social-icons"><a href=http://www.youtube.com/user/TheWeatherChannel/ class="wx-iconfont-global wx-icon-youtube" title="Watch us on Youtube" target="_blank" data-from-str="social_primary_5"></a></li>      </ul>
+  </div>
+
+  <div class="footer-linklist-container center-col">
+    <ul class="footer-company-links">
+    <li class="link title"></li><li class="link"><a href=http://feedback.weather.com/knowledgebase  data-from-str="nav_sec_1">Support</a></li><li class="link"><a href=http://feedback.weather.com/  data-from-str="nav_sec_2">Feedback</a></li><li class="link"><a href=http://careers.weather.com/?utm_source=careersite&utm_campaign=Careersfooterlnk  data-from-str="nav_sec_3">Careers</a></li><li class="link"><a href=http://press.weather.com/  data-from-str="nav_sec_4">Press Room</a></li><li class="link"><a href=http://advertising.weather.com/contact/  data-from-str="nav_sec_5">Advertise With Us</a></li><li class="link"><a href=/life/local-advertise-self-serve  data-from-str="nav_sec_6">Advertise- Self Service</a></li>    </ul>
+    <ul class="footer-explore-links">
+      <li class="link title">Explore</li><li class="link"><a href="/sitemap"  data-from-str="nav_sec_1">Sitemap</a></li><li class="link"><a href="http://www.wunderground.com/weather/api"  data-from-str="nav_sec_2">Weather API</a></li>    </ul>
+  </div>
+    <div class="footer-copyright center-col">
+        <div class="footer-copyright-text">
+            &copy; 1995-2015. <span data-ng-bind="'search.COPYRIGHT' | translate"></span>
+        </div>
+        <ul class="footer-legal-links">
+        <li class="link"><a href="/legal" rel="nofollow"  data-from-str="links_footer_bottom_primary_1">Terms of Use</a></li><li class="link"><a href="/privacy-policy" rel="nofollow"  data-from-str="links_footer_bottom_primary_2">Privacy Policy</a></li><li class="link"><a href="http://www.controlyourtv.org/Intro.aspx" rel="nofollow"  data-from-str="links_footer_bottom_primary_3">Parental Controls</a></li><li class="link"><a href="/services/ad-choices.html" rel="nofollow"  data-from-str="links_footer_bottom_primary_4">Ad Choices</a></li><li class="link"><a href="http://www.cometourgeorgia.com/weather" rel="nofollow"  data-from-str="links_footer_bottom_primary_5">Georgia Org</a></li><li class="link"><a href="/accessibility" rel="nofollow"  data-from-str="links_footer_bottom_primary_6">Accessibility</a></li>        </ul>
+    </div>
+</div>
+</div></div>  </div>
+</div>
+        </div>
+      </footer>
+    
+  </div>
+  <!-- /.vegas -->
+</div><!-- End Wrapper in master JSP -->
+          </div>
+
+</div>
+  <script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__oCzulSvgmnZ9N9eR94zlNNEXSVFx6aJPq87qITiiacw__rhoVx-hbmKLaoIWy3g1ZeCMJdBPjRro3GgByt8RFAjU__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script src="http://www.weather.com/sites/acquia-prod/files/advagg_js/js__xD4OfwZPZd-QVh-cCnHcEQjbfIFd54bYDLOC_oOrJH0__25QKyEhfVKPKFzIFIuJW_DNh4hFCCwaJmkU-SFUX0Z4__PZB1IfU4sb6SipDrbCSKW0ivtyz3wMQLlR9HRfudjrU.js"></script>
+<script>
+        if (Drupal.settings.angularmods && Drupal.settings.angularmods.active){
+          if (twc.shared && twc.shared.apps) {
+            Drupal.settings.angularmods.active.push("shared");
+          }
+          twc.app = angular.module("twc", Drupal.settings.angularmods.active);
+
+          twc.app.config(function ($translateProvider, twcMessageProvider, $controllerProvider, $provide, $compileProvider, $filterProvider) {
+            var locale = (TWC && TWC.Titan && TWC.Titan.locale) || TWC.pco.getNodeValue("user", "locale"), translations = twcMessageProvider.getAll();
+            if(locale in translations) {
+              $translateProvider.translations(locale, translations[locale]);
+            }
+            $translateProvider.preferredLanguage( locale );
+
+            // setup for dynamic loading.
+            var _module = angular.module, apps = Drupal.settings.angularmods.active.concat("twc");
+            angular.forEach(apps, function(appName) {
+              var app = _module(appName);
+              app._controller = app.controller;
+              app._service = app.service;
+              app._factory = app.factory;
+              app._value = app.value;
+              app._directive = app.directive;
+              // Provider-based controller.
+              app.controller = function( name, constructor ) {
+                  $controllerProvider.register( name, constructor );
+                  return( this );
+              };
+
+              // Provider-based service.
+              app.service = function( name, constructor ) {
+                  $provide.service( name, constructor );
+                  return( this );
+              };
+
+              // Provider-based factory.
+              app.factory = function( name, factory ) {
+                  $provide.factory( name, factory );
+                  return( this );
+              };
+
+              // Provider-based value.
+              app.value = function( name, value ) {
+                  $provide.value( name, value );
+                  return( this );
+              };
+
+              // Provider-based constant.
+              app.constant = function( name, value ) {
+                  $provide.value( name, value );
+                  return( this );
+              };
+
+              // Provider-based filter.
+              app.filter = function( name, constructor ) {
+                  $filterProvider.register( name, constructor );
+                  return( this );
+              };
+
+              // Provider-based directive.
+              app.directive = function( name, factory ) {
+                  $compileProvider.directive( name, factory );
+                  return( this );
+              };
+            });
+
+          });
+
+          twc.app.run([
+            "$rootScope", "$q", "PcoDevice", "twcPco", "$window", "$interpolate", "$sce", function ($rootScope, $q, device, twcPco, $window, $interpolate, $sce) {
+              $rootScope.getInternalTrustedUrl = function(url) {
+                return $sce.getTrustedResourceUrl(url);
+              };
+              $rootScope.theme = angular.element("body").hasClass("redcell") ? "redcell" : "reboot";
+              $rootScope.isMobile = (Drupal.settings.twc.variant === "little");
+              // set touch from window attributes
+              $rootScope.isTouch  = ("ontouchstart" in window || (navigator && !!(navigator.msMaxTouchPoints)));
+              $q.all(twcPco.get("device").promises).then(function() {
+                // set tablet from our device node.
+                $rootScope.isTablet = (device.getOpenDDRTablet() === "true");
+              });
+
+              if(TWC.pageTitle) {
+                var interpolatedPageTitle = $interpolate(TWC.pageTitle);
+
+                $rootScope.$watch(function() {
+                  return interpolatedPageTitle($rootScope);
+                }, function(title) {
+                  $window.document.title = title;
+                  $rootScope.pageTitle=title;
+                })
+              }
+              else {
+                twclog.error("TWC.pageTitle does not exist");
+              }
+          }]);
+          if (!window.callPhantom) {
+            setTimeout(function(){
+              angular.bootstrap(document,["twc"]);
+            },5);
+          }
+          else {
+            // For phantomJS, we need to bootstrap on the browser queue to make the
+            // stupid phantom understand that bootstrap is part of the page.
+            angular.bootstrap(document,["twc"]);
+          }
+        }
+        window.page_bottom_reached = true;
+      </script>
+<script></script>
+</body>
+</html>

@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://wuwf.org/post/arson-attack-killed-toddler-west-bank-called-terrorism" />
+<meta property="og:title" content="Arson Attack That Killed Toddler In West Bank Is Called Terrorism" />
+<link href="http://mediad.publicbroadcasting.net/p/shared/npr/201507/428087289.jpg" rel="image_src" />
+<meta name="description" content="An arson attack in the West Bank that killed an 18-month-old boy was being condemned widely on Friday, but the Palestinian Liberation Organization is" />
+<meta property="og:description" content="An arson attack in the West Bank that killed an 18-month-old boy was being condemned widely on Friday, but the Palestinian Liberation Organization is" />
+<meta property="og:image" content="http://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/201507/428087289.jpg" />
+<meta content="Arson Attack That Killed Toddler In West Bank Is Called Terrorism" about="/post/arson-attack-killed-toddler-west-bank-called-terrorism" property="dc:title" />
+<link rel="shortcut icon" href="http://mediad.publicbroadcasting.net/p/wuwf/files/201503/favicon_fid.ico" type="image/vnd.microsoft.icon" />
+<meta property="twitter:creator" content="@https://twitter.com/wuwfmedia" />
+<meta property="twitter:site" content="@https://twitter.com/wuwfmedia" />
+<meta property="twitter:card" content="summary" />
+<meta name="datePublished" content="2015-07-31" />
+<meta name="wordCount" content="481" />
+<link rel="shortlink" href="/node/26983" />
+<meta name="pop" content="1" />
+<link rel="canonical" href="/post/arson-attack-killed-toddler-west-bank-called-terrorism" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="has_audio" content="0" />
+<meta name="programs" content="none" />
+<meta name="org_id" content="1" />
+<meta name="keywords" content="" />
+<meta name="author" content="Eyder Peralta" />
+<meta name="nid" content="26983" />
+<meta name="category" content="none" />
+<meta name="story_id" content="428082639" />
+    <title>Arson Attack That Killed Toddler In West Bank Is Called Terrorism | WUWF</title>
+    <link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_uY1_bHNTrAu2UuUwumZ6AuPc2Egu5fV5FiJ2-fv7ySk.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.header-region-outer{background-color:#FFFFFF;}.branding .tagline{color:#000;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#FFFFFF;}@media screen and (min-width:641px){.branding .trigger-nav{background:#777777;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#2E75B6;}#listen-live .listen-live-btn{background-color:transparent;color:#FFFFFF;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#2E75B6;}}.branding .give{background:#AE2512;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_L2LO1GbjwX-Xg2xqjxGsU6wzEFIoHRqw-PtJ_LI9nxw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuwf.org/sites/wuwf.org/files/css/css_y101-L8tMiknKJ2CmGh2GY93BrQmXSLLhP8HCFFbeQM.css" media="all" />
+    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_y1ASX8GG1N8wZfsjpV-6bS2d5T56FunQPus3CyzS7Dw.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_backAKuOSlvzPD1wwPiE9-I5Bg91NZsdUo1pRI1M_6U.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_bFrUZLSY-zjqzzn8Vrps3lq1itaHGPffzI48h1HP1Do.js"></script>
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_w0EHsf3lMfm05OqwKkrc0_UKoSw4NSEa4KH95-BcwY0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/abh7.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuwf/files/js/js_cmBmYYxgDNmufay482tKET8ufw7eYMpM44qHaJ9tiCs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"a3IPx0tmC36F-0JcNTZ1IkF-dN5RhWKDcSDosy0PMkE","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive_utilities.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"0":1,"sites\/all\/themes\/responso\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/responso\/js\/vendor\/media.match.min.js":1,"sites\/all\/themes\/responso\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/themes\/responso\/js\/vendor\/enquire.min.js":1,"sites\/all\/themes\/responso\/js\/mediaqueries.js":1,"sites\/all\/themes\/responso\/js\/vendor\/fastclick.js":1,"sites\/all\/themes\/responso\/foundation\/js\/foundation\/foundation.js":1,"sites\/all\/themes\/responso\/foundation\/js\/foundation\/foundation.topbar.js":1,"sites\/all\/themes\/responso\/foundation\/js\/foundation\/foundation.interchange.js":1,"sites\/all\/themes\/responso\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"wuwf.org"},"googleCSE":{"cx":"010251366440257945544:ef8epfc9odo","language":"","resultsWidth":25,"domain":"www.google.com"},"responsive_ads":{"networkCode":"15798703","placement":{"leaderboard_1":"main#content","medium_1":".node .field-name-body","medium_2":".node p:nth-of-type(3)","medium_3":".node p:nth-of-type(3)","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"targeting":{"id":"26983","type":"post","tags":[],"category":"","programs":[]},"ads":{"leaderboard_1":{"type":"leaderboard","adUnit":"WUWFR_leaderboard_1","name":"leaderboard_1","width":728,"height":90},"medium_1":{"type":"medium","adUnit":"WUWFR_medium_1","name":"medium_1","width":300,"height":250},"medium_2":{"type":"medium","adUnit":"WUWFR_medium_2","name":"medium_2","width":300,"height":250},"medium_3":{"type":"medium","adUnit":"WUWFR_medium_3","name":"medium_3","width":300,"height":250},"tablet_1":{"type":"tablet","adUnit":"WUWFR_tablet_1","name":"tablet_1","width":728,"height":90},"mobile_1":{"type":"mobile","adUnit":"WUWFR_mobile_1","name":"mobile_1","width":320,"height":50}}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":26983,"author":"Eyder Peralta","org_id":"1","keywords":"","wordCount":481,"story_id":"428082639","datePublished":"2015-07-31"},"streamCount":3,"streams":[{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwf1.m3u","width":"","height":"","display":"1","weight":0,"streamName":"wuwf fm1","description":"WUWF-1 News ","ucs":"52615cb4e1c8dba2f875b3f0"},{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwf2.m3u","width":"","height":"","display":"1","weight":"1","streamName":"wuwf  fm2","description":"WUWF-2 Classical","ucs":"52669af3e1c8c4e9eec86d19"},{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwfhd3.m3u","width":"","height":"","display":"1","weight":"2","streamName":"wuwf fm3","description":"WUWF-3 SightLine","ucs":"527cf640e1c84c4fbbe2714c"},{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwf1.m3u","width":"","height":"","display":"1","weight":0,"streamName":"wuwf fm1","description":"WUWF-1 News ","ucs":"52615cb4e1c8dba2f875b3f0"},{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwf2.m3u","width":"","height":"","display":"1","weight":"1","streamName":"wuwf  fm2","description":"WUWF-2 Classical","ucs":"52669af3e1c8c4e9eec86d19"},{"stream_mp3":"http:\/\/www.publicbroadcasting.net\/wuwf\/ppr\/wuwfhd3.m3u","width":"","height":"","display":"1","weight":"2","streamName":"wuwf fm3","description":"WUWF-3 SightLine","ucs":"527cf640e1c84c4fbbe2714c"}],"disqus":{"domain":"npr-wuwf","url":"http:\/\/wuwf.org\/post\/arson-attack-killed-toddler-west-bank-called-terrorism","title":"Arson Attack That Killed Toddler In West Bank Is Called Terrorism","identifier":"node\/26983"},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-26983 node-type-post"}});
+//--><!]]>
+</script>
+    <meta name="viewport" content="width=device-width">
+  </head>
+
+  <body class="html not-front not-logged-in page-node page-node- page-node-26983 node-type-post has-sidebar" >
+    <header role="banner" class="header">
+  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
+    <div class="region region-header">
+    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
+
+    
+  <div class="content">
+    
+<div class="header-region-outer">
+  <section class="header-region-inner row">
+    <div class="branding large-12 columns">
+      <div class="brand-inner-wrapper">
+        <a href="/" rel="home" class="logo" title="WUWF Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/201503/logo_fid_0.png" alt="WUWF logo" title="WUWF Home" /></a>         <div class="tagline">
+          88.1 FM | NPR for Florida's Great Northwest        </div>
+      </div>
+      <div class="header-utility">
+        <a class="trigger-nav" href="#">
+          <span class="icon-list"></span>
+          <span class="icon-cross"></span>
+          <span class="menu-text">Site Menu</span>
+        </a>
+        <a class="give" href="https://donate.nprstations.org/wuwf/" >
+  Donate</a>
+      </div>
+    </div>
+  </section>
+</div>
+  </div>
+</div>
+  </div>
+</header>
+    <div class="nav-wrapper mobile">
+      <nav>
+        <div class="top-bar contain-to-grid" data-topbar>
+          <ul class="title-area">
+            <li class="toggle-topbar menu-icon">
+              <a href="#">Menu</a>
+            </li>
+          </ul>
+          <section class="top-bar-section">
+            <div class="table-queue" id="table-queue-fleximenu">
+  <ul  class="menu dropdown">
+<li class="dd has-dropdown not-click">
+<a href="http://wuwf.org">Home</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuwf.org">Home Page</a>
+</li>
+<li class="left">
+<a href="/about-us">About Us</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/cpb-info">CPB Info</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+<li class="left">
+<a href="/map-and-directions">Map and Directions</a>
+</li>
+<li class="left">
+<a href="/wuwf-tv-live">WUWF-TV Live</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/wuwf-events">Events</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuwf.org/post/gallery-88-0">Gallery 88</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/radiolive">RadioLive</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/news">Local News</a>
+</li>
+<li class="left">
+<a href="/local-weather">Local Weather</a>
+</li>
+<li class="left">
+<a href="/fpren-storm-center">FPREN Storm Center</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/newsletter">Newsletter</a>
+</li>
+<li class="left">
+<a href="http://www.npr.org/streams/mp3/nprnewscast.m3u">NPR Hourly Newscast</a>
+</li>
+<li class="left">
+<a href="/people/rick-harper">Economy: Rick Harper</a>
+</li>
+<li class="left">
+<a href="/people/carl-wernicke">Opinion: Carl Wernicke</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/people">People</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/people/capacity/staff">WUWF Staff</a>
+</li>
+<li class="left">
+<a href="/people/capacity/hosts">WUWF Hosts</a>
+</li>
+<li class="left">
+<a href="/people/capacity/syndicated">National Hosts</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Programs</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/programs/1459">14/59</a>
+</li>
+<li class="left">
+<a href="/programs/acoustic-interlude">Acoustic Interlude</a>
+</li>
+<li class="left">
+<a href="/programs/big-bands-and-jazz">Big Bands and Jazz</a>
+</li>
+<li class="left">
+<a href="/programs/blue-plate-special">Blue Plate Special</a>
+</li>
+<li class="left">
+<a href="/programs/classical-24">Classical 24</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/people/eco-minute">Eco Minute</a>
+</li>
+<li class="left">
+<a href="/programs/jazz-dale-riegle">Jazz with Dale Riegle</a>
+</li>
+<li class="left">
+<a href="/programs/musical-gumbo">Musical Gumbo</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/radiolive">RadioLive</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/people/seagrass-satsumas-food-environment-blog">Seagrass &amp; Satsumas</a>
+</li>
+<li class="left">
+<a href="/unfla">Unearthing Florida</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/programs">All Programs</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/schedule">Schedule</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/schedule/wuwf%2520fm1">WUWF-1 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="/wuwf-1-newstalk-grid">WUWF-1 Weekly Grid</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/schedule/wuwf%20%20fm2">WUWF-2 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/schedule/wuwf%20fm3">WUWF-3 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="/wuwf-3-sightline-grid">WUWF-3 Weekly Grid</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/become-member">Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/become-member">Member Levels &amp; Benefits</a>
+</li>
+<li class="left">
+<a href="/combined-federal-campaign">Contribute via CFC</a>
+</li>
+<li class="left">
+<a href="/corporate-sponsors">Corporate Sponsors</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/post/wuwf-corporate-support">Corporate Support</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/post/audio-clips">Audio Clips</a>
+</li>
+<li class="left">
+<a href="/crystal-circle">Crystal Circle</a>
+</li>
+<li class="left">
+<a href="/day-sponsor">Day Sponsor</a>
+</li>
+<li class="left">
+<a href="/legacy-gifts">Legacy Gifts</a>
+</li>
+<li class="left">
+<a href="/member-card">Member Card</a>
+</li>
+<li class="left">
+<a href="/sustaining-membership">Sustaining Membership</a>
+</li>
+<li class="left">
+<a href="http://wuwf-cardonations.org/HOME.html">Vehicle Donation</a>
+</li>
+<li class="left">
+<a href="/sightline-volunteers">Volunteer Opportunities</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuwf.org/webcasts">Webcasts</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/">2015 Archives:</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-german-mba-graduation">German MBA Graduation</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-bot-june-2015">UWF BOT 6.23.15</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-spring-commencement">UWF Spring Commencement</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-ice-cream-social">Ice Cream Social</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-nautilus-excellence-awards">Nautilus Excellence Awards</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/honors-convocation">UWF Honors Convocation</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-bot-meeting-march-2015">UWF BOT March 25, 2015</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/academic-affairs-spring-symposium">Academic Affairs Spring Staff Symposium</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/academic-affairs-town-hall">Academic Affairs Town Hall for Faculty</a>
+</li>
+<li class="left">
+<a href="/">2014 Archives:</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/fall-commencement-2014">UWF Fall Graduation 2014</a>
+</li>
+<li class="left">
+<a href="/innovation">Innovation Coast Awards</a>
+</li>
+<li class="left">
+<a href="/startup-weekend">Startup Weekend</a>
+</li>
+<li class="left">
+<a href="/uwf-sotu-2014">UWF SOTU Address</a>
+</li>
+<li class="left">
+<a href="/florida-bog-uwf">Florida BOG at UWF</a>
+</li>
+<li class="left">
+<a href="/bot-2014">UWF BOT Meetings </a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/german-cohort-mba-graduation">German MBA Graduation</a>
+</li>
+<li class="left">
+<a href="/2014-spring-graduation">UWF Spring Graduation</a>
+</li>
+<li class="left">
+<a href="/2014-nautilus-excellence-awards">UWF Nautilus Awards</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-town-hall-march-4-2014">UWF Town Hall (March)</a>
+</li>
+<li class="left">
+<a href="/">2013 Archives:</a>
+</li>
+<li class="left">
+<a href="/bot-2013">UWF BOT Meetings</a>
+</li>
+<li class="left">
+<a href="/uwf-commencement">UWF Fall Graduation 2013</a>
+</li>
+<li class="left">
+<a href="/">Other Archives:</a>
+</li>
+<li class="left">
+<a href="/bot-2012">2012 UWF BOT Meetings</a>
+</li>
+<li class="left">
+<a href="/bot-2011">2011 UWF BOT Meetings</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+          </section>
+        </div>
+      </nav>
+    </div>
+        <div id="page-wrapper">
+            <div class="page-load"></div>
+<div id="page-document" role="document" class="page">
+  <div class="nav-wrapper">
+    <nav>
+      <div class="top-bar contain-to-grid" data-topbar>
+        <ul class="title-area">
+          <li class="toggle-topbar menu-icon">
+            <a href="#">Menu</a>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <div class="table-queue" id="table-queue-fleximenu">
+  <ul  class="menu dropdown">
+<li class="dd has-dropdown not-click">
+<a href="http://wuwf.org">Home</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuwf.org">Home Page</a>
+</li>
+<li class="left">
+<a href="/about-us">About Us</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/cpb-info">CPB Info</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+<li class="left">
+<a href="/map-and-directions">Map and Directions</a>
+</li>
+<li class="left">
+<a href="/wuwf-tv-live">WUWF-TV Live</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/wuwf-events">Events</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuwf.org/post/gallery-88-0">Gallery 88</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/radiolive">RadioLive</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/news">Local News</a>
+</li>
+<li class="left">
+<a href="/local-weather">Local Weather</a>
+</li>
+<li class="left">
+<a href="/fpren-storm-center">FPREN Storm Center</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/newsletter">Newsletter</a>
+</li>
+<li class="left">
+<a href="http://www.npr.org/streams/mp3/nprnewscast.m3u">NPR Hourly Newscast</a>
+</li>
+<li class="left">
+<a href="/people/rick-harper">Economy: Rick Harper</a>
+</li>
+<li class="left">
+<a href="/people/carl-wernicke">Opinion: Carl Wernicke</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/people">People</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/people/capacity/staff">WUWF Staff</a>
+</li>
+<li class="left">
+<a href="/people/capacity/hosts">WUWF Hosts</a>
+</li>
+<li class="left">
+<a href="/people/capacity/syndicated">National Hosts</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Programs</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/programs/1459">14/59</a>
+</li>
+<li class="left">
+<a href="/programs/acoustic-interlude">Acoustic Interlude</a>
+</li>
+<li class="left">
+<a href="/programs/big-bands-and-jazz">Big Bands and Jazz</a>
+</li>
+<li class="left">
+<a href="/programs/blue-plate-special">Blue Plate Special</a>
+</li>
+<li class="left">
+<a href="/programs/classical-24">Classical 24</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/people/eco-minute">Eco Minute</a>
+</li>
+<li class="left">
+<a href="/programs/jazz-dale-riegle">Jazz with Dale Riegle</a>
+</li>
+<li class="left">
+<a href="/programs/musical-gumbo">Musical Gumbo</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/radiolive">RadioLive</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/people/seagrass-satsumas-food-environment-blog">Seagrass &amp; Satsumas</a>
+</li>
+<li class="left">
+<a href="/unfla">Unearthing Florida</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/programs">All Programs</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/schedule">Schedule</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/schedule/wuwf%2520fm1">WUWF-1 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="/wuwf-1-newstalk-grid">WUWF-1 Weekly Grid</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/schedule/wuwf%20%20fm2">WUWF-2 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/schedule/wuwf%20fm3">WUWF-3 Daily Schedule</a>
+</li>
+<li class="left">
+<a href="/wuwf-3-sightline-grid">WUWF-3 Weekly Grid</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/become-member">Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/become-member">Member Levels &amp; Benefits</a>
+</li>
+<li class="left">
+<a href="/combined-federal-campaign">Contribute via CFC</a>
+</li>
+<li class="left">
+<a href="/corporate-sponsors">Corporate Sponsors</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/post/wuwf-corporate-support">Corporate Support</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/post/audio-clips">Audio Clips</a>
+</li>
+<li class="left">
+<a href="/crystal-circle">Crystal Circle</a>
+</li>
+<li class="left">
+<a href="/day-sponsor">Day Sponsor</a>
+</li>
+<li class="left">
+<a href="/legacy-gifts">Legacy Gifts</a>
+</li>
+<li class="left">
+<a href="/member-card">Member Card</a>
+</li>
+<li class="left">
+<a href="/sustaining-membership">Sustaining Membership</a>
+</li>
+<li class="left">
+<a href="http://wuwf-cardonations.org/HOME.html">Vehicle Donation</a>
+</li>
+<li class="left">
+<a href="/sightline-volunteers">Volunteer Opportunities</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuwf.org/webcasts">Webcasts</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/">2015 Archives:</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-german-mba-graduation">German MBA Graduation</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-bot-june-2015">UWF BOT 6.23.15</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-spring-commencement">UWF Spring Commencement</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-ice-cream-social">Ice Cream Social</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/2015-nautilus-excellence-awards">Nautilus Excellence Awards</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/honors-convocation">UWF Honors Convocation</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-bot-meeting-march-2015">UWF BOT March 25, 2015</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/academic-affairs-spring-symposium">Academic Affairs Spring Staff Symposium</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/academic-affairs-town-hall">Academic Affairs Town Hall for Faculty</a>
+</li>
+<li class="left">
+<a href="/">2014 Archives:</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/fall-commencement-2014">UWF Fall Graduation 2014</a>
+</li>
+<li class="left">
+<a href="/innovation">Innovation Coast Awards</a>
+</li>
+<li class="left">
+<a href="/startup-weekend">Startup Weekend</a>
+</li>
+<li class="left">
+<a href="/uwf-sotu-2014">UWF SOTU Address</a>
+</li>
+<li class="left">
+<a href="/florida-bog-uwf">Florida BOG at UWF</a>
+</li>
+<li class="left">
+<a href="/bot-2014">UWF BOT Meetings </a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/german-cohort-mba-graduation">German MBA Graduation</a>
+</li>
+<li class="left">
+<a href="/2014-spring-graduation">UWF Spring Graduation</a>
+</li>
+<li class="left">
+<a href="/2014-nautilus-excellence-awards">UWF Nautilus Awards</a>
+</li>
+<li class="left">
+<a href="http://wuwf.org/uwf-town-hall-march-4-2014">UWF Town Hall (March)</a>
+</li>
+<li class="left">
+<a href="/">2013 Archives:</a>
+</li>
+<li class="left">
+<a href="/bot-2013">UWF BOT Meetings</a>
+</li>
+<li class="left">
+<a href="/uwf-commencement">UWF Fall Graduation 2013</a>
+</li>
+<li class="left">
+<a href="/">Other Archives:</a>
+</li>
+<li class="left">
+<a href="/bot-2012">2012 UWF BOT Meetings</a>
+</li>
+<li class="left">
+<a href="/bot-2011">2011 UWF BOT Meetings</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+        </section>
+      </div>
+    </nav>
+  </div>
+
+  <div id="player" class="player">
+    <div id="listen-live" class="listen-live">
+   <div class="listen-live-toggle"><a class="listen-live-btn" href="#"><span class="icon-arrow"></span>Listen Live </a></div>
+  <ul id="on-air-items" class="no-bullet">
+        		<li class="listen-live-streams">
+      <a target="_blank" id="now-on-0" href="http://www.publicbroadcasting.net/wuwf/ppr/wuwf1.m3u">
+        <div class="stream_name">WUWF-1 News </div>
+        <div class="program-text" ></div>
+      </a>
+    </li>
+
+        		<li class="listen-live-streams">
+      <a target="_blank" id="now-on-1" href="http://www.publicbroadcasting.net/wuwf/ppr/wuwf2.m3u">
+        <div class="stream_name">WUWF-2 Classical</div>
+        <div class="program-text" ></div>
+      </a>
+    </li>
+
+        		<li class="listen-live-streams">
+      <a target="_blank" id="now-on-2" href="http://www.publicbroadcasting.net/wuwf/ppr/wuwfhd3.m3u">
+        <div class="stream_name">WUWF-3 SightLine</div>
+        <div class="program-text" ></div>
+      </a>
+    </li>
+
+    </ul>
+</div>
+  </div>
+
+  
+  
+  
+  
+  <div class="row">
+    <main id="content" role="main" class="main-content small-12 columns">
+      <article class="story">
+        <a id="main-content"></a>
+        
+                                    
+        
+                  <div class="regions-ab-outer">
+            <div class="regions-ab-inner">
+        
+        
+        
+                    </div>
+          </div>
+        
+        
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-26983" class="node node-post node-promoted full row" about="/post/arson-attack-killed-toddler-west-bank-called-terrorism" typeof="sioc:Item foaf:Document">
+  <div class="small-12 columns">
+        
+    <h1 itemprop="name" class="post-title">
+      Arson Attack That Killed Toddler In West Bank Is Called Terrorism    </h1>
+
+  	
+    
+          <div class="by-date">
+        <span class="submitted"><span property="dc:date dc:created" content="2015-07-31T10:33:00-05:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="submitted-label">By</span> <span class="name"><a href="/people/eyder-peralta" rel="author">Eyder Peralta</a></span></span></span>
+        <i class="bullet">&#8226;</i>
+        <span class="pub-date">Jul 31,  2015 </span>
+      </div>
+    
+    <div class="row">
+      <div class="large-2 columns">
+        <div class="social-share clearfix"><span class="share-label">Share</span><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.tinyurl.com%2Fqezz3zx&amp;text=Arson%20Attack%20That%20Killed%20Toddler%20In%20West%20Bank%20Is%20Called%20Terrorism" class="social-share-twitter" title="Twitter" target="_blank">Twitter</a>&nbsp;<a href="http://facebook.com/sharer.php?u=http%3A%2F%2Fwww.tinyurl.com%2Fqezz3zx&amp;t=Arson%20Attack%20That%20Killed%20Toddler%20In%20West%20Bank%20Is%20Called%20Terrorism" class="social-share-facebook" title="Facebook" target="_blank">Facebook</a>&nbsp;<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.tinyurl.com%2Fqezz3zx" class="social-share-googleplus" title="Google+" target="_blank">Google+</a>&nbsp;<a href="mailto:?subject=Arson%20Attack%20That%20Killed%20Toddler%20In%20West%20Bank%20Is%20Called%20Terrorism&amp;body=http%3A%2F%2Fwww.tinyurl.com%2Fqezz3zx" class="social-share-email" title="Email" target="_blank">Email</a>&nbsp;</div>      </div>
+
+      <div class="medium-10 medium-pull-1 large-8 large-pull-2 columns">
+        <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><ul class="gallery no-bullet"><li>
+  <figure>
+    <a title="A Palestinian man mourns alongside the body of a one-and-a-half year old boy, Ali Dawabsheh, during his funeral in Duma village near the West Bank city of Nablus on Friday." href="http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201507/428087289.jpg" class="noexit lightbox">
+      <img src="http://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/201507/428087289.jpg"   alt="A Palestinian man mourns alongside the body of a one-and-a-half year old boy, Ali Dawabsheh, during his funeral in Duma village near the West Bank city of Nablus on Friday.">
+          </a>
+    <div class="image-meta">
+  <figcaption>
+    <div class="caption">A Palestinian man mourns alongside the body of a one-and-a-half year old boy, Ali Dawabsheh, during his funeral in Duma village near the West Bank city of Nablus on Friday.</div>
+    <div class="attribution">
+  <span class="credit">Majdi Mohammed</span>
+  <span class="agency">AP</span>
+</div>
+  </figcaption>
+</div>
+  </figure>
+</li>
+</ul></div></div></div><div class='api-pub-date'>Originally published on July 31, 2015 12:07 pm </div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>An arson attack in the West Bank that killed an 18-month-old boy was being condemned widely on Friday, but the Palestinian Liberation Organization is putting the blame on the Israeli government. </p><p>The attack happened in the early morning hours of Friday when perpetrators firebombed a house in the village of Duma. According to the BBC, the perpetrators left behind some graffiti in Hebrew. On one wall, the Star of David was drawn right next to the word "revenge." </p><p><a href="http://www.nytimes.com/2015/08/01/world/middleeast/west-bank-arson-palestinian-toddler.html?_r=0">According to The New York Times</a>, an 18-month-old toddler was burned to death and his 4-year-old brother was critically injured. </p><p><a href="http://www.bbc.com/news/world-middle-east-33729281">The BBC reports</a> that Israeli Prime Minister Benjamin Netanyahu called the attack "reprehensible and horrific." </p><p>"This is an act of terrorism in every respect. The State of Israel takes a strong line against terrorism regardless of the perpetrators," Netanyahu said. </p><p>The BBC adds:<br /></p><blockquote> <p>"However the Palestine Liberation Organization (PLO), which dominates the Palestinian Authority in the West Bank, said it held the Israeli government 'fully responsible for the brutal assassination' of the child, Ali Saad Dawabsha. </p><p>" 'This is a direct consequence of decades of impunity given by the Israeli government to settler terrorism,' it said."<br /></p></blockquote> <p><a href="http://www.reuters.com/article/2015/07/31/us-israel-palestinians-idUSKCN0Q50AG20150731">Reuters reports</a> that this:<br /></p><blockquote> <p>"... was the worst attack by Israeli assailants since a Palestinian teenager was burned to death in Jerusalem a year ago. That followed the kidnapping and killing of three Israeli teenagers by Palestinian militants in the West Bank. </p><p>"The Israeli military boosted forces in the area to search for the suspects, described by a spokesman as 'two masked terrorists,' and prevent any escalation in violence. The Palestinian Islamist group Hamas called for revenge."<br /></p></blockquote> <p>Mark Toner, a U.S. State Department spokesperson, <a href="http://www.state.gov/r/pa/prs/ps/2015/07/245554.htm">said that the United States condemned</a> "last night's vicious terrorist attack." </p><p>He continued: "We welcome Prime Minister Netanyahu's order to Israel's security forces to use all means at their disposal to apprehend the murderers for what he called an act of terrorism and bring them to justice. We urge all sides to maintain calm and avoid escalating tensions in the wake of this tragic incident." </p><p>Meanwhile, the family and several hundred people joined in a funeral procession for the boy. In life, Reuters reports, Ali Dawabsheh was a beautiful, smiling, chubby-faced boy.<br /></p><div class="fullattribution">Copyright 2015 NPR. To see more, visit http://www.npr.org/.<img src="http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&amp;utmdt=Arson+Attack+That+Killed+Toddler+In+West+Bank+Is+Called+Terrorism&amp;utme=8(APIKey)9(MDA5MTYwMDQ1MDEzMzE1ODcyMjRmY2FlMA004)" /></div> <p></p></div></div></div><div id="disqus_thread"><noscript><p><a href="http://npr-wuwf.disqus.com/?url=http%3A%2F%2Fwuwf.org%2Fpost%2Farson-attack-killed-toddler-west-bank-called-terrorism">View the discussion thread.</a></p></noscript></div>      </div>
+    </div>
+      </div>
+</div>
+  </div>
+</div>
+  </div>
+              </article>
+    </main>
+  </div>
+
+      <section class="post-content">
+      <div>
+          <div class="region region-post-content">
+    <div id="block-pi-responsive-ads-mobile-1" class="block block-pi-responsive-ads">
+
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+      </div>
+    </section>
+  
+  <div class="bottom-ads">
+    <div class="bottom-ads-inner"></div>
+  </div>
+</div>
+
+<footer class="footer" role="contentinfo">
+  <div class="row">
+    <div class="footer-affiliate-container small-centered columns">
+                  <div class="region region-footer">
+    <div id="block-pi-table-queue-partnerfooter" class="block block-pi-table-queue">
+
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-partnerfooter">
+  <p class="partnerslabel">
+  </p>
+<div class="item-list"><ul class="partner-logos"><li class="first"><a href="http://uwf.edu" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/uwf150.png" alt="University of West Florida" title="University of West Florida" /></a></li>
+<li><a href="http://fpbs.org/" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/fpbs150.png" alt="FPBS" title="FPBS" /></a></li>
+<li><a href="http://npr.org" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/npr15c.png" alt="NPR" title="NPR" /></a></li>
+<li><a href="http://www.bbc.com/news/world/" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/bbc150.png" alt="BBC World News" title="BBC World News" /></a></li>
+<li><a href="http://pri.org" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/pri150c.png" alt="PRI" title="PRI" /></a></li>
+<li><a href="http://wuwf.org/cpb-info" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/cpb150.png" alt="WUW" title="WUW" /></a></li>
+<li><a href="https://www.facebook.com/WUWFPublicMedia" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/fb150.png" alt="WUWF Facebook" title="WUWF Facebook" /></a></li>
+<li><a href="https://twitter.com/wuwfmedia" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/twit15b.png" alt="WUWF on Twitter" title="WUWF on Twitter" /></a></li>
+<li class="last"><a href="https://www.youtube.com/user/WUWF12" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuwf/files/styles/partner_footer_logo/public/201503/youtube150a.png" alt="WUWF You Tube Channel" title="WUWF You Tube Channel" /></a></li>
+</ul></div></div>
+  </div>
+</div>
+<div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
+
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
+  <div class="item-list"><ul class="auxiliary-links"><li class="first last"><span>&copy; 2015 WUWF</span></li>
+</ul></div></div>
+  </div>
+</div>
+  </div>
+          </div>
+  </div>
+</footer>
+      <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>    </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZNhQLSg9bVAdBGREJRg==","queueTime":0,"applicationTime":12,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+  <script>
+  (function ($) {
+    $(document).foundation({
+      topbar: {
+        custom_back_text: true,
+        back_text: 'back',
+        mobile_show_parent_link: true
+      }
+    });
+  }(jQuery));
+  </script>
+</html>

@@ -1,0 +1,1507 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOUVJQGwYGU1JaAQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta property="fb:app_id" content="83187307959" />
+<meta http-equiv="refresh" content="14400" />
+
+<title>Study Links Ethnicity to Prostate Cancer Risk | Care2 Healthy Living</title>
+
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Study Links Ethnicity to Prostate Cancer Risk"/>
+        <meta property="og:url" content="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html"/>
+        <meta property="og:image" content="http://dingo.care2.com/pictures/greenliving/1361/1360536.large.jpg"/>
+
+<!--mclude-->
+<!--/mclude-->
+<!--mfunc-->
+<!--/mfunc-->
+<link rel='stylesheet' id='mtq_CoreStyleSheets-css'  href='//dingo.care2.com/pictures/static/css/www/wp/wp-content/plugins/mtouch-quiz/mtq_core_style.min/mtq_core_style.min.1377720672.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mtq_ThemeStyleSheets-css'  href='//dingo.care2.com/pictures/static/css/www/wp/wp-content/plugins/mtouch-quiz/mtq_theme_style.min/mtq_theme_style.min.1377720672.css' type='text/css' media='all' />
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/www/wp/wp-includes/js/jquery/jquery/jquery.1417805794.js'></script>
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/www/wp/wp-includes/js/jquery/jquery-migrate.min/jquery-migrate.min.1417805794.js'></script>
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/www/wp/wp-content/plugins/mtouch-quiz/script.min/script.min.1377720672.js'></script>
+<link rel='canonical' href='http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html' />
+
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[364,439] -->
+<meta name="description" content="Discover the role ethnicity plays in prostate cancer risk--by best-selling author of CANCER-PROOF & 60 SECONDS TO SLIM, Dr. Michelle Schoffro Cook, PhD, DNM." />
+<meta name="keywords" content="prostate cancer, cancer, prostate cancer risk, risk of cancer, glyphosate, ethnic background, ethnicity cancer, health, prostate health, mens health, male health, dr. cook, michelle schoffro cook, cancer-proof" />
+<!-- /all in one seo pack -->
+<script type="text/javascript" src="//dingo.care2.com/pictures/static/js/www/wp/wp-content/plugins/audio-player/assets/audio-player/audio-player.1373489117.js"></script>
+<script type="text/javascript">AudioPlayer.setup("//dingo.care2.com/pictures/static/swf/www/wp/wp-content/plugins/audio-player/assets/player/player.1373489117.swf", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<!-- functions.php:care2_wp_head_noodp() -->
+<meta name="robots" content="noodp" />
+<link rel="stylesheet" type="text/css" href="//dingo.care2.com/pictures/static/css/f_e/front_end/css/main/main.1433190683.css" />
+<link rel="stylesheet" type="text/css" href="//dingo.care2.com/pictures/static/css/www/wp/wp-content/themes/greenliving2/style/style.1426271889.css" />
+<link rel="stylesheet" type="text/css" href="//dingo.care2.com/pictures/static/css/www/styles/c2/newsletterPopUp/newsletterPopUp.1373489117.css" />
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/main/main.1435005113.js' language='javascript'></script>
+<script type="text/javascript">
+
+        if (!window.care2_ua_header_ts) {
+            window.care2_ua_header_ts = new Date().getTime() / 1000;
+        }
+        
+</script>
+<script src="//cdn.optimizely.com/js/22866392.js"></script>
+
+</head>
+<body>
+<script type="text/javascript">
+
+        if (!window.care2_ua_header_ts) {
+            window.care2_ua_header_ts = new Date().getTime() / 1000;
+        }
+        
+</script>
+
+<div style="position:absolute">
+<!-- SiteCatalyst code version: H.26.2.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+var analytics_site = "c2preprod";
+//--></script>
+
+<script type="text/javascript" src="//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/s_code/s_code.1411416831.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="Care2 : Greenliving : Solution"
+s.server="www.care2.com"
+s.channel="Greenliving"
+s.pageType=""
+s.prop3="Greenliving : Solution"
+s.prop16="Unregistered"
+s.prop22="GL Solution: 1360536 Study Links Ethnicity to Prostate Cancer Risk (Michelle Schoffro Cook)"
+s.prop35="B"
+s.prop37="Care2 : Greenliving : Solution - GL Solution: 1360536 Study Links Ethnicity to Prostate Cancer Risk (Michelle Schoffro Cook)"
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar6="Greenliving : Solution"
+s.eVar14="Unregistered"
+s.eVar30="GL Solution: 1360536 Study Links Ethnicity to Prostate Cancer Risk (Michelle Schoffro Cook)"
+s.eVar35="B"
+/* Hierarchy Variables */
+s.hier1=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)
+    //--></script>
+<!-- End SiteCatalyst code version: H.9. -->
+</div>
+<div style="position:absolute;"><!-- begin: ZEDO for publisher: Care2, Ad dimension: Pixel - 1 x 1 -->
+        <script language="JavaScript">
+        var zflag_nid="885"; var zflag_cid="319/58/21/14"; var zflag_sid="1"; var deferred="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+        </script>
+        <script language="JavaScript" src="http://zads.care2.com/jsc/d3/fo.js"></script>
+<!-- end: ZEDO for publisher: Care2, Ad dimension: Pixel - 1 x 1 --><!-- begin: ZEDO for publisher: Care2, Ad dimension: Page Skin - 1 x 1 -->
+        <script language="JavaScript">
+        var zflag_nid="885"; var zflag_cid="319/58/21/14"; var zflag_sid="1"; var deferred="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="41"; 
+        </script>
+        <script language="JavaScript" src="http://zads.care2.com/jsc/d3/fo.js"></script>
+<!-- end: ZEDO for publisher: Care2, Ad dimension: Page Skin - 1 x 1 --></div><noscript><div id="care2_outage_msg">You have JavaScript disabled. Without it, our site might not function properly. <a href="http://enable-javascript.com/">learn more</a></div></noscript><div id="fb-root"></div><div class="header_strip care2_wrapper">
+    <a href="http://www.thepetitionsite.com/create-a-petition.html?cid=headerClickC2&src=care2&campaign=headerClickC2" class="start_petition">START A PETITION</a>
+    <span><strong id="member_count_header_count">27,000,000</strong> members: the world's largest community for good</span>
+    <div class="social_buttons">
+        <div class="fb-like" data-href="http://www.facebook.com/Care2" data-share="false" data-layout="button_count" data-show-faces="face"></div>
+    </div>
+</div>
+
+<header class="contain_floats care2_wrapper">
+    
+    <a href="http://www.care2.com" class="care2_logo">Care2</a>
+
+    <div class="login_links_container">
+        <ul class="login_links loggedin">
+            <li><a href="http://www.care2.com/c2c/pm/folder/inbox" class="pms"></a></li>
+            <li><a href="http://www.care2.com/mail.html" class="email"></a></li>
+            <li><a href="http://www.care2.com/c2c/my/kudos_green_stars.html" class="greenstars"></a></li>
+            <li><a href="http://www.care2.com/rewards/" class="credits"></a></li>
+            <li class="name"><a href="http://www.care2.com/c2c/my/" class="name"></a></li>
+            <li class="my"><a href="http://www.care2.com/c2c/my/">MY</a></li>
+        </ul>
+
+        <ul class="login_links loggedout">
+            <li><a href="http://www.care2.com/passport/login.html?promo=register" class="login_link">JOIN US</a></li>
+            <li><a href="http://www.care2.com/passport/login.html" class="login_link">SIGN IN</a></li>
+        </ul>
+    </div>
+
+    <nav>
+        <ul>
+            <li><a href="http://www.thepetitionsite.com/" class="petitions">PETITIONS<span></span></a></li>
+            <li><a href="http://www.care2.com/causes/" class="causes">CAUSES<span></span></a></li>
+            <li><a href="http://www.care2.com/greenliving/" class="healthy_living active">HEALTHY LIVING<span></span></a></li>
+            <li><a href="http://www.care2.com/rewards/" class="rewards">REWARDS<span></span></a></li>
+        </ul>
+    </nav>
+
+    <form action="http://www.care2.com/find/site" method="post">
+        <input type="hidden" name="search" value="care2" />
+        <input type="text" name="q" />
+        <input type="submit" name="care2MainSearchSubmit" class="care2_search_submit" value=" " />
+    </form>
+
+            <div id="care2_sub_nav" class="care2_sub_nav_greenliving">
+            <ul>
+                                    <li class="food-recipes">
+                        <a href="http://www.care2.com/greenliving/food-recipes">FOOD</a>
+                    </li>
+                                    <li class="health-wellness">
+                        <a href="http://www.care2.com/greenliving/health-wellness">HEALTH</a>
+                    </li>
+                                    <li class="love">
+                        <a href="http://www.care2.com/greenliving/love">LOVE + SEX</a>
+                    </li>
+                                    <li class="nature">
+                        <a href="http://www.care2.com/greenliving/garden-nature">NATURE</a>
+                    </li>
+                                    <li class="pets">
+                        <a href="http://www.care2.com/greenliving/pets">PETS</a>
+                    </li>
+                                    <li class="spirituality">
+                        <a href="http://www.care2.com/greenliving/spirituality">SPIRIT</a>
+                    </li>
+                                    <li class="sub_nav_dropdown greenliving_more">
+                        <a href="#" class="sub_nav_dropdown_greenliving_more">MORE</a>
+                    </li>
+                            </ul>
+        </div>
+    </header>
+
+<div id="fixed_header">
+    <div class="left_side">
+        <a href="#" class="shortcut_menu"></a>
+        <a href="http://www.care2.com/" class="care2_logo"></a>
+    </div>
+
+    <div class="right_side">
+        <button class="show_form"></button>
+
+        <form action="http://www.care2.com/find/site" method="post">
+            <input type="hidden" name="search" value="care2" />
+            <input type="text" name="q" />
+            <input type="submit" name="care2MainSearchSubmit" class="care2_search_submit" value=" " />
+        </form>
+
+        <ul class="login_links loggedin">
+            <li><a href="http://www.care2.com/c2c/pm/folder/inbox" class="pms"></a></li>
+            <li><a href="http://www.care2.com/mail.html" class="email"></a></li>
+            <li><a href="http://www.care2.com/c2c/my/kudos_green_stars.html" class="greenstars"></a></li>
+            <li><a href="http://www.care2.com/rewards/" class="credits"></a></li>
+            <li class="name"><a href="http://www.care2.com/c2c/my/" class="name"></a></li>
+        </ul>
+
+        <ul class="login_links loggedout">
+            <li><a href="http://www.care2.com/passport/login.html?promo=register" class="login_link">JOIN US</a></li>
+            <li><a href="http://www.care2.com/passport/login.html" class="login_link">SIGN IN</a></li>
+        </ul>
+
+        <a href="http://www.thepetitionsite.com/create-a-petition.html" class="start_petition">START A PETITION</a>
+    </div>
+</div>
+
+<div id="shortcut_menu">
+    <ul>
+        <li><a href="http://www.care2.com/">care2 Home</a></li>
+        <li><a href="http://www.thepetitionsite.com/create-a-petition.html" class="emphesis">start a petition</a></li>
+        <li><a href="http://www.thepetitionsite.com/browse-petitions/">browse petitions</a></li>
+        <li><a href="http://www.care2.com/success/">Success stories</a></li>
+        <li><a href="http://www.care2.com/causes/">causes</a></li>
+        <li><a href="http://www.care2.com/greenliving/">Healthy living</a></li>
+        <li><a href="http://www.care2.com/rewards/">butterfly rewards</a></li>
+    </ul>
+
+    <ul>
+        <li><a href="http://www.care2.com/care2blog/welcome-to-care2.html" class="emphesis">New? Start Here!</a></li>
+        <li><a href="http://www.thepetitionsite.com/animal-welfare/">Animal Welfare</a></li>
+        <li><a href="http://www.thepetitionsite.com/human-rights/">Human Rights</a></li>
+        <li><a href="http://www.thepetitionsite.com/human-rights/gay-rights/">LGBT</a></li>
+        <li><a href="http://www.thepetitionsite.com/human-rights/womens-rights/">Womens Rights</a></li>
+        <li><a href="http://www.care2.com/care2blog/">Care2 Team Blog</a></li>
+        <li><a href="http://www.care2.com/aboutus/">About Us</a></li>
+    </ul>
+
+    <a href="#" class="close">x</a>
+</div>
+
+<div id="pm_dropdown">
+    <div class="arrow"></div>
+
+    <div class="header">
+        <ul>
+            <li><a href="http://www.care2.com/c2c/pm/folder/inbox">INBOX (<strong></strong>)</a></li>
+            <li><a href="http://www.care2.com/c2c/pm/compose/">send new</a></li>
+        </ul>
+    </div>
+
+    <div class="messages"></div>
+</div>
+
+
+
+
+<div id="care2_wrapper" class="care2_wrapper"><div id="care2_main_container" class="contain_floats">
+<div id="hl_blogpage" class="news-issues">
+<div id="more_from_hl" class="hl_filmstrip contain_floats">
+    <a href="#" rel="prev" class="previous disabled">previous</a>
+
+    <div class="inner" rel="container">
+
+        <div class="inner_strip" rel="strip">
+
+                                    <div class="filmstrip_item contain_floats" rel="item">
+                            <a href="http://www.care2.com/greenliving/how-often-should-you-have-sex.html" title="How Often Should You Have Sex?" class="thumbnail">
+                                <img alt="How Often Should You Have Sex?" src="http://dingo.care2.com/pictures/greenliving/1361/1360344.small.jpg">                            </a>
+                            <span class="strip"></span>
+                            <span class="comments_span">59 comments</span>
+                            <h4><a href="http://www.care2.com/greenliving/how-often-should-you-have-sex.html" title="How Often Should You Have Sex?">How Often Should You Have Sex?</a></h4>
+                        </div>
+                                            <div class="filmstrip_item contain_floats" rel="item">
+                            <a href="http://www.care2.com/greenliving/your-almond-milk-has-barely-any-almond.html" title="There Are Barely Any Almonds in Your Almond Milk" class="thumbnail">
+                                <img alt="There Are Barely Any Almonds in Your Almond Milk" src="http://dingo.care2.com/pictures/greenliving/1361/1360154.small.jpg">                            </a>
+                            <span class="strip"></span>
+                            <span class="comments_span">194 comments</span>
+                            <h4><a href="http://www.care2.com/greenliving/your-almond-milk-has-barely-any-almond.html" title="There Are Barely Any Almonds in Your Almond Milk">There Are Barely Any Almonds in Your Almond Milk</a></h4>
+                        </div>
+                                            <div class="filmstrip_item contain_floats" rel="item">
+                            <a href="http://www.care2.com/greenliving/poor-diet-lowers-intelligence-in-kids.html" title="Poor Diet Lowers Intelligence in Kids" class="thumbnail">
+                                <img alt="Poor Diet Lowers Intelligence in Kids" src="http://dingo.care2.com/pictures/greenliving/1360/1359983.small.jpg">                            </a>
+                            <span class="strip"></span>
+                            <span class="comments_span">76 comments</span>
+                            <h4><a href="http://www.care2.com/greenliving/poor-diet-lowers-intelligence-in-kids.html" title="Poor Diet Lowers Intelligence in Kids">Poor Diet Lowers Intelligence in Kids</a></h4>
+                        </div>
+                                            <div class="filmstrip_item contain_floats" rel="item">
+                            <a href="http://www.care2.com/greenliving/are-you-eating-microplastics-with-your-salmon-filet.html" title="Are You Eating Microplastics With Your Salmon Filet?" class="thumbnail">
+                                <img alt="Are You Eating Microplastics With Your Salmon Filet?" src="http://dingo.care2.com/pictures/greenliving/1360/1359988.small.jpg">                            </a>
+                            <span class="strip"></span>
+                            <span class="comments_span">90 comments</span>
+                            <h4><a href="http://www.care2.com/greenliving/are-you-eating-microplastics-with-your-salmon-filet.html" title="Are You Eating Microplastics With Your Salmon Filet?">Are You Eating Microplastics With Your Salmon Filet?</a></h4>
+                        </div>
+                    
+        </div>
+
+    </div>
+
+    <a href="#" rel="next" class="next disabled">next</a>
+</div>
+
+<div id="index_left_column">
+
+    <h1 id="article_title">Study Links Ethnicity to Prostate Cancer Risk</h1>
+
+    <ul class="post_details">                                <li><a href="http://www.care2.com/greenliving/author/mcook" title="Posts by Michelle Schoffro Cook" rel="author">Michelle Schoffro Cook</a></li>
+                <li>August 1, 2015</li>
+                <li>5:30 pm</li>
+                                <li><a href="#comments" class="total-comments-count total-comments-term"></a></li>
+                </ul>
+
+            <div class="fb_article_like">
+            <div class="fb-like" data-href="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html" data-send="false" data-width="450" data-show-faces="false"></div>
+        </div>
+    
+    <div class="image_share contain_floats">
+        
+        <div class="image">
+            <img src="http://dingo.care2.com/pictures/greenliving/1361/1360536.large.jpg" alt="Study Links Ethnicity to Prostate Cancer Risk" width="431" height="267" class="main_post_image" />        </div>
+
+        
+            <div class="share">
+
+                    
+
+    
+
+    <ul class="care2_blog_sidebar contain_floats share_widget" data-actions="get_counts open_window" data-url="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html">
+        <li class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=facebook" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+        <li class="twitter"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=twitter" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+        <li class="pinterest"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=pinterest" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+        <li class="googleplus"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=googleplus" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+        <li class="comments"><a href="#comments" class="total-comments-count"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>        <li class="email"><a href="#"></a></li>
+    </ul>
+
+        <style>
+
+        ul.care2_blog_sidebar li a {
+            display: block;
+            width: 155px;
+            height: 27px;
+            margin-bottom: 15px;
+            background: transparent url(//dingo.care2.com/c2/sharing/sprites/blog_sidebar.png) no-repeat scroll 0 0;
+            font-size: 14px;
+            font-weight: bold;
+            color: #494949;
+            text-align: right;
+            padding: 4px 15px 0 0;
+        }
+
+        ul.care2_blog_sidebar li a:hover {
+            text-decoration: none;
+        }
+
+        ul.care2_blog_sidebar li.twitter a {
+            background-position: 0 -31px;
+        }
+
+        ul.care2_blog_sidebar li.pinterest a {
+            background-position: 0 -62px;
+        }
+
+        ul.care2_blog_sidebar li.googleplus a {
+            background-position: 0 -93px;
+        }
+
+        ul.care2_blog_sidebar li.comments a {
+            background-position: 0 -124px;
+        }
+
+        ul.care2_blog_sidebar li.email a {
+            background-position: 0 -155px;
+        }
+
+    </style>
+    
+
+            </div>
+
+        
+    </div>
+
+            <div id="newsletter_bar_top" class="newsletter_bar_top newsletter_bar">
+            <h4>get healthy living updates</h4>
+
+            <form action="/newsletters/" method="post" class="wp_newsletter">
+                <input type="email" class="newsletter_email" placeholder="enter your email address" />
+
+                <input type="submit" value=" " />
+            </form>
+        </div>
+    
+
+
+    
+    <div class="article">
+
+        <div id="main_article" class="article_content">
+
+        <p>No man wants to hear the diagnosis of prostate cancer, no matter his ethnic background. But, according to new research published in the <em><a href="http://www.biomedcentral.com/1741-7015/13/171">Annals of Surgical Innovation and Research,</a></em> some men are at a significantly greater risk than others, depending on ethnic background.</p>
+<p>Researchers at Prostate Cancer UK, in London, England and Public Health England, in Bristol, England used twenty years of data of men throughout England from the 1990-2010 England National Cancer Data Repository and found some startling results. The risk of being diagnosed with prostate cancer is:</p>
+<p>- 1 in 8 for white men, which included White British, White Irish and white men of other origins;</p>
+<p>- 1 in 4 for black men, which included Black African, Black Caribbean and black men of other origins; and</p>
+<p>- 1 in 13 for Asian men, which included Indian, Pakistani, Bangladeshi and men of other Asian origins.</p>
+<p>The risk of dying from prostate cancer is:</p>
+<p>- 1 in 24 for white men;</p>
+<p>-1 in 12 for black men; and</p>
+<p>-1 in 44 for Asian men.</p>
+<p>According the study, black men have twice the risk of being diagnosed with or dying from prostate cancer compared to white men. Asian men had much lower rates of prostate cancer diagnosis and death than either white or black men. The study also found that black men were diagnosed five years earlier than men of other ethnicities, on average. The reason for the increased risk of prostate cancer in black men over other ethnicities of men is still unclear.</p>
+<p>While other risk factors for prostate cancer have been explored, this new study sheds light on the role ethnicity plays. Other risk factors for prostate cancer include <a href="http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#heading-One">age</a> and a <a href="http://www.ncbi.nlm.nih.gov/pubmed/14566830?dopt=Abstract&amp;holding=f1000,f1000m,isrctn">family history</a> of prostate cancer in an immediate relative. Research also shows that for every <a href="http://www.wcrf.org/sites/default/files/Prostate-Cancer-2014-Report.pdf">extra 11 pounds (5 kilograms) of excess body weight</a> a man carries, he has an 8 percent increased risk of prostate cancer, showing that even if there are other risk factors involved, a man can still make a significant difference in reducing his risk by maintaining a healthy body weight. Other research shows that it is especially important to reduce abdominal fat in the prevention of prostate cancer as there is a <a href="http://www.wcrf.org/sites/default/files/Prostate-Cancer-2014-Report.pdf">12 percent increased risk of prostate cancer</a> for every 4 inches (10 cm) a man carries around his abdomen.</p>
+<p><a href="http://www.i-sis.org.uk/Glyphosate_and_Cancer.php">Glyphosate</a>, an herbicide found in products like Monsanto’s Roundup, which is still heavily used in the spraying of lawns and food crops, has also been linked to prostate cancer. Eating organic and avoiding areas sprayed with the cancer-causing product will also likely help in the prevention of the disease.</p>
+<p><a href="http://www.cancer.gov/types/prostate/psa-fact-sheet">Prostate specific antigen, or PSA</a>, is the most common medical test procedure used in the diagnosis of prostate cancer and is easily obtained from a blood sample at your doctor’s office or laboratory. As with all forms of cancer, early detection is beneficial in the prognosis of the disease.</p>
+<p>For more information check out my ebook <em><a href="http://www.worldshealthiestdiet.com/cancer-proof">CANCER-PROOF: All-Natural Solutions for Cancer Prevention &amp; Healing</a>.</em></p>
+<p><strong>Related<br />
+</strong><a href="http://www.care2.com/greenliving/impotence-linked-to-undiagnosed-diabetes-and-heart-disease.html">Impotence Linked to Undiagnosed Diabetes and Heart Disease<br />
+</a><a href="http://www.care2.com/greenliving/u-s-government-set-to-approve-monsanto-protection-act.html">U.S. Government Set to Approve Monsanto Protection Act<br />
+</a><a href="http://www.care2.com/greenliving/study-finds-common-cleaning-products-fail-safety-testing.html">Study Finds Common Cleaning Products Fail Safety Testing</a></p>
+</div>
+
+        
+                    <div id="newsletter_bar_bottom" class="newsletter_bar_bottom newsletter_bar">
+                <h4>LOVE THIS?</h4>
+                <h5>GET MORE STUFF LIKE THIS IN YOUR INBOX</h5>
+
+                <form action="/newsletters/" method="post" class="wp_newsletter">
+                    <input type="email" class="newsletter_email" placeholder="enter your email" />
+
+                    <input type="submit" value="" />
+                </form>
+            </div>
+        <div id="take_action_petition">
+                <div class="care2PetitionEmbed" rssPath="http://www.thepetitionsite.com/feeds/publisher/000/001/543/feed.rss" adSize="interstitial"
+                    publisherId="1319" flags="#002000" buttonColor="#EB6924"></div>
+                </div><!-- begin: ZEDO for channel: news-issues video ad; publisher: Care2, Ad dimension: Video Ad 1x1 - 1 x 1 -->
+        <script language="JavaScript">
+        var zflag_nid="885"; var zflag_cid="319/58/21/14"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="43"; 
+        </script>
+        <script language="JavaScript" src="http://zads.care2.com/jsc/d3/fo.js"></script>
+<!-- end: ZEDO for channel: news-issues video ad; publisher: Care2, Ad dimension: Video Ad 1x1 - 1 x 1 -->
+        <div class="c2_outbrain contain_floats">
+            <div class="OUTBRAIN" data-src="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html" data-widget-id="AR_1" data-ob-template="care2" ></div>
+            <div class="OUTBRAIN" data-src="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html" data-widget-id="AR_2" data-ob-template="care2" ></div>
+            <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+        </div>
+
+        <p class="read_more">
+            <strong>Read more:</strong>
+            <a href="http://www.care2.com/greenliving/family/aging-family" title="View all posts in Aging" rel="category tag">Aging</a>, <a href="http://www.care2.com/greenliving/health-wellness/alternative-therapies" title="View all posts in Alternative Therapies" rel="category tag">Alternative Therapies</a>, <a href="http://www.care2.com/greenliving/health-wellness/conditions/cancer-conditions-health-wellness" title="View all posts in Cancer" rel="category tag">Cancer</a>, <a href="http://www.care2.com/greenliving/conscious-consumer" title="View all posts in Conscious Consumer" rel="category tag">Conscious Consumer</a>, <a href="http://www.care2.com/greenliving/health-wellness/diet-nutrition" title="View all posts in Diet &amp; Nutrition" rel="category tag">Diet &amp; Nutrition</a>, <a href="http://www.care2.com/greenliving/food-recipes/healthy-staples" title="View all posts in Eating for Health" rel="category tag">Eating for Health</a>, <a href="http://www.care2.com/greenliving/health-wellness/general-health" title="View all posts in General Health" rel="category tag">General Health</a>, <a href="http://www.care2.com/greenliving/health-wellness/healthy-aging" title="View all posts in Healthy Aging" rel="category tag">Healthy Aging</a>, <a href="http://www.care2.com/greenliving/garden-nature/lawns-gardens" title="View all posts in Lawns &amp; Gardens" rel="category tag">Lawns &amp; Gardens</a>, <a href="http://www.care2.com/greenliving/on-the-go/make-a-difference-on-the-go" title="View all posts in Make a Difference" rel="category tag">Make a Difference</a>, <a href="http://www.care2.com/greenliving/health-wellness/mens-health-health-wellness" title="View all posts in Men&#039;s Health" rel="category tag">Men's Health</a>, <a href="http://www.care2.com/greenliving/blogs/michelle-schoffro-cook-blogs" title="View all posts in Michelle Schoffro Cook" rel="category tag">Michelle Schoffro Cook</a>, <a href="http://www.care2.com/greenliving/news-issues" title="View all posts in News &amp; Issues" rel="category tag">News &amp; Issues</a>, <a href="http://www.care2.com/greenliving/health-wellness/conditions/obesity-conditions" title="View all posts in Obesity" rel="category tag">Obesity</a>, <a href="http://www.care2.com/greenliving/garden-nature/nature-activities-44" title="View all posts in Outdoor Activities" rel="category tag">Outdoor Activities</a>, <a href="http://www.care2.com/greenliving/tag/cancer" rel="tag">cancer</a>, <a href="http://www.care2.com/greenliving/tag/cancer-proof" rel="tag">cancer-proof</a>, <a href="http://www.care2.com/greenliving/tag/dr-cook" rel="tag">Dr. Cook</a>, <a href="http://www.care2.com/greenliving/tag/ethnic-background" rel="tag">ethnic background</a>, <a href="http://www.care2.com/greenliving/tag/ethnicity-cancer" rel="tag">ethnicity cancer</a>, <a href="http://www.care2.com/greenliving/tag/glyphosate" rel="tag">glyphosate</a>, <a href="http://www.care2.com/greenliving/tag/health" rel="tag">health</a>, <a href="http://www.care2.com/greenliving/tag/male-health" rel="tag">male health</a>, <a href="http://www.care2.com/greenliving/tag/mens-health" rel="tag">men's health</a>, <a href="http://www.care2.com/greenliving/tag/michelle-schoffro-cook" rel="tag">Michelle Schoffro Cook</a>, <a href="http://www.care2.com/greenliving/tag/prostate-cancer" rel="tag">prostate cancer</a>, <a href="http://www.care2.com/greenliving/tag/prostate-cancer-risk" rel="tag">prostate cancer risk</a>, <a href="http://www.care2.com/greenliving/tag/prostate-health" rel="tag">prostate health</a>, <a href="http://www.care2.com/greenliving/tag/risk-of-cancer" rel="tag">risk of cancer</a>        </p>
+
+        
+    </div>
+
+    <div class="horiz_share">
+
+        <h3>have you shared this story yet?</h3>
+        <h4>go ahead, give it a little love</h4>
+
+            
+
+    
+
+    <ul class="care2_big_buttons contain_floats share_widget" data-actions="open_window">
+        <li class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=facebook" data-width="640" data-height="400"></a></li>
+        <li class="twitter"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=twitter" data-width="640" data-height="400"></a></li>
+        <li class="googleplus"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=googleplus" data-width="640" data-height="400"></a></li>
+        <li class="pinterest"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=pinterest" data-width="640" data-height="400"></a></li>
+    </ul>
+
+        <style>
+
+        ul.care2_big_buttons {
+            margin-bottom: 15px;
+        }
+
+        ul.care2_big_buttons li a {
+            float: left;
+            width: 141px;
+            height: 37px;
+            line-height: 26px;
+            margin-left: 15px;
+            background: transparent url(//dingo.care2.com/c2/sharing/sprites/big_buttons.png) no-repeat scroll 0 0;
+        }
+
+        ul.care2_big_buttons li a:hover {
+            text-decoration: none;
+        }
+
+        ul.care2_big_buttons li:first-child a {
+            margin-left: 0;
+        }
+
+        ul.care2_big_buttons li.twitter a {
+            background-position: 0 -37px;
+        }
+
+        ul.care2_big_buttons li.googleplus a {
+            background-position: 0 -74px;
+        }
+
+        ul.care2_big_buttons li.pinterest a {
+            background-position: 0 -111px;
+        }
+
+    </style>
+    
+        <script>
+
+        $(function() {
+            var share_div = $("ul.care2_big_buttons");
+
+            $("a", share_div).click(function(e) {
+                var me = $(this);
+                if(!me.attr("data-width") || !me.attr("data-height")) {
+                    me.unbind();
+                    return true;
+                }
+
+                e.preventDefault();
+
+                var width = me.attr("data-width");
+                var height = me.attr("data-height");
+                var top = ($(window).height() / 2) - (height / 2);
+                var left = ($(window).width() / 2) - (width / 2);
+                var new_win = window.open(me.attr("href"), "care2_big_buttons", "scrollbars=no,toolbar=no,width=" + width + ",height=" + height + ",top=" + top + ",left=" + left);
+                new_win.focus();
+            });
+        });
+
+    </script>
+    
+    
+
+    
+
+        <style>
+
+        div.care2_side_float {
+            display: none;
+            visibility: hidden;
+            position: fixed;
+            top: 100px;
+            background: #fff;
+            padding: 10px;
+            border: 1px solid #d9d9d9;
+            color: #494949;
+
+            -webkit-box-shadow: #d9d9d9 0 0 2px;
+            -moz-box-shadow: #d9d9d9 0 0 2px;
+            box-shadow: #d9d9d9 0 0 2px;
+
+            behavior: url(/styles/PIE.htc);
+        }
+
+        div.care2_side_float h3 {
+            font-size: 22px;
+        }
+
+        div.care2_side_float li {
+            padding: 10px 0;
+            border-top: 1px dashed #d9d9d9;
+        }
+
+        div.care2_side_float li:first-child {
+            border-top: 0;
+        }
+
+        div.care2_side_float li a {
+            display: block;
+            width: 41px;
+            height: 23px;
+            line-height: 23px;
+            background: transparent url(//dingo.care2.com/c2/sharing/sprites/side_float.png) no-repeat scroll 0 0;
+            color: #000;
+            text-align: center;
+            padding-left: 82px;
+        }
+
+        div.care2_side_float li a:hover {
+            text-decoration: none;
+        }
+
+        div.care2_side_float li:first-child a {
+            margin-left: 0;
+        }
+
+        div.care2_side_float li.twitter a {
+            background-position: 0 -23px;
+        }
+
+        div.care2_side_float li.pinterest a {
+            background-position: 0 -46px;
+        }
+
+        div.care2_side_float li.googleplus a {
+            background-position: 0 -69px;
+        }
+
+        div.care2_side_float li.email a {
+            background-position: 0 -92px;
+        }
+
+        div.care2_side_float .br_promo {
+            display: none;
+            font-size: 10px;
+            border-top: 1px dashed #d9d9d9;
+            padding-top: 10px;
+        }
+
+        div.care2_side_float .br_promo span {
+            display: block;
+        }
+
+        div.care2_side_float .br_promo .bonus {
+            font-size: 22px;
+            text-transform: uppercase;
+            background: transparent url(http://dingo.care2.com/prime/butterfly-rewards-2.png) no-repeat scroll 85px 0;
+            line-height: 1;
+        }
+
+        div.care2_side_float .br_promo .credits {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        div.care2_side_float .br_promo .share {
+            font-size: 13px;
+            text-transform: uppercase;
+        }
+
+        div.care2_side_float .br_promo div {
+            text-align: right;
+            bottom: -8px;
+            position: relative;
+        }
+
+    </style>
+    
+    <div class="care2_side_float contain_floats share_widget" data-actions="get_counts open_window" data-url="http://www.care2.com/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html">
+        <h3>share <strong>story:</strong></h3>
+        <ul>
+            <li class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=facebook" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+            <li class="twitter"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=twitter" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+            <li class="pinterest"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=pinterest" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+            <li class="googleplus"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.care2.com%2Fgreenliving%2Fstudy-links-ethnicity-to-prostate-cancer-risk.html&title=Study%20Links%20Ethnicity%20to%20Prostate%20Cancer%20Risk&media=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2F1361%2F1360536.large.jpg&summary=Discover%20the%20role%20ethnicity%20plays%20in%20prostate%20cancer%20risk--by%20best-selling%20author%20of%20CANCER-PROOF%20%26%2060%20SECONDS%20TO%20SLIM%2C%20Dr.%20Michelle%20Schoffro%20Cook%2C%20PhD%2C%20DNM.&system=&system_key=&service=googleplus" data-width="640" data-height="400"><img src="http://dingo.care2.com/loading/dots-ffffff.gif" /></a></li>
+            <li class="email"><a href="#"></a></li>
+        </ul>
+        <div id="br_share_promo" class="br_promo">
+            <span class="bonus">BONUS</span>
+            <span class="credits">butterfly credits</span>
+            <span class="share">when you share</span>
+            <div><a href="http://www.care2.com/rewards/">about butterfly rewards</a></div>
+        </div>
+    </div>
+
+        <script>
+
+        $(function() {
+            var share_div_appended = false;
+            var share_div = $("div.care2_side_float");
+
+            var resize_share_div = function () {
+                var left = $("#care2_wrapper").offset().left - 20 - share_div.outerWidth();
+                share_div.css({
+                    "left"       : left,
+                    "visibility" : (left < 0) ? "hidden" : "visible"
+                });
+            }
+            var append_share_div = function () {
+                if(!share_div_appended) {
+                    $(document.body).append(share_div.show());
+                    share_div_appended = true;
+                }
+                resize_share_div();
+                $(window).unbind("scroll", append_share_div);
+            }
+
+            $(window).resize(resize_share_div);
+            $(window).scroll(append_share_div);
+        });
+
+    </script>
+    
+
+    </div>
+
+    <div class="more_from_author">
+        <div class="author_bio contain_floats">
+            <a href="/greenliving/author/mcook" class="thumbnail"><img alt='' src='http://pbs.twimg.com/profile_images/1250933615/Michelle_-_15_resized_for_online_photos_02_normal.jpg' class='avatar avatar-52 photo twitter-avatar' height='52' width='52' /></a>
+
+            <h3><a href="/greenliving/author/mcook">Michelle Schoffro Cook</a></h3>
+
+            <p><em>Michelle Schoffro Cook, MSc, RNCP, ROHP, DNM, PhD is an international best-selling and 17-time book author and board-certified doctor of natural medicine, whose works include: <a href="http://amzn.to/15SAoII">60 Seconds to Slim</a>, <a href="http://amzn.to/13qTogr">Weekend Wonder Detox</a>, <a href="http://www.WorldsHealthiestDiet.com">Healing Recipes, The Vitality Diet, Allergy-Proof, Arthritis-Proof, Total Body Detox</a>, <a href="http://www.DrMichelleCook.com">The Life Force Diet, The Ultimate pH Solution, The 4-Week Ultimate Body Detox Plan, and her new book The Probiotic Promise</a>.  Subscribe to her free e-magazine World's Healthiest News at <a href="http://www.WorldsHealthiestDiet.com">WorldsHealthiestDiet.com</a> to receive monthly health news, tips, recipes and more. Follow her on Twitter <a title="Follow Dr. Michelle on Twitter" href="http://www.twitter.com/mschoffrocook">@mschoffrocook</a> and <a title="Follow me on Facebook" href="http://www.facebook.com/drschoffrocook">Facebook</a>.</em></p>
+        </div>
+
+        <div class="author_feed">
+            <h4>also by Michelle Schoffro Cook</h4>
+
+            <ul>
+                                    <li>
+                        <h4><a href="http://www.care2.com/greenliving/new-hope-for-arthritis-sufferers.html">New Hope for Arthritis Sufferers</a></h4>
+                        <a href="http://www.care2.com/greenliving/new-hope-for-arthritis-sufferers.html#comments" class="comment_link">83 comments</a>
+                    </li>
+                                    <li>
+                        <h4><a href="http://www.care2.com/greenliving/study-finds-common-cleaning-products-fail-safety-testing.html">Study Finds Common Cleaning Products Fail Safety Testing</a></h4>
+                        <a href="http://www.care2.com/greenliving/study-finds-common-cleaning-products-fail-safety-testing.html#comments" class="comment_link">56 comments</a>
+                    </li>
+                                    <li>
+                        <h4><a href="http://www.care2.com/greenliving/in-praise-of-yogurt.html">In Praise of Yogurt</a></h4>
+                        <a href="http://www.care2.com/greenliving/in-praise-of-yogurt.html#comments" class="comment_link">78 comments</a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+    
+    
+    <div id="comments" class="blog_comments">
+        <div class="inner">
+            <!--mclude-->
+<!--/mclude-->
+            <!--mfunc-->
+
+<style>
+    #cboxLoadedContent .login_comment_facebook a.fb_button span.fb_button_text {
+        margin-left: 0;
+    }
+</style>
+
+<script>
+    CARE2.commentsParams = {
+        "script_path"       : "/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html",
+        "system"            : 2,
+        "itemID"            : 1360536,
+        "comments_per_page" : 10,
+        "total_comments"    : 2,
+        "current_page"      : 1,
+        "num_pages"         : 1
+    }
+</script>
+
+<div class="header contain_floats">
+    <h3><span id="total-comments-count">2</span> comments</h3>
+    <a href="#new_comment">+ add your own</a>
+</div>
+
+<div id="Care2CommentContainer" class="comments">
+    <div id="comment-7621721" class="comment contain_floats">
+        <div class="commenter author-207615787">
+                                                            <a id="comment-mempic-7621721" class="about_rollover" href="/c2c/people/profile.html?pid=207615787" class="thumbnail">
+                    <img src="http://dingo.care2.com/pictures/c2c/profiles/20/207/761/207615787_60x60.jpg"  alt="Sue H." title="Sue H." />
+                </a>
+                        <span class="author_name">
+                                    <a href="/c2c/people/profile.html?pid=207615787" class="about_rollover">Sue H.</a>
+                            </span>
+        </div>
+
+        <div class="comment_text contain_floats">
+            <div class="arrow"></div>
+
+            <div class="timestamp">
+                 7:26<span style='text-transform:lowercase'>PM</span> PDT
+                on
+                Aug  1, 2015
+            </div>
+
+            <p>Thanks for this information.</p>
+
+            <ul id="report-link-7621721" class="tools contain_floats">
+
+                
+                <li class="mobile_timestamp">
+                     7:26<span style='text-transform:lowercase'>PM</span>                </li>
+
+                
+                                                                                                                    <li class="green_star"><a href="/c2c/people/greenstar.html?targetID=207615787&s=2&a=7621721&ap=1360536&c=Thanks+for+this+information." class="send_green_star"></a></li>
+                
+                <li class="flag_comment logged_in_only"><a href="javascript:display_abuse_form('7621721');">flag<span class="desktop_only"> as inappropriate</span></a></li>
+
+            </ul>
+
+            <div id="report-7621721" class="flag_form logged_in_only" style="display: none;">
+                <h6>why is this inappropriate?</h6>
+                <textarea id="abuse_msg-7621721" name="abuse_msg-7621721"></textarea>
+
+                <div id="report-buttons-7621721" class="contain_floats">
+                    <a id="report-sbmtbtn-7621721" class="submit_button" href="javascript:report_abuse(1360536, 7621721, document.getElementById('abuse_msg-7621721').value);">submit</a>
+                    <a class="cancel_button" href="javascript:cancel_abuse_form('7621721');">cancel</a>
+                </div>
+
+                <div id="report-submitting-7621721" class="submitting contain_floats" style="display:none">
+                    Submitting...
+                </div>
+            </div>
+
+            <div id="report-response-success-7621721" class="response" style="display: none;">
+                Your report of abuse has been received and will be reviewed.
+            </div>
+
+            <div id="report-response-failed-7621721" class="response" style="display: none;">
+                The response report you have submitted was unable to transmit.  Please try your submission again or contact support.
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="comment-7621687" class="comment contain_floats">
+        <div class="commenter author-750913477">
+                                                            <a id="comment-mempic-7621687" class="about_rollover" href="/c2c/people/profile.html?pid=750913477" class="thumbnail">
+                    <img src="http://dingo.care2.com/pictures/c2c/profiles/75/750/091/750913477_60x60.jpg"  alt="Julie c." title="Julie c." />
+                </a>
+                        <span class="author_name">
+                                    <a href="/c2c/people/profile.html?pid=750913477" class="about_rollover">Julie c.</a>
+                            </span>
+        </div>
+
+        <div class="comment_text contain_floats">
+            <div class="arrow"></div>
+
+            <div class="timestamp">
+                 6:48<span style='text-transform:lowercase'>PM</span> PDT
+                on
+                Aug  1, 2015
+            </div>
+
+            <p>Another reason for preventive checkups. Go to the doctor, men. We want you around for a long time.</p>
+
+            <ul id="report-link-7621687" class="tools contain_floats">
+
+                
+                <li class="mobile_timestamp">
+                     6:48<span style='text-transform:lowercase'>PM</span>                </li>
+
+                
+                                                                                                                    <li class="green_star"><a href="/c2c/people/greenstar.html?targetID=750913477&s=2&a=7621687&ap=1360536&c=Another+reason+for+preventive+checkups.+Go+to+the+doctor%2C+men.+We+want+you+around+for+a+long+time." class="send_green_star"></a></li>
+                
+                <li class="flag_comment logged_in_only"><a href="javascript:display_abuse_form('7621687');">flag<span class="desktop_only"> as inappropriate</span></a></li>
+
+            </ul>
+
+            <div id="report-7621687" class="flag_form logged_in_only" style="display: none;">
+                <h6>why is this inappropriate?</h6>
+                <textarea id="abuse_msg-7621687" name="abuse_msg-7621687"></textarea>
+
+                <div id="report-buttons-7621687" class="contain_floats">
+                    <a id="report-sbmtbtn-7621687" class="submit_button" href="javascript:report_abuse(1360536, 7621687, document.getElementById('abuse_msg-7621687').value);">submit</a>
+                    <a class="cancel_button" href="javascript:cancel_abuse_form('7621687');">cancel</a>
+                </div>
+
+                <div id="report-submitting-7621687" class="submitting contain_floats" style="display:none">
+                    Submitting...
+                </div>
+            </div>
+
+            <div id="report-response-success-7621687" class="response" style="display: none;">
+                Your report of abuse has been received and will be reviewed.
+            </div>
+
+            <div id="report-response-failed-7621687" class="response" style="display: none;">
+                The response report you have submitted was unable to transmit.  Please try your submission again or contact support.
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<div id="Care2CommentPageLinkContainer"></div>
+<!--Array
+(
+    [render:start] => 0
+    [render:contentloaded] => 0.035928010940552
+    [render:tokensbuilt] => 0.035973072052002
+    [render:end] => 0.035978078842163
+)
+-->
+
+<div id="new_comment" class="contain_floats">
+
+
+    <div id="login_comment" class="login_comment logged_out_only contain_floats">
+        <div class="login_comment_header">
+            <h3>login to add your comment</h3>
+        </div>
+
+        <div class="login_comment_area contain_floats">
+            <div class="login_form">
+                <h3>use your care2 login</h3>
+
+                <form action="/passport/login.html" method="post">
+                    <input type="hidden" name="pg" value="/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html#new_comment" />
+
+                    <div class="form_field">
+                        <label for="login_connect-username">username</label>
+                        <input type="text" id="login_connect-username" name="loginemail" />
+                    </div>
+
+                    <div class="form_field">
+                        <label for="login_connect-password">password</label>
+                        <input type="password" id="login_connect-password" name="password" />
+                    </div>
+
+                    <div class="login_remember">
+                        <input type="checkbox" id="login_connect-perm" name="perm" />
+                        <label for="login_connect-perm">remember me</label>
+                    </div>
+
+                    <input type="submit" name="login" value=" " />
+
+                    <div class="login_help">
+                        <a href="/accounts/loginhelp_new.html">login help</a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+
+        <div class="login_comment_or">
+            <span>or</span>
+        </div>
+
+        <div class="login_comment_facebook">
+            <a href="" class="fb_connect_button" data-onlogin="onFacebookConnect" data-scope="email"></a>
+
+            <div class="login_facebook_help">
+                <div class="arrow"></div>
+
+                Connect via <strong>Facebook</strong>. Just click on the icon, &amp; we'll connect your profile.
+            </div>
+        </div>
+    </div>
+
+
+    <div id="add_comment_form" class="contain_floats">
+        <div class="new_comment_header contain_floats">
+            <h3>add your comment</h3>
+
+            <span class="prime-pill" data-challengeName="hl-comment"></span>
+        </div>
+
+        <form action="/greenliving/study-links-ethnicity-to-prostate-cancer-risk.html" method="post">
+            <textarea name="frm[content]"></textarea>
+
+            <div id="get_notifications">
+                <input type="checkbox" id="comment_notifications" name="comment_tracking" value="1" />
+                <label for="comment_notifications">
+                    get comment replies via email
+                </label>
+                <br/>
+                <input type="checkbox" name="opt_in" id="comment_opt_in" value="1" />
+                <label for="comment_opt_in" class="label">Receive Care2 Action Alerts via email!</label>
+                <br/>
+                <input type="checkbox" name="fb_publish" id="fb_publish" value="1" checked="checked" />
+                <label for="fb_publish" class="label">Share my comment on Facebook</label>
+            </div>
+
+            <input type="submit" id="comment_add_button" value=" " />
+
+            <div class="loading" style="display:none;float:right;"><img src="//dingo.care2.com/loading/dots-ffffff.gif" /></div>
+        </form>
+    </div>
+</div>
+
+
+<!--/mfunc-->
+        </div>
+    </div>
+
+    <p>
+        Disclaimer: The views expressed above are solely those of the author and may
+        not reflect those of<br/>
+        Care2, Inc., its employees or advertisers.
+    </p>
+
+
+</div>
+
+<div id="index_right_column">
+
+    <div class="video_spotlight contain_floats">
+    <h3>video spotlight</h3>
+    <a href="http://www.care2.com/greenliving/6-week-old-kitten-falls-asleep-with-giant-dalmatian-friends.html" class="thumbnail">
+        <img src="http://dingo.care2.com/pictures/greenliving/1305/1304431.large.jpg" alt="Daily Cute: 6-Week-Old Kitten Falls Asleep With Giant Dalmatian Friends" />
+        <span></span>
+    </a>
+    <h4><a href="http://www.care2.com/greenliving/6-week-old-kitten-falls-asleep-with-giant-dalmatian-friends.html">Daily Cute: 6-Week-Old Kitten Falls Asleep With Giant Dalmatian Friends</a></h4>
+</div>
+
+	<div class="care2_adspace">
+		<!-- begin: ZEDO for channel: news-issues right 1; publisher: Care2, Ad dimension: Multi-Dimension Combo - 1 x 1 -->
+        <script language="JavaScript">
+        var zflag_nid="885"; var zflag_cid="319/58/21/14"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="35"; 
+        </script>
+        <script language="JavaScript" src="http://zads.care2.com/jsc/d3/fo.js"></script>
+<!-- end: ZEDO for channel: news-issues right 1; publisher: Care2, Ad dimension: Multi-Dimension Combo - 1 x 1 -->	</div>
+
+    <div class="follow_links">
+    <h3>stay in touch with care2</h3>
+
+    <ul>
+        <li class="facebook"><a href="http://www.facebook.com/Care2" target="_blank">facebook</a></li>
+        <li class="twitter"><a href="http://www.twitter.com/care2healthy" target="_blank">twitter</a></li>
+        <li class="rss"><a href="/rssfeeds/">rss feeds</a></li>
+        <li class="pinterest"><a href="http://pinterest.com/care2/" target="_blank">pinterest</a></li>
+    </ul>
+
+    <div class="newsletter">
+        <h4>get the healthy living newsletter</h4>
+
+        <form action="/newsletters/" method="post" class="wp_newsletter">
+            <input type="email" class="newsletter_email" placeholder="name@email.com" />
+
+            <input type="submit" value=" " />
+        </form>
+    </div>
+
+</div>
+	<div class="care2_adspace">
+		<!-- begin: ZEDO for channel: news-issues right 2; publisher: Care2, Ad dimension: Medium Rectangle - 300 x 250 -->
+<iframe src="http://zads.care2.com/jsc/d3/ff2.html?n=885;c=861/821;s=1;d=9;w=300;h=250;" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=300 height=250></iframe>
+<!-- end: ZEDO for channel: news-issues right 2; publisher: Care2, Ad dimension: Medium Rectangle - 300 x 250 -->	</div>
+
+        <div id="feed_most_popular" class="most_popular_sidebar share_widget" data-actions="get_multi_facebook open_window">
+        <div class="header contain_floats">
+            <h3><span>most popular</span></h3>
+            <ul>
+                <li class="left"><a href="#" class="disabled">&lt;</a></li>
+                <li>
+                    <span id="feed_most_popular_curpage">1</span>
+                    of 3                </li>
+                <li class="right">
+                    <a href="#">&gt;</a>
+                </li>
+            </ul>
+        </div>
+        <div class="inner">
+<ul id="feed_most_popular_1" class="feed_most_popular_page">                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/5-easy-things-to-do-every-day-to-improve-your-brain-health.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360256.small.jpg" alt="5 Easy Things to Do Every Day to Improve Your Brain Health" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/5-easy-things-to-do-every-day-to-improve-your-brain-health.html">5 Easy Things to Do Every Day to Improve Your Brain Health</a></h4>
+                    <a href="http://www.care2.com/greenliving/5-easy-things-to-do-every-day-to-improve-your-brain-health.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/daily-cute-cat-blesses-owner-each-time-she-sneezes.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360504.small.jpg" alt="Daily Cute: Cat &#8216;Blesses&#8217; Owner Each Time She Sneezes" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/daily-cute-cat-blesses-owner-each-time-she-sneezes.html">Daily Cute: Cat &#8216;Blesses&#8217; Owner Each Time She Sneezes</a></h4>
+                    <a href="http://www.care2.com/greenliving/daily-cute-cat-blesses-owner-each-time-she-sneezes.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/5-irresistable-benefits-of-adopting-a-mutt.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360477.small.jpg" alt="5 Irresistible Benefits of Adopting a Mutt" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/5-irresistable-benefits-of-adopting-a-mutt.html">5 Irresistible Benefits of Adopting a Mutt</a></h4>
+                    <a href="http://www.care2.com/greenliving/5-irresistable-benefits-of-adopting-a-mutt.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/which-foods-have-the-most-nutritional-bang-for-the-buck.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1360/1359777.small.jpg" alt="Which Foods Have the Most Nutritional Bang for the Buck?" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/which-foods-have-the-most-nutritional-bang-for-the-buck.html">Which Foods Have the Most Nutritional Bang for the Buck?</a></h4>
+                    <a href="http://www.care2.com/greenliving/which-foods-have-the-most-nutritional-bang-for-the-buck.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/could-ginger-be-our-best-headache-treatment.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360245.small.jpg" alt="Could Ginger Be Our Best Headache Treatment?" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/could-ginger-be-our-best-headache-treatment.html">Could Ginger Be Our Best Headache Treatment?</a></h4>
+                    <a href="http://www.care2.com/greenliving/could-ginger-be-our-best-headache-treatment.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+</ul><ul id="feed_most_popular_2" class="feed_most_popular_page" style="display:none">                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/11-tips-for-cutting-pet-costs.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360371.small.jpg" alt="11 Tips for Cutting Pet Costs" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/11-tips-for-cutting-pet-costs.html">11 Tips for Cutting Pet Costs</a></h4>
+                    <a href="http://www.care2.com/greenliving/11-tips-for-cutting-pet-costs.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/what-you-can-eat-to-fight-climate-change.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1360/1359847.small.jpg" alt="What You Can Eat to Fight Climate Change" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/what-you-can-eat-to-fight-climate-change.html">What You Can Eat to Fight Climate Change</a></h4>
+                    <a href="http://www.care2.com/greenliving/what-you-can-eat-to-fight-climate-change.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/lifting-weights-for-toning-vs-bulking.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1360/1359677.small.jpg" alt="Lifting Weights for Toning vs. Bulking" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/lifting-weights-for-toning-vs-bulking.html">Lifting Weights for Toning vs. Bulking</a></h4>
+                    <a href="http://www.care2.com/greenliving/lifting-weights-for-toning-vs-bulking.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/new-hope-for-arthritis-sufferers.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360308.small.jpg" alt="New Hope for Arthritis Sufferers" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/new-hope-for-arthritis-sufferers.html">New Hope for Arthritis Sufferers</a></h4>
+                    <a href="http://www.care2.com/greenliving/new-hope-for-arthritis-sufferers.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/the-best-natural-ingredients-for-curly-hair-infographic.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360394.small.jpg" alt="The Best Natural Ingredients for Curly Hair (Infographic)" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/the-best-natural-ingredients-for-curly-hair-infographic.html">The Best Natural Ingredients for Curly Hair (Infographic)</a></h4>
+                    <a href="http://www.care2.com/greenliving/the-best-natural-ingredients-for-curly-hair-infographic.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+</ul><ul id="feed_most_popular_3" class="feed_most_popular_page" style="display:none">                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/eat-your-way-to-younger-looking-skin.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360449.small.jpg" alt="Eat Your Way to Younger-Looking Skin" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/eat-your-way-to-younger-looking-skin.html">Eat Your Way to Younger-Looking Skin</a></h4>
+                    <a href="http://www.care2.com/greenliving/eat-your-way-to-younger-looking-skin.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/healthy-indian-snack-potato-vegetable-cutlets.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360119.small.jpg" alt="Healthy Indian Snack: Potato &amp; Vegetable Cutlets" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/healthy-indian-snack-potato-vegetable-cutlets.html">Healthy Indian Snack: Potato &amp; Vegetable Cutlets</a></h4>
+                    <a href="http://www.care2.com/greenliving/healthy-indian-snack-potato-vegetable-cutlets.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/pet-proofing-your-house-dangers-you-may-have-overlooked.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1360/1359723.small.jpg" alt="Pet-Proofing Your House: Dangers You May Have Overlooked" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/pet-proofing-your-house-dangers-you-may-have-overlooked.html">Pet-Proofing Your House: Dangers You May Have Overlooked</a></h4>
+                    <a href="http://www.care2.com/greenliving/pet-proofing-your-house-dangers-you-may-have-overlooked.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/how-often-should-you-have-sex.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360344.small.jpg" alt="How Often Should You Have Sex?" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/how-often-should-you-have-sex.html">How Often Should You Have Sex?</a></h4>
+                    <a href="http://www.care2.com/greenliving/how-often-should-you-have-sex.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+                <li class="contain_floats">
+                    <a href="http://www.care2.com/greenliving/daily-cute-this-guy-may-be-this-cats-favorite-person-ever.html" class="thumbnail">
+                        <img src="http://dingo.care2.com/c2c/pix_ghost.gif" class="lazy-load" rel="http://dingo.care2.com/pictures/greenliving/1361/1360404.small.jpg" alt="Daily Cute: This Guy May Be This Cat&#8217;s Favorite Person Ever" />
+                    </a>
+                    <h4><a href="http://www.care2.com/greenliving/daily-cute-this-guy-may-be-this-cats-favorite-person-ever.html">Daily Cute: This Guy May Be This Cat&#8217;s Favorite Person Ever</a></h4>
+                    <a href="http://www.care2.com/greenliving/daily-cute-this-guy-may-be-this-cats-favorite-person-ever.html" class="c2fb_share_count" data-width="640" data-height="400"></a>
+                </li>
+</ul>        </div>
+    </div>
+
+	<div class="care2_adspace">
+		<!-- begin: ZEDO for channel: news-issues right 3; publisher: Care2, Ad dimension: Medium Rectangle - 300 x 250 -->
+<iframe src="http://zads.care2.com/jsc/d3/ff2.html?n=885;c=862/822;s=1;d=9;w=300;h=250;" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=300 height=250></iframe>
+<!-- end: ZEDO for channel: news-issues right 3; publisher: Care2, Ad dimension: Medium Rectangle - 300 x 250 -->	</div>
+
+    <div class="recent_comments contain_floats">
+    <h3><span>people are talking</span></h3>
+
+    <div class="inner">
+        <div class="comment contain_floats">
+            <p>Great article , Thank you for caring and sharing.</p>
+
+            <div class="commenter">
+                <a id="comment-snippet-7621855" class="thumbnail about_rollover" href="/c2c/people/profile.html?pid=422280379">                    <img src="http://dingo.care2.com/c2c/profiles/frog_nophoto_60.gif" alt="Glennis Whitney" title="Glennis Whitney" />
+                </a>
+                <a href="/c2c/people/profile.html?pid=422280379">Glennis Whitney</a>                <br/>
+                on <a href="http://www.care2.com/greenliving/8-things-people-do-that-cats-hate.html">8 Things People Do That Cats Hate</a>
+                <br/>
+                1 minute ago
+            </div>
+        </div>
+        <div class="comment contain_floats">
+            <p>cheers</p>
+
+            <div class="commenter">
+                <a id="comment-snippet-7621854" class="thumbnail about_rollover" href="/c2c/people/profile.html?pid=175426193">                    <img src="http://dingo.care2.com/pictures/c2c/profiles/17/175/542/175426193_60x60.jpg" alt="Nimue P." title="Nimue P." />
+                </a>
+                <a href="/c2c/people/profile.html?pid=175426193">Nimue P.</a>                <br/>
+                on <a href="http://www.care2.com/greenliving/5-irresistable-benefits-of-adopting-a-mutt.html">5 Irresistible Benefits of Adopting a Mutt</a>
+                <br/>
+                3 minutes ago
+            </div>
+        </div>
+        <div class="comment contain_floats">
+            <p>Hello and Welcome to
+
+Prophet Olawashinor Olajuju Oil Spiritual Home where all your worries will c&hellip;</p>
+
+            <div class="commenter">
+                <a id="comment-snippet-7621818" class="thumbnail about_rollover" href="/c2c/people/profile.html?pid=965810179">                    <img src="http://dingo.care2.com/c2c/profiles/frog_nophoto_60.gif" alt="Prophet O." title="Prophet O." />
+                </a>
+                <a href="/c2c/people/profile.html?pid=965810179">Prophet O.</a>                <br/>
+                on <a href="http://www.care2.com/greenliving/daily-cute-llama-demonstrates-sproinging.html">Daily Cute: Llama Demonstrates &#8216;Sproinging&#8217;</a>
+                <br/>
+                28 minutes ago
+            </div>
+        </div>
+        <div class="comment contain_floats">
+            <p>Once or maybe twice would be cute, but the women just kept bothering the cat.</p>
+
+            <div class="commenter">
+                <a id="comment-snippet-7621812" class="thumbnail about_rollover" href="/c2c/people/profile.html?pid=862659987">                    <img src="http://dingo.care2.com/pictures/c2c/profiles/86/862/265/862659987_60x60.jpg" alt="Debbi -." title="Debbi -." />
+                </a>
+                <a href="/c2c/people/profile.html?pid=862659987">Debbi -.</a>                <br/>
+                on <a href="http://www.care2.com/greenliving/daily-cute-cat-blesses-owner-each-time-she-sneezes.html">Daily Cute: Cat &#8216;Blesses&#8217; Owner Each Time She Sneezes</a>
+                <br/>
+                34 minutes ago
+            </div>
+        </div>
+        <div class="comment contain_floats">
+            <p>Not all fish oil is equal though, some cheap brands of fish oil are waste of money and could do harm&hellip;</p>
+
+            <div class="commenter">
+                <a id="comment-snippet-7621803" class="thumbnail about_rollover" href="/c2c/people/profile.html?pid=384120629">                    <img src="http://dingo.care2.com/pictures/c2c/profiles/38/384/412/384120629_60x60.jpg" alt="Luda Franklin" title="Luda Franklin" />
+                </a>
+                <a href="/c2c/people/profile.html?pid=384120629">Luda Franklin</a>                <br/>
+                on <a href="http://www.care2.com/greenliving/what-is-fish-oil-good-for.html">What is Fish Oil Good For?</a>
+                <br/>
+                37 minutes ago
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="contact_editors">
+        <a href="#"><img src="http://dingo.care2.com/greenliving/v2/contact-editors.png" alt="CONTACT THE EDITORS" /></a>
+    </div>
+
+    <div id="criteoscroller">    <div class="care2_adspace">
+        <!-- begin: ZEDO for channel: ADHD right 4; publisher: Care2, Ad dimension: Multi-Dimension Combo - 1 x 1 -->
+        <script language="JavaScript">
+        var zflag_nid="885"; var zflag_cid="1073/21/14"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="35"; 
+        </script>
+        <script language="JavaScript" src="http://zads.care2.com/jsc/d3/fo.js"></script>
+<!-- end: ZEDO for channel: ADHD right 4; publisher: Care2, Ad dimension: Multi-Dimension Combo - 1 x 1 -->    </div>
+    
+        </div>
+        <script type="text/javascript">
+            var criteo = {topOffset : 54};
+
+            jQuery(function() {
+                criteo.ad = jQuery('#criteoscroller');
+                criteo.adTop = criteo.ad.offset().top;
+                criteo.adWidth = criteo.ad.children(":first").width();
+                criteo.adHeight = criteo.ad.children(":first").height();
+                criteo.limitDiv = jQuery('.footer_ad');
+
+                jQuery(window).scroll(fixDiv);
+                fixDiv();
+            });
+
+            function fixDiv() {
+                var scrollTop = jQuery(window).scrollTop();
+                var limitTop = criteo.limitDiv.offset().top;
+
+                if (scrollTop >= limitTop - criteo.adHeight - criteo.topOffset) {
+                    criteo.ad.css(
+                        {'position': 'relative', 'top': (limitTop - criteo.adHeight - criteo.adTop) + 'px'}
+                    );
+                } else if (scrollTop >= criteo.adTop - criteo.topOffset) {
+                    criteo.ad.css(
+                        {'position': 'fixed', 'top': criteo.topOffset + 'px', 'z-index' : '10', 'width' : criteo.adWidth}
+                    );
+                } else {
+                    criteo.adTop = criteo.ad.offset().top;
+                    criteo.ad.css(
+                        {'position': 'static', 'top': 'auto'}
+                    );
+                }
+            }
+        </script>
+
+</div>
+
+
+
+
+<script>
+    /* begin Tynt */
+    if(document.location.protocol=='http:'){
+        window.Tynt=window.Tynt||[];window.Tynt.push('aFND9iVgqr35BEadbi-bnq');
+        (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+    }
+
+    </script>
+
+
+
+
+
+
+<script>
+
+    window.addressBookCSS = "//dingo.care2.com/pictures/static/css/www/styles/addressbook_popup/addressbook_popup.1373489117.css";
+    window.addressBookJS = "//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/addressbook/addressbook.1427825967.js";
+
+
+    $(function() {
+
+        CARE2.addressBook = function(actionLink,textbox,helpLink) {
+            this.helpLink=helpLink||false;
+            this.actionLink=actionLink;
+            this.textbox=textbox;
+
+            $(this.actionLink).one("click",{obj:this},function(e) {
+                e.preventDefault();
+
+                var obj = e.data.obj;
+
+                CARE2.addressBookInit = function() {
+                    obj.bind();
+                    delete CARE2.addressBookInit;
+                }
+
+                if(!$("#addybook_box").length) {
+                    $(document.body).append(
+                        '<div id="addybook_box" class="care2_floater_container" style="display:none">' +
+                            '<div id="addybook_title" class="floater_header branding_care2" style="cursor: move;"><span>Address Book</span></div>' +
+                            '<div id="addybook_close_box" class="floater_closebox"></div>' +
+                            '<div style="padding: 10px;" class="contain_floats">' +
+                                '<div id="addressBook_loading" style="width: 300px; height: 200px; padding: 25px; text-align: center"><img src="http://dingo.care2.com/petitions/loading.gif" /> Loading...</div>' +
+                                '<div id="addybook_contents"></div>' +
+                            '</div>' +
+                        '</div>'
+                    );
+                }
+
+                if(window.addressBookCSS) {
+                    $("head:first").append('<link rel="stylesheet" type="text/css" href="' + window.addressBookCSS + '" />');
+                    window.addressBookCSS = false;
+                }
+
+                if(window.addressBookJS) {
+                    var script = document.createElement( 'script' );
+                    script.type = 'text/javascript';
+                    script.src = window.addressBookJS;
+                    $("head:first").append( script );
+                    window.addressBookJS = false;
+                } else {
+                    obj.bind();
+                }
+            });
+        }
+
+    });
+
+</script>
+
+<script>
+
+    window.tellAFriendPopupCSS = "//dingo.care2.com/pictures/static/css/www/styles/tellafriend_popup/tellafriend_popup.1377720672.css";
+    window.tellAFriendPopupJS = "//dingo.care2.com/pictures/static/js/f_e/front_end/jslibs/tellafriend_popup/tellafriend_popup.1384812386.js";
+
+
+    $(function() {
+
+        $(document.body).one("click", "li.email a", function(e) {
+            e.preventDefault();
+
+            $(window).one("tellAFriendPopupInit", function() {
+                CARE2.tellAFriend.init("li.email a", true);
+            });
+
+            if(window.tellAFriendPopupCSS) {
+                $("head:first").append('<link rel="stylesheet" type="text/css" href="' + window.tellAFriendPopupCSS + '" />');
+                window.tellAFriendPopupCSS = false;
+            }
+
+            if(window.tellAFriendPopupJS) {
+                var script = document.createElement( 'script' );
+                script.type = 'text/javascript';
+                script.src = window.tellAFriendPopupJS;
+                $("head:first").append( script );
+                window.tellAFriendPopupJS = false;
+            } else {
+                $(window).trigger("tellAFriendPopupInit");
+            }
+
+            return false;
+        });
+
+    });
+
+</script>
+
+<div style="display:none">
+<div id="tellafriendPopup"><div class="tellafriend_container">
+
+    <form id="taf_form">
+
+        
+        <input type="hidden" value="email_na" name="taf[cid]" id="taf_cid">
+        <input type="hidden" value="1360536" name="taf[system_key]" id="taf_system_key">
+        <input type="hidden" value="2" name="taf[system]" id="taf_system">
+        <div style="display: none;" id="taf_responsePane">
+            <div id="taf_message_div">
+                <img src="http://dingo.care2.com/petitions/home/sending_anim.gif" />
+            </div>
+        </div>
+
+
+        <label>From</label>
+        <input type="text" name="taf[sender_name]" value="Enter Your Name" title="Enter Your Name" class="inputwidth naturalState" id="taf_sender_name" autocorrect="off" autocomplete="off"><br>
+        <div style="display: none;" class="taf_error" id="tafError_sender_name"></div>
+
+
+        <div id="taf_email_field">
+            <label>Your Email</label>
+            <input type="text" name="taf[sender_email]" value="Enter Your Email" title="Enter Your Email" class="inputwidth naturalState" id="taf_sender_email" autocorrect="off" autocomplete="off" autocapitalize="off"><br>
+            <div style="display: none;" class="taf_error" id="tafError_sender_email"></div>
+        </div>
+
+
+        <label>To</label>
+        <textarea rows="3" name="taf[recipients]" class="inputwidth naturalState" id="taf_recipients" title="enter multiple email addresses separated by commas (up to 100)" autocorrect="off" autocomplete="off" autocapitalize="off">enter multiple email addresses separated by commas (up to 100)</textarea><br/>
+        <div style="display: none;" class="taf_error" id="tafError_recipients"></div>
+
+        <div id="care2_addressbook_section">
+            <div class="addressbutton_section">
+                <img class="taf_arrow" src="http://dingo.care2.com/petitions/taf_arrow.gif" />
+                <div class="addressbutton_inner">
+                    Select names from your address book&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="addressBook_help" href="javascript:void(0);">Help</a><br/>
+
+                    <table cellspacing="0" cellpadding="0" class="addressbutton_container login">
+                    <tbody><tr><td>
+                        <div class="addressbook_care2btn"><a id="addressBook_link" href="javascript:void(0)">&nbsp;</a></div>
+                    </td><td width="10"></td><td>
+                        <div class="addressbook_otherbtn"></div>
+                    </td></tr></tbody></table>
+
+                </div>
+            </div>
+
+            <label><input type="checkbox" value="1" checked="checked" name="taf[addressbook]" id="taf_addressbook">&nbsp;Add new contacts to Care2 address book</label>
+        </div>
+
+        <label>Personal message</label>
+        <textarea rows="5" name="taf[message]" class="inputwidth naturalState" id="taf_message" autocorrect="off" autocomplete="off" autocapitalize="off">Hello,
+    I saw this on Care2 and thought you'd like it as well.
+
+    Care2 is the largest and most trusted information and action site for people who care to make a difference in their lives and the world.</textarea>
+        <div style="display: none;" class="taf_error" id="tafError_message"></div>
+
+        
+
+        <div class="tellafriend_container_extended">
+            <a id="tafpopupsubmit" class="tafpopupsubmit" href="#">&nbsp;</a>
+
+            <a id="tafpopupcancel" class="tafpopupcancel" href="#">&nbsp;</a>
+
+            <p class="smallerFont"><img src="http://dingo.care2.com/petitions/home/butterfly.gif" /> We hate spam.  We do not sell or share the email addresses you provide. </p>
+        </div>
+    </form>
+
+
+</div></div>
+</div>
+
+
+
+
+</div>
+
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/healthyliving/healthyliving.1430761047.js' language='javascript'></script>
+<script type="text/javascript">
+        if (!window.care2_ua_footer_ts) {
+            window.care2_ua_footer_ts = new Date().getTime() / 1000;
+        
+            }
+</script>
+<!-- INTERSTITIALS: none -->
+
+
+	<!-- do not remove the below or there will be problems -->
+	<!-- aw4y1n -->
+<!--mfunc-->
+<!--/mfunc-->
+</div><div class="footer_ad"><!-- begin: ZEDO for channel: news-issues footer; publisher: Care2, Ad dimension: Super Banner - 728 x 90 -->
+<iframe src="http://zads.care2.com/jsc/d3/ff2.html?n=885;c=319/58/863/110;s=1;d=14;w=728;h=90;" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=728 height=90></iframe>
+<!-- end: ZEDO for channel: news-issues footer; publisher: Care2, Ad dimension: Super Banner - 728 x 90 --></div></div><footer><div class="nonprofit_partners"><div class="header"><div class="care2_wrapper"><h3>FEATURED NONPROFIT PARTNERS</h3></div></div><div class="care2_wrapper"><!-- AMS: slot [nonprofit_partners] --><div id='ams_slot_1' class='ams_slot ams_slot_nonprofit_partners' style=""><div id="ams_block_1" class="ams_block" style=""><a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_1.jpg" /></a>
+&nbsp;
+<a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_2.jpg" /></a>
+&nbsp;
+<a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_3.jpg" /></a>
+&nbsp;
+<a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_8.jpg" /></a>
+&nbsp;
+<a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_5.jpg" /></a>
+&nbsp;
+<a href="http://www.care2.com/aboutus/partnerships.html"><img src="//dingo.care2.com/nav/nonprofit_6.jpg" /></a></div></div>
+<!-- AMS: end slot --></div></div><div class="care2_wrapper contain_floats"><div class="footer_section"><h3>CARE2</h3><ul><li><a href="http://www.thepetitionsite.com/">Care2 - The Petition Site</a></li><li><a href="http://www.care2.com/">Care2 Home</a></li><li><a href="http://www.care2.com/causes/">Causes</a></li><li><a href="http://www.care2.com/greenliving/">Healthy Living</a></li><li><a href="http://www.care2.com/rewards/">Butterfly Rewards</a></li><li><a href="http://www.care2.com/ecards">Ecards</a></li><li><a href="http://www.care2.com/news">C2NN</a></li><li><a href="http://www.care2.com/c2c/groups">Groups</a></li></ul></div><div class="footer_section"><h3>PETITIONS</h3><ul><li><a href="http://www.thepetitionsite.com/create-a-petition.html?src=care2&campaign=footer">Start a Petition</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/">Browse Petitions</a></li><li><a href="http://www.thepetitionsite.com/animal-welfare/">Animal Welfare</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/">Environment &amp; Wildlife</a></li><li><a href="http://www.thepetitionsite.com/human-rights/womens-rights/">Women's Rights</a></li><li><a href="http://www.thepetitionsite.com/human-rights/">Human Rights</a></li><li><a href="http://www.thepetitionsite.com/human-rights/gay-rights/">LGBT Issues</a></li></ul></div><div class="footer_section"><h3>ABOUT CARE2</h3><ul><li><a href="http://www.care2.com/aboutus/">About Us</a></li><li><a href="http://www.care2.com/help">Help</a></li><li><a href="http://www.care2.com/newsletters">Subscription Center</a></li><li><a href="http://www.care2.com/aboutus/careers.html">Careers</a></li><li><a href="http://www.care2.com/aboutus/press.html">Press</a></li><li><a href="http://www.care2.com/aboutus/partnerships.html">Nonprofit Partners</a></li><li><a href="http://www.care2.com/aboutus/advertise.html">Advertising</a></li><li><a href="http://www.care2.com/help/general/privacy.html">Privacy</a></li><li><a href="http://www.care2.com/help/general/tos.html">Terms of Service</a></li><li><a href="http://www.care2.com/aboutus/contactus.html">Contact Us</a></li><li><a id="adChoicesLogo" href="//quantcast.com/adchoices-pub?pub=0EpgOlEO2sNQf5034w2u7Q" target="_blank">AdChoices</a></li></ul></div></div><div class="copyright">Copyright &copy; 2015 Care2.com, inc. and its licensors. All rights reserved</div></footer><div id="nav_dropdowns"><ul class="petitions"><li><a href="http://www.thepetitionsite.com/">Care2 - The Petition Site</a></li><li><a href="http://www.thepetitionsite.com/create-a-petition.html">Start petition</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/">Browse petitions</a></li></ul><ul class="causes"><li><a href="http://www.care2.com/causes/">causes</a></li><li><a href="http://www.care2.com/causes/animal-welfare">animal welfare</a></li><li><a href="http://www.care2.com/causes/womens-rights">women's rights</a></li><li><a href="http://www.care2.com/causes/real-food">real food</a></li><li><a href="http://www.care2.com/causes/lgbt">lgbt</a></li><li><a href="http://www.care2.com/causes/civil-rights">civil rights</a></li><li><a href="http://www.care2.com/causes/environment">environment &amp; wildlife</a></li><li><a href="http://www.care2.com/care2blog/">care2 team blog</a></li><li><a href="http://www.care2.com/dailyaction/">daily action</a></li><li><a href="http://www.care2.com/click-to-donate/">click to donate</a></li><li><a href="http://www.care2.com/c2c/groups/">groups</a></li><li><a href="http://www.care2.com/news/">care2 news network</a></li></ul><ul class="healthy_living"><li><a href="http://www.care2.com/greenliving/">healthy living</a></li><li><a href="http://www.care2.com/greenliving/food-recipes">food</a></li><li><a href="http://www.care2.com/greenliving/health-wellness">health</a></li><li><a href="http://www.care2.com/greenliving/love">love + sex</a></li><li><a href="http://www.care2.com/greenliving/garden-nature">nature</a></li><li><a href="http://www.care2.com/greenliving/brands-for-good-2">brands for good</a></li><li><a href="http://www.care2.com/greenliving/pets">pets</a></li><li><a href="http://www.care2.com/greenliving/spirituality">spirit</a></li><li><a href="http://www.care2.com/greenliving/healthy-home">healthy home</a></li><li><a href="http://www.care2.com/ecards/">eCards</a></li></ul><ul class="rewards"><li><a href="http://www.care2.com/rewards/">butterfly rewards</a></li><li><a href="http://www.care2.com/rewards/how-to-earn.html">how to earn credits</a></li><li><a href="http://www.care2.com/rewards/redeem.html">redeem credits</a></li><li><a href="http://www.care2.com/help/butterfly-rewards/">help</a></li></ul><ul class="name"><li><a href="http://www.care2.com/accounts/logoff.html" class="login_link">log off</a></li><li><a href="http://www.care2.com/help">help</a></li><li><a href="http://www.care2.com/c2c/my/">my care2 main</a></li><li><a href="http://www.care2.com/accounts/">my settings</a></li><li><a href="http://www.care2.com/rewards/my-dashboard.html">my butterfly rewards</a></li><li><a href="http://www.care2.com/click-to-donate/my-impact">my click to donate</a></li><li><a href="http://www.care2.com/ecards">my ecards</a></li><li><a href="http://www.care2.com/c2c/my/friends.html">my friends</a></li><li><a href="http://www.care2.com/c2c/my/groups.html">my groups</a></li><li><a href="http://www.care2.com/c2c/my/kudos_butterflies.html">my green stars</a></li><li><a href="http://www.care2.com/news/member">my news</a></li><li><a href="http://www.care2.com/c2c/people/profile.html">my profile page</a></li><li><a href="http://www.care2.com/my/petitionsite">my petitionsite</a></li><li><a href="http://www.care2.com/newsletters">my subscriptions</a></li><li><a href="http://www.care2.com/rewards/thank-you-notes.html">my thank you notes</a></li><li><a href="http://www.care2.com/dailyaction/journal.html">my daily action</a></li></ul><ul class="sub_nav_dropdown_causes_more"><li><a href="http://www.care2.com/causes/civil-rights">Civil Rights</a></li><li><a href="http://www.care2.com/causes/children">children</a></li><li><a href="http://www.care2.com/causes/education">education</a></li><li><a href="http://www.care2.com/causes/environment">Environment</a></li><li><a href="http://www.care2.com/causes/health-policy">Health Policy</a></li><li><a href="http://www.care2.com/causes/human-rights">Human Rights</a></li><li><a href="http://www.care2.com/causes/global-warming">Global Warming</a></li><li><a href="http://www.care2.com/causes/trailblazers">trailblazers</a></li><li><a href="http://www.care2.com/causes/canada">canada</a></li><li><a href="http://www.care2.com/causes/uk">UK</a></li><li><a href="http://www.care2.com/care2blog/">care2 team blog</a></li><li><a href="http://www.care2.com/dailyaction/">daily action</a></li><li><a href="http://www.care2.com/click-to-donate/">click to donate</a></li><li><a href="http://www.care2.com/c2c/groups/">groups</a></li><li><a href="http://www.care2.com/news/">care2 news network</a></li></ul><ul class="sub_nav_dropdown_greenliving_more"><li><a href="http://www.care2.com/greenliving/healthy-home">home</a></li><li><a href="http://www.care2.com/greenliving/life">life</a></li><li><a href="http://www.care2.com/greenliving/family">family</a></li><li><a href="http://www.care2.com/greenliving/personal-care">beauty</a></li><li><a href="http://www.care2.com/greenliving/brands-for-good-2">brands for good</a></li><li><a href="http://www.care2.com/greenliving/green-101">green</a></li><li><a href="http://www.care2.com/greenliving/crafts-design">crafts &amp; designs</a></li><li><a href="http://www.care2.com/greenliving/news-issues">news</a></li><li><a href="http://www.care2.com/greenliving/videos">videos</a></li><li><a href="http://www.care2.com/greenliving/myfavorites">my favorites</a></li><li><a href="http://www.care2.com/ecards/">eCards</a></li></ul><ul class="sub_nav_dropdown_ecards_my"><li><a href="http://www.care2.com/send/card/sentcards">my ecards</a></li><li><a href="http://www.care2.com/send/card/favorites">my favorites</a></li><li><a href="http://www.care2.com/send/card/futurecards">my future cards</a></li></ul><ul class="sub_nav_dropdown_rewards_my-dashboard"><li><a href="http://www.care2.com/rewards/my-dashboard.html">my dashboard</a></li><li><a href="http://www.care2.com/rewards/my-credits-earned.html">my credits earned</a></li><li><a href="http://www.care2.com/rewards/my-gifts-given.html">my gifts given</a></li><li><a href="http://www.care2.com/rewards/thank-you-notes.html">my thank you notes</a></li></ul></div><div id="mobile_dropdowns"><ul class="shortcut_menu"><li><a href="http://www.care2.com/">Care2 Home</a></li><li><a href="http://www.care2.com/care2blog/welcome-to-care2.html">New to Care2?</a></li><li><a href="http://www.thepetitionsite.com/create-a-petition.html">Start a Care2 Petition</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/">Care2- The Petition Site</a></li><li><a href="http://www.care2.com/success/">Success Stories</a></li><li><a href="http://www.care2.com/causes/">Causes</a></li><li><a href="http://www.care2.com/greenliving/">Healthy Living</a></li><li><a href="http://www.care2.com/news/">Care2 News Network</a></li><li><a href="http://www.care2.com/click-to-donate/">Click to Donate</a></li><li><a href="http://www.care2.com/dailyaction/">Daily Action</a></li><li class="bottom"><a href="http://www.care2.com/aboutus/">about us</a> &nbsp; | &nbsp;<a href="http://www.care2.com/help">help</a><span>copyright 2015 Care2.com</span></li></ul><ul class="name"><li><a href="http://www.care2.com/accounts/logoff.html">logoff</a></li><li><a href="http://www.care2.com/accounts/">my account</a></li><li><a href="http://www.care2.com/c2c/my/">my care2</a></li></ul></div><!-- begin adroll -->
+<script type="text/javascript">
+adroll_adv_id = "D4HNDFE5HFCRHKXV4IQWZM";
+adroll_pix_id = "NNXB6V7M2RETXLN63JJSYH";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){ oldonload() }};
+}());
+</script>
+<!-- end adroll -->
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-f3U7oBPZrSNpQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5c61b037c4","applicationID":"5673863","transactionName":"YFVUY0IHWUsAAkZZClkfY0VZSVBKBARcXAxBWVhQ","queueTime":0,"applicationTime":49,"atts":"TBJXFQodSkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body></html>
+<!-- Dynamic Page Served (once) in 0.299 seconds -->
+<!-- Cached page served by WP-Cache -->

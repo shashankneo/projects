@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"   xmlns:article="http://ogp.me/ns/article#" itemscope itemtype="http://schema.org/Article">
+<head profile="http://en.wordpress.com/vip-hosting">
+<script type='text/javascript'>
+//critio
+var crtg_nid = '3833';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName='+escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+//critio
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- Vizury ads start-->
+<script type='text/javascript'>
+	(function() {
+		try {
+			var viz = document.createElement('script');
+			viz.type = 'text/javascript';
+			viz.async = true;
+			var rand = Math.random()*100000000;
+			viz.src = '//rtb-ap.vizury.com/bidrequest/rtbpam?v=1.1&id=6868&name=PAM_IND_PC_IndianExpress&r='+rand;
+
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(viz, s);
+		} catch (i) {}
+	})();
+</script>
+
+<script type='text/javascript'>
+	
+	var vizPAM = '';
+	var name = 'vizPAM=';
+	var sizes = new Array();
+	var itemp="0";
+	var ca = document.cookie.split(';');
+	
+	for(var i=0; i<ca.length; i++) {
+		var c = ca[i];
+		
+		while (c.charAt(0)==' ') c = c.substring(1);
+		if (c.indexOf(name) != -1){
+			vizPAM = c.substring(name.length,c.length);
+		}
+	}
+
+	try{
+		vizPAM = JSON.parse(vizPAM);
+	}catch(i){}
+
+	function isVizInterested(size){
+		try{
+			if(vizPAM.result[size]['int'] === 'yes'){
+				return true;
+			}else{
+				return false;
+			}
+
+		}catch(i){
+			
+			return false;
+		}
+	}
+
+	function getAdv(size){
+		try{
+			return vizPAM.result[size]['adv'];
+		}catch(i){
+			return '';
+		}
+	}
+
+	function getImpr(size){
+		try{
+			return vizPAM.result[size]['impid'];
+		}catch(i){
+			return '';
+		}
+	}
+
+	function getSizes(){
+		
+		try {
+			for( var size in vizPAM.result){
+				sizes[itemp]=size;
+				itemp++;
+			} return sizes;      
+		} catch (i) {
+				return '';
+		}
+	}
+</script>
+<!-- Visury ads end-->
+<script type="text/javascript">
+(function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script>
+
+<meta name="description" content="If you are ready to pay, Angry Birds 2 delivers great arcade fun that can hook you to your tablet for hours on end." /><meta name="news_keywords" content="angry birds 2, angry birds, angry birds game, new angry birds game, download angry birds 2, angry birds 2 review, play angry birds 2, rovio, angry birds space, angry birds star wars, angry birds go, google play store, game review, android game, latest android games, technology news" />
+<meta name="keywords" content="angry birds 2, angry birds, angry birds game, new angry birds game, download angry birds 2, angry birds 2 review, play angry birds 2, rovio, angry birds space, angry birds star wars, angry birds go, google play store, game review, android game, latest android games, technology news" /><meta name="robots" content="NOODP" />
+<meta name="majestic-site-verification" content="MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65">
+
+<meta name="google-site-verification" content="4VKBquZoU-tYqmCYVAiCwBrBzbXCXZO15lCeN1tnv2M" />
+<meta name="msvalidate.01" content="CCA9DA5B985004F4462DA743E776C636" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=indianexpress.com&amp;id=53855017&amp;t=1438491136&amp;back=http%3A%2F%2Findianexpress.com%2Farticle%2Ftechnology%2Fsocial%2Freview-angry-birds-2-does-a-candy-crush-to-make-money%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/_static/??-eJydkOFOwzAMhF+IYCG6AT8Qz5JmJvWWxFHsUvr2cwebQECl8Se6s+7T2YGpusBFsSjk0dU0RioCiQ4osEetPhzcyd0GkRv4PR64oc1z9bokMu7IY8JssTUs1+2ZWuRgXas1U7W06/vaUMTZm2nMTgcr+sl9jOGNKlCxfQq+nzgQnRPCgH6HzRWcriVFuc3XQnFUtbp/sZOfK1PRzxsJCisZKxex9mkR2SUOXonLN+Nek6e2hjbsE0eTESz1xf51wdBBTNz7tARe8vNdd//QbR43T93+CEA56Qo=' type='text/css' media='all' />
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJyNkFsKwkAMRTdkOxRF8UPcgVso40ysaTsPJ+nL1TtKRaSlCoF83JPcm4jOJ2hV3WggUca6NRCGsaUlrcQSkBgsgmRIDdo3rJxlsPxkvSM2QCQLmFG/rdC2CN1PrAT2UlVJAML7ZCtfIfqJFr1Aq1Fa6H0kX8ERcqnbvEbiv8cMquAIOYoqoKqAOxdqrRr/SZaee6pRQ5h7wlKgS2RO05OXRjo5eIeWafQ6mkO2WW/3m2yXZeUDF9yuZQ=='></script>
+<script type='text/javascript' src='http://adcdn.forkmedia.in/impulse3/indianexpressarticle.impulse.js?ver=4.3-alpha-32652'></script>
+<script type='text/javascript' src='http://w.sharethis.com/button/buttons.js?ver=4.3-alpha-32652'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://indianexpressonline.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Lava Iris X1 Seflie smartphone at Rs&nbsp;6,777' href='http://indianexpress.com/article/technology/mobile-tabs/lava-launches-iris-x1-seflie-smartphone-at-rs-6777/' />
+<link rel='next' title='Lt Gen MMS Rai takes over as Army&#8217;s new vice chief of&nbsp;staff' href='http://indianexpress.com/article/india/india-others/lt-gen-mms-rai-takes-over-as-armys-new-vice-chief-of-staff/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p3DY9j-ah1U' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Findianexpress.com%2Farticle%2Ftechnology%2Fsocial%2Freview-angry-birds-2-does-a-candy-crush-to-make-money%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Findianexpress.com%2Farticle%2Ftechnology%2Fsocial%2Freview-angry-birds-2-does-a-candy-crush-to-make-money%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/8e7929855c7783319ae1c24e33a8e271?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/8e7929855c7783319ae1c24e33a8e271?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/efe0300e7f891c5c802ed340f6b20b67?s=114" />
+<link rel='openid.server' href='http://indianexpressonline.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://indianexpressonline.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://indianexpress.com/osd.xml" title="The Indian Express" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style>
+			.wpcom-related-posts ul li {
+				list-style-type: none;
+				display: inline-block;
+			}
+		</style>
+		<meta name="application-name" content="The Indian Express" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Latest News, Breaking News Live, Current Headlines, India News Online" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://indianexpress.com/feed/;icon-uri=http://0.gravatar.com/blavatar/8e7929855c7783319ae1c24e33a8e271?s=16" /><link rel="canonical" href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://s2.wp.com/?custom-css=1&#038;csblog=3DY9j&#038;cscache=6&#038;csrev=10" />
+		<link rel="publisher" href="https://plus.google.com/+indianexpress" /><meta property="og:type" content="article" />
+		<meta property="og:url" content="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" />
+					<meta property="og:site_name" content="The Indian Express" />
+					<meta property="og:title" content="[Review] Angry Birds 2 pulls a Candy Crush to make money" />
+					<meta property="og:image" content="http://images.indianexpress.com/2015/07/angry-birds-thumb.jpg?w=480" />
+			<meta property="og:image:type" content="image/jpeg" />
+			<meta property="og:image:width" content="480" />
+			<meta property="og:image:height" content="267" />
+			<meta property="og:description" content="If you are ready to pay, Angry Birds 2 delivers great arcade fun that can hook you to your tablet for hours on end." />
+		<meta property="og:updated_time" content="August 1, 2015 8:38 pm" /><meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@IndianExpress">
+		<meta name="twitter:url" content="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/">
+		<meta name="twitter:title" content="[Review] Angry Birds 2 pulls a Candy Crush to make money">
+		<meta name="twitter:description" content="If you are ready to pay, Angry Birds 2 delivers great arcade fun that can hook you to your tablet for hours on end.">
+		<meta name="twitter:image" content="http://images.indianexpress.com/2015/07/angry-birds-thumb.jpg?w=480">
+		<meta name="twitter:image:width" content="480"/>
+		<meta name="twitter:image:height" content="267"/>
+		<meta itemprop="description" content="If you are ready to pay, Angry Birds 2 delivers great arcade fun that can hook you to your tablet for hours on end."><meta itemprop="image" content="http://images.indianexpress.com/2015/07/angry-birds-thumb.jpg?w=480"><meta property="article:published_time" content="August 1, 2015 6:53 pm" /><meta property="article:modified_time" content="August 1, 2015 8:38 pm" />
+<meta itemprop="publisher" content="The Indian Express" />
+<meta itemprop="url" content="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" />
+<meta itemprop="headline" content="[Review] Angry Birds 2 pulls a Candy Crush to make money" />
+<meta itemprop="datePublished" content="August 1, 2015 6:53 pm" />
+<meta itemprop="dateModified" content="August 1, 2015 8:38 pm" />
+<meta itemprop="inLanguage" content="English" />
+<meta itemprop="articleSection" content="technology news" /><meta http-equiv="Last-Modified" content="Sun, 02 Aug 2015 10:22:16 +0530"/><title>
+[Review] Angry Birds 2 pulls a Candy Crush to make money | The Indian Express</title></head>
+<body class="single single-article postid-2448746 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light">
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+
+  var _comscore = _comscore || [];
+
+  _comscore.push({ c1: "2", c2: "8738137" });
+
+  (function() {
+
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+    el.parentNode.insertBefore(s, el);
+
+  })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=8738137&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- IndianExpress - IN - RTA -->
+
+<div id="wrapper">
+	<a href="http://indianexpress.com/article/technology/mobile-tabs/lava-launches-iris-x1-seflie-smartphone-at-rs-6777/">
+		<div id="pre-story">
+			<div class="one">Lava Iris X1 Seflie smartphone at Rs 6,777</div>
+		</div>
+	</a>
+		<a href="http://indianexpress.com/article/india/india-others/lt-gen-mms-rai-takes-over-as-armys-new-vice-chief-of-staff/">
+		 <div id="next-story">
+			<div class="two">Lt Gen MMS Rai takes over as Army&#039;s new vice chief of staff</div>
+		</div>
+	</a>
+	<header id="common">
+<div class="top-menu">
+	<div class="container-header">
+			<div class="navi">
+			<ul>
+					<li class="mainnav">
+					<a href="javascript:void(0);" id="menu" class="nav_togle"></a>
+					<a href="javascript:void(0);" id="menuclose" class="nav_togle"></a>
+					<div class="menu-sub">
+					<div class="first-menu">
+					<div class="showmenu">
+					<ul>
+						<li><a href="/latest-news/"><span class="home"></span>Latest News</a></li>
+						<li><a href="/india/"><span class="nation"></span> Nation</a></li>
+						<li><a href="/world/"><span class="world"></span> World</a></li>
+						<li><a href="/business/"><span class="business"></span> Business</a></li>
+						<li><a href="/cities/"><span class="cities"></span> Cities</a></li>
+						<li><a href="/sports/"><span class="sports"></span> Sports</a></li>
+						<li><a href="/entertainment/"><span class="entertainment"></span> Entertainment</a></li>
+						<li><a href="/lifestyle/"><span class="lifestyle"></span> Lifestyle</a></li>
+						<li><a href="/technology/"><span class="technology"></span> Technology</a></li>
+						<li><a href="/opinion/"><span class="opinion"></span> Opinion</a></li>
+						<li><a href="/photos/"><span class="photos"></span> Photos</a></li>
+						<li><a href="/section/explained/"><span class="explained"></span>Explained</a></li>
+						<li><a href="/section/good-news/" target="_blank"><span class="good-news"></span>Good News</a></li>
+						<li><a href="/section/trending/"><span class="trending"></span> Trending</a></li>
+						<li><a href="/astrotype/daily/"><span class="astrology"></span> Astrology</a></li>
+					</ul>
+                  </div>
+                </div>
+                <div class="topnav-slide"> <a href="javascript:void(0);" id="navnext">See More</a> <a href="javascript:void(0);" id="navprev">See Less</a> </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="logo"><a href="/"></a></div>
+        <div class="social-header">
+          <ul>
+            <li>
+              <form role="search" method="get" id="searchform" class="searchform" action="http://indianexpress.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>            </li>
+            <li><a href="https://www.facebook.com/indianexpress" target="_blank" class="fb"></a></li>
+            <li><a href="/syndication/" class="rss"></a></li>
+            <li><a href="/apps/" class="apps"></a></li>
+          </ul>
+        </div>
+      </div>
+      </div>
+
+  <div id="banner-section">
+	<div id="showmenu">
+		<ul id="navigation-ipad"></ul>
+	</div>
+	 <div class="ipad"><div  id='div-gpt-ad-1383904327704-15' >					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-15');</script>
+				</div>		 </div> </div>	<nav>
+<ul>
+<li class='home-menu'><a href='/'>&nbsp;</a></li><li><a href='/india/'>Nation</a></li><li><a href='/world/'>World</a></li><li><a href='/opinion/'>Opinion</a></li><li><a href='/sports/'>Sports</a></li><li><a href='/entertainment/'>Entertainment</a></li><li><a href='/lifestyle/'>Lifestyle</a></li><li><a href='/technology/'>Tech</a></li><li><a href='/section/trending/'>Viral</a></li><li><a href='/section/good-news/'>Good News</a></li><li><a href='/photos/'>Photos</a></li><li><a href='/videos/'>Videos</a></li><li><a href='/todays-paper/'>Today&#039;s Paper</a></li><li><a href="http://epaper.indianexpress.com/" target="_blank">ePaper</a></li>
+<li class="property"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=132704792&iu=/1050432/Clk_Trk_1x1_IE" target="_blank">Property <span></span></a></li> 
+</ul>
+</nav>	</header>
+											<script language="javascript">
+	page_type = 'story';
+</script>
+<div id="section">
+	<div class="container">
+		<div class="row">
+			<div class="heading-part">
+				<div class="breadcrumb">
+					<ul>
+						<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"> <span itemprop="title">Home</span></a></li>
+						<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="first"><a  itemprop="url" href="http://indianexpress.com/section/technology/"><span itemprop="title">technology</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://indianexpress.com/section/technology/social/"><span itemprop="title">social</span></a></li>												<li><span>[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money</span></li>
+					</ul>
+				</div>
+				<h1 itemprop="headline">[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money</h1>
+									<h2 itemprop="description" class="synopsis">If you are ready to pay, Angry Birds 2 delivers great arcade fun that can hook you to your tablet for hours on end.</h2>
+														<div class="story-rating"><span><img alt="" src="http://s0.wp.com/wp-content/themes/vip/indianexpress/images/star-one-1.png?m=1391164907g"><img alt="" src="http://s0.wp.com/wp-content/themes/vip/indianexpress/images/star-one-1.png?m=1391164907g"><img alt="" src="http://s0.wp.com/wp-content/themes/vip/indianexpress/images/star-half-1.png?m=1391164907g"><img alt="" src="http://s0.wp.com/wp-content/themes/vip/indianexpress/images/star-no-1.png?m=1391164907g"><img alt="" src="http://s0.wp.com/wp-content/themes/vip/indianexpress/images/star-no-1.png?m=1391164907g"></span> <div style="display:none;"><span>Rating:<span> 2.5 </span> out of  <span>5</span></span></div></div>
+							</div>
+		</div>
+		<div class="row">
+			<div class="leftpanel">
+				<div class="story-details">
+					<div class="main-story">
+						<div class="articles">
+							<div itemprop="articleBody" class="full-details">
+								<div class="share-social">
+									<div class="comments">
+										<div class="icons">
+											<span class='st_fblike_hcount' displayText='Facebook Like'></span>
+											<span class='st_facebook_hcount' displayText='Facebook'></span>
+											<span class='st_twitter_hcount' displayText='Tweet'></span>
+											<span class='st_googleplus_hcount' displayText='Google +'></span>
+										</div></div>
+									<div class="email">
+										<ul>
+											<li>
+												<a class="comment" href="#comments" data-vuukle="2448746">Comments</a>
+											</li>
+																								<li><a title="Print" class="print" id="print-link" href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/99/print/" rel="nofollow"></a></li>
+																		
+										</ul>
+									</div>
+								</div>
+								<div class="editor" id="storycenterbyline" style="display:none;">			Written by <a href="http://indianexpress.com/profile/author/shayak-majumder/" class="bulletProj" id="written_by1">Shayak Majumder</a>
+							 | 		<script language="javascript">
+		 /// Story Page Editor Details //// 
+		jQuery(".bulletProj").hover(function() {
+		   var dividshow = '#div_'+jQuery( this ).attr( 'id' );
+		   jQuery( this ).siblings("#div_written_by_parent").html( jQuery( dividshow ).html() ).show();
+		   
+		})
+		jQuery(".editor-details, .editor").hover(function () {},function () {
+		   var dividhide = '#'+jQuery( this ).attr( 'id' );
+		   jQuery( "#div_written_by_parent" ).html("");
+		   jQuery( "#div_written_by_parent" ).hide();
+		});
+
+	</script>
+										<span itemprop="dateModified" content="2015-08-01T20:38:08+00:00">
+								 Updated: August 1, 2015 8:38 pm</span>
+								</div>
+								<span class="custom-caption"><a href="http://images.indianexpress.com/2015/07/angry-birdss.jpg"><img class="wp-image-2448752 size-full" src="http://images.indianexpress.com/2015/07/angry-birdss.jpg" alt="angry birds 2, angry birds, angry birds game, new angry birds game, download angry birds 2, angry birds 2 review, play angry birds 2, rovio, angry birds space, angry birds star wars, angry birds go, google play store, game review, game" /></a> Angry Birds 2 is here and it looks great on any mobile device.</span>
+<p><em><strong>Angry Birds 2</strong></em></p>
+<p><em>Developer: Rovio Entertainment Ltd., Size: 68 MB</em></p>
+<p><a href="http://play.google.com/store/apps/details?id=com.rovio.baba" target="_blank">Android users click here to download game</a></p>
+<p>Rovio is no amateur when it comes to developing and delivering smash hits in gaming. It had released the wildly popular Angry Birds way back in 2009. In between, they have come up with eleven &#8216;chapters&#8217; of the first game, three spin offs and one crossover (with none other than Sonic the Hedgehog).</p>
+<p>All the while, Rovio tried new things, learning the ropes as it went along &#8211; adding characters, improving graphics and revamping gameplay. At times, it brought out a gem (Angry Birds Space) and otherwise, it simply slumped (Angry Birds Go!). After all these, Rovio has finally come out with the official sequel &#8211; Angry Birds 2.</p>
+<p>Does it live up to the hype? Does it deliver?</p>
+<p>Nope. Let us tell you why.</p>
+<span class="custom-caption"><a href="http://images.indianexpress.com/2015/07/amgry-birds-spell.jpg"><img class="wp-image-2448751 size-full" src="http://images.indianexpress.com/2015/07/amgry-birds-spell.jpg" alt="angry birds 2, angry birds, angry birds game, new angry birds game, download angry birds 2, angry birds 2 review, play angry birds 2, rovio, angry birds space, angry birds star wars, angry birds go, google play store, game review, game" /></a> The Golden Duck spell lets you unleash a forbidding &#8216;duck rain&#8217;, which destroys almost everything on your screen.</span>
+<p><strong>WHAT WORKS:</strong></p>
+<p>We love the way Rovio has gone all out on game design. Everything looks like a bright and colourful dream. This is the best any Angry Birds game has looked so far. There is an incredible depth in your gaming screen that is only heightened by gorgeous ambience and smooth animations.</p>
+<p>Its the little things that make Angry Birds 2 a treat to the senses. When you defeat a boss piggy, there is a weird satisfaction watching the pig fly right into your screen, again playing with the great depth of the level designs.</p>
+<p>WATCH ANGRY BIRDS 2 TRAILER (<a href="http://www.youtube.com/watch?v=FSWoUGxGNEg" target="_blank">App user click here to see video</a>)</p>
+			<form id="wpcom-iframe-form-4800081c873d89c69ff1340693436037-55bda2004f186" target="wpcom-iframe-4800081c873d89c69ff1340693436037-55bda2004f186" method="post" action="//wpcomwidgets.com/?wpcom_origin=https%3A%2F%2Findianexpressonline.wordpress.com" style="display: none">
+							<input type="hidden" name="width" value="100%" />
+							<input type="hidden" name="height" value="315" />
+							<input type="hidden" name="frameborder" value="0" />
+							<input type="hidden" name="style" value="" />
+							<input type="hidden" name="class" value="" />
+							<input type="hidden" name="scrolling" value="no" />
+							<input type="hidden" name="webkitallowfullscreen" value="" />
+							<input type="hidden" name="mozallowfullscreen" value="" />
+							<input type="hidden" name="allowfullscreen" value="" />
+							<input type="hidden" name="resize" value="0" />
+							<input type="hidden" name="replace_attributes" value="1" />
+							<input type="hidden" name="fallback" value="&lt;p class=&quot;protected-embed-fallback&quot;&gt;This embed is invalid&lt;/p&gt;" />
+							<input type="hidden" name="_data" value="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvRlNXb1VHeEdORWciIGZyYW1lYm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW4gY2xhc3M9IiIgc2Nyb2xsaW5nPSJubyIgcmVzaXplPSIwIiByZXBsYWNlX2F0dHJpYnV0ZXM9IjEiPjwvaWZyYW1lPg==,93186c026e5a0daecd996bbd6dcf9a9399532948" />
+							<input type="hidden" name="_tag" value="protected-iframe" />
+							<input type="hidden" name="_hash" value="4800081c873d89c69ff1340693436037" />
+					</form>
+			<iframe name="wpcom-iframe-4800081c873d89c69ff1340693436037-55bda2004f186" id="wpcom-iframe-4800081c873d89c69ff1340693436037-55bda2004f186" width="100%" height="315" frameborder="0" scrolling="no"  class="wpcom-protected-iframe "></iframe>
+		<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-4800081c873d89c69ff1340693436037-55bda2004f186');
+				var iframe = document.getElementById('wpcom-iframe-4800081c873d89c69ff1340693436037-55bda2004f186');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-4800081c873d89c69ff1340693436037-55bda2004f186'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		</script>
+		
+<p>The levels are now divided into multiple stages. You need to blast through each stage and move on to the next to clear the next level. This adds to the gameplay time, increasing it just enough to keep the adrenaline running, but never bores you down.</p>
+<p>Like Angry Birds Star Wars II, you can choose the type of bird you want to launch at the grunting pigs. It may not matter much in the initial levels, but as you progress through the game, you have to properly chalk out your strategy, because a wrong bird may lead to failing a complex level and start all over again.</p>
+<p>Angry Birds 2 also feature candid spells. These act like power ups that you can deploy at the beginning of a level to wreak havoc on the unsuspecting pigs. There is the Freeze spell, which turns fort structures into ice, making them much easier to break. The Golden Duck spell lets you unleash a forbidding &#8216;duck rain&#8217;, which destroys almost everything on your screen. There are many more spells to fool around with, each more delightful than the other.</p>
+<span class="custom-caption"><a href="http://images.indianexpress.com/2015/07/angry-birds-splat.jpg"><img class="wp-image-2448753 size-full" src="http://images.indianexpress.com/2015/07/angry-birds-splat.jpg" alt="angry birds 2, angry birds, angry birds game, new angry birds game, download angry birds 2, angry birds 2 review, play angry birds 2, rovio, angry birds space, angry birds star wars, angry birds go, google play store, game review, game" /></a> When you defeat a boss piggy, there is a weird satisfaction watching the pig fly right into your screen.</span>
+<p><strong>WHAT DOESN&#8217;T WORK:</strong></p>
+<p>Rovio has taken a leaf out of King and Supercell when they designed Angry Birds 2. As soon as you make a little progress in the game, Rovio urges you to spend your hard-earned money or your precious time to go any further.</p>
+<p>Each player gets a total of five lives. If you fail the levels and exhaust all of the lives, you have to wait for an agonising 30 minutes to refill them.</p>
+<p>Otherwise, you can buy gems (with real money of course) to get extra lives, or watch a promotion 30 second video to earn lives. The amount of paid content starts to bode heavily on you, so much so that you feel like you are playing a prime freemium game like Candy Crush or Clash of the Clans. For someone who enjoyed the no-barrier gameplay of the original Angry Birds, the new installment feels disappointing, to say the least.</p>
+<p><strong>Verdict:</strong></p>
+<p>Angry Birds 2 could have been another iconic chapter in the series. Rovio&#8217;s turn to pay-to-play freemium gaming mars the fun the game has to offer. However, we cannot take away the fact that if you are ready to pay, Angry Birds 2 delivers great arcade fun, that can hook you to your tablet for hours on end.</p>
+										<script type="text/javascript">(function(){var b=window,a=document,a=(b._buyt||[]).data||[];a.widgets=a.widgets||[];a.widgets=a.widgets.join();b=b.location;a.url=b.protocol+"//"+b.hostname+b.pathname;b=[];for(r in a)a.hasOwnProperty(r)&&b.push(r+"="+encodeURIComponent(a[r]));var b="//ctl.buyt.in/api?"+b.join("&"),a=document,c=a.createElement("script"),a=a.getElementsByTagName("script")[0];c.type="text/javascript";c.async=!0;c.defer=!0;c.src=b;a.parentNode.insertBefore(c,a)})();</script>
+										<div class="copyright">© The Indian Express Online Media Pvt Ltd</div>								<div id="story_content_parts" style="display:none">
+								<div id="part1">
+																	</div>
+								</div>
+								<div class="likestory"><span>Do you like this story</span>
+								<div id="pd_rating_holder_7251833_2448746"></div>
+								<script type="text/javascript">
+								PDRTJS_settings_7251833_2448746 = {
+								"id" : "7251833",
+								"unique_id" : "7251833_2448746",
+								"title" : "[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money",
+								"permalink" : "http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/",
+								"item_id" : "_2448746"};
+								</script>
+								<script type="text/javascript" src="http://i0.poll.fm/js/rating/rating.js"></script></div>								<div class="share-social" id="custom-share-id"></div>
+								<script type="text/javascript">
+								 jQuery("#custom-share-id").html(jQuery(".comments").html());
+								</script>
+								<div class="OUTBRAIN" data-src="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" data-widget-id="AR_1" data-ob-template="IndianExpress" ></div>
+								<div class="OUTBRAIN" data-src="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" data-widget-id="AR_2" data-ob-template="IndianExpress" ></div>
+								<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
+																<div class="storytags">
+									<ul>
+										<li>Tags:</li>
+																				<li><a href="/tag/games">Games</a></li>
+																			</ul>
+								</div>
+																
+								<script type="text/javascript">
+								/////like dislike event tracking
+								jQuery(document).ready(function(){
+									jQuery("div[id^='pd_rating_holder_'] .rating-nero-icon").click(function(){
+										var id = jQuery(this).attr("id").split("_");
+										var key = parseInt(id.length)-1;
+										var action = id[key] ==1 ? "Like" : "Dislike";
+										var title = jQuery("h1").text();
+										if(typeof(_gaq)!=undefined){
+											_gaq.push(['_trackEvent', 'Article', action, title]);
+										}
+										});
+								});
+								</script>
+								<div class="more-from">
+																		<a name="comments"></a>
+									<div id="vuukle_div"></div> 
+									<script src="http://vuukle.com/js/vuukle.js" type="text/javascript"></script> 
+									<script type="text/javascript"> 
+										var UNIQUE_ARTICLE_ID = "2448746";
+										var SECTION_TAGS =  "technology, social";
+										var ARTICLE_TITLE = "[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money";
+										var GA_CODE = "UA-1403607-3";
+										var VUUKLE_API_KEY = "2e5a47ef-15f6-4eec-a685-65a6d0ed00d0"; // This is your Vuukle API KEY
+										var TRANSLITERATE_LANGUAGE_CODE = "en"; //"en" for English, "hi" for hindi, "ta" for tamil
+										var VUUKLE_COL_CODE = "787878";
+																				var ARTICLE_AUTHORS = btoa("Shayak Majumder");
+										create_vuukle_platform(VUUKLE_API_KEY, UNIQUE_ARTICLE_ID, "0", SECTION_TAGS, ARTICLE_TITLE, TRANSLITERATE_LANGUAGE_CODE , "1", "", GA_CODE, VUUKLE_COL_CODE, ARTICLE_AUTHORS);
+									</script>
+								</div>
+							</div>
+							<div class="side-bar">
+								  <div class="author">
+									<div class="editor">
+																				Written by <a href="http://indianexpress.com/profile/author/shayak-majumder/" class="bulletProj" id="written_by1">Shayak Majumder</a>
+																																								 <br/>
+									 									 <span itemprop="dateModified" content="2015-08-01T20:38:08+00:00">
+									   Updated: Aug 1, 2015, 20:38										</span>
+									  </div>
+																												<h4>About Author</h4>
+										<ul>
+											<li><span><img width="400" height="400" src="http://images.indianexpress.com/2015/03/shayak-majumder.jpg?w=400" class="attachment-thumbnail wp-post-image" alt="shayak-majumder" /></span><strong>Shayak Majumder</strong>Author is a Senior Sub Editor at Indian Express Online. When he is not working, he is playing games, <a href="http://indianexpress.com/profile/author/shayak-majumder/">read more...</a></li>
+										<li><a href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/">[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money</a></li><li><a href="http://indianexpress.com/article/technology/social/mission-impossible-to-carron-live-top-5-free-smartphone-games-for-july/">Mission Impossible to Carrom Live: Top 5 free smartphone games for&nbsp;July</a></li><li><a href="http://indianexpress.com/article/technology/tech-news-technology/teen-patti-by-indias-octro-the-dark-horse-of-mobile-gaming/">Teen Patti by India&#8217;s Octro: The Dark horse of mobile&nbsp;gaming</a></li>										</ul>
+																												  </div>
+								  								<div class="author">
+									<ul>
+									<h4>technology</h4>
+																			<li>
+																							<a href="http://indianexpress.com/article/technology/social/the-revolution-will-be-digitised/">
+													<img src='http://images.indianexpress.com/2015/08/digital-main.jpg' alt='The Revolution Will Be&nbsp;Digitised' title='The Revolution Will Be&nbsp;Digitised' />												</a>
+																							<a href="http://indianexpress.com/article/technology/social/the-revolution-will-be-digitised/">The Revolution Will Be&nbsp;Digitised</a>
+										</li>
+																			<li>
+																							<a href="http://indianexpress.com/article/technology/technology-others/india-cannot-afford-to-miss-this-internet-of-things-wave/">
+													<img src='http://images.indianexpress.com/2015/07/modi-digital-india-759.jpg' alt='India cannot afford to miss this Internet of Things&nbsp;wave' title='India cannot afford to miss this Internet of Things&nbsp;wave' />												</a>
+																							<a href="http://indianexpress.com/article/technology/technology-others/india-cannot-afford-to-miss-this-internet-of-things-wave/">India cannot afford to miss this Internet of Things&nbsp;wave</a>
+										</li>
+																			<li>
+																							<a href="http://indianexpress.com/article/technology/social/beginners-guide-to-mixology-learn-basic-cocktails-for-free-on-the-internet/">
+													<img src='http://images.indianexpress.com/2015/06/sweet.jpg' alt='Beginner&#8217;s guide to Mixology: Learn basic cocktails for free on the&nbsp;Internet' title='Beginner&#8217;s guide to Mixology: Learn basic cocktails for free on the&nbsp;Internet' />												</a>
+																							<a href="http://indianexpress.com/article/technology/social/beginners-guide-to-mixology-learn-basic-cocktails-for-free-on-the-internet/">Beginner&#8217;s guide to Mixology: Learn basic cocktails for free on the&nbsp;Internet</a>
+										</li>
+																		<ul>
+								</div>
+																	<div class="add-verticle">
+										<div id='div-gpt-ad-1435827365341-0'>
+											<script type='text/javascript'>
+												googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435827365341-0'); });
+											</script>
+										</div>									
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="rightpanel">
+			<div class='add-first' id='div-gpt-ad-1383904327704-22' >					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-22');</script>
+				</div>		<div class='new event add-first' >					<iframe src="http://cricketlive.indianexpress.com/other-matches.html" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:294px; height:156px;" allowTransparency="true"></iframe>
+				</div>		<div class="photos"><h4>Photos</h4><div class="first-story">
+							<div class="sto-img"><a href="http://indianexpress.com/photos/entertainment-gallery/salman-khans-sister-arpita-khans-birthday-bash-a-grand-affair/"><img alt="Salman Khan&#039;s sister Arpita Khan&#039;s birthday bash: A grand affair" src="//images.indianexpress.com/2015/08/arpita-salman410.jpg?w=410"></a></div>
+							<div class="slugs"><a class="text" href="http://indianexpress.com/photos/entertainment-gallery/salman-khans-sister-arpita-khans-birthday-bash-a-grand-affair/">Salman Khan&#039;s sister Arpita Khan&#039;s birthday bash: A grand affair</a></div> 
+						</div><div class="other-stories"><ul><li><a href="http://indianexpress.com/photos/entertainment-gallery/shraddha-kangana-ranveer-arjun-alia-parineeti-bollywoods-new-found-friends/"><img width="140" height="93" alt="Happy Friendship Day: Salman-SRK, Jacqueline-Sonam are Bollywood best friends" src="//images.indianexpress.com/2015/01/salman-shahrukh-sonam-jacqueline-410.jpg?w=410"></a>
+						<a href="http://indianexpress.com/photos/entertainment-gallery/shraddha-kangana-ranveer-arjun-alia-parineeti-bollywoods-new-found-friends/">Happy Friendship Day: Salman-SRK, Jacqueline-Sonam are Bollywood best friends</a>
+						</li><li><a href="http://indianexpress.com/photos/entertainment-gallery/srk-kajol-wrap-up-dilwale-in-bulgaria-return-to-india/"><img width="140" height="93" alt="SRK, Kajol wrap up &#039;Dilwale&#039; in Bulgaria, return to India" src="//images.indianexpress.com/2015/08/srk-kajol410.jpg?w=410"></a>
+						<a href="http://indianexpress.com/photos/entertainment-gallery/srk-kajol-wrap-up-dilwale-in-bulgaria-return-to-india/">SRK, Kajol wrap up &#039;Dilwale&#039; in Bulgaria, return to India</a>
+						</li></ul></div></div><div class="editor-pic"><h4>Best of Express</h4><ul><li><a href="http://indianexpress.com/article/india/india-others/insufficient-material-against-mp-judge-justice-s-k-gangele-accused-of-sexual-harassment-panel/"><img alt="Insufficient material against MP judge Justice S K Gangele accused of sexual harassment: Panel" title="Insufficient material against MP judge Justice S K Gangele accused of sexual harassment: Panel" src="//images.indianexpress.com/2015/08/mp-high-court480.jpg?w=450"></a><a href="http://indianexpress.com/india/" class="name">India</a><a href="http://indianexpress.com/article/india/india-others/insufficient-material-against-mp-judge-justice-s-k-gangele-accused-of-sexual-harassment-panel/" class="padding">Insufficient material against MP judge Justice S K Gangele accused of sexual harassment: Panel</a></li><ul><li><a href="http://indianexpress.com/article/india/india-others/on-death-row-with-lover-she-hands-over-child-to-college-mate/"><img alt="On Death Row with lover, she hands over child to college mate" title="On Death Row with lover, she hands over child to college mate" src="//images.indianexpress.com/2015/08/shabnam480.jpg?w=450"></a><a href="http://indianexpress.com/india/" class="name">India</a><a href="http://indianexpress.com/article/india/india-others/on-death-row-with-lover-she-hands-over-child-to-college-mate/" class="padding">On Death Row with lover, she hands over child to college mate</a></li><ul><li><a href="http://indianexpress.com/article/india/india-others/an-express-rti-application-27-mps-overstayed-at-the-ashok-bills-not-cleared-by-ls-secretariat/"><img alt="RTI application: 27 MPs overstayed at the Ashok, bills not cleared by LS Secretariat" title="RTI application: 27 MPs overstayed at the Ashok, bills not cleared by LS Secretariat" src="//images.indianexpress.com/2015/08/ashokhotel480.jpg?w=450"></a><a href="http://indianexpress.com/india/" class="name">India</a><a href="http://indianexpress.com/article/india/india-others/an-express-rti-application-27-mps-overstayed-at-the-ashok-bills-not-cleared-by-ls-secretariat/" class="padding">RTI application: 27 MPs overstayed at the Ashok, bills not cleared by LS Secretariat</a></li><ul><li><a href="http://indianexpress.com/article/india/india-others/new-taliban-chief-mullah-akhtar-muhammad-mansour-oversaw-ic-814-ops-at-kandahar/"><img alt="New Taliban chief Mullah Akhtar Muhammad Mansour oversaw IC-814 ops at Kandahar" title="New Taliban chief Mullah Akhtar Muhammad Mansour oversaw IC-814 ops at Kandahar" src="//images.indianexpress.com/2015/07/kandahar.jpg?w=450"></a><a href="http://indianexpress.com/india/" class="name">India</a><a href="http://indianexpress.com/article/india/india-others/new-taliban-chief-mullah-akhtar-muhammad-mansour-oversaw-ic-814-ops-at-kandahar/" class="padding">New Taliban chief Mullah Akhtar Muhammad Mansour oversaw IC-814 ops at Kandahar</a></li><ul><li><a href="http://indianexpress.com/article/india/india-others/supreme-court-deputy-registrar-quits-over-yakub-memon-hanging-order/"><img alt="Supreme Court Deputy Registrar quits over Yakub Memon hanging order" title="Supreme Court Deputy Registrar quits over Yakub Memon hanging order" src="//images.indianexpress.com/2015/07/yakub-memon480.jpg?w=450"></a><a href="http://indianexpress.com/india/" class="name">India</a><a href="http://indianexpress.com/article/india/india-others/supreme-court-deputy-registrar-quits-over-yakub-memon-hanging-order/" class="padding">Supreme Court Deputy Registrar quits over Yakub Memon hanging order</a></li></ul><ul><li><a href="http://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-remembers-his-rebirth-today-33-years-after-he-suffered-a-near-fatal-accident-on-coolie/"><img alt="Big B remembers his rebirth, 33 years after a near-fatal accident in &#039;Coolie&#039;" title="Big B remembers his rebirth, 33 years after a near-fatal accident in &#039;Coolie&#039;" src="//images.indianexpress.com/2015/08/amitabhbachhcan-coolie480.jpg?w=450"></a><a href="http://indianexpress.com/entertainment/" class="name">Entertainment</a><a href="http://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-remembers-his-rebirth-today-33-years-after-he-suffered-a-near-fatal-accident-on-coolie/" class="padding">Big B remembers his rebirth, 33 years after a near-fatal accident in &#039;Coolie&#039;</a></li><ul><li><a href="http://indianexpress.com/article/entertainment/bollywood/i-thought-if-i-have-to-die-of-hunger-i-might-as-well-do-so-in-mumbai-nawazuddin-siddiqui/"><img alt="I thought if I have to die, I might as well do so in Mumbai: Nawazuddin" title="I thought if I have to die, I might as well do so in Mumbai: Nawazuddin" src="//images.indianexpress.com/2015/07/nawazuddinsiddiqui4801.jpg?w=450"></a><a href="http://indianexpress.com/entertainment/" class="name">Entertainment</a><a href="http://indianexpress.com/article/entertainment/bollywood/i-thought-if-i-have-to-die-of-hunger-i-might-as-well-do-so-in-mumbai-nawazuddin-siddiqui/" class="padding">I thought if I have to die, I might as well do so in Mumbai: Nawazuddin</a></li><ul><li><a href="http://indianexpress.com/article/entertainment/bollywood/salman-khans-sister-arpita-khans-birthday-bash-was-a-grand-affair/"><img alt="Salman&#039;s sister Arpita&#039;s birthday bash was a grand affair" title="Salman&#039;s sister Arpita&#039;s birthday bash was a grand affair" src="//images.indianexpress.com/2015/08/salmankhan-arpita480.jpg?w=450"></a><a href="http://indianexpress.com/entertainment/" class="name">Entertainment</a><a href="http://indianexpress.com/article/entertainment/bollywood/salman-khans-sister-arpita-khans-birthday-bash-was-a-grand-affair/" class="padding">Salman&#039;s sister Arpita&#039;s birthday bash was a grand affair</a></li><ul><li><a href="http://indianexpress.com/article/entertainment/bollywood/askarjun-arjun-kapoor-talks-about-his-favourite-people-and-on-ka-and-ki/"><img alt="#AskArjun: Arjun Kapoor talks about his favourite people" title="#AskArjun: Arjun Kapoor talks about his favourite people" src="//images.indianexpress.com/2015/07/arjun-kapoor-neww-480.jpg?w=450"></a><a href="http://indianexpress.com/entertainment/" class="name">Entertainment</a><a href="http://indianexpress.com/article/entertainment/bollywood/askarjun-arjun-kapoor-talks-about-his-favourite-people-and-on-ka-and-ki/" class="padding">#AskArjun: Arjun Kapoor talks about his favourite people</a></li></ul><ul><li><a href="http://indianexpress.com/article/sports/cricket/shahid-afridi-stars-in-pakistans-thrilling-one-wicket-win-in-second-t20i-against-sri-lanka/"><img alt="Afridi, Anwar blast 40s as Pak beat SL in thrilling T20I" title="Afridi, Anwar blast 40s as Pak beat SL in thrilling T20I" src="//images.indianexpress.com/2015/08/sri-lanka-pakistan480.jpg?w=450"></a><a href="http://indianexpress.com/sports/" class="name">Sports</a><a href="http://indianexpress.com/article/sports/cricket/shahid-afridi-stars-in-pakistans-thrilling-one-wicket-win-in-second-t20i-against-sri-lanka/" class="padding">Afridi, Anwar blast 40s as Pak beat SL in thrilling T20I</a></li><ul><li><a href="http://indianexpress.com/article/sports/cricket/i-have-always-been-responsible-with-the-way-i-play-my-cricket-says-virat-kohli/"><img alt="&#039;Always been responsible with the way I play my cricket&#039;" title="&#039;Always been responsible with the way I play my cricket&#039;" src="//images.indianexpress.com/2015/08/viratkohlipti-t.jpg?w=450"></a><a href="http://indianexpress.com/sports/" class="name">Sports</a><a href="http://indianexpress.com/article/sports/cricket/i-have-always-been-responsible-with-the-way-i-play-my-cricket-says-virat-kohli/" class="padding">&#039;Always been responsible with the way I play my cricket&#039;</a></li><ul><li><a href="http://indianexpress.com/article/sports/tennis/roger-federer-vs-rafael-nadal-iptl-2015-set-for-marquee-match/"><img alt="Federer vs Nadal, IPTL 2015 set for marquee match" title="Federer vs Nadal, IPTL 2015 set for marquee match" src="//images.indianexpress.com/2015/08/iptlpti-t.jpg?w=450"></a><a href="http://indianexpress.com/sports/" class="name">Sports</a><a href="http://indianexpress.com/article/sports/tennis/roger-federer-vs-rafael-nadal-iptl-2015-set-for-marquee-match/" class="padding">Federer vs Nadal, IPTL 2015 set for marquee match</a></li></ul><ul><li><a href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/"><img alt="[Review] Angry Birds 2 does a Candy Crush to make money" title="[Review] Angry Birds 2 does a Candy Crush to make money" src="//images.indianexpress.com/2015/07/angry-birds-thumb.jpg?w=450"></a><a href="http://indianexpress.com/technology/" class="name">Technology</a><a href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/" class="padding">[Review] Angry Birds 2 does a Candy Crush to make money</a></li><ul><li><a href="http://indianexpress.com/article/technology/social/beginners-guide-to-mixology-learn-basic-cocktails-for-free-on-the-internet/"><img alt="Beginner&#039;s guide to Mixology: Learn basic cocktails for free on the Internet" title="Beginner&#039;s guide to Mixology: Learn basic cocktails for free on the Internet" src="//images.indianexpress.com/2015/06/sweet.jpg?w=450"></a><a href="http://indianexpress.com/technology/" class="name">Technology</a><a href="http://indianexpress.com/article/technology/social/beginners-guide-to-mixology-learn-basic-cocktails-for-free-on-the-internet/" class="padding">Beginner&#039;s guide to Mixology: Learn basic cocktails for free on the Internet</a></li><ul><li><a href="http://indianexpress.com/article/technology/social/world-wide-web-day-6-basic-ways-to-stay-safe-on-internet-you-always-forget/"><img alt="World Wide Web Day: 6 basic ways to stay safe on Internet you always forget" title="World Wide Web Day: 6 basic ways to stay safe on Internet you always forget" src="//images.indianexpress.com/2015/04/cybersecurity-think-big.jpg?w=450"></a><a href="http://indianexpress.com/technology/" class="name">Technology</a><a href="http://indianexpress.com/article/technology/social/world-wide-web-day-6-basic-ways-to-stay-safe-on-internet-you-always-forget/" class="padding">World Wide Web Day: 6 basic ways to stay safe on Internet you always forget</a></li></ul><ul><li><pre class="photo"> </pre><a href="http://indianexpress.com/photos/lifestyle-gallery/friendship-on-paper-remember-these-childhood-games/"><img alt="Friendship on paper: Remember these childhood games?" title="Friendship on paper: Remember these childhood games?" src="//images.indianexpress.com/2015/07/660-paper-games.jpg"></a><a href="" class="name"></a><a href="http://indianexpress.com/photos/lifestyle-gallery/friendship-on-paper-remember-these-childhood-games/" class="padding">Friendship on paper: Remember these childhood games?</a></li></ul></div><div class='add-first' id='div-gpt-ad-1383904327704-34' >					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-34');</script>
+				</div>		<div class='add-first' id='div-gpt-ad-1406019564938-0' >					<script type="text/javascript">googletag.display('div-gpt-ad-1406019564938-0');</script>
+				</div>		<div class="latest-news">
+						<h4><a href="/latest-news/"><span>Aug 02:</span> Latest News</a></h4>
+						<ul><li><a href="http://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-remembers-his-rebirth-today-33-years-after-he-suffered-a-near-fatal-accident-on-coolie/"><img width="480" height="267" src="http://images.indianexpress.com/2015/08/amitabhbachhcan-coolie480.jpg?w=480" class="attachment-post-thumbnail wp-post-image" alt="amitabh bachchan, coolie, amitabh bachchan accident, amitabh bachchan hospital, big b accident, big b coolie, amitabh bachchan coolie, coolie accident, accident in coolie, amitabh bachchan news, entertainment news" /></a><a href="http://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-remembers-his-rebirth-today-33-years-after-he-suffered-a-near-fatal-accident-on-coolie/">Amitabh Bachchan remembers his rebirth today, 33 years after he suffered a near-fatal accident on &#8216;Coolie&#8217;</a><span>10:07 am, Aug 02, 2015</span></li><li><a href="http://indianexpress.com/article/world/world-others/mexican-photojournalist-found-dead-in-capital/"><img width="480" height="267" src="http://images.indianexpress.com/2015/08/photographer-thumb.jpg?w=480" class="attachment-post-thumbnail wp-post-image" alt="journalist dead, photographer dead, photojournalist dead, photojournalists killed, journalist killed, mexican photographer killed, ruben espinosa, world news" /></a><a href="http://indianexpress.com/article/world/world-others/mexican-photojournalist-found-dead-in-capital/">Mexican photojournalist found dead in&nbsp;capital</a><span>09:24 am, Aug 02, 2015</span></li><li><a href="http://indianexpress.com/article/india/politics/govts-fresh-bid-to-end-parliament-deadlock-all-party-meet-tomorrow/"><img width="480" height="267" src="http://images.indianexpress.com/2015/08/parlianment.jpg?w=480" class="attachment-post-thumbnail wp-post-image" alt="parlianment" /></a><a href="http://indianexpress.com/article/india/politics/govts-fresh-bid-to-end-parliament-deadlock-all-party-meet-tomorrow/">Govt&#8217;s fresh bid to end Parliament deadlock: All-party meet&nbsp;tomorrow</a><span>09:15 am, Aug 02, 2015</span></li><li><a href="http://indianexpress.com/article/world/middle-east-africa/cecil-the-lions-brother-killed-claims-zimbabwe-conservation-group/"><img width="480" height="267" src="http://images.indianexpress.com/2015/07/lion-killed-thumb.jpg?w=480" class="attachment-post-thumbnail wp-post-image" alt="cecil, cecil the lion, #cecilthelion, cecil lion killed, zimbabwe lion killed, us man kill lion, american kill lion, lion, lion killed, zimbabwe lion killed, man kills lion, man kill lion, dentist kill lion, dentist kills lion, usa, american kills lion, american kills lion, lion hunt, bloomington news, world news" /></a><a href="http://indianexpress.com/article/world/middle-east-africa/cecil-the-lions-brother-killed-claims-zimbabwe-conservation-group/">Cecil the lion&#8217;s brother killed, claims Zimbabwe conservation&nbsp;group</a><span>09:01 am, Aug 02, 2015</span></li><li><a href="http://indianexpress.com/article/world/americas/after-two-weeks-hitchhiking-robots-cross-country-us-trip-ends-in-philadelphia/"><img width="480" height="267" src="http://images.indianexpress.com/2015/08/hitchhiking-robot_kumathumb.jpg?w=480" class="attachment-post-thumbnail wp-post-image" alt="hitchhiking robot, hitchbot, Hitchhiking robot, robot, US Hitchhiking robot, Hitchhiking robot canada, Hitchhiking robot europe, international news, wordl news" /></a><a href="http://indianexpress.com/article/world/americas/after-two-weeks-hitchhiking-robots-cross-country-us-trip-ends-in-philadelphia/">After two weeks, hitchhiking robot&#8217;s cross-country US trip ends in&nbsp;Philadelphia</a><span>08:29 am, Aug 02, 2015</span></li></ul></div><div  id='div-gpt-ad-1383904327704-11' style='width:300px; height:250px;'>					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-11');</script>
+				</div>		<div  id='div-gpt-ad-1383904327704-1' style='width:5px; height:5px;'>					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-1');</script>
+				</div>		<div  id='div-gpt-ad-1383904327704-33' style='width:1px; height:1px;'>					<script type="text/javascript">googletag.display('div-gpt-ad-1383904327704-33');</script>
+				</div>		<div  >					<div class='aside'>
+						<div style="width:300px; height:600px;" breakingburner-widget="IndianExpress/ie-homepage"><script src="http://widget.breakingburner.com/js/jwidget.js"></script>
+						</div>
+					</div>
+				</div>					</div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		try{
+			var p_length = jQuery( ".full-details p" ).length;
+			
+			var twits = jQuery("#story_content_parts #part1").html();
+			jQuery( ".full-details p:nth-child(2)" ).after( twits );
+			
+			jQuery(".main-story .story-image img").each(function(){
+				var width = jQuery(this).width(); 
+				if(width <= 480){
+					jQuery(".main-story").css({"float":"left", "width":"480"});
+				}else{
+					jQuery(this).css({"float":"none", "width":"100%", "height":"auto", "margin":"0 auto", "display":"block",});
+				}
+			});
+			jQuery(".full-details img").each(function(){
+				var width = jQuery(this).width();
+				if(width > 480){
+					jQuery(this).css({"float":"none", "width":"100%", "height":"auto", "margin":"0 auto", "display":"block",});
+				}
+			});
+		}
+		catch(err){}
+	});
+</script>
+	<div class="editor-details" id="div_written_by1" style="display:none;">
+		<p><a href="http://indianexpress.com/profile/author/shayak-majumder/">
+		<img width="400" height="400" src="http://images.indianexpress.com/2015/03/shayak-majumder.jpg?w=400" class="attachment-thumbnail wp-post-image" alt="shayak-majumder" /></a><strong><a href="http://indianexpress.com/profile/author/shayak-majumder/">Shayak Majumder</a></strong>Author is a Senior Sub Editor at Indian Express Online. When he is not...<a href="http://indianexpress.com/profile/author/shayak-majumder/"> read more</a></p>
+	<ul><li><a href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/">[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money</a></li><li><a href="http://indianexpress.com/article/technology/social/mission-impossible-to-carron-live-top-5-free-smartphone-games-for-july/">Mission Impossible to Carrom Live: Top 5 free smartphone games for&nbsp;July</a></li><li><a href="http://indianexpress.com/article/technology/tech-news-technology/teen-patti-by-indias-octro-the-dark-horse-of-mobile-gaming/">Teen Patti by India&#8217;s Octro: The Dark horse of mobile&nbsp;gaming</a></li></ul>		</div>
+			<div class="editor-details" id="div_written_by2" style="display:none;">
+		<p><a href="http://indianexpress.com/profile/author/shayak-majumder/">
+		<img width="400" height="400" src="http://images.indianexpress.com/2015/03/shayak-majumder.jpg?w=400" class="attachment-thumbnail wp-post-image" alt="shayak-majumder" /></a><strong><a href="http://indianexpress.com/profile/author/shayak-majumder/">Shayak Majumder</a></strong>Author is a Senior Sub Editor at Indian Express Online. When he is not...<a href="http://indianexpress.com/profile/author/shayak-majumder/"> read more</a></p>
+	<ul><li><a href="http://indianexpress.com/article/technology/social/review-angry-birds-2-does-a-candy-crush-to-make-money/">[Review] Angry Birds 2 pulls a Candy Crush to make&nbsp;money</a></li><li><a href="http://indianexpress.com/article/technology/social/mission-impossible-to-carron-live-top-5-free-smartphone-games-for-july/">Mission Impossible to Carrom Live: Top 5 free smartphone games for&nbsp;July</a></li><li><a href="http://indianexpress.com/article/technology/tech-news-technology/teen-patti-by-indias-octro-the-dark-horse-of-mobile-gaming/">Teen Patti by India&#8217;s Octro: The Dark horse of mobile&nbsp;gaming</a></li></ul>		</div>
+		 
+ </div>
+	<footer>
+		<div class="footer-group">
+		  <div style="height:1px;"><img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1050432/IE_Imp_Trk__ROS_1x1&sz=1x1&t=&c=123456789'/></div>
+			<div class="details">
+								<div class="social-icons">
+					<ul>
+						<li class="no-mob"><a href="/todays-paper/" title="Print Edition" target="_blank" class="print-edition">&nbsp;</a></li>
+						<li class="no-mob"><a href="http://m.indianexpress.com/" title="Mobile" target="_blank" class="mobile">&nbsp;</a></li>
+						<li class="no-mob"><a href="https://itunes.apple.com/us/app/the-indian-express/id506351833?mt=8" title="iPhone" target="_blank" class="iPhone">&nbsp;</a></li>
+						<li class="no-mob"><a href="https://itunes.apple.com/us/app/the-indian-express-for-ipad/id474196564?mt=8" title="iPad" target="_blank" class="iPad">&nbsp;</a></li>
+				 <li class="no-mob"><a href="https://play.google.com/store/apps/details?id=com.indianexpress.android&hl=en" title="Android" target="_blank" class="android">&nbsp;</a></li>
+						<li class="no-mob"><a href="http://www.indianexpress.com/syndication/" title="RSS Feed" target="_blank" class="rss">&nbsp;</a></li>
+						<li class="no-mob"><a href="http://epaper.indianexpress.com/" title="e-Paper" target="_blank" class="ePaper">&nbsp;</a></li>
+						<li><a href="https://www.facebook.com/indianexpress" title="Facebook" target="_blank" class="facebook">&nbsp;</a></li>
+						<li><a href="https://twitter.com/indianexpress" title="Twitter" target="_blank" class="twitter">&nbsp;</a></li>
+						<li><a href="https://plus.google.com/+indianexpress?rel=author" title="Google Plus" target="_blank" class="gplus">&nbsp;</a></li>
+						<li><a href="http://www.youtube.com/IndianExpress" title="YouTube" target="_blank" class="youtube">&nbsp;</a></li>
+						<li><a href="http://indianexpress.tumblr.com/" title="Tumblr" target="_blank" class="tumblr">&nbsp;</a></li>
+						<li><a href="https://www.pinterest.com/IndianExpress/" title="Pintrest" target="_blank" class="pintrest">&nbsp;</a></li>
+					</ul>
+				</div>
+				<div class="group">
+					<ul>
+						<li><a href="http://www.expressindia.com/news/expressgroup/" target="_blank">The Express Group</a></li>
+						<li><a href="http://www.indianexpress.com/" target="_blank">The Indian Express</a></li>
+						<li><a href="http://www.financialexpress.com/" target="_blank">The Financial Express</a></li>
+						<li><a href="http://www.loksatta.com/" target="_blank">Loksatta</a></li>
+						<li><a href="http://www.jansatta.com/" target="_blank">Jansatta</a></li>
+						<li><a href="http://www.exims.in/" target="_blank">Exims</a></li>
+						<li><a href="http://www.expressindia.com/ramnath-goenka-foundation/" target="_blank">Ramnath Goenka Awards </a></li>
+					</ul>
+				</div>
+				<div class="group">
+					<ul>
+						<li><a href="http://www.expresstowers.in/" target="_blank">Express Towers</a></li>
+						<li><a href="http://expressbusinesspublications.com/" target="_blank">Business Publication Division</a></li>
+						<li><a href="http://pharma.financialexpress.com/" target="_blank">Express Pharma</a></li>
+						<li><a href="http://healthcare.financialexpress.com/" target="_blank">Express Healthcare</a></li>
+						<li><a href="http://hospitality.financialexpress.com/" target="_blank">Express Hospitality</a></li>
+						<li><a href="http://travel.financialexpress.com/" target="_blank">Express Travelworld</a></li>
+						<li><a href="http://computer.financialexpress.com/" target="_blank">Express Computers</a></li>
+					</ul>
+				</div>
+				<div class="group">
+					<ul>
+						<li><a href="/privacy-policy/" target="_blank">Privacy Policy</a></li>
+						<li><a href="/advertise-with-us/" target="_blank">Advertise with Us</a></li>
+						<li><a href="/contact-us/" target="_blank">Contact Us</a></li>
+						<li><a href="http://subscribe.indianexpress.com/" target="_blank">Subscribe</a></li>
+					</ul>
+				</div>
+								<div class="express-group">&nbsp;</div>
+				<div class="copyright">
+						<div class="privacy">Copyright &copy; 2015 The Indian Express [P] Ltd. All Rights Reserved </div>
+	<div class="wp"><a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="http://s1.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-dark-small.png?m=1401974073g" width="187" height="26" alt="Powered by WordPress.com VIP" /></a></div>
+					</div>
+			</div>
+		</div>
+	</footer>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1403607-3']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+<!-- wpcom_wp_footer -->
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/themes/vip/indianexpress/microsites/responsive/js/custom-new.js?m=1436872358j'></script>
+<script type='text/javascript' src='http://2982.tm.zedo.com/v1/bbf105a4-6884-44ff-92f4-d8e0653c48bb/tm.js?ver=4.3-alpha-32652'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??/wp-content/mu-plugins/2-vip/js/vip-analytics.js,/wp-content/themes/vip/indianexpress/plugins/ie-print-page/js/ie_print_page.js?m=1432035833j'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?47" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'53855017','blog_tz':'5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'53855017','v':'wpcom','tz':'5','user_id':'0','post':'2448746','subd':'indianexpressonline'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=53855017&v=wpcomvt&tz=5&user_id=0&post=2448746&subd=indianexpressonline&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdRYmxPT0k4VXdkJnFvVDlmWWNHK2FpVnRRfkl6N3dXRDR5TmpsTkpYbVsxd1N3TUhUSTdSWmpFXXFPQWQ5XXpCSnRiLlo1RiVFTUM0X05BU041d3YsK3BxTXN8NDlHK2pkeUdBQnZ5QXlwRHxGY00vT01KSHoyeXJ2OCUyeD1JRVMtfkN2eD05UC8xJTl8WDZNdzB8WmwlaGl0M1QlLG1bNTJ6dmd2JUdCVVp3ZUlBY3JMYUl1Z2RoUjlZTG8scEly'}]);
+_stq.push([ 'clickTrackerInit', '53855017', '2448746' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- 89fe265e947e3c845c48a5918d5f409d -->
+	<script type="text/javascript">
+    var ttsmi2_data = { siteid: 41973, count: 'site' };
+    (function() {
+      var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+      sc.src = '//target.smi2.net/client/target.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+  </script>
+		 <!-- Vuukle Script -->
+ <script type="text/javascript">
+		var cb = function () { 
+			var l = document.createElement('script'); l.src = "http://vuukle.com/js/va.js"; 
+			l.async = "async"; 
+			var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); 
+		}; 
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || 
+		webkitRequestAnimationFrame || msRequestAnimationFrame; 
+		if (raf) raf(cb); 
+		else window.addEventListener('load', cb); 
+	</script> 
+</body>
+</html>
+<!--
+	generated 223 seconds ago
+	generated in 0.569 seconds
+	served from batcache in 0.002 seconds
+	expires in 77 seconds
+-->

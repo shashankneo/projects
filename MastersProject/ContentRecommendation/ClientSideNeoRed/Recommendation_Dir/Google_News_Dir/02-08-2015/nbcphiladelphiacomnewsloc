@@ -1,0 +1,1809 @@
+
+	
+  
+  <!DOCTYPE html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="imagetoolbar" content="false">
+
+
+
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0">
+      
+<meta name="robots" content="noodp,noydir" />
+<meta property="fb:app_id" content="196375740321" />
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="NBC 10 Philadelphia" />
+<meta property="og:description" content="The manufacturer of the jet that crashed on takeoff in Massachusetts last year, killing the co-owner of The Philadelphia Inquirer and six other people, has reported a problem with a fail-safe system that..." />
+<meta property="og:title" content="Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem" />
+<meta property="og:url" content="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html"/>
+<meta property="og:image" content="http://media.nbcphiladelphia.com/images/1200*675/l_plane-crash-1200.jpg" />
+
+
+
+<meta property="article:publisher" content="https://www.facebook.com/nbcphiladelphia" />
+
+<meta http-equiv="last-modified" content="2015-08-1@08:14:28 PDT" />
+
+
+<meta name="tp:preferredRuntimes" content="Flash,HTML5">
+<meta name="tp:preferredFormats" content="mpeg4,m3u,webm,ogg,flv,F4M">
+<meta name="tp:FlashBlacklist" content="None|None">
+
+<script src="http://www.nbcphiladelphia.com/includes/jquery-1.8.2.min.js?r=2015-07-30" type="text/javascript"></script>
+<script src="http://www.nbcudigitaladops.com/hosted/global_header.js"></script>
+
+
+<script type="text/javascript">
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+// Stop older versions of IE from choking on calls to the console.
+if(typeof console == "undefined") {
+
+    console = {};
+    console.log = function(msg) {
+    // fail silently
+    }
+    
+    console.warn = function(msg) {
+    // fail silently
+    }
+    
+    console.error = function(msg) {
+    // fail silently
+    }
+    
+    console.info = function(msg) {
+    // fail silently
+    }
+
+}
+</script>
+
+
+
+ 
+<script type="text/javascript">
+  var nbc = {
+    brand:               "NBC 10 Philadelphia",           
+    cityName:            "Philadelphia",            
+    domain:              "www.nbcphiladelphia.com",           
+    host:                "nbcphiladelphia.com",             
+    market:              "nbcphiladelphia",           
+    gmtOffset:           "4",      
+    path:                "/news/local",             
+    sectionType:         "AlphaSection",   
+    section:             "news",         
+    subsection:          "local",      
+    subsectionPageTitle: "Local News",           
+    fullDomain:          "http://www.nbcphiladelphia.com",       
+    fullPath:            "http://www.nbcphiladelphia.com/news/local",             
+    env:                 "",           
+    siteKey:             "phi", 
+    mediaDomain:         "http://media.nbcphiladelphia.com", 
+    debug:               false,                  
+    roadblockOrdNumber:  268631458,
+    defaultLat:          "39.95",    
+    defaultLong:         "-75.16",   
+    tremorKey:           "52289094b872c",                 tremorSyndKey:       "5239b2feaee2e",                 tremorHTMLKey:       "5239c44e7e9e1",                 tremorHTMLSyndKey:   "5239c48490096",                 htmlPreroll:          true,                      
+    
+    pdkPath:             "http://www.nbcphiladelphia.com/assets/pdk5511",              
+    pdkAcct:             "Yh1nAC",               
+    
+    gmapKey:             "ABQIAAAAqVLuG7bZfizR7HmRA5SLvRRwOdGRI0CGodwpzrQsuMFou4uTzRTqYVrR4U-VZjvmRcBe_ABGadIW1A",       
+    isMobile:            "false",       
+    contentID:           "320403212", 
+    desktopContScroll:   "false", 
+    mobileContScroll:    "true",
+    twitterVia:          "nbcphiladelphia",
+    fbApiKey:            "85ab812aa7574de43da6e627c9970950",
+    callLetters:         "WCAU",
+    mobileIntercept:     false,
+    mobileInterceptContent: 0,
+    mobileArticleGallery: true
+  };
+nbc.omniture = {firedRegistration: "test",ageRange: "",userGender: "",postalCode: "",playerType: "articleplayer",pageType: "article",suite:"nbculimdivisionprod,nbculimphiladelphiaprod"};
+
+var zoneSec = nbc.section.replace(/-/g,"_");
+var zoneSubsec = nbc.subsection.replace(/-/g,"_");
+nbc.zone = zoneSec + "-" + zoneSubsec + "-" + nbc.omniture.pageType;
+
+
+nbc.video = {fwSSID: "ots_wcau_news_local", fwNetworkID : "382114", config: {volume: 100 ,htmlPreRoll: true, htmlOmniture: false, tremorFlashKey: "52289094b872c",tremorFlashSyndKey: "5239b2feaee2e",tremorHTMLKey: "5239c44e7e9e1",tremorHTMLSyndKey: "5239c48490096"},pdkPath: "http://www.nbcphiladelphia.com/assets/pdk5511",playerType: "articleplayer"};
+
+
+var partner_xfinity = false;
+
+
+var xfinityIsPersistant = false;
+var partnerXfinityValue = "";
+function getThePartnerCookie (cookieName) {
+    var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+    if(exp.test (document.cookie + ";")) {
+        exp.exec (document.cookie + ";");
+        return unescape(RegExp.$1);
+    }
+}
+if(getThePartnerCookie("partnerCookie")=="xfinity" && getThePartnerCookie("partnerSessionCookie")=="xfinity"){
+    xfinityIsPersistant = true;
+} else {
+    xfinityIsPersistant = false;
+}
+
+if(xfinityIsPersistant == true){
+    partnerXfinityValue = "xfinity";
+    console.log("partner xfinity");
+} else {
+    partnerXfinityValue = "";
+}
+    
+var _oSourceParam = "";
+nbc.getReferrer = function(useAgentString){
+  var capturedUA = null;
+  var subDomainPresent = false;
+  var capturedReferral = "";
+  if(useAgentString==true){
+    var capturedUA = window.navigator.userAgent;
+    if(capturedUA.indexOf("FBAN") != -1 || capturedUA.indexOf("FBAV") != -1 || capturedUA.indexOf("FBDV") != -1 || capturedUA.indexOf("FBSV") != -1){
+      var cameFromFBUA = true;
+      var finalRef = "facebook.com";
+    }
+  }
+  if(!cameFromFBUA){
+    var capturedReferral = document.referrer;
+    if(capturedReferral != ""){
+      friendlyRef = capturedReferral.match(/:\/\/(.[^/]+)/)[1];
+      rSplit = friendlyRef.split(".");
+      if(rSplit.length == 2){
+        subDomainPresent = false;
+      } else if(rSplit.length == 3){
+        subDomainPresent=true;
+      }
+      if(subDomainPresent == true){
+        finalRef = friendlyRef.replace(/^[^.]+\./g,"");
+      } else {
+        finalRef = friendlyRef;
+      }
+    } else if(_oSourceParam != ""){
+      var finalRef = "facebook.com";
+    } else {
+      finalRef="";
+    }
+  }
+  return finalRef;
+};
+
+nbc.gptParams = {};
+nbc.referrer = nbc.getReferrer(true);
+nbc.gptParams.gptZone = "news/local";
+
+nbc.gptParams.suitenumber ="2620";
+nbc.gptParams.suitename = "ots_phi_web";
+nbc.gptParams.slotData = [];
+
+nbc.gptParams.pageData = { stage:"false",  adtest:"", referrer:nbc.referrer, sensitive : "false",pagetype : "article",contentid : "320403212",feature : "Uncategorized",sponsor: "",searchkw: "",adContentType: "Article",zipcode : "19101", category: "",  partner: partnerXfinityValue };
+
+
+nbc.articlePage = {};
+nbc.articlePage.continuousScroll = false;
+nbc.articlePage.thisArticleID = 320403212;
+nbc.articlePage.targetedArticles = ['320403212', '320400592', '320398462', '320391661', '320391071', '320390791', '320384331', '320373861', '320383521', '320381441', '320379651', '320377991', '320375341', '320295481', '320316391'];
+nbc.articlePage.ra = null;
+nbc.articlePage.foundSponsorCtype = "";
+
+
+nbc.loadVideoPlugins = ['akamaiHD','FreeWheel','comscore','conviva','captions','capcon','liveCaptions', 'streamsense'];
+
+
+
+var gigya_enabled = false;
+
+</script>
+ <script src="http://www.nbcphiladelphia.com/includes/nbc.freewheelpolicy_map.js?r=2015-07-30" type="text/javascript"></script>
+
+ 
+
+
+  
+<script type="text/javascript">
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement("script");gads.async = true;gads.type = "text/javascript";var useSSL = "https:" == document.location.protocol;gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";var node =document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads, node);})(); 
+</script>
+
+ <script src="http://www.nbcphiladelphia.com/includes/nbc_gpt_renderengine.js?r=2015-07-30" type="text/javascript"></script>
+
+<script language="JavaScript">
+s_linkInternalFilters="javascript:,nbcphiladelphia.com,media.nbcphiladelphia.com,events.nbcphiladelphia.com,tsn.nbcphiladelphia.com,autos.nbcphiladelphia.com";
+var nbcu_account="nbcuotsdivisionprod,nbcuotsphiladelphia";
+var nbcu_prop8 ="nbc";
+var nbcu_prop9 ="PH";
+var nbcu_prop10 ="WCAU";nbc.callLetters = "WCAU";
+nbc.contentType = "";
+//removing document.write once and for all
+//document.write('<s'+'cript src="http://www.nbcphiladelphia.com/includes/ots_omniture_code.js"></s'+'cript>');
+</script>
+
+ <script src="http://www.nbcphiladelphia.com/includes/ots_omniture_code.js?r=2015-07-30" type="text/javascript"></script>
+
+
+<!-- Load the PDK from a relative domain -->
+   <script type="text/javascript" src="http://www.nbcphiladelphia.com/assets/pdk5511/pdk/tpPdk.js"></script>
+<script type="text/javascript">
+
+    // Iniitialize the global video object.
+    var nbcVideoPageUtils = {};
+    
+</script>
+        
+  <title>Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem  | NBC 10 Philadelphia</title>
+          <link rel="canonical" href="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" />
+      <link rel="vr:canonical" href="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" />
+        <meta name="description" content="The manufacturer of the jet that crashed on takeoff in Massachusetts last year, killing the co-owner of The Philadelphia Inquirer and six other people, has reported a problem with a fail-safe system that..." />
+  <meta itemprop="description" content="The manufacturer of the jet that crashed on takeoff in Massachusetts last year, killing the co-owner of The Philadelphia Inquirer and six other people, has reported a problem with a fail-safe system that...">         <meta name="keywords" content="FAA, Gulfstream IV, NTSB, Philadelphia, Lewis Katz" />
+  <meta name="news_keywords" content="FAA, Gulfstream IV, NTSB, Philadelphia, Lewis Katz">
+  <meta itemprop="keywords" content="FAA, Gulfstream IV, NTSB, Philadelphia, Lewis Katz"/>
+         <meta itemprop="name" content="Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem">     <meta name="title" content="Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem" />
+    <meta property="title" content="Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem"/>
+    <link rel="image_src" href="http://media.nbcphiladelphia.com/images/133*75/l_plane-crash-1200.jpg" />
+  <meta itemprop="image" content="http://media.nbcphiladelphia.com/images/133*75/l_plane-crash-1200.jpg"/>
+                       
+
+<link rel="shortcut icon" href="http://media.nbcphiladelphia.com/designimages/favicon.ico" />
+
+
+
+
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_shared_global.css?r=2015-07-30C" type="text/css" />
+
+
+
+<!--startclickprintexclude-->
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_v3_global_alt_tv.css?r=2015-07-30" type="text/css" />
+
+<!--endclickprintexclude-->
+
+
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_v3.css?r=2015-07-30" type="text/css" />
+
+
+
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_article.css?r=2015-07-30" type="text/css" />
+<script type="text/javascript">var thisIsAGalleryPage = false;</script>
+<script type="text/javascript">
+  // mmModule is now deprecated, do not add to object.
+  mmModule = {}
+  mmModule.omni = "nbculimdivisionprod,nbculimphiladelphiaprod";
+  nbc.omniture.suite = "nbculimdivisionprod,nbculimphiladelphiaprod";
+</script>
+ <script src="http://www.nbcphiladelphia.com/includes/jquery.validate190.min.js?r=2015-07-30" type="text/javascript"></script>
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/jqmodal2.css?r=2015-07-30" type="text/css" />
+
+    <script src="http://www.nbcphiladelphia.com/includes/jqModal.js" type="text/javascript"></script>
+
+    <script src="http://www.nbcphiladelphia.com/includes/jqDnR.js?r=2015-07-30" type="text/javascript"></script>
+
+    <script src="http://www.nbcphiladelphia.com/includes/jquery.easing.1.3.js" type="text/javascript"></script>
+
+      
+        <script type="text/javascript" src="http://nbcphiladelphia.us.intellitxt.com/ast/js/nbcuni/nbclocalnews.js"></script>
+   
+ <script src="http://www.nbcphiladelphia.com/includes/utils.js?r=2015-07-30" type="text/javascript"></script>
+  <script src="http://www.nbcphiladelphia.com/includes/nbc_carousel_v3.js?r=2015-07-30" type="text/javascript"></script>
+
+
+ <script src="http://www.nbcphiladelphia.com/includes/nbctools.js?r=2015-07-30" type="text/javascript"></script>
+<script src="http://www.nbcphiladelphia.com/includes/thePlatform-omniture-core.js?r=2015-07-30" type="text/javascript"></script>
+  <script src="http://www.nbcphiladelphia.com/includes/swfobject-41.js" type="text/javascript"></script>
+    <script src="http://www.nbcphiladelphia.com/includes/nbc_v3_major.js?r=2015-07-30" type="text/javascript"></script>
+    <script src="http://www.nbcphiladelphia.com/includes/nbc_videoplayer_unified.js?r=2015-07-31" type="text/javascript"></script>
+     <script src="http://www.nbcphiladelphia.com/includes/ots_omniture_tracker.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcphiladelphia.com/includes/waypoints.min.2.0.4.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcphiladelphia.com/includes/nbc_desktop_csTemplate.js?r=2015-07-30" type="text/javascript"></script>
+
+     <script src="http://www.nbcphiladelphia.com/includes/nbc_typewriter.js?r=2015-07-30" type="text/javascript"></script>
+
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>    
+
+<script type="text/javascript">
+// Random number generator for DART
+var randDARTNumber=0;
+
+function genSetRandDARTNumber() {
+    randDARTNumber = Math.round(Math.random()*1000000000000);
+}
+
+genSetRandDARTNumber();
+
+</script>
+   <script type="text/javascript">
+if(U.readCookie("zipCode")) { 
+    weatherAdZipCode =  U.readCookie("zipCode");
+ }
+ else {
+    weatherAdZipCode = "19101";
+ }
+
+nbc.weather= {
+  validatedZip: "",
+  adZipCode:weatherAdZipCode
+ };
+</script>
+
+
+  
+<script type="text/javascript">
+   (function() {
+     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+     po.src = 'https://apis.google.com/js/plusone.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+   })();
+</script>
+
+<script type="text/javascript">
+ var nbcinfoTools = nbcinfoTools || new nbc.tools('nbcinfoTools');
+            nbcinfoTools.iframeChatter();
+</script>
+
+ <script src="http://www.nbcphiladelphia.com/includes/jquery.zclip.min.js" type="text/javascript"></script>
+ 
+ <script src="http://www.nbcphiladelphia.com/includes/jquery.carouFredSel-5.5.0-packed.js" type="text/javascript"></script>
+ <script src="http://www.nbcphiladelphia.com/includes/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+  <script src="http://www.nbcphiladelphia.com/includes/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/jquery.fancybox-1.3.4.css?r=2015-07-30" type="text/css" />
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript">
+// Get Cookie Value
+function getPartnerCookieValue (cookieName) {
+   var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+   if(exp.test (document.cookie + ";")) {
+      exp.exec (document.cookie + ";");
+      return unescape(RegExp.$1);
+   }
+}
+// Write Cookie
+function writePartnerCookie (CookieName, CookieValue, periodType, offset) {
+   var expireDate = new Date ();
+   offset = offset / 1;
+   var myPeriodType = periodType;
+   switch (myPeriodType.toLowerCase()) {
+      case "years": 
+         var year = expireDate.getYear();     
+         // Note some browsers give only the years since 1900, and some since 0.
+         if (year < 1000) year = year + 1900;     
+         expireDate.setYear(year + offset);
+      break;
+      case "months":
+         expireDate.setMonth(expireDate.getMonth() + offset);
+      break;
+      case "days":
+         expireDate.setDate(expireDate.getDate() + offset);
+      break;
+      case "hours":
+         expireDate.setHours(expireDate.getHours() + offset);
+      break;
+      case "minutes":
+         expireDate.setMinutes(expireDate.getMinutes() + offset);
+      break;
+      default:
+         // alert ("Invalid periodType parameter for writePartnerCookie()");
+      break;
+   }
+   try{
+      document.cookie = escape(CookieName ) + "=" + escape(CookieValue) + "; expires=" + expireDate.toGMTString() + "; path=/";
+         }catch(e){
+         }
+   try{
+      document.cookie = "partnerSessionCookie=xfinity; path=/";
+         }catch(ee){
+         }
+}
+</script>
+   <script type="text/javascript">
+    function checkPartnerCookie () {
+      if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+                           document.write('<scr'+'ipt src="http://shared.comcast.net/js-api/galacticvendor.js?signin=false&tab=email&profile=vendorcode&ft=true&id=xfinityNavBar"></scr'+'ipt>');         $(document).ready(function(){
+            $('body').addClass('xfinity');
+         });
+         xfinityOmniValue = "xfinity";// referenced in nbc_tracking_revamped
+      }
+    }
+   var xfinityOmniValue = "";
+    checkPartnerCookie();
+   </script>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300,100' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_global_rr.css?r=2015-07-30" type="text/css" />
+<script src="http://www.nbcphiladelphia.com/includes/nbc_global_rr.js?r=2015-07-30" type="text/javascript"></script>
+ 
+
+<script type="text/javascript">
+var disableDownloadApp = false;
+</script>
+
+</head>
+<body id="article" class="article-phi phi news    nbc ">
+
+    <div id="adBackgroundContainer"></div>
+
+            <!-- \\ GPT out-of-page // -->
+<div id="gptoop" style="width:auto; height:auto; position:absolute; top:0px;"></div>
+<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('gptoop'); });
+</script>
+<!-- \\ GPT out-of-page // -->
+
+
+
+<script type="text/javascript">
+  var nbcfacebook = {
+    connected: "no"
+  };
+</script>
+
+
+
+<script>
+
+  function callTransitional() {
+    window.location.href = nbc.fullDomain + '/transitional_ad/transitional_ad.html';
+  }
+
+</script>
+<script language="javascript1.2">var trkcid=320403212;var partnerID=525842; var _hb=1;</script><script language="javascript1.2" src="http://www.nbcphiladelphia.com/g/g/button/button_1.js"></script>
+ <script src="http://www.nbcphiladelphia.com/includes/jquery.transit.js" type="text/javascript"></script>
+
+ <script src="http://www.nbcphiladelphia.com/includes/nbc_articleGallery.js?r=2015-07-31D" type="text/javascript"></script>
+
+ <link rel="stylesheet" href="http://www.nbcphiladelphia.com/templates/nbc_articleGallery.css?r=2015-07-30" type="text/css" />
+
+            
+
+<!-- // header \\ -->
+<div id="header">
+<!-- // masthead \\ -->
+                                    
+<div id="dd_wrap">
+<div class="dd_news dd_top_pos">
+   <div class="dd_div">    
+   <ul>   
+                    <li><a href="/news/local/"   title=""  name="&lpos=navigation hover&lid=local">Local</a></li>
+                         <li><a href="/news/national-international/"   title=""  name="&lpos=navigation hover&lid=u.s. & world">U.S. & World</a></li>
+                         <li><a href="/news/local/PHI-Breakfast-Buzz-272760441.html"   title="The Breakfast Buzz is your jolt of need-to-know news, weather and more from NBC10. Every weekday from 7 a.m. to 10 a.m. here and on the NBC10 apps."  name="&lpos=navigation hover&lid=breakfast buzz">Breakfast Buzz</a></li>
+                         <li><a href="/news/weird/"   title=""  name="&lpos=navigation hover&lid=weird news">Weird News</a></li>
+                         <li><a href="/news/health"   title=""  name="&lpos=navigation hover&lid=health">Health</a></li>
+                         <li><a href="/news/politics"  target="_blank" title=""  name="&lpos=navigation hover&lid=politics">Politics</a></li>
+                         <li><a href="/news/tech/"   title=""  name="&lpos=navigation hover&lid=tech">Tech</a></li>
+                         <li><a href="/news/business/"   title=""  name="&lpos=navigation hover&lid=business">Business</a></li>
+                         <li><a href="http://www.nbcphiladelphia.com/news/local/PHI-Missing-Persons-291950061.html"   title=""  name="&lpos=navigation hover&lid=finding the forgotten">Finding the Forgotten</a></li>
+                         <li><a href="/news/local/NBC10-Issue-226924701.html"   title="NBC10 @ Issue is a weekly public affairs discussion program that takes an in-depth look at local, state and national issues and politics. Watch NBC10 @ Issue every Sunday at 11:30 a.m. on NBC10 or at 6:30 right here on NBC10.com"  name="&lpos=navigation hover&lid=@ issue">@ Issue</a></li>
+                         <li><a href="/news/local/PHI-Protecting-Innocence-Protecting-Innocence-278532911.html"   title=""  name="&lpos=navigation hover&lid=protecting innocence">Protecting Innocence</a></li>
+                         <li><a href="/traffic/"   title=""  name="&lpos=navigation hover&lid=traffic">Traffic</a></li>
+                         <li class="last"><a href="/news/business/NBC10-Impact-small-business-profiles-258140401.html"    title="Impact highlights the evolving small business community in the Greater Philadelphia region and the challenges driving entrepreneurs to transform the local economy. "  name="&lpos=navigation hover&lid=impact">Impact</a></li>
+           </ul>
+   </div>
+      </div>
+<div class="dd_entertainment dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                                 <li><a href="/entertainment/entertainment-news"   title="" name="&lpos=navigation hover&lid=entertainment news">Entertainment News</a></li>
+                                                         <li><a href="/entertainment/entertainment-news/Late-Night-on-NBC-Fallon-Meyers-Tonight-Show-250339161.html"   title="" name="&lpos=navigation hover&lid=late night recap">Late Night Recap</a></li>
+                                                         <li><a href="http://www.nbcphiladelphia.com/entertainment/the-scene/Lunch-Break-Entertainment-Philadelphia-NJ-Delaware-202091621.html"  target="_blank" title="" name="&lpos=navigation hover&lid=lunch break">Lunch Break</a></li>
+                                                         <li><a href="http://www.nbcphiladelphia.com/entertainment/entertainment-news/PHI-10-Questions-With-221308151.html"  target="_blank" title="" name="&lpos=navigation hover&lid=10 questions with">10 Questions With</a></li>
+                                                         <li><a href="/events"   title="" name="&lpos=navigation hover&lid=events">Events</a></li>
+                                                         <li><a href="/blogs/open-house/"   title="" name="&lpos=navigation hover&lid=open house">Open House</a></li>
+                                                         <li class="last"><a href="/blogs/1st-look/"   title="" name="&lpos=navigation hover&lid=1st look">1st Look</a></li>
+                                     </ul>
+   </div>
+         <div class="dd_div right">  
+   <span class="nav_blogs_hdr">Blogs</span>  
+     <ul class="franchise">   
+                                                <li class="last"><a href="/blogs/worth-the-trip/"   title="" name="&lpos=navigation hover&lid=worth the trip">Worth The Trip</a></li>
+                     </ul>
+   </div>
+      </div>
+   <div class="dd_sports dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                        <li><a href="http://www.nbcphiladelphia.com/news/sports/High-School-Sports-168944406.html"   title="" name="&lpos=navigation hover&lid=high school blitz">High School Blitz</a></li>
+                                                 <li><a href="http://nbcphiladelphia.csnphilly.com/phillies"   title="" name="&lpos=navigation hover&lid=phillies">Phillies</a></li>
+                                                 <li><a href="http://nbcphiladelphia.csnphilly.com/eagles"   title="" name="&lpos=navigation hover&lid=eagles">Eagles</a></li>
+                                                 <li><a href="http://nbcphiladelphia.csnphilly.com/sixers"   title="" name="&lpos=navigation hover&lid=sixers">Sixers</a></li>
+                                                 <li><a href="http://nbcphiladelphia.csnphilly.com/flyers"   title="" name="&lpos=navigation hover&lid=flyers">Flyers</a></li>
+                                                 <li><a href="http://nbcphiladelphia.csnphilly.com/ncaa"   title="" name="&lpos=navigation hover&lid=ncaa">NCAA</a></li>
+                                                 <li class="last"><a href="http://nbcphiladelphia.csnphilly.com/union"   title="" name="&lpos=navigation hover&lid=union">Union</a></li>
+                     </ul>
+   </div>
+         </div>
+<div class="dd_weather dd_top_pos">
+<div class="dd_div">    
+  <ul>   
+                                 <li><a href="http://www.nbcphiladelphia.com/weather/stories/PHI-Severe-Weather-Central-224616871.html"  target="_blank" title="" name="&lpos=navigation hover&lid=severe weather central">Severe Weather Central</a></li>
+                                         <li><a href="/weather/"   title="" name="&lpos=navigation hover&lid=forecast">Forecast</a></li>
+                                         <li><a href="/weather/maps/"   title="" name="&lpos=navigation hover&lid=maps & radar">Maps & Radar</a></li>
+                                         <li><a href="/weather/severe-weather-alerts"   title="" name="&lpos=navigation hover&lid=weather alerts">Weather Alerts</a></li>
+                                         <li><a href="/weather/school-closings"   title="" name="&lpos=navigation hover&lid=school closing alerts">School Closing Alerts</a></li>
+                                         <li class="last"><a href="/weather/stories/"   title="" name="&lpos=navigation hover&lid=weather news">Weather News</a></li>
+              </ul>
+</div>
+</div>
+<div class="dd_offers dd_top_pos">
+<div class="dd_div">    
+  <ul>   
+                                              <li><a href="http://www.thegoods.com" title="" onclick="theGoodsExit('http://thegoods.nbcphiladelphia.com','navbar');" target="_blank" name="&lpos=navigation hover&lid=the goods">The Goods</a></li>
+               
+                                                      <li class="last"><a href="/on-air/contests/"   title="" name="&lpos=navigation hover&lid=contests">Contests</a></li>
+                      </ul>
+</div>
+      </div>
+<div class="dd_contact dd_top_pos">
+   <div class="dd_div">    
+     <ul>   
+                                         <li><a href="/contact-us/about-us/"   title="" name="&lpos=navigation hover&lid=about us">About Us</a></li>
+                                                 <li><a href="/contact-us/social-directory"   title="" name="&lpos=navigation hover&lid=social directory">Social Directory</a></li>
+                                                 <li><a href="/contact-us/community/"   title="" name="&lpos=navigation hover&lid=community">Community</a></li>
+                                                 <li><a href="/contact-us/tv-listings/"   title="" name="&lpos=navigation hover&lid=tv listings">TV Listings</a></li>
+                                                 <li><a href="http://www.nbcphiladelphia.com/news/local/Comcast-Redefining-Philadelphia-240344431.html"   title="" name="&lpos=navigation hover&lid=comcast: redefining philly">Comcast: Redefining Philly</a></li>
+                                                 <li><a href="http://www.nbcphiladelphia.com/news/tech/Comcast-Plug-In-Power-Up-Locations-NBC10-Telemundo62-288016311.html"   title="" name="&lpos=navigation hover&lid=plug in, power up">Plug In, Power Up</a></li>
+                                                 <li class="last"><a href="/news/business/Comcast-Tower-Building-Cam-274808381.html"   title="Comcast Tower Cam: Watch the Center City Philadelphia Skyscraper Rise" name="&lpos=navigation hover&lid=tower cam">Tower Cam</a></li>
+                     </ul>
+   </div>
+      </div>
+
+
+
+
+</div>
+<div id="masthead" style="position:relative;">  <div id="mastheadLinks" style="position:relative;">    <div id="mastheadLeftLinks">                  <div class="nojsv" id="logocont"><a href="/" title="NBC 10 Philadelphia" id="logo" target="_parent" name="&lpos=logo&lid=nbc 10 philadelphia"><img alt="NBC 10 Philadelphia " title="NBC 10 Philadelphia " src="http://media.nbcbayarea.com/designimages/2NBC10_StationSiteHeader_116x54_01.png" /></a></div>                </div>    <script type="text/javascript">
+            //<![CDATA[
+            function createCookieHour(name, value) {
+              var date = new Date();
+              date.setTime(date.getTime() + (1 * 60 * 60 * 1000));
+              var expires = "; expires="+date.toGMTString();
+              document.cookie = name + "=" + value+expires + "; path=/";
+            }
+            $(document).ready(function() {
+              // U.log(" cookie for full site "+U.getQueryParam("fullSite"));
+              if(U.getQueryParam("fullSite") == "y") {
+                if(U.readCookie("mobileFullSite")) {
+                  // dont store cookie
+                }
+                else {
+                  createCookieHour('mobileFullSite', 'y');   
+                }
+              }
+            });   
+            //]]>  
+    </script>
+    <script type="text/javascript">
+      //<![CDATA[
+      $(document).ready(function(event) {
+        $("#sponsoredBackgrd").click(function(event) {
+          if( event.stopPropagation ) { event.stopPropagation(); } //For 'Good' browsers
+          else { event.cancelBubble = true; } //For IE
+        });
+      });
+      //]]> 
+    </script>  
+    <div id="mastheadRightLinks">
+                                              <div id="mastheadWeatherModule"></div>
+          <script type="text/javascript">
+          //<![CDATA[
+                if(typeof randomValue == "undefined") {
+                    randomValue = "&rndm=" + Math.random()*10000000000000000;
+                };
+                $(document).ready(function() {
+                                      if(U.readCookie("zipCode")) { 
+                      weatherZipCode =  U.readCookie("zipCode");
+                    }
+                    else {
+                      weatherZipCode = "19101";
+                    }
+                                    dataString="h=weather_home_widget&zipCode="+weatherZipCode +"&moduleType=header" + randomValue;
+                  var urlpost='http://www.nbcphiladelphia.com/i/dispatcher/';
+                  jQuery.ajax({
+                    type: "GET",
+                    url: urlpost,
+                    data: dataString,
+                    cache:false,
+                    dataType: "html",
+                    success: function(data){
+                      trimdata = jQuery.trim(data);
+                                            $("#mastheadWeatherModule").html(trimdata);
+                      $("#mastheadWeatherModule1").show();
+                    }
+                  });
+                });
+                //]]>
+          </script>
+                                  <div id="ugcBox"><a href="/newsletters" name="&lpos=masthead&lid=Newsletters">Newsletters</a> | <a href="/ugc/" class="ugcLink" name="&lpos=masthead&lid=submit photos">See It, Share It</a> | <a href="mailto:tips@nbcphiladelphia.com?body=Thanks%20for%20contacting%20NBC 10 Philadelphia.%20Please%20use%20this%20e-mail%20to%20send%20us%20news%20tips.%20Be%20sure%20to%20include%20a%20phone%20number,%20so%20we%20can%20contact%20you%20quickly,%20if%20necessary.%20If%20your%20tip%20is%20urgent,%20call%20%20our%20news%20desk%20at%20610-668-5510." class="tipsLink">Tips</a></div>
+          <form id="searchForm" action="http://www.nbcphiladelphia.com/results/" method="get" target="_parent">
+        <input type="text" tabindex="1" size="24" value="Search" name="keywords" id="searchText" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;" />
+        <input type="image" value="Go" src="http://media.nbcphiladelphia.com/designimages/nbc_v3_search_mag.gif" class="submit" id="searchSubmit">
+      </form>
+    </div>   </div>
+</div>
+<!-- \\ masthead // -->
+
+    <!-- // nav \\ -->
+<div id="nav">
+  <ul>
+          <li class="navItem_home" id="navItem_0"><a target="_parent" class="home" title="Home" href="/" name="&lpos=section navigation&lid=home">home</a></li>
+                                                                                          <li id="navItem_1" class="navItem_news news first"><a href="/news/" title="News"  target="_parent" name="&lpos=section navigation&lid=news">news</a></li>
+                                                                                                    <li id="navItem_2" class="navItem_weather weather"><a href="/weather/" title="Weather"  target="_parent" name="&lpos=section navigation&lid=weather">Weather</a></li>
+                                                                                                    <li id="navItem_3" class="navItem_entertainment entertainment"><a href="/entertainment/" title="Entertainment"  target="_parent" name="&lpos=section navigation&lid=entertainment">Entertainment</a></li>
+                                                                                                    <li id="navItem_4" class="navItem_sports sports"><a href="http://nbcphiladelphia.csnphilly.com/" title="Sports"  target="_parent" name="&lpos=section navigation&lid=sports">Sports</a></li>
+                                                                                                    <li id="navItem_5" class="navItem_investigations investigations"><a href="/investigations" title="Investigations"  target="_parent" name="&lpos=section navigation&lid=investigations">Investigations</a></li>
+                                                                                                    <li id="navItem_6" class="navItem_contact contact"><a href="/contact-us/" title="Contact Us"  target="_parent" name="&lpos=section navigation&lid=contact us">Contact Us</a></li>
+                                                                                                    <li id="navItem_7" class="navItem_contests contests last"><a href="/on-air/contests" title="Contests"  target="_parent" name="&lpos=section navigation&lid=contests">Contests</a></li>
+                      
+                  
+                                  <li class="watchTV"><a href="http://www.nbc.com/app_link/nbctve" name="&lpos=nav&lid=Watch Live TV Now" target="_blank">Watch Live TV Now</a></li>
+                                    
+        <li class="socialNavButtons">
+      <div id="followLinks">
+                                                <ul>
+              <li><a href="http://www.facebook.com/nbcphiladelphia" id="fbLink" target="_blank" name="&lpos=section navigation&lid=facebook button"></a></li>       
+              <li><a href="http://www.twitter.com/nbcphiladelphia" id="twitterLink" target="_blank" name="&lpos=section navigation&lid=twitter button"></a></li>
+                            <li><a href="http://plus.google.com/115181052736294416606" rel="publisher" id="gplusLink" target="_blank" name="&lpos=section navigation&lid=google plus button"></a></li>
+                          </ul>
+      </div>     </li>
+      </ul>
+</div>
+      <div id="sectionNav" class="subnav-item-dropnav local">
+        
+    <ul>  
+                                                                                            
+          <li><a href="/news/local/" title="Local"  class="local"  target="_parent" name="&lpos=subsection navigation&lid=local">Local</a></li>
+                                                                                                    
+          <li><a href="/news/national-international/" title="U.S. & World"  class="us-world"  target="_parent" name="&lpos=subsection navigation&lid=u.s. & world">U.S. & World</a></li>
+                                                                                                    
+          <li><a href="/news/local/PHI-Breakfast-Buzz-272760441.html" title="Breakfast Buzz"  class="breakfast-buzz"  target="_parent" name="&lpos=subsection navigation&lid=breakfast buzz">Breakfast Buzz</a></li>
+                                                                                                    
+          <li><a href="/news/weird/" title="Weird News"  class="weird"  target="_parent" name="&lpos=subsection navigation&lid=weird news">Weird News</a></li>
+                                                                                                    
+          <li><a href="/news/health" title="Health"  class="health"  target="_parent" name="&lpos=subsection navigation&lid=health">Health</a></li>
+                                                                        
+          <li><a href="/news/politics" title="Politics"  class="" target="_blank"  name="&lpos=subsection navigation&lid=politics">Politics</a></li>
+                                                                                                    
+          <li><a href="/news/tech/" title="Tech"  class="tech"  target="_parent" name="&lpos=subsection navigation&lid=tech">Tech</a></li>
+                                                                        
+          <li><a href="/news/business/" title="Business"  class=""  target="_parent" name="&lpos=subsection navigation&lid=business">Business</a></li>
+                                                                                                    
+          <li><a href="http://www.nbcphiladelphia.com/news/local/PHI-Missing-Persons-291950061.html" title="Finding the Forgotten"  class="finding-the-forgotten"  target="_parent" name="&lpos=subsection navigation&lid=finding the forgotten">Finding the Forgotten</a></li>
+                                                                                                    
+          <li><a href="/news/local/NBC10-Issue-226924701.html" title="@ Issue"  class="the-issue"  target="_parent" name="&lpos=subsection navigation&lid=@ issue">@ Issue</a></li>
+                                    </ul>  
+  </div>
+           <script src="http://www.nbcphiladelphia.com/includes/nbc_v3_top_nav_dropdown.js?r=2015-07-30" type="text/javascript"></script>
+
+  
+          
+
+
+
+
+
+
+
+          
+        
+        
+        
+                     
+
+<!-- GPT 3 -->
+  <div id="ad_hdr_2" class="ad">
+									
+
+
+
+	
+	<div id="leaderboard1" class="adSlot adLeaderboard" data-sizes="970,66|970,90|728,90" data-ord="1" data-pos="top" data-module="" data-gptcollapse="true"></div>
+
+
+
+</div>
+</div>
+
+
+
+<div id="stickyNav">
+            <div id="pHeader">
+                <div class="pLogo">
+                    <div class="img">
+                        <a href="/"><img alt=NBC 10 Philadelphia"  src="http://media.nbcbayarea.com/designimages/2NBC10_StationSiteHeader_116x54_01.png"></a>
+                    </div>
+                    <ul>
+                                                                    <li id="navItem_1" data-navnum="1" class="navItem_1"><a href="/news/" title="News" name="&lpos=section navigation&lid=">News</a></li>
+                                                                                            <li id="navItem_2" data-navnum="2" class="navItem_2"><a href="/weather/" title="Weather" name="&lpos=section navigation&lid=">Weather</a></li>
+                                                                                            <li id="navItem_3" data-navnum="3" class="navItem_3"><a href="/entertainment/" title="Entertainment" name="&lpos=section navigation&lid=">Entertainment</a></li>
+                                                                                            <li id="navItem_4" data-navnum="4" class="navItem_4"><a href="http://nbcphiladelphia.csnphilly.com/" title="Sports" name="&lpos=section navigation&lid=">Sports</a></li>
+                                                                                            <li id="navItem_5" data-navnum="5" class="navItem_5"><a href="/investigations" title="Investigations" name="&lpos=section navigation&lid=">Investigations</a></li>
+                                                                                            <li id="navItem_6" data-navnum="6" class="navItem_6"><a href="/contact-us/" title="Contact Us" name="&lpos=section navigation&lid=">Contact Us</a></li>
+                                                                                            <li id="navItem_7" data-navnum="7" class="navItem_7 last"><a href="/on-air/contests" title="Contests" name="&lpos=section navigation&lid=">Contests</a></li>
+                                                                    <li class="searchButton">
+                                                          <img src="http://media.nbcphiladelphia.com/images/nbc-white-search.png" class="mag-grey">
+                                                    </li>
+                    </ul>
+                </div>
+                
+                <div class="search-field-bg" style="">
+                  <form id="stickyForm" action="http://www.nbcphiladelphia.com/results/"  name="form_name" method="get">
+                      <input type="text" placeholder="Search..." value="Search" name="keywords" class="searchField" id="stickySearchField" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;">
+                      <input type="image" value="Go" src="http://media.nbcphiladelphia.com/images/nbc-grey-search.png" class="submit" id="searchSubmitSticky" >
+                  </form>
+                </div>
+                                  <img width="12" height="12" alt="" src="http://media.nbcphiladelphia.com/images/cancel-search-icon.png" class="stickySearchCancel">
+                                              
+      </div>
+    </div>
+
+<body id="article_0">
+
+
+
+        
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+                                                
+                                                
+                                                
+                                                
+                                                
+            
+        
+    
+
+  
+                              	  
+	  	  
+        
+  
+  
+        
+
+  
+                              	  
+	  	  
+        
+  
+  
+    
+        
+
+
+
+
+    
+
+
+
+        
+
+
+
+    
+
+
+    
+                                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+    
+                        
+                
+        
+                                        
+        
+                                
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                            
+
+
+
+
+
+
+
+<section id="article-sec_0">
+            <div id="article_0" class="article_elements  medium  ">
+            <!--startclickprintinclude-->
+            <article id="article_0_elements">
+            <div id="article_0_headline_byline" class="headline_region">
+                                
+                
+                
+                                
+                <h1 class="headline" itemprop="headline">Company, FAA Working on Gulfstream IV Jet Fail-Safe Problem</h1>
+                <h2 class="subtitle"></h2>
+                                <!--endclickprintinclude-->
+                <div class="socialNetworks">
+                      <div class="topShareLeft">
+                         <a href="#comments" class="viewComments">View Comments (<fb:comments-count href=http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html></fb:comments-count>)</a> <div style="float:left;"> | </div>                         <div class="emailArticle" onmouseout="return(ETMouseOut());" onmouseover="return(ETMouseOver());" onclick="nbc.updatePrintCall(this);return(ET());">Email</div>
+                         <div style="float:left;"> | </div>
+                         <div class="printArticle" onmouseout="return(PTMouseOut());" onmouseover="return(PTMouseOver());" onclick="nbc.updatePrintCall(this);return(PT());">Print</div>
+                      </div>
+                      <div class="topShareRight">
+                         <span class="twitter-share"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" data-via="nbcphiladelphia"></a></span>
+                         <div class="fb-like" data-href="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" data-send="true" data-share="false" data-layout="button_count" data-width="160" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+                         <div class="fb-send" data-href="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html"></div>
+                         <div class="google-plus"><g:plusone size="medium"></g:plusone></div>
+                      </div>
+                </div>
+                <!--startclickprintinclude-->
+            </div>
+                        <!--endclickprintinclude-->
+            <div class="article rightrail">
+
+<div class="rail adunit rect1" data-size="300x250" style="position:relative;">
+
+
+
+
+
+
+        <span id="tp-ad-slot_300x250" class="_fwph freewheelRightRail">
+       <form id="_fw_form_tp-ad-slot_300x250" style="display:none">
+          <input type="hidden" name="_fw_input_tp-ad-slot_300x250" id="_fw_input_tp-ad-slot_300x250" value="w=300&h=250&envp=g_js">
+       </form>
+       <span id="_fw_container_tp-ad-slot_300x250" class="_fwac"></span>
+    </span>
+    	<div id="rect1" class="adSlot adRect" data-sizes="50,50|300,250|300,600" data-ord="1" data-pos="top" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div>
+	
+
+
+</div>
+
+  <div class="rail topstories">
+      <h3 id="storyListHeader-0" class="rightrail title"></h3><div class="blackdivider1"></div>
+      <ul id="storyList-0"></ul>
+        </div>
+  
+    <div class="rail weatherbug" style="margin: 25px 0;">
+  
+<div id="top-stories-weather">
+     
+ <div class="weather-module">
+     <div id="weather-module-data-0">
+        <div id="processingWeatherLoading">
+           <img alt="processing..." src="http://media.nbcphiladelphia.com/designimages/nbc-ajax-loader.gif"/>
+         </div>
+    </div>
+ </div>  
+ 
+  <script src="http://www.nbcphiladelphia.com/includes/nbc_weather_module.js?r=2015-07-30" type="text/javascript"></script>
+
+ <script type="text/javascript">
+//<![CDATA[
+/* Load weather data for the homepage */
+
+jQuery(document).ready(function() {
+  jQuery("#processingWeatherLoading").show();  
+  
+  if(U.readCookie("zipCode")) { 
+    weatherZipCode =  U.readCookie("zipCode");
+  } else {
+        weatherZipCode = "19101";
+  }
+  
+      dataString="h=weather_home_widget&zipCode="+weatherZipCode;
+    nbc_adIframePartner = "";
+  
+  var urlpost='/i/dispatcher/';
+  
+    jQuery.ajax({
+      type: "GET",
+      url: urlpost,
+      data: dataString,
+      cache:false,
+      dataType: "html",
+      
+      success: function(data){
+        trimdata = jQuery.trim(data);
+        jQuery("#weather-module-data-0").html(trimdata);
+        if( jQuery(".changeLocation").length > 0 ) {
+            nbcWeatherChangeLoc.init("#weather-module-data-0");
+        };
+        jQuery("#processingWeatherLoading").hide();
+        if(nbc.omniture.pageType == "article") {
+            nbc.weatherModuleUpdate.activateTracking(0);
+            if(nbc.market == "nbcphiladelphia") {
+                nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            }
+        } else {
+            nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            jQuery('#weather-module-data-0 .weather-module-wrapper a').click(function(e){
+                e.preventDefault();
+                var target = (jQuery(this).attr('target')) ? jQuery(this).attr('target') : '';
+                
+                var omniTrack = jQuery(this).data('tracking');
+                nbcu.linkTrackVars="eVar7";
+                nbcu.eVar7 = 'weather-rightrail|' + omniTrack;
+                
+                if(target.length > 0) {
+                    var targetURL = jQuery(this).attr('href');
+                    nbcu.tl(this,'o',nbcu.eVar7,null, function() {
+			            window.open(targetURL,target);
+			        });
+                } else {
+                    nbcu.tl(this,'o',nbcu.eVar7,null,'navigate');
+                }
+                
+            })
+        }
+      }
+    }); // END AJAX call
+}); // END document.ready
+//]]>
+</script>
+
+</div>
+
+  </div>
+    
+  <div class="rail adunit rect2" data-size="300x160">
+
+
+
+<div id="rectSmall1" class="adSlot adRectSmall" data-sizes="300,160" data-ord="1" data-pos="top" data-module="" style="width: 300px; height: 160px;"></div>
+
+</div>
+  
+      
+                            
+        <div class="newsletterSignupBox">
+            <div class="nsBox">
+                <h3 class="rightrail title"><a href="/newsletters">NEWSLETTERS</a></h3><a href="/newsletters"><span style="display:block" class="icon envelope"></span></a>
+                <div class="blackdivider1"></div>
+                <h3 class="newsletter copy">Receive the latest local  updates in your inbox</h3>
+                <form method="post" id="newsletterBox-0" class="nsForm" name="ns-subscribe-form" class="validate" target="_blank" data-nsHandlerKey = "107">
+                    <fieldset>
+                        <input class="required nsEmail" name="EMAIL" type="text" value="" onfocus="nsu.clearSignup(this)" />
+                        <input class="nsSubscribe" name="subscribe" type="submit" value="SIGN UP" />
+                    </fieldset>
+                </form>
+            </div>
+            <div class="nsFooter"><a href="http://www.nbcphiladelphia.com/privacy/" name="&lpos=Newsletter Sign Up&lid=Privacy Policy">Privacy Policy</a> | <a href="http://www.nbcphiladelphia.com/newsletters/" name="&lpos=Newsletter Sign Up&lid=More Newsletters">More Newsletters</a></div>
+        </div>
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                
+                nbc.validateEmail = function(submittedAddr, currentArticle) {
+                    if( (submittedAddr.length > 0) && (submittedAddr != "Email") ) {
+                        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                        return emailReg.test(submittedAddr);
+                    } else {
+                        jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                        return false;
+                    }
+                }
+
+                nsu = {};
+                nsu.hasOmnitureFired = false;
+            
+                nsu.clearSignup = function(dasEle){
+                    var str=dasEle.value;
+                    var clearId = jQuery(dasEle).parent().parent().attr('id');
+                    if(str.toLowerCase() == "email" || str.toLowerCase() == "invalid email address" || str.toLowerCase() == "there was an error subscribing"){
+                        dasEle.value="";
+                        $('#' + clearId + " .nsEmail").css({"color":"#333"});
+                    }
+                }
+            
+                nsu.signUserUp = function(email, nsHandlerKey, currentArticle) {
+                    var isAddressValid = nbc.validateEmail(email, currentArticle);
+                    thisNewsletterID = nsHandlerKey;
+                    if(isAddressValid != true) {
+                        return false;
+                    } else {
+                        nsu.subscribeUser(email, nsHandlerKey, currentArticle);
+                    }
+                }
+            
+                
+                nsu.fireOmniValues = function() {
+                    nbcu.un = nbcu_account;
+                    nbcu.prop7 = 'News Newsletter Sign Up';
+                    nbcu.eVar7 = 'News Newsletter Sign Up';
+                    nbcu.events = 'event19';
+                    nbcu.linkTrackVars = 'prop7,eVar7,events';
+                    nbcu.linkTrackEvents = 'event19';
+                    U.log(nbcu.prop7 + ' | ' + nbcu.eVar7 + ' | ' + nbcu.events + ' | ' + nbcu.linkTrackVars);
+                    try {
+                    nbcu.tl(true,'o','News Newsletter Sign Up Complete');
+                    }
+                    
+                    catch(e) {
+                    U.log(e);
+                    }
+                    nsu.hasOmnitureFired = true;
+                    return false;
+                }
+            
+                nsu.subscribeUser = function(email, nsHandlerKey, currentArticle) {
+                    var ajaxUrl = "/i/dispatcher/?h=newsletter&subscribe=yes&email="+email+"&subscribeIds=" + nsHandlerKey;
+                    jQuery.ajax({
+                        type: 'POST',
+                        url: ajaxUrl,
+                        dataType: 'json',
+                        success: function(data) {
+                            if(data.status == 200) {
+                                nsu.fireOmniValues();
+                                jQuery('#newsletterBox-'+ currentArticle + '.nsForm').html('<span class="nsConfirm">Thank you for signing up!</span>');
+                            } else {
+                                if(nbc.env == "dev."){console.log(data.detailResponse)};
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                            }
+                        },
+                        error: function(data) {
+                            if(nbc.env == "dev."){console.log(data.detailResponse)};
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("There was an error subscribing");
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                        }
+                    });
+                }
+                
+                var currentArticle = 0;
+                var nsHandlerKey = "";
+                jQuery('#newsletterBox-'+ currentArticle + '.nsForm' ).submit(function() {
+                    nsHandlerKey = jQuery(this).attr('data-nsHandlerKey');
+                    capturedEmail = jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val();
+                    nsu.signUserUp(capturedEmail, nsHandlerKey, currentArticle);
+                    return false;
+                });
+            });    
+                
+        </script>
+            
+    <div class="rail adunit rect1" data-size="300x250">
+
+
+
+
+
+    	<div id="rect2" class="adSlot adRect" data-sizes="300,250" data-ord="2" data-pos="bottom" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div>
+	
+
+</div>
+
+</div>
+            <!--startclickprintinclude-->
+                        
+                        <div class="leadMediaRegion image">
+
+                        <div class="leadMediaThumbnail image" data-cid="159562781"><img itemprop="thumbnailUrl" src="http://media.nbcphiladelphia.com/images/652*367/l_plane-crash-1200.jpg" width="100%"></div>
+                                            <div class="leadMediaCredit"><span>Mark Garfinkel</span></div>
+                                      </div>
+                        <div class="leadMediaCaption">Officials work near wreckage at the scene Monday in Bedford, Mass., where a plane plunged down an embankment and erupted in flames during takeoff at Hanscom Field. Lewis Katz, co-owner of The Philadelphia Inquirer, and six other people died in the crash.</div>
+            
+                         
+                            
+
+
+            <div id="at_0" class="articleText" itemprop="articleBody">
+
+                                                
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                        
+
+
+
+                
+                                
+                                                <p class="paragraph" data-pnum="1">The manufacturer of the jet that crashed on takeoff in Massachusetts last year, killing the co-owner of The Philadelphia Inquirer and six other people, has reported a problem with a fail-safe system that can allow the planes to reach high speeds on the runway even if they are prevented from taking off.</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="2">Gulfstream Aerospace Corp. said in a document released by the National Transportation Safety Board that the Gulfstream IV has an interlock system that is supposed to keep the plane's throttle from being moved past 6 degrees, thereby limiting acceleration, while hinged tail sections, called elevators, are immobilized.</p>
+                                                                                    
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcphiladelphia.com/entertainment/entertainment-news/Snoop-Dogg-Stopped-by-Italian-Customs--320381031.html">Snoop Dogg Stopped by Italian Customs </a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="3">But the company told the National Transportation Safety Board last spring that the interlock system actually allows the throttle to be moved to an average 21 degrees. The company said the issue &quot;remained undiscovered on more than 500 aircraft over 25 years and more than 2 million takeoffs.''</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="4">Still, Gulfstream contends the crash was due to the flight crew's failure to check if the gust lock system, which locks the tail sections, was engaged and to immediately abort the flight once it was clear there was a problem. The May 2014 crash at Hanscom Field killed all on board, including businessman and philanthropist Lewis Katz.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcphiladelphia.com/news/local/Police-Respond-to-Shooting-in-Chester-320383521.html">Chester Shooting Wounds Boy, 10</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="5">Gulfstream said tests done after the crash led company officials to believe that the interlock system ``achieved its safety intent of limiting the operation of the aircraft,'' but the crew ``improperly responded'' by trying to disengage the gust lock ``instead of immediately aborting the takeoff.''</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="6">The Philadelphia Inquirer reported Saturday that in response to its questions, the Federal Aviation Administration announced Friday that it was working with Gulfstream on ``design changes'' to the nearly 500 Gulfstream IV aircraft still in service.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcphiladelphia.com/entertainment/entertainment-news/Kim-Kardashian-Soccer-Mom-North-West-320350021.html">'Soccer Mom' Kim Kardashian Posts Kickin' Baby Pic</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="7">According to documents released by the NTSB, Gulfstream told officials that it is ``actively working'' to make improvements in the gust lock system, including ``additional restrictions to throttle movement,'' better materials and recurring compliance checks. But the company said even with those improvements, checks must always be done ``to ensure that there are no locks, jams or failures in the flight control system prior to takeoff.''</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="8">The NTSB has not yet ruled on a cause of the crash, but in their preliminary report investigators pointed to the gust lock system, which is designed to steady parked aircraft in winds and protect them from damage, as a possible factor in the crash.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class=""></span><a href="http://www.nbcphiladelphia.com/news/local/Amtrak-Train-Strikes-Kills-Trespasser-in-Bucks-County-320379651.html">Man Struck, Killed by Amtrak Train in Bucks County </a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="9">Aviation analysts say the plane would have been unable to take off had the lock been engaged, but the crew might not have been aware of the issue without a flight check _ and documents released in April indicate that pilots employed by Katz rarely conducted full preflight checks.</p>
+                    
+                
+                                                
+                                
+                                                <p class="paragraph" data-pnum="10">Gulfstream said it notified operators after the accident that despite the interlock design, ``if proper procedures are not followed, movement of the throttle to a position capable of providing sufficient engine power for autothrottle engagement and takeoff power may be possible for GIV models.'' Operators were urged to ensure that the lock was off prior to starting engines, to check flight control movements and to confirm that elevators were free.</p>
+                                          
+                                                                                                                  
+
+
+
+
+
+
+
+
+                     <div class="embedded article"><ul><li><h3><span class="Exclusive">Exclusive</span><a href="http://www.nbcphiladelphia.com/news/local/Clear-the-Shelters-Pet-Adoptions-Pennsylvania-New-Jersey-Delaware-312151521.html">'Clear the Shelters' by Giving a Pet a Loving Home</a></h3></li></ul></div>
+            
+
+
+
+
+
+
+                    
+                
+                                                
+            
+            
+            
+                            <div class="dateline bottom">Published 2 hours ago</div>
+      
+                           <div class="articleAutoFooter"></div>
+                                               <h5 class="copyright">
+
+    
+        
+    
+                
+                  
+      
+
+		
+			
+    		      	Copyright Associated Press 
+</h5>
+                           <div id="article_0_outbrain_top" data-widget-id="AR_3" data-src="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" class="OUTBRAIN" data-ob-template="NBCLocal"></div>
+            <div id="article_0_outbrain_bot" data-widget-id="AR_4" data-src="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" class="OUTBRAIN" data-ob-template="NBCLocal"></div>
+            </div>
+                        </article>
+            <!--endclickprintinclude-->
+            <aside>
+
+            <div class="socialNetworks bottom">
+                      <div class="topShareLeft">
+
+                                 <a href="#comments" class="viewComments">View Comments (<fb:comments-count href=http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html></fb:comments-count>)</a> <div style="float:left;"> | </div>                                 <div class="emailArticle" onmouseout="return(ETMouseOut());" onmouseover="return(ETMouseOver());" onclick="nbc.updatePrintCall(this);return(ET());">Email</div>
+                                 <div style="float:left;"> | </div>
+                                 <div class="printArticle" onmouseout="return(PTMouseOut());" onmouseover="return(PTMouseOver());" onclick="nbc.updatePrintCall(this);return(PT());">Print</div>
+                      </div>
+                   </div>
+                                      <div id="article-comments" itemprop="comment">
+                      <a name="comments"><span id="article-comments-header">Leave Comments</span></a>
+                      <div class="fb-comments" data-href="http://www.nbcphiladelphia.com/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html" data-num-posts="6" data-width="650" style="clear:both;"></div>
+
+                   </div>
+                                                         
+
+
+
+
+
+
+
+          
+        
+        
+        
+           
+                                      
+                                           <div class="ad" id="ad_3">
+	
+
+
+	
+	<div id="leaderboard2" class="adSlot adLeaderboard" data-sizes="728,90" data-ord="2" data-pos="bottom" data-module="" data-gptcollapse="true"></div>
+
+
+
+</div>                               </aside>
+</section>
+<div id="contentTrigger" class="clear"></div>
+<div id="loader"></div>
+<div id="cScrollIndicatorRect">
+    <div class="cScrollIndicatorContainer"><span id="cScrollIndicator"></span></div>
+</div>
+<div id="upwardScrollFixedRect">
+    <div class="upwardScrollContainer"><span id="upwardScrollArrow"></span></div>
+</div>
+            <div id="footer">
+        <script async src='//www.adreadytractions.com/rt/677811?p=59051'></script>
+    <div id="footerDiv">
+    <div id="footerLinks">
+       <div class="footCol">
+         <ul class="news">
+           <li class="header"><a href="/news/" name="&lpos=footer&lid=news">News</a></li>
+                                      <li><a href="/news/local/" title="Local" name="&lpos=footer&lid=local">Local</a></li>
+                          <li><a href="/news/national-international/" title="U.S. & World" name="&lpos=footer&lid=u.s. & world">U.S. & World</a></li>
+                          <li><a href="/news/local/PHI-Breakfast-Buzz-272760441.html" title="Breakfast Buzz" name="&lpos=footer&lid=breakfast buzz">Breakfast Buzz</a></li>
+                          <li><a href="/news/weird/" title="Weird News" name="&lpos=footer&lid=weird news">Weird News</a></li>
+                          <li><a href="/news/health" title="Health" name="&lpos=footer&lid=health">Health</a></li>
+                          <li><a href="/news/politics" title="Politics" name="&lpos=footer&lid=politics">Politics</a></li>
+                          <li><a href="/news/tech/" title="Tech" name="&lpos=footer&lid=tech">Tech</a></li>
+                          <li><a href="/news/business/" title="Business" name="&lpos=footer&lid=business">Business</a></li>
+                          <li><a href="http://www.nbcphiladelphia.com/news/local/PHI-Missing-Persons-291950061.html" title="Finding the Forgotten" name="&lpos=footer&lid=finding the forgotten">Finding the Forgotten</a></li>
+                          <li><a href="/news/local/NBC10-Issue-226924701.html" title="@ Issue" name="&lpos=footer&lid=@ issue">@ Issue</a></li>
+                                                         </ul>
+       </div>
+       <div class="footCol">
+         <ul class="weather">
+          <li class="header"><a href="/weather/" name="&lpos=footer&lid=weather">Weather</a></li>
+                                      <li><a href="http://www.nbcphiladelphia.com/weather/stories/PHI-Severe-Weather-Central-224616871.html" title="Severe Weather Central" name="&lpos=footer&lid=severe weather central">Severe Weather Central</a></li>
+                          <li><a href="/weather/" title="Forecast" name="&lpos=footer&lid=forecast">Forecast</a></li>
+                          <li><a href="/weather/maps/" title="Maps & Radar" name="&lpos=footer&lid=maps & radar">Maps & Radar</a></li>
+                          <li><a href="/weather/severe-weather-alerts" title="Weather Alerts" name="&lpos=footer&lid=weather alerts">Weather Alerts</a></li>
+                          <li><a href="/weather/school-closings" title="School Closing Alerts" name="&lpos=footer&lid=school closing alerts">School Closing Alerts</a></li>
+                          <li><a href="/weather/stories/" title="Weather News" name="&lpos=footer&lid=weather news">Weather News</a></li>
+                                             </ul>
+       </div>
+       <div class="footCol">
+         <ul class="entertainment">
+          <li class="header"><a href="/entertainment/" name="&lpos=footer&lid=entertainment">Entertainment</a></li>
+                                      <li><a href="/entertainment/entertainment-news" title="Entertainment News" name="&lpos=footer&lid=entertainment news">Entertainment News</a></li>
+                          <li><a href="/entertainment/entertainment-news/Late-Night-on-NBC-Fallon-Meyers-Tonight-Show-250339161.html" title="Late Night Recap" name="&lpos=footer&lid=late night recap">Late Night Recap</a></li>
+                          <li><a href="http://www.nbcphiladelphia.com/entertainment/the-scene/Lunch-Break-Entertainment-Philadelphia-NJ-Delaware-202091621.html" title="Lunch Break" name="&lpos=footer&lid=lunch break">Lunch Break</a></li>
+                          <li><a href="http://www.nbcphiladelphia.com/entertainment/entertainment-news/PHI-10-Questions-With-221308151.html" title="10 Questions With" name="&lpos=footer&lid=10 questions with">10 Questions With</a></li>
+                          <li><a href="/events" title="Events" name="&lpos=footer&lid=events">Events</a></li>
+                          <li><a href="/blogs/open-house/" title="Open House" name="&lpos=footer&lid=open house">Open House</a></li>
+                          <li><a href="/blogs/1st-look/" title="1st Look" name="&lpos=footer&lid=1st look">1st Look</a></li>
+                                                  <li><a href="/blogs/worth-the-trip/" title="Worth The Trip" name="&lpos=footer&lid=worth the trip">Worth The Trip</a></li>
+                                    <li style="margin-top:10px;border-top:1px dotted #A2C5F4;padding-top:10px;"><a href="http://www.cozitv.com" target="_blank" title="CoziTV.com" name="&lpos=footer&lid=CoziTV.com">CoziTV.com</a></li>
+         </ul>
+       </div>
+       <div class="footCol">
+        <ul class="contact-us">
+          <li class="header"><a href="/contact-us/" name="&lpos=footer&lid=contact us">Contact Us</a></li>
+                                <li><a href="/contact-us/about-us/" title="About Us" name="&lpos=footer&lid=about us">About Us</a></li>
+                      <li><a href="/contact-us/social-directory" title="Social Directory" name="&lpos=footer&lid=social directory">Social Directory</a></li>
+                      <li><a href="/contact-us/community/" title="Community" name="&lpos=footer&lid=community">Community</a></li>
+                      <li><a href="/contact-us/tv-listings/" title="TV Listings" name="&lpos=footer&lid=tv listings">TV Listings</a></li>
+                      <li><a href="http://www.nbcphiladelphia.com/news/local/Comcast-Redefining-Philadelphia-240344431.html" title="Comcast: Redefining Philly" name="&lpos=footer&lid=comcast: redefining philly">Comcast: Redefining Philly</a></li>
+                      <li><a href="http://www.nbcphiladelphia.com/news/tech/Comcast-Plug-In-Power-Up-Locations-NBC10-Telemundo62-288016311.html" title="Plug In, Power Up" name="&lpos=footer&lid=plug in, power up">Plug In, Power Up</a></li>
+                      <li><a href="/news/business/Comcast-Tower-Building-Cam-274808381.html" title="Tower Cam" name="&lpos=footer&lid=tower cam">Tower Cam</a></li>
+                    <li><a href="https://sjobs.brassring.com/tgwebhost/searchresults.aspx?PartnerId=25354&SiteId=5108&Function=LinkQuery&LinkId=3385146" title="Careers" name="Careers" target="_blank">Careers</a></li>
+                                                           </ul>
+       </div> 
+       <div class="footCol last">
+        <ul class="traffic">
+         <li class="header"><a href="/traffic/" name="&lpos=footer&lid=traffic" name="&lpos=footer&lid=company, faa working on gulfstream iv jet fail-safe problem">Traffic</a></li>
+                                                         </ul>
+       </div>
+     </div>
+     <div id="footerLogo">
+      <div class="right">
+        <div id="leftShare">
+          <ul>
+            
+                                 <li><a href="http://www.facebook.com/nbcphiladelphia" id="fb_footer" name="&lpos=footer&lid=facebook"></a></li>
+            <li><a href="http://www.twitter.com/$twId" id="tw_footer" name="&lpos=footer&lid=twitter"></a></li>
+                                    <li><a href="https://plus.google.com/115181052736294416606" id="gp_footer" name="&lpos=footer&lid=google" rel="publisher"></a></li>
+                                                     
+            <li><a href="/mobile/" id="ph_footer" name="&lpos=footer&lid=mobile"></a></li>
+            <li><a href="/rss/" id="rss_footer" name="&lpos=footer&lid=rss"></a></li>
+            <li style="border:0px;"><a href="/newsletters/" id="em_footer" name="&lpos=footer&lid=newsletters"></a></li>
+          </ul>  
+          </div>
+        <div class="leftTerms about">
+          <a href="/send-feedback/" name="&lpos=footer&lid=send feedback">Send Feedback</a><a>|</a><a href="/terms/" name="&lpos=footer&lid=Terms of service">Terms of service</a><a>|</a><a href="http://www.nbcuniversal.com/privacy/" name="&lpos=footer&lid=Privacy policy">Privacy policy</a>
+        </div>
+      </div>
+      <div class="left">
+          <div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming" target="_blank">FCC Independent Programming Report</a></div>
+          <div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/news-and-information-programming">FCC News and Information Programming Report</a></div>
+          <div class="leftTerms" style="width:358px;"><a href="/non-profit-reports/NBC-Non-Profit-News-Partnership-Reports-138336674.html" name="&lpos=footer&lid=non-profit news partnership reports">NBC Non-Profit News Partnership Reports</a></div>
+          
+                                          <div class="leftTerms"><a href="https://stations.fcc.gov/station-profile/wcau" target="_blank">WCAU Public Inspection File</a></div>
+                              <div class="leftTerms"><a href="/21stCenturySolutions/" target="_blank">21st Century Solutions</a></div>
+                                                  
+                    <!-- Evidon tag cid: 908 pid: 209-->
+          <a id="_bapw-link" href="#" class="leftTerms" target="_blank" style="cursor:pointer !important;text-decoration:none !important;float:left;margin-top:10px;color: #B6D4EE;font: 11px arial;"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;"/><span style="vertical-align:middle !important">AdChoices</span></a>
+          <script type="text/javascript">
+          (function() {
+            var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 209); ev.setAttribute('data-ev-tag-ocid', 908);
+            ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+          })();
+          </script>
+       </div>
+       <div id="leftCopy">
+          &copy; 2015 NBCUniversal Media, LLC. All rights reserved.
+        </div>
+     </div>
+  </div>
+</div>
+<script type="text/javascript">
+if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+  $('body #footer').remove();
+  document.write('<iframe src="http://www.nbcphiladelphia.com/templates/nbc_iframe_footer_xfinity" id="nbc_xfinity_footer" height="170" frameborder="0" scrolling="no" style="height:170px;width:100%;overflow:hidden;display:block;"></iframe>');
+};
+</script>
+            </div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    nbc.updateTopStories();
+    try {
+        if($("#article-sec_0 .embedded.gallery").length != 0 ){
+            var a2Galleries = 0;
+            $("#article-sec_0 .embedded.gallery").each(function(a, b) {
+                $(this).attr("id", "pgA2-" + a);
+                $(this).attr("data-galleyindex", a);
+                var thisA2GalleryTitle = $(this).data("title");
+                var thisA2GalleryID = parseInt($(this).data('cid'));
+                console.log("GALLERY CODE | "+thisA2GalleryID);
+                var thisA2GalleryURL = $(this).data("permloc");
+                console.log("GALLERY CODE | "+thisA2GalleryURL);
+                //thisA2GalleryID = thisA2GalleryID[thisA2GalleryID.length-1].replace(".html","");
+                thisA2GalleryTitle = thisA2GalleryTitle.replace('"','&quot;');
+                $("#pgA2-" + a).click(function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    if($(this).find(".pg_article").length == 0){
+                        pg.init("#pgA2-" + a, thisA2GalleryID, thisA2GalleryURL, thisA2GalleryTitle, true, "a2","", true);
+                        return false;
+                    }
+                });
+                a2Galleries = a2Galleries + 1;
+            });
+
+        }
+    } catch(e) {console.warn(e);}
+});
+</script>
+
+
+
+
+
+<script language="Javascript" >var js="0.0";</script><script language="Javascript1.0" >js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2" >js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4" >js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=320403212";_q+="&7=525842";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=320403212&7=525842&25=0&18=0.020132108924100334">
+</noscript>
+ 
+
+      
+
+ 
+
+
+
+            
+               
+
+
+
+
+
+                                  
+                        	                 			                                                                               
+        
+                                            
+	            		   		
+		                                                    	                 			                                                                               
+        
+                                            
+	            		   		
+		                                                    	                 			                                                                               
+        
+                                            
+	            		   		
+		                                                    	                 			                                                                           
+        
+                                                                                                                                                                                                                                                                                    
+	            		   		
+		                                                    	                 			                                                                           
+        
+                                                                                                                                                                                                                                                                              
+	            		   		
+		                               	                                                                                                                                                                                                                                                                                                                                            
+
+
+
+ 
+
+
+
+
+
+
+
+
+      
+
+
+	
+		       
+
+
+  
+
+
+                    
+              
+                                                                                                                                                                                                                                                                                                                                                                                                                  
+                        
+
+
+		
+										 												
+		    		    		    			
+		    		    								                                                                                	                	                                        					
+                 
+
+
+
+
+  
+                              	  
+	  	  
+        
+  
+   
+
+
+
+             
+
+
+
+
+
+
+                                                                                                      
+
+
+
+
+ 
+  
+
+
+ 
+          
+  
+        
+
+         
+  
+        
+  
+  
+
+             
+
+
+
+
+
+
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+
+
+                                                    
+
+
+
+                                                    
+
+
+
+                                                    
+
+
+
+            
+    
+        
+    
+                
+                  
+      
+            <script language="JavaScript">
+
+                    nbcu.pageName="news:local:detail content page";
+            nbcu.pageType=""; // used for 404 Error message page only
+nbcu_siteID="nbcphiladelphia";
+nbcu.list1="weather:news newsletter sign up";
+nbcu.prop8=nbcu_prop8; // division
+nbcu.prop9=nbcu_prop9; // station market
+nbcu.prop10=nbcu_prop10; // call letters
+nbcu.prop21="320403212";// content id
+  nbcu.prop22="Company, FAA Working on Gulfstream IV Jet Fail Safe Problem"; // content title
+      nbcu.prop23="article"; // content type
+  nbcu.prop24=""; // content group
+nbcu.prop25=""; // author name
+nbcu.prop26="08/01/2015";        nbcu.prop28="Associated Press"; //content source
+nbcu.prop30 = "Philadelphia";
+
+nbcu.eVar70 = "Aug 1, 2015";
+/* E-commerce Variables */
+if(typeof nbc.articlePage.continuousScroll !== "undefined") {
+  if(nbc.articlePage.continuousScroll) {
+      nbcu.eVar56 = "batch 1";
+        nbcu.eVar58 = "1";
+      nbcu.eVar57 = 1;
+      nbcu.events="event1,event2,event8,event18";; // filled with an event # as needed - example event1, or event19
+  } else {
+     nbcu.events="event2"; 
+  }
+} else {
+    nbcu.events="event2";
+}
+nbcu.eVar1 = 'Non-Registered'; // Registration   
+// Xfinity Omniture Value
+if(typeof xfinityOmniValue != "undefined") {
+if(xfinityOmniValue == "xfinity"){
+  nbcu.prop29=xfinityOmniValue;
+  nbcu.eVar29=xfinityOmniValue;
+} else{
+  nbcu.prop29="";
+  nbcu.eVar29="";
+}
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+      var s_code=nbcu.t();if(s_code)document.write(s_code)//-->
+   </script>
+<script language="JavaScript">if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')</script>
+
+        <!-- BEGIN SiteCTRL Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('bXPZ-CXVur458Cacwqm_6l');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END SiteCTRL Script -->
+
+      <script src="http://www.nbcudigitaladops.com/hosted/global.js"></script>
+      <script type="text/javascript">
+  //<![CDATA[
+  
+  var _sf_async_config={uid:15527,domain:"www.nbcphiladelphia.com"};
+  
+       _sf_async_config.path = "/news/local/FAA-Gulfstream-IV-NTSB-Philadelphia-Lewis-Katz-320403212.html";
+    
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+  //for newsbeat
+      _sf_async_config.sections = "news,local";
+             _sf_async_config.authors = "";
+      }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+  
+  //]]> 
+  </script>
+  
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  
+  <div id="fb-root" style="display:none;"></div>
+    <script type="text/javascript">
+  //<![CDATA[
+  var api_key = "85ab812aa7574de43da6e627c9970950";
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : "196375740321", // App ID
+        version    : 'v2.0',
+        channelUrl : '//www.nbcphiladelphia.com/templates/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+              FB.Event.subscribe('xfbml.render', function(){
+           if(nbc.articlePage.continuousScroll){
+               jQuery.waypoints('refresh');
+           }
+        });
+            // Additional initialization code here
+    };
+  
+    // Load the SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document));
+  //]]>
+  </script>
+   
+
+          <!--Visual Revenue Reader Response Tracking Script (v6) -->
+  <script type="text/javascript">
+     var _vrq = _vrq || [];
+     _vrq.push(['id', 167]);
+     _vrq.push(['automate', false]);
+     _vrq.push(['track', function(){}]);
+     (function(d, a){
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = 'http://a.visualrevenue.com/vrs.js';
+        x.parentNode.insertBefore(s, x);
+     })(document, 'script');
+  </script>
+  <!-- End of VR RR Tracking Script - All rights reserved -->
+    
+    <script type="text/javascript">
+    $("#masthead form#searchForm input#searchText, #searchPage #fullSearchForm input#fullSearchText").bind("keyup",function(){
+      this.value = this.value.replace(/[^a-zA-Z0-9\'\"\s\-]/g, '');
+  });
+  </script>
+    
+                <script src="http://content.dl-rms.com/rms/22388/nodetag.js"></script>
+               <script type="text/javascript">
+    var fby = fby || [];
+    fby.push(['showTab', {id: '8767', position: 'right', color: '#26518E'}]);
+    (function () {
+        var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+        f.src = '//cdn.feedbackify.com/f.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+    })();
+    </script>
+    </body>
+</html>
+
+

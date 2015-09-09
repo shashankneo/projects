@@ -1,0 +1,891 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<link href="/images/_defaults.css" rel="stylesheet" type="text/css" />
+	<link href="/images/_layout_v2.css" rel="stylesheet" type="text/css" />
+
+<link href="/images/_layout_sky.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]><style type="text/css">@import url("/images/_defaults_ie6.css");</style><![endif]--> 
+	<script type="text/javascript">
+function isCheckedOnOff(InputName)
+{
+	if(document.getElementById(InputName).checked == true)
+		document.getElementById(InputName).checked = false;
+	else
+		document.getElementById(InputName).checked = true;
+}
+
+function openCloseTabs(element){
+	if(document.getElementById(element).style.display == 'none'){
+		document.getElementById(element).style.display = 'block';
+	}else{
+		document.getElementById(element).style.display = 'none';
+	}
+}
+function PopWindow(mypage, myname, w, h, scroll) 
+	{
+	var winl = (screen.width - w) / 2;
+	var wint = (screen.height - h) / 2;
+	/* winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable,status' */
+winprops = 'height='+h+',width='+w+',top='+120+',left='+winl+',scrollbars='+scroll+',resizable,status=no,toolbar=no,menubar=no';
+
+win = window.open(mypage, myname, winprops)
+/* if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); } */
+}
+</script>
+
+
+
+
+<script type="text/javascript">
+	function hideTabContent(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).style.display = 'none';
+			}
+		}
+	}
+	function showTabContent(tab,tabId,element,id){
+		hideTabContent(element);
+		changeTabBack(tab);
+		if(document.getElementById(element+'_'+id) != null){
+			document.getElementById(element+'_'+id).style.display = 'block';
+		}
+		if(document.getElementById(tab+'_'+tabId) != null){
+			document.getElementById(tab+'_'+tabId).style.backgroundImage = 'url(/images/tab_selected_back.jpg)';
+			document.getElementById(tab+'_'+tabId).style.color = '#407740';
+			document.getElementById(tab+'_'+tabId).style.fontWeight = 'bold';
+		}
+	}
+	function changeTabBack(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).style.backgroundImage = 'url(/images/tab_unselected_back.jpg)';
+				document.getElementById(element+'_'+x).style.color = '#666666';
+				document.getElementById(element+'_'+x).style.fontWeight = 'normal';
+			}
+		}
+	}
+	
+	
+	
+	
+	function hideTabContentCal(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).style.display = 'none';
+			}
+		}
+	}
+	function showTabContentCal(tab,tabId,element,id){
+		hideTabContentCal(element);
+		changeTabBackCal(tab);
+		if(document.getElementById(element+'_'+id) != null){
+			document.getElementById(element+'_'+id).style.display = 'block';
+		}
+		if(document.getElementById(tab+'_'+tabId) != null){
+			document.getElementById(tab+'_'+tabId).className = 'selectedtabCal';
+		}
+	}
+	function changeTabBackCal(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).className = 'unselectedtabCal';
+			}
+		}
+	}
+	
+	
+	function hideTabContentblogs(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).style.display = 'none';
+			}
+		}
+	}
+	function showTabContentblogs(tab,tabId,element,id){
+		hideTabContentblogs(element);
+		changeTabBackblogs(tab);
+		if(document.getElementById(element+'_'+id) != null){
+			document.getElementById(element+'_'+id).style.display = 'block';
+		}
+		if(document.getElementById(tab+'_'+tabId) != null){
+			document.getElementById(tab+'_'+tabId).className = 'selectedtabblogs';
+		}
+	}
+	function changeTabBackblogs(element){
+		for(var x=1;x<30;x++){
+			if(document.getElementById(element+'_'+x) != null){
+				document.getElementById(element+'_'+x).className = 'unselectedtabblogs';
+			}
+		}
+	}
+function toggle(div_id) {
+	var el = document.getElementById(div_id);
+	if ( el.style.display == 'none' ) {	el.style.display = 'block';}
+	else {el.style.display = 'none';}
+}
+function blanket_size(popUpDivVar) {
+	if (typeof window.innerWidth != 'undefined') {
+		viewportheight = window.innerHeight;
+	} else {
+		viewportheight = document.documentElement.clientHeight;
+	}
+	if ((viewportheight > document.body.parentNode.scrollHeight) && (viewportheight > document.body.parentNode.clientHeight)) {
+		blanket_height = viewportheight;
+	} else {
+		if (document.body.parentNode.clientHeight > document.body.parentNode.scrollHeight) {
+			blanket_height = document.body.parentNode.clientHeight;
+		} else {
+			blanket_height = document.body.parentNode.scrollHeight;
+		}
+	}
+	var blanket = document.getElementById('blanket');
+	blanket.style.height = blanket_height + 'px';
+	var popUpDiv = document.getElementById(popUpDivVar);
+	popUpDiv_height=blanket_height/2-150;
+	popUpDiv.style.top = 10 + '%';
+}
+function window_pos(popUpDivVar) {
+	if (typeof window.innerWidth != 'undefined') {
+		viewportwidth = window.innerHeight;
+	} else {
+		viewportwidth = document.documentElement.clientHeight;
+	}
+	if ((viewportwidth > document.body.parentNode.scrollWidth) && (viewportwidth > document.body.parentNode.clientWidth)) {
+		window_width = viewportwidth;
+	} else {
+		if (document.body.parentNode.clientWidth > document.body.parentNode.scrollWidth) {
+			window_width = document.body.parentNode.clientWidth;
+		} else {
+			window_width = document.body.parentNode.scrollWidth;
+		}
+	}
+	var popUpDiv = document.getElementById(popUpDivVar);
+	window_width=window_width/2-150;
+	popUpDiv.style.left = 20 + '%';
+}
+function popup(windowname) {
+	blanket_size(windowname);
+	window_pos(windowname);
+	toggle('blanket');
+	toggle(windowname);		
+}
+</script>
+
+<title>Bag causes ticketing area shutdown at Twin Cities airport - NUJournal.com | News, Sports, Jobs - The Journal, New Ulm, MN</title>
+<meta name="description" content="" />
+<meta name="keywords" content="Minnesota, State, News, Minneapolis, Saint Paul, Rochester, Duluth, Bloomington, Plymouth, Brooklyn Park, Eagan, Coon Rapids, St. Cloud, Burnsville, Eden Prairie, Maple Grove, Woodbury, Blaine, Lakeville, and Minnetonka" />
+
+	
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+	</script>
+	<script type="text/javascript">
+	  GS_googleAddAdSenseService("ca-pub-0279219903859783");
+	  GS_googleEnableAllServices();
+	</script>
+	
+	
+	
+		
+		<script type="text/javascript">
+			GA_googleAddAttr("SiteID", "NJNM");
+		</script>
+	
+
+	
+	<script type="text/javascript">
+		GA_googleAddAttr("MSection", "news");
+	</script>
+	
+	
+		<script type="text/javascript">
+			GA_googleAddAttr("SubSection", "mn_state_news");
+		</script>
+	
+				<script type="text/javascript">
+					GA_googleAddAttr("SLevel_1", "news");
+				</script>
+			
+				<script type="text/javascript">
+					GA_googleAddAttr("SLevel_2", "mn_state_news");
+				</script>
+			
+	<script type="text/javascript">
+		GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Middle_300x250");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x95_74x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x40_234x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x41_234x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x42_234x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Top_728x90");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Top2_895x300");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Left_160x600");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x94_0x0");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Bottom1_420x200");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Bottom_728x90");
+
+	</script>
+	<script type="text/javascript">
+	  GA_googleFetchAds();
+	</script>
+
+</head>
+<body>
+<div id="blanket" style="display:none;"></div>
+<div id="hdr">
+	<div id="hdrNav">
+		<div id="hdrNavL">Mobile: <a href="http://mobile.nujournal.com" title="Mobile Version">mobile.nujournal.com</a></div>
+		<div id="hdrNavR">
+	<span id="visitorNav">
+		<a href="https://www.nujournal.com/page/memberscreate.create/sign-in.html" title="Sign In">Sign In</a> | 
+		<a href="https://www.nujournal.com/page/memberscreate.create/create-an-account.html" title="Create an Account for The Journal">Create an Account</a> | 
+	</span>
+	<span id="memberNav">
+		Welcome, <strong id="displayUsername"></strong>. <a href="https://www.nujournal.com/page/memberssecure.home/" title="My Account">My Account</a> | 
+		<a href="https://www.nujournal.com/page/memberslogin.actLogout/" title="Logout">Logout</a> | 
+	</span>
+	
+	<a href="/page/ecocat.list/online-store.html" title="Subscribe to The Journal">Subscribe</a> | <a href="http://97.64.232.186/vnr/index.asp?publicationID=21" title="Submit News to The Journal">Submit News</a> | <a href="/page/category.detail/nav/5238/Public-Records.html" class="">Public Records</a> | <a href="/page/category.detail/nav/5029/Contact-Us.html" class="">Contact Us</a> | 
+		<a href="http://mynewsonthego.com/newulm/">All Access E-Edition</a> | 
+<a href="http://www.nujournal.com">Home</a>
+<a href="/page/syndrss.front/headline.xml" title="RSS Feed"><img src="/images/rss.gif" border="0" class="imgMiddle" alt="RSS" /></a>
+
+<script type="text/javascript">
+	var searchTerm = "DNAME=" ;
+	if (document.cookie.length > 0) { 
+		offset = document.cookie.indexOf(searchTerm);
+		if (offset != -1) {
+			offset += searchTerm.length;
+			var stopTerm = ';';
+			var stopPoint = document.cookie.indexOf(stopTerm, offset);
+			if ( stopPoint == -1 ) {
+				stopPoint = document.cookie.length;
+			}
+			var accountUsername = document.cookie.substring(offset,stopPoint);
+			/* additional check for cookie difference between browsers */
+			if ( unescape(document.cookie.substring(offset,offset+1)) != ';' ) {
+				showMember(accountUsername);
+			} else {
+				showGuest();
+			}
+		} else {
+			showGuest();
+		}							 
+	} else {
+		showGuest();
+	}
+	function showMember(accountUsername) {
+		document.getElementById('visitorNav').style.display = 'none';
+		document.getElementById('memberNav').style.display = '';
+		document.getElementById('displayUsername').innerHTML = accountUsername;
+	}
+	function showGuest() {
+		document.getElementById('visitorNav').style.display = '';
+		document.getElementById('memberNav').style.display = 'none';
+		document.getElementById('displayUsername').innerHTML = '';
+	}
+</script>
+</div>
+	</div>
+	<div id="hdrM">
+		<div id="hdrMLogo"><a href="http://www.nujournal.com" title="Home"><img src="/images/spacer.gif" border="0" width="250" height="96" /></a></div>
+		<div id="hdrMAd">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Top_728x90");
+	</script>
+</div>
+	</div>
+</div>
+<div id="bdy">
+	<div id="bdyL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div id="bdyC">
+		<!-- Top Nav -->
+		<div id="navTopCap"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+		<div id="navTop"><a href="/page/category.detail/nav/5014/News.html" class="">News</a>&nbsp; <a href="/page/category.detail/nav/5015/Sports.html" class="">Sports</a>&nbsp; <a href="/page/category.detail/nav/5003/Legals.html" class="">Legals</a>&nbsp; <a href="/page/category.detail/nav/5011/Opinion.html" class="">Opinion</a>&nbsp; <a href="/page/category.detail/nav/5000/Sections.html" class="">Sections</a>&nbsp; <a href="/page/category.detail/nav/5238/Public-Records.html" class="">Public Records</a>&nbsp; <a href="/page/category.detail/nav/5017/Extras.html" class="">Extras</a>&nbsp; <a href="/page/category.detail/nav/5022/Ads.html" class="">Ads</a>&nbsp; 
+			<a href="http://jobs.nujournal.com" >Jobs</a>&nbsp; 
+			<a href="http://www.hot-ads.com/browse/index.cfm?SID=MN&RGID=00000000100&CID=34" >Classifieds</a>&nbsp; 
+			<a href="http://cu.nujournal.com" >CU</a>&nbsp; <a href="/page/category.detail/nav/5028/Customer-Service.html" class="">Customer Service</a> </div>
+		
+		
+		<!-- Breaking -->
+		
+
+	<div id="breakingNewsAjax"></div>
+	<script language="javascript">
+		var xmlhttp;
+		
+		function getBreaking() {
+			xmlhttp=GetXmlHttpObject();
+			if (xmlhttp==null) {
+				  alert ("Sorry, but I couldn't create an XMLHttpRequest");
+				  return;
+			}
+			
+			var url="/cached/layout.breakingNews.html";
+			url += '?sid='+Math.random();
+
+			xmlhttp.onreadystatechange=stateChanged;
+			xmlhttp.open('GET',url,true);
+			xmlhttp.send(null);
+				
+		}
+	
+		function GetXmlHttpObject() {
+			if (window.XMLHttpRequest) {
+			  /* code for IE7+, Firefox, Chrome, Opera, Safari */
+			  return new XMLHttpRequest();
+			}
+			if (window.ActiveXObject) {
+			  /* code for IE6, IE5 */
+			  return new ActiveXObject('Microsoft.XMLHTTP');
+			}
+			return null;
+		}
+		
+		function stateChanged() {
+			if (xmlhttp.readyState==4) {
+				if (xmlhttp.status == 200) {
+					document.getElementById('breakingNewsAjax').innerHTML = '';
+					document.getElementById('breakingNewsAjax').innerHTML=xmlhttp.responseText;
+				}
+			}
+		}
+		
+		getBreaking();
+	
+	</script>
+	
+
+<!-- Main Body -->
+<table id="mBdy" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td id="mBdyLAd" valign="top">
+			<div id="navCat">
+				<h3>MN State News</h3>
+				
+<ul>
+
+			<li><a href="/page/category.detail/nav/5009/Local-News.html" class="">Local News</a></li>
+		
+			<li class="color_blue"><strong><a href="/page/category.detail/nav/5031/MN-State-News.html" class="">MN State News</a></strong></li>
+		
+			<li><a href="/page/category.detail/nav/5032/National-News.html" class="">National News</a></li>
+		
+			<li><a href="/page/category.detail/nav/5033/International-News.html" class="">International News</a></li>
+		
+			<li><a href="/page/category.detail/nav/5010/Obituaries.html" class="">Obituaries</a></li>
+		
+		<li><a href="/page/category.detail/nav/5011/Opinion.html" >Opinion</a></li>
+	
+		<li><a href="/page/category.detail/nav/5119/Lifestyle.html" >Lifestyle</a></li>
+	
+			<li><a href="/page/category.detail/nav/5046/Monday-Business.html" class="">Monday Business</a></li>
+		
+			<li><a href="/page/category.detail/nav/5001/Agribusiness.html" class="">Agribusiness</a></li>
+		
+		<li><a href="http://www.nujournal.com/page/category.detail/nav/5016/Communities.html" >Community</a></li>
+	
+		<li><a href="http://cu.nujournal.com" >Local Photos</a></li>
+	
+		<li><a href="http://97.64.232.186/vnr/index.asp?publicationID=21" >SUBMIT News</a></li>
+	
+<div class="clearL"></div>
+</ul>
+
+			</div>
+			
+<div class="padBtm">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Left_160x600");
+	</script>
+</div>
+
+		</td>
+		<td id="mBdyLC" valign="top">
+			
+<div id="navBCrumbs">
+	
+				/ <a href="/page/category.detail/nav/5014/News.html" title="News">News</a>
+			
+				/ <a href="/page/category.detail/nav/5031/MN-State-News.html" title="MN State News">MN State News</a>
+			 
+	/
+</div>
+			
+<div class="cBdrHdrSm">
+	<div class="cBdrTLSm">&nbsp;</div>
+	<div class="cBdrTRSm">&nbsp;</div>
+	<div class="cBdrTCOSm">&nbsp;</div>
+</div>
+<div class="cBdrMainBig">
+	<div class="hnews hentry item contentList">
+		
+		<h1 class="entry-title padBtm">Bag causes ticketing area shutdown at Twin Cities airport</h1>
+		
+		
+		<h5 id="dspDetail_byLine" class="updated dtstamp" title="2015-08-01T19:51:12Z">August 1, 2015</h5>
+		
+		
+		<div class="padBtm txtSmaller">
+			
+					<span class="author source-org vcard"><span class="org fn">Associated Press</span></span>
+				
+		</div>
+		
+		<div id="dspDetail_linksTop" class="navPaginate">
+			
+				<a href="/?page=mscontent.saveContentMsg&showlayout=0&id=895219&nav=5031&isAP=1" title="Save Story">Save</a> | 
+				
+				
+                <script type="text/javascript">var switchTo5x=true;</script>
+				<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+                <script type="text/javascript">stLight.options({publisher: "117d1b7c-1924-48f0-bd2c-81b25b8ceefb"});</script>
+                
+				<span class='st_sharethis'></span>
+                <span class='st_facebook'></span>
+                <span class='st_twitter'></span>
+                <span class='st_linkedin'></span>
+                <span class='st_pinterest'></span>
+                <span class='st_email'></span>
+				
+
+			
+		</div>
+		
+		
+			
+			
+			<div id="storyBody" class="entry-content">
+				<p>MINNEAPOLIS (AP) — Minneapolis-St. Paul International Airport has resumed normal operations after an unattended bag caused the airport to shut down part of its ticketing area for about two hours.</p> <p>Minnesota Public Radio News (http://bit.ly/1Iw9Nk8 ) reports the backpack was left unattended on a United Airlines scale. The bag was spotted by Transportation Security Administration agents shortly after noon Saturday.</p> <p>An airport spokeswoman says the outside of the bag was swabbed and tested positive for an explosive.</p> <p>Airport police asked for help from the Bloomington bomb squad. The scene was cleared at about 2:30 p.m. and the airport resumed normal operations.</p> <p>___</p> <p>Information from: Minnesota Public Radio News, http://www.mprnews.org</p> 
+					<div class="clearL"></div>
+					
+							
+			</div>
+			
+			
+			
+			
+			<div id="dspDetail_linksBottom" class="navPaginate padBtm">
+				
+					<a href="/?page=mscontent.saveContentMsg&showlayout=0&id=895219&nav=5031&isAP=1" title="Save Story">Save</a> | 
+					
+			</div>
+			
+	</div>
+	
+    
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=148801691829175";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-like" data-href="http://www.nujournal.com/page/content.detail/id/895219/Bag-causes-ticketing-area-shutdown-at-Twin-Cities-airport.html?nav=5031" data-send="false" data-width="430" data-show-faces="true" data-action="recommend"></div>
+    
+    
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<g:plusone></g:plusone>
+    
+</div>
+<div class="cBdrFdr">
+	<div class="cBdrBL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBR"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBC"><img src="/images/spacer.gif" border="0" width="1" height="5" /></div>
+</div>
+		
+		<div class="padBtm txtCenter" style="border:1px #ccc solid; padding:5px;"><a href="/page/ecocat.list/online-store.html"><strong>Subscribe to The Journal</strong></a></div> 
+	<div class="padBtm txtCenter">
+		<script type="text/javascript">
+		  GA_googleFillSlot("CMSv2_Bottom1_420x200");
+		</script>
+	</div>
+
+			
+			
+		</td>
+		<td id="mBdyRC" valign="top">
+			<div id="weatherMag">
+	<div id="weatherMagL">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x95_74x60");
+	</script>
+</div>
+	<div id="weatherMagR">&nbsp;</div>
+	<div class="clear"></div>
+</div>
+			
+			
+
+
+
+<script type="text/javascript">
+
+	var xmlhttpSearch = false;
+	var headingsArray = new Array();
+	var headingsIDArray = new Array();
+
+	
+	function getSearchXML() {
+		xmlhttpSearch=GetXmlHttpObjectSearch();
+		if (xmlhttpSearch==null) {
+			  alert ("Sorry, but I couldn't create an XMLHttpRequest");
+		}
+	
+		if (xmlhttpSearch) {
+			xmlhttpSearch.onreadystatechange = setheadingsArray;
+			xmlhttpSearch.open("GET", "/shared/localSearch/headings.xml", true);
+			xmlhttpSearch.send(null);
+		}
+		else {
+			alert("Sorry, but I couldn't create an XMLHttpRequest");
+		}
+	
+		function GetXmlHttpObjectSearch() {
+			if (window.XMLHttpRequest) {
+			  /* code for IE7+, Firefox, Chrome, Opera, Safari */
+			  return new XMLHttpRequest();
+			}
+			if (window.ActiveXObject) {
+			  /* code for IE6, IE5 */
+			  return new ActiveXObject('Microsoft.XMLHTTP');
+			}
+			return null;
+		}
+	}
+
+	function setheadingsArray() {
+		if (xmlhttpSearch.readyState == 4) {
+			if (xmlhttpSearch.status == 200) {
+				if (xmlhttpSearch.responseXML) {
+					var allHeadingss = xmlhttpSearch.responseXML.getElementsByTagName("item");
+					for (var i=0; i<allHeadingss.length; i++) {
+						headingsArray[i] = allHeadingss[i].getElementsByTagName("headingName")[0].firstChild;
+						headingsIDArray[i] = allHeadingss[i].getElementsByTagName("localSearchHeadingID")[0].firstChild;
+					}
+					searchBoxSuggest();
+				}
+			}
+		}
+	}
+
+	function searchBoxSuggest() {
+		if ( !headingsArray.length ) {
+			getSearchXML();
+		}
+		var str = document.getElementById("searchBox").value;
+		if (str != "") {
+			document.getElementById("popupsSearch").innerHTML = "";
+			document.getElementById("popupsSearch").style.display = '';
+		
+			for (var i=0; i<headingsArray.length; i++) {
+				var thisHeading = headingsArray[i].nodeValue;
+		
+				if (thisHeading.toLowerCase().indexOf(str.toLowerCase()) == 0) {
+					var thisHeadingID = headingsIDArray[i].nodeValue;
+					var tempDiv = document.createElement("div");
+					var titleURL = thisHeading.replace(/\&amp;/g,'&');
+					var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-');
+					tempDiv.innerHTML = thisHeading;
+					tempDiv.onclick = new Function('makeSearchChoice('+thisHeadingID+',this.innerHTML)');
+					/*tempDiv.onclick = function (){var titleURL = thisCurrentHeading.replace(/\&amp;/g,'&'); var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-'); window.location="/page/local.headDetail/id/" + thisHeadingID + "/" + titleURL + ".html";}; */
+					tempDiv.className = "suggestionsSearch";
+					tempDiv.style.cursor = "pointer";
+					document.getElementById("popupsSearch").appendChild(tempDiv);
+					document.getElementById("popupsSearch").style.backgroundColor='#fff';
+					document.getElementById("popupsSearch").style.border="1px solid #999"; 
+					document.getElementById("popupsSearch").style.height="250px";
+				}
+			}
+			if ( document.getElementById("popupsSearch").innerHTML.length == 0 ) {
+				document.getElementById("popupsSearch").style.display = 'none';
+			}
+		} else {
+			document.getElementById("popupsSearch").innerHTML = "";
+			document.getElementById("popupsSearch").style.display = "none";
+		}
+				
+	}
+	
+	function onBlurSearchSuggestions() {
+		if ( document.activeElement != document.getElementById("popupsSearch") ) {
+			var delay = 250;
+			setTimeout('hideSearchSuggestions()', delay);
+		}
+	}
+
+	function onBlurSearchResults() {
+		if ( document.activeElement != document.getElementById("searchBox") ) {
+			var delay = 250;
+			setTimeout('hideSearchSuggestions()', delay);
+		}
+	}
+
+	function hideSearchSuggestions() {
+		document.getElementById('popupsSearch').innerHTML = "";
+		document.getElementById('popupsSearch').style.display = 'none';
+	}
+	
+	document.onclick = onBlurSearchResults;
+
+	function makeSearchChoice(chosen,urlTitle) {
+		/* added catch to remove category name from search term */
+		if ( urlTitle.toLowerCase().search('<a>') != -1 ) {
+			var endPoint = urlTitle.toLowerCase().search('<a>');
+			var urlTitle = urlTitle.substr(0, endPoint-1);
+		}
+		/*var thisDiv = (evt) ? evt.target : window.event.srcElement; */
+		document.getElementById("popupsSearch").innerHTML = "";
+		/*var titleURL = urlTitle.replace(/\&amp;/g,'&');
+		var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-');
+		window.location="/page/local.headDetail/id/" + chosen + "/" + titleURL + ".html";*/
+		window.location="/page/local.searchBoxCatchAutocomplete/id/" + chosen + "/text/" + urlTitle;		
+		document.getElementById("popupsSearch").style.display = "none";
+		/*document.getElementById('searchBox').value = thisDiv.innerHTML.replace(/\&amp;/g,'&'); */
+		/*document.getElementById("popupsSearch").innerHTML = ""; */
+	}
+	
+</script>
+<div id="searchHeaderClass" class="cBdrHdr">
+	<div class="cBdrTLOn">&nbsp;</div>
+	<div class="cBdrTROn">&nbsp;</div>
+	<div class="cBdrTC"><h2 id="searchHeaderTitle" class="color_lBlue">&nbsp;</h2></div>
+</div>
+<div class="cBdrMain">
+	
+	<form id="frmSiteSearch" action="/page/search.results" method="get">
+		
+		<input type="hidden" name="nav" value="-1" />
+		<h5>I am looking for:</h5>
+		<div><input name="keywords" id="siteSearchBox" value="" autocomplete="off" type="text" size="24" maxlength="128" /> <input name="btnSiteSearch" type="submit" value="Search" class="fButton" /></div>
+		<div id="searchDateRange" class="txtSmaller" style="display:none;">
+			<strong class="dim">between:</strong><br />
+			<input size="10" type="text" id="StartDate" name="StartDate" readonly="readonly" />
+			<a href="javascript:StartDate.popup();"><img src="/templates/calendar/img/cal.gif" width="16" height="16" border="0" alt="Click Here to Select Date"></a>
+				<strong class="dim">and</strong>
+			<input size="10" type="text" id="EndDate" name="EndDate" readonly="readonly" />
+			<a href="javascript:EndDate.popup();"><img src="/templates/calendar/img/cal.gif" width="16" height="16" border="0" alt="Click Here to Select Date"></a>
+		</div>
+	</form>
+	<form id="frmWebSearch" style="display:none;" action="/page/search.resultsWeb" method="get">
+		<h5>I am looking for:</h5>
+		<div><input name="q" id="webSearchBox" value="" autocomplete="off" type="text" size="24" maxlength="128" /> <input name="btnWebSearch" type="submit" value="Search" class="fButton" /></div>
+	</form>
+
+	<form id="frmEzSearch" style="display:none;"  action="" method="get" enctype="application/x-www-form-urlencoded" name="NameSearch" target="_blank" class="odistyle28">
+		<h5>I am looking for:</h5>
+		<div><input name="name" id="ezSearchBox" value="" autocomplete="off" type="text" size="24" maxlength="128" /> <input name="btnEzSearch" type="submit" value="Search" class="fButton" /></div>
+	</form>
+
+
+
+	<div class="txtSmaller"><strong class="dim">in:</strong><br />
+		<input name="btnSearchSelect" type="radio" class="radioBtn" onclick="changeSearch('site');" id="btnSite">News, Blogs & Events 
+		<input name="btnSearchSelect" type="radio" class="radioBtn" onclick="changeSearch('web');" id="btnWeb">Web 
+		<input name="btnSearchSelect" type="radio" class="radioBtn" onclick="changeSearch('ez');" id="btnEz"><label id="btnEzLabel">EZToUse.com</label>
+	</div>
+	
+	<script type="text/javascript">
+	
+		function changeSearch(chosen) {
+			if (chosen == 'site') {
+				document.getElementById('searchHeaderClass').className = 'cBdrHdr';
+				document.getElementById('searchHeaderTitle').innerHTML = 'News, Blogs & Events';
+				document.getElementById('frmSiteSearch').style.display = '';
+				document.getElementById('frmWebSearch').style.display = 'none';
+				document.getElementById('frmEzSearch').style.display = 'none';
+				if ( document.getElementById('webSearchBox').value.length ) {
+					 document.getElementById('siteSearchBox').value =  document.getElementById('webSearchBox').value;
+					 document.getElementById('webSearchBox').value = '';
+				}
+				if ( document.getElementById('ezSearchBox').value.length ) {
+					 document.getElementById('siteSearchBox').value =  document.getElementById('ezSearchBox').value;
+					 document.getElementById('ezSearchBox').value = '';
+				}
+			}
+			if (chosen == 'web') {
+				document.getElementById('searchHeaderClass').className = 'cBdrHdr';
+				document.getElementById('searchHeaderTitle').innerHTML = 'Web Search';
+				document.getElementById('frmSiteSearch').style.display = 'none';
+				document.getElementById('frmWebSearch').style.display = '';
+				document.getElementById('frmEzSearch').style.display = 'none';
+				if ( document.getElementById('siteSearchBox').value.length ) {
+					 document.getElementById('webSearchBox').value =  document.getElementById('siteSearchBox').value;
+					 document.getElementById('siteSearchBox').value = '';
+				}
+				if ( document.getElementById('ezSearchBox').value.length ) {
+					 document.getElementById('webSearchBox').value =  document.getElementById('ezSearchBox').value;
+					 document.getElementById('ezSearchBox').value = '';
+				}
+			}
+			if (chosen == 'ez') {
+				document.getElementById('searchHeaderClass').className = 'cBdrHdr';
+				document.getElementById('searchHeaderTitle').innerHTML = 'EZToUse.com';
+				document.getElementById('frmSiteSearch').style.display = 'none';
+				document.getElementById('frmWebSearch').style.display = 'none';
+				document.getElementById('frmEzSearch').style.display = '';
+				if ( document.getElementById('siteSearchBox').value.length ) {
+					 document.getElementById('ezSearchBox').value =  document.getElementById('siteSearchBox').value;
+					 document.getElementById('siteSearchBox').value = '';
+				}
+				if ( document.getElementById('webSearchBox').value.length ) {
+					 document.getElementById('ezSearchBox').value =  document.getElementById('webSearchBox').value;
+					 document.getElementById('webSearchBox').value = '';
+				}
+			}
+		}
+		
+		if ( 0 == 0 ) {
+			changeSearch('site');
+			document.getElementById('btnSite').checked = true;
+			if ( 0 == 0 ) {
+				document.getElementById('btnEz').style.display = 'none';
+				document.getElementById('btnEzLabel').style.display = 'none';
+			}
+				
+		}
+
+		function getQuerystring(key, default_) {
+			if (default_==null) { 
+				default_=""; 
+			} 
+			var search = unescape(location.search); 
+			if (search == "") { 
+				return default_; 
+			} 
+			search = search.substr(1); 
+			var params = search.split("&"); 
+			for (var i = 0; i < params.length; i++) { 
+				var pairs = params[i].split("="); 
+				if(pairs[0] == key) { 
+					if ( pairs[0] == 'keywords' && pairs[1].length == 0 ) {
+						pairs[1] = ' ';
+					}
+					return pairs[1]; 
+				} 
+			} 
+			return default_; 
+		}	
+			
+		if (getQuerystring('keywords')) {
+			changeSearch('site');
+			document.getElementById('siteSearchBox').value = getQuerystring('keywords').replace(/\+/g," ").replace(/%2B/g," ");
+			document.getElementById('btnSite').checked = true;
+		}
+		if (getQuerystring('q')) {
+			changeSearch('web');
+			document.getElementById('webSearchBox').value = getQuerystring('q').replace(/\+/g," ").replace(/%2B/g," ");
+			document.getElementById('btnWeb').checked = true;
+		}
+		if (getQuerystring('StartDate')) {
+			document.getElementById('StartDate').value = getQuerystring('StartDate');
+		}
+		if (getQuerystring('EndDate')) {
+			document.getElementById('EndDate').value = getQuerystring('EndDate');
+		}
+		
+		var findFuseaction = "search.results" ;
+		fuseactionFound = window.location.href.indexOf(findFuseaction);
+		if (fuseactionFound != -1) {
+			if (document.getElementById('searchDateRange')){
+				document.getElementById('searchDateRange').style.display = '';
+			}
+		} else {	
+			if (document.getElementById('searchDateRange')){
+				document.getElementById('searchDateRange').style.display = 'none';
+			}
+		}
+	
+	</script>
+	
+	
+<script type="text/JavaScript" src="/templates/calendar/calendar2.js"></script>
+
+<script type="text/javascript">
+	if ( document.getElementById('StartDate') ) {
+		 /* create calendar object(s) just after form tag closed */
+		 /* specify form element as the only parameter (document.forms['formname'].elements['inputname']); */
+		 /* note: you can have as many calendar objects as you need for your application */
+		var StartDate = new calendar2(document.getElementById('StartDate'));
+			StartDate.year_scroll = true;
+			StartDate.time_comp = false;
+	}
+</script>
+
+
+<script type="text/javascript">
+	if ( document.getElementById('EndDate') ) {
+		 /* create calendar object(s) just after form tag closed */
+		 /* specify form element as the only parameter (document.forms['formname'].elements['inputname']); */
+		 /* note: you can have as many calendar objects as you need for your application */
+		var EndDate = new calendar2(document.getElementById('EndDate'));
+			EndDate.year_scroll = true;
+			EndDate.time_comp = false;
+	}
+</script>
+
+</div>
+<div class="cBdrFdr">
+	<div class="cBdrBL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBR"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBC"><img src="/images/spacer.gif" border="0" width="1" height="5" /></div>
+</div>
+			
+			
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Middle_300x250");
+	</script>
+</div>
+			
+			
+			
+			
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x40_234x60");
+	</script>
+</div>
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x41_234x60");
+	</script>
+</div>
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x42_234x60");
+	</script>
+</div>
+		</td>
+	</tr>
+</table>	</div>
+	<div id="bdyR"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="clear"></div>
+</div>
+
+<div class="adBlock_bottom">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Bottom_728x90");
+	</script>
+
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x94_0x0");
+	</script>
+</div>
+
+<div class="footer">
+	<h4 class="color_white">The Journal</h4>
+	<p>303 N. Minnesota , New Ulm, MN 56073 | 507-359-2911</p>
+	<p>&copy; 2015. All rights reserved.| <a href="/tos.html">Terms of Service and Privacy Policy</a></p>
+</div>
+</body>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-3163167-1";
+urchinTracker();
+</script>
+</html> 

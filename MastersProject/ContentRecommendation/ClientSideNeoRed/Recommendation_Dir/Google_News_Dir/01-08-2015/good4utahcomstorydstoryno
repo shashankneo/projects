@@ -1,0 +1,1851 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script charset="UTF-8" type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>
+
+<link href="/Theme/Index/35?hash=08D7B1437B172AC0E774AED8BAB88C94" rel="stylesheet"/>
+
+<link href="/bundler/NonThemeCss?v=RQz58PBPiAX9UQCybbfMPkfO33wv39gGmQRFOVCaIi41" rel="stylesheet"/>
+
+
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+
+
+<!--[if lt IE 9]>
+    <script src='/ScriptsUnbundled/html5shiv.js'></script>
+<![endif]-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src='/ScriptsUnbundled/bootstrap.min.js'></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+<meta name="publication_date" content="201508010607" />
+<meta name="title" content="Northern California Wild Fires" />
+<meta property="og:title" content="Northern California Wild Fires" />
+<link rel="image_src" href="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/08/01/23/58/wrtjhdtldnrpantrkyng.jpg" />
+<meta property="og:image" content="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/08/01/23/58/wrtjhdtldnrpantrkyng.jpg" />
+<meta name="medium" content="news" />
+<meta name="description" content="California’s Governor has declared a state of emergency as fourteen wildfires burn across Northern California. " />
+<meta property="og:description" content="California’s Governor has declared a state of emergency as fourteen wildfires burn across Northern California. " />
+<meta property="og:url" content="http://www.good4utah.com/story/d/story/northern-california-wild-fires/82460/OigtvAtJCkeWIMQJIxa9CQ" />
+<meta property="og:site_name" content="Good4Utah" />
+<meta name="keywords" content="ABC4.com, utah news, weather, good things, ktvx, channel 4, salt lake city, 4utah, KUCW, CW30, Channel 30" />
+<meta name="twitter:card" content="summary" />
+<meta name="google-site-verification" content="cNZZVGyU0WJuAlBg9vWhpIcfCczO8CSV7l8yL98jgok" />
+<title>Northern California Wild Fires - Good4Utah.com</title>
+<link rel="shortcut icon" href="http://cdn.idstatic.com/cms/live/2/favIcon_48x48.ico" />
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37144901-40']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+            var elem = document.createElement('script');
+
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+    </script>
+<script type='text/javascript'>
+    //<![CDATA[
+    (function() {
+        window.gravityInsightsParams = {
+            'type': 'content',
+            'action': '',
+            'site_guid': '31e849c01c401d1ba4a47cf0242e2d28'
+        };
+        var adServerReq, bUrl, cburl, doUseGravityUserGuid, includeJs, jq, pfurl, type, ug, wlPrefix, wlUrl, _ref, _ref1, _ref2;
+        includeJs = function(a) {
+            var b;
+            b = document.createElement("script");
+            b.async = !0;
+            b.src = a;
+            a = document.getElementsByTagName("script")[0];
+            return a.parentNode.insertBefore(b, a)
+        };
+        bUrl = "https:" === document.location.protocol ? "https://b-ssl.grvcdn.com/moth-min.js" : "http://b.grvcdn.com/moth-min.js";
+        ug = (doUseGravityUserGuid = !0 === gravityInsightsParams.useGravityUserGuid ? 1 : 0) ? "" : gravityInsightsParams.user_guid || (null != (_ref = /grvinsights=([^;]+)/.exec(document.cookie)) ? _ref[1] : void 0) || "";
+        wlUrl = (wlPrefix = "", "");
+        bUrl && includeJs(bUrl);
+        wlUrl && (window.gravityInsightsParams.sidebar && (window.gravityInsightsParams.wlStartTime = (new Date).getTime()), includeJs(wlUrl));
+    })();
+    //]]>
+</script></head>
+<body id="ng-app" ng-app="cms3" auto-refresh-minutes="20">
+    <script type="text/javascript" language="JavaScript" src='/Utility/Netinsight'></script>
+
+    <script type="text/javascript" language="JavaScript" src='/Utility/NetinsightRollUp'></script>
+
+
+
+
+<div class="region-signin">
+    <div class="container">
+        <div class="span12 header1">
+            <div class="row">
+                <div class="non-mobile-widget span4"><div class="row">
+<!--<a class="signin-link" href="/home" data-mce-href="/home"> <i class="fa fa-home"></i> Home </a>--> <a class="signin-link" href="http://www.4utah.com/rss/1451.rss" data-mce-href="http://www.4utah.com/rss/1451.rss"> <i class="fa fa-rss"></i> RSS </a> <a class="signin-link" href="http://www2.4utah.com/sms/default.aspx" data-mce-href="http://www2.4utah.com/sms/default.aspx"> <i class="fa fa-bell-o"></i> Alerts </a> <a class="signin-link" href="/apps" data-mce-href="/apps"> <i class="fa fa-mobile"></i> Mobile </a> <a class="signin-link" href="/emailsignup">Email Updates</a>
+<style>
+  
+  .header1 .span3 {
+width:60px;
+}
+  .region-signin .header1 {
+    width:110%;
+}
+  #beehive #blitz {
+        color: transparent;
+    background: url('http://www.centralmediaserver.com/ktvx/beehive-blitz-logo.png');
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+ </style>
+</div>
+</div>
+<div class="non-mobile-widget span6"><div class="row">
+
+<div class="widget-container search" ng-controller="siteSearch" ng-form="searchForm" name="form" ng-init="init('/sitesearch?q={query}')" >
+    <select class="search-select" ng-model="searchOption" required="">
+        
+        <option class="search-option" ng-selected="'/sitesearch?q={query}'" value="/sitesearch?q={query}">
+            Site Search
+        </option>
+        
+        
+        <option class="search-option"  value="/websearch?q={query}&amp;cx=partner-pub-6859147819468892:p3vndv-s2u0&amp;cof=FORID:11&amp;channel=9175143995&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1">
+            Web Search
+        </option>
+        
+        
+        <option class="search-option"  value="/videosearch?q={query}">
+            Video Search
+        </option>
+        
+    </select>
+    <input type="text" name="searchText" class="search-field" placeholder="What are you looking for?" ng-model="searchText" ng-trim="" required="" ng-enter="search()"/>
+    <input type="button" class="btn search-button" name="btnSearchSubmit" value="Search" ng-click="search()" ng-disabled="form.$invalid" ng-enter="search()"/>
+</div>
+
+
+</div>
+</div>
+<div class="non-mobile-widget span3"><div class="row">
+
+<div class="widget-container guestBar-widget ng-cloak" ng-controller="guestBar" ng-switch="" on="displayMode" ng-init="init('/login','/account/logout/')">
+    <section ng-switch-when="notauthenticated">
+        <a href="#" eat-click ng-click="signIn()">
+            <i class="fa fa-sign-in"></i>
+            Sign In
+        </a>
+    </section>
+    <section ng-switch-when="authenticated">
+        <a href="/guestprofile" class="signed-in">
+            <i class="fa fa-user"></i>
+            [[username]]
+        </a>
+        <a href="#" class="sign-out" eat-click ng-click="signout()">
+            <i class="fa fa-sign-out"></i>
+            Sign Out
+        </a>
+    </section>
+</div>
+
+
+
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<style>
+  .region-navigation .nav-top, .region-navigation .nav-sub {
+width: 110% !important;
+}
+  .region-navigation .nav-top .nav-item .nav-link {
+    font-family: roboto !important;
+}
+  .story .story-title {
+    font-family: roboto !important;
+  }
+  </style>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<style>
+ ul.dropdown li {
+	 color:white;
+	 background:#2E3641;
+	 padding-left:10px;
+	 font-family: 'Roboto', sans-serif;
+	 text-decoration:none !important;
+	 width: 155px;
+	 display:block;
+ }
+ ul.dropdown li:hover {
+	 background:#191919;
+ }
+ ul.dropdown li a {
+	 color:white;
+	 text-decoration:none !important;
+ }
+ ul.dropdown li ul li {
+	 margin-left: -40px;
+	 height:25px;
+ }
+ ul.dropdown li ul {
+	 display:none;
+   margin-top: 5px;
+   margin-left: 30px;
+ }
+ul.dropdown li:hover > ul {
+	display: block;
+	}
+.dropdown {
+z-index: 100;
+left: 833px;
+width: 155px;
+top: 147px;
+}
+#live_cam {
+height: 24px;
+position: relative;
+top: -6px;
+padding-top: 6px;
+width: 155px;
+}
+  ul.dropdown li ul li img {
+    float:left; 
+    width:20px; 
+    height: 20px;
+	  padding-right: 5px;
+    margin-left:-5px;
+  }
+</style>
+	<ul class="dropdown">
+    <li id="live_cam"><a href="/weather#pinpointCameras">Live Cams</a>
+			<ul>
+				<li><a href="/salt-lake-live-cam"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/HR_Bullet.png">Downtown SLC</a></li>
+				<li><a href="/cottonwood-heights-live-camera"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/Lemon_Bullet.png">Cottonwood Heights</a></li>
+				<li><a href="/highland-live-camera"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/Lemon_Bullet.png">Highland</a></li>
+        <li><a href="/sandy-live-camera"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/Lemon_Bullet.png">Sandy</a></li>
+        <li><a href="/ogden-live-camera"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/Lemon_Bullet.png">Ogden</a></li>
+        <li><a href="/salt-lake-city-live-camera"><img src="http://www.centralmediaserver.com/ktvx/Blue_Lemon/Lemon_Bullet.png">Salt Lake City</a></li>
+			</ul>
+		</li>
+	</ul>
+
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<header class="region-masthead">
+    <div class="container">
+        <div class="span12 header2">
+            <div class="row">
+                <div class="non-mobile-widget span12"><div class="row">
+ <meta name="apple-itunes-app" content="app-id=585373069">
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<style>
+  .weather-pulldown .weather-image .link .contentImage {
+    background-color: transparent;
+    background:url(http://www.good4utah.com/media/files/cctvi_weather/ktvx/Air_Quality.jpg);
+    background-size:100% 100%;
+		background-position: right bottom;
+}
+  </style>
+<div class="widget-container weather-pulldown">
+    
+        <div class="weather-toggle" style="display:none;">
+            <div class="daily-forecasts">
+                
+                    <div class="daily-forecast-item">
+                        <span class="date">
+                            Sunday
+                        </span>
+                        <img class="image" src="http://www.centralmediaserver.com/ktvx/New_Weather_Widget/Weather_Icons/small/partly_cloudy.png" alt="Sunday" />
+                        <span class="temps">
+                            94&deg;F | 70&deg;F
+                        </span>
+                    </div>
+                
+                    <div class="daily-forecast-item">
+                        <span class="date">
+                            Monday
+                        </span>
+                        <img class="image" src="http://www.centralmediaserver.com/ktvx/New_Weather_Widget/Weather_Icons/small/partly_cloudy.png" alt="Monday" />
+                        <span class="temps">
+                            92&deg;F | 71&deg;F
+                        </span>
+                    </div>
+                
+                    <div class="daily-forecast-item">
+                        <span class="date">
+                            Tuesday
+                        </span>
+                        <img class="image" src="http://www.centralmediaserver.com/ktvx/New_Weather_Widget/Weather_Icons/small/partly_cloudy.png" alt="Tuesday" />
+                        <span class="temps">
+                            93&deg;F | 69&deg;F
+                        </span>
+                    </div>
+                
+            </div>
+            <div class="weather-image">
+                
+                    
+                        <a class="link" href="/weather?ActiveTab=radar">
+                          <div class="contentImage"></div>
+                            <span class="title">Air Quality</span>
+                        </a>
+                    
+                
+            </div>
+        </div>
+        <div class="weather-current">
+            
+                <img class="image" src="http://www.centralmediaserver.com/ktvx/New_Weather_Widget/Weather_Icons/Small/Mostly_Cloudy_Ngt.png" />
+                <div class="details">
+                    82&deg;F
+                </div>
+            
+    
+            
+                <div class="sponsorad">
+                    Sponsored by
+                    <div class="sponsoredadwidget"><div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3021450/0/13/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div></div>
+                </div>
+            
+            <div class="pulldown">
+                <i class="fa fa-angle-double-down"></i>
+            </div>
+        </div>
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+ <!-- <a href="/home" data-mce-href="/home"> <img alt="4utah" src="" data-mce-src=""> </a> -->
+
+<link href="http://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,400italic,700,700italic,300" rel="stylesheet" type="text/css">
+
+
+<div><a href="/"><img style="undefined" src="http://cdn.idstatic.com/cms/live/2/abctab3.png?1395158335" style="top:80px;"></a></div>
+<!--
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-DeL_GR0q-S13K.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ -->
+
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<style>
+
+.region-navigation .nav-sub {
+    width: 102%;
+}
+  </style>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<style>
+    .tabbed-headline-carousel .tab-content .ui-tabs-panel .tabbedheadline.right .currentheadline .viewport .featured .contentImage {
+    height: auto;
+    width: 460px;
+}
+    .WeatherImage {
+    width:100%;
+    height:auto;
+  }
+  .region-navigation .nav-top .nav-item .nav-link, .region-navigation .nav-sub .nav-item .nav-link {
+    padding: 0px 10px;
+  }
+    .weather-pulldown .weather-current .details {
+    margin-left: -10px;
+}
+  h1.story-title, .slideshow-title, .contentTitle {
+font-family:roboto !important;
+}
+  .slideshow-detail .main-photo .controls.right {
+    right: 0px !important;
+}
+#custom {
+    height: 474px; 
+   overflow: hidden; 
+   background: url("http://cdn.idstatic.com/cms/live/2/HP-Carousel_bkg.png?1390951229") no-repeat scroll left top rgb(23, 24, 24);" 
+   }
+  P, br {
+  text-align:justify;
+  }
+  .region-navigation .nav-sub {
+    width: 110%;
+}
+    .region-navigation .nav-sub {
+    width: 120%;
+}  <!--background-image:url(http://cdn.idstatic.com/cms/live/2/spring-responsive.png?1395172341);-->
+
+.region-navigation .nav-sub {
+    width: 110%;
+}
+.headlines .list .item.featured .link .wrap {
+  float: right;
+  height: 120px;  
+  margin-bottom: 5px;
+  margin-left: 0px;  
+  overflow: hidden;
+  position: relative;
+  width: 120px;
+}
+  
+.headlines .list .item.featured .link .wrap .image {
+  width: 210px;
+}
+  
+.headlines .list .item.featured .title {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.05;
+  margin: 0;
+  
+}
+.headlines .list .item.featured .title .link {
+  color: #222222;
+  font-family: 'Roboto Condensed', Arial Narrow !important;
+  text-transform: uppercase;
+  
+}
+  
+.headlines .list .item.linked .title .link {
+  color: #222222;
+  display: block;
+  font-family: Roboto Condensed, Arial Narrow;
+}
+  
+.headlines .list .item.featured .link .wrap i {
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 50px;
+  left: 15px;
+  position: absolute;
+  bottom: 12px;
+}
+
+.right {
+right: -140px !important;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+
+.slideshow-detail .slideshow-title {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.takeover-breakingnews .left .primary-article .title {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.carousel-widget .carousel-container .wrap .carousel .carousel-item .headline .contentTitle {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.headlines .list .item.featured .title .link {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.headlines .list .item.featured .tease {
+  text-align:justify; /*alteration*/
+}
+.headlines .list .item.linked .title .link {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.headlines .more .link {
+  font-family: 'Roboto Condensed', sans-serif !important; /*alteration*/
+}
+.story .story-title {
+  font-family: 'Roboto', sans-serif !important; /*alteration*/
+}
+.story .story-content .story-media .outtake .text {
+  font-family: 'Roboto', sans-serif; /*alteration*/
+}
+.tabbed-headline-carousel .tab-content .ui-tabs-panel .tabbedheadline .currentheadline .viewport .featured .contentTitle {
+  font-family: 'Roboto', sans-serif !important; /*alteration*/
+}
+.tabbed-headline-carousel .tab-content .ui-tabs-panel .tabbedheadline .wrap .carousel .carousel-item {
+  height: 140px; /*alteration*/
+}
+
+.region-navigation .nav-sub {
+    width: 110%;
+}
+.headlines .list .item.featured .link .wrap {
+  float: right;
+  height: 120px;  
+  margin-bottom: 5px;
+  margin-left: 0px;  
+  overflow: hidden;
+  position: relative;
+  width: 120px;
+}
+  
+.headlines .list .item.featured .link .wrap .image {
+  width: 210px;
+}
+  
+.headlines .list .item.featured .title {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.05;
+  margin: 0;
+  
+}
+.headlines .list .item.featured .title .link {
+  color: #222222;
+  font-family: 'Roboto Condensed', Arial Narrow;
+  text-transform: uppercase;
+  
+}
+  
+.headlines .list .item.linked .title .link {
+  color: #222222;
+  display: block;
+  font-family: Roboto Condensed, Arial Narrow;
+}
+  
+.headlines .list .item.featured .link .wrap i {
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 50px;
+  left: 15px;
+  position: absolute;
+  bottom: 12px;
+}
+
+.right {right: -140px !important;}
+  .region-masthead {
+    background-image: url('http://www.centralmediaserver.com/ktvx/winter-responsive.jpg');
+    background-position: 60% center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+ #Deals4Utah {
+    color: transparent !important;
+    background: url("http://www.centralmediaserver.com/ktvx/Deals_4Utah.png") no-repeat scroll center center / contain transparent;
+}
+  .nav-top .nav-item, .nav-sub .nav-item {
+    font-family: "Roboto", sans-serif;
+  }
+  </style>
+</div>
+</div>
+
+            </div>
+        </div>	
+    </div>
+</header>
+<nav class="region-navigation">
+    <div class="container">
+        <div class="span12 header3">
+            <div class="row">
+                <div class="non-mobile-widget span12"><div class="row">
+<style>
+.region-navigation {
+    background: url('http://cdn.idstatic.com/cms/live/222/NavBackgroundBottom.png?1372437739') repeat-x scroll left 30px #2E3641;
+}
+.region-footer {
+    background-color: #2E3641;
+}
+  </style>
+</div>
+</div>
+<div class="span12"><div class="row">
+
+<ul class="visible-desktop desktop-nav nav-top">
+    
+        <li class="nav-item">
+            <a class="nav-link active "
+                
+                    href="/home"
+                
+                title="Home"
+                
+
+                >
+                Home
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/weather"
+                
+                title="Weather"
+                
+
+                >
+                Weather
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/traffic"
+                
+                title="Traffic"
+                
+
+                >
+                Traffic
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/contests"
+                
+                title="Contests"
+                
+
+                >
+                Contests
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/news"
+                
+                title="News"
+                
+
+                >
+                News
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/gtu"
+                
+                title="Good Things Utah"
+                
+
+                >
+                Good Things Utah
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/sports"
+                
+                title="Sports"
+                
+
+                >
+                Sports
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="http://health.4utah.com "
+                
+                title="Healthy"
+                
+
+                >
+                Healthy
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/events"
+                
+                title="Events"
+                
+
+                >
+                Events
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="/station"
+                
+                title="Station Info"
+                
+
+                >
+                Station Info
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="http://good4utah.biz"
+                
+                title="Local Business"
+                
+
+                >
+                Local Business
+            </a>
+        </li>
+    
+        <li class="nav-item">
+            <a class="nav-link  "
+                
+                    href="http://good4utah.biz/autos/"
+                
+                title="Cars"
+                
+
+                >
+                Cars
+            </a>
+        </li>
+    
+</ul>
+<ul class="visible-desktop desktop-nav nav-sub">
+    
+    <li class="nav-item"  id="Deals4Utah">
+        <a class="nav-link  "  id="Deals4Utah"
+        
+           href="http://www.Deals4Utah.com"
+        
+           title="Deals4Utah"
+        
+            >
+            Deals4Utah
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="TV Schedule">
+        <a class="nav-link  "  id="TV Schedule"
+        
+           href="http://www.good4utah.com/tv?source=navbar"
+        
+           title="TV Schedule"
+        
+            >
+            TV Schedule
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Meet Our Team">
+        <a class="nav-link  "  id="Meet Our Team"
+        
+           href="/team"
+        
+           title="Meet Our Team"
+        
+            >
+            Meet Our Team
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Utah Works">
+        <a class="nav-link  "  id="Utah Works"
+        
+           href="/utahworks"
+        
+           title="Utah Works"
+        
+            >
+            Utah Works
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Wirth Watching">
+        <a class="nav-link  "  id="Wirth Watching"
+        
+           href="/wirthwatching"
+        
+           title="Wirth Watching"
+        
+            >
+            Wirth Watching
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Outta Here!">
+        <a class="nav-link  "  id="Outta Here!"
+        
+           href="/outta-here"
+        
+           title="Outta Here!"
+        
+            >
+            Outta Here!
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Ask The Expert">
+        <a class="nav-link  "  id="Ask The Expert"
+        
+           href="/expert"
+        
+           title="Ask The Expert"
+        
+            >
+            Ask The Expert
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Comic Con">
+        <a class="nav-link  "  id="Comic Con"
+        
+           href="/comiccon"
+        
+           title="Comic Con"
+        
+            >
+            Comic Con
+        </a>
+    </li>
+    
+    <li class="nav-item"  id="Road Tour">
+        <a class="nav-link  "  id="Road Tour"
+        
+           href="/roadtour"
+        
+           title="Road Tour"
+        
+            >
+            Road Tour
+        </a>
+    </li>
+    
+</ul>
+
+
+<style>
+ [id='Beehive Blitz'] {
+   color: transparent !important;
+    background: url('http://www.centralmediaserver.com/ktvx/beehive-blitz-logo.png');
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+li[id='Beehive Bliz'] a.nav-link {
+color: transparent;
+}
+   [id='Deals4Utah'] {
+   color: transparent !important;
+    background: url('http://www.centralmediaserver.com/ktvx/Deals_4Utah.png');
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+li[id='Deals4Utah'] a.nav-link {
+color: transparent;
+}
+</style>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</nav>
+<section class="region-pagecontent">
+    <div class="container">
+        <div class="span12 top12">
+            <div class="row">
+                <div class="span9"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017963/0/225/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span3"><div class="row">
+<iframe src="http://good4utah.biz/tools/widgets/nexstar_coupon_widget.php" style="border:0; margin-bottom:-100px; margin-top:-7px; margin-left: -30px;"></iframe>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<div class="widget-container redbar-tab tabs ng-cloak" ng-controller="redbar" ng-init="init()">
+    <ul class="nav nav-tabs">
+        
+        
+        
+    </ul>
+    
+    
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017962/0/16/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+ <style>
+   .right {
+right: -140px !important;
+}
+   .story .media .featured-media .viewport-wrapper .viewport .media-item .image img {
+    display: block;
+   height: auto;
+    margin-top: -36px;
+    width: 690px;
+}
+   .story .media .featured-media .viewport-wrapper {
+    background-color: transparent;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+</style>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="span8 main8">
+            <div class="row">
+                <div class="non-mobile-widget span12"><div class="row">
+<script async src="http://i.simpli.fi/dpx.js?cid=18701&action=100&segment=goodforutahvideotest&m=1&sifi_tuid=3526"></script>
+</div>
+</div>
+<div class="span12"><div class="row">
+
+<!-- Story Detail display -->
+<div class="story" itemscope="" itemtype="http://schema.org/NewsArticle" role="main"> 
+    <meta itemprop="description" content="California&#8217;s Governor has declared a state of emergency as fourteen wildfires burn across Northern California. " />
+    <meta itemprop="image" content="" />
+    
+    
+    <article ng-controller="story" detail-content-id="bc2d283a-490b-470a-9620-c4092316bd09" role="article">
+        <header class="visible-desktop" >
+            
+            <h1 itemprop="name" class="story-title">Northern California Wild Fires</h1>
+            
+            <div class="controls">
+                <div class="contributors">
+                    
+                </div>
+                
+                <div class="sharing-buttons">
+                    <div class="addthis_toolbox addthis_default_style ">
+                        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                        <a class="addthis_button_tweet"></a>
+                        <a class="addthis_button_pinterest_pinit"></a>
+                        <a class="addthis_counter addthis_pill_style"></a>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="header-metadata">
+                
+                <div class="dates">
+                    
+                    <div class="published">
+                        <i class="fa fa-clock-o" title="Published 08/01/2015 06:07 PM"></i>
+                        <span class="text" itemprop="datePublished">08/01/2015 06:07 PM</span>
+                    </div>
+                    
+                    
+                    <div class="updated">
+                        <i class="fa fa-arrow-circle-o-up" title="Last Updated 08/01/2015 06:09 PM"></i>
+                        <span class="text" itemprop="dateModified">08/01/2015 06:09 PM</span>
+                    </div>
+                    
+                </div>
+                
+                <span class="pull-right text-size">
+                    <i class="fa fa-text-height" title="Text Size"></i>
+                    <i class="fa fa-minus-square" ng-click="decreaseFontSize()"  title="Decrease Text Size"></i>
+                    <i class="fa fa-plus-square" ng-click="increaseFontSize()" title="Increase Text Size"></i> 
+                </span>
+                <span class="pull-right" ng-click="printArticle()">
+                    <i class="fa fa-print" title="Print This Story"></i>
+                </span>
+            </div>
+        </header>
+        <header class="visible-phone">
+            
+            <h1 itemprop="name" class="story-title">Northern California Wild Fires</h1>
+            
+            <div class="header-metadata" >
+                <span class="time" itemprop="datePublished">
+                    08/01/2015 06:09 PM
+                </span>                   
+                <div class="text-social" >
+                    
+                    <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+                        <a class="addthis_button_preferred_1"></a>
+                        <a class="addthis_button_preferred_2"></a>
+                        <a class="addthis_button_preferred_3"></a>
+                        <a class="addthis_button_preferred_4"></a>
+                        <a class="addthis_button_preferred_5"></a>
+                        <a class="addthis_button_preferred_6"></a>
+                        <a class="addthis_button_preferred_7"></a>
+                        <a class="addthis_button_preferred_8"></a>
+                        <a class="addthis_button_compact"></a>
+                    </div>
+                    
+                </div> 
+            </div>
+        </header>
+        <div class="media">
+            <div class="featured-media ng-cloak" ng-controller="featuredMediaCtrl" ng-show="mediaItems.length > 0" ng-init="init(3, 'False')">
+                <div class="viewport-wrapper">
+                    <span class="controls left" ng-show="mediaItems.length > 1" ng-click="displayPreviousItem()">
+                        <i class="fa fa-chevron-circle-left"></i>
+                    </span>
+                    <span class="controls right" ng-show="mediaItems.length > 1" ng-click="displayNextItem()">
+                        <i class="fa fa-chevron-circle-right"></i>
+                    </span>
+                    <div class="viewport">
+                        
+                        <div media-item="" thumbnail-image-url="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/08/01/23/58/wrtjhdtldnrpantrkyng.jpg" ng-hide="showAd">
+                            
+                            <div class="visible-desktop video" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject" >
+                                <meta itemprop="name" content="Fourteen Wildfires Burn in Northern California" />
+                                <meta itemprop="embedUrl" content="http://eplayer.clipsyndicate.com/embed/player.js?pf_id=9207&amp;va_id=5897484&amp;show_title=0&amp;auto_next=0&amp;windows=1&amp;wmode=transparent&amp;width=690&amp;height=388&amp;tags=&amp;div_id=syndicaster_5897484" />
+                                <meta itemprop="thumbnailUrl" content="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/08/01/23/58/wrtjhdtldnrpantrkyng.jpg" />
+                                <meta itemprop="duration" content="-2147483648" />
+                                <div id="syndicaster_5897484"></div>
+                                <script type="text/javascript" ng-src="http://eplayer.clipsyndicate.com/embed/player.js?pf_id=9207&amp;va_id=5897484&amp;show_title=0&amp;auto_next=0&amp;windows=1&amp;wmode=transparent&amp;width=690&amp;height=388&amp;tags=&amp;div_id=syndicaster_5897484"></script>    
+                            </div>
+                            <div class="visible-phone video" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject" >
+                                <meta itemprop="name" content="Fourteen Wildfires Burn in Northern California" />
+                                <meta itemprop="embedUrl" content="http://eplayer.clipsyndicate.com/embed/player.js?pf_id=9207&amp;va_id=5897484&amp;show_title=0&amp;auto_next=0&amp;windows=1&amp;wmode=transparent&amp;width=283&amp;height=180&amp;tags=&amp;div_id=syndicasterMobile_5897484" />
+                                <meta itemprop="thumbnailUrl" content="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/08/01/23/58/wrtjhdtldnrpantrkyng.jpg" />
+                                <meta itemprop="duration" content="-2147483648" />
+                                <div id="syndicasterMobile_5897484"></div>
+                                <script type="text/javascript" ng-src="http://eplayer.clipsyndicate.com/embed/player.js?pf_id=9207&amp;va_id=5897484&amp;show_title=0&amp;auto_next=0&amp;windows=1&amp;wmode=transparent&amp;width=283&amp;height=180&amp;tags=&amp;div_id=syndicasterMobile_5897484"></script>    
+                            </div>
+                            
+                            
+                            
+                        </div>
+                        
+                        <div ng-if="showAd" class="injection-ad">
+                            <!-- Written to avoid a false ad impression -->
+                            <script>
+                                document.write('<ifr' + 'ame width="316" height="266" noresize scrolling="no" frameborder="0" src="http://adserver.adtechus.com/adiframe/3.0///0//ADTECH;key="></ifr' + 'ame>');
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <div class="previews" ng-show="mediaItems.length > 1">
+                    <div class="preview" ng-repeat="mediaItem in mediaItems" ng-click="select(mediaItem)">
+                        <img ng-class="{ selected: mediaItem.isSelected()}" ng-src="[[mediaItem.thumbnailImageUrl]]"/>
+                        <i class="fa fa-play-circle-o"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="additional-media">
+                
+            </div>
+        </div>
+        <div class="story-content FullTextOnly" itemprop="articleBody" >
+            <div class="tease">
+                <section>California&#8217;s Governor has declared a state of emergency as fourteen wildfires burn across Northern California. </section>
+            </div>
+            
+            <div class="block-page" block-page="" ng-show="isActiveBlockPage()" >
+                
+                <section>
+                    
+                    
+                    <div class="story-media Right" >
+                        <div class="lr_comp_300x250_story"></div>
+                    </div>
+                    
+                    
+                    <div class="story-body" font-size-emitter="" >
+                        <p class="MsoNormal">Northern California (ABC 4 Utah) - California&#8217;s Governor has declared a state of emergency as fourteen wildfires burn across Northern California. <o:p /></p>  <p class="MsoNormal">&nbsp;Crews from Utah have been sent out to help battle the blaze. <o:p /></p>  <p class="MsoNormal">The fires have consumed some homes and hundreds of people have been forced to evacuate. <o:p /></p>  <p class="MsoNormal">Officials say that drought, triple-digit temperatures and gusting winds are only making matters worse. <o:p /></p>  <p class="MsoNormal">Thousands of Firefighters are still trying to contain the blazes tonight, So far, over fifteen thousand acres have burned.&nbsp;<o:p /></p>
+                    </div>
+                </section>
+                
+            </div>
+            
+            <div class="copyright" itemprop="copyrightHolder" >
+                Copyright 2015 good4utah.com Nexstar Broadcasting, All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
+            </div>
+        </div>
+        <div class="story-pager" ng-cloak >
+            Page:
+            <a ng-repeat="curPage in pages" ng-click="setActivePage(curPage)" ng-class="{active: isActivePage(curPage)}">
+                [[$index + 1]]
+            </a>
+        </div>
+        <div class="story-footer" >
+            <div class="tags">
+                <i class="fa fa-tags"></i>
+                
+                <span class="tag">
+                    
+                    <a href="/tag?tag=California">California</a>
+                    
+                    
+                </span>
+                
+                <span class="tag">
+                    
+                    <a href="/tag?tag=Firefighters">Firefighters</a>
+                    
+                    
+                </span>
+                
+                <span class="tag">
+                    
+                    <a href="/tag?tag=Wild Fire">Wild Fire</a>
+                    
+                    
+                </span>
+                
+            </div>
+        </div>
+    </article>
+    
+    
+    
+    
+    <div class="comments">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            var disqus_shortname = '4utahKTVX';
+            var disqus_identifier = 'www.good4utah.com-bc2d283a-490b-470a-9620-c4092316bd09';
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+    
+    
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=inergizedm"></script>
+<style type="text/css">
+    @media print {
+        .region-signin,
+        .region-masthead,
+        .region-navigation,
+        .top12,
+        .caption,
+        .comments,
+        .main4,
+        .bottom12,
+        .bookend,
+        .region-footer,
+        .region-social {
+            display: none;
+        }
+    }
+</style>
+
+</div>
+</div>
+<div class="non-mobile-widget span6"><div class="row">
+
+<div class="widget-container headlines"
+     ng-controller="headlinesController" 
+     items-per-page="5"
+     enable-paging="False"
+    >
+    
+        <h2 class="heading">Utah Works</h2>
+    
+    <ul class="list">
+
+      
+        <li class="item featured" headline="" ng-show="isVisible">
+            
+               <a class="link" href="/utahworks/story/d/story/holmes-homes-salt-lake-parade-of-homes/18409/-vv-akTC1kSBrMVRnacctw">
+                  <div class="wrap" style="padding-top:0; padding-bottom:0; height: 189px; width:336px; position:none; clear:both; text-align:center; margin:0 auto; margin-bottom:10px;">
+                    <img class="image" style="width:336px;" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/07/30/23/56/iwlcxiacoqggerayvmsk.jpg" />
+                        
+                        <i class="fa fa-play-circle-o" style="left: 20px; padding-top: 10px; top: 5px;"></i>
+                        
+                    </div>
+                </a>
+            
+            <h3 class="title">
+                <a class="link" href="/utahworks/story/d/story/holmes-homes-salt-lake-parade-of-homes/18409/-vv-akTC1kSBrMVRnacctw">
+                    
+                  Holmes Homes: Salt Lake Parade of Homes
+                </a>
+            </h3>
+
+        </li>
+        
+
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/utahworks/story/d/story/duerdens-decks-out-premier-home-at-salt-lake-parad/52329/XZox3wG_fkaklH9smSUL8w">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/07/24/22/22/txvbuyugpffbgxhkceae.jpg" />
+                    </div>
+                    Duerden's decks out premier home at Salt Lake Parade of Homes
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/utahworks/story/d/story/utah-works-east-west-health/24521/-gyBd6kkWkWcC8GCU5tzpg">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/07/23/01/28/hmfdzynsyoizqllrlqhc.jpg" />
+                    </div>
+                    Utah Works: East West Health 
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/utahworks/story/d/story/utah-works-self-employed-home-loans/74395/F6MybWUiWUuYUGNPwplTRQ">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/271/2015/07/18/01/55/nkhrejebnhfkxjyvusre.jpg" />
+                    </div>
+                    Utah Works: Self-employed Home Loans
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/utahworks/story/d/story/the-grand-theatre-presents-nephi-the-sword-of-laba/40151/NxgzymEDOUmPoiY_AkzGvQ">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/157/2015/07/10/01/34/iwqgazgitdbxocvkdqjp.jpg" />
+                    </div>
+                    The Grand Theatre presents Nephi & the Sword of Laban 
+                </a>
+                      </h3>
+        </li>
+        
+    </ul>
+    
+    <div class="more">
+        <a class="link" href=""></a>
+    </div>   
+</div>
+
+
+<style>
+  .small_wrap {
+    float: left;
+margin-right: 10px;
+  }
+  .headlines .list .item.linked .link .small_wrap i {
+    color: rgba(255, 255, 255, 0.45);
+    font-size: 50px;
+    left: 15px;
+    position: absolute;
+    bottom: 12px;
+}
+.small_image {
+    width: 70px !important;
+}
+  
+  </style>
+</div>
+</div>
+<div class="non-mobile-widget span6"><div class="row">
+
+<div class="widget-container headlines"
+     ng-controller="headlinesController" 
+     items-per-page="5"
+     enable-paging="False"
+    >
+    
+        <h2 class="heading">Latest Expert Answers</h2>
+    
+    <ul class="list">
+
+      
+        <li class="item featured" headline="" ng-show="isVisible">
+            
+               <a class="link" href="/expert/story/d/story/common-ankle-injuries-to-be-aware-of-this-summer/55325/S7xuwZcE6E6WvuWefFwSvQ">
+                  <div class="wrap" style="padding-top:0; padding-bottom:0; height: 189px; width:336px; position:none; clear:both; text-align:center; margin:0 auto; margin-bottom:10px;">
+                    <img class="image" style="width:336px;" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/07/29/16/07/sqhwcixhlxduzdlrxdel.jpg" />
+                        
+                        <i class="fa fa-play-circle-o" style="left: 20px; padding-top: 10px; top: 5px;"></i>
+                        
+                    </div>
+                </a>
+            
+            <h3 class="title">
+                <a class="link" href="/expert/story/d/story/common-ankle-injuries-to-be-aware-of-this-summer/55325/S7xuwZcE6E6WvuWefFwSvQ">
+                    
+                  Common Ankle Injuries to be Aware of This Summer
+                </a>
+            </h3>
+
+        </li>
+        
+
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/expert/story/d/story/knee-pain-are-you-a-candidate-for-partial-knee-rep/83107/w4dZ6ieaWUid0XCqKA7zYw">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/283/2015/07/14/23/41/mdwtezxkuchrbzjdiwhw.jpg" />
+                    </div>
+                    Knee Pain: Are you a candidate for partial knee replacement surgery?
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/expert/story/d/story/what-is-the-most-common-type-of-cockroach/22449/DKkJycehQUCa9-3Jw5N8ug">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/175/2015/07/08/23/31/nlnvgskmmebldsaqfhjs.jpg" />
+                    </div>
+                    What is the most common type of cockroach? 
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/expert/story/d/story/dangers-of-dehydration/28743/QspqKzjC6EStB0K13H_krQ">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="http://video-static.clipsyndicate.com/zStorage/clipsyndicate/271/2015/07/07/23/02/uhzucwegmvtldkdmxurm.jpg" />
+                    </div>
+                    Dangers of Dehydration 
+                </a>
+                      </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+              
+                <a class="link" href="/expert/story/d/story/concussions-and-head-injuries-when-to-go-to-the-er/17012/6ggaI3xbJkqfbR1nQ7Z-NA">                      
+                    <div class="small_wrap">
+                      <img class="small_image" src="/media/lib/5/8/a/2/8a236e1a-64dc-44cc-b30f-c911e96cca0e/Headline.jpg" />
+                    </div>
+                    Concussions and Head Injuries: When to go to the ER
+                </a>
+                      </h3>
+        </li>
+        
+    </ul>
+    
+    <div class="more">
+        <a class="link" href=""></a>
+    </div>   
+</div>
+
+
+<style>
+  .small_wrap {
+    float: left;
+margin-right: 10px;
+  }
+  .headlines .list .item.linked .link .small_wrap i {
+    color: rgba(255, 255, 255, 0.45);
+    font-size: 50px;
+    left: 15px;
+    position: absolute;
+    bottom: 12px;
+}
+.small_image {
+    width: 70px !important;
+}
+  
+  </style>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<div style="text-align:center;"><table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td colspan="2" style="text-align:center;"><a href="http://local.4utah.com/" data-mce-href="http://local.4utah.com/"><img style="min-width:412px; max-width:412px; width:412px; height:auto;" src="http://cdn.idstatic.com/cms/live/2/local-business.png?1392400413" alt="local-businesses.png" data-mce-src="http://cdn.idstatic.com/cms/live/2/local-businesses.png" data-mce-style=""></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="http://local.4utah.com/classifieds/category.amp?category=1&amp;subcategory=1" data-mce-href="http://local.4utah.com/classifieds/category.amp?category=1&amp;subcategory=1"><img style="min-width:250px; max-width:250px; width:250px; height:auto; padding:30px;" src="http://cdn.idstatic.com/cms/live/2/cars.png" alt="cars.png" data-mce-src="http://cdn.idstatic.com/cms/live/2/cars.png" data-mce-style=""></a></td>
+    <td width="50%"><a href="http://www.dixielocal.com/" data-mce-href="http://www.dixielocal.com/"><img style="min-width:250px; max-width:250px; width:250px; height:auto;" src="http://cdn.idstatic.com/cms/live/2/dixie-local.jpg" alt="dixie-local.jpg" data-mce-src="http://cdn.idstatic.com/cms/live/2/dixie-local.jpg" data-mce-style=""></a></td>
+  </tr>
+</table>
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="span4 main4">
+            <div class="row">
+                <div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3228740/0/16/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017949/0/170/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017951/0/154/ADTECH;loc=100;target=_blank;key=adiply;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3118836/0/0/ADTECH;loc=100;target=_blank;key=tvschedule;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<iframe id="targetIframe" src="http://partner.rovicorp.com/take3/Good4Utah/minitv.aspx?hosturl=http://partner.rovicorp.com/Take3/Good4Utah/tvlistings.aspx?&amp;SourceIDs=11719,20412,56221,11729,29102" allowtransparency="yes" scrolling="no" frameborder="0" height="325" width="300"></iframe>
+<h2 style="background: url('http://www.centralmediaserver.com/ktvx/Rovi_H2.jpg') repeat scroll 0% 0% / cover transparent;
+font-size: 1.42em;
+text-shadow: 0px 1px 0px #005F94;
+text-align: center;
+color: #FFF;
+margin-top: -5px;
+width: 287px;
+border: 1px solid black;
+position: relative;
+border-radius: 3px;"><a href="/tv" style="color:white;">See Full Schedule</a></h2>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3021505/0/457/ADTECH;loc=100;target=_blank;key=roadtoursponsor;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3228740/0/16/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017955/0/170/ADTECH;loc=100;target=_blank;key=house;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3021505/0/457/ADTECH;loc=100;target=_blank;key=tvschedule;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<script type="text/javascript" src="//portal.CitySpark.com/WidgetScripts/3677" > </script>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+   <div class="widget-container headlines"
+     ng-controller="headlinesController" 
+     items-per-page="5"
+     enable-paging="False"
+    >
+    
+        <h2 class="heading" style="">Top Stories</h2>
+    
+    <ul class="list">
+        
+        <li class="item featured" headline="" ng-show="isVisible">
+            
+                <a class="link" href="/story/d/story/man-dies-after-running-his-car-into-a-garage/18750/twHVixa1QEGF7VH2h0bsrA">
+                  <div class="wrap" style="padding-top:0; padding-bottom:0; height: 122px; width:250px; position:none; clear:both; text-align:center; margin:0 auto; margin-bottom:10px; margin-right:23px;">
+                    <img class="image" style="width:400px;" src="/media/lib/5/8/1/f/81f42ac1-3e73-43ce-8f75-e65030fc0fcd/FeatureImage.jpg" />
+                        
+                        <i class="fa fa-play-circle-o" style="left:15px; padding-top:10px;"></i>
+                        
+                    </div>
+                </a>
+            
+          <h3 class="title" style="text-align:justify;">
+                <a class="link" href="/story/d/story/man-dies-after-running-his-car-into-a-garage/18750/twHVixa1QEGF7VH2h0bsrA">
+                    
+                    Man Dies after Running his car into a Garage
+                </a>
+            </h3>
+            <p class="tease" style="text-align:justify; width:100%">
+                Happening Now in Kearns, UT. We will have a live report at 10PM on KTVX news with Brittany Johnson.
+            </p>
+        </li>
+        
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+                <a class="link" href="/story/d/story/northern-california-wild-fires/82460/OigtvAtJCkeWIMQJIxa9CQ">
+                    
+                    <i class="fa fa-play-circle-o"></i>
+                    
+                    
+                    Northern California Wild Fires
+                </a>
+            </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+                <a class="link" href="/story/d/story/conflicting-reports-about-the-death-of-cecils-brot/39738/78Gx5m2VE0ioKJ8g6Im-Fg">
+                    
+                    <i class="fa fa-play-circle-o"></i>
+                    
+                    
+                    Conflicting Reports about the Death of Cecil's Brother
+                </a>
+            </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+                <a class="link" href="/story/d/story/the-salgado-family-marches-in-search-for-elizabeth/37945/44wAVizNNkuRsHm8j1FVDA">
+                    
+                    <i class="fa fa-play-circle-o"></i>
+                    
+                    
+                    The Salgado family marches in search for Elizabeth
+                </a>
+            </h3>
+        </li>
+        
+        <li class="item linked" headline="" ng-show="isVisible">
+            <h3 class="title">
+                <a class="link" href="/story/d/story/booker-whittingham-hopeful-for-big-season-for-utes/33115/nucBeWDEH0uK7nggFHKzqw">
+                    
+                    <i class="fa fa-play-circle-o"></i>
+                    
+                    
+                    Booker, Whittingham hopeful for big season for Utes
+                </a>
+            </h3>
+        </li>
+        
+    </ul>
+    
+    <div class="more">
+        <a class="link" href="/news/topstories">More Top Stories....</a>
+    </div>   
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fabc4utah&amp;width=300&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=836518759702606" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:427px;" allowTransparency="true"></iframe>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="span12 bottom12">
+            <div class="row">
+                <div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017954/0/16/ADTECH;loc=100;target=_blank;key=RSL;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="bookend left">
+            <div class="row">
+                
+            </div>
+        </div>
+        <div class="bookend right">
+            <div class="row">
+                
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="region-footer">
+    <div class="container">
+        <div class="span12 footer">
+            <div class="row">
+                <div class="span12"><div class="row">
+<ul class="visible-desktop nav-top">
+    
+</ul>
+
+
+</div>
+</div>
+<div class="span12"><div class="row">
+<div class="widget-container adtech" ng-controller="adTech" ng-cloak>
+    
+    <div class="visible-desktop" ng-show="showDesktop">
+        <script type="text/javascript">
+            
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5336/3017961/0/225/ADTECH;loc=100;target=_blank;key=;grp=-1547571081;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            
+        </script>
+    </div>
+    
+</div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<div class="footer-left" style="width:30%;" data-mce-style="width: 30%;"><img src="http://cdn.idstatic.com/cms/live/222/Nexstar-logo.png?1371142829" alt="Nexstar Broadcasting Group, Inc." data-mce-src="http://cdn.idstatic.com/cms/live/222/Nexstar-logo.png?1371142829" width="97" height="42"><div class="copyright">&copy;1998 - 2015 Good4Utah.com <br> Nexstar Broadcasting, Inc. <br> All Rights Reserved</div></div><div class="footer-right" style="width:70%;" data-mce-style="width: 70%;"><ul class="bottom"><li><a href="http://m.4utah.com/" data-mce-href="http://m.4utah.com/">Good4Utah Mobile</a><br data-mce-bogus="1"></li><li><a href="/contact" data-mce-href="/contact">Contact Us</a><br data-mce-bogus="1"></li>
+
+<li><a href=" https://nexstar.hua.hrsmart.com/hr/ats/JobSearch/viewAll" data-mce-href=" https://nexstar.hua.hrsmart.com/hr/ats/JobSearch/viewAll">Careers With Us</a><br data-mce-bogus="1"></li>
+
+
+<li><a href="/privacy-policy" data-mce-href="/privacy-policy">Privacy Policy</a><br data-mce-bogus="1"></li><li><a href="/terms-of-service" data-mce-href="/terms-of-service">Terms of Use</a><br data-mce-bogus="1"></li><li><a href="/story/eeo-public-file-report/d/story/OUKv1Z96FUiwGtEl2pM6tA" data-mce-href="/story/eeo-public-file-report/d/story/OUKv1Z96FUiwGtEl2pM6tA">EEO Report</a><br data-mce-bogus="1"></li><li><a href="https://stations.fcc.gov/station-profile/ktvx" data-mce-href="https://stations.fcc.gov/station-profile/ktvx">KTVX FCC Public File</a><br data-mce-bogus="1"></li><li><a href="https://stations.fcc.gov/station-profile/kucw" data-mce-href="https://stations.fcc.gov/station-profile/kucw">KUCW FCC Public File</a><br data-mce-bogus="1"></li>
+<li><a href="http://www.centralmediaserver.com/ktvx/Nexstar_Certification.pdf" data-mce-href="http://www.centralmediaserver.com/ktvx/Nexstar_Certification.pdf">Nexstar CC Certification File</a><br data-mce-bogus="1"></li></ul></div>
+</div>
+</div>
+<div class="non-mobile-widget span12"><div class="row">
+<style>
+#container {
+	width:100%; text-align:center; margin:0 auto; padding-top:20px;
+}
+.logo {
+	width:20%;
+	padding-left:10px;
+	padding-right:10px;
+
+}
+.logo img {
+height: 60px;
+}
+</style>
+
+<div id="container"><!--container-->
+<span class="logo">
+<a href="/gmu"><img src="http://www.centralmediaserver.com/ktvx/footer/GMU.png" /></a>
+</span>
+<span class="logo">
+<a href="/gtu"><img src="http://www.centralmediaserver.com/ktvx/footer/GTU_logo_600px.png" /></a>
+</span>
+<span class="logo">
+<a href="/midday"><img src="
+http://www.centralmediaserver.com/ktvx/footer/midday.png" /></a>
+</span>
+<span class="logo">
+<a href="/sports"><img src="http://www.centralmediaserver.com/ktvx/footer/RSL.png" /></a>
+</span>
+<span class="logo">
+<a href="/wirthwatching"><img src="http://www.centralmediaserver.com/ktvx/footer/wirth-watching.png" /></a>
+</span>
+<span class="logo">
+<a href="http://www.theyoungeryou.tv/"><img src="http://www.centralmediaserver.com/ktvx/footer/yylogo.png" /></a>
+</span>
+
+<span class="logo">
+  <a href="/utahworks"><img src="http://www.centralmediaserver.com/ktvx/footer/utah-works-logo.png" /></a>
+</span>
+  <span class="logo">
+  <a href="/beehive-blitz"><img src="http://www.centralmediaserver.com/ktvx/footer/beehive-blitz-logo.png" /></a>
+</span>
+    <span class="logo">
+      <a href="http://www.reeutah.com"><img src="http://cdn.idstatic.com/cms/live/2/REE-Logo.png?1418318644" style="width: 150px; height: auto;" /></a>
+</span>
+</div><!--close container-->
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+<script src='/ScriptsUnbundled/angular-1.2.16.min.js'></script>
+<script src='/ScriptsUnbundled/angular-cookies-1.2.16.min.js'></script>
+
+        <script src='/cms3-public-built.min.js?v=3.1.15.16138'></script>
+
+
+<script type="text/javascript">
+    window.apiSettings = {
+        url: '/api'
+    };
+    window.context = {
+        siteId: 'site/2'
+    };
+</script>
+    <script type="text/javascript">
+        _qevents.push({ qacct: "p-3eDTKkJu0A1JU" });
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-3eDTKkJu0A1JU.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+</body>
+</html>
+

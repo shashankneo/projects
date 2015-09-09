@@ -1,0 +1,1223 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+
+
+
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1">
+    
+
+    <meta name="google-site-verification" content="Su0a5kLeCuVn9-oTRx0r6Ef0wkNV29E5mIA91GM8-b0"/>
+    
+
+    
+        <link rel="stylesheet" href="/etc/designs/news/styles/article.css" media="all">
+    
+    <link rel="stylesheet" type="text/css" href="//assets.nationalgeographic.com/modules-livefyre/css/ng_livefyre.css"/>
+    <meta name="tax:source" content="news">
+<meta name="tax:firstSubjectAncestor" content="science_and_technology">
+<meta name="tax:firstSubject" content="airplanes">
+<meta name="tax:adKeywords" content="">
+<meta name="tax:otherSubjects" content="">
+<meta name="tax:locations" content="">
+<meta name="tax:series" content="">
+<meta name="tax:genres" content="">
+<meta name="tax:people" content="">
+<meta name="tax:organizations" content="">
+<meta name="tax:events" content="">
+<meta name="tax:concepts" content="">
+<meta name="tax:audiences" content="general">
+<meta name="aem:commentsSetting" content="enabled">
+<meta name="aem:template" content="news-story-article">
+<meta name="dfp:adDomain" content="ng">
+<meta name="dfp:networkCode" content="2994">
+<meta name="dfp:refreshRate" content="30">
+<meta name="img:supportedWidths" content="133, 152, 162, 225, 210, 224, 280, 352, 470, 536, 590, 676, 710, 768, 885, 945, 1190, 1900">
+<meta name="mpx:videoPlayerFeed" content="http://feed.theplatform.com/f/ngs/dCCn2isYZ9N9">
+<meta name="cq:editMode" content="false">
+
+
+    
+
+
+
+
+
+
+
+<script type="text/javascript">
+    function getMetaContent(propName) {
+        var metas = document.getElementsByTagName('meta');
+        for (i = 0; i < metas.length; i++) {
+            if (metas[i].getAttribute("name") == propName) {
+                return metas[i].getAttribute("content");
+            }
+        }
+        return "";
+    }
+    (function() {
+        // Global namespaces.
+        window.ngn = {};
+        ngn.collections = {};
+        ngn.models = {};
+        ngn.models.ads = {};
+        ngn.utils = {};
+        ngn.components = {};
+        ngn.plugins = {};
+        ngn.fn = {};
+        ngn.helpers = {};
+        ngn.events = {};
+        ngn.ins = {};
+        ngn.dynamicfeed = {};
+
+        ngn.helpers.isEditMode = false;
+        ngn.models.ads.dfpId = getMetaContent("dfp:networkCode");
+        ngn.models.ads.adDomain = getMetaContent("dfp:adDomain");
+        ngn.models.videoPlayerFeed = getMetaContent("mpx:videoPlayerFeed");
+        ngn.models.adaptiveWidths = getMetaContent("img:supportedWidths");
+        ngn.helpers.areCommentsDisabled = getMetaContent("aem:commentsSetting") == "disabled";
+        ngn.helpers.isSimpleArticle = getMetaContent("aem:template") == "news-story-simple-article";
+        ngn.helpers.isArticleUnedited = getMetaContent("cq:openPageProperties") == "true";
+        ngn.helpers.isImageCollectionTemplate = getMetaContent("aem:template") == "news-image-collection";
+
+    })();
+</script>
+
+<!-- fonts hosted on fonts.ngeo.com - Pragmatica, Chronicle -->
+<script>
+    (function(d) {
+        var config = {
+                    kitId: 'wdv5zcl',
+                    scriptTimeout: 3000
+                },
+                h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//fonts.ngeo.com/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+</script>
+<link rel="stylesheet" href="https://fonts.ngeo.com/hoefler/1-0-1/hco_fonts.css">
+
+
+<script src="/etc/designs/platform/v1/scripts/ngs-global.js"></script>
+
+
+<script src="/etc/designs/news/scripts/main.js"></script>
+
+    
+
+
+    <title>How a Piece of Malaysian Flight 370 Drifted 2,300 Miles</title>
+    <meta property="og:title" content="How a Piece of Malaysian Flight 370 Drifted 2,300 Miles"/>
+<meta name="description" content="Indian Ocean debris moves in predictable patterns and confirms searchers are looking in the right spot for the missing plane."/>
+    <meta name="og:description" content="Indian Ocean debris moves in predictable patterns and confirms searchers are looking in the right spot for the missing plane."/>
+<meta name="keywords" content="airplanes"/>
+    <meta name="news_keywords" content="airplanes"/>
+<meta property="og:url" content="http://news.nationalgeographic.com/2015/08/150801-ocean-debris-Malaysia-Indian-missing-plane"/>
+    <link rel="canonical" href="http://news.nationalgeographic.com/2015/08/150801-ocean-debris-Malaysia-Indian-missing-plane"/>
+<meta property="og:image" content="http://news.nationalgeographic.com/content/dam/news/2015/08/02/malaysia370debris/01malaysia370debris.jpg"/>
+<meta property="og:type" content="article"/>
+<meta name="og:site_name" content="National Geographic News"/>
+<meta property="article:publication" content="https://www.facebook.com/natgeo"/>
+<meta property="article:published_time" content="2015-08-01T16:39:36-0400"/>
+    <meta property="article:modified_time" content="2015-08-01T19:44:20-0400"/>
+    <meta name="article:section" content="News"/>
+    <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NatGeo">
+    <meta name="twitter:creator" content="@NatGeo">
+<meta name="twitter:site:id" content="17471979">
+<meta name="twitter:title" content="How a Piece of Malaysian Flight 370 Drifted 2,300 Miles">
+<meta name="twitter:description" content="Indian Ocean debris moves in predictable patterns and confirms searchers are looking in the right spot for the missing plane.">
+<meta name="twitter:image:src" content="http://news.nationalgeographic.com/content/dam/news/2015/08/02/malaysia370debris/01malaysia370debris.adapt.945.1.jpg">
+    
+    
+
+
+
+
+<!-- desktop standard HTML5 -->
+
+    <link rel="icon" sizes="16x16 32x32" type="image/png" href="http://news.nationalgeographic.com/etc/designs/news/favicon.ico">
+    <!--[if IE]><link rel="shortcut icon" href="http://news.nationalgeographic.com/etc/designs/news/favicon.ico"><![endif]-->
+
+<!-- desktop win8 Metro tiles -->
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="/apple-touch-icon-152x152.png">
+<!-- desktop IE11 tiles -->
+<meta name="msapplication-square70x70logo" content="/apple-touch-icon-76x76.png"/>
+<meta name="msapplication-square150x150logo" content="/apple-touch-icon-152x152.png"/>
+<!-- non-Retina iPhone, iPod Touch, Android 2.1+ devices (57x57) -->
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png"/>
+<!-- non-retina iPad 1, 2, mini (72x72)-->
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png"/>
+<!-- retina iPhone running iOS â¥ 7 (114x114 ) -->
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png"/>
+<!-- retina iPad iOS 2.0+ / Android 2.1+ - auto-downscaled to 144 by devices -->
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png"/>
+
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4AWVVADgMEUVVVBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+</head>
+
+
+
+
+
+
+
+<body itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    
+
+
+
+
+
+<!-- Google Tag Manager -->
+<script>
+    dataLayer = [{
+    
+        'dimension1': '34f3ebf9-c824-4df9-98f9-bc7d96822350'
+    
+    
+        ,'pageCategory': 'News|News'
+    
+    
+    
+        ,'aemShortDescription': 'Indian Ocean debris moves in predictable patterns and confirms searchers are looking in the right spot for the missing plane.'
+    
+    
+        ,'aemLeadImage': 'http://news.nationalgeographic.com/content/dam/news/2015/08/02/malaysia370debris/01malaysia370debris.jpg'
+    
+    
+        ,'aemSiteName': 'News'
+    
+    
+        ,'aemTemplateType': 'news-story-article'
+    
+    }];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-S6J5"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-S6J5');</script>
+<!-- End Google Tag Manager -->
+
+
+
+    
+
+
+
+
+
+<div class="global-nav globalNav">      		
+
+
+
+
+      		
+
+
+
+
+
+<link rel="stylesheet" href="//assets.nationalgeographic.com/modules-global-nav/styles/main.css" media="all">
+      		
+
+
+
+
+<header id="global_nav"
+        data-platform-component="GlobalNav"
+        data-platform-display="biggie"
+        data-platform-auto-init="true"
+        data-platform-render-base="true"
+        data-platform-base-container="#global_nav"
+        data-platform-nav-container="#gn_JS_panelcontainer"
+        data-platform-drawer="#gn_JS_global-nav"
+        data-platform-toggle-drawer-button=".gn_JS_toggle-drawer-button"
+        data-platform-template="layout_base"
+        data-platform-nav_template="layout_navigation"
+        data-platform-display="biggie"
+        data-platform-load-registration="true"
+        data-platform-show-search="true"
+        data-platform-search-url="https://www-s.nationalgeographic.com/search"
+        data-platform-logo-custom="NEWS"
+        data-platform-logo-u-r-l="http://news.nationalgeographic.com"
+        data-platform-script="//assets.nationalgeographic.com/modules-global-nav/scripts/global-nav.min.js"
+        data-platform-registration-options='{"mmdbHost":"https://mmdb.nationalgeographic.com","memcenHost":"https://members.nationalgeographic.com","notificationsHost":"https://notifications.nationalgeographic.com","notificationsKey":"e6c4b4af844c454fc2110a4d09828559489837313bd2e519cf","staticMedia":"//assets.nationalgeographic.com/ngs-header/","debug":false,"debugLvl":"0"}'
+ ></header></div>
+
+<div id="header-ads__pixel-ad"></div>
+
+    
+
+
+
+
+<div class="AdSlotHeader">
+    <div class="headercomponent">
+        <div id="header-ads__left-ad"></div>
+        <div id="header-ads__right-ad"></div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+<script>
+    ngn.helpers.template = "article"
+</script>
+<div id="template-id" data-template="article"></div>
+<div class="print-only clearfix">
+    <img src="/etc/designs/news/images/ng-black-logo.png" class="print-logo print-img"/>
+    <a class="print-link" href="/2015/08/150801-ocean-debris-Malaysia-Indian-missing-plane" target="_blank">http://news.nationalgeographic.com/content/news/en_US/2015/08/150801-ocean-debris-Malaysia-Indian-missing-plane.html</a>
+    <hr>
+</div>
+
+
+<div id="mobile-fixed-ad"></div>
+
+
+
+<div class="section-header SectionHeader">      		
+
+
+
+
+<header id="sectionpage-header" class="section-header news__article">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-13 col-sm-13 section-header__sponsor-holder">
+                <div class="section-header__sponsor">
+                    
+                        
+                        
+                            <div class='adunit--load-once adunit__header-ad adunit-upper-right' data-dimensions='210x50'></div>
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</header></div>
+
+
+
+<div class="stickybar StickyBar">      		
+
+
+
+
+<header class="sticky-header fixed">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1 col-sm-1 col-xs-2">
+                <a href="http://news.nationalgeographic.com">
+                    <img src="/etc/designs/news/images/ng-logo-small.svg" class="logo">
+                </a>
+            </div>
+            <div class="sticky-header__title">
+                <h3 class="title app-gototop dotdotdot">How a Piece of Malaysian Flight 370 Drifted 2,300 Miles</h3>
+            </div>
+            <div class="col-md-4 col-sm-5 col-xs-9 col-xs-offset-2 col-md-offset-0 col-sm-offset-0 sticky__actions-container ">
+                
+                
+                    <div class="sticky__action app-modal-comments" onclick="_gaq.push(['_trackEvent', 'News', 'Click ScrollNav', 'Comments']);"><i id="icongs-sticky-comment" class="icongs icongs-comment"></i>
+                        <p><span class="hidden-xs">COMMENTS</span></p>
+                    </div>
+                
+                <div class="sticky__action app-modal-share" onclick="_gaq.push(['_trackEvent', 'News', 'Click ScrollNav', 'Share']);"><i id="icongs-sticky-share" class="icongs icongs-share"></i>
+                    <p><span class="hidden-xs">SHARE</span></p>
+                </div>
+                <div class="sticky__action app-gototop" onclick="_gaq.push(['_trackEvent', 'News', 'Click ScrollNav', 'Top Arrow']);"><i id="icongs-sticky-lightarrowup" class="icongs icongs-arrowchunky"></i>
+                    <p><span class="hidden-xs">TOP</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+</div>
+
+
+
+<div role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="modal-share" class="modal fade" style="top: 84px; display: none;">
+    <div class="modal-dialog">
+        <div class="modal-header">
+            <h4 id="myModalLabel" class="modal-title">Share this article
+                <div class="pull-right">
+                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close modal-close"><i class="icongs icongs-close"></i></button>
+                </div>
+            </h4>
+        </div>
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="AddThis addThis">
+      		
+
+
+
+
+<div class=" addthis_toolbox">
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Twitter']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="social-link addthis_button_twitter">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-twitter"></i>
+                    </div>
+                </span>
+                <a class="addthis_counter_twitter sharebutton__counter"></a>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Facebook']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="social-link addthis_button_facebook">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-facebook"></i>
+                    </div>
+                </span>
+                <a class="addthis_counter_facebook sharebutton__counter"></a>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Googleplus']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="social-link addthis_button_google_plusone_share">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-googleplus"></i>
+                    </div>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Pinterest']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="social-link addthis_button_pinterest_share">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-pinterest"></i>
+                    </div>
+                </span>
+                <a class="addthis_counter_pinterest sharebutton__counter"></a>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Linkedin']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="social-link addthis_button_linkedin">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-linkedin"></i>
+                    </div>
+                </span>
+                <a class="addthis_counter_linkedin sharebutton__counter"></a>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Email']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" class="addthis_button_email social-link">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-email"></i>
+                    </div>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-13">
+        <div onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Print']);" class="sharebutton__modal--button-container clearfix">
+            <a href="#" onclick="window.print()" class="social-link ">
+                <span class="share-icon-container">
+                    <div class="share-icon">
+                        <i class="icongs icongs-print"></i>
+                    </div>
+                </span>
+            </a>
+        </div>
+    </div>
+</div></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="modal-comments" class="modal fade" style="top: 0px; display: none;">
+    <div class="modal-dialog">
+        <div class="modal-header">
+            <h4 id="myModalLabel" class="modal-title">Comment on this article
+                <div class="pull-right">
+                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close modal-close"><i class="icongs icongs-close"></i></button>
+                </div>
+            </h4>
+        </div>
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="Livefyre article__comments">      		
+
+
+
+
+
+<div id="livefyre" data-guid="34f3ebf9-c824-4df9-98f9-bc7d96822350">
+    <script type="text/javascript">
+        if (typeof livefyreConfig == 'undefined') {
+            var livefyreConfig = {
+                "global" : {
+                    "network": "natgeo.fyre.co"
+                },
+                "streams": [{
+                    "siteId": 318027,
+                    "articleId": "34f3ebf9-c824-4df9-98f9-bc7d96822350",
+                    "el": "livefyre",
+                    "collectionMeta": "eyJhbGciOiJIUzI1NiIsImN0eSI6InRleHRcL3BsYWluIn0.eyJ0aXRsZSI6IkhvdyBhIFBpZWNlIG9mIE1hbGF5c2lhbiBGbGlnaHQgMzcwIERyaWZ0ZWQgMiwzMDAgTWlsZXMiLCJ1cmwiOiJodHRwOi8vbmV3cy5uYXRpb25hbGdlb2dyYXBoaWMuY29tL2NvbnRlbnQvbmV3cy9lbl9VUy8yMDE1LzA4LzE1MDgwMS1vY2Vhbi1kZWJyaXMtTWFsYXlzaWEtSW5kaWFuLW1pc3NpbmctcGxhbmUuaHRtbCIsImNoZWNrc3VtIjoiOTk5MTRiOTMyYmQzN2E1MGI5ODNjNWU3YzkwYWU5M2IiLCJhcnRpY2xlSWQiOiIzNGYzZWJmOS1jODI0LTRkZjktOThmOS1iYzdkOTY4MjIzNTAifQ.UTkLct55nIFm6YmBxGS6Jd9T8oL7oueuWJ8ELDLhGMg",
+                    "checksum": "99914b932bd37a50b983c5e7c90ae93b",
+                    "signed": true
+                }]
+            }
+        }
+
+    </script>
+
+    <!-- end Livefyre Comments -->
+</div></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<section itemprop="mainContentOfPage" role="main" class="main-section">
+    <article itemscope="itemscope" itemtype="http://schema.org/NewsArticle" class="news__article">
+        <div class="container">
+            
+                
+                    
+                
+            
+            <div class="row clearfix row--mainArt">
+                <div class="col-md-12 col-md-offset-1 ">
+                    <div class="parsys mainArt"><div class="Kicker section">      		
+
+
+
+
+
+    
+    
+
+
+</div>
+<div class="TitleAndDek section">      		
+
+
+
+
+      		
+
+
+
+<div class="hidden">
+    <span id="dateline-holder"></span>
+</div>
+
+    
+        
+            <h1 class="main-title">
+                <div class="md-title"><span itemprop="headline">How a Piece of Malaysian Flight 370 Drifted 2,300 Miles</span></div>
+            </h1>
+        
+        
+            <div class="article__deck"><p>Indian Ocean debris moves in predictable patterns and confirms searchers are looking in the right spot for the missing plane.</p>
+</div>
+        
+    
+    
+
+
+</div>
+<div class="parbase Image image section">      		
+
+
+
+
+
+
+    
+        
+        
+            <div class="fullsize-element ">
+                <div class="media__medium--container container">
+                    <div class="row">
+                        <div class="col-md-13">
+        
+
+        
+        
+            <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="image media--medium left  ">
+
+                
+                
+                    
+                
+                
+
+                    
+                        
+
+                            <div class="news-image-wrap " style="padding-bottom: 64.2578125%">
+                                <div class="delayed-image-load" data-alt="Searchers comb the beach hoping to find additional airplane debris on Reunion Island in the Indian Ocean near the area where a piece of Boeing 777 wing washed up on July 29. " data-itemprop="contentUrl" data-src="http://news.nationalgeographic.com/content/dam/news/2015/08/02/malaysia370debris/01malaysia370debris.jpg/{width}/{pixel_ratio}"></div>
+                            </div>
+                        
+                        
+                        
+                    
+
+                
+                        
+                
+                    
+                
+                
+                    <figcaption class="media__caption medium-caption">
+                        <div class="media__caption--text">
+                            
+                            
+                                <span itemprop="caption"><p>Searchers comb the beach hoping to find additional airplane debris on Reunion Island in the Indian Ocean near the area where a piece of Boeing 777 wing washed up on July 29. </p>
+</span>
+                            
+                            
+                                <br />
+                            
+                            
+                                <small itemprop="author" class="media__caption--credit"> Photograph by&nbsp;Ben Curtis, AP </small>
+                            
+                        </div>
+                    </figcaption>
+                
+            </figure>
+
+        
+        
+        
+        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    
+    
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+            <!-- BYLINE -->
+            <div class="row clearfix row--byline js-top-byline">
+                <div class="col-md-12 col-md-offset-1">
+                    <div class="BylineComponent article__byline">
+      		
+
+
+
+
+<div class="byline">
+    
+        
+            <div itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person" class="byline__category byline__contributor">
+                
+                    By <b><span itemprop="name">Laura Parker</span></b>, <span itemprop="affiliation" itemscope="itemscope" itemtype="http://schema.org/Organization">National Geographic
+</span><br/>
+                
+            </div>
+        
+        
+        
+        
+        
+    
+    
+        <div class="byline__publish"><p>PUBLISHED <time itemprop="datePublished" datetime="2015-08-01T16:39:36-0400">August 01, 2015</time></p></div>
+    
+</div>
+</div>
+
+                </div>
+            </div>
+
+            <div itemprop="articleBody" class="row article__body--container">
+                <!-- SOCIAL ICONS -->
+                <div class="col-md-1 icon-menu addthis_toolbox ">
+                    <div class="sharebutton article__count__menu hide-zero" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Comment']);">
+                        <a class="app-modal-comments">
+                            <i class="icongs icongs-comment"></i>
+                            <span itemprop='commentCount' class="sharebutton__comment-count">0</span>
+                        </a>
+                    </div>
+                    <div class="sharebutton" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Facebook']);"><a class="addthis_button_facebook "><i class="icongs icongs-facebook"></i></a></div>
+                    <div class="sharebutton" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Twitter']);"><a class="addthis_button_twitter" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Twitter']);"><i class="icongs icongs-twitter"></i></a></div>
+                    <div class="sharebutton" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Googleplus']);"><a class="addthis_button_google_plusone_share" onclick="_gaq.push(['_trackEvent', 'News', 'Share', 'Googleplus']);"><i class="icongs icongs-googleplus"></i></a></div>
+                    <a class="sharebutton article__share__menu app-modal-share"><i class="icongs icongs-open"></i></a>
+                </div>
+                <div id="article__body" class="paragraphs col-md-8">
+                    <span itemprop="body"><div class="content parsys"><div class="text smartbody parbase section">
+<p>The discovery of an airplane wing section on a remote Indian Ocean island some 2,300 miles west of where investigators think <a href="http://www.malaysiaairlines.com/my/en/site/mh370.html"><u>Malaysia Airlines Flight 370 </u></a>crashed off Australia comes as no surprise to scientists and mariners familiar with those seas.</p></div>
+<div class="text smartbody parbase section">
+<p>“Floating debris from any source travels far and can persist for years,” says <a href="http://www.5gyres.org/our-crew/"><u>Marcus Eriksen, </u></a>an ocean scientist who has sailed the fast-moving, circular currents known as the Indian Ocean gyre. “Currents are always going west at the top of the gyre. Depending on where debris is in this gyre, it is going to join this counter-clockwise rotation of trash before the ocean spits it out.”</p></div>
+<div class="Interactive section">      		
+
+
+
+
+
+    
+    
+        
+        
+        
+        
+            <div class="media--small left " style="padding-top: 0px; padding-bottom: 0px;">
+                
+                    
+                        
+                            <style>.stretch:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}.stretch {display: inline-block; }.stretch {display: block; }* html .stretch {height: 1px; }#gf_46 {float: left;width: 100%;margin: 1em auto;position: relative;font-size: 13px; }#gf_46 img {width: 100%; }#gf_46 .grfxhead { font-family: "Pragmatica-web", Helvetica, Arial, sans-serif;width: 100%; margin-bottom: .3em;font-size: 18px;font-weight: 600;float: left; }#gf_46 .grfxintro {font-family: "Pragmatica-web", Helvetica, Arial, sans-serif;width: 100%;margin-bottom: .7em;font-size: 15px;letter-spacing: 0.003em;line-height: 1.428;float: left; } #gf_46 .grfxcontainer {width: 100%;float: left;position: relative;margin: 0.5em 0; }#gf_46 .row { margin-bottom:0.3em; padding-bottom:0.3em; border-bottom:1px dotted #DDD; width:100%; float:left; margin-left:0; margin-right:0;}#gf_46 .Name { margin-bottom:0.2em; font-family:"Pragmatica-web", Helvetica, Arial, sans-serif; width:100%; float:left; font-size:13px;}#gf_46 .Value { float:left; display:inline; margin-right:1.5%; margin-bottom:0.5em;}#gf_46 .Value span{ float:left; height:15px; background:#EEECDB; width:100%; border-radius: 2px;}#gf_46 .ValueNumber { margin-top:-1px; font-family:"Pragmatica-web", Helvetica, Arial, sans-serif;; float:left; font-size:13px; display:inline; font-weight: bold;}#gf_46 .highlight .Value span {background:#Fc0!important;}#gf_46 .highlight .Name{font-weight:bold;}#gf_46 .source {color: #CCC;ont-family: "Pragmatica-web", Helvetica, Arial, sans-serif;text-transform: uppercase;font-size: 11px;width: 100%;float: left;margin-top: 0.75em;margin-bottom: 2.5em; }@media only screen and (max-width: 600px) {#gf_46 { width: 95%; margin-left: 2.5%; } }</style><div id="gf_46"><div class="grfxhead"></div><div class="grfxintro"></div><div class="grfxcontainer stretch" id="photocont_46"></div><div class="source">NG STAFF</br></div></div><script src="http://code.jquery.com/jquery-1.11.2.min.js"></script><script>var jQInteractives = jQuery.noConflict();(function( $ ) {$(function() {$(function() {setSize();$(window).resize(function(){setSize()})});function setSize(){var w_46 = $("#gf_46").width();$("#photocont_46").empty();if (w_46 > 550) {$("#photocont_46").append('<img src="http://news.nationalgeographic.com/content/dam/news/rights-exempt/nat-geo-staff-maps/2015/08/planeBIG.jpg">')} else {$("#photocont_46").append('<img src="http://news.nationalgeographic.com/content/dam/news/rights-exempt/nat-geo-staff-maps/2015/08/planeSMALL.jpg">')}}})})(jQInteractives);</script>
+                        
+                        
+                    
+                
+                <figcaption class="media__caption ">
+                    <div class="media__caption--text">
+                        
+                        
+                    </div>
+                </figcaption>
+            </div>
+
+        
+        
+        
+    
+
+</div>
+<div class="text smartbody parbase section">
+<p>Eriksen, who heads the<a href="http://www.5gyres.org/"><u> 5 Gyres Institute, </u></a>a California-based nonprofit focused on reducing plastic trash in oceans, told this reporter soon after Flight 370 disappeared that any debris from it would show up in Madagascar in about a year—a good guess as it turned out.</p></div>
+<div class="text smartbody parbase section">
+<p>The piece, identified as a <a href="http://www.davi.ws/avionics/TheAvionicsHandbook_Cap_11.pdf"><u>flaperon,</u></a> which attaches to the trailing edge of the wing of a Boeing 777, would most likely have landed there if it hadn’t first bumped into<a href="http://www.reunionisland.net/"><u> Reunion Island,</u></a> a French territory 600 miles east of Madagascar.</p></div>
+<div class="text smartbody parbase section">
+<p>“It’s predictable that the debris would ride the subtropical gyre currents to potentially every island in its path,” he says. &nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>The discovery energized one of the most confounding and expensive searches in aviation history in several ways. It lays to rest the possibility–still believed by some of the victims’ families—that the plane was <a href="http://articles.latimes.com/2014/mar/16/world/la-fg-wn-malaysia-airlines-flight-370-hijack-family-philip-wood-20140316"><u>hijacked</u></a> and sits parked in a secret hangar in Iran or Kazakhstan. It also confirms that the Australians, who are leading the search, are looking in the right place. The head of the <a href="https://www.atsb.gov.au/"><u>Australian Transport Safety Bureau</u></a> told reporters that the agency’s drift modeling shows the wreckage could have traveled from the search zone to Reunion Island.</p></div>
+<div class="text smartbody parbase section">
+<p>What the discovery does not do, however, is to help locate the rest of the wreckage on the seafloor. &nbsp;</p></div>
+<div class="text smartbody parbase section">
+<h2><b>Falling Off The Radar</b></h2></div>
+<div class="text smartbody parbase section">
+<p>Flight 370 was headed to Beijing with 239 people aboard when it <a href="http://www.amsa.gov.au/media/mh370-timeline/"><u>dropped from radar </u></a>about an hour after taking off from Kuala Lumpur. The plane turned west across the Malay Peninsula towards Penang. <a href="http://news.nationalgeographic.com/news/2014/03/140327-malaysian-plane-satellite-black-box-indian-ocean-jet/"><u>Satellite transmissions </u></a>from the cockpit helped <a href="http://www.inmarsat.com/"><u>Inmarsat,</u></a> a British satellite company, determine that the plane turned south and crashed seven hours later into the Indian Ocean off Australia after running out of fuel. The search area extends over <a href="https://www.atsb.gov.au/mh370-pages/updates/operational-update.aspx"><u>46,000 square miles (</u></a>120,000 square kilometers), about 1,250 miles (2,012 kilometers) southwest of Perth. The region is so remote, searchers also are mapping the ocean floor for the first time.</p></div>
+<div class="text smartbody parbase section">
+<p>“If you think about mapping over the past 150 years, the Atlantic has been pretty well mapped,” says John Fish, vice president of <a href="http://www.instituteformarineacoustics.org/comm/Introduction.html"><u>American Underwater Search and Survey</u></a> in Bourne, Massachusetts. “World War I and World War II pushed mapping and also seafloor mapping. The Pacific is pretty well mapped. But when you get into areas that haven’t been traveled significantly by military or commercial traffic, there’s been very little presence.”</p></div>
+<div class="parbase Image image section">      		
+
+
+
+
+
+
+    
+        
+        
+            <div class="fullsize-element ">
+                <div class="media__medium--container container">
+                    <div class="row">
+                        <div class="col-md-13">
+        
+
+        
+        
+            <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="image media--medium left  ">
+
+                
+                
+                    
+                
+                
+
+                    
+                        
+
+                            <div class="news-image-wrap " style="padding-bottom: 66.650390625%">
+                                <div class="delayed-image-load" data-alt="Picture of debris from Malaysia 370 found on Reunion Island" data-itemprop="contentUrl" data-src="http://news.nationalgeographic.com/content/dam/news/2015/08/02/malaysia370debris/02malaysia370debris.jpg/{width}/{pixel_ratio}"></div>
+                            </div>
+                        
+                        
+                        
+                    
+
+                
+                        
+                
+                    
+                
+                
+                    <figcaption class="media__caption medium-caption">
+                        <div class="media__caption--text">
+                            
+                            
+                                <span itemprop="caption"><p>French police officers carry a piece of wreckage identified as a “flaperon” from the edge of a Boeing 777 wing believed to be part of Malaysian Airlines Flight 370, which disappeared March 8, 2014 with 239 people aboard. </p>
+</span>
+                            
+                            
+                                <br />
+                            
+                            
+                                <small itemprop="author" class="media__caption--credit"> Photograph by&nbsp;Lucas Marie, AP </small>
+                            
+                        </div>
+                    </figcaption>
+                
+            </figure>
+
+        
+        
+        
+        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    
+    
+
+</div>
+<div class="text smartbody parbase section">
+<p>Floating debris from oceanic aircraft accidents provides essential clues that lead investigators to the wreckage beneath the surface. Using calculations known as <a href="http://www.merriam-webster.com/dictionary/hindcast"><u>“hindcasting,”</u></a> debris pieces are plotted on a chart and backtracked over the ocean surface through time to their location at the moment the plane hit the water. Once the point of entry is located, the underwater search zone narrows considerably.</p></div>
+<div class="text smartbody parbase section">
+<p>No debris from Flight 370 was ever spotted, despite a massive <a href="https://www.atsb.gov.au/newsroom/2014/search-operation-for-malaysia-airlines-aircraft-2.aspx"><u>sea and air search. </u>N</a>ow, 17 months after the plane’s disappearance, Fish says that pinpointing the spot where the flaperon hit the surface is next to impossible. &nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>“All of our operations have begun within a month of an accident and we usually find the aircraft within two weeks,” Fish says. “When you get into six months or longer, you get stuck. Then you’re dealing with unknown components of the cause of the drift, which have micro-changes all the time. Storms would affect it. Wind directions in storms. The longer it gets, the harder it gets.”</p></div>
+<div class="text smartbody parbase section">
+<p>The flaperon’s months-long drift route could be recreated by modeling weather and ocean current data. But that wouldn’t be of much help.</p></div>
+<div class="text smartbody parbase section">
+<p>“At the end of the day, you would end up with a larger search area than the one we have now,” Fish says. “That Inmarsat satellite data is pretty definitive.”</p></div>
+<div class="text smartbody parbase section">
+<p>A more productive next step, he says, would be to search the rest of Reunion Island, as well as the shorelines of Madagascar and East Africa. One truism of aircraft investigations is this: if one piece of debris is found, there will be others.</p></div>
+<div class="text smartbody parbase section">
+<p>A 150-ton Boeing jet has more than three million parts. If it broke up when it crashed, as the flaperon’s jagged edges suggest, hundreds of thousands of pieces could have bobbed along in the Indian Ocean.</p></div>
+<div class="text smartbody parbase section">
+<h2><b>Waves and Wind</b></h2></div>
+<div class="text smartbody parbase section">
+<p>In retrospect, the absence of any physical evidence from the crash shouldn’t have been that much of a mystery. By the time the search shifted to the Indian Ocean 10 days after the jet disappeared, the flaperon was already on its way and riding the current towards Africa.</p></div>
+<div class="text smartbody parbase section">
+<p>“A very large anti-clockwise rotating current sweeps right up the west coast of Australia and into the tropics, where it heads west,” says Matt Jolly, a New Zealander who traverses those currents as captain of the Braveheart, a 130-foot expedition ship. “It is these very same currents and winds that the sailors of old used in the spice trade, making use of this superhighway to get from Europe to the East Indies and back again.”</p></div>
+<div class="text smartbody parbase section">
+<p>How and where drifting debris travels from one point to another is determined by currents, winds and the shape of the piece, which affects how deep or high it floats.</p></div>
+<div class="text smartbody parbase section">
+<p>“So, while the debris all start off together, as time goes on their locations diverge, mainly because of the shape of the piece and how much of it is hanging in the currents or how much of it is exposed to the wind above the water,” says John Purvis, the former chief of Boeing’s accident investigation team.</p></div>
+<div class="text smartbody parbase section">
+<p>That is why investigators are not as confident that a <a href="http://www.wsj.com/articles/suitcase-found-close-to-suspected-mh370-debris-on-reunion-beach-1438269569"><u>battered suitcase</u></a> found near the flaperon also drifted over from Flight 370. The large, bulky wing section is filled with honeycomb in sealed compartments that keep it buoyant. But what kept the suitcase from sinking?</p></div>
+<div class="text smartbody parbase section">
+<p>Eriksen, who studies how UV rays and the relentless action of waves can reduce a plastic bottle to confetti in mere months, says they could have drifted together, regardless of their differences in size and shape.</p></div>
+<div class="text smartbody parbase section">
+<p>“Both the plane wing and the suitcase are riding the same currents,” he says. “I wouldn’t expect one to outrun the other.”</p></div>
+<div class="text smartbody parbase section">
+<p>But the suitcase’s travels easily could have a less exotic origin. It could just be garbage. Remember early in the search when the shadowy images from the French, Chinese and Thai satellites were thought to be Flight 370 debris? All of it turned out to be ocean trash. &nbsp;</p></div>
+
+</div>
+</span>
+                </div>
+            </div>
+        </div>
+    </article>
+    <div id="sticky-ad__end-measure"></div>
+</section>
+<div class="promobottom PromoBottom OneColumn Promo">      		
+
+
+
+
+
+<section class="bottom-promo">
+    <div class="container">
+        
+        
+            
+                
+                    <div class="row">
+                        <div class="col-md-12 col-md-offset-1">
+                            <div class="more-stories"><p><b>You Might Also Like</b></p>
+</div>
+                        </div>
+                    </div>
+                
+                <div class="row">
+                    <div class="col-md-13 cols-container">
+                        
+                            
+                                
+                                
+                                    
+                                    
+                                        <div class="col-third bottompromo imagetop  ">
+                                            <a href="/news/2014/04/140415-flight-370-indian-ocean-submersible-search--sonar-malaysia-airlines" target="_self" onclick="_gaq.push(['_trackEvent', 'News', 'Module Click', 'Bottom Module']);"><span class="div-filler"></span></a>
+                                            
+                                                
+                                                    
+                                                        <header>
+                                                            <div class="news-image-wrap news-image-wrap--centered news-image-wrap--centered-vertical">
+                                                                <div class="news-image-wrap__center-helper" style="margin-top: -5.014648437500002%">
+                                                                    <div itemprop="contentUrl" class="delayed-image-load" data-src="/content/dam/news/photos/000/786/78667.jpg/{width}/{pixel_ratio}"></div>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            <span class="triangle-up decorator"><i></i></span>
+                                                        </header>
+                                                    
+                                                    
+                                                
+                                            
+                                            <div class="bottompromo__body">
+                                                <p class="bottompromo--series">
+                                                    
+                                                        
+                                                        
+                                                    
+                                                </p>
+                                                <h4 class="bottompromo--title dotdotdot">
+                                                    
+                                                        Can an Unmanned Mini Yellow Submarine Find Missing Flight 370? 
+                                                    
+                                                </h4>
+                                                <div class="bottompromo--text dotdotdot hidden-xs">
+                                                    
+                                                        
+                                                            
+                                                                The submersible searching for Flight 370 is covering 15 square miles (39 square kilometers) a day inside a huge search zone.
+                                                            
+                                                            
+                                                            
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                    
+                                
+                                
+                                
+                            
+                                
+                                
+                                    
+                                    
+                                        <div class="col-third bottompromo imagetop hidden-sm ">
+                                            <a href="/news/2014/03/140315-malaysian-airlines-flight-370-investigation-plane-crashes" target="_self" onclick="_gaq.push(['_trackEvent', 'News', 'Module Click', 'Bottom Module']);"><span class="div-filler"></span></a>
+                                            
+                                                
+                                                    
+                                                        <header>
+                                                            <div class="news-image-wrap news-image-wrap--centered ">
+                                                                <div class="news-image-wrap__center-helper">
+                                                                    <div itemprop="contentUrl" class="delayed-image-load" data-src="/content/dam/news/photos/000/777/77715.jpg/{width}/{pixel_ratio}"></div>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            <span class="triangle-up decorator"><i></i></span>
+                                                        </header>
+                                                    
+                                                    
+                                                
+                                            
+                                            <div class="bottompromo__body">
+                                                <p class="bottompromo--series">
+                                                    
+                                                        
+                                                        
+                                                    
+                                                </p>
+                                                <h4 class="bottompromo--title dotdotdot">
+                                                    
+                                                        How Finding Debris Could Quickly Solve Mystery of Malaysian Airlines Flight
+                                                    
+                                                </h4>
+                                                <div class="bottompromo--text dotdotdot hidden-xs">
+                                                    
+                                                        
+                                                            
+                                                                After a long search for Flight 370 answers could come quickly. Here's how.
+                                                            
+                                                            
+                                                            
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                    
+                                
+                                
+                                
+                            
+                                
+                                
+                                    
+                                    
+                                        <div class="col-third bottompromo imagetop  ">
+                                            <a href="/news/2014/03/140329-missing-jet-malaysia-airlines-search-black-boxes-indian-ocean" target="_self" onclick="_gaq.push(['_trackEvent', 'News', 'Module Click', 'Bottom Module']);"><span class="div-filler"></span></a>
+                                            
+                                                
+                                                    
+                                                        <header>
+                                                            <div class="news-image-wrap news-image-wrap--centered ">
+                                                                <div class="news-image-wrap__center-helper">
+                                                                    <div itemprop="contentUrl" class="delayed-image-load" data-src="/content/dam/news/photos/000/780/78058.jpg/{width}/{pixel_ratio}"></div>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            <span class="triangle-up decorator"><i></i></span>
+                                                        </header>
+                                                    
+                                                    
+                                                
+                                            
+                                            <div class="bottompromo__body">
+                                                <p class="bottompromo--series">
+                                                    
+                                                        
+                                                        
+                                                    
+                                                </p>
+                                                <h4 class="bottompromo--title dotdotdot">
+                                                    
+                                                        Searching for the Missing Malaysian Jet at the Ends of the Earth
+                                                    
+                                                </h4>
+                                                <div class="bottompromo--text dotdotdot hidden-xs">
+                                                    
+                                                        
+                                                            
+                                                                Searchers scour a vast, empty Indian Ocean, with only scant clues of where to look for missing Malaysia Airlines Flight 370.
+                                                            
+                                                            
+                                                            
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                    
+                                
+                                
+                                
+                            
+                        
+                        
+                    </div>
+                </div>
+            
+            
+        
+    </div>
+</section>
+</div>
+
+
+
+
+<div class="print-only clearfix">
+    <hr>
+    <img src="/etc/designs/news/images/ng-black-logo.png" class="print-logo print-img"/>
+    <p class="print-only__copyright">&copy; 1996-2015 National Geographic Society.</p>
+</div>
+
+    
+
+
+
+
+<div class="content Footer">
+      		
+
+
+
+
+<footer id="main-footer" class="hidden-xs hidden-sm">
+    <div class="container">
+        <div class="row">
+            <div id="copyright" class="col-md-5 col-sm-5">
+                <p><img src="/etc/designs/news/images/ng-logo-full-black.svg" class="main-footer-logo"></p>
+                <p class="footer-item copyright-item">&copy; <span itemprop="copyrightYear">1996</span>-2015 <span itemprop="copyrightHolder">National Geographic Society</span>.</p>
+                <p class="footer-item copyright-item">All rights reserved</p>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <h6 class="footer-menu-title">General</h6>
+                <ul class="big-footer-menu">
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/about/">About</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/jobs/">Jobs</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/newsletter/">Newsletter</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/siteindex/international/">Global Sites</a></li>
+                    <li class="footer-item"><a href="http://press.nationalgeographic.com/">Press Room</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/mediakit/">Advertise</a></li>
+                </ul>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <h6 class="footer-menu-title">Shop</h6>
+                <ul class="big-footer-menu">
+                    <li class="footer-item"><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG94281">Store</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/magazines/">Subscribe</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographicexpeditions.com/home?utm_source=travel.nationalgeographic.com&amp;utm_medium=Link&amp;utm_content=Footer_link_Our_Trips&amp;utm_campaign=NGdotcom">Trips</a></li>
+                    <li class="footer-item"><a href="http://events.nationalgeographic.com/">Events</a></li>
+                    <li class="footer-item"><a href="http://events.nationalgeographic.com/events/exhibits/">Exhibits</a></li>
+                </ul>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <h6 class="footer-menu-title">Contact</h6>
+                <ul class="big-footer-menu">
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/siteindex/customer/">Customer Service</a></li>
+                    <li class="footer-item"><a href="https://donate.nationalgeographic.org/Page.aspx?pid=184">Donate</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/community/email/">Contact</a></li>
+                </ul>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <h6 class="footer-menu-title">Follow Nat Geo</h6>
+                <ul class="social-icons-list">
+                    <li class="social-icons-footer"><a href="https://www.facebook.com/natgeo"><i id="icongs-footer-facebook" class="icongs icongs-facebook"></i>&nbsp;</a></li>
+                    <li class="social-icons-footer"><a href="http://instagram.com/natgeo"><i id="icongs-footer-instagram" class="icongs icongs-instagram"></i>&nbsp;</a></li>
+                    <li class="social-icons-footer"><a href="https://twitter.com/NatGeo"><i id="icongs-footer-twitter" class="icongs icongs-twitter"></i>&nbsp;</a></li>
+                </ul>
+                <ul class="terms-privacy">
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/community/terms/">Terms of Service</a></li>
+                    <li class="footer-item"><a href="http://www.nationalgeographic.com/community/privacy/">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<footer id="main-footer" class="hidden-md footer-for-mobile">
+    <div class="container">
+        <div class="row">
+            <div id="copyright" class="col-md-5 col-sm-5"><img src="/etc/designs/news/images/ng-logo-full-black.svg" class="main-footer-logo"></div>
+        </div>
+    </div>
+    <div class="tabs-links clearfix">
+        <h6 id="footer-menu-general" data-tab="tab-info-general" class="footer-menu-title">General</h6>
+        <h6 id="footer-menu-shop" data-tab="tab-info-shop" class="footer-menu-title">Shop</h6>
+        <h6 id="footer-menu-contact" data-tab="tab-info-contact" class="footer-menu-title">Contact</h6>
+    </div>
+    <div class="tabs-info">
+        <ul id="tab-info-general" class="big-footer-menu" style="display: none;">
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/about/">About</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/jobs/">Jobs</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/newsletter/">Newsletter</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/siteindex/international/">Global Sites</a></li>
+            <li class="footer-item"><a href="http://press.nationalgeographic.com/">Press Room</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/mediakit/">Advertise</a></li>
+        </ul>
+        <ul id="tab-info-shop" class="big-footer-menu" style="display: none;">
+            <li class="footer-item"><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG94281">Store</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/magazines/">Subscribe</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographicexpeditions.com/home?utm_source=travel.nationalgeographic.com&amp;utm_medium=Link&amp;utm_content=Footer_link_Our_Trips&amp;utm_campaign=NGdotcom">Trips</a></li>
+            <li class="footer-item"><a href="http://events.nationalgeographic.com/">Events</a></li>
+            <li class="footer-item"><a href="http://events.nationalgeographic.com/events/exhibits/">Exhibits</a></li>
+        </ul>
+        <ul id="tab-info-contact" class="big-footer-menu" style="display: none;">
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/siteindex/customer/">Customer Service</a></li>
+            <li class="footer-item"><a href="https://donate.nationalgeographic.org/Page.aspx?pid=184">Donate</a></li>
+            <li class="footer-item"><a href="http://www.nationalgeographic.com/community/email/">Contact</a></li>
+        </ul>
+    </div>
+    <div class="footer-social-title">Follow Nat Geo</div>
+    <ul class="social-icons-list">
+        <li class="social-icons-footer"><a href="https://www.facebook.com/natgeo"><i id="icongs-footer-facebook" class="icongs icongs-facebook"></i></a>&nbsp;</li>
+        <li class="social-icons-footer"><a href="http://instagram.com/natgeo"><i id="icongs-footer-instagram" class="icongs icongs-instagram"></i></a>&nbsp;</li>
+        <li class="social-icons-footer"><a href="https://twitter.com/NatGeo"><i id="icongs-footer-twitter" class="icongs icongs-twitter"></i></a>&nbsp;</li>
+    </ul>
+    <ul class="terms-privacy">
+        <li class="footer-item"><a href="http://www.nationalgeographic.com/community/terms/">Terms of Service</a></li>
+        <li class="footer-item"><a href="http://www.nationalgeographic.com/community/privacy/">Privacy Policy</a></li>
+    </ul>
+    <div class="copyright">
+        <p class="footer-item">&copy; 1996-2015 National Geographic Society.</p>
+        <p class="footer-item">All rights reserved</p>
+    </div>
+</footer>
+
+
+</div>
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//assets.nationalgeographic.com/modules-livefyre/css/ng_livefyre.css"/>
+<script src="//cdn.livefyre.com/libs/fyre.conv.load.js" type="text/javascript"></script>
+<script type="text/javascript" src="//assets.nationalgeographic.com/modules-livefyre/js/livefyre_auth.js"></script>
+<script type="text/javascript" src="//assets.nationalgeographic.com/modules-livefyre/js/livefyre_manager.js"></script>
+
+
+<script type="text/javascript">
+    var addthis_config = {
+        "data_track_addressbar":false
+    };
+    var addthis_share = {
+        url_transforms: {
+            shorten: {
+                twitter: 'bitly'
+            }
+        },
+        shorteners: {
+            bitly: {}
+        },
+        passthrough: {
+            twitter: {
+                via: "NatGeo"
+            }
+        }
+    }
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ng-dmg"></script>
+
+
+</body>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"6045473","applicationTime":339,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"114b3a1f69","transactionName":"NFVSbRBSCxFYAUBeWA0fYlwTRgARTSNAQ0UKUkVNBxwLB04RG1RYDkBfVwddEREWElVQUhdJQFwRHAQQTQtXW1I=","agent":"js-agent.newrelic.com\/nr-632.min.js","errorBeacon":"bam.nr-data.net"}</script>
+</html>

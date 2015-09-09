@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="ie ie8 lte11 lte10 lte9 lte8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="no-js"><![endif]-->
+<!--[if IE 9]><html class="ie ie9 lte11 lte10 lte9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="no-js" 
+  xmlns:v="http://rdf.data-vocabulary.org/#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"><![endif]-->
+<!--[if !IE]><!--><html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="no-js" 
+  xmlns:v="http://rdf.data-vocabulary.org/#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"><!--<![endif]-->
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EDGE,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta property="og:site_name" content="The Week UK" />
+<meta property="og:url" content="http://www.theweek.co.uk/calais/64108/calais-crisis-how-much-is-it-costing-uk-business" />
+<link rel="canonical" href="http://www.theweek.co.uk/calais/64108/calais-crisis-how-much-is-it-costing-uk-business" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="twitter:image" content="http://cdn1.theweek.co.uk/sites/theweek/files/2015/07/150731_calais.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta name="copyright" content="Dennis Publishing Limited, licensed by Felden" />
+<meta property="twitter:site" content="@TheWeekUK" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="user-scalable=yes, width=device-width, maximum-scale=1.6, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://cdn1.theweek.co.uk/sites/theweek/themes/theweek/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="keywords" content="UK business, Calais, UK News, Europe" />
+<meta property="twitter:site:id" content="21656055" />
+<meta property="twitter:url" content="http://www.theweek.co.uk/calais/64108/calais-crisis-how-much-is-it-costing-uk-business" />
+<meta property="twitter:description" content="Freight transport trade body&#039;s £250m claim disputed, but hauliers put own bills in the thousands" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<link rel="alternate" type="application/rss+xml" title="Latest" href="/feeds/all" />
+<link rel="alternate" type="application/rss+xml" title="People" href="/feeds/people" />
+<link rel="dns-prefetch" href="//" />
+<link rel="dns-prefetch" href="//cdn2.theweek.co.uk" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn1.theweek.co.uk" />
+<link rel="alternate" type="application/rss+xml" title="Sport" href="/feeds/sport" />
+<link rel="alternate" type="application/rss+xml" title="The Mole" href="/feeds/themole" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://cdn1.theweek.co.uk/sites/theweek/files/2015/07/150731_calais.jpg" />
+<meta property="og:description" content="Freight transport trade body&#039;s £250m claim disputed, but hauliers put own bills in the thousands" />
+<meta property="og:title" content="Calais crisis: how much is it costing UK business?" />
+<meta property="twitter:title" content="Calais crisis: how much is it costing UK business?" />
+<meta name="description" content="Freight transport trade body&#039;s £250m claim disputed, but hauliers put own bills in the thousands" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+//--><!]]></script>
+  <title>Calais crisis: how much is it costing UK business? | The Week UK</title>
+  <link type="text/css" rel="stylesheet" href="http://cdn2.theweek.co.uk/sites/theweek/files/advagg_css/css__qShpKRpu_flWrVNcON97f2r4Mn6YfI5hoA85Xl-08AI__4Nt1hEi404SpOQXe3ukz76Zir6ON9vXrxQn7389tsMw__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.theweek.co.uk/sites/theweek/files/advagg_css/css__qBx2Z7-b1SaQFJQc5PwiaBmXkvSNWudBA6hWFbXoyeE__qXyQ8SuHq7jgVjnYZR-4CqE1W7US5Q_toj3rre76jwY__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+@media all{#__mqtest{position:absolute}}.clear{clear:both}.clearfix:after,.clearfix .inner:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;overflow:auto;visibility:hidden}div[id*=block-theweek-round-up-business-briefing] .block-title a{color:#455869}div[id*=block-theweek-round-up-business-briefing] .block-title a:hover{color:#313e4a}div[id*=block-theweek-round-up-business-briefing] .field-name-field-items>.field-items>.field-item a:before{color:#222}div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link span.partnership-logo.aa{background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo.svg");width:160px;background-size:200px auto;top:-2px}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .block-title a{color:#455869}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .block-title a:hover{color:#313e4a}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .block-title a:after{background-color:#455869}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .block-title a:hover:after{background-color:#313e4a}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top .partnership-link span.partnership-logo.aa{background-position:50% 38%}.node-type-round-up #pre-title .highlight:after{float:right;content:' ';width:112px;height:49px;background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo-small.svg");background-repeat:no-repeat;background-size:110px auto;background-position:50% 50%}body.aa-transatlantic-briefing.page-taxonomy #page-title,body.aa-transatlantic-briefing #aa-transatlantic-briefing-header{font-size:2.5em;line-height:1.24444em;margin-top:0;margin-bottom:0;color:#455869;text-align:left}body.aa-transatlantic-briefing #page_title_content{margin-bottom:1em}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-orient:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-bottom:.5em}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text{font-family:"Acto",Helvetica,Arial,Verdana,"Bitstream Vera Sans",sans-serif}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text .aa-logo{background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo.svg");background-repeat:no-repeat;background-size:260px auto;background-position:50% 50%;width:210px;height:44px;display:inline-block;text-indent:-9999px;float:right}body.aa-transatlantic-briefing #aa-transatlantic-briefing-strapline{-webkit-box-ordinal-group:2;-webkit-order:1;-ms-flex-order:1;order:1;margin:0;margin-left:-15px;margin-right:-15px;padding:10px 15px;border-top:solid 5px #455869;font-size:1.5em;line-height:1.55556em;font-weight:300}body.node-type-round-up #block-boxes-transatlantic-promo-box{float:left;width:79.16667%;margin-left:16.66667%;margin-right:-95.83333%;border:1px dotted #bcbcbc}body.node-type-round-up #block-boxes-transatlantic-promo-box a{padding:.5em;display:block;text-decoration:none}body.node-type-round-up #block-boxes-transatlantic-promo-box #transatlantic-promo-box-header{font-size:2.5em;line-height:1.24444em;margin-top:0;margin-bottom:0;color:#455869;text-align:left}body.node-type-round-up #block-boxes-transatlantic-promo-box .assoc-text{font-family:"Acto",Helvetica,Arial,Verdana,"Bitstream Vera Sans",sans-serif}body.node-type-round-up #block-boxes-transatlantic-promo-box .assoc-text .aa-logo{background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo.svg");background-repeat:no-repeat;background-size:260px auto;background-position:50% 50%;width:210px;height:44px;display:inline-block;text-indent:-9999px;float:right}body.node-type-round-up #block-boxes-transatlantic-promo-box:hover{background-color:#f7f7f7}body.node-type-round-up #transatlantic-promo-box-strapline{-webkit-box-ordinal-group:2;-webkit-order:1;-ms-flex-order:1;order:1;margin:0;margin-left:-15px;margin-right:-15px;padding:10px 15px;border-top:solid 5px #455869;font-weight:300}
+#pid-business .business-briefing-in-assoc{position:relative;padding-bottom:50px}#pid-business .business-briefing-in-assoc:before{display:inline-block;content:"In association with";background-repeat:no-repeat;background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo.svg");background-size:auto 50px;background-position:right -4px;color:#c7c7c7;font-size:.555em;line-height:2.17778em;height:50px;line-height:50px;padding-right:195px;position:absolute;bottom:0;left:0}@media screen and (max-width:47.44444em){body.node-type-round-up #block-boxes-transatlantic-promo-box{float:left;width:87.5%;margin-left:4.16667%;margin-right:-91.66667%;margin-bottom:1em}body.node-type-round-up #block-boxes-transatlantic-promo-box #transatlantic-promo-box-header{font-size:2em;line-height:1.55556em}body.node-type-round-up #transatlantic-promo-box-strapline{margin:0}}@media only screen and (max-width:47.44444em) and (max-width:440px){body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .partnership-top{top:61.7136px}body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .field-name-field-items{margin-top:61.7136px}}@media only screen and (max-width:47.44444em) and (min-width:441px) and (max-width:580px){body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .partnership-top{width:160px;text-align:center;top:auto}body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link{line-height:1}body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link span.partnership-text{display:block;font-size:10px;position:relative;top:10px}body#pid-homepage div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link span.partnership-logo{height:54px;margin:0}}@media screen and (min-width:47.5em){body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top{right:15px}.node-type-round-up #pre-title .highlight:after{width:170px;height:69px;background-size:180px auto}body.aa-transatlantic-briefing #page_title_content{position:relative}body.aa-transatlantic-briefing.page-taxonomy #page-title,body.aa-transatlantic-briefing #aa-transatlantic-briefing-header{font-size:3em;line-height:1.86667em}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership{display:block}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text{position:absolute;top:0;right:15px;height:100.8px}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text .aa-logo{background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo-small.svg");background-size:160px auto;width:150px;height:100%}body.aa-transatlantic-briefing #aa-transatlantic-briefing-strapline{padding:10px 0;margin:0 15px}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-partnership{padding:0 15px}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-strapline{margin:0}#pid-business .business-briefing-in-assoc{padding-bottom:0}#pid-business .business-briefing-in-assoc:before{bottom:auto;top:-10px;left:auto;right:-20px}}@media screen and (min-width:47.5em) and (max-width:61.81944em){body.node-type-round-up #block-boxes-transatlantic-promo-box{margin:auto;width:100%;margin-bottom:1em}}@media only screen and (min-width:47.5em) and (max-width:61.81944em) and (max-width:809px){body#pid-homepage #content>div[id*=block-theweek-round-up-business-briefing].block .block-title-desc{display:none}}@media only screen and (min-width:47.5em) and (max-width:61.81944em) and (min-width:810px) and (max-width:920px){body#pid-homepage #content>div[id*=block-theweek-round-up-business-briefing] .partnership-top{width:160px;text-align:center;top:auto}body#pid-homepage #content>div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link{line-height:1}body#pid-homepage #content>div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link span.partnership-text{display:block;font-size:10px;position:relative;top:10px}body#pid-homepage #content>div[id*=block-theweek-round-up-business-briefing] .partnership-top .partnership-link span.partnership-logo{height:54px;margin:0}}@media screen and (min-width:61.875em){body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top .partnership-link{font-size:.555em;line-height:7.20713em}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top .partnership-link span.partnership-text{position:relative;top:6px;margin-right:5px}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top .partnership-link span.partnership-logo{background-size:320px auto;width:250px;position:relative}body#pid-homepage #content>#block-theweek-round-up-business-briefing-home .partnership-top .partnership-link span.partnership-logo.aa{background-position:50% 38%}.node-type-round-up #pre-title .highlight:after{width:320px;height:71px;background-size:410px auto;background-image:url("/sites/theweek/modules/features/aa_transatlantic_briefing/images/aa-logo.svg")}body.aa-transatlantic-briefing #page_title_content{margin:0 15px}body.aa-transatlantic-briefing.page-taxonomy #page-title,body.aa-transatlantic-briefing #aa-transatlantic-briefing-header{font-size:2.5em;line-height:1.86667em;padding:0}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text{height:84px;right:0}body.aa-transatlantic-briefing #aa-transatlantic-briefing-strapline{margin:0;padding:.5em 0}body.aa-transatlantic-briefing.page-node #page_title_content{float:left;width:87.5%;margin-left:12.5%;margin-right:-100%;float:none;padding-right:15px;box-sizing:border-box}body.aa-transatlantic-briefing.page-node #page_title_content #page-title{float:left;width:100%;margin-left:0;margin-right:-100%;float:none}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-header{font-size:2.2em;line-height:2.12121em}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-partnership{padding:0}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-partnership>.assoc-text{right:15px}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-partnership>.assoc-text .aa-logo{background-size:120px auto;width:120px}}@media screen and (min-width:76.875em){body.aa-transatlantic-briefing.page-taxonomy #page-title,body.aa-transatlantic-briefing #aa-transatlantic-briefing-header{font-size:3.8em;line-height:1.47368em}body.aa-transatlantic-briefing #aa-transatlantic-briefing-partnership>.assoc-text{height:100.8px}body.aa-transatlantic-briefing #aa-transatlantic-briefing-strapline{font-size:1.5em;line-height:2.9037em;padding:0}body.aa-transatlantic-briefing.page-node #page_title_content{float:left;width:79.16667%;margin-left:16.66667%;margin-right:-95.83333%;float:none;padding-left:27px}body.aa-transatlantic-briefing.page-node #page_title_content #page-title{float:left;width:100%;margin-left:0;margin-right:-100%;float:none;padding-left:0}body.aa-transatlantic-briefing.page-node #aa-transatlantic-briefing-header{font-size:3em;line-height:1.86667em;margin-top:-16px}}
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<!--[if IE 9]>
+<script type="text/javascript" src="http://cdn2.theweek.co.uk/sites/theweek/files/advagg_js/js__4yNwYVelofFmpyrjdWTG-iMl-2Lk47KeHlpPCtBoIzM__HWDHPJjYTHomNK_amg-crnbwkDBHMkEgLhkP7eq-saA__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://cdn1.theweek.co.uk/sites/theweek/files/advagg_js/js__ugnOxdOluq8komMYRikIVA1drtuYGhSxprcbhb4oI9I__BaVvCUT1wgiURdXfr-ds8j702fJ1rnOuj1d_JodTLeM__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.js"></script>
+<script type="text/javascript" src="http://cdn1.theweek.co.uk/sites/theweek/files/advagg_js/js__zkUgFrI0gQpyT5GKo7en1xzYdPFsLmuLC4h9wURYhtI__zuTMkwHAQ7NQ7H5113qh12tiV-_g44K0Gk_XaO7j-Ss__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.js"></script>
+
+<!--[if lte IE 8]>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(){var e=['header','nav','section','article','aside','footer','hgroup'];for(var i=0;i<e.length;i++)document.createElement(e[i]);}());
+//--><!]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window.google_analytics_uacct="UA-31114-1";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var googletag=googletag||{};googletag.cmd=googletag.cmd||[];googletag.slots=googletag.slots||{};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+googletag.slots["out_of_page"]=googletag.defineOutOfPageSlot("/359/theweek.co.uk/calais","dfp-ad-out_of_page").addService(googletag.pubads()).setTargeting("position","1");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+googletag.slots["respond_content"]=googletag.defineSlot("/359/theweek.co.uk/calais",[10,10],"dfp-ad-respond_content").addService(googletag.pubads()).setTargeting("position","1").setTargeting("siteadunit","58");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[1,2]).build();googletag.slots["mobile_1"]=googletag.defineSlot("/359/theweek.co.uk/calais",[[320,50],[300,250]],"dfp-ad-mobile_1").addService(googletag.pubads()).setTargeting("position","1").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[[300,250],[300,600]]).addSize([980,0],[1,2]).build();googletag.slots["mpu_1_narrow"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_1_narrow").addService(googletag.pubads()).setTargeting("position","1").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[[300,250],[300,600]]).addSize([980,0],[1,2]).build();googletag.slots["mpu_2_narrow"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_2_narrow").addService(googletag.pubads()).setTargeting("position","2").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[1,2]).build();googletag.slots["mobile_2"]=googletag.defineSlot("/359/theweek.co.uk/calais",[[320,50],[300,250]],"dfp-ad-mobile_2").addService(googletag.pubads()).setTargeting("position","2").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[1,2]).build();googletag.slots["mobile_3"]=googletag.defineSlot("/359/theweek.co.uk/calais",[[320,50],[300,250]],"dfp-ad-mobile_3").addService(googletag.pubads()).setTargeting("position","3").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[[300,250],[300,600]]).addSize([980,0],[1,2]).build();googletag.slots["mpu_3_narrow"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_3_narrow").addService(googletag.pubads()).setTargeting("position","3").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([980,0],[[300,250],[300,600]]).build();googletag.slots["mpu_1"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_1").addService(googletag.pubads()).setTargeting("position","1").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([980,0],[[300,250],[300,600]]).build();googletag.slots["mpu_2"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_2").addService(googletag.pubads()).setTargeting("position","2").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([980,0],[[300,250],[300,600]]).build();googletag.slots["mpu_3"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-mpu_3").addService(googletag.pubads()).setTargeting("position","3").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([1200,0],[1000,800]).build();googletag.slots["skin"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-skin").addService(googletag.pubads()).setTargeting("position","1").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([760,0],[728,90]).build();googletag.slots["leaderboard_1"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-leaderboard_1").addService(googletag.pubads()).setTargeting("position","1").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var mapping=googletag.sizeMapping().addSize([990,0],[[994,250],[970,250],[728,90]]).addSize([760,0],[728,90]).build();googletag.slots["billboard_leaderboard"]=googletag.defineSlot("/359/theweek.co.uk/calais",[1,2],"dfp-ad-billboard_leaderboard").addService(googletag.pubads()).setTargeting("position","2").defineSizeMapping(mapping);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function async(src,callback){var s=document.createElement("script");s.type="text/javascript";s.src=src;s.async=true;if(!s.addEventListener){s.onreadystatechange=function(){if(s.readyState in{loaded:1,complete:1}){s.onreadystatechange=null;callback();}}}else{s.addEventListener("load",function(e){callback(null,e);},false);}var head=document.getElementsByTagName("head")[0];head.appendChild(s);}async("http://responddiscovery.blob.core.windows.net/scripts/respond-discovery-placement.min.js",function(){var options={placement1:{id:"dfp-ad-respond_content",parentContainer:".field-name-body .field-items .field-item",parentChildren:"p",position:"5",},};Respond.AdBuilder(options,function(){});});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+googletag.cmd.push(function(){googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs(true);googletag.pubads().setCentering(true);googletag.pubads().setTargeting("article-type","one-minute-read");googletag.pubads().setTargeting("primary-category","uk-business");googletag.pubads().setTargeting("category",["uk-business","uk-news","europe"]);googletag.pubads().setTargeting("tags",["calais","uk-immigration","eu-immigration"]);googletag.pubads().setTargeting("ad-category","airline-safe");googletag.pubads().setTargeting("zone","calais");googletag.pubads().setTargeting("article","64108");googletag.pubads().setTargeting("live","yes");googletag.pubads().setTargeting("ord","1585778506");});googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+requirejs.config({"paths":{"main":"http:\/\/cdn1.theweek.co.uk\/sites\/theweek\/modules\/custom\/theweek_js\/dist\/main.c859062c","savvior":"http:\/\/cdn2.theweek.co.uk\/sites\/theweek\/libraries\/savviorjs\/dist\/savvior.min"},"waitSeconds":0,"shim":{"lazyload":{"exports":"lazyload"},"rrssb":["jquery"],"swfobject":{"exports":"swfobject"},"sticky-kit":["jquery"]},"bundles":{"main":["has"]}});define("googletag",[],function(){return googletag});define("jquery",[],function(){return jQuery});define("drupal",[],function(){return Drupal});define("jquery.once",[],function(){return jQuery.fn.once});(jQuery(function(){require(["drupal","has"],function(Drupal,has){var settings=Drupal.settings.dennisJs;requirejs.config({"provision":{"dynamicgpt":{"test":false},"enquire":{"test":has.mm()},"dfp\/gptrefresh":{"test":settings.dynamicgpt.use&&!!settings.dynamicgpt.slots},"savvior":{"build":false,"test":settings.narrowStacked.use&&has.mq()},"fastclick":{"test":settings.useFastClick&&window.addEventListener&&has.touch()},"dropdowntouch":{"test":settings.useResponsive&&has.touch()&&has.mm()}}});require(["main"],function(app){app.init();});});}));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var _vwo_code=(function(){var account_id=28981,settings_tolerance=2000,library_tolerance=1500,use_existing_jquery=false,f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function($){typeof $&&typeof $.fn.on!=="function"&&$.fn.extend({on:function(event,callback,fallback){switch(typeof callback){case"function":return this.live(event,callback);case"string":return $(callback).live(event,fallback);}}});}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-31114-1",{"cookieDomain":"auto"});ga("require","linkid","linkid.js");ga("require","displayfeatures");ga("set","dimension2","0");ga("set","dimension3","UK business");ga("set","dimension4","20150731");ga("set","dimension5","One-Minute Read");ga("set","dimension7","Calais");ga("set","dimension8","64108");ga("send","pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function(w,d){var s=d.createElement("script"),el=d.getElementsByTagName("script")[0];s.async=true;s.src="http://cdn1.theweek.co.uk/profiles/dennis_distro/libraries/implied-consent/dist/implied-consent.min.js";el.parentNode.insertBefore(s,el);})(this,this.document);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function($){if((/Trident\/7\./).test(navigator.userAgent))
+$("html").addClass("ie11 lte11");else if($.browser.msie&&$.browser.version==10)
+$("html").addClass("ie10 lte10 lte11");}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+googletag.cmd.push(function(){googletag.pubads().addEventListener('slotRenderEnded',function(e){if((e.slot==googletag.slots.respond_homepage)&&(e.isEmpty===false)){document.body.className+=' dfp-ad-respond-homepage-enabled';}});});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window._taboola=window._taboola||[];_taboola.push({article:'auto'});!function(e,f,u){e.async=1;e.src=u;f.parentNode.insertBefore(e,f);}
+(document.createElement('script'),document.getElementsByTagName('script')[0],'http://cdn.taboola.com/libtrc/dennispublishing-network/loader.js');
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"theweek","theme_token":"PALmB2VQrnZNj-KcMFGRPviwSNKPDXTCkmxYc23uApM","js":{"0":1,"profiles\/dennis_distro\/libraries\/media-match\/media.match.min.js":1,"1":1,"profiles\/dennis_distro\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"profiles\/dennis_distro\/libraries\/requirejs\/require.js":1,"2":1,"profiles\/dennis_distro\/modules\/features\/dennis_dfp\/dennis_dfp.js":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"profiles\/dennis_distro\/libraries\/jquery-migrate\/jquery-migrate-1.2.1.min.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"sites\/theweek\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/theweek\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/theweek\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/theweek\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/dennis_distro\/libraries\/jwplayer\/jwplayer.js":1,"profiles\/dennis_distro\/modules\/contrib\/pullquote\/pullquote.js":1,"20":1,"21":1,"profiles\/dennis_distro\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"22":1,"profiles\/dennis_distro\/modules\/contrib\/google_analytics_et\/js\/google_analytics_et.js":1,"23":1,"profiles\/dennis_distro\/modules\/contrib\/multipage_navigation\/multipage_navigation.js":1,"profiles\/dennis_distro\/modules\/contrib\/field_group\/field_group.js":1,"sites\/theweek\/modules\/contrib\/disqus\/disqus_ga\/disqus_ga.js":1,"sites\/theweek\/modules\/contrib\/disqus\/disqus.js":1,"24":1,"25":1,"26":1,"http:\/\/tags.crwdcntrl.net\/c\/4895\/cc.js?ns=_cc4895":1,"http:\/\/thefirstpost.uk.intellitxt.com\/ast\/js\/dennis\/theweek.js":1,"profiles\/dennis_distro\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"profiles\/dennis_distro\/modules\/contrib\/picture\/picture.js":1,"sites\/theweek\/libraries\/rrssb\/js\/rrssb.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"sites\/theweek\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.css":1,"profiles\/dennis_distro\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/theweek\/libraries\/rrssb\/css\/rrssb.css":1,"sites\/theweek\/modules\/contrib\/sharerich\/css\/sharerich.css":1,"profiles\/dennis_distro\/modules\/contrib\/multipage_navigation\/multipage_navigation.css":1,"sites\/theweek\/modules\/contrib\/wysiwyg_boxout\/plugins\/boxout\/boxout.css":1,"sites\/theweek\/modules\/contrib\/wysiwyg_boxout\/wysiwyg_boxout.css":1,"profiles\/dennis_distro\/modules\/contrib\/wysiwyg_smart_paging_seo\/wysiwyg_smart_paging_seo.css":1,"profiles\/dennis_distro\/themes\/custom\/dennis_base_v2\/css\/master.css":1,"sites\/theweek\/themes\/theweek\/css\/site.css":1,"0":1,"1":1}},"chartbeat":{"uid":3301,"domain":"theweek.co.uk"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["default"]},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"dennisJs":{"dynamicgpt":{"use":true,"slots":{"mobile":["mobile_1","mobile_2","mobile_3"],"narrow":["mpu_1_narrow","mpu_2_narrow","mpu_3_narrow","leaderboard_1"],"desktop":["mpu_1","mpu_2","mpu_3","leaderboard_1","billboard_leaderboard"],"wide":["mpu_1","mpu_2","mpu_3","leaderboard_1","billboard_leaderboard","skin"]}},"breakpoints":{"mobile":"screen and (max-width: 759px)","narrow":"screen and (min-width: 760px) and (max-width: 989px)","desktop":"screen and (min-width: 990px) and (max-width: 1229px)","wide":"screen and (min-width: 1230px)","narrowandup":"screen and (min-width: 760px)","desktopandup":"screen and (min-width: 990px)"},"narrowStacked":{"use":true,"adRefresh":true,"config":{".region-sidebar-second":{"screen and (max-width: 759px)":{"columns":"1","filter":null},"screen and (min-width: 760px) and (max-width: 989px)":{"columns":"2","filter":"#block-dfp-mpu-1, #block-dfp-mpu-2, #block-dfp-mpu-3, #block-onscroll-onscroll"},"screen and (min-width: 990px) and (max-width: 1229px)":{"columns":"1","filter":null},"screen and (min-width: 1230px)":{"columns":"1","filter":null}}}},"useFastClick":true,"useResponsive":true,"useFixedIe8":false,"useSnap":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleAnalyticsETSettings":{"selectors":[{"event":"mousedown","selector":"#block-theweek-round-up-business-briefing-home a","category":"American Airlines Homepage","action":"click","label":"!text","value":0,"noninteraction":false},{"event":"mousedown","selector":"#block-theweek-round-up-business-briefing-sidebar a","category":"American Airlines Right Hand Rail","action":"click","label":"!text","value":0,"noninteraction":false},{"event":"mousedown","selector":".sharerich-buttons li","category":"Share Button","action":"!text","label":"!currentPage","value":0,"noninteraction":false}],"settings":[]},"field_group":{"simplediv":"picture_caption","primary-media":"full"},"disqus":{"domain":"dennis-theweek","url":"http:\/\/www.theweek.co.uk\/calais\/64108\/calais-crisis-how-much-is-it-costing-uk-business","title":"Calais crisis: how much is it costing UK business?","identifier":"node\/64108","callbacks":{"onNewComment":["disqusTrackNewComment"]}},"theweek_related_content":{"tid":"61"},"flourish":{"characterData":[{"id":"64126","title":"Armed America","summary":"Why has Obama failed to bring guns under control?","image":"http:\/\/cdn1.theweek.co.uk\/sites\/theweek\/files\/styles\/flourish_character\/public\/2015\/07\/jong_il.jpg?itok=bX7EKjBQ","path":"\/64155\/gun-control-in-america-why-are-guns-out-of-control","path_external":false},{"id":"64252","title":"Stopping Islamic State","summary":"Will Cameron\u0027s \u0027full-spectrum\u0027 response halt their advance?","image":"http:\/\/cdn2.theweek.co.uk\/sites\/theweek\/files\/styles\/flourish_character\/public\/2015\/06\/putin.jpg?itok=DRHDiDaQ","path":"\/isis\/59001\/isis-after-tunisia-how-can-islamic-state-be-stopped","path_external":false}]}});
+//--><!]]>
+</script>
+</head>
+<body id="pid-calais-64108-calais-crisis-how-much-is-it-costing-uk-business" class="html not-front not-logged-in page-node page-node- page-node-64108 node-type-article one-sidebar sidebar-second narrow-stacked snap" >
+  <div class="skip-link">
+    <a href="#main-content-area">Skip to main content area</a>
+  </div>
+    <div id="page-top" class="region region-page-top page-top">
+    <div id="dfp-ad-out_of_page-wrapper" class="dfp-tag-wrapper element-hidden">
+<div  id="dfp-ad-out_of_page" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-out_of_page");
+    });
+  </script>
+</div>
+</div><div id="__mqtest"></div>  </div>
+  <div id="snap-content">
+
+  <div id="pre-page" class="region region-pre-page pre-page">
+    <div id="block-dfp-skin" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-skin-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-skin" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-skin");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+  </div>
+
+<header id="header-group" class="page-header">
+  <div id="header-group-inner">
+
+      <div id="header-top" class="region region-header-top header-top">
+    <div id="block-dfp-leaderboard-1" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-leaderboard_1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-leaderboard_1" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-leaderboard_1");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+  </div>
+
+          <button id="menu-toggle" class="nav-button button-site-menus app-style" type="button">
+        <span>Toggle menus</span>
+      </button>
+              <span class="logo-wrapper" vocab="http://schema.org/" typeof="Organization">
+        <a class="site-logo" property="url" href="http://www.theweek.co.uk/" title="The Week UK" rel="home">
+          <img property="logo" src="http://cdn2.theweek.co.uk/sites/theweek/themes/theweek/logo.png" alt="The Week UK" />
+        </a>
+      </span>
+                  <button id="search-toggle" class="nav-button button-site-search" type="button">
+        <span>Toggle search</span>
+      </button>
+        
+      <div id="header" class="region region-header header">
+    <div id="block-theweek-flourish-flourish-character" class="block block-theweek-flourish">
+
+      
+    <div class="content">
+    <div id="theweek-flourish-character"></div><div id="theweek-flourish-character-text"></div>  </div>
+  </div>
+<div id="block-search-form" class="block block-search">
+
+      
+    <div class="content">
+    <form class="form-search form-search-block" action="/calais/64108/calais-crisis-how-much-is-it-costing-uk-business" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="SEARCH THE SITE" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><button class="form-search-submit form-submit" type="submit" id="edit-submit" name="op" value="&lt;span&gt;Search&lt;/span&gt;"><span>Search</span></button></div><input type="hidden" name="form_build_id" value="form-q_88QJlcqEhMzv1ynexu6YU0TwCHA3amOvQcz2CVBbY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  </div>
+<div id="block-menu-menu-site-top-menu" class="block block-menu">
+
+      <p class="block-title">Subscribe</p>
+    
+    <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="http://subscription.theweek.co.uk/subscribe/&amp;utm_source=WEK_content_site&amp;utm_medium=display&amp;utm_campaign=top_right_subs_block/">Try 6 free issues of The Week magazine</a></li>
+</ul>  </div>
+  </div>
+  </div>
+  </div> <!-- /.header-group-inner -->
+</header>
+
+<nav id="site-menus" class="site-menus">
+  <div id="site-menus-main-menu">
+      <div id="main-menu" class="region region-main-menu main-menu">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      <h4 class="block-title">Main menu</h4>
+    
+    <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/news-opinion">News</a></li>
+<li class="leaf"><a href="/business" title="">Business</a></li>
+<li class="leaf"><a href="/technology">Technology</a></li>
+<li class="leaf"><a href="/prosper"> Money</a></li>
+<li class="leaf"><a href="/arts-life">Arts+Life</a></li>
+<li class="leaf"><a href="/people">People</a></li>
+<li class="leaf"><a href="/sport">Sport</a></li>
+<li class="leaf"><a href="/video" class="video">Videos</a></li>
+<li class="last leaf"><a href="http://subscription.theweek.co.uk/subscribe/&amp;utm_source=WEK_content_site&amp;utm_medium=display&amp;utm_campaign=menu_link/" class="subscriptions">Subscriptions</a></li>
+</ul>  </div>
+  </div>
+  </div>
+  </div>
+  <div id="site-menus-secondary-menu">
+      <div id="secondary-menu" class="region region-secondary-menu secondary-menu">
+    <div id="block-menu-menu-sections-menu" class="block block-menu">
+
+      <p class="block-title">Sections</p>
+    
+  </div>
+<div id="block-menu-secondary-menu" class="block block-menu">
+
+      <p class="block-title">Secondary menu</p>
+    
+    <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/labour-leader/62858/labour-leader-corbyn-win-could-spark-david-miliband-return">Labour leader</a></li>
+<li class="leaf"><a href="/greece/62554/greece-crisis-tsipras-proposes-second-bailout-referendum">Greek crisis</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/world-news/isis/59001/isis-who-are-islamic-state-and-can-they-be-stopped">Islamic State</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/eu-referendum/63710/eu-referendum-back-me-or-go-cameron-tells-senior-tories">EU Referendum</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/business/gold-price/61682/gold-price-2015-experts-divided-on-whether-metal-will-rise-or-fall">Gold price</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/62887/jeremy-clarkson-i-will-start-a-new-car-show">Jeremy Clarkson</a></li>
+<li class="last leaf"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=78642780&amp;iu=/359/impcount.co.uk">US Business</a></li>
+</ul>  </div>
+  </div>
+  </div>
+  </div>
+</nav>
+
+<div id="page" class="page">
+
+    <div id="preface-top" class="region region-preface-top preface-top">
+    <div id="block-dfp-billboard-leaderboard" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-billboard_leaderboard-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-billboard_leaderboard" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-billboard_leaderboard");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+  </div>
+
+        
+    <div id="pre-title" class="region region-pre-title pre-title">
+    <div id="block-theweek-topics-topic" class="block block-theweek-topics">
+
+      
+    <div class="content">
+    <h3 class='highlight'><a href="/tags/calais">Calais</a></h3>  </div>
+  </div>
+  </div>
+
+  <div id="main" class="page-main-area"  typeof="schema:Article">
+
+    <a id="main-content-area"></a>
+
+    <!-- page title -->
+              
+    
+    <main id="group-content" class="group group-content">
+
+      <!-- tabs / messages etc. -->
+                        
+      
+              
+        <div id="page_title_content">
+          <h1 id="page-title" class="page-title title">Calais crisis: how much is it costing UK business?</h1><span property="schema:headline" content="Calais crisis: how much is it costing UK business?" class="rdf-meta element-hidden"></span>
+        </div>
+        <div id="content" class="region region-content content">
+    <div id="block-system-main" class="block block-system">
+
+      
+    <div class="content">
+    
+<div class="node node-article node-promoted odd node-full">
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-published-date field-type-datetime field-label-hidden">  
+  <div class="field-items">      <div class="field-item even" property="schema:datePublished" content="2015-07-31T08:34:00+01:00" datatype="xsd:dateTime"><span class="date-display-single" property="schema:datePublished" content="2015-07-31T08:34:00+01:00" datatype="xsd:dateTime">Jul 31, 2015</span></div>    </div></div><h2 class="short-teaser" property="schema:description">
+Freight transport trade body&#039;s £250m claim disputed, but hauliers put own bills in the thousands</h2><div class="field-group-format group_meta group-meta field-group-div"><span class="field field-name-field-article-type field-type-taxonomy-term-reference field-label-hidden">
+      <span class="field-item even">One-Minute Read</span>
+  </span><div  class="sharerich-wrapper sharerich-theweek-article-wrapper sharerich-1">
+        <div  class="item-list"><ul  class="sharerich-buttons rrssb-buttons clearfix"><li class="whatsapp first" weight="-10"><a href="whatsapp://send?text=Calais crisis: how much is it costing UK business?%20http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business" class="popup">
+  <span class="icon">
+    <svg height="28" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="28" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+        <defs id="defs12" />
+      <g id="g5124">
+        <rect height="512" id="rect2987" rx="64" ry="64" style="fill:#65bc54;fill-opacity:1;fill-rule:nonzero;stroke:none" width="512" x="0" y="0" />
+        <path d="m 456,250.85266 c 0,107.60904 -87.9126,194.8442 -196.36397,194.8442 -34.43066,0 -66.77677,-8.80168 -94.9199,-24.24162 L 56.000005,456 91.437745,351.45584 C 73.559715,322.08872 63.265025,287.65523 63.265025,250.85124 63.265025,143.23516 151.18049,56 259.63463,56 368.0874,56.001 456,143.23657 456,250.85266 z M 259.63603,87.03196 c -91.04092,0 -165.093965,73.49248 -165.093965,163.8207 0,35.84056 11.683465,69.04162 31.446055,96.04529 l -20.62177,60.83151 63.44285,-20.16403 c 26.07126,17.11323 57.29196,27.09805 90.82543,27.09805 91.02965,0 165.09396,-73.48543 165.09396,-163.81224 0,-90.3268 -74.06292,-163.81928 -165.09256,-163.81928 z m 99.15526,208.68972 c -1.20989,-1.98879 -4.4185,-3.18602 -9.22424,-5.5706 -4.81705,-2.3874 -28.48964,-13.94551 -32.894,-15.53429 -4.41845,-1.59301 -7.63122,-2.39304 -10.83838,2.38458 -3.20432,4.79028 -12.42856,15.53429 -15.24273,18.72031 -2.80853,3.19166 -5.60863,3.59026 -10.42569,1.20003 -4.80578,-2.38739 -20.32177,-7.4284 -38.70826,-23.70215 -14.30749,-12.65815 -23.96978,-28.2854 -26.77831,-33.07147 -2.80854,-4.77903 -0.2972,-7.3622 2.10993,-9.73975 2.16626,-2.14796 4.81423,-5.58186 7.22416,-8.36364 2.40712,-2.79447 3.20715,-4.78184 4.80861,-7.96926 1.61272,-3.18884 0.80002,-5.97485 -0.3986,-8.3707 -1.20286,-2.38317 -10.83274,-25.88955 -14.84415,-35.449 -4.01138,-9.55947 -8.0115,-7.96646 -10.82568,-7.96646 -2.80996,0 -6.01569,-0.40002 -9.22987,-0.40002 -3.20997,0 -8.42703,1.19864 -12.83562,5.97344 -4.41001,4.78325 -16.84138,16.33291 -16.84138,39.83365 0,23.50497 17.24279,46.21133 19.65273,49.39594 2.40431,3.17756 33.28838,52.9721 82.21811,72.10228 48.94802,19.11328 48.94802,12.74407 57.77365,11.937 8.81437,-0.78735 28.46992,-11.54403 32.48832,-22.70072 4.0086,-11.14964 4.0086,-20.71896 2.8114,-22.70917 z" id="WhatsApp_2_" style="fill:#ffffff;fill-rule:evenodd" />
+      </g>
+    </svg>
+  </span>
+  <span class="text">whatsapp</span>
+</a>
+</li>
+<li class="facebook" weight="-10"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business" class="popup">
+  <span class="icon">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+          <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434
+              c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726
+              c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
+      </svg>
+  </span>
+  <span class="text">facebook</span>
+</a>
+</li>
+<li class="twitter" weight="-9"><a href="http://twitter.com/home?status=Calais crisis: how much is it costing UK business?%20http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business" class="popup">
+  <span class="icon">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+      <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32
+          c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155
+          C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965
+          C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683
+          c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851
+          C26.275,7.229,25.39,8.196,24.253,8.756z"/>
+      </svg>
+  </span>
+  <span class="text">twitter</span>
+</a>
+</li>
+<li class="googleplus" weight="-8"><a href="https://plus.google.com/share?url=Calais crisis: how much is it costing UK business?%20http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business" class="popup">
+  <span class="icon">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+          <g>
+            <g>
+              <path d="M14.703,15.854l-1.219-0.948c-0.372-0.308-0.88-0.715-0.88-1.459c0-0.748,0.508-1.223,0.95-1.663
+                      c1.42-1.119,2.839-2.309,2.839-4.817c0-2.58-1.621-3.937-2.399-4.581h2.097l2.202-1.383h-6.67c-1.83,0-4.467,0.433-6.398,2.027
+                      C3.768,4.287,3.059,6.018,3.059,7.576c0,2.634,2.022,5.328,5.604,5.328c0.339,0,0.71-0.033,1.083-0.068
+                      c-0.167,0.408-0.336,0.748-0.336,1.324c0,1.04,0.551,1.685,1.011,2.297c-1.524,0.104-4.37,0.273-6.467,1.562
+                      c-1.998,1.188-2.605,2.916-2.605,4.137c0,2.512,2.358,4.84,7.289,4.84c5.822,0,8.904-3.223,8.904-6.41
+                      c0.008-2.327-1.359-3.489-2.829-4.731H14.703z M10.269,11.951c-2.912,0-4.231-3.765-4.231-6.037c0-0.884,0.168-1.797,0.744-2.511
+                      c0.543-0.679,1.489-1.12,2.372-1.12c2.807,0,4.256,3.798,4.256,6.242c0,0.612-0.067,1.694-0.845,2.478
+                      c-0.537,0.55-1.438,0.948-2.295,0.951V11.951z M10.302,25.609c-3.621,0-5.957-1.732-5.957-4.142c0-2.408,2.165-3.223,2.911-3.492
+                      c1.421-0.479,3.25-0.545,3.555-0.545c0.338,0,0.52,0,0.766,0.034c2.574,1.838,3.706,2.757,3.706,4.479
+                      c-0.002,2.073-1.736,3.665-4.982,3.649L10.302,25.609z"/>
+              <polygon points="23.254,11.89 23.254,8.521 21.569,8.521 21.569,11.89 18.202,11.89 18.202,13.604 21.569,13.604 21.569,17.004
+                      23.254,17.004 23.254,13.604 26.653,13.604 26.653,11.89      "/>
+            </g>
+          </g>
+      </svg>
+  </span>
+  <span class="text">google+</span>
+</a>
+</li>
+<li class="linkedin" weight="-7"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business&amp;title=Calais crisis: how much is it costing UK business?" class="popup">
+  <span class="icon">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+          <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803
+              c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048
+              h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501
+              c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546
+              C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
+      </svg>
+  </span>
+  <span class="text">linkedin</span>
+</a>
+</li>
+<li class="email last" weight="-6"><a href="mailto:?subject=Calais crisis: how much is it costing UK business?&amp;body=http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business" class="nopopup">
+  <span class="icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+           version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28"
+           enable-background="new 0 0 28 28" xml:space="preserve"><g>
+          <path d="M20.111 26.147c-2.336 1.051-4.361 1.401-7.125 1.401c-6.462 0-12.146-4.633-12.146-12.265 c0-7.94 5.762-14.833 14.561-14.833c6.853 0 11.8 4.7 11.8 11.252c0 5.684-3.194 9.265-7.399 9.3 c-1.829 0-3.153-0.934-3.347-2.997h-0.077c-1.208 1.986-2.96 2.997-5.023 2.997c-2.532 0-4.361-1.868-4.361-5.062 c0-4.749 3.504-9.071 9.111-9.071c1.713 0 3.7 0.4 4.6 0.973l-1.169 7.203c-0.388 2.298-0.116 3.3 1 3.4 c1.673 0 3.773-2.102 3.773-6.58c0-5.061-3.27-8.994-9.303-8.994c-5.957 0-11.175 4.673-11.175 12.1 c0 6.5 4.2 10.2 10 10.201c1.986 0 4.089-0.43 5.646-1.245L20.111 26.147z M16.646 10.1 c-0.311-0.078-0.701-0.155-1.207-0.155c-2.571 0-4.595 2.53-4.595 5.529c0 1.5 0.7 2.4 1.9 2.4 c1.441 0 2.959-1.828 3.311-4.087L16.646 10.068z"/>
+        </g></svg>
+  </span>
+  <span class="text">email</span>
+</a>
+</li>
+</ul></div>  </div>
+</div><div class="field-group-format group_content_body group-content-body field-group-simplediv"><div class="field-group-format group-primary-media field-group-primary-media primary-media-active-field-primary-image"><div class="primary-image">
+      <div id="file-83551" class="file file-image file-image-jpeg file-picture-caption">
+  
+  
+  <div class="content">    <span data-picture="" property="schema:image">
+<span data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_748/public/2015/07/150731_calais.jpg?itok=j6-j_R8s"  data-width="748" data-height="421"></span>
+<span data-media="screen and (min-width: 480px) and (max-width: 760px)" data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_748/public/2015/07/150731_calais.jpg?itok=j6-j_R8s"  data-width="748" data-height="421"></span>
+<span data-media="screen and (min-width: 760px) and (max-width: 990px)" data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_990/public/2015/07/150731_calais.jpg?itok=OlETq1Fw"  data-width="990" data-height="557"></span>
+<span data-media="screen and (max-width: 480px)" data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/2015/07/150731_calais.jpg?itok=DS0Xrj8q"  data-width="465" data-height="262"></span>
+<span data-media="screen and (min-width: 990px)" data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_544/public/2015/07/150731_calais.jpg?itok=r2oELV81"  data-width="544" data-height="306"></span>
+<span data-media="screen and (min-width: 1200px)" data-src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_710/public/2015/07/150731_calais.jpg?itok=DNiXkpsk"  data-width="710" data-height="399"></span>
+<noscript><img property="schema:image" src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_748/public/2015/07/150731_calais.jpg?itok=j6-j_R8s" alt="" /></noscript>
+</span><div class="field-group-format group_media_caption group-media-caption field-group-simplediv"><div class="field field-name-field-file-credits field-type-text field-label-hidden">  
+  <div class="field-items">      <div class="field-item even">Philippe Huguen/AFP/Getty</div>    </div></div><div class="field field-name-field-file-description field-type-text-long field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><p> Striking French ferry workers block access to the harbour in Calais </p>
+</div>    </div></div></div>  </div>
+</div>  </div>
+</div><div id="inline-dfp-mobile-1" class="inline-dfp"><div id="dfp-ad-mobile_1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mobile_1" class="dfp-tag-wrapper dfp-tag-mobile">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mobile_1");
+    });
+  </script>
+</div>
+</div></div><div class="field field-name-body">
+            <div class="field-item even" property="schema:articleBody">
+        <p> British businesses are feeling the strain of measures police have taken to manage the knock-on effects of strikes and closures in Calais. </p>
+<div class="field field-name-field-related-articles field-type-node-reference field-label-above">      <div class="field-label">See related&nbsp;</div>
+  
+  <div class="field-items">      <div class="field-item even"><a href="/64258/calais-chaos-alternative-ways-to-cross-the-channel">Calais crisis: alternative ways to cross the Channel</a></div>    </div></div><p>Amid headlines that point to a growing humanitarian crisis at the French port, <a href="http://www.kent.police.uk/news/latest_news/000000_op_stack.html" target="_blank">Kent Police</a> confirmed this morning that Operation Stack remains in place on the M20 motorway in Kent and is expected to continue "into the weekend".</p>
+<p>The process of closing a lane to accommodate lorries queueing to cross the Channel has been deployed on what the Freight Transport Association described to the <a href="http://www.bbc.co.uk/news/uk-england-kent-33688822" target="_blank">BBC</a> as an "unprecendented" scale in June and July. But what are the consequences in terms of costs for the businesses affected?</p>
+<p>The FTA has said the bill for the UK as a whole could be as much as £250m a day. The Guardian says this figure [3] is based on study commissioned by the port of Dover but yet to be released, which calculated the annual value of goods in the 2.2m freight vehicles travelling via Dover and Calais to be £89bn – £243m for each day.</p>
+<p>In fact the figure could be higher still. Dover claims freight traffic has expanded "considerably" since the study and that it only takes into account ferries, which represent 63 per cent of Channel crossings. The real figure could on this basis be as much as £160bn, which would equate to £440m a day.</p>
+<p>But <a href="http://www.theguardian.com/uk-news/2015/jul/30/calais-crisis-cost-uk-250m-a-day-trade" target="_blank">The Guardian</a> adds the numbers are "vastly improbable" and do not take account of the fact Calais has only been fully closed for a few days, many ferries are diverted to other ports and that Eurotunnel, for all its own problems, has broadly continued to operate.</p>
+<p>It says the FTA is on "safer ground" with estimates of costs to hauliers of £750,000 a day through delays and spoiled loads, "with £2m of fresh produce having to be dumped each week".</p>
+<p>This rough estimate is supported by the claims of companies themselves, with the owner of Lincolnshire-based Denby Transport telling <a href="http://www.itv.com/news/calendar/2015-07-30/haulier-calais-crisis-is-costing-us-tens-of-thousands/" target="_blank">ITV News</a> his own company has lost "tens of thousands" of pounds and Welsh haulage firm MCL Logistics telling the BBC it is facing a bill of £100,000 a month.</p>
+<p>All of this does not count the costs landing on public services, which are also considerable. The <a href="http://www.bbc.co.uk/news/uk-wales-south-east-wales-33724889" target="_blank">BBC</a> says Operation Stack has so far cost Kent Police around £700,000, while the Government has said it will spend up to £7m improving security around the tunnel to deal with migrants attempting to illegally enter the UK.</p>
+<h3>Eurostar targeted in Paris as migrant crisis deepens</h3>
+<p>30 July</p>
+<p>In a sign that migrants attempting to reach the UK may be changing strategy, a young Egyptian was taken to hospital yesterday afternoon after the incident at Gare du Nord.  </p>
+<p>According to <a href="http://www.lefigaro.fr/actualite-france/2015/07/29/01016-20150729ARTFIG00378-paris-un-egyptien-electrocute-sur-le-toit-d-un-train.php" target="_blank">Le Figaro</a>, the man jumped from the roof of a regional train, hit an overhead power line and received an electric shock.</p>
+<p>Eurostar trains are divided from other platforms at Gare du Nord by a high fence, and this incident will raise concerns that migrants have identified the terminal as another means of reaching England.</p>
+<p>Meanwhile there are growing calls in the UK for the British Army to be deployed to deal with the worsening crisis, after it was revealed yesterday that a Sudanese man had been crushed to death under the wheels of a lorry while trying to storm the Channel Tunnel.</p>
+<p>Tory MP Andrew Percy told the <a href="//www.dailymail.co.uk/news/article-3179285/As-Cameron-preaches-abroad-slave-labour-migrants-besiege-Tunnel-join-black-economy-MPs-demand-Calais-Send-Army.html" target="_blank">Daily Mail</a>: "It is clear the current arrangements are not working and the French are unable to guard against these infringements of our border.</p>
+<p>"It is time we considered more radical options, including the use of the Army. The British people expect our border to be secure and the Government must do whatever it takes to achieve this."</p>
+<p>His comments were echoed by Ukip leader Nigel Farage, who told LBC Radio: "To make sure we've actually got the manpower to check lorries coming in to stop people illegally coming to Britain... we can use the Army or other forces."</p>
+<p>British exasperation with the French authorities is growing, although neither David Cameron nor Home Secretary Theresa May has publicly criticised their counterparts across the Channel.</p>
+<p>That was left to Tory MP Crispin Blunt, chairman of the Commons foreign affairs select committee, who is quoted in <a href="http://www.thetimes.co.uk/tto/news/uk/article4512319.ece" target="_blank">The Times</a> as saying: "If this was reversed and these migrants were in Britain trying to get into France, we would have taken our responsibilities more seriously than the French. These people would have been detained and deported."</p>
+<h3>Calais crisis: man dies as 1,500 migrants storm Channel tunnel</h3>
+<p>29 July</p>
+<p>A migrant has died after more than 1,500 migrants attempted to enter the Channel tunnel in yet another example of the escalating crisis in Calais.</p>
+<p>The victim, who is believed to be a Sudanese national in his late twenties, was reportedly hit by a lorry. He is the eighth migrant to have been killed at the tunnel since June, <a href="http://news.sky.com/story/1526876/pm-calais-migrant-crisis-is-very-concerning" target="_blank">Sky News</a> reports.</p>
+<div class="field field-name-field-related-articles field-type-node-reference field-label-above">      <div class="field-label">See related&nbsp;</div>
+  
+  <div class="field-items">      <div class="field-item even"><a href="/64258/calais-chaos-alternative-ways-to-cross-the-channel">Calais crisis: alternative ways to cross the Channel</a></div>    </div></div><p>Home Secretary Theresa May will chair an emergency Cobra meeting later today to discuss the crisis, as the British government pledges an additional £7m to boost security at the French port.</p>
+<p>Although the extra funding will pay for 1.2 miles of new fencing at the Eurotunnel site at Coquelles, French authorities and Eurotunnel have urged the government to do more to stem the crisis.</p>
+<p>David Cameron, speaking while on a state visit to Singapore, said he was "very concerned" about the situation, but advised against "trying to point fingers of blame". </p>
+<p>There are currently up to 3,000 people, including women and children, living in squalid camps in Calais dubbed 'The Jungle'.</p>
+<p>"The situation is getting worse and worse, as the migrants have to find ever more dangerous routes to try and get to Great Britain," Cecile Bossy, a medical volunteer told <a href="http://www.theguardian.com/world/2015/jul/27/migrant-camp-fortress-calais-jungle" target="_blank">The Guardian</a>.</p>
+<p>The crisis has escalated in recent months with a surge in new arrivals from Africa and the Middle East. The situation has also been exacerbated by a ferry workers' strike that began more than a month ago.</p>
+<p>The latest incident has led to significant delays to Eurotunnel services and the reintroduction of Kent Police's Operation Stack which has led to long delays for lorries on sections of the M20, says the <a href="http://www.bbc.co.uk/news/uk-33699141" target="_blank">BBC</a>.</p>
+<p>Ukip leader Nigel Farage has suggested that British troops be sent to Calais to help search vehicles for illegal immigrants. "In all civil emergencies like this we have an army [to help] a very, very overburdened police force and border agency," he told LBC.</p>
+<p>But last week, Eurotunnel spokesperson John Keefe urged politicians to address the situation as a humanitarian crisis – not simply a border security issue.<br />
+"Everyone talks about 'the migrants' in a broad generalisation, but these are individuals with stories and lives, in many cases tragic histories that have brought them to this point," he told <a href="http://www.independent.co.uk/travel/news-and-advice/calais-migrant-crisis-could-impact-on-british-economy-amid-summer-of-travel-chaos-10415973.html" target="_blank">The Independent</a>.</p>
+<p>"They're living in dreadful conditions around Calais, and they just want one thing, which is to get to the UK."</p>
+<h3>Calais ferry strike 'costing UK £250m a day'</h3>
+<p>3 July 2015</p>
+<p>The French ferry strike, which has shut down the Port of Calais for more than three days, is said to be costing the UK £250m a day.</p>
+<p>MyFerryLink workers walked out on Monday over the sale of the company's ferries to rival company DFDS Seaways, causing disruption for lorry drivers on both sides of the Channel.</p>
+<p>The bustling Port of Dover normally sees £100bn of trade go through its docks each year, according to the <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/11714921/French-ferry-strike-costs-UK-250m-a-day.html" target="_blank">Daily Telegraph</a>. The Port told the newspaper that this week's chaos was costing the UK at least £250m a day.</p>
+<p>A 17-mile stretch of the M20 motorway in Kent has been turned into a giant lorry park, as more than 5,000 lorry drivers queue up.</p>
+<p>With Britain experiencing blisteringly hot weather conditions, thousands of bottles of water and snack packs have been handed out to drivers as they face an indefinite wait to board ferries and shuttle trains to France.</p>
+<p>It comes as the UK and French governments agreed to increase the joint intervention fund to improve security around the port and the Channel Tunnel, following scenes of migrants attempting to get into the UK. The Home Office would not comment on how much extra money would be committed to the fund under the agreement between Home Secretary Theresa May and her French counterpart Bernard Cazeneuve.</p>
+<p>In a joint statement, the governments declared: "In light of the increased migration crisis in the Mediterranean and its repercussion on Calais, where there are currently 3,000 migrants, the two ministers decided to further strengthen co-operation, notably by increasing the intervention fund."</p>
+<p>Meanwhile, the ever-controversial Paddy Power has again found its way into the headlines, after releasing a poster mocking the Calais immigration crisis. The bookmaker parked a lorry at the border at Calais and the White Cliffs of Dover featuring a giant poster that read "immigrants, jump in the back! (But only if you're good at sport)".</p>
+<p>The <a href="http://www.telegraph.co.uk/news/politics/labour/11714333/Harriet-Harmans-son-part-of-team-behind-controversial-poster-mocking-Calais-immigration-crisis.html" target="_blank">Daily Telegraph</a> says Harry Dromey, the son of acting Labour leader Harriet Harman, works for the advertising team responsible for the poster. However, Paddy Power insists Dromey had "zero involvement" in the project.</p>
+<h3>EU leaders urged to admit 'scale of the migration tragedy'</h3>
+<p>25 June </p>
+<p>Illegal migration will be a key issue at today's Brussels summit of European leaders, following chaos at Calais, where hundreds of migrants have been attempting to get into the UK on vehicles queuing to cross the Channel.</p>
+<div class="field field-name-field-related-articles field-type-node-reference field-label-above">      <div class="field-label">See related&nbsp;</div>
+  
+  <div class="field-items">      <div class="field-item even"><a href="/64258/calais-chaos-alternative-ways-to-cross-the-channel">Calais crisis: alternative ways to cross the Channel</a></div>    </div></div><p> The <a href="http://www.dailymail.co.uk/news/article-3138279/350-Calais-stowaways-turfed-UK-bound-lorries-four-hours-port-siege.html" target="_blank">Daily Mail</a> claims that "overwhelmed" border guards caught 350 "stowaways bound for Britain" in the space of just four hours on Tuesday. Migrants attempted to break into the backs of cars and lorries that were left queuing for hours due to a strike by French ferry workers over job cuts.</p>
+<p>One Ukip MEP, Nathan Gill, claimed there was a lack of political will in France to deal with it. "They are turning a blind eye," he told the <a href="http://www.express.co.uk/news/uk/586722/Calais-French-problem-chaos" target="_blank">Daily Express</a>.</p>
+<p>Today, Prime Minister David Cameron will be among EU leaders meeting in Brussels to discuss the migrant crisis.</p>
+<p>It comes amid a dramatic increase in deaths of migrants and refugees in the <a href="/63401/italy-navy-threat-as-eu-debates-mediterranean-migrant-quotas" target="_self">Mediterranean</a> this year, with many fleeing instability and war in countries such as Syria and Libya.</p>
+<p>According to the United Nations, the world currently has the highest number of displaced people seen in modern times, with four million refugees from Syria alone, mostly in Turkey and Jordan.</p>
+<p><a href="http://www.theguardian.com/commentisfree/2015/jun/24/the-guardian-view-on-the-calais-migrants-europes-shared-challenge" target="_blank">The Guardian</a> points out that the scenes in Calais will "feed the prevailing narrative of fear about illegal immigration", but actually most illegal migrants enter Britain legally through Heathrow airport on visas that they later breach by overstaying.</p>
+<p>The migrants outside Calais are "overwhelmingly fleeing war, oppression and poverty in search of opportunity and security". More than 3,000 are living in "increasingly squalid conditions" outside the French port, says the newspaper.</p>
+<p>In an editorial, it urges EU leaders to "admit the scale of the migration tragedy and to accept greater responsibility towards some of its victims". The UK should accept a "fairer share" of refugees, it adds. "The human misery and people smuggling in the Mediterranean demand concerted action."</p>
+<h3>Calais crisis: desperate migrants exploit strike chaos at French port</h3>
+<p>24 June</p>
+<p>Security at the ports of Calais and Dover is being increased after desperate migrants took advantage of the travel chaos induced by strike action to try to reach Britain.</p>
+<p>Hundreds of migrants attempted to break into the backs of cars and lorries that were left queuing for hours due to a wildcat strike by French ferry workers over job cuts. </p>
+<p>The industrial action also brought Eurostar, Eurotunnel and ferry services to a standstill, delaying thousands of travellers. All cross-channel services are now running as normal. </p>
+<p>Immigration minister James Brokenshire described the situation as "hugely regrettable" and said additional security staff would be deployed to Dover. </p>
+<p>"We have been advised the French authorities are sending further policing to deal with law and order issues, and we will be keeping in close contact with them in the hours ahead," he told the <a href="http://www.bbc.co.uk/news/uk-politics-33249546" target="_blank">BBC</a>. </p>
+<p>But the chaos has sparked a diplomatic spat, with Brokenshire arguing that it is "ultimately" up to French authorities to "assure security and safety" at the port. </p>
+<p>The deputy mayor of Calais, Philippe Mignonet, has in turn blamed Britain for the migrant crisis and accused the government of "showing that they despise the people of Calais". </p>
+<p>This comes as aid as aid agencies warned of "catastrophic" conditions at the camps in Calais, dubbed "the jungle", where migrants lack basic sanitation, food and water and are becoming increasingly desperate. </p>
+<p>There are now over 3,000 men, women and children living in the squalid camps, many of whom have fled conflict in the Middle East and Africa. Last week they took to the streets in protest holding banners saying: "we are not animals". </p>
+          </div>
+      </div><div id="inline-dfp-mpu-1-narrow" class="inline-dfp"><div id="dfp-ad-mpu_1_narrow-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mpu_1_narrow" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mpu_1_narrow");
+    });
+  </script>
+</div>
+</div></div><div id='boxes-box-subscribe_today' class='boxes-box'><div class="boxes-box-content"><!--smart_paging_autop_filter--><!--smart_paging_filter--> For further concise, balanced comment and analysis on the week's news, try The Week magazine. <a href="http://subscription.theweek.co.uk/subscribe/&amp;utm_source=WEK_content_site&amp;utm_medium=display&amp;utm_campaign=bottom_of_article/" title="Subscribe today and get 6 issues completely free.">Subscribe today and get 6 issues completely free.</a> </div></div><div class="field field-name-breadcrumb field-label-inline"><div class="field-items"><nav  class="breadcrumb item-list"><ol  class="breadcrumb-list" xmlns:v="http://rdf.data-vocabulary.org/#"><li class="first"><a href="/" rel="v:url" property="v:title">Home</a></li>
+<li><a href="/tags/calais">Calais</a></li>
+<li class="last">Calais crisis: how much is it costing UK business?</li>
+</ol></nav></div></div><div class="field-group-format group_tags  group-tags field-group-simplediv"><p class="group-label"><span>Read more: </span></p><div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/uk-business">UK business</a></div>    </div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/tags/calais">Calais</a></div>      <div class="field-item odd"><a href="/tags/uk-immigration-0">UK immigration</a></div>      <div class="field-item even"><a href="/eu-immigration">EU immigration</a></div>    </div></div><div class="field field-name-field-category-secondary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/uk-news">UK News</a></div>      <div class="field-item odd"><a href="/europe">Europe</a></div>    </div></div></div></div>  </div>
+
+    <div id="node-bottom" class="region region-node-bottom node-bottom">
+    <div id="block-theweek-topics-next-prev-links" class="block block-theweek-topics">
+
+      
+  </div>
+<div id="block-dfp-mpu-2-narrow" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mpu_2_narrow-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mpu_2_narrow" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mpu_2_narrow");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-taboola-taboola-block2" class="block block-taboola">
+
+      
+    <div class="content">
+    <div id="taboola-below-article-thumbnails"></div>  </div>
+  </div>
+<div id="block-dfp-mobile-2" class="block block-dfp block-dfp-mobile">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mobile_2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mobile_2" class="dfp-tag-wrapper dfp-tag-mobile">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mobile_2");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-disqus-disqus-comments" class="block block-disqus">
+
+      
+    <div class="content">
+    <div id="disqus_thread"><noscript><p><a href="http://dennis-theweek.disqus.com/?url=http%3A%2F%2Fwww.theweek.co.uk%2Fcalais%2F64108%2Fcalais-crisis-how-much-is-it-costing-uk-business">View the discussion thread.</a></p></noscript></div>  </div>
+  </div>
+<div id="block-theweek-related-content-related-block-cached" class="block block-theweek-related-content">
+
+      <p class="block-title"><span class="silver">Related</span> Articles</p>
+    
+    <div class="content">
+        <ul class="view-rows">
+    <li class="first odd">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/fracking/56818/fracking-censored-report-highlights-house-price-threat"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150702-fracking.jpg?itok=WXT7-sca" alt="Fracking" title="Fracking" /></a>
+<h5 class="upper"><a href="/fracking">Fracking</a></h5>
+<a class="related-block-title short-title" href="/fracking/56818/fracking-censored-report-highlights-house-price-threat">Fracking roll-out in UK faces 16-month delay</a>
+<a class="tile-clickable" href="/fracking/56818/fracking-censored-report-highlights-house-price-threat"></a>
+</div>      </li>
+      <li class="even">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/rbs/63960/rbs-share-sale-could-begin-in-the-next-few-days"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150731-rbs.jpg?itok=2fYw4E1h" /></a>
+<h5 class="upper"><a href="/tags/rbs">RBS</a></h5>
+<a class="related-block-title short-title" href="/rbs/63960/rbs-share-sale-could-begin-in-the-next-few-days">RBS share sale could begin 'in the next few days'</a>
+<a class="tile-clickable" href="/rbs/63960/rbs-share-sale-could-begin-in-the-next-few-days"></a>
+</div>      </li>
+      <li class="odd">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/calais/64108/calais-crisis-how-much-is-it-costing-uk-business"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150731_calais.jpg?itok=mkSvdaPc" alt="Striking French ferry workers block access to the harbour in Calais" title="Striking French ferry workers block access to the harbour in Calais" /></a>
+<h5 class="upper"><a href="/tags/calais">Calais</a></h5>
+<a class="related-block-title short-title" href="/calais/64108/calais-crisis-how-much-is-it-costing-uk-business">Calais crisis: how much is it costing UK business?</a>
+<a class="tile-clickable" href="/calais/64108/calais-crisis-how-much-is-it-costing-uk-business"></a>
+</div>      </li>
+      <li class="even">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/the-budget/60652/minimum-wage-rise-osbornes-living-wage-plan-criticised"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150708_george_osborne_budget-2.jpg?itok=9EzVA2uF" alt="George Osborne with the Budget outside 11 Downing Street" title="George Osborne with the Budget outside 11 Downing Street" /></a>
+<h5 class="upper"><a href="/the-budget">The Budget</a></h5>
+<a class="related-block-title short-title" href="/the-budget/60652/minimum-wage-rise-osbornes-living-wage-plan-criticised">Businesses line up against minimum wage rise</a>
+<a class="tile-clickable" href="/the-budget/60652/minimum-wage-rise-osbornes-living-wage-plan-criticised"></a>
+</div>      </li>
+      <li class="odd">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/energy-prices/55674/energy-prices-how-to-save-money-on-gas-and-electricity"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/131113-hob.jpg?itok=xp4ZSlbw" alt="Gas hob" title="Gas hob" /></a>
+<h5 class="upper"><a href="/energy-prices">Energy Prices</a></h5>
+<a class="related-block-title short-title" href="/energy-prices/55674/energy-prices-how-to-save-money-on-gas-and-electricity">Energy prices: how to save money on electricity and gas</a>
+<a class="tile-clickable" href="/energy-prices/55674/energy-prices-how-to-save-money-on-gas-and-electricity"></a>
+</div>      </li>
+      <li class="even">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/santander/64594/will-santander-uk-listing-ever-go-ahead"><img src="http://cdn2.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/images/426-santander--127253342337973400.jpg?itok=L_8Y453i" alt="santander" title="santander" /></a>
+<h5 class="upper"><a href="/tags/santander">Santander</a></h5>
+<a class="related-block-title short-title" href="/santander/64594/will-santander-uk-listing-ever-go-ahead">Will Santander UK listing ever go ahead?</a>
+<a class="tile-clickable" href="/santander/64594/will-santander-uk-listing-ever-go-ahead"></a>
+</div>      </li>
+      <li class="odd">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/barclays/64303/barclays-profit-jump-fails-to-quell-thirst-for-cuts"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150729-macfarlane.jpg?itok=698gcYGx" alt="John Macfarlane - Barclays" title="John Macfarlane - Barclays" /></a>
+<h5 class="upper"><a href="/tags/barclays">Barclays</a></h5>
+<a class="related-block-title short-title" href="/barclays/64303/barclays-profit-jump-fails-to-quell-thirst-for-cuts">Barclays profit jump fails to quell thirst for cuts</a>
+<a class="tile-clickable" href="/barclays/64303/barclays-profit-jump-fails-to-quell-thirst-for-cuts"></a>
+</div>      </li>
+      <li class="last even">
+        
+          <div class="container tile-clickable-container">
+<a class="teaser-image" href="/64572/pensioners-are-taking-record-equity-from-their-homes"><img src="http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_430/public/2015/07/150728-pensions.jpg?itok=dJk0TeaY" alt="Pensioners" title="Pensioners" /></a>
+<h5 class="upper"><a href="/one-minute-read">One-Minute Read</a></h5>
+<a class="related-block-title short-title" href="/64572/pensioners-are-taking-record-equity-from-their-homes">Pensioners are taking 'record' equity from their homes</a>
+<a class="tile-clickable" href="/64572/pensioners-are-taking-record-equity-from-their-homes"></a>
+</div>      </li>
+    </ul>
+  </div>
+  </div>
+<div id="block-dfp-mobile-3" class="block block-dfp block-dfp-mobile">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mobile_3-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mobile_3" class="dfp-tag-wrapper dfp-tag-mobile">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mobile_3");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-dfp-mpu-3-narrow" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mpu_3_narrow-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-mpu_3_narrow" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mpu_3_narrow");
+    });
+  </script>
+</div>
+</div>  </div>
+  </div>
+  </div>
+
+    </div>
+  </div>
+  </div>
+  </div>
+      
+      
+      
+    </main>
+
+          <aside class="sidebars">
+                          <div id="sidebar-second" class="region region-sidebar-second sidebar sidebar-second">
+    <div id="block-dfp-mpu-1" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mpu_1-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-mpu_1" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    (function($, w, d) {
+      (typeof w.matchMedia === 'undefined') && googletag.display("dfp-ad-mpu_1");
+      $(w).bind('savvior:redraw', function (e) {
+        googletag.cmd.push(function() {
+          googletag.display("dfp-ad-mpu_1");
+        });
+      });
+    }(jQuery, window, document));
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-views-latest-issue-article-block" class="block block-views">
+
+      
+    <div class="content">
+    <a href="http://subscription.theweek.co.uk/subscribe/&utm_source=WEK_content_site&utm_medium=display&utm_campaign=right_rail">        
+          <img src="http://cdn2.theweek.co.uk/sites/theweek/files/styles/latest_issue_270/public/2015/07/latest_issue_1033.jpg?itok=lzRoWqSZ" />    <div class="subs-content">
+<p class="text title">Get 6 issues free</p>
+<p class="text subtitle">of The Week Magazine </p>
+<span class="cta">Subscribe</span>
+</div>
+</a>
+  </div>
+  </div>
+<div id="block-taboola-taboola-block1" class="block block-taboola">
+
+      
+    <div class="content">
+    <div id="taboola-right-rail-thumbnails"></div>  </div>
+  </div>
+<div id="block-theweek-round-up-business-briefing-sidebar" class="block block-theweek-round-up">
+
+      
+    <div class="content">
+    <div class="block-title-wrapper">
+  <h4 class="block-title"><a href="/pm/friday-31-july-2015">Business Briefing</a></h4>
+  <p class="block-title-desc">Views from both sides of the Atlantic</p>
+  
+          <div class="partnership-top"><a href="/pm/friday-31-july-2015" class="partnership-link"><span class="partnership-text aa">In association with </span><span class="partnership-logo aa">American Airlines</span></a></div></div>
+
+<div class="field field-name-field-items field-type-field-collection field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-items clearfix" about="/field-collection/field-items/18521" typeof="">
+  <div class="content">
+    <div class="field field-name-field-item-title field-type-text field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/pm/friday-31-july-2015#story-1">LinkedIn investors sign out as losses widen</a></div>    </div></div>  </div>
+</div>
+</div>      <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-items clearfix" about="/field-collection/field-items/18520" typeof="">
+  <div class="content">
+    <div class="field field-name-field-item-title field-type-text field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/pm/friday-31-july-2015#story-2">Oil price slump pummels Chevron profits</a></div>    </div></div>  </div>
+</div>
+</div>      <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-items clearfix" about="/field-collection/field-items/18522" typeof="">
+  <div class="content">
+    <div class="field field-name-field-item-title field-type-text field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/pm/friday-31-july-2015#story-3">Buzzfeed investment yields $1.5bn valuation</a></div>    </div></div>  </div>
+</div>
+</div>    </div></div>
+                <div class="more-link">
+                  <a href="/pm/friday-31-july-2015" class="read-more">Read More</a>
+                </div>
+                </div>
+  </div>
+<div id="block-dfp-mpu-2" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mpu_2-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-mpu_2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    (function($, w, d) {
+      (typeof w.matchMedia === 'undefined') && googletag.display("dfp-ad-mpu_2");
+      $(w).bind('savvior:redraw', function (e) {
+        googletag.cmd.push(function() {
+          googletag.display("dfp-ad-mpu_2");
+        });
+      });
+    }(jQuery, window, document));
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-views-popular-block" class="block block-views">
+
+      <h4 class="block-title">Popular</h4>
+    
+    <div class="content">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-efddb05be7f305ec91cb4c0c9a59290e">
+        
+  
+  
+      <div class="view-content">
+        <ul class="view-rows">
+    <li class="first odd">
+      
+<div class="node node-article node-promoted odd node-popular">
+
+          <h5 class="title"><span><a href="/iphone-7/62138/iphone-7-13-new-features-for-business-users">iPhone 7: 14 new features for business users</a></span></h5>
+      
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/technology">Technology</a></div>    </div></div>  </div>
+
+  
+</div>
+    </li>
+      <li class="even">
+      
+<div class="node node-article node-promoted even node-popular">
+
+          <h5 class="title"><span><a href="/jeremy-clarkson/62887/jeremy-clarkson-fans-angered-by-80-charge-for-new-top-gear">Jeremy Clarkson fans angered by £80 cost of new Top Gear</a></span></h5>
+      
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/motoring">Motoring</a></div>    </div></div>  </div>
+
+  
+</div>
+    </li>
+      <li class="odd">
+      
+<div class="node node-article node-promoted odd node-popular">
+
+          <h5 class="title"><span><a href="/mh370/57641/mh370-major-lead-as-debris-washes-up-on-reunion-island">MH370: debris &#039;very likely&#039; to be part of plane – but does it solve mystery?</a></span></h5>
+      
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/world-news">World News</a></div>    </div></div>  </div>
+
+  
+</div>
+    </li>
+      <li class="even">
+      
+<div class="node node-article node-promoted even node-popular">
+
+          <h5 class="title"><span><a href="/labour-leader/62858/labour-leader-corbyn-win-could-spark-david-miliband-return">Labour leader: Corbyn win &#039;could spark David Miliband return&#039;</a></span></h5>
+      
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/politics">Politics</a></div>    </div></div>  </div>
+
+  
+</div>
+    </li>
+      <li class="last odd">
+      
+<div class="node node-article node-promoted odd node-popular">
+
+          <h5 class="title"><span><a href="/oil-price/60838/oil-price-shell-says-downturn-could-last-years-as-it-slashes-jobs">Oil price drop forces huge cut in new projects</a></span></h5>
+      
+  
+  <div class="content">
+
+    
+    
+    <div class="field field-name-field-category-primary field-type-taxonomy-term-reference field-label-hidden">  
+  <div class="field-items">      <div class="field-item even"><a href="/markets">Markets</a></div>    </div></div>  </div>
+
+  
+</div>
+    </li>
+    </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  </div>
+<div id="block-dfp-mpu-3" class="block block-dfp">
+
+      
+    <div class="content">
+    <div id="dfp-ad-mpu_3-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-mpu_3" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    (function($, w, d) {
+      (typeof w.matchMedia === 'undefined') && googletag.display("dfp-ad-mpu_3");
+      $(w).bind('savvior:redraw', function (e) {
+        googletag.cmd.push(function() {
+          googletag.display("dfp-ad-mpu_3");
+        });
+      });
+    }(jQuery, window, document));
+  </script>
+</div>
+</div>  </div>
+  </div>
+<div id="block-menu-menu-trending-topics" class="block block-menu">
+
+      <p class="block-title">Trending Topics</p>
+    
+    <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.theweek.co.uk/grexit/62554/greece-crisis-what-exactly-is-tsipras-offering-the-eurozone">Greek crisis</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/jeremy-clarkson/62887/jeremy-clarksons-last-top-gear-to-air-on-sunday">Jeremy Clarkson</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/oil-price/60838/oil-price-slump-will-not-stem-flow-of-us-oil-says-opec">Oil price</a></li>
+<li class="leaf"><a href="http://www.theweek.co.uk/royal-baby/60312/princess-charlotte-what-to-expect-at-the-royal-babys-christening">Royal Baby</a></li>
+<li class="leaf"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=78698340&amp;iu=/359/theweek.co.uk">Sponsored: Energy Matters</a></li>
+<li class="last leaf"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=74710740&amp;iu=/359/impcount.co.uk">Sponsored: Sustainable Investment</a></li>
+</ul>  </div>
+  </div>
+<div id="block-theweek-daily-briefing-daily-briefing" class="block block-theweek-daily-briefing">
+
+      
+    <div class="content">
+    <div class="block-title-wrapper">
+  <h2 class="title block-title"><a href="/ten-things-you-need-to-know-today" >Daily Briefing</a></h2>
+  <p class="block-title-desc">Ten things you need to know today</p>
+  <div class="partnership-top">
+    <a class="partnership-link" href="/ten-things-you-need-to-know-today"><span class="partnership-text rolex">In partnership with </span><span class="partnership-logo rolex">Rolex</span></a>
+  </div>
+</div>
+
+<ul>
+  <li class="odd first">
+  <a href="/ten-things-you-need-to-know-today#1">
+    <span class="daily-briefings-link">NHS doctors declare war on Jeremy Hunt</span>
+    </a>
+  </li>
+  <li class="even">
+  <a href="/ten-things-you-need-to-know-today#2">
+    <span class="daily-briefings-link">Crashed jet ‘belonged to Bin Ladens’</span>
+    </a>
+  </li>
+  <li class="odd">
+  <a href="/ten-things-you-need-to-know-today#3">
+    <span class="daily-briefings-link">Zimbabwe wants to extradite Cecil man</span>
+    </a>
+  </li>
+</ul>
+
+<!-- Read more link - start -->
+  <a class="read-more" href="/ten-things-you-need-to-know-today" >Read more</a>
+<!-- Read more link - end -->
+  </div>
+  </div>
+<div id="block-onscroll-onscroll" class="block block-onscroll">
+
+      
+    <div class="content">
+    <div id="onscroll-container"></div><script type="text/javascript">
+var onScrOll=new Object();
+onScrOll.placeholder="onscroll-container";
+onScrOll.code="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL3d3dy5nb29nbGV0YWdzZXJ2aWNlcy5jb20vdGFnL2pzL2dwdC5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgZ29vZ2xldGFnID0gZ29vZ2xldGFnIHx8IHt9Owpnb29nbGV0YWcuY21kID0gZ29vZ2xldGFnLmNtZCB8fCBbXTsKZ29vZ2xldGFnLnNsb3RzID0gZ29vZ2xldGFnLnNsb3RzIHx8IHt9Ozwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Z29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uKCkgewogIGdvb2dsZXRhZy5wdWJhZHMoKS5lbmFibGVBc3luY1JlbmRlcmluZygpOwogIGdvb2dsZXRhZy5wdWJhZHMoKS5lbmFibGVTaW5nbGVSZXF1ZXN0KCk7CiAgZ29vZ2xldGFnLnB1YmFkcygpLmNvbGxhcHNlRW1wdHlEaXZzKHRydWUpOwogIGdvb2dsZXRhZy5wdWJhZHMoKS5zZXRDZW50ZXJpbmcodHJ1ZSk7CiAgZ29vZ2xldGFnLnB1YmFkcygpLnNldFRhcmdldGluZygiYXJ0aWNsZS10eXBlIiwgIm9uZS1taW51dGUtcmVhZCIpOwogIGdvb2dsZXRhZy5wdWJhZHMoKS5zZXRUYXJnZXRpbmcoInByaW1hcnktY2F0ZWdvcnkiLCAidWstYnVzaW5lc3MiKTsKICBnb29nbGV0YWcucHViYWRzKCkuc2V0VGFyZ2V0aW5nKCJjYXRlZ29yeSIsIFsidWstYnVzaW5lc3MiLCJ1ay1uZXdzIiwiZXVyb3BlIl0pOwogIGdvb2dsZXRhZy5wdWJhZHMoKS5zZXRUYXJnZXRpbmcoInRhZ3MiLCBbImNhbGFpcyIsInVrLWltbWlncmF0aW9uIiwiZXUtaW1taWdyYXRpb24iXSk7CiAgZ29vZ2xldGFnLnB1YmFkcygpLnNldFRhcmdldGluZygiYWQtY2F0ZWdvcnkiLCAiYWlybGluZS1zYWZlIik7CiAgZ29vZ2xldGFnLnB1YmFkcygpLnNldFRhcmdldGluZygiem9uZSIsICJjYWxhaXMiKTsKICBnb29nbGV0YWcucHViYWRzKCkuc2V0VGFyZ2V0aW5nKCJhcnRpY2xlIiwgIjY0MTA4Iik7CiAgZ29vZ2xldGFnLnB1YmFkcygpLnNldFRhcmdldGluZygibGl2ZSIsICJ5ZXMiKTsKICBnb29nbGV0YWcucHViYWRzKCkuc2V0VGFyZ2V0aW5nKCJvcmQiLCAiMTU4NTc3ODUwNiIpOwp9KTsKCmdvb2dsZXRhZy5lbmFibGVTZXJ2aWNlcygpOzwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Z29vZ2xldGFnLnNsb3RzWyJvbnNjcm9sbCJdID0gZ29vZ2xldGFnLmRlZmluZVNsb3QoIi8zNTkvdGhld2Vlay5jby51ay9jYWxhaXMiLCBbMzAwLCAyNTBdLCAiZGZwLWFkLW9uc2Nyb2xsIikKICAuYWRkU2VydmljZShnb29nbGV0YWcucHViYWRzKCkpCiAgLnNldFRhcmdldGluZygicG9zaXRpb24iLCAiNCIpOzwvc2NyaXB0Pgo8ZGl2IGlkPSJkZnAtYWQtb25zY3JvbGwtd3JhcHBlciIgY2xhc3M9ImRmcC10YWctd3JhcHBlciI+CjxkaXYgIGlkPSJkZnAtYWQtb25zY3JvbGwiIGNsYXNzPSJkZnAtdGFnLXdyYXBwZXIiPgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgZ29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uKCkgewogICAgICBnb29nbGV0YWcuZGlzcGxheSgiZGZwLWFkLW9uc2Nyb2xsIik7CiAgICB9KTsKICA8L3NjcmlwdD4KPC9kaXY+CjwvZGl2PjxzY3JpcHQgc3JjPSJodHRwOi8vY2RuLm9uc2Nyb2xsLmNvbS9tcy5vcy5qcyI+PC9zY3JpcHQ+";
+onScrOll.margin=600;
+onScrOll.marginTop=10;
+onScrOll.mode="sticky";
+onScrOll.height=250;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.campaignId="55310e7fa293718f79000002";
+onScrOll.creativeId="55310f90a293718f79000003";
+onScrOll.accountId="51dd21a0cfdab67330000019";
+</script><script async type="text/javascript" src="http://cdn.onscroll.com/onscroll.ms.js"></script>  </div>
+  </div>
+  </div>
+              </aside>
+    
+  </div> <!-- /#main -->
+</div> <!-- /#page -->
+
+<footer id="footer-wrapper">
+    <div id="footer" class="region region-footer footer">
+    <div id="block-theweek-footer-theweek-footer-top-link" class="block block-theweek-footer">
+
+      
+    <div class="content">
+    <a href="#">Back to top</a>  </div>
+  </div>
+<div id="block-menu-menu-footer-social" class="block block-menu">
+
+      
+    <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/theweekuk" class="facebook" target="_blank">Facebook</a></li>
+<li class="last leaf"><a href="http://www.twitter.com/TheWeekUK" class="twitter" target="_blank">Twitter</a></li>
+</ul>  </div>
+  </div>
+<div id="block-theweek-footer-theweek-footer-main-menu" class="block block-theweek-footer">
+
+      
+    <div class="content">
+    <ul class="links"><li class="menu-331 first"><a href="/news-opinion">News</a></li>
+<li class="menu-839"><a href="/business" title="">Business</a></li>
+<li class="menu-1013"><a href="/technology">Technology</a></li>
+<li class="menu-3322"><a href="/prosper"> Money</a></li>
+<li class="menu-230"><a href="/arts-life">Arts+Life</a></li>
+<li class="menu-231"><a href="/people">People</a></li>
+<li class="menu-596"><a href="/sport">Sport</a></li>
+<li class="menu-3642"><a href="/video" class="video">Videos</a></li>
+<li class="menu-3643 last"><a href="http://subscription.theweek.co.uk/subscribe/&amp;utm_source=WEK_content_site&amp;utm_medium=display&amp;utm_campaign=menu_link/" class="subscriptions">Subscriptions</a></li>
+</ul>  </div>
+  </div>
+<div id="block-theweek-footer-theweek-footer-useful-links" class="block block-theweek-footer">
+
+      
+    <div class="content">
+    <ul class="links"><li class="menu-1005 first"><a href="http://theweek.com/">The Week US</a></li>
+<li class="menu-247"><a href="http://www.dennis.co.uk/privacy" target="_blank">Privacy</a></li>
+<li class="menu-515"><a href="/rss-feeds">RSS</a></li>
+<li class="menu-492"><a href="/sitemap">Sitemap</a></li>
+<li class="menu-513"><a href="/website-contact-us">Contact us</a></li>
+<li class="menu-645"><a href="/authors">Authors</a></li>
+<li class="menu-514 last"><a href="/about-us">About us</a></li>
+</ul>  </div>
+  </div>
+<div id="block-boxes-dennis-sites-footer" class="block block-boxes block-boxes-simple">
+
+      
+    <div class="content">
+    <div id='boxes-box-dennis_sites_footer' class='boxes-box'><div class="boxes-box-content"><!--smart_paging_autop_filter--><!--smart_paging_filter--> <div class="copyright">
+      <p>© Copyright The Week Ltd which is a subsidiary of <a title="Hyperlink to The Dennis Publishimg web site" href="http://www.dennis.co.uk/"><span>Dennis Publishing</span></a> Limited.
+  <br />The Week incorporates <i>The First Post</i>. <i>The Week™</i> and <i>The First Post™</i> are trademarks of Felix Dennis.</p>
+</div>
+ </div></div>  </div>
+  </div>
+<div id="block-menu-menu-dennis-footer-external-link" class="block block-menu">
+
+      
+    <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.felixdennis.com/">Felix Dennis</a></li>
+<li class="leaf"><a href="http://www.dennis.co.uk/working-at-dennis">Jobs</a></li>
+<li class="leaf"><a href="http://www.dennis.co.uk/brands/the-week">Media Information</a></li>
+<li class="leaf"><a href="http://www.dennis.co.uk/subscriptions">Subscription Enquires</a></li>
+<li class="leaf"><a href="http://www.dennis.co.uk/books">Books</a></li>
+<li class="leaf"><a href="http://www.dennis.co.uk/apps">Apps</a></li>
+<li class="last leaf"><a href="http://www.youronlinechoices.eu" class="your-online-choices" target="_blank">Your Online Choices</a></li>
+</ul>  </div>
+  </div>
+  </div>
+</footer>
+
+</div>    <div id="page-bottom" class="region region-page-bottom page-bottom">
+    
+ <script>
+ <!--//--><![CDATA[//><!--
+  qcdata = {} || qcdata;
+  (function(){
+     var elem = document.createElement('script');
+     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-zxDb3fg08cw8W";
+     elem.async = true;
+     elem.type = "text/javascript";
+     var scpt = document.getElementsByTagName('script')[0];
+     scpt.parentNode.insertBefore(elem,scpt);
+   }());
+
+  var qcdata = {qacct: 'p-zxDb3fg08cw8W',
+                uid: 'cfcd208495d565ef66e7dff9f98764da'};
+ //--><!]]>
+</script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-zxDb3fg08cw8W.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><!-- Begin comScore Tag -->
+          <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "6036152", c3: "", c4: "http://www.theweek.co.uk/calais/64108/calais-crisis-how-much-is-it-costing-uk-business", c5: "", c6: "", c15: "" });
+            (function() {
+              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+              s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+              el.parentNode.insertBefore(s, el);
+            })();
+          </script>
+          <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036152&c3=&c4=http://www.theweek.co.uk/calais/64108/calais-crisis-how-much-is-it-costing-uk-business&c5=&c6=&c15=&cv=2.0&cj=1" />
+          </noscript>
+      <!-- End comScore Tag --><script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1006541808;
+    var google_conversion_label = "aSliCKCPiwMQ8Lf63wM";
+    var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006541808/?value=0&amp;label=aSliCKCPiwMQ8Lf63wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>  </div>
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/4895/cc.js?ns=_cc4895" id="LOTCC_4895"></script>
+<script type="text/javascript" src="http://thefirstpost.uk.intellitxt.com/ast/js/dennis/theweek.js"></script>
+<script type="text/javascript" src="http://cdn2.theweek.co.uk/sites/theweek/files/advagg_js/js__p7HyNHxTNYizVa45tDugqo8_e9nxNIifX2uy1H60rRI__cHidVNZz3b_S-FTpa9aJ98N-ilLaQXayEq8O42CVS1k__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.js"></script>
+<script type="text/javascript" src="http://cdn1.theweek.co.uk/sites/theweek/files/advagg_js/js__Uqw7yiqr6rLNuEBaO1bnkKMoo5wzSUtBcdsU8T7jIv4__SN4vRzZxVwDUCHnptLv2bL5VW9PXNK-u4IpqP80Hz5s__Pqqfy9AF5ifMZZ7r4OTmDWOlmyaSZ4V2IFody3xc3No.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+if(typeof(_cc4895)==="object")_cc4895.bcp();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var _mgo={host:'leadintelligence.co.uk',site:435,agency:26};var _mgs=document.createElement('script');_mgs.type='text/javascript';_mgs.src=('https:'==document.location.protocol?'https://':'http://')+'d2ry9vue95px0b.cloudfront.net/overlay.js';var scr=document.getElementsByTagName('script')[0];scr.parentNode.insertBefore(_mgs,scr);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName('script')[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8751.js";a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)},1);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var fby=fby||[]
+fby.push(['showTab',{id:'4440',position:'left',color:'#F00010'}]);(function(){var f=document.createElement('script');f.type='text/javascript';f.async=true;f.src='//cdn.feedbackify.com/f.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(f,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var impliedConsent=impliedConsent||{};impliedConsent.q=impliedConsent.q||[];impliedConsent.q.push(["init",{"noticeText":"\u003C!--smart_paging_autop_filter--\u003E\u003C!--smart_paging_filter--\u003E We use cookies as set out in our \u003Ca href=\u0022http:\/\/www.dennis.co.uk\/cookie-policy\u0022 target=\u0022_blank\u0022 title=\u0022Read more about our cookie policy\u0022\u003Ecookie policy\u003C\/a\u003E. By using this website, you agree we may place these cookies on your device. ","confirmText":"Close","validateByClick":true}]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window._taboola=window._taboola||[];_taboola.push({mode:'thumbnails-a',container:'taboola-below-article-thumbnails',placement:'Below Article Thumbnails',target_type:'mix'});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window._taboola=window._taboola||[];_taboola.push({mode:'thumbnails-b',container:'taboola-right-rail-thumbnails',placement:'Right Rail Thumbnails',target_type:'mix'});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window._taboola=window._taboola||[];_taboola.push({flush:true});
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c50bb2a122","applicationID":"967069,1688962","transactionName":"ZAFSYkdTXxECBRcMDl1LcVVBW14MTAgMAQRsFFFRUG1HCwYR","queueTime":0,"applicationTime":619,"atts":"SEZRFA9JTB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>
